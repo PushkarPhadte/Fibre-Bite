@@ -50,6 +50,13 @@
 			</div>
 		</div>
 	</a>
+	{#if recipe.imageAttribution}
+		<p class="border-t border-slate-100 px-5 py-2 text-xs text-slate-500">
+			Photo: <a class="underline hover:text-slate-800" href={recipe.imageAttribution.sourceUrl} target="_blank" rel="noreferrer">{recipe.imageAttribution.title}</a>
+			by <a class="underline hover:text-slate-800" href={recipe.imageAttribution.creatorUrl} target="_blank" rel="noreferrer">{recipe.imageAttribution.creator}</a>,
+			<a class="underline hover:text-slate-800" href={recipe.imageAttribution.licenseUrl} target="_blank" rel="noreferrer">{recipe.imageAttribution.license}</a>.
+		</p>
+	{/if}
 	<button type="button" aria-label={isSaved ? 'Remove from saved recipes' : 'Save recipe'} aria-pressed={isSaved} class="absolute right-4 top-4 rounded-full border border-white bg-white/90 p-2 text-slate-700 shadow-sm transition hover:scale-105" onclick={onFavoriteClick}>
 		<Heart size={18} class={isSaved ? 'fill-rose-500 text-rose-500' : 'text-slate-700'} />
 	</button>

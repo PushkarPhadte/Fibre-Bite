@@ -56,6 +56,15 @@ export const instructionStepSchema = z.object({
 	text: z.string().trim().min(1)
 });
 
+export const imageAttributionSchema = z.object({
+	title: z.string().trim().min(1),
+	creator: z.string().trim().min(1),
+	creatorUrl: z.string().url(),
+	sourceUrl: z.string().url(),
+	license: z.string().trim().min(1),
+	licenseUrl: z.string().url()
+});
+
 export const instructionStepsSchema = z.array(instructionStepSchema).min(1).superRefine((steps, context) => {
 	steps.forEach((step, index) => {
 		if (step.number !== index + 1) {
@@ -78,7 +87,8 @@ export const localRecipeFrontmatterSchema = z.object({
 	dietaryTags: z.array(dietaryTagSchema).default([]),
 	allergens: z.array(allergenSchema).default([]),
 	nutrition: nutritionSchema.optional(),
-	image: z.string().url().optional()
+	image: z.string().url().optional(),
+	imageAttribution: imageAttributionSchema.optional()
 });
 
 export type DietaryTag = z.infer<typeof dietaryTagSchema>;

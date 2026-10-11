@@ -45,6 +45,8 @@ Required fields are `title`, `slug`, `baseServings`, `ingredients`, and `instruc
 
 Keep each slug unique. Invalid fields and duplicate slugs fail the build with a file or slug error. Allergen tags describe the listed ingredients only; they are not a guarantee against cross-contamination or medical advice. Use an image URL that can be served publicly, and provide an accurate recipe title for its alt text.
 
+To add several recipes from structured data, use the [bulk recipe JSON format](docs/recipe-import-json.md) and run `pnpm recipes:import -- path/to/recipes.json`. Add `--dry-run` to validate the entire batch without writing files.
+
 ## Develop And Deploy
 
 Install dependencies with `pnpm install`. Run `pnpm dev` for local development, `pnpm check` for Svelte and TypeScript diagnostics, and `pnpm build` to validate content and generate the static website in `build/`. Deploy the contents of `build/` to any static hosting provider. Adding or editing a recipe requires a new build and deployment; there is no database to update.
