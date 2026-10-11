@@ -22,6 +22,16 @@ export const allergenSchema = z.enum([
 	'shellfish'
 ]);
 
+export const micronutrientsSchema = z.object({
+	vitaminCMg: z.number().nonnegative().optional(),
+	vitaminDMcg: z.number().nonnegative().optional(),
+	calciumMg: z.number().nonnegative().optional(),
+	ironMg: z.number().nonnegative().optional(),
+	potassiumMg: z.number().nonnegative().optional(),
+	magnesiumMg: z.number().nonnegative().optional(),
+	folateMcg: z.number().nonnegative().optional()
+});
+
 export const nutritionSchema = z.object({
 	calories: z.number().nonnegative().optional(),
 	protein: z.number().nonnegative().optional(),
@@ -29,7 +39,9 @@ export const nutritionSchema = z.object({
 	fat: z.number().nonnegative().optional(),
 	fiber: z.number().nonnegative().optional(),
 	sugar: z.number().nonnegative().optional(),
-	sodium: z.number().nonnegative().optional()
+	sodium: z.number().nonnegative().optional(),
+	micronutrients: micronutrientsSchema.optional(),
+	micronutrientEstimateSource: z.string().trim().min(1).optional()
 });
 
 export const ingredientSchema = z.object({
@@ -72,6 +84,8 @@ export const localRecipeFrontmatterSchema = z.object({
 export type DietaryTag = z.infer<typeof dietaryTagSchema>;
 export type Allergen = z.infer<typeof allergenSchema>;
 export type Nutrition = z.infer<typeof nutritionSchema>;
+export type Micronutrients = z.infer<typeof micronutrientsSchema>;
+export type MicronutrientKey = keyof Micronutrients;
 export type Ingredient = z.infer<typeof ingredientSchema>;
 export type InstructionStep = z.infer<typeof instructionStepSchema>;
 export type Recipe = z.infer<typeof localRecipeFrontmatterSchema> & { id: string };

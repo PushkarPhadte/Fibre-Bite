@@ -46,5 +46,13 @@ nutrition:
   fiber: 9
   sugar: 10
   sodium: 150
+  micronutrients:
+    calciumMg: 200
+    ironMg: 2.3
+    magnesiumMg: 90
+    potassiumMg: 390
+    vitaminCMg: 15
+    folateMcg: 35
+  micronutrientEstimateSource: "Approximate estimate based on USDA FoodData Central generic rolled oats and chia seed entries (FDC 2346396, 170554) plus generic estimates for other listed ingredients; household conversions, dairy brands, berries, and preparation vary."
 image: "https://images.unsplash.com/photo-1497888329096-51c27beff665?auto=format&fit=crop&w=1200&q=80"
 ---

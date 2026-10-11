@@ -46,5 +46,13 @@ nutrition:
   fiber: 3
   sugar: 2
   sodium: 320
+  micronutrients:
+    calciumMg: 13
+    ironMg: 1.1
+    magnesiumMg: 36
+    potassiumMg: 430
+    vitaminCMg: 7
+    folateMcg: 7
+  micronutrientEstimateSource: "Approximate estimate based on USDA FoodData Central generic chicken breast (FDC 171077) and listed recipe measures; household conversions are approximate, and herbs, seasoning, and cooking retention are not fully modeled."
 image: "https://images.unsplash.com/photo-1762631934518-f75e233413ca?auto=format&fit=crop&w=1200&q=80"
 ---

@@ -4,6 +4,7 @@
 	import { Search, ShieldAlert, SlidersHorizontal, X } from 'lucide-svelte';
 	import { allergyProfile, toggleProfileAllergen } from '$lib/allergy-profile.svelte';
 	import { getRecipeAllergens } from '$lib/recipe-swaps.svelte';
+	import { meetsMicronutrientThreshold, micronutrientOptions, type MicronutrientFilterKey } from '$lib/recipes/micronutrients';
 	import type { PageData } from './$types';
 	import RecipeCard from '$lib/components/RecipeCard.svelte';
 	import { allergenOptions, dietaryOptions, type Allergen, type DietaryTag } from '$lib/recipes/types';
@@ -13,6 +14,11 @@
 	let selectedDiet = $state<DietaryTag | ''>('');
 	let excludedAllergens = $state<Allergen[]>([]);
 	let selectedSort = $state<'' | 'title' | 'protein' | 'calories'>('');
+	let selectedMicronutrient = $state<MicronutrientFilterKey | ''>('');
+	let micronutrientThreshold = $state<10 | 20>(10);
+	let availableMicronutrients = $derived(micronutrientOptions.filter((option) =>
+		(data.recipes ?? []).some((recipe) => recipe.nutrition?.micronutrients?.[option.key] !== undefined)
+	));
 
 	$effect(() => {
 		query = page.url.searchParams.get('query') ?? '';
@@ -20,6 +26,9 @@
 		excludedAllergens = allergenOptions.filter((allergen) => page.url.searchParams.getAll('exclude').includes(allergen));
 		const sort = page.url.searchParams.get('sort');
 		selectedSort = sort === 'title' || sort === 'protein' || sort === 'calories' ? sort : '';
+		const micronutrient = page.url.searchParams.get('micronutrient');
+		selectedMicronutrient = availableMicronutrients.find((option) => option.key === micronutrient)?.key ?? '';
+		micronutrientThreshold = page.url.searchParams.get('microThreshold') === '20' ? 20 : 10;
 	});
 
 	let recipes = $derived.by(() => {
@@ -29,6 +38,7 @@
 			(!search || recipe.title.toLowerCase().includes(search) ||
 				recipe.ingredients.some((ingredient) => ingredient.name.toLowerCase().includes(search))) &&
 			(!selectedDiet || recipe.dietaryTags.includes(selectedDiet)) &&
+			(!selectedMicronutrient || meetsMicronutrientThreshold(recipe.nutrition?.micronutrients, selectedMicronutrient, micronutrientThreshold)) &&
 			!activeAllergens.some((allergen) => getRecipeAllergens(recipe).includes(allergen))
 		);
 
@@ -38,7 +48,7 @@
 		return filtered;
 	});
 
-	let activeCount = $derived(Number(Boolean(query.trim())) + Number(Boolean(selectedDiet)) + excludedAllergens.length + Number(Boolean(selectedSort)));
+	let activeCount = $derived(Number(Boolean(query.trim())) + Number(Boolean(selectedDiet)) + excludedAllergens.length + Number(Boolean(selectedSort)) + Number(Boolean(selectedMicronutrient)));
 
 	function toggleExcluded(allergen: Allergen) {
 		excludedAllergens = excludedAllergens.includes(allergen)
@@ -52,6 +62,10 @@
 		if (selectedDiet) params.set('diet', selectedDiet);
 		for (const allergen of excludedAllergens) params.append('exclude', allergen);
 		if (selectedSort) params.set('sort', selectedSort);
+		if (selectedMicronutrient) {
+			params.set('micronutrient', selectedMicronutrient);
+			params.set('microThreshold', String(micronutrientThreshold));
+		}
 		const search = params.toString();
 		void goto(search ? `/recipes?${search}` : '/recipes', { keepFocus: true, noScroll: true });
 	}
@@ -61,6 +75,8 @@
 		selectedDiet = '';
 		excludedAllergens = [];
 		selectedSort = '';
+		selectedMicronutrient = '';
+		micronutrientThreshold = 10;
 		void goto('/recipes', { keepFocus: true, noScroll: true });
 	}
 </script>
@@ -95,7 +111,7 @@
 			{/if}
 		</div>
 
-		<div class="mt-4 grid gap-4 sm:grid-cols-2 lg:grid-cols-[minmax(14rem,2fr)_minmax(10rem,1fr)_minmax(11rem,1fr)_minmax(9rem,0.8fr)]">
+		<div class="mt-4 grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
 			<label class="space-y-1.5 text-sm font-semibold text-slate-700">
 				Search by recipe or ingredient
 				<span class="relative block">
@@ -119,6 +135,22 @@
 					<option value="title">Name, A to Z</option>
 					<option value="protein">Protein, highest</option>
 					<option value="calories">Calories, lowest</option>
+				</select>
+			</label>
+			<label class="space-y-1.5 text-sm font-semibold text-slate-700">
+				Micronutrient
+				<select bind:value={selectedMicronutrient} class="w-full rounded-md border border-slate-300 bg-white px-3 py-2.5 font-normal outline-none focus:border-emerald-700 focus:ring-2 focus:ring-emerald-100">
+					<option value="">Any / no nutrient filter</option>
+					{#each availableMicronutrients as option}
+						<option value={option.key}>{option.label}</option>
+					{/each}
+				</select>
+			</label>
+			<label class="space-y-1.5 text-sm font-semibold text-slate-700">
+				Minimum Daily Value
+				<select bind:value={micronutrientThreshold} class="w-full rounded-md border border-slate-300 bg-white px-3 py-2.5 font-normal outline-none focus:border-emerald-700 focus:ring-2 focus:ring-emerald-100">
+					<option value={10}>At least 10% DV</option>
+					<option value={20}>At least 20% DV</option>
 				</select>
 			</label>
 			<div class="flex items-end">
