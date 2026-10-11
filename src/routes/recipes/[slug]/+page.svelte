@@ -1,10 +1,11 @@
 <script lang="ts">
 	import NutritionLabel from '$lib/components/NutritionLabel.svelte';
 	import ServingSelector from '$lib/components/ServingSelector.svelte';
+	import { isOnGroceryList, toggleGroceryList } from '$lib/grocery-list.svelte';
 	import { scaleNutrition } from '$lib/recipes/nutrition';
 	import { formatIngredient } from '$lib/recipes/units';
 	import { favorites, toggleFavorite } from '$lib/preferences.svelte';
-	import { Heart } from 'lucide-svelte';
+	import { Heart, ShoppingBasket } from 'lucide-svelte';
 	import type { PageData } from './$types';
 
 	let { data }: { data: PageData } = $props();
@@ -14,6 +15,7 @@
 	let multiplier = $derived(servings / (recipe.baseServings || 1));
 	let scaledNutrition = $derived(scaleNutrition(recipe.nutrition, multiplier));
 	let saved = $derived(favorites.ids.includes(recipe.id));
+	let onShoppingList = $derived(isOnGroceryList(recipe.id));
 
 	$effect(() => {
 		recipe.slug;
@@ -40,6 +42,10 @@
 					<button type="button" aria-pressed={saved} class="inline-flex items-center gap-2 rounded-md border border-slate-200 bg-white px-4 py-2 text-sm font-semibold text-slate-700 shadow-sm" onclick={() => toggleFavorite(recipe.id)}>
 						<Heart size={16} class={saved ? 'fill-rose-500 text-rose-500' : 'text-slate-700'} />
 						{saved ? 'Saved' : 'Save'}
+					</button>
+					<button type="button" aria-pressed={onShoppingList} class="inline-flex items-center gap-2 rounded-md border border-slate-200 bg-white px-4 py-2 text-sm font-semibold text-slate-700 shadow-sm" onclick={() => toggleGroceryList(recipe.id)}>
+						<ShoppingBasket size={16} class={onShoppingList ? 'fill-emerald-500 text-emerald-600' : 'text-slate-700'} />
+						{onShoppingList ? 'On list' : 'Add to list'}
 					</button>
 					<ServingSelector {servings} min={1} max={12} onChange={(value) => (selectedServings = value)} />
 				</div>

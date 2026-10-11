@@ -14,8 +14,15 @@
 
 <div class="mx-auto max-w-6xl px-6 py-10">
 	<div class="mb-8 rounded-lg bg-emerald-950 p-8 text-white shadow-lg">
-		<h1 class="font-display text-3xl font-semibold">Saved recipes</h1>
-		<p class="mt-2 text-emerald-100">Saved recipes stay in this browser on this device.</p>
+		<div class="flex flex-col gap-4 md:flex-row md:items-center md:justify-between">
+			<div>
+				<h1 class="font-display text-3xl font-semibold">Saved recipes</h1>
+				<p class="mt-2 text-emerald-100">Saved recipes stay in this browser on this device.</p>
+			</div>
+			{#if savedRecipes.length > 0}
+				<a href="/grocery-list" class="inline-flex items-center rounded-md bg-white px-4 py-2 text-sm font-bold text-emerald-900 transition hover:bg-emerald-50">Build grocery list</a>
+			{/if}
+		</div>
 	</div>
 
 	{#if savedRecipes.length === 0}

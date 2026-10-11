@@ -1,15 +1,23 @@
 <script lang="ts">
+	import { isOnGroceryList, toggleGroceryList } from '$lib/grocery-list.svelte';
 	import type { Recipe } from '$lib/recipes/types';
 	import { favorites, toggleFavorite } from '$lib/preferences.svelte';
-	import { ArrowRight, Heart } from 'lucide-svelte';
+	import { ArrowRight, Heart, ShoppingBasket } from 'lucide-svelte';
 
 	let { recipe }: { recipe: Recipe } = $props();
 	let isSaved = $derived(favorites.ids.includes(recipe.id));
+	let isOnList = $derived(isOnGroceryList(recipe.id));
 
 	function onFavoriteClick(event: MouseEvent) {
 		event.preventDefault();
 		event.stopPropagation();
 		toggleFavorite(recipe.id);
+	}
+
+	function onGroceryClick(event: MouseEvent) {
+		event.preventDefault();
+		event.stopPropagation();
+		toggleGroceryList(recipe.id);
 	}
 </script>
 
@@ -36,5 +44,8 @@
 	</a>
 	<button type="button" aria-label={isSaved ? 'Remove from saved recipes' : 'Save recipe'} aria-pressed={isSaved} class="absolute right-4 top-4 rounded-full border border-white bg-white/90 p-2 text-slate-700 shadow-sm transition hover:scale-105" onclick={onFavoriteClick}>
 		<Heart size={18} class={isSaved ? 'fill-rose-500 text-rose-500' : 'text-slate-700'} />
+	</button>
+	<button type="button" aria-label={isOnList ? 'Remove from grocery list' : 'Add to grocery list'} aria-pressed={isOnList} class="absolute right-14 top-4 rounded-full border border-white bg-white/90 p-2 text-slate-700 shadow-sm transition hover:scale-105" onclick={onGroceryClick}>
+		<ShoppingBasket size={18} class={isOnList ? 'fill-emerald-500 text-emerald-600' : 'text-slate-700'} />
 	</button>
 </div>

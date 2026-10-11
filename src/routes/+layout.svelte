@@ -1,12 +1,16 @@
 <script lang="ts">
 	import { onMount } from 'svelte';
-	import { Bookmark, Sprout } from 'lucide-svelte';
+	import { Bookmark, ShoppingBasket, Sprout } from 'lucide-svelte';
 	import './layout.css';
 	import favicon from '$lib/assets/favicon.svg';
+	import { initializeGroceryList } from '$lib/grocery-list.svelte';
 	import { initializeFavorites } from '$lib/preferences.svelte';
 
 	let { children } = $props();
-	onMount(initializeFavorites);
+	onMount(() => {
+		initializeFavorites();
+		initializeGroceryList();
+	});
 </script>
 
 <svelte:head><link rel="icon" href={favicon} /></svelte:head>
@@ -19,6 +23,10 @@
 		</a>
 		<div class="flex items-center gap-2 sm:gap-5">
 			<a href="/recipes" class="rounded-md px-3 py-2 text-sm font-semibold text-emerald-950 transition hover:bg-emerald-950/5">Recipes</a>
+			<a href="/grocery-list" class="inline-flex items-center gap-2 rounded-md px-3 py-2 text-sm font-semibold text-emerald-950 transition hover:bg-emerald-950/5">
+				<ShoppingBasket size={16} />
+				<span>Groceries</span>
+			</a>
 			<a href="/favorites" class="inline-flex items-center gap-2 rounded-md px-3 py-2 text-sm font-semibold text-emerald-950 transition hover:bg-emerald-950/5">
 				<Bookmark size={16} />
 				<span>Saved</span>
