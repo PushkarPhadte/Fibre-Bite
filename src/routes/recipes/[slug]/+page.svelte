@@ -1,11 +1,16 @@
 <script lang="ts">
 	import NutritionLabel from '$lib/components/NutritionLabel.svelte';
 	import ServingSelector from '$lib/components/ServingSelector.svelte';
+	import { allergyProfile } from '$lib/allergy-profile.svelte';
 	import { isOnGroceryList, toggleGroceryList } from '$lib/grocery-list.svelte';
+	import { isInMealPrep, toggleMealPrepRecipe } from '$lib/meal-prep.svelte';
+	import { getRecipeAllergens, getRecipeSwap, resetRecipeSwap, setRecipeSwap } from '$lib/recipe-swaps.svelte';
+	import { recipeServings, getRecipeServings, setRecipeServings } from '$lib/recipe-servings.svelte';
+	import { applyIngredientSwap, getSmartSwaps } from '$lib/smart-swaps';
 	import { scaleNutrition } from '$lib/recipes/nutrition';
 	import { formatIngredient } from '$lib/recipes/units';
 	import { favorites, toggleFavorite } from '$lib/preferences.svelte';
-	import { Heart, ShoppingBasket } from 'lucide-svelte';
+	import { CookingPot, Heart, ShoppingBasket } from 'lucide-svelte';
 	import type { PageData } from './$types';
 
 	let { data }: { data: PageData } = $props();
@@ -16,10 +21,11 @@
 	let scaledNutrition = $derived(scaleNutrition(recipe.nutrition, multiplier));
 	let saved = $derived(favorites.ids.includes(recipe.id));
 	let onShoppingList = $derived(isOnGroceryList(recipe.id));
-
+	let inMealPrepPlan = $derived(isInMealPrep(recipe.id));
+	let profileConflicts = $derived(getRecipeAllergens(recipe).filter((allergen) => allergyProfile.allergens.includes(allergen)));
 	$effect(() => {
 		recipe.slug;
-		selectedServings = null;
+		selectedServings = recipeServings.initialized ? getRecipeServings(recipe.id) ?? null : null;
 	});
 </script>
 
@@ -38,7 +44,7 @@
 				<div>
 					<h1 class="mt-2 font-display text-3xl font-semibold text-slate-900 md:text-5xl">{recipe.title}</h1>
 				</div>
-				<div class="flex items-center gap-3">
+				<div class="flex flex-wrap items-center gap-3">
 					<button type="button" aria-pressed={saved} class="inline-flex items-center gap-2 rounded-md border border-slate-200 bg-white px-4 py-2 text-sm font-semibold text-slate-700 shadow-sm" onclick={() => toggleFavorite(recipe.id)}>
 						<Heart size={16} class={saved ? 'fill-rose-500 text-rose-500' : 'text-slate-700'} />
 						{saved ? 'Saved' : 'Save'}
@@ -47,7 +53,11 @@
 						<ShoppingBasket size={16} class={onShoppingList ? 'fill-emerald-500 text-emerald-600' : 'text-slate-700'} />
 						{onShoppingList ? 'On list' : 'Add to list'}
 					</button>
-					<ServingSelector {servings} min={1} max={12} onChange={(value) => (selectedServings = value)} />
+					<button type="button" aria-pressed={inMealPrepPlan} class="inline-flex items-center gap-2 rounded-md border border-slate-200 bg-white px-4 py-2 text-sm font-semibold text-slate-700 shadow-sm" onclick={() => toggleMealPrepRecipe(recipe.id)}>
+						<CookingPot size={16} class={inMealPrepPlan ? 'text-emerald-700' : 'text-slate-700'} />
+						{inMealPrepPlan ? 'In prep plan' : 'Add to prep plan'}
+					</button>
+					<ServingSelector {servings} min={1} max={12} onChange={(value) => { selectedServings = value === recipe.baseServings ? null : value; setRecipeServings(recipe.id, value, recipe.baseServings); }} />
 				</div>
 			</div>
 
@@ -64,15 +74,42 @@
 			{#if recipe.allergens.length > 0}
 				<p class="text-sm text-slate-500">Allergen labels are based on listed ingredients and are not a guarantee for allergy safety.</p>
 			{/if}
+			{#if profileConflicts.length > 0}
+				<div role="alert" class="border-l-4 border-rose-700 bg-rose-50 px-4 py-3 text-sm text-rose-950">
+					<p class="font-bold">This recipe matches your saved allergy profile.</p>
+					<p class="mt-1">Tagged: {profileConflicts.join(', ')}. Do not rely on this label alone to determine whether a food is safe for you.</p>
+				</div>
+			{/if}
 
 			<div class="grid gap-8 lg:grid-cols-[1.1fr_0.9fr]">
 				<section>
 					<h2 class="text-2xl font-bold text-slate-900">Ingredients</h2>
 					<ul class="mt-4 space-y-3">
 						{#each recipe.ingredients as ingredient}
-							<li class="flex gap-3 rounded-xl border border-slate-200 bg-slate-50 p-3 text-slate-700">
-								<span class="mt-1 h-2.5 w-2.5 rounded-full bg-emerald-500"></span>
-								<span>{formatIngredient(ingredient, multiplier)}</span>
+							{@const selectedSwap = getRecipeSwap(recipe.id, ingredient.name)}
+							<li class="rounded-xl border border-slate-200 bg-slate-50 p-3 text-slate-700">
+								<div class="flex gap-3">
+									<span class="mt-1 h-2.5 w-2.5 rounded-full bg-emerald-500"></span>
+									<span>{formatIngredient(selectedSwap ? applyIngredientSwap(ingredient, selectedSwap) : ingredient, multiplier)}</span>
+								</div>
+								{#if getSmartSwaps(ingredient.name, allergyProfile.allergens).length > 0}
+									<div class="mt-3 flex flex-wrap items-center gap-2">
+										<span class="text-[11px] font-bold uppercase tracking-[0.12em] text-slate-500">Smart swaps</span>
+										{#each getSmartSwaps(ingredient.name, allergyProfile.allergens) as swap}
+											<button type="button" title={swap.reason} aria-pressed={selectedSwap?.name === swap.name} class={`rounded-full border px-2.5 py-1 text-xs font-semibold transition ${selectedSwap?.name === swap.name ? 'border-emerald-700 bg-emerald-700 text-white' : 'border-slate-300 bg-white text-slate-700 hover:border-emerald-600 hover:bg-emerald-50'}`} onclick={() => setRecipeSwap(recipe.id, ingredient.name, swap)}>
+												{swap.name}
+											</button>
+										{/each}
+										{#if selectedSwap}
+											<button type="button" class="text-xs font-semibold text-slate-500 underline-offset-2 hover:text-slate-700 hover:underline" onclick={() => resetRecipeSwap(recipe.id, ingredient.name)}>
+												Reset
+											</button>
+										{/if}
+									</div>
+								{/if}
+								{#if selectedSwap}
+									<p class="mt-2 text-xs leading-5 text-slate-500">{selectedSwap.reason} Recipe directions and nutrition still reflect the original ingredient; adjust preparation as needed.</p>
+								{/if}
 							</li>
 						{/each}
 					</ul>

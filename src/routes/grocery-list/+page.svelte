@@ -1,5 +1,8 @@
 <script lang="ts">
 	import { clearGroceryList, groceryList, toggleGroceryList } from '$lib/grocery-list.svelte';
+	import { getRecipeSwap } from '$lib/recipe-swaps.svelte';
+	import { getRecipeServings } from '$lib/recipe-servings.svelte';
+	import { applyIngredientSwap } from '$lib/smart-swaps';
 	import type { Recipe } from '$lib/recipes/types';
 	import { formatAmount } from '$lib/recipes/units';
 	import type { PageData } from './$types';
@@ -12,16 +15,19 @@
 		const entries = new Map<string, { name: string; unit: string; amount: number; sources: Set<string> }>();
 
 		for (const recipe of groceryRecipes) {
+			const servingMultiplier = (getRecipeServings(recipe.id) ?? recipe.baseServings) / recipe.baseServings;
 			for (const ingredient of recipe.ingredients) {
-				const key = `${ingredient.name.trim().toLowerCase()}::${ingredient.unit.trim().toLowerCase()}`;
+				const swap = getRecipeSwap(recipe.id, ingredient.name);
+				const effectiveIngredient = swap ? applyIngredientSwap(ingredient, swap) : ingredient;
+				const key = `${effectiveIngredient.name.trim().toLowerCase()}::${effectiveIngredient.unit.trim().toLowerCase()}`;
 				const existing = entries.get(key) ?? {
-					name: ingredient.name,
-					unit: ingredient.unit,
+					name: effectiveIngredient.name,
+					unit: effectiveIngredient.unit,
 					amount: 0,
 					sources: new Set<string>()
 				};
 
-				existing.amount += ingredient.baseAmount;
+				existing.amount += effectiveIngredient.baseAmount * servingMultiplier;
 				existing.sources.add(recipe.title);
 				entries.set(key, existing);
 			}

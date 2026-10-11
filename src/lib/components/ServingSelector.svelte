@@ -11,17 +11,22 @@
 		onChange: (value: number) => void;
 	} = $props();
 
-	function decrement() {
-		onChange(Math.max(min, servings - 1));
-	}
-
-	function increment() {
-		onChange(Math.min(max, servings + 1));
-	}
 </script>
 
-<div class="flex items-center gap-3 rounded-full border border-slate-200 bg-white p-1 shadow-sm">
-	<button type="button" class="h-9 w-9 rounded-full border border-slate-200 text-lg enabled:hover:bg-slate-100 disabled:cursor-not-allowed disabled:opacity-40" aria-label="Decrease servings" disabled={servings <= min} onclick={decrement}>−</button>
-	<div class="min-w-20 text-center text-sm font-semibold text-slate-800" aria-live="polite">{servings} servings</div>
-	<button type="button" class="h-9 w-9 rounded-full border border-slate-200 text-lg enabled:hover:bg-slate-100 disabled:cursor-not-allowed disabled:opacity-40" aria-label="Increase servings" disabled={servings >= max} onclick={increment}>+</button>
+<div class="w-full min-w-40 rounded-md border border-slate-200 bg-white px-3 py-2 shadow-sm sm:w-52">
+	<div class="mb-1 flex items-center justify-between gap-3">
+		<label for="serving-size" class="text-xs font-semibold text-slate-600">Servings</label>
+		<output for="serving-size" class="text-sm font-bold tabular-nums text-emerald-900" aria-live="polite">{servings}</output>
+	</div>
+	<input
+		id="serving-size"
+		type="range"
+		min={min}
+		max={max}
+		step="1"
+		value={servings}
+		aria-label="Serving size"
+		class="h-2 w-full cursor-pointer accent-emerald-800 focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-emerald-800"
+		oninput={(event) => onChange(Number(event.currentTarget.value))}
+	/>
 </div>

@@ -1,7 +1,9 @@
 <script lang="ts">
 	import { goto } from '$app/navigation';
 	import { page } from '$app/state';
-	import { Search, SlidersHorizontal, X } from 'lucide-svelte';
+	import { Search, ShieldAlert, SlidersHorizontal, X } from 'lucide-svelte';
+	import { allergyProfile, toggleProfileAllergen } from '$lib/allergy-profile.svelte';
+	import { getRecipeAllergens } from '$lib/recipe-swaps.svelte';
 	import type { PageData } from './$types';
 	import RecipeCard from '$lib/components/RecipeCard.svelte';
 	import { allergenOptions, dietaryOptions, type Allergen, type DietaryTag } from '$lib/recipes/types';
@@ -22,11 +24,12 @@
 
 	let recipes = $derived.by(() => {
 		const search = query.trim().toLowerCase();
+		const activeAllergens = [...new Set([...excludedAllergens, ...allergyProfile.allergens])];
 		const filtered = (data.recipes ?? []).filter((recipe) =>
 			(!search || recipe.title.toLowerCase().includes(search) ||
 				recipe.ingredients.some((ingredient) => ingredient.name.toLowerCase().includes(search))) &&
 			(!selectedDiet || recipe.dietaryTags.includes(selectedDiet)) &&
-			!excludedAllergens.some((allergen) => recipe.allergens.includes(allergen))
+			!activeAllergens.some((allergen) => getRecipeAllergens(recipe).includes(allergen))
 		);
 
 		if (selectedSort === 'title') filtered.sort((a, b) => a.title.localeCompare(b.title));
@@ -137,13 +140,14 @@
 		</fieldset>
 
 		<fieldset class="mt-4">
-			<legend class="mb-1 text-sm font-semibold text-slate-700">Exclude listed allergens</legend>
-			<p class="mb-3 text-xs text-slate-500">Select all that apply. Tags reflect recipe data and cannot guarantee allergy safety.</p>
+			<legend class="mb-1 inline-flex items-center gap-2 text-sm font-semibold text-slate-700"><ShieldAlert size={16} /> Your allergy profile</legend>
+			<p class="mb-3 text-xs text-slate-500">Selected allergens are saved in this browser and automatically excluded from results. Recipe tags may be incomplete and cannot guarantee allergy safety or prevent cross-contact.</p>
 			<div class="flex flex-wrap gap-2">
 				{#each allergenOptions as option}
-					<button type="button" aria-pressed={excludedAllergens.includes(option)} class={`rounded-md border px-3 py-2 text-sm font-medium capitalize transition focus-visible:outline-offset-2 ${excludedAllergens.includes(option) ? 'border-rose-800 bg-rose-800 text-white' : 'border-slate-300 bg-white text-slate-700 hover:border-rose-600 hover:bg-rose-50'}`} onclick={() => { toggleExcluded(option); applyFilters(); }}>
-						{excludedAllergens.includes(option) ? 'Exclude ' : 'Avoid '}{option}
-					</button>
+					<label class={`inline-flex cursor-pointer items-center gap-2 rounded-md border px-3 py-2 text-sm font-medium capitalize transition ${allergyProfile.allergens.includes(option) ? 'border-rose-800 bg-rose-800 text-white' : 'border-slate-300 bg-white text-slate-700 hover:border-rose-600 hover:bg-rose-50'}`}>
+						<input type="checkbox" class="h-4 w-4 accent-rose-700" checked={allergyProfile.allergens.includes(option)} onchange={() => toggleProfileAllergen(option)} />
+						{option}
+					</label>
 				{/each}
 			</div>
 		</fieldset>

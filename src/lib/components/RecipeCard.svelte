@@ -1,12 +1,14 @@
 <script lang="ts">
 	import { isOnGroceryList, toggleGroceryList } from '$lib/grocery-list.svelte';
+	import { isInMealPrep, toggleMealPrepRecipe } from '$lib/meal-prep.svelte';
 	import type { Recipe } from '$lib/recipes/types';
 	import { favorites, toggleFavorite } from '$lib/preferences.svelte';
-	import { ArrowRight, Heart, ShoppingBasket } from 'lucide-svelte';
+	import { ArrowRight, CookingPot, Heart, ShoppingBasket } from 'lucide-svelte';
 
 	let { recipe }: { recipe: Recipe } = $props();
 	let isSaved = $derived(favorites.ids.includes(recipe.id));
 	let isOnList = $derived(isOnGroceryList(recipe.id));
+	let isInPrepPlan = $derived(isInMealPrep(recipe.id));
 
 	function onFavoriteClick(event: MouseEvent) {
 		event.preventDefault();
@@ -18,6 +20,12 @@
 		event.preventDefault();
 		event.stopPropagation();
 		toggleGroceryList(recipe.id);
+	}
+
+	function onMealPrepClick(event: MouseEvent) {
+		event.preventDefault();
+		event.stopPropagation();
+		toggleMealPrepRecipe(recipe.id);
 	}
 </script>
 
@@ -47,5 +55,8 @@
 	</button>
 	<button type="button" aria-label={isOnList ? 'Remove from grocery list' : 'Add to grocery list'} aria-pressed={isOnList} class="absolute right-14 top-4 rounded-full border border-white bg-white/90 p-2 text-slate-700 shadow-sm transition hover:scale-105" onclick={onGroceryClick}>
 		<ShoppingBasket size={18} class={isOnList ? 'fill-emerald-500 text-emerald-600' : 'text-slate-700'} />
+	</button>
+	<button type="button" aria-label={isInPrepPlan ? 'Remove from meal prep plan' : 'Add to meal prep plan'} aria-pressed={isInPrepPlan} title={isInPrepPlan ? 'Remove from meal prep plan' : 'Add to meal prep plan'} class="absolute right-24 top-4 rounded-full border border-white bg-white/90 p-2 text-slate-700 shadow-sm transition hover:scale-105" onclick={onMealPrepClick}>
+		<CookingPot size={18} class={isInPrepPlan ? 'text-emerald-700' : 'text-slate-700'} />
 	</button>
 </div>
