@@ -1,10 +1,10 @@
 <script lang="ts">
 	import type { Recipe } from '$lib/recipes/types';
-	import { favorites, toggleFavorite } from '$lib/preferences';
+	import { favorites, toggleFavorite } from '$lib/preferences.svelte';
 	import { ArrowRight, Heart } from 'lucide-svelte';
 
 	let { recipe }: { recipe: Recipe } = $props();
-	let isSaved = $derived($favorites.includes(recipe.id));
+	let isSaved = $derived(favorites.ids.includes(recipe.id));
 
 	function onFavoriteClick(event: MouseEvent) {
 		event.preventDefault();
@@ -13,13 +13,15 @@
 	}
 </script>
 
-<div class="group relative overflow-hidden rounded-2xl border border-slate-200 bg-white shadow-sm transition hover:-translate-y-0.5 hover:shadow-md">
+	<div class="group relative overflow-hidden rounded-lg border border-slate-200 bg-white shadow-sm transition hover:-translate-y-0.5 hover:shadow-md">
 	<a href={`/recipes/${recipe.slug}`} class="block">
-		<img src={recipe.image ?? 'https://images.unsplash.com/photo-1490645935967-10de6ba17061?auto=format&fit=crop&w=900&q=80'} alt={recipe.title} class="h-48 w-full object-cover" />
+		<img src={recipe.image ?? 'https://images.unsplash.com/photo-1490645935967-10de6ba17061?auto=format&fit=crop&w=900&q=80'} alt={recipe.title} loading="lazy" decoding="async" class="h-48 w-full object-cover" />
 		<div class="space-y-3 p-5">
 			<div class="flex items-center justify-between gap-3">
-				<span class="rounded-full bg-emerald-100 px-2.5 py-1 text-xs font-semibold uppercase tracking-wide text-emerald-700">{recipe.source}</span>
-				<span class="text-sm text-slate-500">{recipe.baseServings} servings</span>
+				<span class="rounded-full bg-emerald-50 px-2.5 py-1 text-xs font-semibold text-emerald-800">{recipe.baseServings} servings</span>
+				{#if recipe.nutrition?.protein !== undefined}
+					<span class="text-sm font-semibold text-slate-600">{recipe.nutrition.protein}g protein</span>
+				{/if}
 			</div>
 			<h2 class="text-xl font-semibold text-slate-900">{recipe.title}</h2>
 			<p class="text-sm text-slate-600">{recipe.description ?? 'A healthy recipe worth trying.'}</p>
@@ -32,7 +34,7 @@
 			</div>
 		</div>
 	</a>
-	<button type="button" aria-label={isSaved ? 'Remove from saved recipes' : 'Save recipe'} class="absolute right-4 top-4 rounded-full border border-white bg-white/90 p-2 text-slate-700 shadow-sm transition hover:scale-105" onclick={onFavoriteClick}>
+	<button type="button" aria-label={isSaved ? 'Remove from saved recipes' : 'Save recipe'} aria-pressed={isSaved} class="absolute right-4 top-4 rounded-full border border-white bg-white/90 p-2 text-slate-700 shadow-sm transition hover:scale-105" onclick={onFavoriteClick}>
 		<Heart size={18} class={isSaved ? 'fill-rose-500 text-rose-500' : 'text-slate-700'} />
 	</button>
 </div>

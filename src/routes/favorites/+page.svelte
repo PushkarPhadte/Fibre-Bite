@@ -1,19 +1,21 @@
 <script lang="ts">
+	import type { PageData } from './$types';
 	import RecipeCard from '$lib/components/RecipeCard.svelte';
-	import { localRecipes } from '$lib/data/recipes';
-	import { favorites } from '$lib/preferences';
+	import { favorites } from '$lib/preferences.svelte';
 
-	let savedRecipes = $derived(localRecipes.filter((recipe) => $favorites.includes(recipe.id)));
+	let { data }: { data: PageData } = $props();
+	let savedRecipes = $derived(data.recipes.filter((recipe) => favorites.ids.includes(recipe.id)));
 </script>
 
 <svelte:head>
 	<title>Saved recipes | Fibre-Bite</title>
+	<meta name="description" content="Recipes saved in this browser on this device." />
 </svelte:head>
 
 <div class="mx-auto max-w-6xl px-6 py-10">
-	<div class="mb-8 rounded-3xl bg-slate-900 p-8 text-white shadow-lg">
-		<h1 class="text-3xl font-bold">Saved recipes</h1>
-		<p class="mt-2 text-slate-300">Your local favorites stay on this device until you remove them.</p>
+	<div class="mb-8 rounded-lg bg-emerald-950 p-8 text-white shadow-lg">
+		<h1 class="font-display text-3xl font-semibold">Saved recipes</h1>
+		<p class="mt-2 text-emerald-100">Saved recipes stay in this browser on this device.</p>
 	</div>
 
 	{#if savedRecipes.length === 0}

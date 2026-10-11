@@ -1,7 +1,6 @@
-import { repository } from '$lib/server/recipes/repository';
+import { localRecipes } from '../lib/data/recipes';
 import type { PageServerLoad } from './$types';
 
-export const load: PageServerLoad = async () => {
-	const recipes = await repository.getLocalRecipes();
-	return { recipes };
+export const load: PageServerLoad = () => {
+	return { recipes: localRecipes };
 };

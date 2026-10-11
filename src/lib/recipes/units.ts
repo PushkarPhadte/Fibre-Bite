@@ -14,6 +14,9 @@ export function formatAmount(value: number): string {
 }
 
 export function formatIngredient(ingredient: Ingredient, multiplier: number): string {
+	if (ingredient.baseAmount === 0) {
+		return `${ingredient.name} ${ingredient.unit}`;
+	}
 	const scaledAmount = scaleAmount(ingredient.baseAmount, multiplier);
 	const amountText = scaledAmount === 0 ? 'to taste' : formatAmount(scaledAmount);
 	return `${amountText} ${ingredient.unit} ${ingredient.name}`.trim();

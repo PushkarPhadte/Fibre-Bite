@@ -1,9 +1,15 @@
 import { error } from '@sveltejs/kit';
-import { repository } from '$lib/server/recipes/repository';
+import { localRecipes } from '../../../lib/data/recipes';
 import type { PageServerLoad } from './$types';
 
-export const load: PageServerLoad = async ({ params }) => {
-	const recipe = await repository.getRecipeById(params.slug);
+export const prerender = true;
+
+export const entries = async () => {
+	return localRecipes.map(({ slug }) => ({ slug }));
+};
+
+export const load: PageServerLoad = ({ params }) => {
+	const recipe = localRecipes.find(({ slug }) => slug === params.slug);
 
 	if (!recipe) {
 		throw error(404, 'Recipe not found');

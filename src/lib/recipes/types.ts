@@ -23,58 +23,50 @@ export const allergenSchema = z.enum([
 ]);
 
 export const nutritionSchema = z.object({
-	calories: z.number().optional(),
-	protein: z.number().optional(),
-	carbohydrates: z.number().optional(),
-	fat: z.number().optional(),
-	fiber: z.number().optional(),
-	sugar: z.number().optional(),
-	sodium: z.number().optional()
+	calories: z.number().nonnegative().optional(),
+	protein: z.number().nonnegative().optional(),
+	carbohydrates: z.number().nonnegative().optional(),
+	fat: z.number().nonnegative().optional(),
+	fiber: z.number().nonnegative().optional(),
+	sugar: z.number().nonnegative().optional(),
+	sodium: z.number().nonnegative().optional()
 });
 
 export const ingredientSchema = z.object({
-	name: z.string().min(1),
+	name: z.string().trim().min(1),
 	baseAmount: z.number().nonnegative(),
-	unit: z.string().min(1),
+	unit: z.string().trim().min(1),
 	optional: z.boolean().optional()
 });
 
 export const instructionStepSchema = z.object({
 	number: z.number().int().positive(),
-	text: z.string().min(1)
+	text: z.string().trim().min(1)
 });
 
-export const recipeSchema = z.object({
-	id: z.string().min(1),
-	slug: z.string().min(1),
-	title: z.string().min(1),
-	description: z.string().optional(),
-	source: z.enum(['local', 'spoonacular']),
-	baseServings: z.number().positive(),
-	ingredients: z.array(ingredientSchema),
-	instructions: z.array(instructionStepSchema),
-	nutrition: nutritionSchema.optional(),
-	dietaryTags: z.array(dietaryTagSchema).default([]),
-	allergens: z.array(allergenSchema).default([]),
-	image: z.string().optional()
+export const instructionStepsSchema = z.array(instructionStepSchema).min(1).superRefine((steps, context) => {
+	steps.forEach((step, index) => {
+		if (step.number !== index + 1) {
+			context.addIssue({
+				code: 'custom',
+				path: [index, 'number'],
+				message: 'Instruction numbers must be sequential, starting at 1.'
+			});
+		}
+	});
 });
 
 export const localRecipeFrontmatterSchema = z.object({
-	title: z.string().min(1),
-	slug: z.string().min(1),
+	title: z.string().trim().min(1),
+	slug: z.string().regex(/^[a-z0-9]+(?:-[a-z0-9]+)*$/),
 	description: z.string().optional(),
 	baseServings: z.coerce.number().positive(),
+	ingredients: z.array(ingredientSchema).min(1),
+	instructions: instructionStepsSchema,
 	dietaryTags: z.array(dietaryTagSchema).default([]),
 	allergens: z.array(allergenSchema).default([]),
 	nutrition: nutritionSchema.optional(),
-	image: z.string().optional()
-});
-
-export const searchSchema = z.object({
-	query: z.string().optional(),
-	dietary: dietaryTagSchema.optional(),
-	allergen: allergenSchema.optional(),
-	sort: z.enum(['title', 'protein', 'calories']).optional()
+	image: z.string().url().optional()
 });
 
 export type DietaryTag = z.infer<typeof dietaryTagSchema>;
@@ -82,9 +74,7 @@ export type Allergen = z.infer<typeof allergenSchema>;
 export type Nutrition = z.infer<typeof nutritionSchema>;
 export type Ingredient = z.infer<typeof ingredientSchema>;
 export type InstructionStep = z.infer<typeof instructionStepSchema>;
-export type Recipe = z.infer<typeof recipeSchema>;
-export type RecipeSearch = z.infer<typeof searchSchema>;
-
+export type Recipe = z.infer<typeof localRecipeFrontmatterSchema> & { id: string };
 export const dietaryOptions: DietaryTag[] = [
 	'vegetarian',
 	'vegan',
