@@ -3,7 +3,7 @@
 	import { Bookmark, BookOpen, CookingPot, Recycle, ShoppingBasket, Sprout } from 'lucide-svelte';
 	import './layout.css';
 	import { initializeAllergyProfile } from '$lib/allergy-profile.svelte';
-	import favicon from '$lib/assets/favicon.svg';
+	import favicon from '$lib/assets/favicon.png';
 	import { initializeGroceryList } from '$lib/grocery-list.svelte';
 	import { initializeMealPrep } from '$lib/meal-prep.svelte';
 	import { initializePantry } from '$lib/pantry.svelte';
