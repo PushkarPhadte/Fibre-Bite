@@ -54,5 +54,12 @@ nutrition:
     vitaminCMg: 15
     folateMcg: 35
   micronutrientEstimateSource: "Approximate estimate based on USDA FoodData Central generic rolled oats and chia seed entries (FDC 2346396, 170554) plus generic estimates for other listed ingredients; household conversions, dairy brands, berries, and preparation vary."
-image: "https://images.unsplash.com/photo-1497888329096-51c27beff665?auto=format&fit=crop&w=1200&q=80"
+image: "https://live.staticflickr.com/5470/10152667545_94751211aa_b.jpg"
+imageAttribution:
+  title: How to Make Bircher Muesli (Overnight Oats)
+  creator: simpleprovisions
+  creatorUrl: "https://www.flickr.com/photos/80665970@N03"
+  sourceUrl: "https://www.flickr.com/photos/80665970@N03/10152667545"
+  license: CC BY 2.0
+  licenseUrl: "https://creativecommons.org/licenses/by/2.0/"
 ---

@@ -54,5 +54,12 @@ nutrition:
     vitaminCMg: 7
     folateMcg: 7
   micronutrientEstimateSource: "Approximate estimate based on USDA FoodData Central generic chicken breast (FDC 171077) and listed recipe measures; household conversions are approximate, and herbs, seasoning, and cooking retention are not fully modeled."
-image: "https://images.unsplash.com/photo-1762631934518-f75e233413ca?auto=format&fit=crop&w=1200&q=80"
+image: "https://live.staticflickr.com/3385/4635069591_574f351447_b.jpg"
+imageAttribution:
+  title: Roasted Lemon Herb Chicken
+  creator: TheCulinaryGeek
+  creatorUrl: "https://www.flickr.com/photos/72949902@N00"
+  sourceUrl: "https://www.flickr.com/photos/72949902@N00/4635069591"
+  license: CC BY 2.0
+  licenseUrl: "https://creativecommons.org/licenses/by/2.0/"
 ---
