@@ -13,6 +13,8 @@ description: >-
   A vibrant Southwestern bowl filled with black beans, sweet corn, diced
   avocado, cilantro, and lime dressing.
 baseServings: 3
+prepTimeMinutes: 25
+prepTimeSource: "https://www.weightwatchers.com/us/recipe/mexican-black-bean-zucchini-and-corn-bowl-with-cumin-lime-drizzle/5aa044b6246de55a9a4b6c9f"
 ingredients:
   - name: 'canned black beans, drained'
     baseAmount: 400

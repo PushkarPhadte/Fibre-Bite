@@ -10,7 +10,7 @@
 	import { scaleNutrition } from '$lib/recipes/nutrition';
 	import { formatIngredient } from '$lib/recipes/units';
 	import { favorites, toggleFavorite } from '$lib/preferences.svelte';
-	import { CookingPot, Heart, ShoppingBasket } from 'lucide-svelte';
+	import { Clock3, CookingPot, Heart, ShoppingBasket } from 'lucide-svelte';
 	import type { PageData } from './$types';
 
 	let { data }: { data: PageData } = $props();
@@ -69,6 +69,12 @@
 			</div>
 
 			<p class="max-w-3xl text-lg text-slate-600">{recipe.description ?? 'A balanced, nourishing recipe that brings flavor and simplicity together.'}</p>
+			{#if recipe.prepTimeMinutes !== undefined}
+				<p class="inline-flex items-center gap-2 text-sm font-semibold text-slate-700">
+					<Clock3 size={16} /> Preparation: {recipe.prepTimeMinutes} minutes
+					<a class="font-normal text-emerald-800 underline" href={recipe.prepTimeSource} target="_blank" rel="noreferrer">Source</a>
+				</p>
+			{/if}
 
 			<div class="flex flex-wrap gap-2">
 				{#each recipe.dietaryTags as tag}

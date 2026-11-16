@@ -13,6 +13,8 @@ description: >-
   A gut-friendly nutrient pot made from chia seeds soaked in almond milk, topped
   with fresh berries and cinnamon.
 baseServings: 2
+prepTimeMinutes: 10
+prepTimeSource: "https://thefoodiephysician.com/berry-chia-pudding/"
 ingredients:
   - name: chia seeds
     baseAmount: 0.25

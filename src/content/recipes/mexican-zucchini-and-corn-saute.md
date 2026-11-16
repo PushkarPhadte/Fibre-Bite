@@ -13,6 +13,8 @@ description: >-
   A traditional Mexican vegetable side dish of sautéed zucchini, corn, tomatoes,
   garlic, and fresh herbs.
 baseServings: 3
+prepTimeMinutes: 5
+prepTimeSource: "https://muybuenoblog.com/calabacitas-con-elote-zucchini-with-corn/"
 ingredients:
   - name: 'zucchini, diced'
     baseAmount: 2

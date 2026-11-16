@@ -5,6 +5,8 @@ description: >-
   A weeknight red lentil dal with spinach, tomato, cumin, and a fragrant garlic
   tempering.
 baseServings: 4
+prepTimeMinutes: 5
+prepTimeSource: "https://mayuris-jikoni.com/2012/01/12/spinach-masoor-dal/"
 ingredients:
   - name: red lentils (masoor dal)
     baseAmount: 220

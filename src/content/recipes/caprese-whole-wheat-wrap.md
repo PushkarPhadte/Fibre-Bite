@@ -13,6 +13,8 @@ description: >-
   A fresh Italian wrap packed with fresh mozzarella, ripe sliced tomatoes, basil
   leaves, and a touch of balsamic glaze.
 baseServings: 2
+prepTimeMinutes: 2
+prepTimeSource: "https://weelicious.com/caprese-wrap/"
 ingredients:
   - name: whole wheat tortilla wraps
     baseAmount: 2

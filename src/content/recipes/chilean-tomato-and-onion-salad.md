@@ -5,6 +5,8 @@ description: >-
   A staple Chilean side dish combining thinly sliced tomatoes, rinsed red
   onions, cilantro, and lemon-olive oil dressing.
 baseServings: 2
+prepTimeMinutes: 15
+prepTimeSource: "https://www.thespruceeats.com/chilean-tomato-and-onion-salad-3029588"
 ingredients:
   - name: 'ripe tomatoes, sliced'
     baseAmount: 2

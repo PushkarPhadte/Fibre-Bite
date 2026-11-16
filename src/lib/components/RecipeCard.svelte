@@ -3,7 +3,7 @@
 	import { isInMealPrep, toggleMealPrepRecipe } from '$lib/meal-prep.svelte';
 	import type { Recipe } from '$lib/recipes/types';
 	import { favorites, toggleFavorite } from '$lib/preferences.svelte';
-	import { ArrowRight, CookingPot, Heart, ShoppingBasket } from 'lucide-svelte';
+	import { ArrowRight, Clock3, CookingPot, Heart, ShoppingBasket } from 'lucide-svelte';
 
 	let { recipe }: { recipe: Recipe } = $props();
 	let isSaved = $derived(favorites.ids.includes(recipe.id));
@@ -35,9 +35,14 @@
 		<div class="space-y-3 p-5">
 			<div class="flex items-center justify-between gap-3">
 				<span class="rounded-full bg-emerald-50 px-2.5 py-1 text-xs font-semibold text-emerald-800">{recipe.baseServings} servings</span>
-				{#if recipe.nutrition?.protein !== undefined}
-					<span class="text-sm font-semibold text-slate-600">{recipe.nutrition.protein}g protein</span>
-				{/if}
+				<span class="flex flex-wrap justify-end gap-x-3 text-sm font-semibold text-slate-600">
+					{#if recipe.prepTimeMinutes !== undefined}
+						<span class="inline-flex items-center gap-1"><Clock3 size={15} /> {recipe.prepTimeMinutes} min prep</span>
+					{/if}
+					{#if recipe.nutrition?.protein !== undefined}
+						<span>{recipe.nutrition.protein}g protein</span>
+					{/if}
+				</span>
 			</div>
 			<h2 class="text-xl font-semibold text-slate-900">{recipe.title}</h2>
 			<p class="text-sm text-slate-600">{recipe.description ?? 'A healthy recipe worth trying.'}</p>

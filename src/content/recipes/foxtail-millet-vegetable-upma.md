@@ -5,6 +5,8 @@ description: >-
   A savory South Indian millet breakfast with vegetables, ginger, curry leaves,
   and toasted cashews.
 baseServings: 4
+prepTimeMinutes: 5
+prepTimeSource: "https://www.chhayasfood.com/home/foxtail-millet-upma-recipe"
 ingredients:
   - name: foxtail millet
     baseAmount: 220

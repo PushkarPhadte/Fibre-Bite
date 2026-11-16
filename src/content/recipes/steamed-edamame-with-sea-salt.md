@@ -13,6 +13,8 @@ description: >-
   Young green soybeans steamed in their pods and tossed with coarse sea salt,
   offering an effortless protein-rich plant snack.
 baseServings: 2
+prepTimeMinutes: 2
+prepTimeSource: "https://feelgoodfoodie.net/recipe/how-to-cook-edamame/"
 ingredients:
   - name: frozen edamame pods
     baseAmount: 250

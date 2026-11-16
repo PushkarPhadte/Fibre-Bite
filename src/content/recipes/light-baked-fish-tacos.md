@@ -13,6 +13,8 @@ description: >-
   Warm corn tortillas stuffed with baked spiced white fish, shredded cabbage
   slaw, fresh cilantro, and lime.
 baseServings: 3
+prepTimeMinutes: 20
+prepTimeSource: "https://www.eatingwell.com/recipe/263566/baked-fish-tacos-with-avocado/"
 ingredients:
   - name: white fish fillets
     baseAmount: 300

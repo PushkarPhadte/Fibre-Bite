@@ -13,6 +13,8 @@ description: >-
   A cooling Goan-Konkani digestive drink made from natural kokum extract, fresh
   coconut milk, garlic, and chillies.
 baseServings: 4
+prepTimeMinutes: 5
+prepTimeSource: "https://www.vegrecipesofindia.com/kokum-curry-sol-kadhi/"
 ingredients:
   - name: 'dried kokum, soaked in warm water'
     baseAmount: 8

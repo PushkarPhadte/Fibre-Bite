@@ -13,6 +13,8 @@ description: >-
   A staple Bihari flatbread stuffed with spiced roasted Bengal gram flour
   (sattu), rich in plant protein and dietary fiber.
 baseServings: 4
+prepTimeMinutes: 15
+prepTimeSource: "https://www.indiancookingmanual.com/sattu-roasted-gram-flour-ka-paratha/"
 ingredients:
   - name: whole wheat flour
     baseAmount: 200

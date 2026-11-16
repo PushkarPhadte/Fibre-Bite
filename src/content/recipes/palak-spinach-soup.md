@@ -13,6 +13,8 @@ description: >-
   A smooth green soup made by simmering fresh spinach leaves with garlic,
   ginger, and subtle seasoning, finished with lemon juice.
 baseServings: 4
+prepTimeMinutes: 10
+prepTimeSource: "https://www.spiceupthecurry.com/palak-soup-recipe-spinach-soup/"
 ingredients:
   - name: 'fresh spinach, washed and chopped'
     baseAmount: 250

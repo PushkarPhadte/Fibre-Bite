@@ -13,6 +13,8 @@ description: >-
   Creamy mashed ripe avocados blended with lime juice, cilantro, tomatoes,
   onions, and jalapenos.
 baseServings: 4
+prepTimeMinutes: 10
+prepTimeSource: "https://loveandnibbles.com/easy-mexican-guacamole-with-veggie-sticks-for-bold-fresh-snacking/"
 ingredients:
   - name: avocados
     baseAmount: 2

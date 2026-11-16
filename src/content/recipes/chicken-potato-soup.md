@@ -13,6 +13,8 @@ description: >-
   A savory, light soup consisting of pressure-cooked chicken and potatoes
   blended together with shredded chicken pieces and herbs.
 baseServings: 6
+prepTimeMinutes: 25
+prepTimeSource: "https://www.allrecipes.com/recipe/272232/chicken-potato-soup/"
 ingredients:
   - name: 'potatoes, peeled and chopped'
     baseAmount: 3

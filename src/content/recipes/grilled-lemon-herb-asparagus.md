@@ -13,6 +13,8 @@ description: >-
   Fresh tender asparagus spears grilled with olive oil, garlic, lemon zest, and
   cracked black pepper.
 baseServings: 2
+prepTimeMinutes: 10
+prepTimeSource: "https://healthyfitnessmeals.com/grilled-lemon-garlic-asparagus/"
 ingredients:
   - name: 'fresh asparagus, trimmed'
     baseAmount: 1

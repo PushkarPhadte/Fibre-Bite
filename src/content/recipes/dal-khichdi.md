@@ -5,6 +5,8 @@ description: >-
   A comfort dish cooked by simmering yellow moong dal and rice together with
   mild spices, turmeric, and ghee.
 baseServings: 4
+prepTimeMinutes: 30
+prepTimeSource: "https://www.sanjeevkapoor.com/Recipe/Dal-Khichdi---SK-Khazana.html"
 ingredients:
   - name: yellow moong dal
     baseAmount: 0.5

@@ -13,6 +13,8 @@ description: >-
   A vibrant fresh salad combining sliced orange segments, creamy avocado, mixed
   greens, and pumpkin seeds.
 baseServings: 2
+prepTimeMinutes: 10
+prepTimeSource: "https://californiaavocado.com/recipe/avocado-citrus-salad-with-toasted-sesame/"
 ingredients:
   - name: 'avocado, sliced'
     baseAmount: 1

@@ -5,6 +5,8 @@ description: >-
   A traditional Levantine herb salad loaded with fresh flat-leaf parsley, mint,
   bulgur wheat, tomatoes, and a zesty lemon-olive oil dressing.
 baseServings: 4
+prepTimeMinutes: 15
+prepTimeSource: "https://www.simplyleb.com/recipe/tabbouleh/"
 ingredients:
   - name: fine bulgur wheat
     baseAmount: 0.25

@@ -13,6 +13,8 @@ description: >-
   Toasted whole grain bread rubbed with garlic and topped with fresh diced
   tomatoes, basil, and extra virgin olive oil.
 baseServings: 3
+prepTimeMinutes: 15
+prepTimeSource: "https://www.thespruceeats.com/how-to-make-bruschetta-2020459"
 ingredients:
   - name: whole grain bread
     baseAmount: 6

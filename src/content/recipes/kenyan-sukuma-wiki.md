@@ -13,6 +13,8 @@ description: >-
   An East African staple dish of collard greens braised with tomatoes, onions,
   cumin, and lemon.
 baseServings: 3
+prepTimeMinutes: 5
+prepTimeSource: "https://lowcarbafrica.com/sukuma-wiki-kenyan-collard-greens/"
 ingredients:
   - name: 'collard greens or kale, chopped'
     baseAmount: 1

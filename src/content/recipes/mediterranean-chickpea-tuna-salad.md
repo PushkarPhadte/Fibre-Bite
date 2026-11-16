@@ -13,6 +13,8 @@ description: >-
   A high-protein salad blending flaked light tuna, chickpeas, diced celery, red
   onion, and lemon-herb olive oil.
 baseServings: 3
+prepTimeMinutes: 10
+prepTimeSource: "https://www.allrecipes.com/recipe/215901/tuna-and-chickpea-salad/"
 ingredients:
   - name: 'canned light tuna in water, drained'
     baseAmount: 150

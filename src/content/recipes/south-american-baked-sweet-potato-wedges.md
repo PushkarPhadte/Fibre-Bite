@@ -13,6 +13,8 @@ description: >-
   Crispy baked sweet potato wedges tossed in paprika, cumin, and olive oil,
   serving as a nutrient-rich whole food starch.
 baseServings: 3
+prepTimeMinutes: 15
+prepTimeSource: "https://www.wellplated.com/sweet-potato-wedges/"
 ingredients:
   - name: 'sweet potatoes, cut into wedges'
     baseAmount: 2

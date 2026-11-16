@@ -3,6 +3,8 @@ title: "Overnight Oats"
 slug: "overnight-oats"
 description: "Creamy oats with chia, berries, and vanilla for a quick fiber-rich breakfast."
 baseServings: 2
+prepTimeMinutes: 10
+prepTimeSource: "https://www.bbcgoodfood.com/recipes/overnight-oats"
 ingredients:
   - name: rolled oats
     baseAmount: 1

@@ -13,6 +13,8 @@ description: >-
   A crisp, colorful Polish salad combining shredded cooked beets, tart apples,
   lemon juice, and cold-pressed oil.
 baseServings: 3
+prepTimeMinutes: 10
+prepTimeSource: "https://www.whollytasteful.com/polish-beet-salad-buraczki/"
 ingredients:
   - name: 'cooked beets, grated'
     baseAmount: 2

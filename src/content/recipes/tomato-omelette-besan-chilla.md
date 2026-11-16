@@ -13,6 +13,8 @@ description: >-
   A savory pan-cooked pancake made from chickpea flour batter mixed with chopped
   tomatoes, onions, spices, and herbs.
 baseServings: 3
+prepTimeMinutes: 10
+prepTimeSource: "https://www.theloveofspice.com/besan-chilla-indian-tomato-omelette/"
 ingredients:
   - name: gram flour (besan)
     baseAmount: 1

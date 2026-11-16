@@ -13,6 +13,8 @@ description: >-
   A chilled Andalusian raw vegetable soup blended from ripe tomatoes, cucumbers,
   bell peppers, garlic, and extra virgin olive oil.
 baseServings: 4
+prepTimeMinutes: 15
+prepTimeSource: "https://cookthestory.com/15-minute-gazpacho/"
 ingredients:
   - name: 'ripe tomatoes, chopped'
     baseAmount: 1

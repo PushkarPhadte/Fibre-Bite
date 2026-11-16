@@ -13,6 +13,8 @@ description: >-
   A creamy, raw blender soup made from fresh cucumbers, avocados, lime juice,
   cilantro, and garlic.
 baseServings: 3
+prepTimeMinutes: 10
+prepTimeSource: "https://tasteforlife.com/healthy-recipes/soups/chilled-avocado-and-cucumber-soup"
 ingredients:
   - name: 'cucumbers, peeled'
     baseAmount: 2

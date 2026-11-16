@@ -13,6 +13,8 @@ description: >-
   A traditional Iranian platter of fresh mint, tarragon, radishes, walnuts, and
   feta cheese eaten as a light starter.
 baseServings: 3
+prepTimeMinutes: 10
+prepTimeSource: "https://www.proportionalplate.com/sabzi-khordan/"
 ingredients:
   - name: fresh mint leaves
     baseAmount: 1

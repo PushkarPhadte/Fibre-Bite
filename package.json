@@ -7,6 +7,7 @@
 		"dev": "vite dev",
 		"build": "vite build",
 		"recipes:import": "node --experimental-strip-types scripts/import-recipes.ts",
+		"recipes:export": "node --experimental-strip-types scripts/export-recipes.ts",
 		"preview": "vite preview",
 		"prepare": "svelte-kit sync || echo ''",
 		"check": "svelte-kit sync && svelte-check --tsconfig ./tsconfig.json",

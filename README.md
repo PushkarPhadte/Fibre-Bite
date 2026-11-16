@@ -31,6 +31,8 @@ instructions:
 dietaryTags:
 	- vegan
 allergens: []
+prepTimeMinutes: 10
+prepTimeSource: "https://example.com/recipe"
 nutrition:
 	calories: 260
 	protein: 14
@@ -41,7 +43,7 @@ image: "https://example.com/roasted-chickpeas.jpg"
 ---
 ```
 
-Required fields are `title`, `slug`, `baseServings`, `ingredients`, and `instructions`. Each ingredient needs a `name`, non-negative `baseAmount`, and `unit`; use amount `0` with unit `to taste` for unmeasured ingredients. Each instruction needs a positive, sequential `number` and non-empty `text`. `description`, `dietaryTags`, `allergens`, `nutrition`, `image`, and an ingredient's `optional` flag are optional. Allowed tags are defined in `src/lib/recipes/types.ts`.
+Required fields are `title`, `slug`, `baseServings`, `ingredients`, and `instructions`. Each ingredient needs a `name`, non-negative `baseAmount`, and `unit`; use amount `0` with unit `to taste` for unmeasured ingredients. Each instruction needs a positive, sequential `number` and non-empty `text`. `description`, `dietaryTags`, `allergens`, `nutrition`, `image`, and an ingredient's `optional` flag are optional. `prepTimeMinutes` is optional and means active preparation time, excluding cooking and waiting; when provided, include `prepTimeSource` with a credible recipe URL that explicitly reports the preparation time. The two preparation-time fields must be provided together. Allowed tags are defined in `src/lib/recipes/types.ts`.
 
 Keep each slug unique. Invalid fields and duplicate slugs fail the build with a file or slug error. Allergen tags describe the listed ingredients only; they are not a guarantee against cross-contamination or medical advice. Use an image URL that can be served publicly, and provide an accurate recipe title for its alt text.
 

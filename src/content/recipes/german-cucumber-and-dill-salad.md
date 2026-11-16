@@ -13,6 +13,8 @@ description: >-
   Thinly sliced cucumbers tossed in a light, refreshing dressing of sour cream
   or Greek yogurt, vinegar, and fresh dill.
 baseServings: 2
+prepTimeMinutes: 15
+prepTimeSource: "https://www.thespruceeats.com/cucumber-dill-salad-1447154"
 ingredients:
   - name: 'cucumbers, thinly sliced'
     baseAmount: 2

@@ -88,7 +88,24 @@ export const localRecipeFrontmatterSchema = z.object({
 	allergens: z.array(allergenSchema).default([]),
 	nutrition: nutritionSchema.optional(),
 	image: z.string().url().optional(),
-	imageAttribution: imageAttributionSchema.optional()
+	imageAttribution: imageAttributionSchema.optional(),
+	prepTimeMinutes: z.coerce.number().int().positive().optional(),
+	prepTimeSource: z.string().url().optional()
+}).superRefine((recipe, context) => {
+	if (recipe.prepTimeMinutes !== undefined && recipe.prepTimeSource === undefined) {
+		context.addIssue({
+			code: 'custom',
+			path: ['prepTimeSource'],
+			message: 'Preparation time must include a source URL.'
+		});
+	}
+	if (recipe.prepTimeMinutes === undefined && recipe.prepTimeSource !== undefined) {
+		context.addIssue({
+			code: 'custom',
+			path: ['prepTimeMinutes'],
+			message: 'A preparation-time source requires a preparation time.'
+		});
+	}
 });
 
 export type DietaryTag = z.infer<typeof dietaryTagSchema>;

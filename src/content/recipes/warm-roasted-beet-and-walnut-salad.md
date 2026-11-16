@@ -13,6 +13,8 @@ description: >-
   Warm oven-roasted beet cubes tossed with toasted walnuts, arugula, goat
   cheese, and balsamic vinaigrette.
 baseServings: 3
+prepTimeMinutes: 15
+prepTimeSource: "https://ghspice.com/roasted-beet-and-walnut-salad/"
 ingredients:
   - name: 'beets, cubed and roasted'
     baseAmount: 3

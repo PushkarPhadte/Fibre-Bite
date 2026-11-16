@@ -5,6 +5,8 @@ description: >-
   A lighter vegetarian adaptation of Brazil’s national stew made with black
   beans, smoked paprika, sweet potatoes, and orange zest.
 baseServings: 4
+prepTimeMinutes: 10
+prepTimeSource: "https://www.easyanddelish.com/vegetarian-feijoada-recipe/"
 ingredients:
   - name: 'black beans, soaked overnight'
     baseAmount: 1.5

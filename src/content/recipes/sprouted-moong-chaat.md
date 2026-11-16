@@ -5,6 +5,8 @@ description: >-
   A fresh, tangy Indian snack of sprouted mung beans, cucumber, tomato, lime,
   and roasted cumin.
 baseServings: 4
+prepTimeMinutes: 20
+prepTimeSource: "https://www.vegrecipesofindia.com/moong-sprouts-chaat-recipe/"
 ingredients:
   - name: mung bean sprouts
     baseAmount: 400

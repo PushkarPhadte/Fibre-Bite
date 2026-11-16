@@ -12,6 +12,7 @@
 	let { data }: { data: PageData } = $props();
 	let query = $state('');
 	let selectedDiet = $state<DietaryTag | ''>('');
+	let selectedPrepTime = $state<15 | 30 | 45 | 60 | 90 | ''>('');
 	let excludedAllergens = $state<Allergen[]>([]);
 	let selectedSort = $state<'' | 'title' | 'protein' | 'calories'>('');
 	let selectedMicronutrient = $state<MicronutrientFilterKey | ''>('');
@@ -23,6 +24,8 @@
 	$effect(() => {
 		query = page.url.searchParams.get('query') ?? '';
 		selectedDiet = dietaryOptions.find((diet) => diet === page.url.searchParams.get('diet')) ?? '';
+		const prepTime = Number(page.url.searchParams.get('prepTime'));
+		selectedPrepTime = ([15, 30, 45, 60, 90] as const).find((limit) => limit === prepTime) ?? '';
 		excludedAllergens = allergenOptions.filter((allergen) => page.url.searchParams.getAll('exclude').includes(allergen));
 		const sort = page.url.searchParams.get('sort');
 		selectedSort = sort === 'title' || sort === 'protein' || sort === 'calories' ? sort : '';
@@ -38,6 +41,7 @@
 			(!search || recipe.title.toLowerCase().includes(search) ||
 				recipe.ingredients.some((ingredient) => ingredient.name.toLowerCase().includes(search))) &&
 			(!selectedDiet || recipe.dietaryTags.includes(selectedDiet)) &&
+			(!selectedPrepTime || (recipe.prepTimeMinutes !== undefined && recipe.prepTimeMinutes <= selectedPrepTime)) &&
 			(!selectedMicronutrient || meetsMicronutrientThreshold(recipe.nutrition?.micronutrients, selectedMicronutrient, micronutrientThreshold)) &&
 			!activeAllergens.some((allergen) => getRecipeAllergens(recipe).includes(allergen))
 		);
@@ -48,7 +52,7 @@
 		return filtered;
 	});
 
-	let activeCount = $derived(Number(Boolean(query.trim())) + Number(Boolean(selectedDiet)) + excludedAllergens.length + Number(Boolean(selectedSort)) + Number(Boolean(selectedMicronutrient)));
+	let activeCount = $derived(Number(Boolean(query.trim())) + Number(Boolean(selectedDiet)) + Number(Boolean(selectedPrepTime)) + excludedAllergens.length + Number(Boolean(selectedSort)) + Number(Boolean(selectedMicronutrient)));
 
 	function toggleExcluded(allergen: Allergen) {
 		excludedAllergens = excludedAllergens.includes(allergen)
@@ -60,6 +64,7 @@
 		const params = new URLSearchParams();
 		if (query.trim()) params.set('query', query.trim());
 		if (selectedDiet) params.set('diet', selectedDiet);
+		if (selectedPrepTime) params.set('prepTime', String(selectedPrepTime));
 		for (const allergen of excludedAllergens) params.append('exclude', allergen);
 		if (selectedSort) params.set('sort', selectedSort);
 		if (selectedMicronutrient) {
@@ -73,6 +78,7 @@
 	function clearFilters() {
 		query = '';
 		selectedDiet = '';
+		selectedPrepTime = '';
 		excludedAllergens = [];
 		selectedSort = '';
 		selectedMicronutrient = '';
@@ -126,6 +132,17 @@
 					{#each dietaryOptions as option}
 						<option value={option}>{option}</option>
 					{/each}
+				</select>
+			</label>
+			<label class="space-y-1.5 text-sm font-semibold text-slate-700">
+				Preparation time
+				<select bind:value={selectedPrepTime} class="w-full rounded-md border border-slate-300 bg-white px-3 py-2.5 font-normal outline-none focus:border-emerald-700 focus:ring-2 focus:ring-emerald-100">
+					<option value="">Any prep time</option>
+					<option value={15}>Up to 15 minutes</option>
+					<option value={30}>Up to 30 minutes</option>
+					<option value={45}>Up to 45 minutes</option>
+					<option value={60}>Up to 60 minutes</option>
+					<option value={90}>Up to 90 minutes</option>
 				</select>
 			</label>
 			<label class="space-y-1.5 text-sm font-semibold text-slate-700">

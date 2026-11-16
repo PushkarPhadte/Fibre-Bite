@@ -13,6 +13,8 @@ description: >-
   A refreshing, blended soup made with sautéed cucumbers, potatoes, garlic, and
   onions, thickened slightly with cornflour and cream.
 baseServings: 5
+prepTimeMinutes: 20
+prepTimeSource: "https://www.tasteofhome.com/recipes/cucumber-potato-soup/"
 ingredients:
   - name: 'cucumbers, peeled and chopped'
     baseAmount: 3
