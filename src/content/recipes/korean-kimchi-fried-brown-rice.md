@@ -1,14 +1,7 @@
 ---
 title: Korean Kimchi Fried Brown Rice
 slug: korean-kimchi-fried-brown-rice
-image: "https://images.unsplash.com/photo-1543353071-873f17a7a088?auto=format&fit=crop&w=1200&q=80"
-imageAttribution:
-  title: "Korean Kimchi Fried Brown Rice"
-  creator: "Unsplash"
-  creatorUrl: "https://unsplash.com/"
-  sourceUrl: "https://unsplash.com/s/photos/korean-kimchi-fried-brown-rice"
-  license: "Unsplash License"
-  licenseUrl: "https://unsplash.com/license"
+image: "https://upload.wikimedia.org/wikipedia/commons/f/f6/Kimchi-bokkeum-bap_%28Kimchi_fried_rice%29_-_Kogi_2023-09-11.jpg"
 description: >-
   A flavorful Korean bowl featuring gut-healthy fermented kimchi stir-fried with
   brown rice, sesame oil, and a fried egg.
@@ -79,5 +72,7 @@ nutrition:
     calciumMg: 70
     ironMg: 2.2
   micronutrientEstimateSource: Per-serving values from cti_receipes_2.pdf.
+prepTimeMinutes: 10
+prepTimeEstimated: true
 ---
 

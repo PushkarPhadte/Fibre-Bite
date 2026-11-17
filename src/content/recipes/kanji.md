@@ -1,14 +1,7 @@
 ---
 title: Kanji (Odia Rice and Curd Fermented Soup)
 slug: kanji
-image: "https://images.unsplash.com/photo-1559847844-5315695dadae?auto=format&fit=crop&w=1200&q=80"
-imageAttribution:
-  title: "Kanji"
-  creator: "Unsplash"
-  creatorUrl: "https://unsplash.com/"
-  sourceUrl: "https://unsplash.com/s/photos/kanji"
-  license: "Unsplash License"
-  licenseUrl: "https://unsplash.com/license"
+image: "https://images.unsplash.com/photo-1621658536602-d7e121971b90?auto=format&fit=crop&w=1200&q=80"
 description: >-
   A cooling, probiotic Odia rice water soup fermented overnight with mustard
   paste, curd, and vegetables.
@@ -66,5 +59,7 @@ nutrition:
     ironMg: 0.9
     potassiumMg: 180
   micronutrientEstimateSource: Per-serving values from CTI_RECEIPES.pdf.
+prepTimeMinutes: 10
+prepTimeEstimated: true
 ---
 

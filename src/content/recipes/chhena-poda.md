@@ -56,13 +56,16 @@ nutrition:
     ironMg: 1.1
     potassiumMg: 160
   micronutrientEstimateSource: Per-serving values from CTI_RECEIPES.pdf.
-image: "https://upload.wikimedia.org/wikipedia/commons/3/3c/Chhena_Poda-Puri-Odisha-IMG_1323.jpg"
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/3/3c/Chhena_Poda-Puri-Odisha-IMG_1323.jpg
 imageAttribution:
   title: Chhena Poda-Puri-Odisha-IMG 1323
   creator: Subhransuphotography
-  creatorUrl: "https://commons.wikimedia.org/wiki/User:Subhransuphotography"
-  sourceUrl: "https://commons.wikimedia.org/w/index.php?curid=125682914"
+  creatorUrl: 'https://commons.wikimedia.org/wiki/User:Subhransuphotography'
+  sourceUrl: 'https://commons.wikimedia.org/w/index.php?curid=125682914'
   license: CC BY-SA 4.0
-  licenseUrl: "https://creativecommons.org/licenses/by-sa/4.0/"
+  licenseUrl: 'https://creativecommons.org/licenses/by-sa/4.0/'
+prepTimeMinutes: 20
+prepTimeEstimated: true
 ---
 

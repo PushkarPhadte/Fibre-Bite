@@ -67,13 +67,16 @@ nutrition:
     potassiumMg: 260
     magnesiumMg: 78
   micronutrientEstimateSource: Per-serving values from CTI_RECEIPES.pdf.
-image: "https://upload.wikimedia.org/wikipedia/commons/e/eb/Kullvi_Siddu_%28Himachal_Pradesh%29.jpg"
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/e/eb/Kullvi_Siddu_%28Himachal_Pradesh%29.jpg
 imageAttribution:
   title: Kullvi Siddu (Himachal Pradesh)
   creator: Rajani Gairshail
-  creatorUrl: "https://commons.wikimedia.org/wiki/User:Rajani_Gairshail"
-  sourceUrl: "https://commons.wikimedia.org/w/index.php?curid=181056333"
+  creatorUrl: 'https://commons.wikimedia.org/wiki/User:Rajani_Gairshail'
+  sourceUrl: 'https://commons.wikimedia.org/w/index.php?curid=181056333'
   license: CC BY-SA 4.0
-  licenseUrl: "https://creativecommons.org/licenses/by-sa/4.0/"
+  licenseUrl: 'https://creativecommons.org/licenses/by-sa/4.0/'
+prepTimeMinutes: 35
+prepTimeEstimated: true
 ---
 

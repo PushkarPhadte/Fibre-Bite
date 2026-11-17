@@ -1,14 +1,6 @@
 ---
 title: North African Spiced Roasted Cauliflower
 slug: north-african-spiced-roasted-cauliflower
-image: "https://upload.wikimedia.org/wikipedia/commons/9/9c/Liat_Portal_for_Foodie_Disorder_%E2%80%93_Whole_roasted_cauliflower.jpg"
-imageAttribution:
-  title: "Whole roasted cauliflower"
-  creator: "HaJunkiyada"
-  creatorUrl: "https://commons.wikimedia.org/wiki/User:HaJunkiyada"
-  sourceUrl: "https://commons.wikimedia.org/wiki/File:Liat_Portal_for_Foodie_Disorder_%E2%80%93_Whole_roasted_cauliflower.jpg"
-  license: "CC BY-SA 4.0"
-  licenseUrl: "https://creativecommons.org/licenses/by-sa/4.0/"
 description: >-
   Whole cauliflower florets roasted with ras el hanout spice blend, olive oil,
   and served with a lemon-tahini drizzle.
@@ -64,5 +56,17 @@ nutrition:
     potassiumMg: 380
     folateMcg: 55
   micronutrientEstimateSource: Per-serving values from cti_receipes_2.pdf.
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/9/9c/Liat_Portal_for_Foodie_Disorder_%E2%80%93_Whole_roasted_cauliflower.jpg
+imageAttribution:
+  title: Whole roasted cauliflower
+  creator: HaJunkiyada
+  creatorUrl: 'https://commons.wikimedia.org/wiki/User:HaJunkiyada'
+  sourceUrl: >-
+    https://commons.wikimedia.org/wiki/File:Liat_Portal_for_Foodie_Disorder_%E2%80%93_Whole_roasted_cauliflower.jpg
+  license: CC BY-SA 4.0
+  licenseUrl: 'https://creativecommons.org/licenses/by-sa/4.0/'
+prepTimeMinutes: 10
+prepTimeEstimated: true
 ---
 

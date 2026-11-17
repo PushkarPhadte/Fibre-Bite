@@ -1,14 +1,6 @@
 ---
 title: Eastern European Beetroot Borscht
 slug: eastern-european-beetroot-borscht
-image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Borscht_with_bread.jpg/960px-Borscht_with_bread.jpg"
-imageAttribution:
-  title: Borscht with bread
-  creator: Juerg Vollmer from Zurich, Switzerland
-  creatorUrl: "https://commons.wikimedia.org/wiki/Special:Contributions/Juerg_Vollmer_from_Z%C3%BCrich%2C_Schweiz"
-  sourceUrl: "https://commons.wikimedia.org/wiki/File:Borscht_with_bread.jpg"
-  license: CC BY-SA 2.0
-  licenseUrl: "https://creativecommons.org/licenses/by-sa/2.0"
 description: >-
   A vibrant ruby-red beet soup cooked with cabbage, carrots, potatoes, and dill,
   served with a dollop of fresh yogurt.
@@ -72,5 +64,17 @@ nutrition:
     potassiumMg: 450
     folateMcg: 80
   micronutrientEstimateSource: Per-serving values from cti_receipes_2.pdf.
+image: >-
+  https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Borscht_with_bread.jpg/960px-Borscht_with_bread.jpg
+imageAttribution:
+  title: Borscht with bread
+  creator: 'Juerg Vollmer from Zurich, Switzerland'
+  creatorUrl: >-
+    https://commons.wikimedia.org/wiki/Special:Contributions/Juerg_Vollmer_from_Z%C3%BCrich%2C_Schweiz
+  sourceUrl: 'https://commons.wikimedia.org/wiki/File:Borscht_with_bread.jpg'
+  license: CC BY-SA 2.0
+  licenseUrl: 'https://creativecommons.org/licenses/by-sa/2.0'
+prepTimeMinutes: 20
+prepTimeEstimated: true
 ---
 

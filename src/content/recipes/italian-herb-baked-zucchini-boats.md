@@ -1,14 +1,6 @@
 ---
 title: Italian Herb Baked Zucchini Boats
 slug: italian-herb-baked-zucchini-boats
-image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/%D0%91%D1%80%D0%BE%D0%B4%D1%87%D0%B8%D1%9A%D0%B0_%D0%BE%D0%B4_%D1%82%D0%B8%D0%BA%D0%B2%D0%B8%D1%87%D0%BA%D0%B8.jpg/960px-%D0%91%D1%80%D0%BE%D0%B4%D1%87%D0%B8%D1%9A%D0%B0_%D0%BE%D0%B4_%D1%82%D0%B8%D0%BA%D0%B2%D0%B8%D1%87%D0%BA%D0%B8.jpg"
-imageAttribution:
-  title: Zucchini boats
-  creator: Deodora333
-  creatorUrl: "https://commons.wikimedia.org/wiki/Special:Contributions/Deodora333"
-  sourceUrl: "https://commons.wikimedia.org/wiki/File:%D0%91%D1%80%D0%BE%D0%B4%D1%87%D0%B8%D1%9A%D0%B0_%D0%BE%D0%B4_%D1%82%D0%B8%D0%BA%D0%B2%D0%B8%D1%87%D0%BA%D0%B8.jpg"
-  license: CC BY-SA 4.0
-  licenseUrl: "https://creativecommons.org/licenses/by-sa/4.0"
 description: >-
   Halved zucchini hollowed and stuffed with diced vegetables, marinara sauce,
   and baked with a sprinkle of parmesan.
@@ -64,5 +56,17 @@ nutrition:
     calciumMg: 110
     potassiumMg: 380
   micronutrientEstimateSource: Per-serving values from cti_receipes_2.pdf.
+image: >-
+  https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/%D0%91%D1%80%D0%BE%D0%B4%D1%87%D0%B8%D1%9A%D0%B0_%D0%BE%D0%B4_%D1%82%D0%B8%D0%BA%D0%B2%D0%B8%D1%87%D0%BA%D0%B8.jpg/960px-%D0%91%D1%80%D0%BE%D0%B4%D1%87%D0%B8%D1%9A%D0%B0_%D0%BE%D0%B4_%D1%82%D0%B8%D0%BA%D0%B2%D0%B8%D1%87%D0%BA%D0%B8.jpg
+imageAttribution:
+  title: Zucchini boats
+  creator: Deodora333
+  creatorUrl: 'https://commons.wikimedia.org/wiki/Special:Contributions/Deodora333'
+  sourceUrl: >-
+    https://commons.wikimedia.org/wiki/File:%D0%91%D1%80%D0%BE%D0%B4%D1%87%D0%B8%D1%9A%D0%B0_%D0%BE%D0%B4_%D1%82%D0%B8%D0%BA%D0%B2%D0%B8%D1%87%D0%BA%D0%B8.jpg
+  license: CC BY-SA 4.0
+  licenseUrl: 'https://creativecommons.org/licenses/by-sa/4.0'
+prepTimeMinutes: 15
+prepTimeEstimated: true
 ---
 

@@ -1,14 +1,7 @@
 ---
 title: Avocado and Citrus Salad with Toasted Seeds
 slug: avocado-and-citrus-salad-with-toasted-seeds
-image: "https://images.unsplash.com/photo-1546793665-c74683f339c1?auto=format&fit=crop&w=1200&q=80"
-imageAttribution:
-  title: Avocado and citrus salad
-  creator: Unsplash
-  creatorUrl: "https://unsplash.com/"
-  sourceUrl: "https://unsplash.com/s/photos/avocado-citrus-salad"
-  license: Unsplash License
-  licenseUrl: "https://unsplash.com/license"
+image: "https://images.unsplash.com/photo-1631215060641-b9e8e55859a8?auto=format&fit=crop&w=1200&q=80"
 description: >-
   A vibrant fresh salad combining sliced orange segments, creamy avocado, mixed
   greens, and pumpkin seeds.

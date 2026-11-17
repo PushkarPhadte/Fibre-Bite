@@ -1,14 +1,14 @@
 ---
 title: Tomato Omelette (Besan Chilla)
 slug: tomato-omelette-besan-chilla
-image: "https://upload.wikimedia.org/wikipedia/commons/e/e9/Moong_Dosa.jpg"
+image: "https://upload.wikimedia.org/wikipedia/commons/0/0c/Chilla_besan.JPG"
 imageAttribution:
-  title: "Moong Dosa"
-  creator: "Vivek90166"
-  creatorUrl: "https://commons.wikimedia.org/wiki/User:Vivek90166"
-  sourceUrl: "https://commons.wikimedia.org/w/index.php?curid=40936591"
+  title: "Chilla besan"
+  creator: "Kamalsahansi"
+  creatorUrl: "https://commons.wikimedia.org/wiki/User:Kamalsahansi"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:Chilla_besan.JPG"
   license: "CC BY-SA 4.0"
-  licenseUrl: "https://creativecommons.org/licenses/by-sa/4.0/"
+  licenseUrl: "https://creativecommons.org/licenses/by-sa/4.0"
 description: >-
   A savory pan-cooked pancake made from chickpea flour batter mixed with chopped
   tomatoes, onions, spices, and herbs.

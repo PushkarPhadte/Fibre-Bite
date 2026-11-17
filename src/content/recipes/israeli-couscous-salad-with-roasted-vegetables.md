@@ -1,14 +1,6 @@
 ---
 title: Israeli Couscous Salad with Roasted Vegetables
 slug: israeli-couscous-salad-with-roasted-vegetables
-image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Liat_Portal_for_Foodie_Disorder_-_Ptitim_with_fresh_salad.jpg/960px-Liat_Portal_for_Foodie_Disorder_-_Ptitim_with_fresh_salad.jpg"
-imageAttribution:
-  title: Ptitim with fresh salad
-  creator: HaJunkiyada
-  creatorUrl: "https://commons.wikimedia.org/wiki/Special:Contributions/HaJunkiyada"
-  sourceUrl: "https://commons.wikimedia.org/wiki/File:Liat_Portal_for_Foodie_Disorder_-_Ptitim_with_fresh_salad.jpg"
-  license: CC BY-SA 4.0
-  licenseUrl: "https://creativecommons.org/licenses/by-sa/4.0"
 description: >-
   Pearl couscous tossed with oven-roasted zucchini, bell peppers, cherry
   tomatoes, and a herb-lemon vinaigrette.
@@ -72,5 +64,17 @@ nutrition:
     ironMg: 1.5
     potassiumMg: 280
   micronutrientEstimateSource: Per-serving values from cti_receipes_2.pdf.
+image: >-
+  https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Liat_Portal_for_Foodie_Disorder_-_Ptitim_with_fresh_salad.jpg/960px-Liat_Portal_for_Foodie_Disorder_-_Ptitim_with_fresh_salad.jpg
+imageAttribution:
+  title: Ptitim with fresh salad
+  creator: HaJunkiyada
+  creatorUrl: 'https://commons.wikimedia.org/wiki/Special:Contributions/HaJunkiyada'
+  sourceUrl: >-
+    https://commons.wikimedia.org/wiki/File:Liat_Portal_for_Foodie_Disorder_-_Ptitim_with_fresh_salad.jpg
+  license: CC BY-SA 4.0
+  licenseUrl: 'https://creativecommons.org/licenses/by-sa/4.0'
+prepTimeMinutes: 20
+prepTimeEstimated: true
 ---
 

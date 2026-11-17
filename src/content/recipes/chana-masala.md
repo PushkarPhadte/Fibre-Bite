@@ -91,13 +91,15 @@ nutrition:
   micronutrientEstimateSource: >-
     Approximate per-serving estimates from generic cooked chickpeas, tomatoes,
     and spices; chickpea yield and salt use vary.
-image: "https://upload.wikimedia.org/wikipedia/commons/8/8e/Chana_masala.jpg"
+image: 'https://upload.wikimedia.org/wikipedia/commons/8/8e/Chana_masala.jpg'
 imageAttribution:
   title: Chana masala
   creator: Simon Law (sfllaw)
-  creatorUrl: "https://www.flickr.com/photos/sfllaw"
-  sourceUrl: "https://commons.wikimedia.org/w/index.php?curid=1235151"
+  creatorUrl: 'https://www.flickr.com/photos/sfllaw'
+  sourceUrl: 'https://commons.wikimedia.org/w/index.php?curid=1235151'
   license: CC BY-SA 2.0
-  licenseUrl: "https://creativecommons.org/licenses/by-sa/2.0/"
+  licenseUrl: 'https://creativecommons.org/licenses/by-sa/2.0/'
+prepTimeMinutes: 15
+prepTimeEstimated: true
 ---
 

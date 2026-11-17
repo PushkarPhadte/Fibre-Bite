@@ -1,14 +1,14 @@
 ---
 title: Rajma (Red Kidney Bean Curry)
 slug: rajma-red-kidney-bean-curry
-image: "https://images.unsplash.com/photo-1543353071-873f17a7a088?auto=format&fit=crop&w=1200&q=80"
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c4/Rajma_Chawal_Thali.jpg"
 imageAttribution:
-  title: "Rajma Red Kidney Bean Curry"
-  creator: "Unsplash"
-  creatorUrl: "https://unsplash.com/"
-  sourceUrl: "https://unsplash.com/s/photos/rajma-red-kidney-bean-curry"
-  license: "Unsplash License"
-  licenseUrl: "https://unsplash.com/license"
+  title: "Rajma Chawal Thali"
+  creator: "Medhi jyoti"
+  creatorUrl: "https://commons.wikimedia.org/wiki/User:Medhi_jyoti"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:Rajma_Chawal_Thali.jpg"
+  license: "CC BY-SA 4.0"
+  licenseUrl: "https://creativecommons.org/licenses/by-sa/4.0"
 description: >-
   A North Indian curry made with slow-cooked red kidney beans simmered in a
   spiced onion-tomato gravy.
@@ -79,5 +79,7 @@ nutrition:
     magnesiumMg: 62
     folateMcg: 115
   micronutrientEstimateSource: Per-serving values from CTI_RECEIPES.pdf.
+prepTimeMinutes: 15
+prepTimeEstimated: true
 ---
 

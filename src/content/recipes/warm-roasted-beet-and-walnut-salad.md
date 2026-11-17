@@ -1,14 +1,14 @@
 ---
 title: Warm Roasted Beet and Walnut Salad
 slug: warm-roasted-beet-and-walnut-salad
-image: "https://images.unsplash.com/photo-1490645935967-10de6ba17061?auto=format&fit=crop&w=1200&q=80"
+image: "https://upload.wikimedia.org/wikipedia/commons/8/85/Goat_cheese_and_beet_salad_in_Hungary.jpg"
 imageAttribution:
-  title: "Warm Roasted Beet And Walnut Salad"
-  creator: "Unsplash"
-  creatorUrl: "https://unsplash.com/"
-  sourceUrl: "https://unsplash.com/s/photos/warm-roasted-beet-and-walnut-salad"
-  license: "Unsplash License"
-  licenseUrl: "https://unsplash.com/license"
+  title: "Goat cheese and beet salad in Hungary"
+  creator: "Alex Sirac"
+  creatorUrl: "https://www.wikidata.org/wiki/Q47472326"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:Goat_cheese_and_beet_salad_in_Hungary.jpg"
+  license: "CC BY 4.0"
+  licenseUrl: "https://creativecommons.org/licenses/by/4.0"
 description: >-
   Warm oven-roasted beet cubes tossed with toasted walnuts, arugula, goat
   cheese, and balsamic vinaigrette.

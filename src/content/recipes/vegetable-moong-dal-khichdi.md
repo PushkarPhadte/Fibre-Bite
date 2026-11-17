@@ -83,13 +83,15 @@ nutrition:
   micronutrientEstimateSource: >-
     Approximate per-serving estimates from generic rice, mung dal, and vegetable
     composition; rice variety and ghee or oil choice vary.
-image: "https://upload.wikimedia.org/wikipedia/commons/a/ac/Vegetable_Khichdi.jpg"
+image: 'https://upload.wikimedia.org/wikipedia/commons/a/ac/Vegetable_Khichdi.jpg'
 imageAttribution:
   title: Vegetable Khichdi
   creator: Dolon Prova
-  creatorUrl: "https://commons.wikimedia.org/wiki/User:Dolon_Prova"
-  sourceUrl: "https://commons.wikimedia.org/w/index.php?curid=111301203"
+  creatorUrl: 'https://commons.wikimedia.org/wiki/User:Dolon_Prova'
+  sourceUrl: 'https://commons.wikimedia.org/w/index.php?curid=111301203'
   license: CC BY-SA 4.0
-  licenseUrl: "https://creativecommons.org/licenses/by-sa/4.0/"
+  licenseUrl: 'https://creativecommons.org/licenses/by-sa/4.0/'
+prepTimeMinutes: 15
+prepTimeEstimated: true
 ---
 

@@ -1,14 +1,7 @@
 ---
 title: Ethiopian Lentil Stew (Misir Wot)
 slug: ethiopian-lentil-stew-misir-wot
-image: "https://images.unsplash.com/photo-1547592180-85f173990554?auto=format&fit=crop&w=1200&q=80"
-imageAttribution:
-  title: Lentil stew
-  creator: Unsplash
-  creatorUrl: "https://unsplash.com/"
-  sourceUrl: "https://unsplash.com/s/photos/ethiopian-lentil-stew"
-  license: Unsplash License
-  licenseUrl: "https://unsplash.com/license"
+image: "https://images.unsplash.com/photo-1679917010073-ead631d41d91?auto=format&fit=crop&w=1200&q=80"
 description: >-
   A spicy Ethiopian red lentil stew simmered with berbere spice blend, garlic,
   ginger, and tomatoes.
@@ -71,5 +64,7 @@ nutrition:
     magnesiumMg: 55
     folateMcg: 120
   micronutrientEstimateSource: Per-serving values from cti_receipes_2.pdf.
+prepTimeMinutes: 15
+prepTimeEstimated: true
 ---
 

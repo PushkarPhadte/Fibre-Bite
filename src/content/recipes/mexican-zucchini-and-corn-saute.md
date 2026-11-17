@@ -1,14 +1,7 @@
 ---
 title: Mexican Zucchini and Corn Sauté (Calabacitas)
 slug: mexican-zucchini-and-corn-saute
-image: "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?auto=format&fit=crop&w=1200&q=80"
-imageAttribution:
-  title: "Mexican Zucchini And Corn Saute"
-  creator: "Unsplash"
-  creatorUrl: "https://unsplash.com/"
-  sourceUrl: "https://unsplash.com/s/photos/mexican-zucchini-and-corn-saute"
-  license: "Unsplash License"
-  licenseUrl: "https://unsplash.com/license"
+image: "https://images.unsplash.com/photo-1670867014068-220008de468d?auto=format&fit=crop&w=1200&q=80"
 description: >-
   A traditional Mexican vegetable side dish of sautéed zucchini, corn, tomatoes,
   garlic, and fresh herbs.

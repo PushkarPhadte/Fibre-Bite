@@ -1,14 +1,6 @@
 ---
 title: Dalma (Odisha Lentil and Vegetable Stew)
 slug: dalma
-image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Dalma%28dish%29.jpg/960px-Dalma%28dish%29.jpg"
-imageAttribution:
-  title: Dalma, an Odia cuisine dish
-  creator: Sibani
-  creatorUrl: "https://commons.wikimedia.org/wiki/Special:Contributions/Sibani"
-  sourceUrl: "https://commons.wikimedia.org/wiki/File:Dalma(dish).jpg"
-  license: CC BY-SA 4.0
-  licenseUrl: "https://creativecommons.org/licenses/by-sa/4.0"
 description: >-
   A wholesome Odia stew cooked with split yellow lentils, raw papaya, pumpkin,
   eggplant, and dry roasted spices.
@@ -78,5 +70,16 @@ nutrition:
     potassiumMg: 480
     folateMcg: 72
   micronutrientEstimateSource: Per-serving values from CTI_RECEIPES.pdf.
+image: >-
+  https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Dalma%28dish%29.jpg/960px-Dalma%28dish%29.jpg
+imageAttribution:
+  title: 'Dalma, an Odia cuisine dish'
+  creator: Sibani
+  creatorUrl: 'https://commons.wikimedia.org/wiki/Special:Contributions/Sibani'
+  sourceUrl: 'https://commons.wikimedia.org/wiki/File:Dalma(dish).jpg'
+  license: CC BY-SA 4.0
+  licenseUrl: 'https://creativecommons.org/licenses/by-sa/4.0'
+prepTimeMinutes: 20
+prepTimeEstimated: true
 ---
 

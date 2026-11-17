@@ -1,14 +1,7 @@
 ---
 title: Roasted Butternut Squash and Sage Soup
 slug: roasted-butternut-squash-and-sage-soup
-image: "https://images.unsplash.com/photo-1540189549336-e6e99c3679fe?auto=format&fit=crop&w=1200&q=80"
-imageAttribution:
-  title: "Roasted Butternut Squash And Sage Soup"
-  creator: "Unsplash"
-  creatorUrl: "https://unsplash.com/"
-  sourceUrl: "https://unsplash.com/s/photos/roasted-butternut-squash-and-sage-soup"
-  license: "Unsplash License"
-  licenseUrl: "https://unsplash.com/license"
+image: "https://images.unsplash.com/photo-1764015939108-7963106fa73b?auto=format&fit=crop&w=1200&q=80"
 description: >-
   Velvety smooth autumn soup prepared from oven-roasted butternut squash,
   garlic, onion, and fresh sage.
@@ -67,5 +60,7 @@ nutrition:
     calciumMg: 75
     potassiumMg: 510
   micronutrientEstimateSource: Per-serving values from cti_receipes_2.pdf.
+prepTimeMinutes: 20
+prepTimeEstimated: true
 ---
 

@@ -1,14 +1,7 @@
 ---
 title: West African Peanut and Tomato Stew (Light Version)
 slug: west-african-peanut-and-tomato-stew
-image: "https://images.unsplash.com/photo-1467003909585-2f8a72700288?auto=format&fit=crop&w=1200&q=80"
-imageAttribution:
-  title: Peanut and tomato stew
-  creator: Unsplash
-  creatorUrl: "https://unsplash.com/"
-  sourceUrl: "https://unsplash.com/s/photos/peanut-tomato-stew"
-  license: Unsplash License
-  licenseUrl: "https://unsplash.com/license"
+image: "https://images.unsplash.com/photo-1540716908819-502544f3e963?auto=format&fit=crop&w=1200&q=80"
 description: >-
   A rich West African vegetable stew infused with natural peanut butter,
   tomatoes, sweet potatoes, and spinach.
@@ -77,5 +70,7 @@ nutrition:
     potassiumMg: 490
     magnesiumMg: 58
   micronutrientEstimateSource: Per-serving values from cti_receipes_2.pdf.
+prepTimeMinutes: 20
+prepTimeEstimated: true
 ---
 

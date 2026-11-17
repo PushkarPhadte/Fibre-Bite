@@ -88,13 +88,15 @@ nutrition:
   micronutrientEstimateSource: >-
     Approximate per-serving estimates from generic pulse and vegetable
     composition; sambar powder, dal variety, and salt use vary.
-image: "https://live.staticflickr.com/109/303071888_05b391e9bd_b.jpg"
+image: 'https://live.staticflickr.com/109/303071888_05b391e9bd_b.jpg'
 imageAttribution:
   title: Sambar (Spicy lentils)
   creator: rovingI
-  creatorUrl: "https://www.flickr.com/photos/70522326@N00"
-  sourceUrl: "https://www.flickr.com/photos/70522326@N00/303071888"
+  creatorUrl: 'https://www.flickr.com/photos/70522326@N00'
+  sourceUrl: 'https://www.flickr.com/photos/70522326@N00/303071888'
   license: CC BY 2.0
-  licenseUrl: "https://creativecommons.org/licenses/by/2.0/"
+  licenseUrl: 'https://creativecommons.org/licenses/by/2.0/'
+prepTimeMinutes: 20
+prepTimeEstimated: true
 ---
 

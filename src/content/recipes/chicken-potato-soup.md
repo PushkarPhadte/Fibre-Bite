@@ -1,14 +1,7 @@
 ---
 title: Chicken Potato Soup
 slug: chicken-potato-soup
-image: "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?auto=format&fit=crop&w=1200&q=80"
-imageAttribution:
-  title: "Chicken Potato Soup"
-  creator: "Unsplash"
-  creatorUrl: "https://unsplash.com/"
-  sourceUrl: "https://unsplash.com/s/photos/chicken-potato-soup"
-  license: "Unsplash License"
-  licenseUrl: "https://unsplash.com/license"
+image: "https://upload.wikimedia.org/wikipedia/commons/8/8a/Campbell%27s_Chicken_Noodle_Soup_with_Chayote_and_Potatoes.jpg"
 description: >-
   A savory, light soup consisting of pressure-cooked chicken and potatoes
   blended together with shredded chicken pieces and herbs.

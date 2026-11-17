@@ -1,14 +1,7 @@
 ---
 title: Moroccan Carrot and Cumin Salad
 slug: moroccan-carrot-and-cumin-salad
-image: "https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&w=1200&q=80"
-imageAttribution:
-  title: "Moroccan Carrot And Cumin Salad"
-  creator: "Unsplash"
-  creatorUrl: "https://unsplash.com/"
-  sourceUrl: "https://unsplash.com/s/photos/moroccan-carrot-and-cumin-salad"
-  license: "Unsplash License"
-  licenseUrl: "https://unsplash.com/license"
+image: "https://images.unsplash.com/photo-1682370207954-c8a9cccaabb4?auto=format&fit=crop&w=1200&q=80"
 description: >-
   Tender cooked carrot coins tossed in a fragrant dressing of garlic, cumin,
   paprika, lemon juice, and cilantro.
@@ -65,5 +58,7 @@ nutrition:
     calciumMg: 35
     potassiumMg: 320
   micronutrientEstimateSource: Per-serving values from cti_receipes_2.pdf.
+prepTimeMinutes: 10
+prepTimeEstimated: true
 ---
 

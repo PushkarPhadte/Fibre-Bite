@@ -1,14 +1,6 @@
 ---
 title: Kordoi / Assamese Whole Wheat Savory Snacks
 slug: kordoi-assamese-whole-wheat-savory-snacks
-image: "https://upload.wikimedia.org/wikipedia/commons/1/1b/Assamese_pitha.jpg"
-imageAttribution:
-  title: "Assamese pitha"
-  creator: "Deepdlight"
-  creatorUrl: "https://commons.wikimedia.org/wiki/User:Deepdlight"
-  sourceUrl: "https://commons.wikimedia.org/wiki/File:Assamese_pitha.jpg"
-  license: "CC BY-SA 4.0"
-  licenseUrl: "https://creativecommons.org/licenses/by-sa/4.0/"
 description: >-
   A traditional Assamese tea-time snack shaped like starfruit (kordoi), made
   healthy using whole wheat flour and carom seeds.
@@ -63,5 +55,15 @@ nutrition:
     potassiumMg: 140
     folateMcg: 35
   micronutrientEstimateSource: Per-serving values from CTI_RECEIPES.pdf.
+image: 'https://upload.wikimedia.org/wikipedia/commons/1/1b/Assamese_pitha.jpg'
+imageAttribution:
+  title: Assamese pitha
+  creator: Deepdlight
+  creatorUrl: 'https://commons.wikimedia.org/wiki/User:Deepdlight'
+  sourceUrl: 'https://commons.wikimedia.org/wiki/File:Assamese_pitha.jpg'
+  license: CC BY-SA 4.0
+  licenseUrl: 'https://creativecommons.org/licenses/by-sa/4.0/'
+prepTimeMinutes: 25
+prepTimeEstimated: true
 ---
 

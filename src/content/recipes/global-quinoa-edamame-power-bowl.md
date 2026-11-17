@@ -1,14 +1,6 @@
 ---
 title: Global Quinoa Edamame Power Bowl
 slug: global-quinoa-edamame-power-bowl
-image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Vegan_Quinoa_Bowl_%2844040185371%29.jpg/960px-Vegan_Quinoa_Bowl_%2844040185371%29.jpg"
-imageAttribution:
-  title: Vegan quinoa bowl
-  creator: Ella Olsson
-  creatorUrl: "https://www.flickr.com/photos/155807330@N05"
-  sourceUrl: "https://commons.wikimedia.org/wiki/File:Vegan_Quinoa_Bowl_(44040185371).jpg"
-  license: CC BY 2.0
-  licenseUrl: "https://creativecommons.org/licenses/by/2.0"
 description: >-
   A nutrient-packed protein bowl featuring fluffy quinoa, steamed edamame,
   shredded purple cabbage, carrots, and sesame dressing.
@@ -65,5 +57,16 @@ nutrition:
     potassiumMg: 410
     folateMcg: 140
   micronutrientEstimateSource: Per-serving values from cti_receipes_2.pdf.
+image: >-
+  https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Vegan_Quinoa_Bowl_%2844040185371%29.jpg/960px-Vegan_Quinoa_Bowl_%2844040185371%29.jpg
+imageAttribution:
+  title: Vegan quinoa bowl
+  creator: Ella Olsson
+  creatorUrl: 'https://www.flickr.com/photos/155807330@N05'
+  sourceUrl: 'https://commons.wikimedia.org/wiki/File:Vegan_Quinoa_Bowl_(44040185371).jpg'
+  license: CC BY 2.0
+  licenseUrl: 'https://creativecommons.org/licenses/by/2.0'
+prepTimeMinutes: 15
+prepTimeEstimated: true
 ---
 

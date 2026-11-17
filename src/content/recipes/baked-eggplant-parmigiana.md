@@ -64,13 +64,15 @@ nutrition:
     ironMg: 1.3
     potassiumMg: 410
   micronutrientEstimateSource: Per-serving values from cti_receipes_2.pdf.
-image: "https://live.staticflickr.com/3120/2865434046_4c5033de9b_b.jpg"
+image: 'https://live.staticflickr.com/3120/2865434046_4c5033de9b_b.jpg'
 imageAttribution:
   title: Baked Eggplant with tomato sauce and parmesan cheese
   creator: avlxyz
-  creatorUrl: "https://www.flickr.com/photos/10559879@N00"
-  sourceUrl: "https://www.flickr.com/photos/10559879@N00/2865434046"
+  creatorUrl: 'https://www.flickr.com/photos/10559879@N00'
+  sourceUrl: 'https://www.flickr.com/photos/10559879@N00/2865434046'
   license: CC BY-SA 2.0
-  licenseUrl: "https://creativecommons.org/licenses/by-sa/2.0/"
+  licenseUrl: 'https://creativecommons.org/licenses/by-sa/2.0/'
+prepTimeMinutes: 25
+prepTimeEstimated: true
 ---
 

@@ -1,14 +1,7 @@
 ---
 title: Mexican Black Bean and Corn Bowl
 slug: mexican-black-bean-and-corn-bowl
-image: "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?auto=format&fit=crop&w=1200&q=80"
-imageAttribution:
-  title: Black bean and corn bowl
-  creator: Unsplash
-  creatorUrl: "https://unsplash.com/"
-  sourceUrl: "https://unsplash.com/s/photos/mexican-black-bean-bowl"
-  license: Unsplash License
-  licenseUrl: "https://unsplash.com/license"
+image: "https://images.unsplash.com/photo-1651994410503-2bc30ab8fa8c?auto=format&fit=crop&w=1200&q=80"
 description: >-
   A vibrant Southwestern bowl filled with black beans, sweet corn, diced
   avocado, cilantro, and lime dressing.

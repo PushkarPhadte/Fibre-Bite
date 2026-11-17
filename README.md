@@ -43,11 +43,13 @@ image: "https://example.com/roasted-chickpeas.jpg"
 ---
 ```
 
-Required fields are `title`, `slug`, `baseServings`, `ingredients`, and `instructions`. Each ingredient needs a `name`, non-negative `baseAmount`, and `unit`; use amount `0` with unit `to taste` for unmeasured ingredients. Each instruction needs a positive, sequential `number` and non-empty `text`. `description`, `dietaryTags`, `allergens`, `nutrition`, `image`, and an ingredient's `optional` flag are optional. `prepTimeMinutes` is optional and means active preparation time, excluding cooking and waiting; when provided, include `prepTimeSource` with a credible recipe URL that explicitly reports the preparation time. The two preparation-time fields must be provided together. Allowed tags are defined in `src/lib/recipes/types.ts`.
+Required fields are `title`, `slug`, `baseServings`, `ingredients`, and `instructions`. Each ingredient needs a `name`, non-negative `baseAmount`, and `unit`; use amount `0` with unit `to taste` for unmeasured ingredients. Each instruction needs a positive, sequential `number` and non-empty `text`. `description`, `dietaryTags`, `allergens`, `nutrition`, `image`, and an ingredient's `optional` flag are optional. `prepTimeMinutes` is optional and means active preparation time, excluding cooking and waiting. When sourced, include `prepTimeSource` with a credible recipe URL that reports the time. When estimated from the recipe instructions, set `prepTimeEstimated: true` instead; estimated times must not include a source URL. Allowed tags are defined in `src/lib/recipes/types.ts`.
 
 Keep each slug unique. Invalid fields and duplicate slugs fail the build with a file or slug error. Allergen tags describe the listed ingredients only; they are not a guarantee against cross-contamination or medical advice. Use an image URL that can be served publicly, and provide an accurate recipe title for its alt text.
 
 To add several recipes from structured data, use the [bulk recipe JSON format](docs/recipe-import-json.md) and run `pnpm recipes:import -- path/to/recipes.json`. Add `--dry-run` to validate the entire batch without writing files.
+
+Run `pnpm recipes:metadata` to generate a compact recipe inventory at `resources/recipe-metadata.json`, including missing and repeated image URLs.
 
 ## Develop And Deploy
 

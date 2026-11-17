@@ -1,14 +1,6 @@
 ---
 title: Pudina Chutney Stuffed Tandoori Fish
 slug: pudina-chutney-stuffed-tandoori-fish
-image: "https://upload.wikimedia.org/wikipedia/commons/f/f6/Tandoori_fish.jpg"
-imageAttribution:
-  title: "Tandoori fish"
-  creator: "Tinu alby"
-  creatorUrl: "https://commons.wikimedia.org/wiki/User:Tinu_alby"
-  sourceUrl: "https://commons.wikimedia.org/wiki/File:Tandoori_fish.jpg"
-  license: "CC BY-SA 4.0"
-  licenseUrl: "https://creativecommons.org/licenses/by-sa/4.0/"
 description: >-
   Whole fish fillets stuffed with fresh mint-coriander green chutney and roasted
   to tender perfection.
@@ -69,5 +61,15 @@ nutrition:
     ironMg: 1.8
     potassiumMg: 420
   micronutrientEstimateSource: Per-serving values from CTI_RECEIPES.pdf.
+image: 'https://upload.wikimedia.org/wikipedia/commons/f/f6/Tandoori_fish.jpg'
+imageAttribution:
+  title: Tandoori fish
+  creator: Tinu alby
+  creatorUrl: 'https://commons.wikimedia.org/wiki/User:Tinu_alby'
+  sourceUrl: 'https://commons.wikimedia.org/wiki/File:Tandoori_fish.jpg'
+  license: CC BY-SA 4.0
+  licenseUrl: 'https://creativecommons.org/licenses/by-sa/4.0/'
+prepTimeMinutes: 25
+prepTimeEstimated: true
 ---
 

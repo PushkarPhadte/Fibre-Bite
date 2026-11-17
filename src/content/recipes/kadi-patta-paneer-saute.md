@@ -1,14 +1,6 @@
 ---
 title: Kadi Patta Paneer Sauté (Curry Leaf Cottage Cheese)
 slug: kadi-patta-paneer-saute
-image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Paneer_Curry_with_Rice.jpg/960px-Paneer_Curry_with_Rice.jpg"
-imageAttribution:
-  title: Paneer curry with rice
-  creator: UserWiki
-  creatorUrl: "https://commons.wikimedia.org/wiki/Special:Contributions/UserWiki"
-  sourceUrl: "https://commons.wikimedia.org/wiki/File:Paneer_Curry_with_Rice.jpg"
-  license: CC BY-SA 4.0
-  licenseUrl: "https://creativecommons.org/licenses/by-sa/4.0"
 description: >-
   Cubes of low-fat cottage cheese tossed with fresh curry leaves, turmeric, and
   cracked black pepper.
@@ -65,5 +57,16 @@ nutrition:
     calciumMg: 310
     ironMg: 1.2
   micronutrientEstimateSource: Per-serving values from CTI_RECEIPES.pdf.
+image: >-
+  https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Paneer_Curry_with_Rice.jpg/960px-Paneer_Curry_with_Rice.jpg
+imageAttribution:
+  title: Paneer curry with rice
+  creator: UserWiki
+  creatorUrl: 'https://commons.wikimedia.org/wiki/Special:Contributions/UserWiki'
+  sourceUrl: 'https://commons.wikimedia.org/wiki/File:Paneer_Curry_with_Rice.jpg'
+  license: CC BY-SA 4.0
+  licenseUrl: 'https://creativecommons.org/licenses/by-sa/4.0'
+prepTimeMinutes: 10
+prepTimeEstimated: true
 ---
 

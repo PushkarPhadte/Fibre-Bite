@@ -86,13 +86,15 @@ nutrition:
   micronutrientEstimateSource: >-
     Approximate per-serving estimates from generic white fish, light coconut
     milk, and vegetables; fish species and coconut milk brands vary.
-image: "https://live.staticflickr.com/4089/5164064172_109604f3f8_b.jpg"
+image: 'https://live.staticflickr.com/4089/5164064172_109604f3f8_b.jpg'
 imageAttribution:
   title: Kerala Fish Curry
   creator: Rameshng
-  creatorUrl: "https://www.flickr.com/photos/39107352@N08"
-  sourceUrl: "https://www.flickr.com/photos/39107352@N08/5164064172"
+  creatorUrl: 'https://www.flickr.com/photos/39107352@N08'
+  sourceUrl: 'https://www.flickr.com/photos/39107352@N08/5164064172'
   license: CC BY-SA 2.0
-  licenseUrl: "https://creativecommons.org/licenses/by-sa/2.0/"
+  licenseUrl: 'https://creativecommons.org/licenses/by-sa/2.0/'
+prepTimeMinutes: 15
+prepTimeEstimated: true
 ---
 

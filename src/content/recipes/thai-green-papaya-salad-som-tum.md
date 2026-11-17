@@ -1,14 +1,6 @@
 ---
 title: Thai Green Papaya Salad (Som Tum)
 slug: thai-green-papaya-salad-som-tum
-image: "https://upload.wikimedia.org/wikipedia/commons/6/6c/Som_Tam_green_papaya_salad%2C_Bangkok%2C_Thailand.jpg"
-imageAttribution:
-  title: "Som Tam green papaya salad, Bangkok, Thailand"
-  creator: "Vyacheslav Argenberg"
-  creatorUrl: "https://commons.wikimedia.org/wiki/User:Argenberg"
-  sourceUrl: "https://commons.wikimedia.org/wiki/File:Som_Tam_green_papaya_salad,_Bangkok,_Thailand.jpg"
-  license: "CC BY 4.0"
-  licenseUrl: "https://creativecommons.org/licenses/by/4.0/"
 description: >-
   A tangy, crunchy Northeastern Thai salad made with shredded green papaya,
   cherry tomatoes, green beans, peanuts, and lime juice.
@@ -71,5 +63,17 @@ nutrition:
     calciumMg: 42
     potassiumMg: 290
   micronutrientEstimateSource: Per-serving values from cti_receipes_2.pdf.
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/6/6c/Som_Tam_green_papaya_salad%2C_Bangkok%2C_Thailand.jpg
+imageAttribution:
+  title: 'Som Tam green papaya salad, Bangkok, Thailand'
+  creator: Vyacheslav Argenberg
+  creatorUrl: 'https://commons.wikimedia.org/wiki/User:Argenberg'
+  sourceUrl: >-
+    https://commons.wikimedia.org/wiki/File:Som_Tam_green_papaya_salad,_Bangkok,_Thailand.jpg
+  license: CC BY 4.0
+  licenseUrl: 'https://creativecommons.org/licenses/by/4.0/'
+prepTimeMinutes: 25
+prepTimeEstimated: true
 ---
 

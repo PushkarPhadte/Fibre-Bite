@@ -87,13 +87,15 @@ nutrition:
   micronutrientEstimateSource: >-
     Approximate per-serving estimates from generic ingredient composition and
     stated quantities; brands, produce size, and salt use vary.
-image: "https://upload.wikimedia.org/wikipedia/commons/8/80/Poha.jpg"
+image: 'https://upload.wikimedia.org/wikipedia/commons/8/80/Poha.jpg'
 imageAttribution:
   title: Poha
   creator: Sanjay Acharya
-  creatorUrl: "https://en.wikipedia.org/wiki/User:Sanjay_ach"
-  sourceUrl: "https://commons.wikimedia.org/w/index.php?curid=17010523"
+  creatorUrl: 'https://en.wikipedia.org/wiki/User:Sanjay_ach'
+  sourceUrl: 'https://commons.wikimedia.org/w/index.php?curid=17010523'
   license: CC BY-SA 3.0
-  licenseUrl: "https://creativecommons.org/licenses/by-sa/3.0/"
+  licenseUrl: 'https://creativecommons.org/licenses/by-sa/3.0/'
+prepTimeMinutes: 15
+prepTimeEstimated: true
 ---
 

@@ -1,14 +1,7 @@
 ---
 title: Steamed Edamame with Sea Salt
 slug: steamed-edamame-with-sea-salt
-image: "https://images.unsplash.com/photo-1547592166-23ac45744acd?auto=format&fit=crop&w=1200&q=80"
-imageAttribution:
-  title: "Steamed Edamame With Sea Salt"
-  creator: "Unsplash"
-  creatorUrl: "https://unsplash.com/"
-  sourceUrl: "https://unsplash.com/s/photos/steamed-edamame-with-sea-salt"
-  license: "Unsplash License"
-  licenseUrl: "https://unsplash.com/license"
+image: "https://images.unsplash.com/photo-1708428661248-03d821e192eb?auto=format&fit=crop&w=1200&q=80"
 description: >-
   Young green soybeans steamed in their pods and tossed with coarse sea salt,
   offering an effortless protein-rich plant snack.

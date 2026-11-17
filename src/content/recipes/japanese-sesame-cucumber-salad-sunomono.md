@@ -1,14 +1,6 @@
 ---
 title: Japanese Sesame Cucumber Salad (Sunomono)
 slug: japanese-sesame-cucumber-salad-sunomono
-image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/2016-09-07_Liangmaqiao_Japanese_Restaurant_cucumber_salat_anagoria.jpg/960px-2016-09-07_Liangmaqiao_Japanese_Restaurant_cucumber_salat_anagoria.jpg"
-imageAttribution:
-  title: Japanese sesame cucumber salad
-  creator: Anagoria
-  creatorUrl: "https://commons.wikimedia.org/wiki/User:Anagoria"
-  sourceUrl: "https://commons.wikimedia.org/wiki/File:2016-09-07_Liangmaqiao_Japanese_Restaurant_cucumber_salat_anagoria.jpg"
-  license: CC BY 3.0
-  licenseUrl: "https://creativecommons.org/licenses/by/3.0"
 description: >-
   Crisp Japanese cucumber ribbons pickled gently in rice vinegar, soy sauce, and
   toasted sesame seeds.
@@ -62,5 +54,17 @@ nutrition:
     ironMg: 0.5
     potassiumMg: 180
   micronutrientEstimateSource: Per-serving values from cti_receipes_2.pdf.
+image: >-
+  https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/2016-09-07_Liangmaqiao_Japanese_Restaurant_cucumber_salat_anagoria.jpg/960px-2016-09-07_Liangmaqiao_Japanese_Restaurant_cucumber_salat_anagoria.jpg
+imageAttribution:
+  title: Japanese sesame cucumber salad
+  creator: Anagoria
+  creatorUrl: 'https://commons.wikimedia.org/wiki/User:Anagoria'
+  sourceUrl: >-
+    https://commons.wikimedia.org/wiki/File:2016-09-07_Liangmaqiao_Japanese_Restaurant_cucumber_salat_anagoria.jpg
+  license: CC BY 3.0
+  licenseUrl: 'https://creativecommons.org/licenses/by/3.0'
+prepTimeMinutes: 10
+prepTimeEstimated: true
 ---
 

@@ -1,14 +1,14 @@
 ---
 title: Kangshoi (Manipuri Oil-Free Vegetable Stew)
 slug: kangshoi
-image: "https://images.unsplash.com/photo-1467003909585-2f8a72700288?auto=format&fit=crop&w=1200&q=80"
+image: "https://upload.wikimedia.org/wikipedia/commons/5/5d/Chamthong_%28alias_Kangshoi_or_Kangsoi%29_dish_-_Traditional_Meitei_cuisine_-_Gastronomic_cultural_heritage_of_Manipur_%26_domestic_and_international_Meitei_diasporas.jpg"
 imageAttribution:
-  title: "Kangshoi"
-  creator: "Unsplash"
-  creatorUrl: "https://unsplash.com/"
-  sourceUrl: "https://unsplash.com/s/photos/kangshoi"
-  license: "Unsplash License"
-  licenseUrl: "https://unsplash.com/license"
+  title: "Chamthong (alias Kangshoi or Kangsoi) dish"
+  creator: "Ishani Nath"
+  creatorUrl: "https://commons.wikimedia.org/wiki/User:Ishani_Nath"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:Chamthong_(alias_Kangshoi_or_Kangsoi)_dish_-_Traditional_Meitei_cuisine_-_Gastronomic_cultural_heritage_of_Manipur_%26_domestic_and_international_Meitei_diasporas.jpg"
+  license: "CC BY-SA 4.0"
+  licenseUrl: "https://creativecommons.org/licenses/by-sa/4.0"
 description: >-
   An oil-free Manipuri stew cooked with seasonal vegetables, fermented fish or
   beans, maroi leaves, and ginger.
@@ -64,5 +64,7 @@ nutrition:
     ironMg: 2.1
     potassiumMg: 310
   micronutrientEstimateSource: Per-serving values from CTI_RECEIPES.pdf.
+prepTimeMinutes: 20
+prepTimeEstimated: true
 ---
 

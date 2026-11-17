@@ -1,14 +1,7 @@
 ---
 title: Chakwi (Tripuri Boiled Vegetable Dish)
 slug: chakwi
-image: "https://images.unsplash.com/photo-1547592166-23ac45744acd?auto=format&fit=crop&w=1200&q=80"
-imageAttribution:
-  title: "Chakwi"
-  creator: "Unsplash"
-  creatorUrl: "https://unsplash.com/"
-  sourceUrl: "https://unsplash.com/s/photos/chakwi"
-  license: "Unsplash License"
-  licenseUrl: "https://unsplash.com/license"
+image: "https://images.unsplash.com/photo-1644946762933-8716dd20d0b1?auto=format&fit=crop&w=1200&q=80"
 description: >-
   A traditional, oil-free Tripuri stew prepared with bamboo shoots, green
   papaya, jackfruit seeds, and baking soda.
@@ -66,5 +59,7 @@ nutrition:
     ironMg: 1.5
     potassiumMg: 360
   micronutrientEstimateSource: Per-serving values from CTI_RECEIPES.pdf.
+prepTimeMinutes: 20
+prepTimeEstimated: true
 ---
 

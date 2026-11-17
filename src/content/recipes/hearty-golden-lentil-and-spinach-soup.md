@@ -1,14 +1,6 @@
 ---
 title: Hearty Golden Lentil and Spinach Soup
 slug: hearty-golden-lentil-and-spinach-soup
-image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Palak_Dal_Bhaji_from_Nagpur.JPG/960px-Palak_Dal_Bhaji_from_Nagpur.JPG"
-imageAttribution:
-  title: Palak dal bhaji
-  creator: Dheerajk88
-  creatorUrl: "https://commons.wikimedia.org/wiki/Special:Contributions/Dheerajk88"
-  sourceUrl: "https://commons.wikimedia.org/wiki/File:Palak_Dal_Bhaji_from_Nagpur.JPG"
-  license: CC BY-SA 4.0
-  licenseUrl: "https://creativecommons.org/licenses/by-sa/4.0"
 description: >-
   A nourishing golden soup cooked with yellow lentils, turmeric, ginger, fresh
   spinach, and lemon juice.
@@ -65,5 +57,16 @@ nutrition:
     potassiumMg: 420
     folateMcg: 110
   micronutrientEstimateSource: Per-serving values from cti_receipes_2.pdf.
+image: >-
+  https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Palak_Dal_Bhaji_from_Nagpur.JPG/960px-Palak_Dal_Bhaji_from_Nagpur.JPG
+imageAttribution:
+  title: Palak dal bhaji
+  creator: Dheerajk88
+  creatorUrl: 'https://commons.wikimedia.org/wiki/Special:Contributions/Dheerajk88'
+  sourceUrl: 'https://commons.wikimedia.org/wiki/File:Palak_Dal_Bhaji_from_Nagpur.JPG'
+  license: CC BY-SA 4.0
+  licenseUrl: 'https://creativecommons.org/licenses/by-sa/4.0'
+prepTimeMinutes: 15
+prepTimeEstimated: true
 ---
 

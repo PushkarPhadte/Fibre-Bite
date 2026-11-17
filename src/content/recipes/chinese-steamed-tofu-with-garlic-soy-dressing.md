@@ -1,14 +1,7 @@
 ---
 title: Chinese Steamed Tofu with Garlic Soy Dressing
 slug: chinese-steamed-tofu-with-garlic-soy-dressing
-image: "https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&w=1200&q=80"
-imageAttribution:
-  title: "Chinese Steamed Tofu With Garlic Soy Dressing"
-  creator: "Unsplash"
-  creatorUrl: "https://unsplash.com/"
-  sourceUrl: "https://unsplash.com/s/photos/chinese-steamed-tofu-with-garlic-soy-dressing"
-  license: "Unsplash License"
-  licenseUrl: "https://unsplash.com/license"
+image: "https://images.unsplash.com/photo-1744612190414-f8844313befb?auto=format&fit=crop&w=1200&q=80"
 description: >-
   Silken tofu steamed to warm perfection and dressed with minced garlic, ginger,
   low-sodium soy sauce, and sesame oil.
@@ -66,5 +59,7 @@ nutrition:
     potassiumMg: 220
     magnesiumMg: 45
   micronutrientEstimateSource: Per-serving values from cti_receipes_2.pdf.
+prepTimeMinutes: 10
+prepTimeEstimated: true
 ---
 

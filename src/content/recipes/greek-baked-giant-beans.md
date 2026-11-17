@@ -1,14 +1,6 @@
 ---
 title: Greek Baked Giant Beans (Gigantes Plaki)
 slug: greek-baked-giant-beans
-image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Gigandes_plaki.jpg/960px-Gigandes_plaki.jpg"
-imageAttribution:
-  title: Gigantes plaki
-  creator: Hevesli
-  creatorUrl: "https://commons.wikimedia.org/wiki/Special:Contributions/Hevesli"
-  sourceUrl: "https://commons.wikimedia.org/wiki/File:Gigandes_plaki.jpg"
-  license: Public domain
-  licenseUrl: "https://creativecommons.org/publicdomain/zero/1.0/"
 description: >-
   Large butter beans baked slow in a rich, oregano-infused tomato and garlic
   sauce topped with fresh parsley.
@@ -69,5 +61,16 @@ nutrition:
     magnesiumMg: 62
     folateMcg: 105
   micronutrientEstimateSource: Per-serving values from cti_receipes_2.pdf.
+image: >-
+  https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Gigandes_plaki.jpg/960px-Gigandes_plaki.jpg
+imageAttribution:
+  title: Gigantes plaki
+  creator: Hevesli
+  creatorUrl: 'https://commons.wikimedia.org/wiki/Special:Contributions/Hevesli'
+  sourceUrl: 'https://commons.wikimedia.org/wiki/File:Gigandes_plaki.jpg'
+  license: Public domain
+  licenseUrl: 'https://creativecommons.org/publicdomain/zero/1.0/'
+prepTimeMinutes: 20
+prepTimeEstimated: true
 ---
 

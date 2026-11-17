@@ -1,14 +1,7 @@
 ---
 title: Tuscan White Bean and Spinach Stew
 slug: tuscan-white-bean-and-spinach-stew
-image: "https://images.unsplash.com/photo-1547592180-85f173990554?auto=format&fit=crop&w=1200&q=80"
-imageAttribution:
-  title: "Tuscan White Bean And Spinach Stew"
-  creator: "Unsplash"
-  creatorUrl: "https://unsplash.com/"
-  sourceUrl: "https://unsplash.com/s/photos/tuscan-white-bean-and-spinach-stew"
-  license: "Unsplash License"
-  licenseUrl: "https://unsplash.com/license"
+image: "https://images.unsplash.com/photo-1617521583527-10229bcc2639?auto=format&fit=crop&w=1200&q=80"
 description: >-
   A comforting Italian stew of creamy cannellini beans cooked with fresh
   spinach, garlic, tomatoes, and rosemary.
@@ -71,5 +64,7 @@ nutrition:
     potassiumMg: 510
     folateMcg: 90
   micronutrientEstimateSource: Per-serving values from cti_receipes_2.pdf.
+prepTimeMinutes: 15
+prepTimeEstimated: true
 ---
 

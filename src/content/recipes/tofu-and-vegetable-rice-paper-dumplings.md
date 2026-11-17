@@ -1,14 +1,7 @@
 ---
 title: Tofu and Vegetable Rice Paper Dumplings
 slug: tofu-and-vegetable-rice-paper-dumplings
-image: "https://images.unsplash.com/photo-1467003909585-2f8a72700288?auto=format&fit=crop&w=1200&q=80"
-imageAttribution:
-  title: "Tofu And Vegetable Rice Paper Dumplings"
-  creator: "Unsplash"
-  creatorUrl: "https://unsplash.com/"
-  sourceUrl: "https://unsplash.com/s/photos/tofu-and-vegetable-rice-paper-dumplings"
-  license: "Unsplash License"
-  licenseUrl: "https://unsplash.com/license"
+image: "https://images.unsplash.com/photo-1761315413902-bc9d78fcaaab?auto=format&fit=crop&w=1200&q=80"
 description: >-
   Crispy pan-seared rice paper rolls packed with shredded cabbage, carrots,
   mushrooms, and firm tofu.
@@ -69,5 +62,7 @@ nutrition:
     ironMg: 2.1
     potassiumMg: 260
   micronutrientEstimateSource: Per-serving values from cti_receipes_2.pdf.
+prepTimeMinutes: 35
+prepTimeEstimated: true
 ---
 

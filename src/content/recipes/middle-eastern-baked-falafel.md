@@ -73,13 +73,15 @@ nutrition:
     magnesiumMg: 52
     folateMcg: 85
   micronutrientEstimateSource: Per-serving values from cti_receipes_2.pdf.
-image: "https://live.staticflickr.com/3466/3933231871_89abc77b3c_b.jpg"
+image: 'https://live.staticflickr.com/3466/3933231871_89abc77b3c_b.jpg'
 imageAttribution:
   title: Falafel
   creator: kudumomo
-  creatorUrl: "https://www.flickr.com/photos/9751325@N02"
-  sourceUrl: "https://www.flickr.com/photos/9751325@N02/3933231871"
+  creatorUrl: 'https://www.flickr.com/photos/9751325@N02'
+  sourceUrl: 'https://www.flickr.com/photos/9751325@N02/3933231871'
   license: CC BY 2.0
-  licenseUrl: "https://creativecommons.org/licenses/by/2.0/"
+  licenseUrl: 'https://creativecommons.org/licenses/by/2.0/'
+prepTimeMinutes: 20
+prepTimeEstimated: true
 ---
 

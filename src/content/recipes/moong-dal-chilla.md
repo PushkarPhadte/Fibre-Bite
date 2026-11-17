@@ -78,13 +78,15 @@ nutrition:
   micronutrientEstimateSource: >-
     Approximate per-serving estimates from generic ingredient composition and
     stated quantities; soaking, batter thickness, and salt use vary.
-image: "https://upload.wikimedia.org/wikipedia/commons/e/e9/Moong_Dosa.jpg"
+image: 'https://upload.wikimedia.org/wikipedia/commons/e/e9/Moong_Dosa.jpg'
 imageAttribution:
   title: Moong Dosa
   creator: Vivek90166
-  creatorUrl: "https://commons.wikimedia.org/wiki/User:Vivek90166"
-  sourceUrl: "https://commons.wikimedia.org/w/index.php?curid=40936591"
+  creatorUrl: 'https://commons.wikimedia.org/wiki/User:Vivek90166'
+  sourceUrl: 'https://commons.wikimedia.org/w/index.php?curid=40936591'
   license: CC BY-SA 4.0
-  licenseUrl: "https://creativecommons.org/licenses/by-sa/4.0/"
+  licenseUrl: 'https://creativecommons.org/licenses/by-sa/4.0/'
+prepTimeMinutes: 15
+prepTimeEstimated: true
 ---
 

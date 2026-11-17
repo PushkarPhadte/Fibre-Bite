@@ -78,13 +78,15 @@ nutrition:
     ironMg: 2.8
     potassiumMg: 480
   micronutrientEstimateSource: Per-serving values from cti_receipes_2.pdf.
-image: "https://live.staticflickr.com/139/351378834_b954a1d385_b.jpg"
+image: 'https://live.staticflickr.com/139/351378834_b954a1d385_b.jpg'
 imageAttribution:
   title: minestrone soup
   creator: superturtle
-  creatorUrl: "https://www.flickr.com/photos/76335816@N00"
-  sourceUrl: "https://www.flickr.com/photos/76335816@N00/351378834"
+  creatorUrl: 'https://www.flickr.com/photos/76335816@N00'
+  sourceUrl: 'https://www.flickr.com/photos/76335816@N00/351378834'
   license: CC BY 2.0
-  licenseUrl: "https://creativecommons.org/licenses/by/2.0/"
+  licenseUrl: 'https://creativecommons.org/licenses/by/2.0/'
+prepTimeMinutes: 20
+prepTimeEstimated: true
 ---
 

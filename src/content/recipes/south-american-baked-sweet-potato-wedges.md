@@ -1,14 +1,14 @@
 ---
 title: South American Baked Sweet Potato Wedges
 slug: south-american-baked-sweet-potato-wedges
-image: "https://images.unsplash.com/photo-1543353071-873f17a7a088?auto=format&fit=crop&w=1200&q=80"
+image: "https://upload.wikimedia.org/wikipedia/commons/e/e6/Sesame-roasted_sweet_potato_wedges_with_Brocolli_%283257806891%29.jpg"
 imageAttribution:
-  title: "South American Baked Sweet Potato Wedges"
-  creator: "Unsplash"
-  creatorUrl: "https://unsplash.com/"
-  sourceUrl: "https://unsplash.com/s/photos/south-american-baked-sweet-potato-wedges"
-  license: "Unsplash License"
-  licenseUrl: "https://unsplash.com/license"
+  title: "Sesame-roasted sweet potato wedges with Brocolli"
+  creator: "Karen and Brad Emerson"
+  creatorUrl: "https://www.flickr.com/people/10293577@N03"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:Sesame-roasted_sweet_potato_wedges_with_Brocolli_(3257806891).jpg"
+  license: "CC BY 2.0"
+  licenseUrl: "https://creativecommons.org/licenses/by/2.0"
 description: >-
   Crispy baked sweet potato wedges tossed in paprika, cumin, and olive oil,
   serving as a nutrient-rich whole food starch.

@@ -71,8 +71,10 @@
 			<p class="max-w-3xl text-lg text-slate-600">{recipe.description ?? 'A balanced, nourishing recipe that brings flavor and simplicity together.'}</p>
 			{#if recipe.prepTimeMinutes !== undefined}
 				<p class="inline-flex items-center gap-2 text-sm font-semibold text-slate-700">
-					<Clock3 size={16} /> Preparation: {recipe.prepTimeMinutes} minutes
-					<a class="font-normal text-emerald-800 underline" href={recipe.prepTimeSource} target="_blank" rel="noreferrer">Source</a>
+					<Clock3 size={16} /> Preparation{recipe.prepTimeEstimated ? ' (estimated)' : ''}: {recipe.prepTimeMinutes} minutes
+					{#if recipe.prepTimeSource}
+						<a class="font-normal text-emerald-800 underline" href={recipe.prepTimeSource} target="_blank" rel="noreferrer">Source</a>
+					{/if}
 				</p>
 			{/if}
 

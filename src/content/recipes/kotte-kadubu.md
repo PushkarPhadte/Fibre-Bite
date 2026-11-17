@@ -1,14 +1,7 @@
 ---
 title: Kotte Kadubu (Karnataka Jackfruit Leaf Steamed Cakes)
 slug: kotte-kadubu
-image: "https://images.unsplash.com/photo-1502741338009-cac2772e18bc?auto=format&fit=crop&w=1200&q=80"
-imageAttribution:
-  title: "Kotte Kadubu"
-  creator: "Unsplash"
-  creatorUrl: "https://unsplash.com/"
-  sourceUrl: "https://unsplash.com/s/photos/kotte-kadubu"
-  license: "Unsplash License"
-  licenseUrl: "https://unsplash.com/license"
+image: "https://images.unsplash.com/photo-1741376509580-b108489411ae?auto=format&fit=crop&w=1200&q=80"
 description: >-
   A Karnataka coastal delicacy made of ground rice and urad dal batter steamed
   inside woven jackfruit leaves.
@@ -54,5 +47,7 @@ nutrition:
     potassiumMg: 150
     folateMcg: 45
   micronutrientEstimateSource: Per-serving values from CTI_RECEIPES.pdf.
+prepTimeMinutes: 25
+prepTimeEstimated: true
 ---
 

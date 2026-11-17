@@ -1,14 +1,6 @@
 ---
 title: Khandvi (Gujarati Savory Gram Flour Rolls)
 slug: khandvi
-image: "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=1200&q=80"
-imageAttribution:
-  title: "Khandvi"
-  creator: "Unsplash"
-  creatorUrl: "https://unsplash.com/"
-  sourceUrl: "https://unsplash.com/s/photos/khandvi"
-  license: "Unsplash License"
-  licenseUrl: "https://unsplash.com/license"
 description: >-
   A classic Gujarati steamed snack made from gram flour and buttermilk, tempered
   with mustard seeds and curry leaves.
@@ -81,5 +73,16 @@ nutrition:
     potassiumMg: 210
     folateMcg: 40
   micronutrientEstimateSource: Per-serving values from CTI_RECEIPES.pdf.
+image: >-
+  https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=1200&q=80
+imageAttribution:
+  title: Khandvi
+  creator: Unsplash
+  creatorUrl: 'https://unsplash.com/'
+  sourceUrl: 'https://unsplash.com/s/photos/khandvi'
+  license: Unsplash License
+  licenseUrl: 'https://unsplash.com/license'
+prepTimeMinutes: 25
+prepTimeEstimated: true
 ---
 

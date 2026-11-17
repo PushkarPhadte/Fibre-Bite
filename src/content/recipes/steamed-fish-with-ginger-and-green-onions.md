@@ -1,14 +1,7 @@
 ---
 title: Steamed Fish with Ginger and Green Onions
 slug: steamed-fish-with-ginger-and-green-onions
-image: "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?auto=format&fit=crop&w=1200&q=80"
-imageAttribution:
-  title: "Steamed Fish With Ginger And Green Onions"
-  creator: "Unsplash"
-  creatorUrl: "https://unsplash.com/"
-  sourceUrl: "https://unsplash.com/s/photos/steamed-fish-with-ginger-and-green-onions"
-  license: "Unsplash License"
-  licenseUrl: "https://unsplash.com/license"
+image: "https://images.unsplash.com/photo-1767436093457-84ea9122eb4e?auto=format&fit=crop&w=1200&q=80"
 description: >-
   Tender white fish fillet steamed with julienned ginger, green onions, and
   light soy sauce in traditional Cantonese style.
@@ -61,5 +54,7 @@ nutrition:
   micronutrients:
     potassiumMg: 390
   micronutrientEstimateSource: Per-serving values from cti_receipes_2.pdf.
+prepTimeMinutes: 10
+prepTimeEstimated: true
 ---
 

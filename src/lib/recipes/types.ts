@@ -90,20 +90,35 @@ export const localRecipeFrontmatterSchema = z.object({
 	image: z.string().url().optional(),
 	imageAttribution: imageAttributionSchema.optional(),
 	prepTimeMinutes: z.coerce.number().int().positive().optional(),
+	prepTimeEstimated: z.literal(true).optional(),
 	prepTimeSource: z.string().url().optional()
 }).superRefine((recipe, context) => {
-	if (recipe.prepTimeMinutes !== undefined && recipe.prepTimeSource === undefined) {
+	if (
+		recipe.prepTimeMinutes !== undefined &&
+		recipe.prepTimeSource === undefined &&
+		recipe.prepTimeEstimated !== true
+	) {
 		context.addIssue({
 			code: 'custom',
 			path: ['prepTimeSource'],
-			message: 'Preparation time must include a source URL.'
+			message: 'Provide a source URL or mark the preparation time as estimated.'
 		});
 	}
-	if (recipe.prepTimeMinutes === undefined && recipe.prepTimeSource !== undefined) {
+	if (recipe.prepTimeEstimated === true && recipe.prepTimeSource !== undefined) {
+		context.addIssue({
+			code: 'custom',
+			path: ['prepTimeEstimated'],
+			message: 'Estimated preparation times cannot include a source URL.'
+		});
+	}
+	if (
+		recipe.prepTimeMinutes === undefined &&
+		(recipe.prepTimeSource !== undefined || recipe.prepTimeEstimated === true)
+	) {
 		context.addIssue({
 			code: 'custom',
 			path: ['prepTimeMinutes'],
-			message: 'A preparation-time source requires a preparation time.'
+			message: 'Preparation-time metadata requires a preparation time.'
 		});
 	}
 });

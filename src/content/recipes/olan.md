@@ -1,14 +1,7 @@
 ---
 title: Olan (Kerala White Gourd and Cowpeas Curry)
 slug: olan
-image: "https://images.unsplash.com/photo-1467003909585-2f8a72700288?auto=format&fit=crop&w=1200&q=80"
-imageAttribution:
-  title: "Olan"
-  creator: "Unsplash"
-  creatorUrl: "https://unsplash.com/"
-  sourceUrl: "https://unsplash.com/s/photos/olan"
-  license: "Unsplash License"
-  licenseUrl: "https://unsplash.com/license"
+image: "https://images.unsplash.com/photo-1722698030083-75d1d50cabe4?auto=format&fit=crop&w=1200&q=80"
 description: >-
   A soothing, light Kerala curry made with ash gourd, red cowpeas, fresh coconut
   milk, and curry leaves.
@@ -68,5 +61,7 @@ nutrition:
     ironMg: 1.4
     potassiumMg: 280
   micronutrientEstimateSource: Per-serving values from CTI_RECEIPES.pdf.
+prepTimeMinutes: 15
+prepTimeEstimated: true
 ---
 

@@ -1,14 +1,14 @@
 ---
 title: Light Baked Fish Tacos
 slug: light-baked-fish-tacos
-image: "https://images.unsplash.com/photo-1559847844-5315695dadae?auto=format&fit=crop&w=1200&q=80"
+image: "https://upload.wikimedia.org/wikipedia/commons/7/73/Fish_tacos_in_Pittsburg.jpg"
 imageAttribution:
-  title: "Light Baked Fish Tacos"
-  creator: "Unsplash"
-  creatorUrl: "https://unsplash.com/"
-  sourceUrl: "https://unsplash.com/s/photos/light-baked-fish-tacos"
-  license: "Unsplash License"
-  licenseUrl: "https://unsplash.com/license"
+  title: "Fish tacos in Pittsburg"
+  creator: "Douglas Muth"
+  creatorUrl: "https://www.flickr.com/photos/dmuth/52306691056/"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:Fish_tacos_in_Pittsburg.jpg"
+  license: "CC BY-SA 2.0"
+  licenseUrl: "https://creativecommons.org/licenses/by-sa/2.0"
 description: >-
   Warm corn tortillas stuffed with baked spiced white fish, shredded cabbage
   slaw, fresh cilantro, and lime.

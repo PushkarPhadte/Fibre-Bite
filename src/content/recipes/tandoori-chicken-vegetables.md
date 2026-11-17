@@ -79,13 +79,15 @@ nutrition:
   micronutrientEstimateSource: >-
     Approximate per-serving estimates from generic cooked chicken thigh, yogurt,
     and vegetables; chicken trim, marinade retention, and spice blends vary.
-image: "https://live.staticflickr.com/2907/14636748317_052f20dd93_b.jpg"
+image: 'https://live.staticflickr.com/2907/14636748317_052f20dd93_b.jpg'
 imageAttribution:
   title: Tandoori chicken
   creator: stu_spivack
-  creatorUrl: "https://www.flickr.com/photos/35034346243@N01"
-  sourceUrl: "https://www.flickr.com/photos/35034346243@N01/14636748317"
+  creatorUrl: 'https://www.flickr.com/photos/35034346243@N01'
+  sourceUrl: 'https://www.flickr.com/photos/35034346243@N01/14636748317'
   license: CC BY-SA 2.0
-  licenseUrl: "https://creativecommons.org/licenses/by-sa/2.0/"
+  licenseUrl: 'https://creativecommons.org/licenses/by-sa/2.0/'
+prepTimeMinutes: 20
+prepTimeEstimated: true
 ---
 

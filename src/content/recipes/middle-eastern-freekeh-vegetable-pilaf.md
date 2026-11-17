@@ -1,14 +1,7 @@
 ---
 title: Middle Eastern Freekeh Vegetable Pilaf
 slug: middle-eastern-freekeh-vegetable-pilaf
-image: "https://images.unsplash.com/photo-1547592166-23ac45744acd?auto=format&fit=crop&w=1200&q=80"
-imageAttribution:
-  title: Freekeh pilaf
-  creator: Unsplash
-  creatorUrl: "https://unsplash.com/"
-  sourceUrl: "https://unsplash.com/s/photos/freekeh-pilaf"
-  license: Unsplash License
-  licenseUrl: "https://unsplash.com/license"
+image: "https://images.unsplash.com/photo-1647714013867-f62bc1cc2039?auto=format&fit=crop&w=1200&q=80"
 description: >-
   Nutty roasted green wheat (freekeh) cooked with onions, carrots, peas, and
   fragrant warm spices.
@@ -69,5 +62,7 @@ nutrition:
     potassiumMg: 310
     magnesiumMg: 52
   micronutrientEstimateSource: Per-serving values from cti_receipes_2.pdf.
+prepTimeMinutes: 15
+prepTimeEstimated: true
 ---
 

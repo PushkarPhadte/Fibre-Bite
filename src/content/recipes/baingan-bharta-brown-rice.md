@@ -81,13 +81,15 @@ nutrition:
   micronutrientEstimateSource: >-
     Approximate per-serving estimates from generic eggplant, brown rice, tomato,
     and onion composition; eggplant size and rice yield vary.
-image: "https://live.staticflickr.com/1258/753279896_330d4b06e5_b.jpg"
+image: 'https://live.staticflickr.com/1258/753279896_330d4b06e5_b.jpg'
 imageAttribution:
   title: Spicy Baked Aubergine (Baingan Bharta)
   creator: rovingI
-  creatorUrl: "https://www.flickr.com/photos/70522326@N00"
-  sourceUrl: "https://www.flickr.com/photos/70522326@N00/753279896"
+  creatorUrl: 'https://www.flickr.com/photos/70522326@N00'
+  sourceUrl: 'https://www.flickr.com/photos/70522326@N00/753279896'
   license: CC BY 2.0
-  licenseUrl: "https://creativecommons.org/licenses/by/2.0/"
+  licenseUrl: 'https://creativecommons.org/licenses/by/2.0/'
+prepTimeMinutes: 20
+prepTimeEstimated: true
 ---
 

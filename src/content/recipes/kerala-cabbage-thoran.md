@@ -75,13 +75,15 @@ nutrition:
   micronutrientEstimateSource: >-
     Approximate per-serving estimates from generic cabbage and coconut
     composition; coconut amount and salt use vary.
-image: "https://live.staticflickr.com/7528/16224287181_94571b2edd_b.jpg"
+image: 'https://live.staticflickr.com/7528/16224287181_94571b2edd_b.jpg'
 imageAttribution:
   title: Cabbage thoran
   creator: goblinbox_(queen_of_ad_hoc_bento)
-  creatorUrl: "https://www.flickr.com/photos/25977089@N00"
-  sourceUrl: "https://www.flickr.com/photos/25977089@N00/16224287181"
+  creatorUrl: 'https://www.flickr.com/photos/25977089@N00'
+  sourceUrl: 'https://www.flickr.com/photos/25977089@N00/16224287181'
   license: CC BY 2.0
-  licenseUrl: "https://creativecommons.org/licenses/by/2.0/"
+  licenseUrl: 'https://creativecommons.org/licenses/by/2.0/'
+prepTimeMinutes: 15
+prepTimeEstimated: true
 ---
 

@@ -1,14 +1,7 @@
 ---
 title: Sattu Paratha (Bihari Roasted Gram Flatbread)
 slug: sattu-paratha
-image: "https://images.unsplash.com/photo-1502741338009-cac2772e18bc?auto=format&fit=crop&w=1200&q=80"
-imageAttribution:
-  title: "Sattu Paratha"
-  creator: "Unsplash"
-  creatorUrl: "https://unsplash.com/"
-  sourceUrl: "https://unsplash.com/s/photos/sattu-paratha"
-  license: "Unsplash License"
-  licenseUrl: "https://unsplash.com/license"
+image: "https://images.unsplash.com/photo-1683533761804-5fc12be0f684?auto=format&fit=crop&w=1200&q=80"
 description: >-
   A staple Bihari flatbread stuffed with spiced roasted Bengal gram flour
   (sattu), rich in plant protein and dietary fiber.

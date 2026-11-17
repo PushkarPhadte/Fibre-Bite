@@ -1,14 +1,7 @@
 ---
 title: Menthya Matvadi Palya (Karnataka Fenugreek Lentil Stir-Fry)
 slug: menthya-matvadi-palya
-image: "https://images.unsplash.com/photo-1547592166-23ac45744acd?auto=format&fit=crop&w=1200&q=80"
-imageAttribution:
-  title: "Menthya Matvadi Palya"
-  creator: "Unsplash"
-  creatorUrl: "https://unsplash.com/"
-  sourceUrl: "https://unsplash.com/s/photos/menthya-matvadi-palya"
-  license: "Unsplash License"
-  licenseUrl: "https://unsplash.com/license"
+image: "https://images.unsplash.com/photo-1657186394392-ea2ec3b63897?auto=format&fit=crop&w=1200&q=80"
 description: >-
   A nutrient-dense Karnataka dry dish made with fresh fenugreek leaves and
   coarsely ground steamed lentils.
@@ -69,5 +62,7 @@ nutrition:
     ironMg: 3.1
     potassiumMg: 390
   micronutrientEstimateSource: Per-serving values from CTI_RECEIPES.pdf.
+prepTimeMinutes: 20
+prepTimeEstimated: true
 ---
 

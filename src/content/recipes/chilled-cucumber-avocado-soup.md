@@ -1,14 +1,7 @@
 ---
 title: Chilled Cucumber Avocado Soup
 slug: chilled-cucumber-avocado-soup
-image: "https://images.unsplash.com/photo-1529006557810-274b9b2fc783?auto=format&fit=crop&w=1200&q=80"
-imageAttribution:
-  title: "Chilled Cucumber Avocado Soup"
-  creator: "Unsplash"
-  creatorUrl: "https://unsplash.com/"
-  sourceUrl: "https://unsplash.com/s/photos/chilled-cucumber-avocado-soup"
-  license: "Unsplash License"
-  licenseUrl: "https://unsplash.com/license"
+image: "https://images.unsplash.com/photo-1755531567043-3ac9642b3131?auto=format&fit=crop&w=1200&q=80"
 description: >-
   A creamy, raw blender soup made from fresh cucumbers, avocados, lime juice,
   cilantro, and garlic.

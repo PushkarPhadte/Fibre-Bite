@@ -75,13 +75,15 @@ nutrition:
   micronutrientEstimateSource: >-
     Approximate per-serving estimates from generic finger millet, rice flour,
     and vegetable composition; flour brands and oil use vary.
-image: "https://upload.wikimedia.org/wikipedia/commons/c/c4/Ragi_Dosa_Mumbai.jpg"
+image: 'https://upload.wikimedia.org/wikipedia/commons/c/c4/Ragi_Dosa_Mumbai.jpg'
 imageAttribution:
   title: Ragi Dosa Mumbai
   creator: Pradeep717
-  creatorUrl: "https://commons.wikimedia.org/wiki/User:Pradeep717"
-  sourceUrl: "https://commons.wikimedia.org/w/index.php?curid=82038345"
+  creatorUrl: 'https://commons.wikimedia.org/wiki/User:Pradeep717'
+  sourceUrl: 'https://commons.wikimedia.org/w/index.php?curid=82038345'
   license: CC BY-SA 4.0
-  licenseUrl: "https://creativecommons.org/licenses/by-sa/4.0/"
+  licenseUrl: 'https://creativecommons.org/licenses/by-sa/4.0/'
+prepTimeMinutes: 15
+prepTimeEstimated: true
 ---
 

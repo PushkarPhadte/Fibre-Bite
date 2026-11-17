@@ -1,14 +1,6 @@
 ---
 title: Madra / Himachali Chickpea Yogurt Curry
 slug: madra-himachali-chickpea-yogurt-curry
-image: "https://images.unsplash.com/photo-1482049016688-2d3e1b311543?auto=format&fit=crop&w=1200&q=80"
-imageAttribution:
-  title: "Madra Himachali Chickpea Yogurt Curry"
-  creator: "Unsplash"
-  creatorUrl: "https://unsplash.com/"
-  sourceUrl: "https://unsplash.com/s/photos/madra-himachali-chickpea-yogurt-curry"
-  license: "Unsplash License"
-  licenseUrl: "https://unsplash.com/license"
 description: >-
   A rich Himachali slow-cooked chickpea curry prepared in fresh curd and
   tempered with whole aromatic spices.
@@ -73,5 +65,16 @@ nutrition:
     ironMg: 2.4
     potassiumMg: 340
   micronutrientEstimateSource: Per-serving values from CTI_RECEIPES.pdf.
+image: >-
+  https://images.unsplash.com/photo-1482049016688-2d3e1b311543?auto=format&fit=crop&w=1200&q=80
+imageAttribution:
+  title: Madra Himachali Chickpea Yogurt Curry
+  creator: Unsplash
+  creatorUrl: 'https://unsplash.com/'
+  sourceUrl: 'https://unsplash.com/s/photos/madra-himachali-chickpea-yogurt-curry'
+  license: Unsplash License
+  licenseUrl: 'https://unsplash.com/license'
+prepTimeMinutes: 15
+prepTimeEstimated: true
 ---
 

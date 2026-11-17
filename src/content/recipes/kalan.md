@@ -1,14 +1,7 @@
 ---
 title: Kalan (Kerala Yoghurt Plantain Curry)
 slug: kalan
-image: "https://images.unsplash.com/photo-1502741338009-cac2772e18bc?auto=format&fit=crop&w=1200&q=80"
-imageAttribution:
-  title: "Kalan"
-  creator: "Unsplash"
-  creatorUrl: "https://unsplash.com/"
-  sourceUrl: "https://unsplash.com/s/photos/kalan"
-  license: "Unsplash License"
-  licenseUrl: "https://unsplash.com/license"
+image: "https://images.unsplash.com/photo-1620894580123-466ad3a0ca06?auto=format&fit=crop&w=1200&q=80"
 description: >-
   A traditional Kerala Sadya dish featuring raw plantain cooked in thick
   yoghurt, coconut, and fenugreek tempering.
@@ -81,5 +74,7 @@ nutrition:
     ironMg: 1.2
     potassiumMg: 420
   micronutrientEstimateSource: Per-serving values from CTI_RECEIPES.pdf.
+prepTimeMinutes: 15
+prepTimeEstimated: true
 ---
 

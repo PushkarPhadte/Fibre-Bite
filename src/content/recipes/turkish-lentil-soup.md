@@ -1,14 +1,6 @@
 ---
 title: Turkish Lentil Soup (Mercimek Çorbası)
 slug: turkish-lentil-soup
-image: "https://upload.wikimedia.org/wikipedia/commons/1/1a/Mercimek_%28lentil%29_soup.jpg"
-imageAttribution:
-  title: "Mercimek (lentil) soup"
-  creator: "E4024"
-  creatorUrl: "https://commons.wikimedia.org/wiki/User:E4024"
-  sourceUrl: "https://commons.wikimedia.org/wiki/File:Mercimek_(lentil)_soup.jpg"
-  license: "CC BY-SA 4.0"
-  licenseUrl: "https://creativecommons.org/licenses/by-sa/4.0/"
 description: >-
   A silky, smooth red lentil soup infused with cumin, paprika, and a touch of
   lemon, popular across Anatolia.
@@ -73,5 +65,16 @@ nutrition:
     potassiumMg: 410
     folateMcg: 95
   micronutrientEstimateSource: Per-serving values from cti_receipes_2.pdf.
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/1/1a/Mercimek_%28lentil%29_soup.jpg
+imageAttribution:
+  title: Mercimek (lentil) soup
+  creator: E4024
+  creatorUrl: 'https://commons.wikimedia.org/wiki/User:E4024'
+  sourceUrl: 'https://commons.wikimedia.org/wiki/File:Mercimek_(lentil)_soup.jpg'
+  license: CC BY-SA 4.0
+  licenseUrl: 'https://creativecommons.org/licenses/by-sa/4.0/'
+prepTimeMinutes: 15
+prepTimeEstimated: true
 ---
 

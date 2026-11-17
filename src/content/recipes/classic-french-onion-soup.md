@@ -63,13 +63,15 @@ nutrition:
     ironMg: 1.2
     potassiumMg: 290
   micronutrientEstimateSource: Per-serving values from cti_receipes_2.pdf.
-image: "https://live.staticflickr.com/139/328826777_94b19606c9_b.jpg"
+image: 'https://live.staticflickr.com/139/328826777_94b19606c9_b.jpg'
 imageAttribution:
   title: French Onion Soup
   creator: joebeone
-  creatorUrl: "https://www.flickr.com/photos/71753172@N00"
-  sourceUrl: "https://www.flickr.com/photos/71753172@N00/328826777"
+  creatorUrl: 'https://www.flickr.com/photos/71753172@N00'
+  sourceUrl: 'https://www.flickr.com/photos/71753172@N00/328826777'
   license: CC BY 2.0
-  licenseUrl: "https://creativecommons.org/licenses/by/2.0/"
+  licenseUrl: 'https://creativecommons.org/licenses/by/2.0/'
+prepTimeMinutes: 15
+prepTimeEstimated: true
 ---
 

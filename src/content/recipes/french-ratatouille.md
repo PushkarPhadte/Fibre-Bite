@@ -61,13 +61,15 @@ nutrition:
     potassiumMg: 480
     magnesiumMg: 38
   micronutrientEstimateSource: Per-serving values from cti_receipes_2.pdf.
-image: "https://upload.wikimedia.org/wikipedia/commons/1/15/Ratatouille_001.jpg"
+image: 'https://upload.wikimedia.org/wikipedia/commons/1/15/Ratatouille_001.jpg'
 imageAttribution:
   title: Ratatouille 001
   creator: Arnaud 25
-  creatorUrl: "https://commons.wikimedia.org/wiki/User:Arnaud_25"
-  sourceUrl: "https://commons.wikimedia.org/wiki/File:Ratatouille_001.jpg"
+  creatorUrl: 'https://commons.wikimedia.org/wiki/User:Arnaud_25'
+  sourceUrl: 'https://commons.wikimedia.org/wiki/File:Ratatouille_001.jpg'
   license: CC BY-SA 4.0
-  licenseUrl: "https://creativecommons.org/licenses/by-sa/4.0/"
+  licenseUrl: 'https://creativecommons.org/licenses/by-sa/4.0/'
+prepTimeMinutes: 25
+prepTimeEstimated: true
 ---
 

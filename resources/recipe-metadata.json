@@ -1,0 +1,854 @@
+{
+  "recipeCount": 164,
+  "recipes": [
+    {
+      "slug": "authentic-lebanese-tabouli-salad",
+      "title": "Authentic Lebanese Tabouli Salad",
+      "image": "https://live.staticflickr.com/2157/2476070646_c1e652ac8e_b.jpg"
+    },
+    {
+      "slug": "avocado-and-citrus-salad-with-toasted-seeds",
+      "title": "Avocado and Citrus Salad with Toasted Seeds",
+      "image": "https://images.unsplash.com/photo-1631215060641-b9e8e55859a8?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "slug": "avocado-berry-green-smoothie",
+      "title": "Avocado Berry Green Smoothie",
+      "image": "https://images.unsplash.com/photo-1556881286-fc6915169721?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "slug": "baingan-bharta-brown-rice",
+      "title": "Baingan Bharta with Brown Rice",
+      "image": "https://live.staticflickr.com/1258/753279896_330d4b06e5_b.jpg"
+    },
+    {
+      "slug": "baked-cod-with-tomato-olive-relish",
+      "title": "Baked Cod with Tomato Olive Relish",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Baked_cod_fillet.jpg"
+    },
+    {
+      "slug": "baked-eggplant-parmigiana",
+      "title": "Baked Eggplant Parmigiana (Light Style)",
+      "image": "https://live.staticflickr.com/3120/2865434046_4c5033de9b_b.jpg"
+    },
+    {
+      "slug": "baked-falafel-wrap-with-tahini-yogurt",
+      "title": "Baked Falafel Wrap with Tahini Yogurt",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/49/Falafel_Melt_Wrap_-_We_Love_Falafel_2023-09-27.jpg"
+    },
+    {
+      "slug": "baked-lemon-herb-cod",
+      "title": "Baked Lemon Herb Cod",
+      "image": "https://images.unsplash.com/photo-1728963228980-71c76178616a?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "slug": "baked-sweet-potato-and-black-bean-chili",
+      "title": "Baked Sweet Potato and Black Bean Chili",
+      "image": "https://images.unsplash.com/photo-1708782340358-8d5ef6dbb3c1?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "slug": "baked-tofu-peanut-satay-bowl",
+      "title": "Baked Tofu Peanut Satay Bowl",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Vegetable_Satay_-_Bali_2025-11-19.jpg"
+    },
+    {
+      "slug": "brazilian-black-bean-stew-light-feijoada",
+      "title": "Brazilian Black Bean Stew (Light Feijoada)",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/70/Feijoada_%C3%A0_brasileira_-02.jpg"
+    },
+    {
+      "slug": "caprese-whole-wheat-wrap",
+      "title": "Caprese Whole Wheat Wrap",
+      "image": "https://images.unsplash.com/photo-1752095809096-f09d22c466c5?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "slug": "chakwi",
+      "title": "Chakwi (Tripuri Boiled Vegetable Dish)",
+      "image": "https://images.unsplash.com/photo-1644946762933-8716dd20d0b1?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "slug": "chana-masala",
+      "title": "Chana Masala",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Chana_masala.jpg"
+    },
+    {
+      "slug": "chhena-poda",
+      "title": "Chhena Poda (Light Baked Cottage Cheese Dessert)",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Chhena_Poda-Puri-Odisha-IMG_1323.jpg"
+    },
+    {
+      "slug": "chia-berry-green-smoothie-bowl",
+      "title": "Chia Berry Green Smoothie Bowl",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Mango_berry_smoothie_bowl_.jpg"
+    },
+    {
+      "slug": "chia-seed-coconut-mango-pudding",
+      "title": "Chia Seed Coconut Mango Pudding",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/90/Chia_seed_pudding_in_a_tea_cup.jpg"
+    },
+    {
+      "slug": "chicken-potato-soup",
+      "title": "Chicken Potato Soup",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Campbell%27s_Chicken_Noodle_Soup_with_Chayote_and_Potatoes.jpg"
+    },
+    {
+      "slug": "chickpea-spinach-coconut-curry",
+      "title": "Chickpea Spinach Coconut Curry",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Spinach-Chickpea_Curry_%283117324894%29.jpg"
+    },
+    {
+      "slug": "chilean-tomato-and-onion-salad",
+      "title": "Chilean Tomato and Onion Salad (Ensalada Chilena)",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Ensalada_Chilena.jpg"
+    },
+    {
+      "slug": "chilled-cucumber-avocado-soup",
+      "title": "Chilled Cucumber Avocado Soup",
+      "image": "https://images.unsplash.com/photo-1755531567043-3ac9642b3131?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "slug": "chinese-steamed-tofu-with-garlic-soy-dressing",
+      "title": "Chinese Steamed Tofu with Garlic Soy Dressing",
+      "image": "https://images.unsplash.com/photo-1744612190414-f8844313befb?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "slug": "cholar-dal-with-coconut",
+      "title": "Cholar Dal with Coconut (Bengali Gram Dal)",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/06/Cholar_daal_-_Kolkata_-_West_Bengal.jpg"
+    },
+    {
+      "slug": "citrus-herb-grilled-chicken-breast",
+      "title": "Citrus Herb Grilled Chicken Breast",
+      "image": "https://images.unsplash.com/photo-1532550907401-a500c9a57435?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "slug": "classic-french-onion-soup",
+      "title": "Classic French Onion Soup (Light Version)",
+      "image": "https://live.staticflickr.com/139/328826777_94b19606c9_b.jpg"
+    },
+    {
+      "slug": "classic-italian-minestrone-soup",
+      "title": "Classic Italian Minestrone Soup",
+      "image": "https://live.staticflickr.com/139/351378834_b954a1d385_b.jpg"
+    },
+    {
+      "slug": "classic-mexican-guacamole-with-veggie-sticks",
+      "title": "Classic Mexican Guacamole with Veggie Sticks",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Guacamole_IMGP1271.jpg/960px-Guacamole_IMGP1271.jpg"
+    },
+    {
+      "slug": "creamy-roasted-cauliflower-soup",
+      "title": "Creamy Roasted Cauliflower Soup",
+      "image": "https://images.unsplash.com/photo-1578859318509-62790b079366?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "slug": "cucumber-soup",
+      "title": "Cucumber Soup",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Cucumber_soup-2387.jpg/960px-Cucumber_soup-2387.jpg"
+    },
+    {
+      "slug": "dal-khichdi",
+      "title": "Dal Khichdi",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/db/Dal_khichdi.jpg"
+    },
+    {
+      "slug": "dalma",
+      "title": "Dalma (Odisha Lentil and Vegetable Stew)",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Dalma%28dish%29.jpg/960px-Dalma%28dish%29.jpg"
+    },
+    {
+      "slug": "dudhi-muthia",
+      "title": "Dudhi Muthia (Gujarati Steamed Bottle Gourd Dumplings)",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Gujrati_Muthia.jpg/960px-Gujrati_Muthia.jpg"
+    },
+    {
+      "slug": "eastern-european-beetroot-borscht",
+      "title": "Eastern European Beetroot Borscht",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Borscht_with_bread.jpg/960px-Borscht_with_bread.jpg"
+    },
+    {
+      "slug": "egyptian-ful-medames",
+      "title": "Egyptian Ful Medames (Spiced Fava Beans)",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Ful_medames_%28arabic_meal%29.jpg"
+    },
+    {
+      "slug": "ethiopian-lentil-stew-misir-wot",
+      "title": "Ethiopian Lentil Stew (Misir Wot)",
+      "image": "https://images.unsplash.com/photo-1679917010073-ead631d41d91?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "slug": "foxtail-millet-vegetable-upma",
+      "title": "Foxtail Millet Vegetable Upma",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Vegetable_Upma.JPG"
+    },
+    {
+      "slug": "french-ratatouille",
+      "title": "French Ratatouille",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/15/Ratatouille_001.jpg"
+    },
+    {
+      "slug": "garlic-butter-scallops-with-asparagus",
+      "title": "Garlic Butter Scallops with Asparagus",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/49/Pan_seared_scallops_with_grilled_asparagus_fine_dining_appetizer.jpg"
+    },
+    {
+      "slug": "german-cucumber-and-dill-salad",
+      "title": "German Cucumber and Dill Salad (Gurkensalat)",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Gurkensalat_Potsdam.jpg/960px-Gurkensalat_Potsdam.jpg"
+    },
+    {
+      "slug": "global-quinoa-edamame-power-bowl",
+      "title": "Global Quinoa Edamame Power Bowl",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Vegan_Quinoa_Bowl_%2844040185371%29.jpg/960px-Vegan_Quinoa_Bowl_%2844040185371%29.jpg"
+    },
+    {
+      "slug": "greek-baked-giant-beans",
+      "title": "Greek Baked Giant Beans (Gigantes Plaki)",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Gigandes_plaki.jpg/960px-Gigandes_plaki.jpg"
+    },
+    {
+      "slug": "greek-cucumber-chickpea-salad",
+      "title": "Greek Cucumber Chickpea Salad",
+      "image": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "slug": "greek-cucumber-yogurt-tzatziki-bowl",
+      "title": "Greek Cucumber Yogurt Tzatziki Bowl",
+      "image": "https://images.unsplash.com/photo-1777199264017-84af9308a41f?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "slug": "greek-lemon-chicken-soup-avgolemono-light",
+      "title": "Greek Lemon Chicken Soup (Avgolemono Light)",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Greek_chichen_soup_with_lemon_and_egg.jpg"
+    },
+    {
+      "slug": "greek-lemon-oregano-chicken-skewers",
+      "title": "Greek Lemon Oregano Chicken Skewers",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/e4/PA013341.JPG"
+    },
+    {
+      "slug": "greek-mediterranean-quinoa-salad",
+      "title": "Greek Mediterranean Quinoa Salad",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Quinoa_Salad_%285045982815%29.jpg/960px-Quinoa_Salad_%285045982815%29.jpg"
+    },
+    {
+      "slug": "grilled-chicken-fajita-salad",
+      "title": "Grilled Chicken Fajita Salad",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Chicken_fajita_salad.jpg/960px-Chicken_fajita_salad.jpg"
+    },
+    {
+      "slug": "grilled-lemon-herb-asparagus",
+      "title": "Grilled Lemon Herb Asparagus",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Grilled_Asparagus_with_Fresh_Lemon_and_Olives_%283813197248%29.jpg/960px-Grilled_Asparagus_with_Fresh_Lemon_and_Olives_%283813197248%29.jpg"
+    },
+    {
+      "slug": "grilled-mahi-mahi-with-mango-salsa",
+      "title": "Grilled Mahi Mahi with Mango Salsa",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/5b/GrilledMahiMahi.jpg"
+    },
+    {
+      "slug": "healthy-chia-seed-pudding-with-berries",
+      "title": "Healthy Chia Seed Pudding with Berries",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Chia_jars_with_bleuberries_%28Unsplash%29.jpg/960px-Chia_jars_with_bleuberries_%28Unsplash%29.jpg"
+    },
+    {
+      "slug": "healthy-turkey-meatball-zoodle-soup",
+      "title": "Healthy Turkey Meatball Zoodle Soup",
+      "image": "https://images.unsplash.com/photo-1673436977889-334fcab20436?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "slug": "hearty-golden-lentil-and-spinach-soup",
+      "title": "Hearty Golden Lentil and Spinach Soup",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Palak_Dal_Bhaji_from_Nagpur.JPG/960px-Palak_Dal_Bhaji_from_Nagpur.JPG"
+    },
+    {
+      "slug": "herb-roasted-salmon-and-asparagus",
+      "title": "Herb Roasted Salmon and Asparagus",
+      "image": "https://images.unsplash.com/photo-1519708227418-c8fd9a32b7a2?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "slug": "himachali-siddu",
+      "title": "Himachali Siddu (Steamed Whole Wheat Stuffed Bun)",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Kullvi_Siddu_%28Himachal_Pradesh%29.jpg"
+    },
+    {
+      "slug": "indian-spiced-moong-dal-khichdi-with-veggies",
+      "title": "Indian Spiced Moong Dal Khichdi with Veggies",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/9c/MoongDal_Khichdi.jpg"
+    },
+    {
+      "slug": "indonesian-gado-gado-salad",
+      "title": "Indonesian Gado-Gado Salad",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Gado_Gado_PTG_Gourmet_IITMandi_Nov17_D72_3256.jpg/960px-Gado_Gado_PTG_Gourmet_IITMandi_Nov17_D72_3256.jpg"
+    },
+    {
+      "slug": "israeli-couscous-salad-with-roasted-vegetables",
+      "title": "Israeli Couscous Salad with Roasted Vegetables",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Liat_Portal_for_Foodie_Disorder_-_Ptitim_with_fresh_salad.jpg/960px-Liat_Portal_for_Foodie_Disorder_-_Ptitim_with_fresh_salad.jpg"
+    },
+    {
+      "slug": "italian-herb-baked-zucchini-boats",
+      "title": "Italian Herb Baked Zucchini Boats",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/%D0%91%D1%80%D0%BE%D0%B4%D1%87%D0%B8%D1%9A%D0%B0_%D0%BE%D0%B4_%D1%82%D0%B8%D0%BA%D0%B2%D0%B8%D1%87%D0%BA%D0%B8.jpg/960px-%D0%91%D1%80%D0%BE%D0%B4%D1%87%D0%B8%D1%9A%D0%B0_%D0%BE%D0%B4_%D1%82%D0%B8%D0%BA%D0%B2%D0%B8%D1%87%D0%BA%D0%B8.jpg"
+    },
+    {
+      "slug": "italian-roasted-garlic-and-tomato-bruschetta",
+      "title": "Italian Roasted Garlic and Tomato Bruschetta",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/A_typical_Maltese_bruschetta_with_fresh_Mediterranean_ingredients.jpg/960px-A_typical_Maltese_bruschetta_with_fresh_Mediterranean_ingredients.jpg"
+    },
+    {
+      "slug": "japanese-edamame-soba-salad",
+      "title": "Japanese Edamame Soba Salad",
+      "image": "https://images.unsplash.com/photo-1597958792579-bd3517df6399?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "slug": "japanese-miso-soup-with-tofu-and-wakame",
+      "title": "Japanese Miso Soup with Tofu and Wakame",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Miso_Soup_001.jpg/960px-Miso_Soup_001.jpg"
+    },
+    {
+      "slug": "japanese-mushroom-miso-ramen-light",
+      "title": "Japanese Mushroom Miso Ramen (Light)",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Vegetable_Miso_Ramen_-_Shogun_Ramen_2023-10-11.jpg"
+    },
+    {
+      "slug": "japanese-sesame-cucumber-salad-sunomono",
+      "title": "Japanese Sesame Cucumber Salad (Sunomono)",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/2016-09-07_Liangmaqiao_Japanese_Restaurant_cucumber_salat_anagoria.jpg/960px-2016-09-07_Liangmaqiao_Japanese_Restaurant_cucumber_salat_anagoria.jpg"
+    },
+    {
+      "slug": "kadi-patta-paneer-saute",
+      "title": "Kadi Patta Paneer Sauté (Curry Leaf Cottage Cheese)",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Paneer_Curry_with_Rice.jpg/960px-Paneer_Curry_with_Rice.jpg"
+    },
+    {
+      "slug": "kalan",
+      "title": "Kalan (Kerala Yoghurt Plantain Curry)",
+      "image": "https://images.unsplash.com/photo-1620894580123-466ad3a0ca06?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "slug": "kangshoi",
+      "title": "Kangshoi (Manipuri Oil-Free Vegetable Stew)",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Chamthong_%28alias_Kangshoi_or_Kangsoi%29_dish_-_Traditional_Meitei_cuisine_-_Gastronomic_cultural_heritage_of_Manipur_%26_domestic_and_international_Meitei_diasporas.jpg"
+    },
+    {
+      "slug": "kanjeevaram-idli",
+      "title": "Kanjeevaram Idli (Spiced Steamed Rice Cakes)",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Idli_Chutney-Mangalore-Karnataka-DSC001.jpg"
+    },
+    {
+      "slug": "kanji",
+      "title": "Kanji (Odia Rice and Curd Fermented Soup)",
+      "image": "https://images.unsplash.com/photo-1621658536602-d7e121971b90?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "slug": "kashmiri-haak-saag",
+      "title": "Kashmiri Haak Saag (Steamed Collard Greens)",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Sukuma_Wiki_or_collard_greens.jpg"
+    },
+    {
+      "slug": "kenyan-sukuma-wiki",
+      "title": "Kenyan Sukuma Wiki (Sautéed Collard Greens)",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/45/Collard_greens%2C_sukuma_wiki.jpg"
+    },
+    {
+      "slug": "kerala-cabbage-thoran",
+      "title": "Kerala Cabbage Thoran",
+      "image": "https://live.staticflickr.com/7528/16224287181_94571b2edd_b.jpg"
+    },
+    {
+      "slug": "kerala-coconut-fish-curry",
+      "title": "Kerala Coconut Fish Curry",
+      "image": "https://live.staticflickr.com/4089/5164064172_109604f3f8_b.jpg"
+    },
+    {
+      "slug": "khandvi",
+      "title": "Khandvi (Gujarati Savory Gram Flour Rolls)",
+      "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "slug": "kordoi-assamese-whole-wheat-savory-snacks",
+      "title": "Kordoi / Assamese Whole Wheat Savory Snacks",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Assamese_pitha.jpg"
+    },
+    {
+      "slug": "korean-kimchi-fried-brown-rice",
+      "title": "Korean Kimchi Fried Brown Rice",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Kimchi-bokkeum-bap_%28Kimchi_fried_rice%29_-_Kogi_2023-09-11.jpg"
+    },
+    {
+      "slug": "kothimbir-vadi",
+      "title": "Kothimbir Vadi (Maharashtrian Steamed Coriander Cakes)",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Kothimbir_vadi.JPG"
+    },
+    {
+      "slug": "kotte-kadubu",
+      "title": "Kotte Kadubu (Karnataka Jackfruit Leaf Steamed Cakes)",
+      "image": "https://images.unsplash.com/photo-1741376509580-b108489411ae?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "slug": "lebanese-baba-ganoush",
+      "title": "Lebanese Baba Ganoush (Eggplant Dip)",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Moutabel.JPG"
+    },
+    {
+      "slug": "lemon-garlic-grilled-salmon",
+      "title": "Lemon Garlic Grilled Salmon",
+      "image": "https://images.unsplash.com/photo-1467003909585-2f8a72700288?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "slug": "lemon-herb-chicken",
+      "title": "Lemon Herb Chicken",
+      "image": "https://live.staticflickr.com/3385/4635069591_574f351447_b.jpg"
+    },
+    {
+      "slug": "lemon-herb-grilled-shrimp-skewers",
+      "title": "Lemon Herb Grilled Shrimp Skewers",
+      "image": "https://images.unsplash.com/photo-1684253193395-bb87ad32d4be?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "slug": "lentil-walnut-vegan-bolognese",
+      "title": "Lentil Walnut Vegan Bolognese",
+      "image": "https://images.unsplash.com/photo-1597933856545-b9ee519aa0ec?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "slug": "light-baked-fish-tacos",
+      "title": "Light Baked Fish Tacos",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/73/Fish_tacos_in_Pittsburg.jpg"
+    },
+    {
+      "slug": "madra-himachali-chickpea-yogurt-curry",
+      "title": "Madra / Himachali Chickpea Yogurt Curry",
+      "image": "https://images.unsplash.com/photo-1482049016688-2d3e1b311543?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "slug": "masoor-dal-spinach",
+      "title": "Masoor Dal with Spinach",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/38/Masoor_dal.JPG"
+    },
+    {
+      "slug": "mediterranean-baked-eggplant-boats",
+      "title": "Mediterranean Baked Eggplant Boats",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Aubergine_Boats_with_Chilli_%26_Cheese_%2825747317768%29.jpg"
+    },
+    {
+      "slug": "mediterranean-chickpea-tuna-salad",
+      "title": "Mediterranean Chickpea Tuna Salad (Egg-Free)",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/76/Tuna_salad_on_mixed_greens%2C_with_corn%2C_carrots%2C_tomatoes%2C_olive_oil%2C_red_vinegar%2C_and_black_pepper_-_Massachusetts.jpg"
+    },
+    {
+      "slug": "mediterranean-hummus-and-veggie-plate",
+      "title": "Mediterranean Hummus and Veggie Plate",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/90/Homemade_hummus_and_pita_03.jpg"
+    },
+    {
+      "slug": "mediterranean-lentil-salad",
+      "title": "Mediterranean Lentil Salad",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Mediterranean_Lentil_Salad_%2828876840122%29.jpg"
+    },
+    {
+      "slug": "mediterranean-white-bean-skillet",
+      "title": "Mediterranean White Bean Skillet",
+      "image": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "slug": "menthya-matvadi-palya",
+      "title": "Menthya Matvadi Palya (Karnataka Fenugreek Lentil Stir-Fry)",
+      "image": "https://images.unsplash.com/photo-1657186394392-ea2ec3b63897?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "slug": "mexican-black-bean-and-corn-bowl",
+      "title": "Mexican Black Bean and Corn Bowl",
+      "image": "https://images.unsplash.com/photo-1651994410503-2bc30ab8fa8c?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "slug": "mexican-black-bean-and-quinoa-stuffed-tomatoes",
+      "title": "Mexican Black Bean and Quinoa Stuffed Tomatoes",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/b/be/Stuffed_Tomato_with_Vegan_Crab_and_Bell_Peppers_%283710241356%29.jpg"
+    },
+    {
+      "slug": "mexican-quinoa-taco-bowl",
+      "title": "Mexican Quinoa Taco Bowl",
+      "image": "https://images.unsplash.com/photo-1623428187969-5da2dcea5ebf?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "slug": "mexican-zucchini-and-corn-saute",
+      "title": "Mexican Zucchini and Corn Sauté (Calabacitas)",
+      "image": "https://images.unsplash.com/photo-1670867014068-220008de468d?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "slug": "middle-eastern-baked-falafel",
+      "title": "Middle Eastern Baked Falafel",
+      "image": "https://live.staticflickr.com/3466/3933231871_89abc77b3c_b.jpg"
+    },
+    {
+      "slug": "middle-eastern-freekeh-vegetable-pilaf",
+      "title": "Middle Eastern Freekeh Vegetable Pilaf",
+      "image": "https://images.unsplash.com/photo-1647714013867-f62bc1cc2039?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "slug": "missi-roti",
+      "title": "Missi Roti (North Indian Spiced Chickpea Flatbread)",
+      "image": "https://images.unsplash.com/photo-1729249382934-1b5cdf5bca74?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "slug": "moong-dal-chilla",
+      "title": "Moong Dal Chilla",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Moong_Dosa.jpg"
+    },
+    {
+      "slug": "moroccan-carrot-and-cumin-salad",
+      "title": "Moroccan Carrot and Cumin Salad",
+      "image": "https://images.unsplash.com/photo-1682370207954-c8a9cccaabb4?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "slug": "moroccan-spiced-chickpea-soup",
+      "title": "Moroccan Spiced Chickpea Soup",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Mediterranean_Chickpea_Soup_%2834817152586%29.jpg"
+    },
+    {
+      "slug": "moroccan-vegetable-and-chickpea-couscous",
+      "title": "Moroccan Vegetable and Chickpea Couscous",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Moroccan_cuscus%2C_from_Casablanca%2C_September_2018.jpg"
+    },
+    {
+      "slug": "moroccan-vegetable-tagine",
+      "title": "Moroccan Vegetable Tagine",
+      "image": "https://images.unsplash.com/photo-1541518763669-27fef04b14ea?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "slug": "north-african-spiced-roasted-cauliflower",
+      "title": "North African Spiced Roasted Cauliflower",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Liat_Portal_for_Foodie_Disorder_%E2%80%93_Whole_roasted_cauliflower.jpg"
+    },
+    {
+      "slug": "olan",
+      "title": "Olan (Kerala White Gourd and Cowpeas Curry)",
+      "image": "https://images.unsplash.com/photo-1722698030083-75d1d50cabe4?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "slug": "overnight-oats",
+      "title": "Overnight Oats",
+      "image": "https://live.staticflickr.com/5470/10152667545_94751211aa_b.jpg"
+    },
+    {
+      "slug": "palak-paneer",
+      "title": "Palak Paneer",
+      "image": "https://live.staticflickr.com/2188/1517531815_d2551acc04_b.jpg"
+    },
+    {
+      "slug": "palak-spinach-soup",
+      "title": "Palak (Spinach) Soup",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/67/Palak_Dal_Bhaji_from_Nagpur.JPG"
+    },
+    {
+      "slug": "parsi-egg-akuri",
+      "title": "Parsi Egg Akuri (Spiced Soft Scrambled Eggs)",
+      "image": "https://images.unsplash.com/photo-1673925962465-7bfd6339ab2e?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "slug": "persian-herb-salad-sabzi-khordan",
+      "title": "Persian Herb Salad (Sabzi Khordan)",
+      "image": "https://images.unsplash.com/photo-1697219611694-eee40be40ae3?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "slug": "peruvian-quinoa-vegetable-soup",
+      "title": "Peruvian Quinoa Vegetable Soup",
+      "image": "https://images.unsplash.com/photo-1679844795701-4c7864627456?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "slug": "polish-beetroot-and-apple-salad",
+      "title": "Polish Beetroot and Apple Salad",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Polish_Beetroot_Salad.jpg"
+    },
+    {
+      "slug": "pudina-chutney-stuffed-tandoori-fish",
+      "title": "Pudina Chutney Stuffed Tandoori Fish",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Tandoori_fish.jpg"
+    },
+    {
+      "slug": "quinoa-black-bean-stuffed-avocados",
+      "title": "Quinoa Black Bean Stuffed Avocados",
+      "image": "https://images.unsplash.com/photo-1715611935696-a59ebf388252?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "slug": "quinoa-black-bean-stuffed-peppers",
+      "title": "Quinoa Black Bean Stuffed Peppers",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/20/Quinoa_stuffed_peppers.jpg"
+    },
+    {
+      "slug": "quinoa-edamame-avocado-salad",
+      "title": "Quinoa Edamame Avocado Salad",
+      "image": "https://images.unsplash.com/photo-1719677775416-1dd6a93f1a73?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "slug": "ragi-dosa",
+      "title": "Ragi Dosa",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Ragi_Dosa_Mumbai.jpg"
+    },
+    {
+      "slug": "rajma-brown-rice",
+      "title": "Rajma with Brown Rice",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Rajma_Chawal_from_India%281%29.jpg"
+    },
+    {
+      "slug": "rajma-red-kidney-bean-curry",
+      "title": "Rajma (Red Kidney Bean Curry)",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Rajma_Chawal_Thali.jpg"
+    },
+    {
+      "slug": "roasted-beet-and-orange-salad",
+      "title": "Roasted Beet and Orange Salad",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Beet_salad_and_orange_juice.jpg"
+    },
+    {
+      "slug": "roasted-brussels-sprouts-and-pomegranate-salad",
+      "title": "Roasted Brussels Sprouts and Pomegranate Salad",
+      "image": "https://images.unsplash.com/photo-1624017844792-435d148d93ae?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "slug": "roasted-butternut-squash-and-sage-soup",
+      "title": "Roasted Butternut Squash and Sage Soup",
+      "image": "https://images.unsplash.com/photo-1764015939108-7963106fa73b?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "slug": "roasted-carrot-and-ginger-soup",
+      "title": "Roasted Carrot and Ginger Soup",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Roasted_Carrot_and_Apple_Soup_%2829364253570%29.jpg"
+    },
+    {
+      "slug": "roasted-pumpkin-and-sage-risotto-brown-rice",
+      "title": "Roasted Pumpkin and Sage Risotto (Brown Rice)",
+      "image": "https://images.unsplash.com/photo-1633964913295-ceb43826e7c9?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "slug": "roasted-sweet-potato-and-kale-salad",
+      "title": "Roasted Sweet Potato and Kale Salad",
+      "image": "https://images.unsplash.com/photo-1735136425951-ae3ddc470617?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "slug": "sattu-paratha",
+      "title": "Sattu Paratha (Bihari Roasted Gram Flatbread)",
+      "image": "https://images.unsplash.com/photo-1683533761804-5fc12be0f684?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "slug": "sesame-ginger-edamame-stir-fry",
+      "title": "Sesame Ginger Edamame Stir-Fry",
+      "image": "https://images.unsplash.com/photo-1612658735891-15d427bca30d?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "slug": "shakshuka",
+      "title": "Shakshuka (North African Poached Eggs in Tomato Sauce)",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/18/Shakshuka_by_Calliopejen1.jpg"
+    },
+    {
+      "slug": "sol-kadhi",
+      "title": "Sol Kadhi (Kokum and Coconut Milk Drink)",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Sol_kadhi.jpg"
+    },
+    {
+      "slug": "south-american-baked-sweet-potato-wedges",
+      "title": "South American Baked Sweet Potato Wedges",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Sesame-roasted_sweet_potato_wedges_with_Brocolli_%283257806891%29.jpg"
+    },
+    {
+      "slug": "southwest-turkey-chili",
+      "title": "Southwest Turkey Chili",
+      "image": "https://images.unsplash.com/photo-1790701909034-6c7b45c7b58a?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "slug": "spanish-garlic-mushrooms",
+      "title": "Spanish Garlic Mushrooms (Champiñones al Ajillo)",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Navarros%2C_Fitzrovia%2C_London_%284093374647%29.jpg"
+    },
+    {
+      "slug": "spanish-gazpacho",
+      "title": "Spanish Gazpacho (Cold Tomato Soup)",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Gazpacho_in_a_white_bowl.jpg"
+    },
+    {
+      "slug": "spiced-red-lentil-dosa",
+      "title": "Spiced Red Lentil Dosa",
+      "image": "https://images.unsplash.com/photo-1743517894265-c86ab035adef?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "slug": "spiced-roasted-cauliflower-steaks",
+      "title": "Spiced Roasted Cauliflower Steaks",
+      "image": "https://images.unsplash.com/photo-1592815054199-5bff9c3e8a05?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "slug": "spicy-tofu-broccoli-stir-fry",
+      "title": "Spicy Tofu Broccoli Stir Fry",
+      "image": "https://images.unsplash.com/photo-1711247355155-873ce02ab092?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "slug": "spinach-mushroom-egg-white-frittata",
+      "title": "Spinach Mushroom Egg White Frittata",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/12/Frittata_slice.jpg"
+    },
+    {
+      "slug": "sprouted-moong-chaat",
+      "title": "Sprouted Moong Chaat",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Moong_Chaat.JPG"
+    },
+    {
+      "slug": "steamed-edamame-with-sea-salt",
+      "title": "Steamed Edamame with Sea Salt",
+      "image": "https://images.unsplash.com/photo-1708428661248-03d821e192eb?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "slug": "steamed-fish-with-ginger-and-green-onions",
+      "title": "Steamed Fish with Ginger and Green Onions",
+      "image": "https://images.unsplash.com/photo-1767436093457-84ea9122eb4e?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "slug": "steamed-sea-bass-with-ginger-soy",
+      "title": "Steamed Sea Bass with Ginger Soy",
+      "image": "https://images.unsplash.com/photo-1760504526044-840cade997b2?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "slug": "tandoori-chicken-vegetables",
+      "title": "Tandoori Chicken with Vegetables",
+      "image": "https://live.staticflickr.com/2907/14636748317_052f20dd93_b.jpg"
+    },
+    {
+      "slug": "tandoori-chicken",
+      "title": "Tandoori Chicken",
+      "image": "https://images.unsplash.com/photo-1604908176997-125f25cc6f3d?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "slug": "tandoori-pomfret",
+      "title": "Tandoori Pomfret",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Pomfret_fry_MA01.jpg"
+    },
+    {
+      "slug": "tex-mex-stuffed-bell-peppers",
+      "title": "Tex-Mex Stuffed Bell Peppers",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Stuffed_bell_peppers_Karnataka_DSC0001.jpg"
+    },
+    {
+      "slug": "thai-coconut-tom-yum-vegetable-soup",
+      "title": "Thai Coconut Tom Yum Vegetable Soup",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Tom_Yum_%28Hot_%26_Sour_Soup%29_with_Tofu_-_Thai_Pad_Thai_2025-12-03.jpg"
+    },
+    {
+      "slug": "thai-green-papaya-salad-som-tum",
+      "title": "Thai Green Papaya Salad (Som Tum)",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Som_Tam_green_papaya_salad%2C_Bangkok%2C_Thailand.jpg"
+    },
+    {
+      "slug": "thai-red-curry-tofu-with-jasmine-rice",
+      "title": "Thai Red Curry Tofu with Jasmine Rice",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/98/Red_curry_with_tofu%2C_egg_fried_rice_-_Little_Thai_2024-07-21.jpg"
+    },
+    {
+      "slug": "thalipeeth",
+      "title": "Thalipeeth (Maharashtrian Multi-Grain Flatbread)",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Thalipeeth.jpg"
+    },
+    {
+      "slug": "tofu-and-vegetable-rice-paper-dumplings",
+      "title": "Tofu and Vegetable Rice Paper Dumplings",
+      "image": "https://images.unsplash.com/photo-1761315413902-bc9d78fcaaab?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "slug": "tomato-omelette-besan-chilla",
+      "title": "Tomato Omelette (Besan Chilla)",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Chilla_besan.JPG"
+    },
+    {
+      "slug": "turkish-lentil-soup",
+      "title": "Turkish Lentil Soup (Mercimek Çorbası)",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Mercimek_%28lentil%29_soup.jpg"
+    },
+    {
+      "slug": "turmeric-ginger-bone-broth-soup",
+      "title": "Turmeric Ginger Bone Broth Soup",
+      "image": "https://images.unsplash.com/photo-1614649672625-e1b2ed8d5cb8?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "slug": "turmeric-ginger-red-lentil-soup",
+      "title": "Turmeric Ginger Red Lentil Soup",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Liat_Portal_for_Foodie_Disorder_-_Red_lentil_soup_with_vegetables_and_dumpling.jpg"
+    },
+    {
+      "slug": "tuscan-white-bean-and-spinach-stew",
+      "title": "Tuscan White Bean and Spinach Stew",
+      "image": "https://images.unsplash.com/photo-1617521583527-10229bcc2639?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "slug": "vegetable-moong-dal-khichdi",
+      "title": "Vegetable Moong Dal Khichdi",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Vegetable_Khichdi.jpg"
+    },
+    {
+      "slug": "vegetable-poha",
+      "title": "Vegetable Poha",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/80/Poha.jpg"
+    },
+    {
+      "slug": "vegetable-sambar",
+      "title": "Vegetable Sambar",
+      "image": "https://live.staticflickr.com/109/303071888_05b391e9bd_b.jpg"
+    },
+    {
+      "slug": "vietnamese-fresh-spring-rolls-goi-cuon",
+      "title": "Vietnamese Fresh Spring Rolls (Goi Cuon)",
+      "image": "https://images.unsplash.com/photo-1786114774610-8696925848c6?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "slug": "warm-lentil-and-goat-cheese-salad",
+      "title": "Warm Lentil and Goat Cheese Salad",
+      "image": "https://images.unsplash.com/photo-1692197275526-48a6178f1d09?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "slug": "warm-roasted-beet-and-walnut-salad",
+      "title": "Warm Roasted Beet and Walnut Salad",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/85/Goat_cheese_and_beet_salad_in_Hungary.jpg"
+    },
+    {
+      "slug": "west-african-peanut-and-tomato-stew",
+      "title": "West African Peanut and Tomato Stew (Light Version)",
+      "image": "https://images.unsplash.com/photo-1540716908819-502544f3e963?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "slug": "zucchini-noodle-basil-pesto-pasta",
+      "title": "Zucchini Noodle Basil Pesto Pasta",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Basil_pesto_pasta.jpg"
+    },
+    {
+      "slug": "zucchini-noodles-with-pesto-and-cherry-tomatoes",
+      "title": "Zucchini Noodles with Pesto and Cherry Tomatoes",
+      "image": "https://images.unsplash.com/photo-1534422298391-e4f8c172dddb?auto=format&fit=crop&w=1200&q=80"
+    }
+  ],
+  "attributeCounts": {
+    "description": 164,
+    "image": 164,
+    "imageAttribution": 106,
+    "prepTime": 164,
+    "nutrition": 164,
+    "dietaryTags": {
+      "gluten-free": 133,
+      "high-fiber": 92,
+      "high-protein": 86,
+      "keto": 26,
+      "low-carb": 34,
+      "vegan": 100,
+      "vegetarian": 34
+    },
+    "allergens": {
+      "eggs": 6,
+      "fish": 12,
+      "milk": 36,
+      "peanuts": 5,
+      "sesame": 19,
+      "shellfish": 3,
+      "soy": 20,
+      "tree-nuts": 12,
+      "wheat": 25
+    }
+  },
+  "recipesWithoutImages": [],
+  "duplicateImages": []
+}

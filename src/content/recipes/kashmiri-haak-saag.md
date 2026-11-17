@@ -1,14 +1,6 @@
 ---
 title: Kashmiri Haak Saag (Steamed Collard Greens)
 slug: kashmiri-haak-saag
-image: "https://upload.wikimedia.org/wikipedia/commons/0/0b/Sukuma_Wiki_or_collard_greens.jpg"
-imageAttribution:
-  title: "Sukuma Wiki or collard greens"
-  creator: "MEvalyn"
-  creatorUrl: "https://commons.wikimedia.org/wiki/User:MEvalyn"
-  sourceUrl: "https://commons.wikimedia.org/wiki/File:Sukuma_Wiki_or_collard_greens.jpg"
-  license: "CC BY-SA 4.0"
-  licenseUrl: "https://creativecommons.org/licenses/by-sa/4.0/"
 description: >-
   A minimalist Kashmiri specialty featuring collard greens cooked gently with
   mustard oil, asafoetida, and dry red chillies.
@@ -63,5 +55,16 @@ nutrition:
     calciumMg: 140
     ironMg: 2.1
   micronutrientEstimateSource: Per-serving values from CTI_RECEIPES.pdf.
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/0/0b/Sukuma_Wiki_or_collard_greens.jpg
+imageAttribution:
+  title: Sukuma Wiki or collard greens
+  creator: MEvalyn
+  creatorUrl: 'https://commons.wikimedia.org/wiki/User:MEvalyn'
+  sourceUrl: 'https://commons.wikimedia.org/wiki/File:Sukuma_Wiki_or_collard_greens.jpg'
+  license: CC BY-SA 4.0
+  licenseUrl: 'https://creativecommons.org/licenses/by-sa/4.0/'
+prepTimeMinutes: 10
+prepTimeEstimated: true
 ---
 

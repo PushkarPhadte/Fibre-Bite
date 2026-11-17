@@ -1,14 +1,14 @@
 ---
 title: Cholar Dal with Coconut (Bengali Gram Dal)
 slug: cholar-dal-with-coconut
-image: "https://images.unsplash.com/photo-1546793665-c74683f339c1?auto=format&fit=crop&w=1200&q=80"
+image: "https://upload.wikimedia.org/wikipedia/commons/0/06/Cholar_daal_-_Kolkata_-_West_Bengal.jpg"
 imageAttribution:
-  title: "Cholar Dal With Coconut"
-  creator: "Unsplash"
-  creatorUrl: "https://unsplash.com/"
-  sourceUrl: "https://unsplash.com/s/photos/cholar-dal-with-coconut"
-  license: "Unsplash License"
-  licenseUrl: "https://unsplash.com/license"
+  title: "Cholar daal - Kolkata - West Bengal"
+  creator: "Pkd2512"
+  creatorUrl: "https://commons.wikimedia.org/wiki/User:Pkd2512"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:Cholar_daal_-_Kolkata_-_West_Bengal.jpg"
+  license: "CC BY-SA 4.0"
+  licenseUrl: "https://creativecommons.org/licenses/by-sa/4.0"
 description: >-
   A traditional Bengali chana dal curry flavored with coconut slices, ginger,
   cumin, and dry red chillies.
@@ -75,5 +75,7 @@ nutrition:
     magnesiumMg: 54
     folateMcg: 65
   micronutrientEstimateSource: Per-serving values from CTI_RECEIPES.pdf.
+prepTimeMinutes: 15
+prepTimeEstimated: true
 ---
 

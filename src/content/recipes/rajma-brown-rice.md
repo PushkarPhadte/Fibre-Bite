@@ -87,13 +87,16 @@ nutrition:
   micronutrientEstimateSource: >-
     Approximate per-serving estimates from generic cooked kidney beans, brown
     rice, and vegetables; bean variety, cooked yield, and salt use vary.
-image: "https://upload.wikimedia.org/wikipedia/commons/0/0f/Rajma_Chawal_from_India%281%29.jpg"
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/0/0f/Rajma_Chawal_from_India%281%29.jpg
 imageAttribution:
   title: Rajma Chawal from India
   creator: Barthateslisa
-  creatorUrl: "https://commons.wikimedia.org/wiki/User:Barthateslisa"
-  sourceUrl: "https://commons.wikimedia.org/w/index.php?curid=51316792"
+  creatorUrl: 'https://commons.wikimedia.org/wiki/User:Barthateslisa'
+  sourceUrl: 'https://commons.wikimedia.org/w/index.php?curid=51316792'
   license: CC BY-SA 4.0
-  licenseUrl: "https://creativecommons.org/licenses/by-sa/4.0/"
+  licenseUrl: 'https://creativecommons.org/licenses/by-sa/4.0/'
+prepTimeMinutes: 20
+prepTimeEstimated: true
 ---
 

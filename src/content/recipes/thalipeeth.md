@@ -1,14 +1,6 @@
 ---
 title: Thalipeeth (Maharashtrian Multi-Grain Flatbread)
 slug: thalipeeth
-image: "https://upload.wikimedia.org/wikipedia/commons/f/f7/Thalipeeth.jpg"
-imageAttribution:
-  title: "Thalipeeth"
-  creator: "Archana Joshi"
-  creatorUrl: "https://commons.wikimedia.org/wiki/User:Archa.joshi"
-  sourceUrl: "https://commons.wikimedia.org/wiki/File:Thalipeeth.jpg"
-  license: "CC BY-SA 4.0"
-  licenseUrl: "https://creativecommons.org/licenses/by-sa/4.0/"
 description: >-
   A wholesome Maharashtrian savory flatbread prepared from roasted multi-grain
   flour (bhajani) and onions.
@@ -71,5 +63,15 @@ nutrition:
     potassiumMg: 290
     magnesiumMg: 58
   micronutrientEstimateSource: Per-serving values from CTI_RECEIPES.pdf.
+image: 'https://upload.wikimedia.org/wikipedia/commons/f/f7/Thalipeeth.jpg'
+imageAttribution:
+  title: Thalipeeth
+  creator: Archana Joshi
+  creatorUrl: 'https://commons.wikimedia.org/wiki/User:Archa.joshi'
+  sourceUrl: 'https://commons.wikimedia.org/wiki/File:Thalipeeth.jpg'
+  license: CC BY-SA 4.0
+  licenseUrl: 'https://creativecommons.org/licenses/by-sa/4.0/'
+prepTimeMinutes: 15
+prepTimeEstimated: true
 ---
 

@@ -1,14 +1,6 @@
 ---
 title: Dudhi Muthia (Gujarati Steamed Bottle Gourd Dumplings)
 slug: dudhi-muthia
-image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Gujrati_Muthia.jpg/960px-Gujrati_Muthia.jpg"
-imageAttribution:
-  title: Gujarati muthia
-  creator: Mrudit161187
-  creatorUrl: "https://commons.wikimedia.org/wiki/Special:Contributions/Mrudit161187"
-  sourceUrl: "https://commons.wikimedia.org/wiki/File:Gujrati_Muthia.jpg"
-  license: CC BY-SA 4.0
-  licenseUrl: "https://creativecommons.org/licenses/by-sa/4.0"
 description: >-
   Nutritious steamed Gujarati dumplings made with grated bottle gourd, whole
   wheat flour, and fragrant spices.
@@ -73,5 +65,16 @@ nutrition:
     ironMg: 1.6
     potassiumMg: 310
   micronutrientEstimateSource: Per-serving values from CTI_RECEIPES.pdf.
+image: >-
+  https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Gujrati_Muthia.jpg/960px-Gujrati_Muthia.jpg
+imageAttribution:
+  title: Gujarati muthia
+  creator: Mrudit161187
+  creatorUrl: 'https://commons.wikimedia.org/wiki/Special:Contributions/Mrudit161187'
+  sourceUrl: 'https://commons.wikimedia.org/wiki/File:Gujrati_Muthia.jpg'
+  license: CC BY-SA 4.0
+  licenseUrl: 'https://creativecommons.org/licenses/by-sa/4.0'
+prepTimeMinutes: 30
+prepTimeEstimated: true
 ---
 

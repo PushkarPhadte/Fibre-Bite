@@ -1,14 +1,6 @@
 ---
 title: Spanish Garlic Mushrooms (Champiñones al Ajillo)
 slug: spanish-garlic-mushrooms
-image: "https://upload.wikimedia.org/wikipedia/commons/a/aa/Navarros%2C_Fitzrovia%2C_London_%284093374647%29.jpg"
-imageAttribution:
-  title: "Champiñones al ajillo at Navarro's"
-  creator: "Ewan Munro"
-  creatorUrl: "https://www.flickr.com/people/55935853@N00"
-  sourceUrl: "https://commons.wikimedia.org/wiki/File:Navarros,_Fitzrovia,_London_(4093374647).jpg"
-  license: "CC BY-SA 2.0"
-  licenseUrl: "https://creativecommons.org/licenses/by-sa/2.0/"
 description: >-
   Sautéed button mushrooms infused with fragrant garlic, dry white grape
   juice/broth, parsley, and olive oil.
@@ -59,5 +51,17 @@ nutrition:
   micronutrients:
     potassiumMg: 380
   micronutrientEstimateSource: Per-serving values from cti_receipes_2.pdf.
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/a/aa/Navarros%2C_Fitzrovia%2C_London_%284093374647%29.jpg
+imageAttribution:
+  title: Champiñones al ajillo at Navarro's
+  creator: Ewan Munro
+  creatorUrl: 'https://www.flickr.com/people/55935853@N00'
+  sourceUrl: >-
+    https://commons.wikimedia.org/wiki/File:Navarros,_Fitzrovia,_London_(4093374647).jpg
+  license: CC BY-SA 2.0
+  licenseUrl: 'https://creativecommons.org/licenses/by-sa/2.0/'
+prepTimeMinutes: 10
+prepTimeEstimated: true
 ---
 

@@ -1,14 +1,6 @@
 ---
 title: Japanese Miso Soup with Tofu and Wakame
 slug: japanese-miso-soup-with-tofu-and-wakame
-image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Miso_Soup_001.jpg/960px-Miso_Soup_001.jpg"
-imageAttribution:
-  title: Miso soup with tofu and seaweed
-  creator: Ocdp
-  creatorUrl: "https://commons.wikimedia.org/wiki/Special:Contributions/Ocdp"
-  sourceUrl: "https://commons.wikimedia.org/wiki/File:Miso_Soup_001.jpg"
-  license: CC0
-  licenseUrl: "https://creativecommons.org/publicdomain/zero/1.0/"
 description: >-
   A light, gut-friendly fermented dashi broth featuring silken tofu, wakame
   seaweed, and spring onions.
@@ -62,5 +54,16 @@ nutrition:
     ironMg: 1.1
     potassiumMg: 180
   micronutrientEstimateSource: Per-serving values from cti_receipes_2.pdf.
+image: >-
+  https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Miso_Soup_001.jpg/960px-Miso_Soup_001.jpg
+imageAttribution:
+  title: Miso soup with tofu and seaweed
+  creator: Ocdp
+  creatorUrl: 'https://commons.wikimedia.org/wiki/Special:Contributions/Ocdp'
+  sourceUrl: 'https://commons.wikimedia.org/wiki/File:Miso_Soup_001.jpg'
+  license: CC0
+  licenseUrl: 'https://creativecommons.org/publicdomain/zero/1.0/'
+prepTimeMinutes: 10
+prepTimeEstimated: true
 ---
 

@@ -1,14 +1,6 @@
 ---
 title: Tandoori Chicken
 slug: tandoori-chicken
-image: "https://images.unsplash.com/photo-1604908176997-125f25cc6f3d?auto=format&fit=crop&w=1200&q=80"
-imageAttribution:
-  title: Tandoori chicken
-  creator: Unsplash
-  creatorUrl: "https://unsplash.com/"
-  sourceUrl: "https://unsplash.com/s/photos/tandoori-chicken"
-  license: Unsplash License
-  licenseUrl: "https://unsplash.com/license"
 description: >-
   Chicken pieces coated in a spiced yogurt marinade, seasoned with garlic,
   ginger, lemon, and warm spices, baked or roasted.
@@ -77,5 +69,16 @@ nutrition:
     ironMg: 1.4
     potassiumMg: 380
   micronutrientEstimateSource: Per-serving values from CTI_RECEIPES.pdf.
+image: >-
+  https://images.unsplash.com/photo-1604908176997-125f25cc6f3d?auto=format&fit=crop&w=1200&q=80
+imageAttribution:
+  title: Tandoori chicken
+  creator: Unsplash
+  creatorUrl: 'https://unsplash.com/'
+  sourceUrl: 'https://unsplash.com/s/photos/tandoori-chicken'
+  license: Unsplash License
+  licenseUrl: 'https://unsplash.com/license'
+prepTimeMinutes: 15
+prepTimeEstimated: true
 ---
 

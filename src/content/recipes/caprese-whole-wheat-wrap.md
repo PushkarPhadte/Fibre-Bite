@@ -1,14 +1,7 @@
 ---
 title: Caprese Whole Wheat Wrap
 slug: caprese-whole-wheat-wrap
-image: "https://images.unsplash.com/photo-1540189549336-e6e99c3679fe?auto=format&fit=crop&w=1200&q=80"
-imageAttribution:
-  title: Caprese wrap
-  creator: Unsplash
-  creatorUrl: "https://unsplash.com/"
-  sourceUrl: "https://unsplash.com/s/photos/caprese-wrap"
-  license: Unsplash License
-  licenseUrl: "https://unsplash.com/license"
+image: "https://images.unsplash.com/photo-1752095809096-f09d22c466c5?auto=format&fit=crop&w=1200&q=80"
 description: >-
   A fresh Italian wrap packed with fresh mozzarella, ripe sliced tomatoes, basil
   leaves, and a touch of balsamic glaze.

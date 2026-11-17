@@ -1,14 +1,6 @@
 ---
 title: Lebanese Baba Ganoush (Eggplant Dip)
 slug: lebanese-baba-ganoush
-image: "https://upload.wikimedia.org/wikipedia/commons/c/ce/Moutabel.JPG"
-imageAttribution:
-  title: "Moutabel"
-  creator: "Miansari66"
-  creatorUrl: "https://commons.wikimedia.org/wiki/User:Miansari66"
-  sourceUrl: "https://commons.wikimedia.org/wiki/File:Moutabel.JPG"
-  license: "CC0"
-  licenseUrl: "https://creativecommons.org/publicdomain/zero/1.0/"
 description: >-
   Smoky roasted eggplant dip blended with tahini, garlic, lemon juice, and extra
   virgin olive oil.
@@ -66,5 +58,15 @@ nutrition:
     ironMg: 1.1
     potassiumMg: 290
   micronutrientEstimateSource: Per-serving values from cti_receipes_2.pdf.
+image: 'https://upload.wikimedia.org/wikipedia/commons/c/ce/Moutabel.JPG'
+imageAttribution:
+  title: Moutabel
+  creator: Miansari66
+  creatorUrl: 'https://commons.wikimedia.org/wiki/User:Miansari66'
+  sourceUrl: 'https://commons.wikimedia.org/wiki/File:Moutabel.JPG'
+  license: CC0
+  licenseUrl: 'https://creativecommons.org/publicdomain/zero/1.0/'
+prepTimeMinutes: 10
+prepTimeEstimated: true
 ---
 

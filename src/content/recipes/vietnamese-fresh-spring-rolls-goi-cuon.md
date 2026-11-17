@@ -1,14 +1,7 @@
 ---
 title: Vietnamese Fresh Spring Rolls (Goi Cuon)
 slug: vietnamese-fresh-spring-rolls-goi-cuon
-image: "https://images.unsplash.com/photo-1529006557810-274b9b2fc783?auto=format&fit=crop&w=1200&q=80"
-imageAttribution:
-  title: Vietnamese spring rolls
-  creator: Unsplash
-  creatorUrl: "https://unsplash.com/"
-  sourceUrl: "https://unsplash.com/s/photos/vietnamese-spring-rolls"
-  license: Unsplash License
-  licenseUrl: "https://unsplash.com/license"
+image: "https://images.unsplash.com/photo-1786114774610-8696925848c6?auto=format&fit=crop&w=1200&q=80"
 description: >-
   Translucent rice paper wraps stuffed with steamed shrimp, rice vermicelli,
   fresh mint, cilantro, and crisp lettuce.
@@ -69,5 +62,7 @@ nutrition:
     calciumMg: 55
     ironMg: 1.2
   micronutrientEstimateSource: Per-serving values from cti_receipes_2.pdf.
+prepTimeMinutes: 30
+prepTimeEstimated: true
 ---
 

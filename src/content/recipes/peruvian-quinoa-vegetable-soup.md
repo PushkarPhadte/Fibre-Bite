@@ -1,14 +1,7 @@
 ---
 title: Peruvian Quinoa Vegetable Soup
 slug: peruvian-quinoa-vegetable-soup
-image: "https://images.unsplash.com/photo-1490645935967-10de6ba17061?auto=format&fit=crop&w=1200&q=80"
-imageAttribution:
-  title: "Peruvian Quinoa Vegetable Soup"
-  creator: "Unsplash"
-  creatorUrl: "https://unsplash.com/"
-  sourceUrl: "https://unsplash.com/s/photos/peruvian-quinoa-vegetable-soup"
-  license: "Unsplash License"
-  licenseUrl: "https://unsplash.com/license"
+image: "https://images.unsplash.com/photo-1679844795701-4c7864627456?auto=format&fit=crop&w=1200&q=80"
 description: >-
   An Andean whole-grain soup loaded with quinoa, potatoes, carrots, zucchini,
   and traditional South American spices.
@@ -76,5 +69,7 @@ nutrition:
     potassiumMg: 420
     magnesiumMg: 48
   micronutrientEstimateSource: Per-serving values from cti_receipes_2.pdf.
+prepTimeMinutes: 20
+prepTimeEstimated: true
 ---
 

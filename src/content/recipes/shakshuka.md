@@ -72,13 +72,16 @@ nutrition:
     vitaminCMg: 42
     ironMg: 2.4
   micronutrientEstimateSource: Per-serving values from cti_receipes_2.pdf.
-image: "https://upload.wikimedia.org/wikipedia/commons/1/18/Shakshuka_by_Calliopejen1.jpg"
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/1/18/Shakshuka_by_Calliopejen1.jpg
 imageAttribution:
   title: Shakshuka by Calliopejen1
   creator: Calliopejen1
-  creatorUrl: "https://commons.wikimedia.org/wiki/User:Calliopejen1"
-  sourceUrl: "https://commons.wikimedia.org/w/index.php?curid=39264308"
+  creatorUrl: 'https://commons.wikimedia.org/wiki/User:Calliopejen1'
+  sourceUrl: 'https://commons.wikimedia.org/w/index.php?curid=39264308'
   license: CC BY-SA 3.0
-  licenseUrl: "https://creativecommons.org/licenses/by-sa/3.0/"
+  licenseUrl: 'https://creativecommons.org/licenses/by-sa/3.0/'
+prepTimeMinutes: 15
+prepTimeEstimated: true
 ---
 

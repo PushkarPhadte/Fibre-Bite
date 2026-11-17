@@ -1,14 +1,6 @@
 ---
 title: Egyptian Ful Medames (Spiced Fava Beans)
 slug: egyptian-ful-medames
-image: "https://upload.wikimedia.org/wikipedia/commons/b/bf/Ful_medames_%28arabic_meal%29.jpg"
-imageAttribution:
-  title: "Ful medames (arabic meal)"
-  creator: "Abdullah Geelah"
-  creatorUrl: "https://commons.wikimedia.org/wiki/User:Abdullah_Geelah"
-  sourceUrl: "https://commons.wikimedia.org/wiki/File:Ful_medames_(arabic_meal).jpg"
-  license: "CC BY-SA 3.0"
-  licenseUrl: "https://creativecommons.org/licenses/by-sa/3.0/"
 description: >-
   A traditional Egyptian breakfast dish of slow-cooked fava beans seasoned with
   garlic, cumin, lemon juice, and olive oil.
@@ -71,5 +63,16 @@ nutrition:
     magnesiumMg: 48
     folateMcg: 110
   micronutrientEstimateSource: Per-serving values from cti_receipes_2.pdf.
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/b/bf/Ful_medames_%28arabic_meal%29.jpg
+imageAttribution:
+  title: Ful medames (arabic meal)
+  creator: Abdullah Geelah
+  creatorUrl: 'https://commons.wikimedia.org/wiki/User:Abdullah_Geelah'
+  sourceUrl: 'https://commons.wikimedia.org/wiki/File:Ful_medames_(arabic_meal).jpg'
+  license: CC BY-SA 3.0
+  licenseUrl: 'https://creativecommons.org/licenses/by-sa/3.0/'
+prepTimeMinutes: 10
+prepTimeEstimated: true
 ---
 

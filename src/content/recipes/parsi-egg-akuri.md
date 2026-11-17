@@ -1,14 +1,7 @@
 ---
 title: Parsi Egg Akuri (Spiced Soft Scrambled Eggs)
 slug: parsi-egg-akuri
-image: "https://upload.wikimedia.org/wikipedia/commons/1/18/Shakshuka_by_Calliopejen1.jpg"
-imageAttribution:
-  title: "Shakshuka by Calliopejen1"
-  creator: "Calliopejen1"
-  creatorUrl: "https://commons.wikimedia.org/wiki/User:Calliopejen1"
-  sourceUrl: "https://commons.wikimedia.org/w/index.php?curid=39264308"
-  license: "CC BY-SA 3.0"
-  licenseUrl: "https://creativecommons.org/licenses/by-sa/3.0/"
+image: "https://images.unsplash.com/photo-1673925962465-7bfd6339ab2e?auto=format&fit=crop&w=1200&q=80"
 description: >-
   A famous Parsi breakfast dish consisting of soft-scrambled eggs cooked with
   onions, tomatoes, green chillies, and cilantro.
@@ -71,5 +64,7 @@ nutrition:
   micronutrientEstimateSource: >-
     Per-serving values from CTI_RECEIPES.pdf. Vitamin D converted from IU to mcg
     (1 mcg = 40 IU).
+prepTimeMinutes: 10
+prepTimeEstimated: true
 ---
 

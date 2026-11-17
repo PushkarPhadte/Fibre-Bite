@@ -1,14 +1,6 @@
 ---
 title: Tex-Mex Stuffed Bell Peppers
 slug: tex-mex-stuffed-bell-peppers
-image: "https://upload.wikimedia.org/wikipedia/commons/f/f2/Stuffed_bell_peppers_Karnataka_DSC0001.jpg"
-imageAttribution:
-  title: "Stuffed bell peppers Karnataka"
-  creator: "Maina Bosco"
-  creatorUrl: "https://commons.wikimedia.org/wiki/User:Maina_Bosco"
-  sourceUrl: "https://commons.wikimedia.org/wiki/File:Stuffed_bell_peppers_Karnataka_DSC0001.jpg"
-  license: "CC BY-SA 4.0"
-  licenseUrl: "https://creativecommons.org/licenses/by-sa/4.0/"
 description: >-
   Halved bell peppers stuffed with black beans, brown rice, sweet corn, salsa,
   and melted low-fat cheese.
@@ -63,5 +55,17 @@ nutrition:
     potassiumMg: 410
     folateMcg: 65
   micronutrientEstimateSource: Per-serving values from cti_receipes_2.pdf.
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/f/f2/Stuffed_bell_peppers_Karnataka_DSC0001.jpg
+imageAttribution:
+  title: Stuffed bell peppers Karnataka
+  creator: Maina Bosco
+  creatorUrl: 'https://commons.wikimedia.org/wiki/User:Maina_Bosco'
+  sourceUrl: >-
+    https://commons.wikimedia.org/wiki/File:Stuffed_bell_peppers_Karnataka_DSC0001.jpg
+  license: CC BY-SA 4.0
+  licenseUrl: 'https://creativecommons.org/licenses/by-sa/4.0/'
+prepTimeMinutes: 20
+prepTimeEstimated: true
 ---
 

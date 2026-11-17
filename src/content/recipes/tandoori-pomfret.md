@@ -1,14 +1,14 @@
 ---
 title: Tandoori Pomfret
 slug: tandoori-pomfret
-image: "https://images.unsplash.com/photo-1529006557810-274b9b2fc783?auto=format&fit=crop&w=1200&q=80"
+image: "https://upload.wikimedia.org/wikipedia/commons/7/7f/Pomfret_fry_MA01.jpg"
 imageAttribution:
-  title: "Tandoori Pomfret"
-  creator: "Unsplash"
-  creatorUrl: "https://unsplash.com/"
-  sourceUrl: "https://unsplash.com/s/photos/tandoori-pomfret"
-  license: "Unsplash License"
-  licenseUrl: "https://unsplash.com/license"
+  title: "Pomfret fry MA01"
+  creator: "Rajeeb Dutta"
+  creatorUrl: "https://commons.wikimedia.org/wiki/File:Pomfret_fry_MA01.jpg"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:Pomfret_fry_MA01.jpg"
+  license: "CC BY-SA 4.0"
+  licenseUrl: "https://creativecommons.org/licenses/by-sa/4.0"
 description: >-
   Whole pomfret fish marinated in a blend of yogurt, mustard oil, lemon juice,
   and aromatic Indian spices, then grilled.
@@ -80,5 +80,7 @@ nutrition:
   micronutrientEstimateSource: >-
     Per-serving values from CTI_RECEIPES.pdf. Vitamin D converted from IU to mcg
     (1 mcg = 40 IU).
+prepTimeMinutes: 20
+prepTimeEstimated: true
 ---
 

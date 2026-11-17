@@ -1,14 +1,6 @@
 ---
 title: Indonesian Gado-Gado Salad
 slug: indonesian-gado-gado-salad
-image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Gado_Gado_PTG_Gourmet_IITMandi_Nov17_D72_3256.jpg/960px-Gado_Gado_PTG_Gourmet_IITMandi_Nov17_D72_3256.jpg"
-imageAttribution:
-  title: Indonesian gado-gado
-  creator: Timothy A. Gonsalves
-  creatorUrl: "https://commons.wikimedia.org/wiki/Special:Contributions/Timothy_A._Gonsalves"
-  sourceUrl: "https://commons.wikimedia.org/wiki/File:Gado_Gado_PTG_Gourmet_IITMandi_Nov17_D72_3256.jpg"
-  license: CC BY-SA 4.0
-  licenseUrl: "https://creativecommons.org/licenses/by-sa/4.0"
 description: >-
   A traditional Indonesian salad of blanched vegetables, hard-boiled eggs, and
   tofu served with a light peanut dressing.
@@ -74,5 +66,18 @@ nutrition:
     potassiumMg: 410
     folateMcg: 75
   micronutrientEstimateSource: Per-serving values from cti_receipes_2.pdf.
+image: >-
+  https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Gado_Gado_PTG_Gourmet_IITMandi_Nov17_D72_3256.jpg/960px-Gado_Gado_PTG_Gourmet_IITMandi_Nov17_D72_3256.jpg
+imageAttribution:
+  title: Indonesian gado-gado
+  creator: Timothy A. Gonsalves
+  creatorUrl: >-
+    https://commons.wikimedia.org/wiki/Special:Contributions/Timothy_A._Gonsalves
+  sourceUrl: >-
+    https://commons.wikimedia.org/wiki/File:Gado_Gado_PTG_Gourmet_IITMandi_Nov17_D72_3256.jpg
+  license: CC BY-SA 4.0
+  licenseUrl: 'https://creativecommons.org/licenses/by-sa/4.0'
+prepTimeMinutes: 25
+prepTimeEstimated: true
 ---
 

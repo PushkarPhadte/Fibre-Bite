@@ -60,7 +60,8 @@ The importer converts a JSON array of recipes into individual Markdown files in 
 - `dietaryTags`: optional array of `vegetarian`, `vegan`, `gluten-free`, `high-protein`, `low-carb`, `high-fiber`, or `keto`.
 - `allergens`: optional array of `milk`, `eggs`, `peanuts`, `tree-nuts`, `soy`, `wheat`, `sesame`, `fish`, or `shellfish`.
 - `prepTimeMinutes`: optional positive integer for active preparation time in minutes; exclude cooking and waiting time.
-- `prepTimeSource`: required when `prepTimeMinutes` is supplied, and must be a URL to a credible recipe source that reports the preparation time. The two fields must be provided together. Use a placeholder URL in examples only; imported recipe data should cite its actual source.
+- `prepTimeSource`: URL to a credible recipe source that reports the preparation time. Required for sourced times and must be used together with `prepTimeMinutes`.
+- `prepTimeEstimated`: set to `true` when `prepTimeMinutes` is estimated from the recipe instructions and no source is available. Estimated times cannot also include `prepTimeSource`.
 - `nutrition`: optional object with non-negative numeric values for `calories`, `protein`, `carbohydrates`, `fat`, `fiber`, `sugar`, and `sodium`. It can also include a `micronutrients` object with `vitaminCMg`, `vitaminDMcg`, `calciumMg`, `ironMg`, `potassiumMg`, `magnesiumMg`, and `folateMcg`; `micronutrientEstimateSource` is an optional non-empty string.
 - `image`: optional public URL.
 - `imageAttribution`: optional credit object for the image with its `title`, `creator`, `creatorUrl`, `sourceUrl`, license name, and `licenseUrl`. Provide this whenever the image license requires attribution; the credit is displayed with the image.
@@ -83,7 +84,14 @@ Validate the full batch without creating files:
 pnpm recipes:import -- ./path/to/recipes.json --dry-run
 ```
 
-The importer validates every recipe before writing, rejects duplicate slugs within the input and slugs already used by existing recipes, and will not overwrite an existing file. After importing, run `pnpm check` and `pnpm build` as usual.
+Apply only changed recipes from a full export; identical recipes are skipped, changed matching slugs are updated, and new slugs are created:
+
+```sh
+pnpm recipes:import -- ./path/to/recipes.json --changed-only --dry-run
+pnpm recipes:import -- ./path/to/recipes.json --changed-only
+```
+
+The importer validates every recipe before writing and rejects duplicate slugs within the input. Without `--changed-only`, it rejects slugs already used by existing recipes and never overwrites an existing file. With `--changed-only`, it compares normalized recipe data, skips identical entries, updates only changed existing entries while preserving their Markdown body, and creates recipes with new slugs. After importing, run `pnpm check` and `pnpm build` as usual.
 
 ## Export
 
@@ -94,3 +102,19 @@ pnpm recipes:export -- ./recipes.json
 ```
 
 The exporter reads and validates all Markdown files in `src/content/recipes/`, orders them by filename, and writes one JSON file. The output can be passed directly to `pnpm recipes:import` in another clone. An output path may be relative to the current directory or absolute. If omitted, the exporter writes `recipes.json` in the project root.
+
+## Metadata
+
+Generate a compact inventory of the current recipe collection:
+
+```sh
+pnpm recipes:metadata
+```
+
+By default, the command writes `resources/recipe-metadata.json`. Pass an output path to write it elsewhere:
+
+```sh
+pnpm recipes:metadata -- ./path/to/recipe-metadata.json
+```
+
+The command validates every recipe and records its slug, title, and image URL, along with counts for optional attributes, dietary tags, and allergens. It also lists recipes without images and image URLs shared by multiple recipes. The generated file contains no ingredient or instruction text, so it can be used as a lightweight inventory when preparing recipe imports.

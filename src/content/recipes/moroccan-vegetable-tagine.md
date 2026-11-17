@@ -1,14 +1,7 @@
 ---
 title: Moroccan Vegetable Tagine
 slug: moroccan-vegetable-tagine
-image: "https://images.unsplash.com/photo-1546793665-c74683f339c1?auto=format&fit=crop&w=1200&q=80"
-imageAttribution:
-  title: "Moroccan Vegetable Tagine"
-  creator: "Unsplash"
-  creatorUrl: "https://unsplash.com/"
-  sourceUrl: "https://unsplash.com/s/photos/moroccan-vegetable-tagine"
-  license: "Unsplash License"
-  licenseUrl: "https://unsplash.com/license"
+image: "https://images.unsplash.com/photo-1541518763669-27fef04b14ea?auto=format&fit=crop&w=1200&q=80"
 description: >-
   A fragrant North African slow-cooked stew of chickpeas, sweet potatoes,
   carrots, zucchini, dried apricots, and warm spices.
@@ -82,5 +75,7 @@ nutrition:
     ironMg: 2.6
     potassiumMg: 520
   micronutrientEstimateSource: Per-serving values from cti_receipes_2.pdf.
+prepTimeMinutes: 20
+prepTimeEstimated: true
 ---
 

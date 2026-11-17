@@ -82,13 +82,15 @@ nutrition:
   micronutrientEstimateSource: >-
     Approximate per-serving estimates from generic spinach, paneer, and yogurt
     composition; paneer brands and cooking yield vary.
-image: "https://live.staticflickr.com/2188/1517531815_d2551acc04_b.jpg"
+image: 'https://live.staticflickr.com/2188/1517531815_d2551acc04_b.jpg'
 imageAttribution:
   title: Palak Paneer (Pureed Spinach with cottage cheese)
   creator: rovingI
-  creatorUrl: "https://www.flickr.com/photos/70522326@N00"
-  sourceUrl: "https://www.flickr.com/photos/70522326@N00/1517531815"
+  creatorUrl: 'https://www.flickr.com/photos/70522326@N00'
+  sourceUrl: 'https://www.flickr.com/photos/70522326@N00/1517531815'
   license: CC BY 2.0
-  licenseUrl: "https://creativecommons.org/licenses/by/2.0/"
+  licenseUrl: 'https://creativecommons.org/licenses/by/2.0/'
+prepTimeMinutes: 20
+prepTimeEstimated: true
 ---
 

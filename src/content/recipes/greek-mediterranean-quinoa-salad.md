@@ -1,14 +1,6 @@
 ---
 title: Greek Mediterranean Quinoa Salad
 slug: greek-mediterranean-quinoa-salad
-image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Quinoa_Salad_%285045982815%29.jpg/960px-Quinoa_Salad_%285045982815%29.jpg"
-imageAttribution:
-  title: Quinoa salad
-  creator: Geoff Peters from Vancouver, BC, Canada
-  creatorUrl: "https://commons.wikimedia.org/wiki/Special:Contributions/Geoff_Peters_from_Vancouver,_BC,_Canada"
-  sourceUrl: "https://commons.wikimedia.org/wiki/File:Quinoa_Salad_(5045982815).jpg"
-  license: CC BY 2.0
-  licenseUrl: "https://creativecommons.org/licenses/by/2.0"
 description: >-
   A vibrant, refreshing Mediterranean bowl combining protein-rich quinoa,
   cucumbers, cherry tomatoes, Kalamata olives, and crumbled feta cheese with
@@ -80,5 +72,17 @@ nutrition:
     ironMg: 2.2
     potassiumMg: 360
   micronutrientEstimateSource: Per-serving values from cti_receipes_2.pdf.
+image: >-
+  https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Quinoa_Salad_%285045982815%29.jpg/960px-Quinoa_Salad_%285045982815%29.jpg
+imageAttribution:
+  title: Quinoa salad
+  creator: 'Geoff Peters from Vancouver, BC, Canada'
+  creatorUrl: >-
+    https://commons.wikimedia.org/wiki/Special:Contributions/Geoff_Peters_from_Vancouver,_BC,_Canada
+  sourceUrl: 'https://commons.wikimedia.org/wiki/File:Quinoa_Salad_(5045982815).jpg'
+  license: CC BY 2.0
+  licenseUrl: 'https://creativecommons.org/licenses/by/2.0'
+prepTimeMinutes: 20
+prepTimeEstimated: true
 ---
 

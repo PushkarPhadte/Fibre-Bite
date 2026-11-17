@@ -1,14 +1,6 @@
 ---
 title: Kanjeevaram Idli (Spiced Steamed Rice Cakes)
 slug: kanjeevaram-idli
-image: "https://upload.wikimedia.org/wikipedia/commons/a/a7/Idli_Chutney-Mangalore-Karnataka-DSC001.jpg"
-imageAttribution:
-  title: "Idli Chutney-Mangalore-Karnataka-DSC001"
-  creator: "Yakshitha"
-  creatorUrl: "https://commons.wikimedia.org/wiki/User:Yakshitha"
-  sourceUrl: "https://commons.wikimedia.org/wiki/File:Idli_Chutney-Mangalore-Karnataka-DSC001.jpg"
-  license: "CC BY-SA 4.0"
-  licenseUrl: "https://creativecommons.org/licenses/by-sa/4.0/"
 description: >-
   A fragrant South Indian steamed cake spiced with black pepper, cumin, ginger,
   and curry leaves.
@@ -67,5 +59,17 @@ nutrition:
     potassiumMg: 140
     magnesiumMg: 35
   micronutrientEstimateSource: Per-serving values from CTI_RECEIPES.pdf.
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/a/a7/Idli_Chutney-Mangalore-Karnataka-DSC001.jpg
+imageAttribution:
+  title: Idli Chutney-Mangalore-Karnataka-DSC001
+  creator: Yakshitha
+  creatorUrl: 'https://commons.wikimedia.org/wiki/User:Yakshitha'
+  sourceUrl: >-
+    https://commons.wikimedia.org/wiki/File:Idli_Chutney-Mangalore-Karnataka-DSC001.jpg
+  license: CC BY-SA 4.0
+  licenseUrl: 'https://creativecommons.org/licenses/by-sa/4.0/'
+prepTimeMinutes: 20
+prepTimeEstimated: true
 ---
 

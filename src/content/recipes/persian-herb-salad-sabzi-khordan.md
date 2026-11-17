@@ -1,14 +1,7 @@
 ---
 title: Persian Herb Salad (Sabzi Khordan)
 slug: persian-herb-salad-sabzi-khordan
-image: "https://images.unsplash.com/photo-1547592180-85f173990554?auto=format&fit=crop&w=1200&q=80"
-imageAttribution:
-  title: "Persian Herb Salad Sabzi Khordan"
-  creator: "Unsplash"
-  creatorUrl: "https://unsplash.com/"
-  sourceUrl: "https://unsplash.com/s/photos/persian-herb-salad-sabzi-khordan"
-  license: "Unsplash License"
-  licenseUrl: "https://unsplash.com/license"
+image: "https://images.unsplash.com/photo-1697219611694-eee40be40ae3?auto=format&fit=crop&w=1200&q=80"
 description: >-
   A traditional Iranian platter of fresh mint, tarragon, radishes, walnuts, and
   feta cheese eaten as a light starter.

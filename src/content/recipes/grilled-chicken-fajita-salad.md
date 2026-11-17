@@ -1,14 +1,6 @@
 ---
 title: Grilled Chicken Fajita Salad
 slug: grilled-chicken-fajita-salad
-image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Chicken_fajita_salad.jpg/960px-Chicken_fajita_salad.jpg"
-imageAttribution:
-  title: Chicken fajita salad
-  creator: JIP
-  creatorUrl: "https://commons.wikimedia.org/wiki/Special:Contributions/JIP"
-  sourceUrl: "https://commons.wikimedia.org/wiki/File:Chicken_fajita_salad.jpg"
-  license: CC BY-SA 4.0
-  licenseUrl: "https://creativecommons.org/licenses/by-sa/4.0"
 description: >-
   Sizzling grilled chicken breast strips tossed with sautéed bell peppers,
   onions, romaine lettuce, and salsa.
@@ -68,5 +60,16 @@ nutrition:
     ironMg: 1.8
     potassiumMg: 520
   micronutrientEstimateSource: Per-serving values from cti_receipes_2.pdf.
+image: >-
+  https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Chicken_fajita_salad.jpg/960px-Chicken_fajita_salad.jpg
+imageAttribution:
+  title: Chicken fajita salad
+  creator: JIP
+  creatorUrl: 'https://commons.wikimedia.org/wiki/Special:Contributions/JIP'
+  sourceUrl: 'https://commons.wikimedia.org/wiki/File:Chicken_fajita_salad.jpg'
+  license: CC BY-SA 4.0
+  licenseUrl: 'https://creativecommons.org/licenses/by-sa/4.0'
+prepTimeMinutes: 20
+prepTimeEstimated: true
 ---
 

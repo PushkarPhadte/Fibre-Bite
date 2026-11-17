@@ -1,14 +1,7 @@
 ---
 title: Thai Coconut Tom Yum Vegetable Soup
 slug: thai-coconut-tom-yum-vegetable-soup
-image: "https://images.unsplash.com/photo-1546793665-c74683f339c1?auto=format&fit=crop&w=1200&q=80"
-imageAttribution:
-  title: "Thai Coconut Tom Yum Vegetable Soup"
-  creator: "Unsplash"
-  creatorUrl: "https://unsplash.com/"
-  sourceUrl: "https://unsplash.com/s/photos/thai-coconut-tom-yum-vegetable-soup"
-  license: "Unsplash License"
-  licenseUrl: "https://unsplash.com/license"
+image: "https://upload.wikimedia.org/wikipedia/commons/8/8a/Tom_Yum_%28Hot_%26_Sour_Soup%29_with_Tofu_-_Thai_Pad_Thai_2025-12-03.jpg"
 description: >-
   A fragrant Thai hot-and-sour soup simmered with lemongrass, galangal, kaffir
   lime, mushrooms, and a touch of coconut milk.
@@ -72,5 +65,7 @@ nutrition:
     ironMg: 1.1
     potassiumMg: 240
   micronutrientEstimateSource: Per-serving values from cti_receipes_2.pdf.
+prepTimeMinutes: 20
+prepTimeEstimated: true
 ---
 

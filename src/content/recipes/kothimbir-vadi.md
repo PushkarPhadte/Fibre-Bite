@@ -1,14 +1,6 @@
 ---
 title: Kothimbir Vadi (Maharashtrian Steamed Coriander Cakes)
 slug: kothimbir-vadi
-image: "https://upload.wikimedia.org/wikipedia/commons/b/b3/Kothimbir_vadi.JPG"
-imageAttribution:
-  title: "Kothimbir vadi"
-  creator: "V. Narsikar"
-  creatorUrl: "https://mr.wikipedia.org/wiki/User:V.narsikar"
-  sourceUrl: "https://commons.wikimedia.org/wiki/File:Kothimbir_vadi.JPG"
-  license: "CC BY-SA 4.0"
-  licenseUrl: "https://creativecommons.org/licenses/by-sa/4.0/"
 description: >-
   Crispy savory cakes made from fresh coriander leaves and gram flour batter,
   steamed and lightly pan-sautéed.
@@ -69,5 +61,15 @@ nutrition:
     calciumMg: 52
     ironMg: 2.2
   micronutrientEstimateSource: Per-serving values from CTI_RECEIPES.pdf.
+image: 'https://upload.wikimedia.org/wikipedia/commons/b/b3/Kothimbir_vadi.JPG'
+imageAttribution:
+  title: Kothimbir vadi
+  creator: V. Narsikar
+  creatorUrl: 'https://mr.wikipedia.org/wiki/User:V.narsikar'
+  sourceUrl: 'https://commons.wikimedia.org/wiki/File:Kothimbir_vadi.JPG'
+  license: CC BY-SA 4.0
+  licenseUrl: 'https://creativecommons.org/licenses/by-sa/4.0/'
+prepTimeMinutes: 20
+prepTimeEstimated: true
 ---
 

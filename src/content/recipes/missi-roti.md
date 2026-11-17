@@ -1,14 +1,7 @@
 ---
 title: Missi Roti (North Indian Spiced Chickpea Flatbread)
 slug: missi-roti
-image: "https://images.unsplash.com/photo-1529006557810-274b9b2fc783?auto=format&fit=crop&w=1200&q=80"
-imageAttribution:
-  title: "Missi Roti"
-  creator: "Unsplash"
-  creatorUrl: "https://unsplash.com/"
-  sourceUrl: "https://unsplash.com/s/photos/missi-roti"
-  license: "Unsplash License"
-  licenseUrl: "https://unsplash.com/license"
+image: "https://images.unsplash.com/photo-1729249382934-1b5cdf5bca74?auto=format&fit=crop&w=1200&q=80"
 description: >-
   A nutrient-rich North Indian flatbread prepared by blending whole wheat flour
   and chickpea flour with aromatic spices.
@@ -71,5 +64,7 @@ nutrition:
     magnesiumMg: 52
     folateMcg: 48
   micronutrientEstimateSource: Per-serving values from CTI_RECEIPES.pdf.
+prepTimeMinutes: 25
+prepTimeEstimated: true
 ---
 
