@@ -9,12 +9,37 @@
 	import RecipeCard from '$lib/components/RecipeCard.svelte';
 	import { allergenOptions, dietaryOptions, type Allergen, type DietaryTag } from '$lib/recipes/types';
 
+	const prepTimeOptions = [
+		{ value: 5, minimum: 0, label: 'Up to 5 minutes' },
+		{ value: 15, minimum: 6, label: '6-15 minutes' },
+		{ value: 30, minimum: 16, label: '16-30 minutes' },
+		{ value: 45, minimum: 31, label: '31-45 minutes' },
+		{ value: 60, minimum: 46, label: '46-60 minutes' },
+		{ value: 90, minimum: 61, label: '61-90 minutes' }
+	] as const;
+	type PrepTimeLimit = (typeof prepTimeOptions)[number]['value'];
+	const sortOptions = [
+		{ value: 'title-asc', label: 'Name, A to Z' },
+		{ value: 'title-desc', label: 'Name, Z to A' },
+		{ value: 'prep-asc', label: 'Prep time, shortest' },
+		{ value: 'prep-desc', label: 'Prep time, longest' },
+		{ value: 'protein-desc', label: 'Protein, highest' },
+		{ value: 'protein-asc', label: 'Protein, lowest' },
+		{ value: 'calories-asc', label: 'Calories, lowest' },
+		{ value: 'calories-desc', label: 'Calories, highest' },
+		{ value: 'fiber-desc', label: 'Fiber, highest' },
+		{ value: 'carbohydrates-asc', label: 'Carbohydrates, lowest' },
+		{ value: 'sodium-asc', label: 'Sodium, lowest' },
+		{ value: 'sugar-asc', label: 'Sugar, lowest' }
+	] as const;
+	type RecipeSort = (typeof sortOptions)[number]['value'];
+
 	let { data }: { data: PageData } = $props();
 	let query = $state('');
 	let selectedDiet = $state<DietaryTag | ''>('');
-	let selectedPrepTime = $state<15 | 30 | 45 | 60 | 90 | ''>('');
+	let selectedPrepTime = $state<PrepTimeLimit | ''>('');
 	let excludedAllergens = $state<Allergen[]>([]);
-	let selectedSort = $state<'' | 'title' | 'protein' | 'calories'>('');
+	let selectedSort = $state<RecipeSort | ''>('');
 	let selectedMicronutrient = $state<MicronutrientFilterKey | ''>('');
 	let micronutrientThreshold = $state<10 | 20>(10);
 	let availableMicronutrients = $derived(micronutrientOptions.filter((option) =>
@@ -25,10 +50,10 @@
 		query = page.url.searchParams.get('query') ?? '';
 		selectedDiet = dietaryOptions.find((diet) => diet === page.url.searchParams.get('diet')) ?? '';
 		const prepTime = Number(page.url.searchParams.get('prepTime'));
-		selectedPrepTime = ([15, 30, 45, 60, 90] as const).find((limit) => limit === prepTime) ?? '';
+		selectedPrepTime = prepTimeOptions.find((option) => option.value === prepTime)?.value ?? '';
 		excludedAllergens = allergenOptions.filter((allergen) => page.url.searchParams.getAll('exclude').includes(allergen));
 		const sort = page.url.searchParams.get('sort');
-		selectedSort = sort === 'title' || sort === 'protein' || sort === 'calories' ? sort : '';
+		selectedSort = sortOptions.find((option) => option.value === sort)?.value ?? '';
 		const micronutrient = page.url.searchParams.get('micronutrient');
 		selectedMicronutrient = availableMicronutrients.find((option) => option.key === micronutrient)?.key ?? '';
 		micronutrientThreshold = page.url.searchParams.get('microThreshold') === '20' ? 20 : 10;
@@ -37,20 +62,36 @@
 	let recipes = $derived.by(() => {
 		const search = query.trim().toLowerCase();
 		const activeAllergens = [...new Set([...excludedAllergens, ...allergyProfile.allergens])];
+		const prepTimeRange = prepTimeOptions.find((option) => option.value === selectedPrepTime);
 		const filtered = (data.recipes ?? []).filter((recipe) =>
 			(!search || recipe.title.toLowerCase().includes(search) ||
 				recipe.ingredients.some((ingredient) => ingredient.name.toLowerCase().includes(search))) &&
 			(!selectedDiet || recipe.dietaryTags.includes(selectedDiet)) &&
-			(!selectedPrepTime || (recipe.prepTimeMinutes !== undefined && recipe.prepTimeMinutes <= selectedPrepTime)) &&
+			(!prepTimeRange || (recipe.prepTimeMinutes !== undefined && recipe.prepTimeMinutes >= prepTimeRange.minimum && recipe.prepTimeMinutes <= prepTimeRange.value)) &&
 			(!selectedMicronutrient || meetsMicronutrientThreshold(recipe.nutrition?.micronutrients, selectedMicronutrient, micronutrientThreshold)) &&
 			!activeAllergens.some((allergen) => getRecipeAllergens(recipe).includes(allergen))
 		);
 
-		if (selectedSort === 'title') filtered.sort((a, b) => a.title.localeCompare(b.title));
-		if (selectedSort === 'protein') filtered.sort((a, b) => (b.nutrition?.protein ?? 0) - (a.nutrition?.protein ?? 0));
-		if (selectedSort === 'calories') filtered.sort((a, b) => (a.nutrition?.calories ?? 0) - (b.nutrition?.calories ?? 0));
+		if (selectedSort === 'title-asc') filtered.sort((a, b) => a.title.localeCompare(b.title));
+		if (selectedSort === 'title-desc') filtered.sort((a, b) => b.title.localeCompare(a.title));
+		if (selectedSort === 'prep-asc') filtered.sort((a, b) => compareOptionalNumbers(a.prepTimeMinutes, b.prepTimeMinutes));
+		if (selectedSort === 'prep-desc') filtered.sort((a, b) => compareOptionalNumbers(a.prepTimeMinutes, b.prepTimeMinutes, 'desc'));
+		if (selectedSort === 'protein-desc') filtered.sort((a, b) => compareOptionalNumbers(a.nutrition?.protein, b.nutrition?.protein, 'desc'));
+		if (selectedSort === 'protein-asc') filtered.sort((a, b) => compareOptionalNumbers(a.nutrition?.protein, b.nutrition?.protein));
+		if (selectedSort === 'calories-asc') filtered.sort((a, b) => compareOptionalNumbers(a.nutrition?.calories, b.nutrition?.calories));
+		if (selectedSort === 'calories-desc') filtered.sort((a, b) => compareOptionalNumbers(a.nutrition?.calories, b.nutrition?.calories, 'desc'));
+		if (selectedSort === 'fiber-desc') filtered.sort((a, b) => compareOptionalNumbers(a.nutrition?.fiber, b.nutrition?.fiber, 'desc'));
+		if (selectedSort === 'carbohydrates-asc') filtered.sort((a, b) => compareOptionalNumbers(a.nutrition?.carbohydrates, b.nutrition?.carbohydrates));
+		if (selectedSort === 'sodium-asc') filtered.sort((a, b) => compareOptionalNumbers(a.nutrition?.sodium, b.nutrition?.sodium));
+		if (selectedSort === 'sugar-asc') filtered.sort((a, b) => compareOptionalNumbers(a.nutrition?.sugar, b.nutrition?.sugar));
 		return filtered;
 	});
+
+	function compareOptionalNumbers(first: number | undefined, second: number | undefined, direction: 'asc' | 'desc' = 'asc') {
+		if (first === undefined) return second === undefined ? 0 : 1;
+		if (second === undefined) return -1;
+		return direction === 'asc' ? first - second : second - first;
+	}
 
 	let activeCount = $derived(Number(Boolean(query.trim())) + Number(Boolean(selectedDiet)) + Number(Boolean(selectedPrepTime)) + excludedAllergens.length + Number(Boolean(selectedSort)) + Number(Boolean(selectedMicronutrient)));
 
@@ -138,20 +179,18 @@
 				Preparation time
 				<select bind:value={selectedPrepTime} class="w-full rounded-md border border-slate-300 bg-white px-3 py-2.5 font-normal outline-none focus:border-emerald-700 focus:ring-2 focus:ring-emerald-100">
 					<option value="">Any prep time</option>
-					<option value={15}>Up to 15 minutes</option>
-					<option value={30}>Up to 30 minutes</option>
-					<option value={45}>Up to 45 minutes</option>
-					<option value={60}>Up to 60 minutes</option>
-					<option value={90}>Up to 90 minutes</option>
+					{#each prepTimeOptions as option}
+						<option value={option.value}>{option.label}</option>
+					{/each}
 				</select>
 			</label>
 			<label class="space-y-1.5 text-sm font-semibold text-slate-700">
 				Sort by
 				<select bind:value={selectedSort} class="w-full rounded-md border border-slate-300 bg-white px-3 py-2.5 font-normal outline-none focus:border-emerald-700 focus:ring-2 focus:ring-emerald-100">
 					<option value="">Recommended</option>
-					<option value="title">Name, A to Z</option>
-					<option value="protein">Protein, highest</option>
-					<option value="calories">Calories, lowest</option>
+					{#each sortOptions as option}
+						<option value={option.value}>{option.label}</option>
+					{/each}
 				</select>
 			</label>
 			<label class="space-y-1.5 text-sm font-semibold text-slate-700">
