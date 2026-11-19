@@ -62,5 +62,6 @@ nutrition:
     losses not applied).
 prepTimeMinutes: 30
 prepTimeEstimated: true
+image: 'https://cdn.pixabay.com/photo/2021/11/22/19/18/dish-6817258_1280.jpg'
 ---
 

@@ -14,7 +14,8 @@ The importer converts a JSON array of recipes into individual Markdown files in 
     "ingredients": [
       { "name": "chickpeas, drained", "baseAmount": 400, "unit": "g" },
       { "name": "olive oil", "baseAmount": 1, "unit": "tbsp" },
-      { "name": "smoked paprika", "baseAmount": 1, "unit": "tsp", "optional": true }
+      { "name": "smoked paprika", "baseAmount": 1, "unit": "tsp", "optional": true },
+      { "name": "salt", "baseAmount": 0, "unit": "to taste", "optional": true }
     ],
     "instructions": [
       { "number": 1, "text": "Pat the chickpeas dry and toss with the oil and paprika." },
@@ -23,18 +24,25 @@ The importer converts a JSON array of recipes into individual Markdown files in 
     "dietaryTags": ["vegan"],
     "allergens": [],
     "prepTimeMinutes": 10,
-    "prepTimeSource": "https://example.com/recipe",
+    "prepTimeEstimated": true,
     "nutrition": {
       "calories": 260,
       "protein": 14,
       "carbohydrates": 38,
       "fat": 7,
       "fiber": 11,
+      "sugar": 5,
+      "sodium": 310,
       "micronutrients": {
+        "vitaminCMg": 3.2,
+        "vitaminDMcg": 0,
+        "calciumMg": 65,
         "ironMg": 2.9,
-        "potassiumMg": 480
+        "potassiumMg": 480,
+        "magnesiumMg": 78,
+        "folateMcg": 170
       },
-      "micronutrientEstimateSource": "Approximate estimate from ingredient quantities."
+      "micronutrientEstimateSource": "Illustrative estimates calculated from ingredient quantities using USDA FoodData Central values."
     },
     "image": "https://example.com/roasted-chickpeas.jpg",
     "imageAttribution": {
@@ -49,6 +57,8 @@ The importer converts a JSON array of recipes into individual Markdown files in 
 ]
 ```
 
+This example shows the complete set of supported fields. Its nutrition numbers and image credit are illustrative; replace them with accurate recipe data and the actual image source and license before importing. If no supported allergen is present, use an empty array (`"allergens": []`) or omit the field. Never use `"none"`, an empty string, or a homemade allergen label: each entry must be one of the exact supported values below.
+
 ## Fields
 
 - `title`: required, non-empty recipe name.
@@ -57,16 +67,18 @@ The importer converts a JSON array of recipes into individual Markdown files in 
 - `baseServings`: required positive number that the ingredient quantities describe.
 - `ingredients`: required non-empty array. Each item has a non-empty `name`, non-negative numeric `baseAmount`, non-empty `unit`, and optional boolean `optional`. For ingredients measured by taste, use `baseAmount: 0` and `unit: "to taste"`.
 - `instructions`: required non-empty array. Each item has a positive `number` starting at 1 with no gaps, and non-empty `text`.
-- `dietaryTags`: optional array of `vegetarian`, `vegan`, `gluten-free`, `high-protein`, `low-carb`, `high-fiber`, or `keto`.
-- `allergens`: optional array of `milk`, `eggs`, `peanuts`, `tree-nuts`, `soy`, `wheat`, `sesame`, `fish`, or `shellfish`.
+- `dietaryTags`: optional array of `vegetarian`, `vegan`, `gluten-free`, `high-protein`, `low-carb`, `high-fiber`, or `keto`. These are recipe tags, not medical claims.
+- `allergens`: optional array of `milk`, `eggs`, `peanuts`, `tree-nuts`, `soy`, `wheat`, `sesame`, `fish`, or `shellfish`. Include only allergens present in the listed ingredients. Use `[]` for none; the string `"none"` is invalid.
 - `prepTimeMinutes`: optional positive integer for active preparation time in minutes; exclude cooking and waiting time.
 - `prepTimeSource`: URL to a credible recipe source that reports the preparation time. Required for sourced times and must be used together with `prepTimeMinutes`.
 - `prepTimeEstimated`: set to `true` when `prepTimeMinutes` is estimated from the recipe instructions and no source is available. Estimated times cannot also include `prepTimeSource`.
-- `nutrition`: optional object with non-negative numeric values for `calories`, `protein`, `carbohydrates`, `fat`, `fiber`, `sugar`, and `sodium`. It can also include a `micronutrients` object with `vitaminCMg`, `vitaminDMcg`, `calciumMg`, `ironMg`, `potassiumMg`, `magnesiumMg`, and `folateMcg`; `micronutrientEstimateSource` is an optional non-empty string.
-- `image`: optional public URL.
-- `imageAttribution`: optional credit object for the image with its `title`, `creator`, `creatorUrl`, `sourceUrl`, license name, and `licenseUrl`. Provide this whenever the image license requires attribution; the credit is displayed with the image.
+- `nutrition`: optional object. All values are non-negative numbers. Supported macronutrient fields are `calories`, `protein`, `carbohydrates`, `fat`, `fiber`, `sugar`, and `sodium`.
+- `nutrition.micronutrients`: optional object with `vitaminCMg` (mg), `vitaminDMcg` (mcg), `calciumMg` (mg), `ironMg` (mg), `potassiumMg` (mg), `magnesiumMg` (mg), and `folateMcg` (mcg). Each field is optional; include only values you have a reasonable basis to report. Do not invent values or treat missing values as zero.
+- `nutrition.micronutrientEstimateSource`: optional non-empty text describing the source and estimation method for micronutrients.
+- `image`: optional public URL. (PREFER USING IMAGE)
+- `imageAttribution`: optional credit object with required `title`, `creator`, `creatorUrl`, `sourceUrl`, `license`, and `licenseUrl` fields. Provide accurate credits and follow the image's license requirements; the credit is displayed with the image.
 
-Field names are case-sensitive. Unknown recipe-level fields are rejected; unsupported extra properties inside an ingredient or nutrition object are omitted during validation, so use only the documented fields. Dietary and allergen arrays may be omitted; they default to empty arrays. Nutrition fields are estimates and should only be included when available and appropriately sourced.
+Field names and taxonomy values are case-sensitive. Unknown recipe-level fields are rejected; unsupported extra properties inside an ingredient or nutrition object are omitted during validation, so use only the documented fields. Dietary and allergen arrays may be omitted; they default to empty arrays. Nutrition fields are estimates and should only be included when available and appropriately sourced. For ingredients without a measurable quantity, use `baseAmount: 0` and `unit: "to taste"`; each amount must be the quantity for `baseServings`.
 
 ## Import
 
