@@ -1,10 +1,10 @@
 {
-  "recipeCount": 359,
+  "recipeCount": 360,
   "recipes": [
     {
       "slug": "adzuki-bean-sweet-potato-warm-salad",
       "title": "Adzuki Bean and Sweet Potato Warm Salad",
-      "image": null
+      "image": "https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/recipes/2840/2048/1536/2840-4._TTH_._SX1320_._CR0,0,1320,833_.jpg"
     },
     {
       "slug": "amaranth-roasted-bell-pepper-porridge-bowl",
@@ -64,7 +64,7 @@
     {
       "slug": "baked-apples-cinnamon-oats-chia",
       "title": "Baked Apples with Cinnamon, Oats, and Chia",
-      "image": null
+      "image": "https://imgs.search.brave.com/bD9Y92VKGAuvH54p-yM2YAqwT8j_oFxAw-0_HVULzug/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90aGVy/ZWFsZm9vZGRpZXRp/dGlhbnMuY29tL3dw/LWNvbnRlbnQvdXBs/b2Fkcy8yMDIxLzA4/L0FwcGxlLUNpbm5h/bW9uLUJha2VkLU9h/dG1lYWwyLTIuanBn"
     },
     {
       "slug": "baked-banana-oat-breakfast-bars",
@@ -74,7 +74,7 @@
     {
       "slug": "baked-chicken-thighs-rosemary-lemon",
       "title": "Baked Chicken Thighs with Rosemary and Lemon",
-      "image": "https://commons.wikimedia.org/wiki/File:Rosemary_chicken.jpg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/80/Rosemary_chicken.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original"
     },
     {
       "slug": "baked-cinnamon-pears-with-greek-yogurt",
@@ -199,7 +199,7 @@
     {
       "slug": "black-lentil-and-barley-harvest-soup",
       "title": "Black Lentil and Barley Harvest Soup",
-      "image": "https://commons.wikimedia.org/wiki/File:Bowl_of_lentil_soup_with_green_and_red_lentils.jpg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Bowl_of_lentil_soup_with_green_and_red_lentils.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original"
     },
     {
       "slug": "boiled-egg-masala-chaat",
@@ -214,7 +214,7 @@
     {
       "slug": "broccoli-and-white-bean-soup",
       "title": "Broccoli and White Bean Soup",
-      "image": null
+      "image": "https://cdn.pixabay.com/photo/2021/11/22/19/18/dish-6817258_1280.jpg"
     },
     {
       "slug": "broccoli-slaw-with-greek-yogurt-dressing",
@@ -234,7 +234,7 @@
     {
       "slug": "buckwheat-roasted-brussels-sprouts-bowl",
       "title": "Buckwheat and Roasted Brussels Sprouts Bowl",
-      "image": "https://commons.wikimedia.org/wiki/File:Brussels_sprout_closeup.jpg"
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Brussels_sprout_closeup.jpg/500px-Brussels_sprout_closeup.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20061029041022"
     },
     {
       "slug": "cabbage-and-white-bean-soup",
@@ -279,7 +279,7 @@
     {
       "slug": "charred-eggplant-tomato-shakshuka-stew",
       "title": "Charred Eggplant and Tomato Shakshuka-Style Stew",
-      "image": "https://commons.wikimedia.org/wiki/File:Roasted_eggplant.jpg"
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Roasted_eggplant.jpg/960px-Roasted_eggplant.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20110608214536"
     },
     {
       "slug": "chhena-poda",
@@ -379,7 +379,7 @@
     {
       "slug": "cottage-cheese-chive-stuffed-baked-potatoes",
       "title": "Cottage Cheese and Chive Stuffed Baked Potatoes",
-      "image": "https://commons.wikimedia.org/wiki/File:Baked_Potato_(3662019664).jpg"
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Baked_Potato_%283662019664%29.jpg/960px-Baked_Potato_%283662019664%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20140926033248"
     },
     {
       "slug": "creamy-roasted-cauliflower-soup",
@@ -554,7 +554,7 @@
     {
       "slug": "green-mung-bean-drumstick-sambar-bowl",
       "title": "Green Mung Bean and Drumstick Sambar Bowl",
-      "image": "https://commons.wikimedia.org/wiki/File:Sambar_(drumstick).jpg"
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Sambar_%28drumstick%29.jpg/960px-Sambar_%28drumstick%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20150614144851"
     },
     {
       "slug": "green-split-pea-and-carrot-soup",
@@ -589,7 +589,7 @@
     {
       "slug": "grilled-sardines-lemon-garlic-capers",
       "title": "Grilled Sardines with Lemon, Garlic, and Capers",
-      "image": "https://commons.wikimedia.org/wiki/File:Salad_with_sardines.jpg"
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Salad_with_sardines.jpg/960px-Salad_with_sardines.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20151102085552"
     },
     {
       "slug": "guava-papaya-fruit-chaat",
@@ -685,6 +685,11 @@
       "slug": "japanese-sesame-cucumber-salad-sunomono",
       "title": "Japanese Sesame Cucumber Salad (Sunomono)",
       "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/2016-09-07_Liangmaqiao_Japanese_Restaurant_cucumber_salat_anagoria.jpg/960px-2016-09-07_Liangmaqiao_Japanese_Restaurant_cucumber_salat_anagoria.jpg"
+    },
+    {
+      "slug": "jowar-bhakri-with-spiced-eggplant-mash",
+      "title": "Jowar Bhakri with Spiced Eggplant Mash",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Bharit_bhakri.jpg"
     },
     {
       "slug": "kachumber-salad-with-roasted-peanuts",
@@ -1189,7 +1194,7 @@
     {
       "slug": "poached-chicken-breast-artichokes-olives",
       "title": "Poached Chicken Breast with Artichokes and Olives",
-      "image": "https://commons.wikimedia.org/wiki/File:Moroccan_Chicken_with_Olives_and_Preserved_Lemon_(14572930969).jpg"
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Moroccan_Chicken_with_Olives_and_Preserved_Lemon_%2814572930969%29.jpg/960px-Moroccan_Chicken_with_Olives_and_Preserved_Lemon_%2814572930969%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20150701200024"
     },
     {
       "slug": "poached-chicken-breast-leeks-tarragon",
@@ -1309,7 +1314,7 @@
     {
       "slug": "roasted-chickpeas-paprika-lemon",
       "title": "Roasted Chickpeas",
-      "image": "https://commons.wikimedia.org/wiki/File:Leblebi.jpg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/40/Leblebi.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail_unscaled&_=20060902145544"
     },
     {
       "slug": "roasted-eggplant-with-tahini-yogurt-and-pomegranate",
@@ -1394,7 +1399,7 @@
     {
       "slug": "sorghum-roasted-butternut-squash-pilaf",
       "title": "Sorghum and Roasted Butternut Squash Pilaf",
-      "image": "https://commons.wikimedia.org/wiki/File:Roasted_butternut.jpg"
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Roasted_butternut.jpg/960px-Roasted_butternut.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20171202170434"
     },
     {
       "slug": "south-american-baked-sweet-potato-wedges",
@@ -1509,7 +1514,7 @@
     {
       "slug": "steamed-broccoli-edamame-garlic-lemon",
       "title": "Steamed Broccoli and Edamame with Garlic Lemon",
-      "image": "https://commons.wikimedia.org/wiki/File:Edamame_by_june29.jpg"
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Edamame_by_june29.jpg/960px-Edamame_by_june29.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20080704142855"
     },
     {
       "slug": "steamed-edamame-with-sea-salt",
@@ -1539,7 +1544,7 @@
     {
       "slug": "steamed-wild-salmon-ginger-dill",
       "title": "Steamed Wild Salmon with Ginger and Dill",
-      "image": "https://commons.wikimedia.org/wiki/File:Baked_salmon_with_dill_and_lemon.jpg"
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Baked_salmon_with_dill_and_lemon.jpg/960px-Baked_salmon_with_dill_and_lemon.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20140104221308"
     },
     {
       "slug": "steamed-zucchini-carrot-medley-dill",
@@ -1798,25 +1803,25 @@
     }
   ],
   "attributeCounts": {
-    "description": 359,
-    "image": 227,
-    "imageAttribution": 169,
-    "prepTime": 359,
-    "nutrition": 359,
+    "description": 360,
+    "image": 231,
+    "imageAttribution": 170,
+    "prepTime": 360,
+    "nutrition": 360,
     "dietaryTags": {
-      "gluten-free": 304,
-      "high-fiber": 147,
+      "gluten-free": 305,
+      "high-fiber": 148,
       "high-protein": 152,
       "keto": 48,
       "low-carb": 119,
-      "vegan": 198,
+      "vegan": 199,
       "vegetarian": 84
     },
     "allergens": {
       "eggs": 29,
       "fish": 30,
       "milk": 75,
-      "peanuts": 20,
+      "peanuts": 21,
       "sesame": 29,
       "shellfish": 6,
       "soy": 45,
@@ -1826,16 +1831,8 @@
   },
   "recipesWithoutImages": [
     {
-      "slug": "adzuki-bean-sweet-potato-warm-salad",
-      "title": "Adzuki Bean and Sweet Potato Warm Salad"
-    },
-    {
       "slug": "amaranth-roasted-bell-pepper-porridge-bowl",
       "title": "Amaranth and Roasted Bell Pepper Porridge Bowl"
-    },
-    {
-      "slug": "baked-apples-cinnamon-oats-chia",
-      "title": "Baked Apples with Cinnamon, Oats, and Chia"
     },
     {
       "slug": "baked-banana-oat-breakfast-bars",
@@ -1888,10 +1885,6 @@
     {
       "slug": "boiled-egg-masala-chaat",
       "title": "Boiled Egg Masala Chaat"
-    },
-    {
-      "slug": "broccoli-and-white-bean-soup",
-      "title": "Broccoli and White Bean Soup"
     },
     {
       "slug": "broccoli-slaw-with-greek-yogurt-dressing",
