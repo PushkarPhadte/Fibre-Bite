@@ -89,3 +89,39 @@ prepTimeEstimated: true
 3. काकडी आणि एडामामेमध्ये आले, लिंबाचा रस आणि उरलेले तमारी घालून एकत्र करा.
 4. सलाडवर टूना ठेवून वाढा.
 :::
+
+:::lang en
+# Sesame Seared Tuna with Cucumber and Edamame
+
+Fresh tuna seared with sesame seeds, served with a ginger-lime cucumber and edamame salad.
+
+## Instructions
+1. Brush the tuna with half the tamari and press on the sesame seeds.
+2. Sear in the oil for 90 seconds per side and slice.
+3. Toss the cucumber and edamame with the ginger, lime juice and remaining tamari.
+4. Serve the tuna over the salad.
+:::
+
+:::lang bn
+# সেমিস্ত্রি এবং এডমেমের সাথে সেম তুননা
+
+তাজা টান্নার বীজের সাথে মিশে যায়। এটি একটি ডোরামা সালাদের সাথে পরিবেশন করা হয়।
+
+## Instructions
+1. টাটানা অর্ধেক টামারি আর মাসুম বীজের উপর চাপ দিন।
+2. তেল থেকে ৯০ সেকেন্ডের জন্য সাগর... ...আর কিছু অংশ কেটে যাবে.
+3. এলকোহল ও পয়:নিষ্কাশন
+4. সালাদের উপর টুনা দাও।
+:::
+
+:::lang ur
+# سیسم سیّم سیّد ٹونا کوکمبر اور ایڈمنٹن کے ساتھ
+
+خوش‌کُن تونا سیسم کے بیج سے بھرا ہوا تھا ، جسکی وجہ سے اُس نے ایک بُت‌پرست کیکمبر اور اُس کے ساتھ کام کِیا ۔
+
+## Instructions
+1. تانا نیم تامار اور سیسم کے بیجوں پر دباؤ ڈالتے ہیں۔
+2. تیل میں 90 سیکنڈ فی ایک طرف اور دوسری طرف کے لیے شور۔
+3. اِس کے بعد اُس نے اِس بات کا ذکر کِیا کہ اُس نے اُس کے جسم میں خون کی مقدار کم کر دی ہے ۔
+4. تانا کی خدمت کریں ۔
+:::

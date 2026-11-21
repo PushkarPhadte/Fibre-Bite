@@ -91,3 +91,36 @@ prepTimeEstimated: true
 2. तेल गरम करा आणि लसूण आणि मिरची 1 मिनिट शिजवा, नंतर 3 मिनिटे चणे घाला.
 3. पास्ता, ब्रोकोली, लिंबाचा रस, मीठ आणि पास्ता पाण्यात टाका; वापरत असल्यास parmesan सह शीर्ष.
 :::
+
+:::lang en
+# Whole Wheat Spaghetti with Garlic Broccoli and Chickpeas
+
+Whole wheat spaghetti tossed with garlicky broccoli, chickpeas, lemon and chilli.
+
+## Instructions
+1. Cook the spaghetti in boiling water, adding the broccoli for the last 3 minutes; reserve a cup of the water and drain.
+2. Warm the oil and cook the garlic and chilli for 1 minute, then add the chickpeas for 3 minutes.
+3. Toss in the pasta, broccoli, lemon juice, salt and a splash of the pasta water; top with parmesan if using.
+:::
+
+:::lang bn
+# Garchici এবং মুরগীর সাথে সম্পূর্ণ ওয়াশট্যাগ
+
+পুরো গম স্পেংঘেটি রসুনকি ব্রোচিলি, বানরা, লেবু আর ঠাণ্ডায় ভরা।
+
+## Instructions
+1. রান্না করার জলকে রান্না করুন এবং গত ৩ মিনিটের জন্য ব্রোকোলি যোগ করুন; এক কাপ জল ও জল পান করুন ।
+2. তেল গরম করে আর রসুন আর শীতলিকে ১ মিনিটের জন্য রান্না করে তারপর তিন মিনিটের জন্য মুরগির মাংস যোগ করে।
+3. পাস্তা, ব্রোকোলি, লেবুর জুস, লবণ এবং পাস্তা পানির এক টুকরো; যদি ব্যবহার করা হয়, তাহলে ছারপোকার উপরে টেমস নদী।
+:::
+
+:::lang ur
+# گیلک براکولی اور چِک‌پی‌کاس کیساتھ پُراسرار اُمید
+
+اِس کے علاوہ گندم کے دانے بھی اِس میں شامل ہوتے ہیں ۔
+
+## Instructions
+1. پچھلے 3 منٹوں کے لیے پانی کا پیالہ تیار کریں ۔
+2. اِس کے بعد اِس کے بعد اِن میں سے تین منٹ تک تیل گرم کریں ۔
+3. اگر استعمال کِیا جائے تو اُوپر والے پانی سے بھی اُوپر کی طرف جائیں ۔
+:::

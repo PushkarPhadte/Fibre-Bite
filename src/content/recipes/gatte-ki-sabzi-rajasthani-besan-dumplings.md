@@ -128,3 +128,42 @@ prepTimeEstimated: true
 4. उरलेले तेल गरम करून आले आणि लसूण 1 मिनिट परता. टोमॅटो प्युरी घालून 4 मिनिटे शिजवा. आच कमी करा, दह्याचे मिश्रण मिसळा आणि दही फाटू नये म्हणून सतत ढवळत 5 मिनिटे शिजवा.
 5. गट्टे आणि राखून ठेवलेल्या पाण्यापैकी 150 ml घालून 8 मिनिटे मंद आचेवर शिजवा. कोथिंबिरीने सजवा.
 :::
+
+:::lang en
+# Gatte ki Sabzi (Rajasthani Besan Dumplings in Yogurt Curry)
+
+Steamed-and-boiled chickpea-flour dumplings simmered in a tangy, lightly spiced yogurt gravy, a classic Rajasthani staple made with minimal oil.
+
+## Instructions
+1. Knead the besan with the 30 g curd, cumin, 1 g chilli, 1 g turmeric, 1.5 g salt, 5 ml of the oil and a splash of water into a firm dough.
+2. Roll into 4 cm thick ropes and boil in 500 ml of simmering water for 12 minutes until they float and feel firm. Lift out, reserve the water, cool and cut into 2 cm pieces.
+3. Whisk the 200 g curd with the remaining turmeric, the coriander powder, chilli and 2 g of salt until smooth.
+4. Heat the remaining oil, fry the ginger and garlic for 1 minute, add the tomato puree and cook for 4 minutes. Lower the heat, stir in the curd mixture and cook for 5 minutes, stirring constantly so it does not split.
+5. Add the dumplings and 150 ml of the reserved water and simmer for 8 minutes. Garnish with coriander.
+:::
+
+:::lang bn
+# গাত্তা কিত সাবজী (রাজতিহানি বেসানকে ইয়োগুর কারিতে ডাম্পলিং)
+
+স্টেমড-এবং কাঁটা-চাঁপা-চাঁপা বাদামি রঙের শূককীট দিয়ে টাঙ্গানো হয়।
+
+## Instructions
+1. এদের মধ্যে ৩০টা গ্লুকডি, জিটিমিন, ১ / ১, জিরমেরিক, ৫ মিটার, তেল আর পানির এক ফোঁটা জল শক্ত স্থানে পড়ে।
+2. কিন্তু, এই নৌকাগুলো এত ভারী ছিল যে, সেগুলো খুব সহজেই খাড়া হয়ে যেত । জলকে রক্ষা কর, ঠান্ডা কর আর ২ সেন্টিমিটারে কাটাও।
+3. আর এর মধ্যে একটা হল ডিম ।
+4. অবশিষ্ট তেল, ডোরাকাটা আর রসুন ১ মিনিট গরম করে, টমেটো বিশুদ্ধি আর ৪ মিনিট রান্না করে। গরম কম করে, রসালো মিশ্রণ ও ৫ মিনিট রান্নায় উদ্দীপিত হয়, যাতে ক্রমাগত তা বিভক্ত না হয় ।
+5. সংরক্ষিত পানির ১৫০ মাইল এবং ৮ মিনিটের জন্য সিমমার যোগ করুন। কোরিয়ান্ডারের সাথে গারসন।
+:::
+
+:::lang ur
+# گوئٹے کائی سازی (Rajasthani Besan Dumplings in Yogurt Curry)۔
+
+سٹیمرڈ-اور-بولڈے-فلور ڈرلنگ ایک ٹانگی، چھوٹی چھوٹی چھوٹی چھوٹی چھوٹی چھوٹی چھوٹی سی دنیا کے ایک کلاسیکی راجستھانی چری، جو کم تیل سے بنی تھی۔
+
+## Instructions
+1. اِس کے علاوہ اِس میں نمک ، نمک ، 1 گرام ، 1.5 گُنا نمک ، 5 ملی مٹی اور پانی کی ایک تہ بھی شامل ہے ۔
+2. جب تک وہ تیرتے ہیں ، اُس وقت تک ۴ سینٹی‌میٹر موٹی رسیوں میں جکڑے ہوئے ہیں ۔ اِس کے بعد پانی کو ٹھنڈا کرکے ۲ سینٹی‌میٹر تک کاٹ دیا گیا ۔
+3. اِس کی وجہ یہ تھی کہ اُس نے اِس نمک کو محفوظ رکھا ۔
+4. باقی تیل کو ٹھنڈا کریں ، ۱ منٹ تک آمیزش اور لہسن کو توڑ دیں ، ٹماٹر صاف کریں اور ۴ منٹ تک پکایا کریں ۔ گرمی کے موسم میں گرم ہونے کی وجہ سے ۵ منٹ تک پگھلنے والے آمیزے میں اضافہ ہوتا ہے ۔
+5. اِس میں موجود پانی کے 150 ملی‌میٹر اور 8 منٹ کے لئے پانی شامل کریں ۔ گارنیش کوریانڈر کے ساتھ.
+:::

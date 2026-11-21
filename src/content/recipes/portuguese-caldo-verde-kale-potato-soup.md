@@ -117,3 +117,42 @@ prepTimeEstimated: true
 4. अतिशय बारीक चिरलेली कोलार्डची पाने, उरलेले अख्खे कॅनेलिनी बीन्स आणि स्मोक्ड पाप्रिका मिसळा. झाकण न ठेवता 5 मिनिटे शिजवा, पाने मऊ आणि तजेलदार हिरवी होईपर्यंत.
 5. गरम वाट्यांत सूप वाढा आणि प्रत्येक वाटीवर उरलेले 8 मिली एक्स्ट्रा-व्हर्जिन ऑलिव्ह तेल घाला.
 :::
+
+:::lang en
+# Portuguese Caldo Verde (Light Collard Green and Potato Soup)
+
+Wholesome plant-forward rendition of Portugal's beloved velvety potato and garlic broth swirled with ultra-fine ribbons of collard greens, cannellini beans, and smoked paprika.
+
+## Instructions
+1. Warm 12 ml of olive oil in a soup pot over medium heat and sweat the diced onion and sliced garlic for 5 minutes until fragrant and soft.
+2. Add the diced potatoes, half the cannellini beans, unsalted vegetable broth, and salt; simmer covered for 18 minutes until the potatoes are completely tender.
+3. Blend the soup with an immersion blender until velvety smooth, then return to a gentle simmer.
+4. Stir in the finely shredded collard greens, remaining whole cannellini beans, and smoked paprika, cooking uncovered for 5 minutes until the greens are tender and vibrant.
+5. Ladle into warm bowls and finish each serving with a drizzle of the remaining 8 ml of extra-virgin olive oil.
+:::
+
+:::lang bn
+# পর্তুগীজ ক্যালদো ভার্দে (লোমান কর্ড গ্রিন এবং পটো সোপি)
+
+পর্তুগালের প্রিয় ভলভেটি আলু এবং রসুন ব্রোথের ক্ষুদ্র অংশ। তারা অতি-সাদা সবুজ ফিতা, ক্যাননি বিন এবং ধূমপান প্যাপিকার সাথে মিলে গেছে।
+
+## Instructions
+1. ১২ মিলিটারের তেলের উপর সুপের বোতলের সসেজ ১২ মিলিটারে গরম আর ঘাম ঝরানো পাপড়ির উপর পাঁচ মিনিট ধরে।
+2. আলু যোগ করুন, অর্ধেক ক্যানিলনি শিম, নিরামিষভোজন সবজি ব্রোথ এবং লবণ; রসালো আলু সম্পূর্ণ কোমল।
+3. পালিশ করা সুপকে শক্ত করে বাঁধো... ...তারপর আস্তে ধীরে ধীরে সহজ সরল সরল সরলভাবে ফিরে যাও.
+4. খুব সুন্দর ভাবে বিচ্ছিন্ন সবুজ খাবারে ভরা সবুজ খাবার, বাকি সমস্ত ক্যানেনেলিনি শিম এবং ধূমপায়িকার রান্না, যতক্ষণ না সবুজগুলো কোমল ও সতেজ থাকে, ততক্ষণ পর্যন্ত তারা ৫ মিনিট ধরে রান্না করে।
+5. হালকা বাটির মধ্যে লট এবং প্রতিটি কাজ শেষ করে আরো ৮ মিটার অতিরিক্ত জলপাই তেল নিয়ে।
+:::
+
+:::lang ur
+# پرتگیزی کالڈ گرین اور پوٹاتو سوپ (انگریزی:
+
+پُرتگال کے حبیب وِل‌وَوَت اور لہسن بُرتھ نے ہرے کے پتے ، کین‌لین کے دانوں اور پَرَیکا کے ساتھ مل کر کھانا کھایا ۔
+
+## Instructions
+1. زیتون کے تیل کو درمیان میں گرم کِیا جاتا ہے ۔
+2. اِس میں ۱۸ منٹ تک اُس وقت تک لگے رہتے ہیں جب تک اِس کا ذائقہ مکمل نہ ہو ۔
+3. اسکے بعد ایک نرم‌مزاج شخص کو دوبارہ دوبارہ سانس لینے کی دعوت دی جاتی ہے ۔
+4. اِس کے بعد اُس نے اُن سے کہا : ” مَیں نے اُن کے ساتھ کھانا پکایا ۔ “
+5. لال کو گرم برتنوں میں ڈال کر باقی 8 ملی‌میٹر زیتون کے تیل میں سے ایک تیل ختم ہوتا ہے ۔
+:::

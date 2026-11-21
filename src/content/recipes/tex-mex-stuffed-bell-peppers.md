@@ -91,3 +91,39 @@ prepTimeEstimated: true
 3. मिरचीच्या अर्ध्या भागांत भात-बिन्सचे मिश्रण भरपूर प्रमाणात भरा.
 4. उरलेले चीज वरून घाला आणि 190°C (375°F) तापमानाला 20 मिनिटे बेक करा.
 :::
+
+:::lang en
+# Tex-Mex Stuffed Bell Peppers
+
+Halved bell peppers stuffed with black beans, brown rice, sweet corn, salsa, and melted low-fat cheese.
+
+## Instructions
+1. Pre-steam bell pepper halves for 5 minutes until slightly softened.
+2. Mix brown rice, black beans, corn, salsa, cumin, and half the cheese.
+3. Stuff pepper halves generously with rice-bean mixture.
+4. Top with remaining cheese and bake at 190°C (375°F) for 20 minutes.
+:::
+
+:::lang bn
+# Tex-Meffhee বেল পেপার
+
+হ্যালভ বেলের মরিচ দিয়ে কালো শিম, বাদামি ভাত, মিষ্টি ভাত, সালসা আর অল্প পরিমাণে ফাঁজলো।
+
+## Instructions
+1. প্রি-স্মিথ বেল বেল শ্‌ফট ৫ মিনিটের জন্য।
+2. বাদামি ভাত, কালো শিম, ঘাস, সালসা, জিমিন এবং অর্ধেক পনির।
+3. চালের মিশ্রণের মাধ্যমে মরিচের প্রচুর পরিমাণে বেড়েছে।
+4. পনির আর কেকের উপরে ২০ মিনিট লাগবে।
+:::
+
+:::lang ur
+# ٹیکس-Mex Stuffed Bell Pepers
+
+ہلال بیل کی کھال سیاہ دانوں، بھورے چاول، خوشبودار مکئی، سلسہ اور پست فام پنیر سے تیار کی جاتی تھی۔
+
+## Instructions
+1. پری-سیم بیل کیمرا 5 منٹ کے لیے جب تک تھوڑا ہلکا نہ ہو جائے۔
+2. مکئی کے چاول ، کالے دانوں ، مکئی ، سلے ، کپاس اور آدھا پنیر ۔
+3. استوفی پاخانہ کی آمیزش میں چاول کی آمیزش ہوتی ہے۔
+4. اس سے اوپر 190°C (375°F) 20 منٹ کے لیے باقی رہنے والے پنیر اور کانسی سے اوپر۔
+:::

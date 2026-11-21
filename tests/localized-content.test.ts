@@ -46,6 +46,11 @@ test('parses language blocks into localized recipe fields and additional text', 
 
 test('renders structured JSON translations as Markdown language blocks', () => {
 	const rendered = renderLanguageBlocks({
+		ta: {
+			title: 'தமிழ் தலைப்பு',
+			description: 'தமிழ் விளக்கம்',
+			instructions: [{ number: 1, text: 'கலக்கவும்.' }]
+		},
 		hi: {
 			title: 'धनिया सलाद',
 			description: 'ताज़ी सलाद।',
@@ -54,7 +59,15 @@ test('renders structured JSON translations as Markdown language blocks', () => {
 		}
 	});
 	assert.match(rendered, /^:::lang hi/m);
+	assert.match(rendered, /^:::lang ta/m);
+	assert.equal(parseLanguageBlocks(rendered).ta?.title, 'தமிழ் தலைப்பு');
 	assert.deepEqual(parseLanguageBlocks(rendered).hi?.instructions, [{ number: 1, text: 'सामग्री मिलाएँ।' }]);
+});
+
+test('preserves recipe blocks for languages outside the active selector', () => {
+	const inactiveTranslation = parseLanguageBlocks(':::lang mr\n# जुनी पाककृती\n:::');
+	assert.equal(inactiveTranslation.mr?.title, 'जुनी पाककृती');
+	assert.match(renderLanguageBlocks(inactiveTranslation), /^:::lang mr/m);
 });
 
 test('falls back field by field to English and existing recipe fields', () => {

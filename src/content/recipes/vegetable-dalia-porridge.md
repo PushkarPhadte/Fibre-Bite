@@ -95,3 +95,39 @@ prepTimeEstimated: true
 3. दलिया आणि पाणी घाला, झाकून ठेवा आणि 15 मिनिटे उकळवा, आत्ता आणि नंतर, मऊ आणि लापशी सारखे होईपर्यंत ढवळत रहा.
 4. 2 मिनिटे विश्रांती घ्या आणि गरम सर्व्ह करा.
 :::
+
+:::lang en
+# Vegetable Dalia Porridge
+
+Savoury broken wheat porridge simmered with vegetables, ginger and cumin.
+
+## Instructions
+1. Heat the oil and splutter the cumin seeds, then cook the onion and ginger until soft.
+2. Add the tomato, carrot, beans, turmeric and salt and cook for 3 minutes.
+3. Add the dalia and water, cover and simmer for 15 minutes, stirring now and then, until soft and porridge-like.
+4. Rest for 2 minutes and serve warm.
+:::
+
+:::lang bn
+# ডালিয়া প্যাসেজ
+
+স্যাভির ভাঙ্গা গমের চালি সবজি, ভোদড় এবং সারস দিয়ে তৈরি।
+
+## Instructions
+1. জলস্রোত ও জলস্রোতের বৃদ্ধি
+2. টমেটো, গাজর, শিম, টুরিজম এবং লবণ যোগ করুন ৩ মিনিট ধরে।
+3. ১৫ মিনিটের জন্য ডালিয়া এবং পানি যোগ করুন, ঢেকে রাখুন, ঢেকে রাখুন, আর তারপর, নরম আর শ্পরের মতো।
+4. ২ মিনিট বিশ্রাম নাও আর গরম করো।
+:::
+
+:::lang ur
+# دُنیا کا نظارہ کرنا
+
+ساوور نے گندم کے دانے توڑ دئے ۔
+
+## Instructions
+1. تیل کو صاف کرنے کے بعد اِس کے بعد اُن بیج کو پکایا جاتا ہے جو اُس کے لئے نرم ہوتے ہیں ۔
+2. ٹماٹر ، آلو ، دان ، ٹرمیر اور نمک شامل کرکے ۳ منٹ تک پکایا جاتا ہے ۔
+3. دالیا اور پانی کو شامل کریں، پردہ اور 15 منٹ تک نیچے رکھیں، اب اور پھر، جب تک نرم اور پانی کی شکل میں.
+4. 2 منٹ آرام کریں اور گرم خدمت کریں۔
+:::

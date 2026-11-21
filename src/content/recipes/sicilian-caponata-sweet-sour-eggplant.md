@@ -122,3 +122,39 @@ prepTimeEstimated: true
 3. चिरलेले टोमॅटो, धुवून घेतलेली ऑलिव्ह, धुवून निथळलेले केपर्स आणि उरलेले मीठ घाला. झाकण न ठेवता 8 मिनिटे मंद उकळवा, मिश्रण घट्ट होऊन जॅमसारखे होईपर्यंत.
 4. भाजलेली वांगी, रेड वाइन व्हिनेगर आणि मेपल सिरप हलक्या हाताने मिसळा. आंबटपणा सौम्य होण्यासाठी 4 मिनिटे शिजवा; मग थोडे थंड करून वरून भाजलेले पाइन नट्स आणि ताजी तुळस पेरा.
 :::
+
+:::lang en
+# Sicilian Caponata (Sweet-and-Sour Eggplant, Celery, and Caper Relish)
+
+Oven-roasted Sicilian agrodolce vegetable stew combining tender eggplant, crisp celery, ripe tomatoes, toasted pine nuts, rinsed capers, and red wine vinegar without deep-frying.
+
+## Instructions
+1. Preheat the oven to 215°C, toss the cubed eggplant with 14 ml of olive oil and 0.5 g of salt, and roast on a lined baking sheet for 22 minutes until tender and caramelized.
+2. Heat the remaining 10 ml of olive oil in a wide skillet and sauté the diced onion and celery for 7 minutes until tender-crisp.
+3. Stir in the diced tomatoes, rinsed olives, rinsed capers, and remaining salt, simmering uncovered for 8 minutes until jammy.
+4. Fold in the roasted eggplant, red wine vinegar, and maple syrup; cook 4 minutes to mellow the acidity, then cool slightly and scatter with toasted pine nuts and fresh basil.
+:::
+
+:::lang bn
+# স্কুইলিয়ান ক্যাপ্টেন ক্যাপোনাটা (সু-এস-আর-এস-আর-এস-এস-পিপ্লট, ক্যালরি এবং কেপরিলি)
+
+ওভেন-রোক্রয় সিক্রেনিয়ান একটি কৃষিশালার শূককীট, কোমল ডিমের শ্যাম্পু, সিঁধের পানীয়, পাকা টমেটো, মদ জাতীয় পানীয়, মদ জাতীয় পানীয়, মদ, মদ জাতীয় পানীয়, মদ জাতীয় পানীয়, মদ জাতীয় পানীয়, নিরসনের মদ জাতীয় ফল এবং গভীর সারেগার।
+
+## Instructions
+1. ২১৫ সেন্টিমিটার পর্যন্ত চুলা, ঘন তেল ও ০. ৫ টন লবণের টুকরো দিয়ে কাটা এবং ২২ মিনিটের জন্য ডোরাকাটা পাতা ।
+2. ১০ মিটার লম্বা জলপাই তেল, আর সস্যুত আর সয়াট্রি ৭ মিনিট ধরে কোমল-ক্রিপ।
+3. স্যাঁতসেঁতে টমেটো, লাল জলপাই, রঞ্জক পাত্র এবং অবশিষ্ট লবণ, জ্যাম না হওয়া পর্যন্ত ৮ মিনিট খোলা থাকে ।
+4. গরমের শূককীট, লাল দ্রাক্ষারস নিরানন্দীকার এবং মানচিত্র সিরাপ; এসিড নিক্ষেপ করার জন্য ৪ মিনিট সময় লাগে, তারপর কিছুটা ঠাণ্ডা হয়ে যায় এবং মদ জাতীয় বাদাম এবং তাজা মদ পরিবেশন করে।
+:::
+
+:::lang ur
+# سیچیلیس کیپوناٹا (Sweet-and-Sour Egg Friest, Celery, and Caper Relish)
+
+اِس کی ایک وجہ یہ ہے کہ اِس میں اِس بات کا ذکر کِیا گیا ہے کہ اِس میں اِس کا ذکر نہیں ملتا ۔
+
+## Instructions
+1. زیتون کے تیل اور 0.5 گُنا نمک کے تیل سے تیار کئے جاتے ہیں اور 22 منٹ تک نرم اور کارم‌دار شیشے پر پکایا جاتا ہے ۔
+2. زیتون کے تیل کی باقی 10 ملی میٹر ایک وسیع مہارت اور ساوتری پر مشتمل تھین آن اور کرسی 7 منٹ تک نرم-کریسپ تک۔
+3. مونگ‌پھلی ، زیتون ، سرین‌دار کیپرز اور باقی نمک کے علاوہ ۸ منٹ تک اُبالتے رہتے ہیں ۔
+4. اِس کے بعد اُسے ٹھنڈا کر دیا جاتا ہے اور اِس کے بعد اُس کے گلے میں تازہ‌دم ہو جاتے ہیں ۔
+:::

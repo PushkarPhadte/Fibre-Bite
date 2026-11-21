@@ -122,3 +122,39 @@ prepTimeEstimated: true
 3. रुंद न चिकटणाऱ्या पॅनमध्ये मध्यम-उच्च आचेवर 6 मिली तीळ तेल गरम करा. चिरलेला कांदा, गाजर, लाल ढोबळी मिरची, शिटाके मशरूम आणि बारीक केलेला लसूण 5 मिनिटे परता, भाज्या किंचित मऊ पण कुरकुरीत राहेपर्यंत.
 4. मसाला लावलेले नूडल्स, उरलेले तमारी, मेपल सिरप आणि तीळ तेल पॅनमध्ये घालून 2 मिनिटे परता. नंतर गॅस बंद करून पालक आणि भाजलेले तीळ हलक्या हाताने मिसळा.
 :::
+
+:::lang en
+# Korean Vegetable Japchae (Sweet Potato Glass Noodles with Spinach and Shiitake)
+
+Naturally gluten-free Korean festive noodle dish tossing chewy sweet potato starch noodles with blanched spinach, sautéed shiitake mushrooms, crisp bell peppers, and sesame-tamari glaze.
+
+## Instructions
+1. Blanch the spinach in boiling water for 45 seconds, rinse under cold water, squeeze dry, and toss with 4 ml of toasted sesame oil.
+2. Boil the sweet potato starch noodles for 6 to 7 minutes until tender and translucent, drain, rinse briefly, snip into shorter lengths with scissors, and toss with half the tamari and maple syrup.
+3. Heat 6 ml of sesame oil in a wide nonstick skillet over medium-high heat and stir-fry the sliced onion, carrots, red bell pepper, shiitake mushrooms, and minced garlic for 5 minutes until crisp-tender.
+4. Add the seasoned noodles, remaining tamari, maple syrup, and sesame oil to the skillet, tossing 2 minutes to heat through, then fold in the spinach and toasted sesame seeds off the heat.
+:::
+
+:::lang bn
+# কোরিয়ান ভেজেপচা (সুটি পটাটো গ্লাস নুডলস নুডলস)
+
+স্বাভাবিকভাবে দেখা যায় যে কোরিয়ান উৎসব নাডলের খাবার চিবাতে মিষ্টি আলু স্টার নুডলস দিয়ে বানানো হয়।
+
+## Instructions
+1. ৪৫ সেকেন্ডের জন্য ফুটন্ত পানির মধ্যে শুকনা, ঠাণ্ডা পানি, শুষ্ক, এবং ৪ মিটার ফাটারের তেল।
+2. মিষ্টি আলু স্টার নুডলসকে ৬ থেকে ৭ মিনিট পর্যন্ত ৭ মিনিট পর্যন্ত শুকনা, ড্রেনেনের ড্রেনসে অল্প সময়ের জন্য, সিপলের সাথে ছোট ছোট ছোট ছোট ছোট করে এবং অর্ধেক টারি আর ম্যাপ সিরাপ দিয়ে ছোট ছোট করে ।
+3. মাঝারি তাপমাত্রার উপরে হেট স্যাঁতসেঁটি তেল দিয়ে তৈরি ৬ মিটার উঁচু উঁচু গতিতে তেলে ঢাকা থাকে। এতে কুড়ালগুলো ফেটে পড়ে।
+4. তাই এতে অবাক হওয়ার কিছু নেই যে, গরমের সময় গরমের মধ্যে গরমের জন্য ২ মিনিট অপেক্ষা করা হয় ।
+:::
+
+:::lang ur
+# کرویئشا ویگیٹ جیپچا (Sweet Potato Glass Noodles with Spinach and Shiikoke)۔
+
+قدرتی طور پر آزاد کوریائی فاتح نوودل کھانسی کا استعمال کرتے ہوئے خوشبودار ریشمی کیڑے مکوڑے جن میں بالنگچ رینچ، ساوتریشیک، کریسپ بیلے اور سیسم-تاماری گلزے شامل ہیں۔
+
+## Instructions
+1. گرم پانی میں 45 سیکنڈ، ٹھنڈے پانی کے نیچے نمی، خشک خشکی اور چار ملی میٹر کے تیل میں سوراخ کیا جاتا ہے۔
+2. شہد کی مکھیوں نے چھ سے ۷ منٹ تک نرم‌و سفر کِیا ۔
+3. گیٹ 6 ملی گرام تیل میں ایک وسیع غیر معمولی مقدار میں درمیانے درجہ حرارت سے زیادہ گرم اور ہلانے والے پری اونون، سرے کی ہڈی، شیشے کے پتوں، شیشے کے پتوں اور مریخ پر 5 منٹ تک پگھلے ہوئے لہسن۔
+4. موسمیاتی نوحز ، باقی دماری ، نقشہ‌ساز سروپ اور تیل کو مہارت سے گرم کرنے ، ۲ منٹ تک گرمی سے گرم رہنے ، پھر ریڑھ کی ہڈی میں گھس جانے اور حرارت سے خارج ہونے والے سیم کے بیج کو بھی شامل کریں ۔
+:::

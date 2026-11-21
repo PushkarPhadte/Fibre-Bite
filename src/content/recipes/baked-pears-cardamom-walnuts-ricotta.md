@@ -80,3 +80,36 @@ prepTimeEstimated: true
 2. नाशपातींवर वेलची पूड समान पेरा आणि मऊ होईपर्यंत २२ ते २५ मिनिटे बेक करा.
 3. वाढण्यापूर्वी प्रत्येक अर्ध्या नाशपातीच्या मध्यभागी कमी चरबीयुक्त रिकोटा घाला आणि वर चिरलेले अक्रोड पेरा.
 :::
+
+:::lang en
+# Baked Pears with Cardamom, Walnuts, and Ricotta
+
+Halved ripe pears baked with ground cardamom and topped with part-skim ricotta and chopped walnuts.
+
+## Instructions
+1. Preheat the oven to 190 C and place pear halves cut-side up in a small baking dish.
+2. Sprinkle ground cardamom evenly over the pears and bake for 22 to 25 minutes until tender.
+3. Spoon part-skim ricotta into the center of each pear half and scatter chopped walnuts on top before serving.
+:::
+
+:::lang bn
+# কার্ডিয়াম, ওয়ালনাটস, আর রিকোটা নিয়ে পালিয়ে যাওয়া
+
+হাল্ভেল পাকা পাকা ফলার দিয়ে মাটির কার্ডিম তৈরি করা হয় আর এতে পার্টস্কিম ভেকোটা আর কাটা কাটা কাটা কাটা কাটা থাকে।
+
+## Instructions
+1. ১৯০ C থেকে শুরু করে একটি ছোট বিড়ির খাবারের পাশে।
+2. কোমল না হওয়া পর্যন্ত ২২ থেকে ২৫ মিনিট পর্যন্ত পেকেল মাটি কার্ডম এমনকি ২২ মিনিট পর্যন্ত।
+3. প্রতিটি ফুটপাথের কেন্দ্রে স্পেস্কি-স্কিম স্পেট্টা এবং সেবা শুরুর আগে হাত কাটা কাটা পাতা ছড়িয়ে পড়ে।
+:::
+
+:::lang ur
+# کارڈم ، والنوتس اور ریکوٹا کے ساتھ پَر
+
+ہرڈ نے پروں کو فرش کارڈم سے پکایا اور حصّہ رستم رکوٹا اور رنوت سے باندھ دیا۔
+
+## Instructions
+1. پروہت کی طرف 190 C تک اور ایک چھوٹے سے کھانے کے برتن میں پیروں کے ٹکڑے کاٹ.
+2. اِس سے ظاہر ہوتا ہے کہ اِس کے لئے ضروری ہے کہ آپ اُس کے ساتھ نرمی سے پیش آئیں ۔
+3. اسپوون حصے-سکیم رکوتا ہر پیر نصف کے مرکز میں داخل ہوتا ہے اور خدمت کرنے سے پہلے سب سے اوپر کی طرف سوراخ کرتا ہے۔
+:::

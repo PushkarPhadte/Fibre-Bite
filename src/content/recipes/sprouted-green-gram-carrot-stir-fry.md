@@ -92,3 +92,36 @@ prepTimeEstimated: true
 2. मोड आलेला मूग आणि किसलेले गाजर घाला. किंचित कुरकुरीत राहतील पण शिजतील इतपत, 4 ते 5 मिनिटे परता.
 3. गॅस बंद करा, किसलेला नारळ आणि लिंबाचा रस हलक्या हाताने मिसळा आणि वाढा.
 :::
+
+:::lang en
+# Sprouted Green Gram and Carrot Stir-Fry
+
+Quickly tossed sprouted moong beans with grated carrots, mustard seeds, coconut, and lime.
+
+## Instructions
+1. Warm oil in a pan over medium heat and let mustard seeds pop.
+2. Add sprouted moong beans and grated carrots; stir-fry for 4 to 5 minutes until crisp-tender.
+3. Remove from heat, fold in grated coconut and lime juice, and serve.
+:::
+
+:::lang bn
+# চিরকুট সবুজ গ্রাম এবং কারোি স্টেরি
+
+খুব তাড়াতাড়ি চাঁদা অঙ্কুরিত হয় ।
+
+## Instructions
+1. গরম গরমের উপরে গরম গরম আর কষে বীজ বোনার জন্য।
+2. এর সাথে মুনগ শিম এবং নিরামিষভোজী কারুকাজ যোগ করা; ক্রাস-ট-ট-নে ৪ থেকে ৫ মিনিট সময় লাগবে।
+3. গরম থেকে মুক্ত হয়ে নারিকেল এবং লাইম জুস এবং সেবা করে ।
+:::
+
+:::lang ur
+# سبز گرام اور کاربٹ گڑھ-فری -
+
+جلد ہی اُس نے چاند کے دانوں ، رائی کے دانے ، ناریل اور ناریل کے بیج لگائے ۔
+
+## Instructions
+1. اِس کے بعد اُس نے اِس بات پر زور دیا کہ اُس نے اُن سے کہا : ” اَے میرے بیٹے !
+2. اس میں شامل چاند کے دانوں اور کشش ثقل (grounded bans) شامل کرنا؛ 4 سے 5 منٹ تک حرکت کرنا
+3. گرمی سے چھٹکارا حاصل کرنے ، ناریل اور مونگ‌پھلی کے جوہر اور خدمت کرنے سے گریز کریں ۔
+:::

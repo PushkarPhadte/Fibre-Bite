@@ -85,3 +85,39 @@ prepTimeEstimated: true
 3. भाज्या पूर्ण शिजेपर्यंत 15 मिनिटे मंद आचेवर शिजवा.
 4. रस्सा किंचित घट्ट करण्यासाठी तांदळाच्या पिठाची पेस्ट मिसळा आणि गरम वाढा.
 :::
+
+:::lang en
+# Chakwi (Tripuri Boiled Vegetable Dish)
+
+A traditional, oil-free Tripuri stew prepared with bamboo shoots, green papaya, jackfruit seeds, and baking soda.
+
+## Instructions
+1. Boil bamboo shoots, green papaya, jackfruit seeds, and green chillies in water with salt.
+2. Add baking soda to soften ingredients and develop traditional aroma.
+3. Simmer for 15 minutes until vegetables are completely cooked.
+4. Stir in rice flour slurry to thicken gravy slightly and serve hot.
+:::
+
+:::lang bn
+# ছাকুউই (টিরিপুরি সসূচতুধ)
+
+একটি ঐতিহ্যবাহী, তেল মুক্ত ট্রিপুরি চেরী বাঁশ, সবুজ পাপায়া, গোলামি বীজ, এবং বিকিং সোডার সাথে প্রস্তুত।
+
+## Instructions
+1. বাঁশের শূককীট, সবুজ পোপিয়া, জ্যাকলা বীজ এবং লবণে সবুজ পানীয়।
+2. তাই, এতে অবাক হওয়ার কিছু নেই যে, সা.
+3. রান্না না হওয়া পর্যন্ত ১৫ মিনিটের জন্য সিমমার।
+4. শূককীট ধানের আটা গরম গরম গরমের জন্য তৈরি থাকে।
+:::
+
+:::lang ur
+# چاکوئی (Tripuri boiled Vegtable Dish)۔
+
+ایک روایتی، تیل سے آزاد تریپورہ کے برتنوں سے تیار کیے گئے لوہے کے پتوں، ہرے پپوا، پھلدار بیج اور زہریلے سوڈے کے ساتھ تیار کیے گئے۔
+
+## Instructions
+1. اِس کے علاوہ ، اُن میں سے ہر ایک کو پانی میں نمک ملا کر اِس کی پیداوار حاصل ہوتی ہے ۔
+2. اِس کے علاوہ اِس کے ساتھ‌ساتھ اُن میں خوشبو بھی آتی ہے ۔
+3. سممر 15 منٹ تک جب تک سبزیوں کو مکمل طور پر پکایا نہ جائے۔
+4. چاول کے آٹے میں سُرخ رنگ کے برتنوں میں چھوٹے چھوٹے چھوٹے چھوٹے ہوتے ہیں اور گرم ہو جاتے ہیں ۔
+:::

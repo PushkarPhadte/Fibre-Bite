@@ -104,3 +104,39 @@ prepTimeEstimated: true
 3. मासळीवर ताजा लिंबाचा रस ओता; त्यात किसलेला लसूण आणि बारीक चिरलेली मिरची घाला. दर काही मिनिटांनी अलगद उलटत 10 ते 12 मिनिटे ठेवा, मासळीचा बाहेरील भाग अपारदर्शक होईपर्यंत.
 4. पाण्यात धुऊन घेतलेले लाल कांद्याचे काप आणि चिरलेली कोथिंबीर अलगद मिसळा. रताळ्याच्या गोल कापांसह आणि मक्याच्या दाण्यांसोबत लगेच वाढा.
 :::
+
+:::lang en
+# Peruvian Sea Bass Ceviche with Sweet Potato
+
+Classic no-cook Peruvian lime-cured sea bass tossed with crisp red onion, fresh cilantro, and chili, served alongside tender boiled sweet potato and corn.
+
+## Instructions
+1. Simmer the sliced sweet potato in water for 12 minutes until just tender, drain, and cool to room temperature.
+2. Toss the cold cubed sea bass with salt in a chilled glass bowl and let rest 2 minutes.
+3. Pour the fresh lime juice over the fish along with the grated garlic and minced chili, gently turning every few minutes for 10 to 12 minutes until the exterior turns opaque.
+4. Fold in the rinsed red onion slices and chopped cilantro, then serve immediately beside the sweet potato rounds and corn kernels.
+:::
+
+:::lang bn
+# পেরুর সামুদ্রিক বাস সিভিচের মিষ্টি পটাটোর সাথে
+
+চিনা নয়, পেরুভিয়ান লাইম-কাঁটা সামুদ্রিক মাছে লাল হয়ে গেছে, তাজা সিলি আর চিলির সাথে কোমল মিষ্টি আলু আর ভূট্টা পরিবেশন করেছে।
+
+## Instructions
+1. মাত্র কোমল, ড্রেনিং এবং রুম তাপমাত্রায় ঠাণ্ডা ।
+2. ঠাণ্ডা জলকে ঠাণ্ডা করে এক শীতল গ্লাস বাটিকলের মধ্যে লবণ নিয়ে আসে এবং ২ মিনিট বিশ্রাম নিতে দেয়।
+3. রসালো রসুন আর মিক্‌লির সাথে মাছের উপরে তাজা চুড়ার রস ঢালে প্রতি মিনিট ১০ মিনিটের মধ্যে চলে যায়।
+4. এরপর স্যাঁতসেঁতের পাশে মিষ্টি আলু গোলের পাশে পরিবেশন করা হয় ।
+:::
+
+:::lang ur
+# پیروویان جھیل بسس سیویچ جس میں سوئی پوٹاتو ہیں۔
+
+کلاسیکی نو کوک پروویان نامی سمندری بانسوں نے چیرسپ سرخ اونون، تازہ سیلنٹرو اور کیوبیک کے ساتھ ساتھ میٹھا میٹھا اور مکئی کی خدمت کی۔
+
+## Instructions
+1. اِس کی وجہ یہ ہے کہ اِن میں سے زیادہ‌تر لوگ اِس بات پر یقین رکھتے ہیں کہ اُن کے بچے اُن کے ساتھ کھانا کھاتے ہیں ۔
+2. اِس کے بعد اُس نے اُن سے کہا : ” مَیں نے اِس بات کا یقین کر لیا ہے کہ مَیں اُن کے ساتھ ہوں ۔ “
+3. اِس کے بعد اُس نے اُس مچھلی کو اِستعمال کِیا ۔
+4. اِس کے بعد اِس کے ساتھ‌ساتھ اُس کے گلے میں خوشبودار برتن اور مکئی کے برتن بھی ہوتے ہیں ۔
+:::

@@ -89,3 +89,39 @@ prepTimeSource: 'https://healthyfitnessmeals.com/grilled-lemon-garlic-asparagus/
 3. गरम तव्यावर किंवा ग्रिल पॅनवर 5–7 मिनिटे ग्रिल करा आणि अधूनमधून उलटवा.
 4. प्लेटमध्ये काढा, वरून लिंबाची किसलेली साल भुरभुरा आणि ताज्या लिंबाचा रस पिळा.
 :::
+
+:::lang en
+# Grilled Lemon Herb Asparagus
+
+Fresh tender asparagus spears grilled with olive oil, garlic, lemon zest, and cracked black pepper.
+
+## Instructions
+1. Snap off woody ends of asparagus spears.
+2. Toss spears with olive oil, minced garlic, salt, and pepper.
+3. Grill on a hot skillet or grill pan for 5–7 minutes, turning occasionally.
+4. Transfer to plate, sprinkle lemon zest, and squeeze fresh lemon juice.
+:::
+
+:::lang bn
+# কা. পূ.
+
+কোমল কোমল চিতাবাঘগুলো জলপাই, রসুন, লেবুর চাঁবি এবং কালো মরিচের সঙ্গে মিশে যায় ।
+
+## Instructions
+1. কাঠ-বিড়াল শেষ হয় পরশুকুড়িদের বর্শা দিয়ে.
+2. জলপাই, রসুন, লবণ এবং মরিচের উপর বর্শা।
+3. ৫-৭ মিনিটের জন্য হট-টেম অথবা গ্রিল প্যানে গ্রিল প্যানে খেতে খেতে খেতে খেতে কষ্ট হয়।
+4. প্লেট, লেবু চাঁবি স্থানান্তর এবং তাজা লেবুর রস বের করে।
+:::
+
+:::lang ur
+# گلئیڈ لیمون ہرب اسپاراگوس
+
+اِس کے علاوہ اُنہوں نے زیتون کے تیل ، لہسن ، ٹماٹر اور اِس کی چھال سے بھی پانی نکالا ۔
+
+## Instructions
+1. اِس کی وجہ یہ ہے کہ اُس نے اِس بات پر زور دیا کہ اُس نے اُس کی مدد کی ہے ۔
+2. زیتون کا تیل ، لہسن ، نمک اور مکھن سے پَر ۔
+3. 5–7 منٹ کے لئے گرم مہارت پر گرل، وقتاً فوقتاً بدل جاتا ہے۔
+4. پلیٹ‌فارم پر منتقل ہونے سے ، ٹماٹر‌کین زی‌سٹ اور تازہ ٹماٹر کے جوس پکاتے ہیں ۔
+:::

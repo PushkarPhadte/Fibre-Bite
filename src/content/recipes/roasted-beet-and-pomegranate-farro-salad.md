@@ -84,3 +84,36 @@ prepTimeEstimated: true
 2. उरलेले ऑलिव्ह तेल आणि सफरचंदाचा सिरका एकत्र फेटून हलके ड्रेसिंग तयार करा.
 3. एका भांड्यात शिजवलेले फारो, भाजलेले बीट, डाळिंबाचे दाणे आणि बेबी अरुगुला एकत्र करा. ड्रेसिंग घालून हलवून मिसळा.
 :::
+
+:::lang en
+# Roasted Beet and Pomegranate Farro Salad
+
+Nutty whole farro tossed with earthy roasted beets, ruby pomegranate arils, arugula, and cider dressing.
+
+## Instructions
+1. Toss cubed beetroot with half the olive oil and roast at 200 C for 25 minutes until tender and slightly caramelized.
+2. Whisk remaining olive oil with apple cider vinegar to make a light dressing.
+3. Combine cooked farro, roasted beets, pomegranate arils, and baby arugula in a bowl and toss with dressing.
+:::
+
+:::lang bn
+# পুডিং বিট এবং পোমগ্রাথ ফার্রম সালাদ
+
+কিন্তু, সেই সময়ে পুরো পৃথিবীকে আগুনের সঙ্গে মিশিয়ে ফেলা হতো ।
+
+## Instructions
+1. টরেন্ট ঘন ঘন তেল এবং ২০০ সি তে রান্না করা হয়েছে।
+2. এক হালকা পোষাক তৈরি করার জন্য প্রার্থনা করুন ।
+3. এরপর তিনি একটা বাটিকল তৈরি করেন ।
+:::
+
+:::lang ur
+# بیوت اور پومراجیت فارو سالالد
+
+مٹی کے برتنوں ، پُرانے پُرانے زمانے کے لوگوں کے ساتھ مل کر کھانا پکانے سے انکار کر دیا جاتا تھا ۔
+
+## Instructions
+1. زیتون کے تیل کے نصف حصے کو کاٹ کر ۲۵ منٹ تک نرم اور تھوڑی تھوڑی دیر تک ۲۵ منٹ پر پکایا جاتا ہے ۔
+2. زیتون کے تیل کو سیب کے ساتھ پکایا جاتا ہے ۔
+3. اِس کے بعد اُس نے اپنے بچوں کو کھانے پینے کی چیزیں دیں ۔
+:::

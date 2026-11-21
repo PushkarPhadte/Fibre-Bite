@@ -100,3 +100,39 @@ prepTimeEstimated: true
 3. पिठाचे लांबट वळे करा आणि स्टीमरमध्ये 18–20 मिनिटे वाफवून घ्या.
 4. वळ्यांचे गोल काप करा आणि मोहरी व तीळ घालून हलके परतून घ्या.
 :::
+
+:::lang en
+# Dudhi Muthia (Gujarati Steamed Bottle Gourd Dumplings)
+
+Nutritious steamed Gujarati dumplings made with grated bottle gourd, whole wheat flour, and fragrant spices.
+
+## Instructions
+1. Squeeze slight excess water from grated dudhi and combine with wheat flour, besan, turmeric, green chilli paste, and salt.
+2. Knead gently into a soft dough without adding extra water.
+3. Shape into cylindrical logs and steam in a steamer for 18–20 minutes.
+4. Slice logs into rounds and sauté lightly with mustard seeds and sesame seeds.
+:::
+
+:::lang bn
+# ডুধি মুথিয়া (গুটিমেড বোটেল গোরড ডাম্পলিং)
+
+কিন্তু, এটা ছিল এক অদ্ভুত বৈশিষ্ট্য ।
+
+## Instructions
+1. শস্যের রসের রসের চেয়ে সামান্য পরিমাণে হালকা জল এবং গমের আটা, বিন, মৌমাছি, টুরমেরিক, সবুজ ঠাণ্ডা পেস্ট এবং লবণের সঙ্গে মিলিত হয় ।
+2. অতিরিক্ত পানি যোগ না করে কোমলভাবে কোমলভাবে কোমল করে।
+3. ১৮-২০ মিনিটের জন্য স্টীমড্রোম এবং স্টীমবক্সের আকৃতি।
+4. টুকরো টুকরো টুকরো টুকরো করে এবং বীজের সাথে হালকা হালকা করে।
+:::
+
+:::lang ur
+# دودائی مٹیا (Gujarati Steamed Gourd Dumplings)۔
+
+اِس کے بعد اُس نے اُن سے کہا : ” مَیں نے اِس درخت کو اِستعمال کِیا ہے ۔ “
+
+## Instructions
+1. اِس کی وجہ یہ ہے کہ اِن میں سے زیادہ پانی اِستعمال ہوتا ہے ۔
+2. مزید پانی میں شامل کئے بغیر کِیا جا سکتا ہے ۔
+3. شاپنگ (cylindritic) لاگس میں اور 18–20 منٹ کے لیے ایک سپرنگ میں سوراخ.
+4. اِس لئے اُس نے اُن سے کہا : ” اَے میرے بیٹے !
+:::

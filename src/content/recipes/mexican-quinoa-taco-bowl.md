@@ -83,3 +83,39 @@ prepTimeSource: 'https://minimalistbaker.com/easy-vegan-taco-bowls/'
 3. प्रत्येक बाउलवर ताजा साल्सा घाला.
 4. वाढण्यापूर्वी लिंबाचा रस वरून घाला आणि चिमूटभर मीठ भुरभुरा.
 :::
+
+:::lang en
+# Mexican Quinoa Taco Bowl
+
+A wholesome grain bowl layered with fluffy quinoa, black beans, avocado slices, corn, and salsa.
+
+## Instructions
+1. Divide cooked quinoa between two bowls as the base.
+2. Arrange black beans, sweet corn, and avocado slices over the quinoa.
+3. Top each bowl with fresh salsa.
+4. Drizzle with lime juice and season with a pinch of salt before serving.
+:::
+
+:::lang bn
+# মেক্সিকোর কুইনো তাওকো বাওবাName
+
+প্রচুর পরিমাণে আখ, চিনি, কালো শিম, ভিকাডো, ভূট্টা এবং সালসা ।
+
+## Instructions
+1. বেসের মধ্যে দু'টি বলয় দিয়ে ভাগ
+2. বাছাই করে কালো শিম, মিষ্টি ভূট্টা, এবং আমভোকাডো টুকরো তৈরি করুন।
+3. উপরের বাটি তাজা সালসা.
+4. পরিবেশন করার আগে হালকা জুস এবং মৌসুমের সাথে হালকা লবণ পান করা।
+:::
+
+:::lang ur
+# میکسیکو کوینوا تاکو باؤل
+
+اِس کے بعد اُس نے اپنے شاگردوں سے کہا : ” مَیں اِس بات کی قدر کرتا ہوں کہ مَیں اُن کے ساتھ ہوں ۔ “
+
+## Instructions
+1. اِس کی ایک وجہ تو یہ ہے کہ اِس میں دو پیالے تھے ۔
+2. سیاہ دانوں ، مکئی کی مکئی اور ایکوکوڈو کی کاشت‌کاری میں حصہ لیتے ہیں ۔
+3. ہر کپ کے اوپر تازہ سلسہ کے ساتھ.
+4. اِس کے علاوہ اِس میں نمک بھی شامل ہوتا ہے ۔
+:::

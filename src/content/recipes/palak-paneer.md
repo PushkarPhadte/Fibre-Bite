@@ -116,3 +116,39 @@ prepTimeEstimated: true
 3. उरलेले तेल घाला. कांदा मऊ होईपर्यंत शिजवा, मग आले, लसूण, जिरे आणि टोमॅटो घाला; टोमॅटो मऊ होईपर्यंत शिजवा.
 4. पालकाची प्युरी आणि गरम मसाला मिसळून 5 मिनिटे मंद आचेवर शिजवा. आच कमी करा, दही मिसळा, मग पनीर घालून उकळी न आणता गरम करा. चवीनुसार मीठ-मसाला घालून वाढा.
 :::
+
+:::lang en
+# Palak Paneer
+
+A lighter North Indian spinach and paneer curry with ginger, garlic, and a modest amount of creaminess from yogurt.
+
+## Instructions
+1. Blanch spinach in boiling water for 1 minute, transfer to cold water, drain, and blend to a smooth puree.
+2. Warm half the oil in a pan and lightly brown the paneer on two sides. Remove and set aside.
+3. Add the remaining oil. Cook onion until soft, then add ginger, garlic, cumin, and tomato; cook until the tomato softens.
+4. Stir in the spinach puree and garam masala and simmer gently for 5 minutes. Lower the heat, stir in yogurt, then fold in paneer and warm without boiling. Season and serve.
+:::
+
+:::lang bn
+# পার্শ্ববর্তী পেইন
+
+উত্তর ভারতীয় স্পিনচ আর পেইন্টার সাথে মদ, রসুন আর খুব সামান্য ক্রিম দিয়ে।
+
+## Instructions
+1. শূককীট পরিষ্কার - পরিচ্ছন্নতার কাজ
+2. প্যানের অর্ধেক তেল এবং দুই পাশে পেইন্টারকে হালকা করে। সরে দাঁড়াও।
+3. অবশিষ্ট তেল যোগ করো। এরপর নরম, রসুন, রসুন এবং টমেটো যোগ করার আগে পর্যন্ত রান্না করুন ।
+4. স্পিনে বিশুদ্ধি আর কাধম মাসালা আর সহজ করে ৫ মিনিটের জন্য। গরমের মধ্যে দিয়ে, দন্তচিকিৎসিত হয়ে পড়ে, তারপর ফুটপাথ ও গরম হয়ে যায় । সিন্ধু আর সেবা।
+:::
+
+:::lang ur
+# پامیر
+
+شمالی ہندوستانی ریڑھ کی ہڈی اور تمباکو نوشی ، لہسن اور مونگ‌پھلی کی معمولی مقدار میں کمی واقع ہوتی ہے ۔
+
+## Instructions
+1. ایک منٹ کے لئے گرم پانی میں سوراخ کرنا ، ٹھنڈے پانی میں منتقل ہونا ، پانی کو صاف کرنے اور اسے ملانے میں مدد دینا ۔
+2. اِس کے بعد اُس نے اُس سے پوچھا : ” کیا مَیں اِس کے بارے میں سوچ رہا ہوں ؟ “ اور برائیوں سے پرہیز کرو
+3. باقی تیل شامل کریں ۔ جب تک ٹماٹر نرم نہیں ہوتا ، اِس کے بعد اُس میں لہسن ، لہسن اور ٹماٹر شامل ہوتے ہیں ۔
+4. سانس کی صفائی اور گراہم ماسالا میں اور 5 منٹ تک نرمی سے کام لیا۔ گرمیوں میں گرم ہو کر گرم ہونے کے بعد گرم اور گرم ہو کر گرم ہو جاتے ہیں۔ ہم‌جنس‌پسند ہیں ۔
+:::

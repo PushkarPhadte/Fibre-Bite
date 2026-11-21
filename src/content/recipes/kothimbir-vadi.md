@@ -95,3 +95,39 @@ prepTimeEstimated: true
 3. पूर्ण थंड होऊ द्या, मग अर्धा इंच जाडीचे तुकडे कापा.
 4. कापलेल्या वड्या एका मोठ्या चमचा तेलात तव्यावर परता, बाहेरून कुरकुरीत होईपर्यंत.
 :::
+
+:::lang en
+# Kothimbir Vadi (Maharashtrian Steamed Coriander Cakes)
+
+Crispy savory cakes made from fresh coriander leaves and gram flour batter, steamed and lightly pan-sautéed.
+
+## Instructions
+1. Mix chopped coriander, besan, rice flour, green chilli-ginger paste, sesame seeds, turmeric, and salt into a thick dough.
+2. Shape into a cylindrical roll and steam in a steamer for 15 minutes.
+3. Allow to cool completely and slice into 1/2-inch thick cakes.
+4. Pan-sauté sliced vadis in a tablespoon of oil until outer surfaces are crisp.
+:::
+
+:::lang bn
+# কৃমিবীর ভাদিকি (মর্জাশৃন কর্দমাদি)
+
+কৃমি রসালো কেক তৈরি করা হয়েছে তাজা কোরিয়ান্ডার পাতা থেকে এবংগ্রামের আটানা, গরম এবং হালকা প্যান-সুয়াড।
+
+## Instructions
+1. মিক্স কাটা কোরিয়ান্ডার, আটা, ভাত আটা, সবুজ ঠাণ্ডা রুটি, সিমারিক বীজ, এবং ঘন বিন্দুতে লবণ।
+2. ১৫ মিনিটের জন্য স্টীমড্রিয়ান রোল আর ইঞ্জিনের আকার
+3. ১/২ ইঞ্চি মোটা কেক দিয়ে সুন্দর করে টুকরো করার অনুমতি দিন।
+4. বাইরের পৃষ্ঠের উপর তেল না পাওয়া পর্যন্ত প্যান-অস্ট্যাটে ভাদিস।
+:::
+
+:::lang ur
+# کوت کمار ویدی (Maharashtrin Steemed Coriander Kays)۔
+
+کریس‌پی‌پیر کے پتوں اور گرام آٹے کے پَر سے تیار کئے جانے والے برتنوں سے حاصل کئے گئے تھے ۔
+
+## Instructions
+1. مریخ پر کوریاندر، بیاسان، چاول کے آٹے، سبز بونے والے پکوان، سیسم کے بیج، ٹرمر اور نمک کو ایک گھنی تہ میں تبدیل کر دیتا ہے۔
+2. شاپنگ کو 15 منٹ تک ایک cylindritic رول میں تبدیل کر دیا جاتا ہے ۔
+3. مکمل طور پر ٹھنڈا کرنے اور 1/2 انچ موٹی تہوں میں ڈالنے کی اجازت دیں.
+4. نان ساوے نے تیل کے تختوں میں اس وقت تک سوراخ کیے جب تک بیرونی سطحیں کریسپ نہ ہوں۔
+:::

@@ -85,3 +85,39 @@ prepTimeSource: 'https://www.wellplated.com/sweet-potato-wedges/'
 3. 200°C (400°F) तापमानावर 25–30 मिनिटे बेक करा; अर्धा वेळ झाल्यावर वेजेस उलटवा.
 4. कुरकुरीत वेजेस घरगुती डिपसोबत वाढा.
 :::
+
+:::lang en
+# South American Baked Sweet Potato Wedges
+
+Crispy baked sweet potato wedges tossed in paprika, cumin, and olive oil, serving as a nutrient-rich whole food starch.
+
+## Instructions
+1. Toss sweet potato wedges with olive oil, paprika, cumin, garlic powder, and sea salt.
+2. Arrange in a single layer on a parchment-lined baking sheet.
+3. Bake at 200°C (400°F) for 25–30 minutes, flipping halfway through.
+4. Serve crisp with homemade dip.
+:::
+
+:::lang bn
+# সাউথ আমেরিকান বেক্টেড মিষ্টি পটাটো
+
+ক্রিসপি মিষ্টি আলু তৈরি করেছিল পাপ্রাকা, মরমা এবং জলপাই তেল দিয়ে।
+
+## Instructions
+1. তেল, পাম্পিকা, সারস, রসুন পাউডার এবং সামুদ্রিক লবণ দিয়ে মিষ্টি আলু তৈরি হয়।
+2. কাগজের উপর একটা স্তর দিয়ে সাজান.
+3. ২৫-৩০ মিনিটের মধ্যে ২০০ ডিগ্রি সেলসিয়াস (৪০০ পাউন্ড) কেক।
+4. ঘরে তৈরি খাবার নিয়ে কাজ করো.
+:::
+
+:::lang ur
+# جنوبی امریکا کی بِلّہ‌دار پس‌منظر پوٹاتو وِگس
+
+کریس‌پی‌پی نے کھانے کے ایک تار کے طور پر کھانا کھانے کے کھانے کی تیاری کی ۔
+
+## Instructions
+1. زیتون کے تیل ، پوپکا ، آلو ، لہسن ، لہسن اور سمندر کے نمک کے ساتھ میٹھا ہوتا ہے ۔
+2. ایک ہی سطح پر ایک گلی میں اوپر ایک.
+3. Bake at 200°C (400°F) 25–30 منٹ کے لئے، باہر سے گزرنے کے لئے.
+4. اِس لئے اُنہوں نے اپنے گھر والوں کے ساتھ کام کرنا شروع کر دیا ۔
+:::

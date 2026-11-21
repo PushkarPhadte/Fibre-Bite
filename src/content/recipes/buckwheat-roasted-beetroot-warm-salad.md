@@ -102,3 +102,39 @@ prepTimeEstimated: true
 3. उरलेले ऑलिव्ह तेल बाल्सॅमिक व्हिनेगरसोबत फेटा.
 4. गरम बकव्हीट, भाजलेले बीटरूट, कोवळ्या पालेभाज्या, भोपळ्याच्या बिया आणि ड्रेसिंग एकत्र करा.
 :::
+
+:::lang en
+# Buckwheat and Roasted Beetroot Warm Salad
+
+Toasted buckwheat groats paired with roasted red beets, baby greens, pumpkin seeds, and balsamic-olive dressing.
+
+## Instructions
+1. Toss cubed beetroot with half the olive oil and roast at 200 C for 25 minutes until tender.
+2. Simmer buckwheat groats in water for 14 minutes until tender and water is absorbed.
+3. Whisk remaining olive oil with balsamic vinegar.
+4. Combine warm buckwheat, roasted beets, baby greens, pumpkin seeds, and dressing.
+:::
+
+:::lang bn
+# বাকওয়াত এবং পুডিং বেতেম ওয়ারাম সালাদ
+
+কাঠের টুকরোর টুকরোগুলো লাল রঙের, শিশু সবুজ, কুমড়া, কুমড়ার বীজ এবং ভেষজ নির্যাসের পোষাক।
+
+## Instructions
+1. টরেন্ট কিউব টেটডর-এর অর্ধেক জলপাই তেল এবং টরেটো ২০০ সেন্টে রান্না করা হয়েছে।
+2. সন্ধ্যা ১৪ মিনিটের জন্য জলতে গরম গরম গরম হয়ে যায়, যতক্ষণ না কোমল ও জল নিভে যায় ।
+3. কা. পূ.
+4. গরম কাপড়, রোস্ট, সবুজ, কুমড়ার বীজ এবং পোশাক - আশাক পরে ।
+:::
+
+:::lang ur
+# بِک‌برگ اور بِت‌وروت گرم سالا
+
+Tusted buck species ground with جلتے لال بیٹس، بچے سبز، پمپک بیج اور kumic-cons کے کپڑے پہنے ہوئے ہیں۔
+
+## Instructions
+1. زیتون کے تیل میں نصف حصہ دیا جاتا ہے اور وہ 200 منٹ تک نرم‌مزاج رہتا ہے ۔
+2. سمر بک گرپس 14 منٹ تک پانی میں جذب ہو جاتا ہے یہاں تک کہ نرم اور پانی جذب ہو جاتا ہے۔
+3. اِس کے علاوہ زیتون کا تیل بھی اِستعمال کِیا جاتا ہے ۔
+4. اِس کے علاوہ اُس نے اپنے بچوں کے دل کو چُھو لیا ۔
+:::

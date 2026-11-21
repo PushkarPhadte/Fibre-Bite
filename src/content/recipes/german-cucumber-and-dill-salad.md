@@ -92,3 +92,39 @@ prepTimeSource: 'https://www.thespruceeats.com/cucumber-dill-salad-1447154'
 3. काकड्या टॉवेलने हलक्या हाताने टिपून कोरड्या करा.
 4. काकड्या शेपूच्या ड्रेसिंगमध्ये मिसळा आणि वाढण्यापूर्वी थंड करा.
 :::
+
+:::lang en
+# German Cucumber and Dill Salad (Gurkensalat)
+
+Thinly sliced cucumbers tossed in a light, refreshing dressing of sour cream or Greek yogurt, vinegar, and fresh dill.
+
+## Instructions
+1. Toss sliced cucumbers with salt and let drain in a colander for 15 minutes.
+2. Whisk Greek yogurt, white vinegar, honey, dill, and white pepper in a bowl.
+3. Gently pat cucumbers dry with a towel.
+4. Toss cucumbers in dill dressing and chill before serving.
+:::
+
+:::lang bn
+# জার্মান ক্যালকুলার
+
+তাই, এতে অবাক হওয়ার কিছু নেই যে, এই ধরনের খাবার খাওয়ার ফলে প্রচুর শস্য উৎপন্ন হয় ।
+
+## Instructions
+1. প্রচুর পরিমাণে আখ কাটা হতো
+2. গ্লুক গ্রিক ভাষা, সাদা ভিনেগার, মধু, ললি এবং গোলক মরিচ।
+3. ছোট ছোট কাপড়, তোয়ালে দিয়ে শুকনো.
+4. কাজ করার আগে ডাইল ড্রেসিং আর ঠান্ডায় জমে যাওয়া।
+:::
+
+:::lang ur
+# جرمن کوکمبر اور دیل سالاد (Gurkensalat)
+
+اِس کے علاوہ اُنہوں نے اِس بات پر بھی غور کِیا کہ اُن کے دل میں کیا ہے ۔
+
+## Instructions
+1. توپ کو نمک کے ساتھ پکایا جاتا تھا اور 15 منٹ تک کوکنڈر میں ڈال دیتا تھا ۔
+2. وِشکِکِنّا، سفید کُلّے، شہد، دِل اور سفید رنگ کے برتنوں کو ایک پیالے میں رکھتے ہیں۔
+3. اِس کی وجہ یہ ہے کہ اُس نے اُن کی مدد کی ۔
+4. اِس سے پہلے کہ خدمت کرنے سے پہلے کُل‌وقتی طور پر گاتے ہیں ۔
+:::

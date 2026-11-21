@@ -106,3 +106,39 @@ prepTimeSource: 'https://www.easyanddelish.com/vegetarian-feijoada-recipe/'
 3. बीन्स मऊ आणि मलईदार होईपर्यंत 25 मिनिटे प्रेशर कुक करा.
 4. वाढण्यापूर्वी तमालपत्र आणि संत्र्याची साल काढून टाका.
 :::
+
+:::lang en
+# Brazilian Black Bean Stew (Light Feijoada)
+
+A lighter vegetarian adaptation of Brazil’s national stew made with black beans, smoked paprika, sweet potatoes, and orange zest.
+
+## Instructions
+1. Heat olive oil in a pressure cooker; sauté onion, garlic, and sweet potato for 4 minutes.
+2. Add soaked black beans, smoked paprika, bay leaf, orange peel, salt, and 4 cups water.
+3. Pressure cook for 25 minutes until beans are tender and creamy.
+4. Discard bay leaf and orange peel before serving.
+:::
+
+:::lang bn
+# ব্রাজিলের কালো বিন ইউ (লিও ফেজোদা)
+
+ব্রাজিলের জাতীয় রুটি, ধূমপান করা পাস্তা, মিষ্টি আলু এবং কমলা কমলার রস দিয়ে তৈরি এক হালকা নিরামিষভোজী নিরামিষভোজন।
+
+## Instructions
+1. এক চাপের মুখে তাপচাষ, রসুন এবং মিষ্টি আলু।
+2. আপনি হয়তো মনে করতে পারেন যে, এই পানীয়টা খুবই সুস্বাদু ।
+3. স্নেক আর ক্রিমি না হওয়া পর্যন্ত ২৫ মিনিট ধরে চাপ দেয়া হয়।
+4. সেবা করার আগে বেজ পাতা আর কমলার পাতা ফেলে দাও।
+:::
+
+:::lang ur
+# برازیل بلیک بیون اسٹو (انگریزی:
+
+برازیل کے قومی پکوان کا ایک ہلکا سا حصہ سیاہ دانوں ، پَرکا ، میٹھا آلو اور نارنجی زِٹ سے بنا ہوا تھا ۔
+
+## Instructions
+1. زیتون کے تیل کو دباؤ میں ڈالنے کے لئے استعمال کِیا جاتا ہے ۔
+2. اِس کے علاوہ اِس میں سیاہ دانوں ، پُرکی ، آبی پتوں ، ناریل کے پتوں ، نمک اور 4 کپ بھی شامل ہیں ۔
+3. یہاں تک کہ ۲۵ منٹ تک بکس نرم اور کریم‌دل ہوتے ہیں ۔
+4. اِس کے علاوہ اُن کی خدمت کرنے سے پہلے اُن کے پتے اور نارنجی ہوتے ہیں ۔
+:::

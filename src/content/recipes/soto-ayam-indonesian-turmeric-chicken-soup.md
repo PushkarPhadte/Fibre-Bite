@@ -123,3 +123,42 @@ prepTimeEstimated: true
 4. गरम रस्स्यात मूग-अंकुर 1 मिनिट ब्लांच करा.
 5. अर्धी केलेली उकडलेली अंडी, कांद्याची पात, कोथिंबीर आणि थोडा लिंबाचा रस घालून वाट्यांमध्ये वाढा.
 :::
+
+:::lang en
+# Soto Ayam (Indonesian Turmeric Chicken Soup)
+
+Golden turmeric and lemongrass chicken broth with bean sprouts and boiled egg, in the style of Java's soto ayam.
+
+## Instructions
+1. Fry the onion, garlic, ginger and turmeric in the oil for 4 minutes until fragrant.
+2. Add the lemongrass, chicken and water, bring to a boil and simmer gently for 25 minutes. Skim any foam.
+3. Lift out the chicken, shred it and return it to the pot with the salt and pepper.
+4. Blanch the bean sprouts in the hot broth for 1 minute.
+5. Serve in bowls with halved boiled egg, spring onion, coriander and a squeeze of lime.
+:::
+
+:::lang bn
+# সোতো আয়াম (ইন্দোনেশিয়ান তুরমারিক মুরগী সোয়েন)
+
+সোনালী টরমেরিক আর লেবুমুজ মুরগির মাংসের পাপড়ি সহ জাভার সোটোমের স্টাইলে ফুটে ওঠে ডিম।
+
+## Instructions
+1. তেল, রসুন আর ট্যাপিক তেল তেলে ভরে 4 মিনিট অপেক্ষা করবে.
+2. লেবু, মুরগি ও জল যোগ করুন, ২৫ মিনিট কোমলভাবে ও সহজ সরলভাবে । যে কোন হট্টগোল।
+3. মুরগিটা বের করো, টুকরো টুকরো করে নিয়ে এসো আর লবণ আর মরিচ দিয়ে তা ফেরত দাও।
+4. ব্লাঙ্কনটা এক মিনিটের জন্য হট ব্রোথের মধ্যে অঙ্কুরিত হয়।
+5. সিদ্ধ ডিম, বসন্ত, কোরিয়ান্ডার এবং জলস্রোত দিয়ে বাটিকায় পরিবেশন করুন ।
+:::
+
+:::lang ur
+# سوتو ایام (Indonesian Turmeric Chicken Soup)۔
+
+جاوا کے سویٹو ایام کے انداز میں سنہری ٹرمر اور ٹماٹر مرغی بُرتھ کے ساتھ مل کر بنے ہوئے انڈے کے ساتھ۔
+
+## Instructions
+1. تیل میں اُون ، لہسن ، آمیزش اور ترشے 4 منٹ تک رہتے ہیں ۔
+2. اِس کے ساتھ ساتھ اُس کے جسم میں 25 منٹ کے لئے تیل بھی آتا ہے ۔ کسی بھی طرح کی گولی مار.
+3. مرغی کو باہر نکال کر اسے نمک اور پنیر سے برتن میں واپس کر دیں ۔
+4. بنچ 1 منٹ کے لئے گرم برتھ میں بَلّک.
+5. اِس کے علاوہ اُس نے اِس بات کا بھی ذکر کِیا کہ اُس نے اُس کی مدد کی ہے ۔
+:::

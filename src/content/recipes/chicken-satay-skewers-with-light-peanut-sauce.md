@@ -104,3 +104,39 @@ prepTimeEstimated: true
 3. शेंगदाणा बटर, लिंबाचा रस, तमारी आणि कोमट पाणी फेटून पातळ सॉस तयार करा.
 4. सळ्या सॉस आणि काकडीसोबत वाढा.
 :::
+
+:::lang en
+# Chicken Satay Skewers with Light Peanut Sauce
+
+Grilled turmeric-coriander chicken skewers with a thin peanut-lime dipping sauce and cucumber.
+
+## Instructions
+1. Coat the chicken with the turmeric, coriander, garlic and oil and thread onto skewers.
+2. Grill for 4 to 5 minutes per side until cooked through.
+3. Whisk the peanut butter, lime juice, tamari and warm water into a thin sauce.
+4. Serve the skewers with the sauce and cucumber.
+:::
+
+:::lang bn
+# হালকা পিনাট সাউসের মুরগি
+
+ছোট বাদামের সস এবং সসেজ দিয়ে মুরগির মাংসের সস।
+
+## Instructions
+1. মুরগির মাংস, কোরান্ডার, রসুন এবং তেল দিয়ে তৈরি।
+2. রান্না না হওয়া পর্যন্ত ৪ থেকে ৫ মিনিটের জন্য গ্রিল।
+3. বাদামের মাখন, লাইম জুস, টামারি আর গরম পানি।
+4. সস আর সস দিয়ে নে।
+:::
+
+:::lang ur
+# چِکِن سَتَاء سَقَرَرَہِ نورِنَّ شَقَرَةٍ
+
+گلڈ تھرمرک-کریانڈر مرغیوں کے ساتھ ایک باریک مونگ پھلی اور کیکمبر کے ساتھ.
+
+## Instructions
+1. مرغی کو اُس کیلئے تیار کریں جسکے گوشت میں تیل ، لہسن ، لہسن اور تیل شامل ہے ۔
+2. جب تک 4 سے 5 منٹ تک پکا نہ جائے۔
+3. مونگ‌پھلی کے مونگ‌پھلی ، مونگ‌پھلی ، تامری اور گرم پانی کی وجہ سے اِس میں بہت سی چیزیں پائی جاتی ہیں ۔
+4. کیک اور کیکمبر کے ساتھ سکھوں کی خدمت.
+:::

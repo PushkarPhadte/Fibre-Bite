@@ -90,3 +90,39 @@ prepTimeEstimated: true
 3. फेटलेली अंडी आणि कोथिंबीर घाला; मंद आचेवर सतत ढवळत शिजवा.
 4. अंडी मऊ आणि मलईदार असतानाच आचेवरून उतरवा.
 :::
+
+:::lang en
+# Parsi Egg Akuri (Spiced Soft Scrambled Eggs)
+
+A famous Parsi breakfast dish consisting of soft-scrambled eggs cooked with onions, tomatoes, green chillies, and cilantro.
+
+## Instructions
+1. Heat butter/oil in a pan and sauté onions and green chillies until soft.
+2. Add tomatoes, turmeric, cumin powder, and salt; cook until soft.
+3. Pour in beaten eggs and coriander; cook on low heat stirring constantly.
+4. Remove from heat while eggs are still soft and creamy.
+:::
+
+:::lang bn
+# পাসি এগ আকুরি (সুইম্পিক সস)
+
+একটি বিখ্যাত পারসি সকালের নাস্তার রান্না করা ডিম দিয়ে তৈরি করা হয়েছে।
+
+## Instructions
+1. হালকা না হওয়া পর্যন্ত প্যান এবং সয়াপ ও ঘন ঘন ঠাণ্ডার সয়াবিনে উলকি।
+2. টমেটো, টারমারিক, যোমিন পাউডার এবং লবণ; যতক্ষণ না নরম হয় ততক্ষণ পর্যন্ত রান্না করুন ।
+3. জলস্রোত ও কোরান্ডারের ওপরিভাগের কুঠরিগুলো
+4. ডিমগুলো যখন নরম আর ক্রিমি হয় তখন তাপ থেকে সরাও।
+:::
+
+:::lang ur
+# پارسی ایگ اکوری (Spiced Soff Scred Eggs) (ہسپانوی:
+
+ایک مشہور پارسی کھانے کا کھانا جو نرم سُرخ انڈے پر مشتمل ہوتا تھا جس میں پیاز، ٹماٹر، ہرے رنگ کے کھانے اور سیلانترو سے پکایا جاتا تھا۔
+
+## Instructions
+1. ہیٹ مکھن/ویل میں ایک پن اور ساوتری کا پیاز اور سبز رنگ جب تک نرم نہ ہو۔
+2. مونگ‌پھلی ، ٹرمیر ، لوہے کے آٹے اور نمک شامل کریں ۔
+3. اِنڈوں اور کوریان‌فر میں پکایا جاتا ہے ۔
+4. گرمی سے دور جبکہ انڈے اب بھی نرم اور کریمی ہوتے ہیں۔
+:::

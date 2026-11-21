@@ -1,16 +1,21 @@
-import english from './locales/en.json';
-import hindi from './locales/hi.json';
-import marathi from './locales/mr.json';
+import { defaultLanguage, isLanguage, languageCodes } from './i18n/languages';
 
-export type Language = 'en' | 'hi' | 'mr';
+export type Language = string;
 
 const LANGUAGE_KEY = 'fibre-bite-language';
-const dictionaries: Record<Language, Record<string, string>> = { en: english, hi: hindi, mr: marathi };
+const localeModules = import.meta.glob<Record<string, string>>('./locales/*.json', {
+	eager: true,
+	import: 'default'
+});
+const dictionaries = Object.fromEntries(languageCodes.map((code) => [
+	code,
+	localeModules[`./locales/${code}.json`] ?? {}
+])) as Record<Language, Record<string, string>>;
 
-export const language = $state({ current: 'en' as Language });
+export const language = $state({ current: defaultLanguage as Language });
 
 export function t(key: string, values: Record<string, string | number> = {}): string {
-	let message = dictionaries[language.current][key] ?? dictionaries.en[key] ?? key;
+	let message = dictionaries[language.current]?.[key] ?? dictionaries[defaultLanguage]?.[key] ?? key;
 	for (const [name, value] of Object.entries(values)) {
 		message = message.replaceAll(`{${name}}`, String(value));
 	}
@@ -18,7 +23,9 @@ export function t(key: string, values: Record<string, string | number> = {}): st
 }
 
 export function setLanguage(next: Language): void {
+	if (!isLanguage(next)) return;
 	language.current = next;
+	if (typeof document !== 'undefined') document.documentElement.lang = next;
 	if (typeof localStorage !== 'undefined') {
 		try {
 			localStorage.setItem(LANGUAGE_KEY, next);
@@ -30,8 +37,9 @@ export function initializeLanguage(): void {
 	if (typeof localStorage === 'undefined') return;
 	try {
 		const saved = localStorage.getItem(LANGUAGE_KEY);
-		if (saved === 'en' || saved === 'hi' || saved === 'mr') language.current = saved;
+		if (saved && isLanguage(saved)) language.current = saved;
 	} catch {
-		language.current = 'en';
+		language.current = defaultLanguage;
 	}
+	if (typeof document !== 'undefined') document.documentElement.lang = language.current;
 }

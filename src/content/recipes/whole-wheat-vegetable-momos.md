@@ -115,3 +115,39 @@ prepTimeEstimated: true
 3. पीठ पातळ करा आणि 7 सेमी रुंद 24 वर्तुळे कापून घ्या. प्रत्येकामध्ये एक चमचा भरणे ठेवा, नंतर प्लीट आणि सील करा.
 4. तेल लावलेल्या स्टीमरमध्ये 10 ते 12 मिनिटे वाफवून घ्या आणि टोमॅटो-मिरचीच्या चटणीसोबत सर्व्ह करा.
 :::
+
+:::lang en
+# Whole-Wheat Vegetable Momos
+
+Steamed Himalayan dumplings with a whole-wheat wrapper and a juicy cabbage, carrot and ginger filling, served with a tomato-chilli dip.
+
+## Instructions
+1. Knead the flour, water, a few drops of oil and the salt into a firm dough, cover and rest for 30 minutes.
+2. Salt the cabbage lightly, rest for 5 minutes and squeeze out the water. Stir-fry with the remaining oil, ginger, garlic, chilli, onion and carrot for 3 minutes, then add the tamari, pepper and coriander and cool.
+3. Roll the dough thin and cut 24 circles, 7 cm wide. Place a spoonful of filling in each, then pleat and seal.
+4. Steam in an oiled steamer for 10 to 12 minutes and serve with tomato-chilli chutney.
+:::
+
+:::lang bn
+# সমগ্র-ওয়াট ভেগলিমাস
+
+স্টেমেদ হিমালাইয়ান পুরো তেলাপোকা এবং একটি রসিক ক্যাবেজ, কারুণ এবং ভ্রম, যা টমেটো-চিলি দিয়ে তৈরি।
+
+## Instructions
+1. জল, অল্প কয়েক ফোঁটা তেল এবং লবণকে শক্ত মুখে রেখে ৩০ মিনিট বিশ্রাম নেয় ।
+2. একটু হালকা করে নাও, বাকি ৫ মিনিট বিশ্রাম আর পানি বের করে আনো। অবশিষ্ট তেল, মদ, রসুন, ঠান্ডা, ঠাণ্ডা আর তিন মিনিট লাগবে, তারপর তামা, মরিচ আর রিয়ান্ডার যোগ করে।
+3. ৭ সেন্টিমিটার চওড়া। একটা চামচা ভর্তি করে দিন, তারপর অনুরোধ করে আর সীল দিয়ে দিন।
+4. একটা তেলযুক্ত স্টিমার ১২ থেকে ১২ মিনিট পর্যন্ত এবং টমেটো-চিলিচুনির সাথে কাজ করে।
+:::
+
+:::lang ur
+# سب سے پہلے
+
+سٹیمرڈ ہیملٹن گرلنگ جس کے ساتھ ایک مکمل طور پر لپیٹا جاتا ہے اور ایک کیمیائی مرکب، کیمیائی اور آمیزے بھرتی کیے جاتے ہیں، ایک ٹماٹر کی خلیجی جھلی کے ساتھ کام کرتے ہیں۔
+
+## Instructions
+1. اِس سے ظاہر ہوتا ہے کہ اُس نے اِس بات کو تسلیم کِیا ہے کہ اُس نے اُس سے کہا تھا : ” تُم . . .
+2. پانی صاف کریں ۔ باقی تیل، آمیزش، لہسن، چربی، آلو، اونس اور چاول کے ساتھ مل کر 3 منٹ کے لیے رکھ دیا جائے، اس کے بعد تاماری، پیسوں اور کوریانڈر اور ٹھنڈا کرنے کا اضافہ کیا جائے۔
+3. اِس کے بعد اُس نے اِس پر تحقیق کی ۔ اِس کے بعد اُس نے درخواست کی اور اُس پر مہر لگا دی ۔
+4. سٹیم میں 10 سے 12 منٹ کے لیے اور ٹماٹر-چیلی چتنی کے ساتھ خدمت کرتے ہیں۔
+:::

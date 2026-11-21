@@ -97,3 +97,36 @@ prepTimeEstimated: true
 2. टिक्क्यांना तेल लावा आणि २००°C वर १८ मिनिटे बेक करा; मध्ये एकदा उलटा.
 3. दह्यात उरलेला शेपू आणि मीठ मिसळा आणि टिक्क्यांसोबत वाढा.
 :::
+
+:::lang en
+# Baked Salmon Patties with Dill Yogurt
+
+Oven-baked salmon cakes bound with oats and egg, served with a dill yogurt sauce.
+
+## Instructions
+1. Mix the salmon, oats, egg, spring onions, half the dill, lemon juice and half the salt and shape into 6 patties.
+2. Brush with the oil and bake at 200 °C for 18 minutes, turning once.
+3. Mix the yogurt with the remaining dill and salt and serve with the patties.
+:::
+
+:::lang bn
+# দিলল ইয়োগুরের সাথে চাপা
+
+ওভেন-ব্লাক সেলমোন কেকের সাথে পোট এবং ডিম দিয়ে বাঁধা।
+
+## Instructions
+1. লবণ, পাকস্থলী, ডিম, পিঁয়াজ, গোলক, লেবুর জুস এবং অর্ধেক লবণ ও সেইসঙ্গে ৬টি রসের গঠন করুন ।
+2. তেল আর কেকের সাথে সাথে ১৮ মিনিটের জন্য ২০০ ডিগ্রি সেলসিয়াসে পড়ে।
+3. বাকি কাপড় আর লবণ দিয়ে হাত গুটিয়ে বেজ দিয়ে কাজ করুন।
+:::
+
+:::lang ur
+# ڈِل یو .
+
+انڈے اور انڈے سے جڑے ہوئے ٹماٹروں کے ساتھ
+
+## Instructions
+1. مکئی ، آلو ، انڈے ، سُرخ پیاز ، آدھی روٹی ، مکئی کا رس اور نیم نمک اور شکل میں ۶ پائی جاتی ہے ۔
+2. تیل اور ۱۸ منٹ کے لئے ۲۰۰ °C پر ٹکرا کر ایک بار واپس آ جاتا ہے ۔
+3. باقی برتنوں اور نمک کے ساتھ بنے ہوئے برتنوں سے لیس کریں اور پتوں کے ساتھ خدمت کریں۔
+:::

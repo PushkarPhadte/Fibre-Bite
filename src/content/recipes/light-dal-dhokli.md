@@ -108,3 +108,39 @@ prepTimeEstimated: true
 3. उरलेले तेल गरम करा, मोहरी आणि जिरे तडतडू द्या. कढीपत्ता, टोमॅटो, चिंच, डाळ, उरलेले पाणी आणि मीठ घालून उकळी आणा.
 4. पिठाचे तुकडे आणि शेंगदाणे घालून 12 मिनिटे मंद आचेवर शिजवा; हळुवारपणे ढवळत राहा.
 :::
+
+:::lang en
+# Light Dal Dhokli
+
+Whole wheat spiced dough strips simmered in a lightly sweet-sour toor dal.
+
+## Instructions
+1. Cook the dal with half the turmeric and 700 ml of the water until soft and mash.
+2. Knead the flour with the remaining turmeric, chilli, a pinch of salt and 1 teaspoon of the oil and water into a dough; roll thin and cut into diamonds.
+3. Heat the remaining oil, splutter the mustard and cumin, add the curry leaves, tomato, tamarind and dal with the remaining water and salt and bring to a simmer.
+4. Add the dough pieces and peanuts and simmer for 12 minutes, stirring gently.
+:::
+
+:::lang bn
+# হালকা ডাল দাহোকলি
+
+পুরো গমের মসলা ভোদড়গুলো হালকা মিষ্টি কাপড় দিয়ে তৈরি।
+
+## Instructions
+1. একটু নরম ও মাসশ পর্যন্ত পানির অর্ধেক আর ৭০০ মিটার পানির মধ্যে রান্না করুন।
+2. অবশিষ্ট টারমিনিক, ঠান্ডা, লবণ এবং তেল ও জলের ১ কাপ চাপ্যারন দিয়ে আটা দিয়ে বানানো হতো ।
+3. তাই, এতে অবাক হওয়ার কিছু নেই যে, প্রচুর পরিমাণে তেল উৎপন্ন হয় ।
+4. বিয়ারের টুকরো এবং বাদাম ১২ মিনিট ধরে মিষ্টি করে, কোমল হাসি দিয়ে.
+:::
+
+:::lang ur
+# نور دہلوی –
+
+گندم کی بہت زیادہ باریک پٹیاں چھوٹی میٹھی میٹھی اینٹوں میں لگی ہوئی تھیں۔
+
+## Instructions
+1. پانی کے نصف ترامیم اور 700 ملی میٹر کے ساتھ دال کو نرم اور ماس تک کریں۔
+2. تیل اور پانی کے ۱ چائے‌پون کے آٹے کو آٹے میں کاٹ کر دھاتوں میں کاٹ دیا جاتا ہے ۔
+3. باقی تیل کو دبا کر رکھ لیں ، رائی اور چاول کو دبا دیں ، اُس کے پتوں ، ٹماٹر ، تامارین اور دُل کو باقی پانی اور نمک کے ساتھ ملا دیں اور اُس کو صاف کریں ۔
+4. مونگ‌پھلی کے ٹکڑوں اور مونگ‌پھلی کو شامل کریں اور ۱۲ منٹ تک نرم‌مزاجی سے کام لیں ۔
+:::

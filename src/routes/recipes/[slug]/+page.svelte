@@ -44,8 +44,8 @@
 		<img src={recipe.image ?? 'https://images.unsplash.com/photo-1490645935967-10de6ba17061?auto=format&fit=crop&w=1200&q=80'} alt={localized.title} class="h-72 w-full object-cover md:h-96" />
 		{#if recipe.imageAttribution}
 			<p class="px-6 pt-2 text-xs text-slate-500 md:px-8">
-				Photo: <a class="underline hover:text-slate-800" href={recipe.imageAttribution.sourceUrl} target="_blank" rel="noreferrer">{recipe.imageAttribution.title}</a>
-				by <a class="underline hover:text-slate-800" href={recipe.imageAttribution.creatorUrl} target="_blank" rel="noreferrer">{recipe.imageAttribution.creator}</a>,
+				{t('attribution.photo')} <a class="underline hover:text-slate-800" href={recipe.imageAttribution.sourceUrl} target="_blank" rel="noreferrer">{recipe.imageAttribution.title}</a>
+				{t('attribution.by')} <a class="underline hover:text-slate-800" href={recipe.imageAttribution.creatorUrl} target="_blank" rel="noreferrer">{recipe.imageAttribution.creator}</a>,
 				<a class="underline hover:text-slate-800" href={recipe.imageAttribution.licenseUrl} target="_blank" rel="noreferrer">{recipe.imageAttribution.license}</a>.
 			</p>
 		{/if}

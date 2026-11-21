@@ -87,3 +87,36 @@ prepTimeEstimated: true
 2. धुतलेली ज्वारी, भोपळ्याचे तुकडे, ठेचलेले टोमॅटो आणि पाणी किंवा भाजीचा रस घालून उकळी आणा.
 3. आच मंद करा, पातेल्यावर झाकण ठेवा आणि ज्वारी व भोपळा मऊ होईपर्यंत 35 ते 40 मिनिटे शिजवा.
 :::
+
+:::lang en
+# Spiced Pumpkin and Sorghum Stew
+
+Chewy whole sorghum grains simmered with sweet pumpkin cubes, ginger, and cinnamon in a light tomato broth.
+
+## Instructions
+1. Warm olive oil in a pot over medium heat and cook grated ginger and cinnamon for 1 minute.
+2. Add rinsed sorghum, cubed pumpkin, crushed tomatoes, and water or broth, then bring to a boil.
+3. Reduce heat to low, cover, and simmer for 35 to 40 minutes until sorghum and pumpkin are tender.
+:::
+
+:::lang bn
+# দূরবর্তী বার্তা
+
+চমত্গামের সব পাপড়ি, মিষ্টি কুমড়া, ভোদড়, এবং হালকা টমেটো ব্রোথ দিয়ে তৈরি।
+
+## Instructions
+1. গরম গরমের সময় গরমের মধ্যে গরমের তেল এবং রান্নার পাত্র ১ মিনিট পর্যন্ত রান্না করে ।
+2. এরপর জলকে ফুটানোর জন্য জল ও জল দরকার ।
+3. শ্যাম্পু ও কুমীর কোমল না হওয়া পর্যন্ত ৩৫ থেকে ৪০ মিনিট পর্যন্ত হালকা, ঢেকে রাখা, ঢেকে রাখা এবং সিমমের গতি হ্রাস করা ।
+:::
+
+:::lang ur
+# اسپیکیڈ پمپکین اور سرنگوم اسٹوے ہیں۔
+
+اِس کے بعد اُس نے اُن سے پوچھا : ” کیا مَیں اِس بات کی قدر کرتا ہوں کہ مَیں اُن کے ساتھ کیسے رہ سکتا ہوں ؟ “
+
+## Instructions
+1. زیتون کے تیل کو درمیان میں گرم کرنے کے بعد ۱ منٹ تک گرم کِیا جاتا ہے ۔
+2. اِس کے بعد اُسے پکایا جاتا ہے ۔
+3. جب تک سرنگ اور پمپ‌کین نرم نہیں ہو جاتی ۔
+:::

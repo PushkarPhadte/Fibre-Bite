@@ -102,3 +102,39 @@ prepTimeEstimated: true
 3. उरलेले ऑलिव्ह तेल, सफरचंदाचा व्हिनेगर आणि डिझॉन मोहरी एकत्र फेटून हलके ड्रेसिंग तयार करा.
 4. बकव्हीट, भाजलेले ब्रसेल्स स्प्राउट्स आणि भोपळ्याच्या बिया एकत्र करा; त्यावर ड्रेसिंग घाला.
 :::
+
+:::lang en
+# Buckwheat and Roasted Brussels Sprouts Bowl
+
+Toasted buckwheat groats served with roasted Brussels sprouts, toasted pumpkin seeds, and apple cider vinaigrette.
+
+## Instructions
+1. Preheat the oven to 200 C; toss Brussels sprouts with half the olive oil on a baking sheet and roast for 22 minutes.
+2. Bring water to a boil in a saucepan, stir in buckwheat groats, and simmer covered for 15 minutes until tender and liquid is absorbed.
+3. Whisk remaining olive oil, apple cider vinegar, and Dijon mustard into a light dressing.
+4. Combine buckwheat, roasted Brussels sprouts, and pumpkin seeds, then drizzle with the dressing.
+:::
+
+:::lang bn
+# বাকওয়াত এবং প্যাডেল ব্রাসেলস স্প্রাউট
+
+বনজঙ্গলের পাতাগুলো খুব সুন্দর ।
+
+## Instructions
+1. ফলে, প্রচুর পরিমাণে ফল উৎপন্ন হয় ।
+2. সসে জল জলকে সসেজের মধ্যে সসেজে নিয়ে আসুন, শকুনে গরম গরম গরম গরমের মধ্যে ভেসে ওঠে এবং কোমল ও তরল নির্গত হয় ।
+3. ( মথি ২৪: ১৪; ২৮: ১৯, ২০; লূক ১২: ১ - ৩) কিন্তু, যিশু তাঁর শিষ্যদের বলেছিলেন: “তোমরা...
+4. এরপর তারা বুঝতে পারে যে, তারা আসলে কী করতে পারে ।
+:::
+
+:::lang ur
+# بکی بیٹی اور داخلے والے برسلز بول
+
+اِس کے بعد اُس نے اِن بیجوں کو اِستعمال کِیا ۔
+
+## Instructions
+1. زیتون کے تیل کے نصف حصے میں صرف زیتون کے تیل کو ۲۲ منٹ تک پکایا جاتا ہے ۔
+2. جب تک رحم اور پانی جذب نہ ہو جائے اُس وقت تک 15 منٹ کے اندر اندر اندر اندر پانی ڈالیں ۔
+3. زیتون کا تیل ، سیب کی سیڈر اور دنون کے دانے ہلکے لباس میں رہتے ہیں ۔
+4. اِس کے بعد اُس نے اپنے کپڑے دھوئے ۔
+:::

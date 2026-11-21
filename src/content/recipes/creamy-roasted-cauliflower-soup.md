@@ -87,3 +87,39 @@ prepTimeSource: 'https://cookieandkate.com/creamy-roasted-cauliflower-soup-recip
 3. सूपच्या पातेल्यात चिरलेला कांदा परता. नंतर भाजलेला फ्लॉवर आणि भाजलेल्या लसणाचा पिळून काढलेला गर घाला.
 4. भाज्यांचा रस्सा घालून १० मिनिटे मंद आचेवर शिजवा. नंतर मिश्रण पूर्णपणे गुळगुळीत आणि क्रीमी होईपर्यंत ब्लेंड करा.
 :::
+
+:::lang en
+# Creamy Roasted Cauliflower Soup
+
+A velvety, dairy-free blended soup made from oven-roasted cauliflower heads, garlic, and vegetable broth.
+
+## Instructions
+1. Toss cauliflower florets and unpeeled garlic cloves with olive oil and salt.
+2. Roast at 200°C (400°F) for 25 minutes until caramelized and tender.
+3. Sauté chopped onion in a soup pot, then add roasted cauliflower and squeezed roasted garlic.
+4. Pour in vegetable broth, simmer for 10 minutes, then blend until completely smooth and creamy.
+:::
+
+:::lang bn
+# ক্রিমি কুমীর ফুল
+
+একটি ভলভেটি, দুগ্ধবিহীন সুপ, চুলা ফুল মাথা, রসুন, রসুন এবং সবজি।
+
+## Instructions
+1. ফুল ফুল ফুল, রসুনের ফুল, জলপাই তেল এবং লবণে ভরা রসুনের দাগ।
+2. ২০০ ডিগ্রি সেলসিয়াস (৪০০ ডিগ্রি ফারেনহাইট) থেকে ২৫ মিনিটের জন্য কুমরান করা হয়েছে।
+3. সুপের পাত্রের মধ্যে শুটে কেটে, এরপর বরো ফুল এবং রসুনের গন্ধ বের করে।
+4. মাত্র ১০ মিনিটের জন্য সবজি, সিমমার, তারপর একদম মসৃণ আর ক্রিমি।
+:::
+
+:::lang ur
+# کریمائی نے کیولائف کی سوپ کو جلا دیا۔
+
+ایک چاول، دودھ کے بغیر ملانے والے صابن کو اونی کیف کے سرے، لہسن اور سبزی برات سے بنایا جاتا ہے۔
+
+## Instructions
+1. زیتون کے تیل اور نمک سے حاصل کئے جانے والے لہسن کی کاشت
+2. 200°C (400°F) پر داخل ہونے تک 25 منٹ کے لیے جب تک کارامالائزڈ اور مہربان نہ ہو۔
+3. صابن کے برتن میں سُرخ رنگ کا تیل ملا کر لہسن کو جلایا جاتا ہے ۔
+4. اِس کے بعد اُس نے اِسے اچھی طرح سے پکایا ۔
+:::

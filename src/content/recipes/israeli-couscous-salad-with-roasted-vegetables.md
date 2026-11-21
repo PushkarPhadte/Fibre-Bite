@@ -100,3 +100,39 @@ prepTimeEstimated: true
 3. एका भांड्यात भाजलेल्या भाज्या आणि कुसकुस एकत्र करा.
 4. उरलेले ऑलिव्ह ऑइल, लिंबाचा रस, पार्सली, मीठ आणि मिरी घालून सॅलडमध्ये मिसळा.
 :::
+
+:::lang en
+# Israeli Couscous Salad with Roasted Vegetables
+
+Pearl couscous tossed with oven-roasted zucchini, bell peppers, cherry tomatoes, and a herb-lemon vinaigrette.
+
+## Instructions
+1. Toss zucchini, bell pepper, and tomatoes in 1 tbsp olive oil; roast at 200°C for 20 minutes.
+2. Cook pearl couscous in boiling water for 8 minutes; drain.
+3. Combine roasted vegetables and couscous in a bowl.
+4. Dress with remaining olive oil, lemon juice, parsley, salt, and pepper.
+:::
+
+:::lang bn
+# ইজরায়েলি কুসকুস সালাদ সহ গামছারা
+
+চিরুনি, মরিচের মরিচ, চেরি টমেটো এবং একটি বিস্তীর্ণ ভিঁজিয়ে।
+
+## Instructions
+1. পিকেচনি, বেলের মরিচ এবং টমেটোর সসেজ; ২০ মিনিটের জন্য ২০০ পাউন্ডের তেল।
+2. রান্নার মুক্তাকে ৮ মিনিটের জন্য ফুটন্ত জলে শুকিয়ে যায়; জল নির্গত হয় ।
+3. এক বাটি পাত্রের মধ্যে কুমড়া এবং কুসকুস।
+4. টাটকা তেল, লেবুর জুস, পেনলি, লবণ আর মরিচের পোশাক।
+:::
+
+:::lang ur
+# اسرائیلی Couscous Salad with intered Vegatebles
+
+پرل کوسوکوس جن میں اوون-وپن زوچنی، بیل کیپر، چیریری ٹماٹر اور ایک سبزی مائل وغیرہ شامل ہیں۔
+
+## Instructions
+1. زیتون کے تیل میں استعمال ہونے والے تیل کا استعمال
+2. کوک موتی کوسکوس نے 8 منٹ تک گرم پانی میں تبدیل کر دیا ۔
+3. کومبین نے سبزیوں اور کوسکوس کو ایک پیالے میں پکایا۔
+4. زیتون کا تیل ، ٹماٹر کا رس ، نمک ، نمک اور پنیر کے ساتھ پہننا ۔
+:::

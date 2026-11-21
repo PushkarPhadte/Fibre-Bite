@@ -100,3 +100,42 @@ prepTimeEstimated: true
 4. वांगे उलटून त्यावर लेप पसरवा. लेपाला बुडबुडे येऊन तो किंचित सोनेरी होईपर्यंत 4 ते 5 मिनिटे ग्रिल करा किंवा ओव्हनमध्ये भाजा.
 5. वरून तीळ आणि पातळ चिरलेला कांदापात पेरा आणि गरम वाढा.
 :::
+
+:::lang en
+# Nasu Dengaku (Miso-Glazed Baked Eggplant)
+
+Halved eggplant roasted until creamy and glazed with a sweet-savoury miso topping and toasted sesame seeds.
+
+## Instructions
+1. Heat the oven to 220 C. Score the cut side of the eggplant in a crosshatch and brush with the oil.
+2. Roast cut side down for 20 minutes until very soft.
+3. Whisk the miso, jaggery, vinegar and water into a smooth paste.
+4. Turn the eggplant over, spread with the glaze and grill or roast for 4 to 5 minutes until bubbling and lightly browned.
+5. Scatter with sesame seeds and spring onion and serve hot.
+:::
+
+:::lang bn
+# নাসু ডেঙ্গাকু (মোসো-গাজলাদি এগপার্ট)
+
+হাল্ল্ড ডিম প্লমফট যতক্ষণ না ক্রিমি খাওয়া শুরু করে এবং তা মিষ্টি-আভোরি ভুলোপ এবং টোস্টিং বীজের সাথে মিশে যায়।
+
+## Instructions
+1. এরপর ডিমের টুকরোগুলো একটা ক্রুশের ওপর দিয়ে ও তেল দিয়ে ব্রাশ করুন ।
+2. খুব নরম না হওয়া পর্যন্ত কুমড়া ২০ মিনিট কেটে যাবে।
+3. ভুলটা, জাহেরী, ভিনেগার আর পানি খুব সহজে পেস্ট করা যায়।
+4. ডিমগুলো ওপরের দিকে মোড় নিন এবং চশমা ও গ্রিল দিয়ে ৪ থেকে ৫ মিনিটের মধ্যে ছড়িয়ে দিন ।
+5. বিচ্ছিন্ন হয়ে যাওয়া জুতার বীজ এবং বসন্ত এবং গরম পরিবেশন।
+:::
+
+:::lang ur
+# ناسو گنگاکو (Misso-Glazed Blazed Egg Cople)
+
+اِس کے بعد اُس نے اِس بات کا ذکر کِیا کہ اُس نے اُس کی بات مان لی ۔
+
+## Instructions
+1. اِس کے علاوہ اِس بات کا بھی خیال رکھا جاتا ہے کہ اِن میں سے کوئی بھی نہیں ۔
+2. انتہائی نرم تک 20 منٹ کے لیے کاٹ کر اندر داخل.
+3. وِسْمَا خَلَقَوْنَاهُمْ وَجَجَجْرَهُمْ وَجَجَجْرُونَ سانچہ:قرآن-سورہ 56 آیت 19۔۔۔*
+4. انڈے کو اوپر پھیر دو، گلے کے ساتھ پھیلے ہوئے اور 5 منٹ تک، یہاں تک کہ 4 سے 5 منٹ تک کہ اور ہلکا بھورے رنگ کے رنگ میں۔
+5. موسمِ‌گرما کے بیج اور موسمِ‌سرما کے ساتھ ساتھ گرم اور خدمت انجام دیتے ہیں ۔
+:::

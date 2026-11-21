@@ -91,3 +91,39 @@ prepTimeEstimated: true
 3. एका रुंद पॅनमधील पाण्याला हलकी उकळी आणा आणि अंडी 3 मिनिटे पोच करा.
 4. केल प्लेट्समध्ये वाटून घ्या, त्यावर अंडी ठेवा आणि शेवटी काळी मिरी घाला.
 :::
+
+:::lang en
+# Poached Eggs on Garlic Kale
+
+Soft poached eggs over garlicky kale and blistered cherry tomatoes with lemon.
+
+## Instructions
+1. Heat the olive oil and cook the garlic for 30 seconds, then add the tomatoes and cook until they begin to blister.
+2. Add the kale, salt and 2 tablespoons of water and cook for 3 minutes until wilted; finish with lemon juice.
+3. Bring a wide pan of water to a gentle simmer and poach the eggs for 3 minutes.
+4. Divide the kale between plates, top with the eggs and finish with black pepper.
+:::
+
+:::lang bn
+# কাস্তে
+
+রসুনকি কেলে আর লেবুর টমেটোর উপরে নরম ডিম।
+
+## Instructions
+1. জলপাই তেল এবং রসুন রান্না করে ৩০ সেকেন্ডের জন্য রসুন রান্না করা হয় ।
+2. লবণ, লবণ এবং ২ টেবিলের রস যোগ করুন ।
+3. এক কোমল সরল সিম নিয়ে আসো আর ডিমগুলো ৩ মিনিট ধরে নিয়ে আসো।
+4. প্লেটের মধ্যে কাটা কাটাটা, ডিম দিয়ে কালো মরিচ দিয়ে শেষ করা।
+:::
+
+:::lang ur
+# Garlic Kale پر Poched Eggs
+
+مونگ‌پھلی کی کلے سے بنے ہوئے انڈے اور ٹماٹروں کو اُبال دیا ۔
+
+## Instructions
+1. زیتون کے تیل کو صاف کریں اور ۳۰ سیکنڈ تک لہسن پکا لیں ۔
+2. اِس میں نمک ، نمک اور ۲ تختے شامل کئے گئے ہیں ۔
+3. پانی کا ایک وسیع پکوان تک لے آؤ اور انڈوں کو 3 منٹ کے لئے.
+4. پلیٹوں کے درمیان کیل کو ملا کر انڈوں سے اوپر رکھ کر سیاہ فاموں کو ختم کر دیں ۔
+:::

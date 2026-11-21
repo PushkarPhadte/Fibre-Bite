@@ -84,3 +84,36 @@ prepTimeEstimated: true
 2. कोरड्या कढईत मंद आचेवर चिरलेले बदाम आणि तीळ २ मिनिटे भाजा, त्यांना सुगंध येईपर्यंत.
 3. हिरव्या शेंगा वाढण्याच्या ताटात काढा, त्यावर ऑलिव्ह ऑइल आणि तांदळाचा व्हिनेगर शिंपडा, मग भाजलेले बदाम आणि तीळ वरून घाला.
 :::
+
+:::lang en
+# Steamed Green Beans with Sesame and Crushed Almonds
+
+Crisp-tender steamed green beans finished with toasted white sesame seeds, crushed almonds, and rice vinegar.
+
+## Instructions
+1. Steam trimmed green beans over boiling water for 5 to 6 minutes until bright green and tender-crisp.
+2. In a dry skillet over low heat, toast chopped almonds and sesame seeds for 2 minutes until fragrant.
+3. Transfer green beans to a serving dish, drizzle with olive oil and rice vinegar, and top with toasted almonds and sesame seeds.
+:::
+
+:::lang bn
+# সাহর সাথে স্টেমড গ্রিন বিন্স এবং তালাবদ্ধ আলমন্ড
+
+এগুলো তৈরি করা সবুজ শিম দিয়ে শেষ হয়েছে।
+
+## Instructions
+1. উজ্জ্বল সবুজ ও কোমল সবুজ শিম না পাওয়া পর্যন্ত ৫ থেকে ৬ মিনিট পর্যন্ত স্টেম সবুজ বিন পানি ফুটতে থাকে।
+2. অল্প পরিমাণে গরমের সময় শুকানোর পর, টোটাল আলমন্ড এবং সিরেল বীজের দুই মিনিট পর পর ।
+3. খাবারে সবুজ শিম, জলপাই তেল এবং চালের দ্রাক্ষালতার সাথে স্থানান্তর, এবং টোটাল আলমন্ড এবং কেকের বীজ।
+:::
+
+:::lang ur
+# سشمس کے ساتھ سبز بینس اور منسوخ شدہ المُدَّدَّبَّدَةًّا
+
+اِس کے بعد اُس نے اِن بیجوں کو اِستعمال کِیا ۔
+
+## Instructions
+1. سٹیم نے 5 سے 6 منٹ تک ہرے رنگ کے سبز دانوں کو گرم پانی کے اوپر رکھا یہاں تک کہ چمکدار سبز اور نرم کراسپ۔
+2. اِس کی وجہ یہ ہے کہ اِن میں سے زیادہ گرمی کم ہوتی ہے ۔
+3. سبز دانوں کو ایک خدمت‌شُدہ کھانے ، زیتون کے تیل اور چاول کے برتنوں میں منتقل کرتے ہیں ۔
+:::

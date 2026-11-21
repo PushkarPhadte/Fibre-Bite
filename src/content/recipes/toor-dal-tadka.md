@@ -105,3 +105,39 @@ prepTimeEstimated: true
 3. तेल गरम करा. जिरे तडतडू द्या, लसूण आणि कांदा सोनेरी होईपर्यंत परता, नंतर तिखट घालून ही फोडणी डाळीवर ओता.
 4. शेवटी लिंबाचा रस आणि कोथिंबीर घाला.
 :::
+
+:::lang en
+# Toor Dal Tadka
+
+Yellow pigeon pea dal finished with a cumin-garlic tadka.
+
+## Instructions
+1. Cook the dal with turmeric, tomatoes and water until soft, about 25 minutes, and mash lightly.
+2. Stir in the salt.
+3. Heat the oil, splutter the cumin, brown the garlic and onion, add the chilli powder and pour over the dal.
+4. Finish with lemon juice and coriander.
+:::
+
+:::lang bn
+# টর ডাল তাদাকা
+
+ইয়োলো শুকরের প্যান্টি শেষ হয়ে গেছে।
+
+## Instructions
+1. টরমেরিক, টমেটো এবং জলকে রান্না করুন ।
+2. লবণে সাদা।
+3. তেল ঢালে, বিষাক্ত রসুন আর লণ্ঠন, আর ঠাণ্ডা পাউডার যোগ করে।
+4. লেবুর রস দিয়ে শেষ।
+:::
+
+:::lang ur
+# تنویر دال تادکا
+
+Yellow Boleneon Paya Dal ختم ہو گیا جس میں ایک sible-garlic Tadka.
+
+## Instructions
+1. اگر آپ نرم ، تقریباً ۲۵ منٹ اور موم‌بتیاں استعمال کرتے ہیں تو آپ اِس سے لطف اُٹھا سکتے ہیں ۔
+2. نمک میں نمک ۔
+3. تیل کو صاف کرنے کے لئے گندم ، مکئی اور اون کو صاف کرنے کی کوشش کرتے ہیں ۔
+4. مونگ‌پھلی کے جوس اور کریانڈر سے حاصل کئے جاتے ہیں ۔
+:::

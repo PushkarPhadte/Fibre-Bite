@@ -91,3 +91,39 @@ prepTimeEstimated: true
 3. उरलेले तेल, पाप्रिका, उरलेले मीठ आणि लिंबाचा रस चिकनला चोळून लावा.
 4. 200 °C तापमानाला 25 मिनिटे बेक करा, चिकन पूर्ण शिजेपर्यंत. थोडा वेळ तसेच ठेवून मग कापा.
 :::
+
+:::lang en
+# Spinach Mushroom Stuffed Chicken Breast
+
+Chicken breast pockets stuffed with sautéed spinach and mushrooms, baked until juicy.
+
+## Instructions
+1. Cook the mushrooms and garlic in half the oil for 5 minutes, add the spinach until wilted and season with a little salt and pepper.
+2. Open the chicken breasts, spoon in the filling and close; secure with toothpicks.
+3. Rub with the remaining oil, paprika, remaining salt and lemon juice.
+4. Bake at 200 °C for 25 minutes until cooked through; rest and slice.
+:::
+
+:::lang bn
+# ঘূর্ণ্যমান রেশম
+
+মুরগির বুকের বুকের টুকরোগুলো জমচের আগে পর্যন্ত তৈরি ছিল ।
+
+## Instructions
+1. পাঁচ মিনিট ধরে তেলে মাশরুম এবং রসুন রান্না করা হয়।
+2. মুরগির চামড়া খুলে, চামচ ভর্তি এবং বন্ধ করে দিন; দাঁত দিয়ে সুরক্ষিত রাখুন ।
+3. অবশিষ্ট তেল, পাম্পিকা, লবণ আর লেবুর জুসের সাথে নিয়ে যাও।
+4. ২৫ মিনিটের জন্য বেক, রান্নার প্রক্রিয়া শেষ না হওয়া পর্যন্ত ২৫ মিনিট ধরে চলে।
+:::
+
+:::lang ur
+# سُناخ مُشّر سَفَد چِکَنَّرَ
+
+یہاں تک کہ اُسے پکایا جاتا تھا ۔
+
+## Instructions
+1. اِس تیل کو ۵ منٹ کے لئے استعمال کِیا جاتا ہے ۔
+2. شہد کی مکھیوں کے سینے کھول کر رکھیں ۔
+3. باقی تیل کے ساتھ پَرکا ، نمک اور ٹماٹر جوس باقی رہ جاتے ہیں ۔
+4. اِس لئے اُس نے اُن سے کہا : ” مَیں اِس بات کا یقین کر لوں گا کہ مَیں اُن کی مدد کروں گا ۔ “
+:::

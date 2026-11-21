@@ -99,3 +99,39 @@ prepTimeEstimated: true
 3. टर्की आणि मीठ घाला. कीमा मोकळा करत ८ मिनिटे शिजवा.
 4. मटार आणि १०० मिली पाणी घालून ८ मिनिटे मंद आचेवर शिजवा. शेवटी गरम मसाला आणि कोथिंबीर घाला.
 :::
+
+:::lang en
+# Turkey Keema Matar
+
+Lean minced turkey cooked with green peas in an Indian onion-tomato masala.
+
+## Instructions
+1. Heat the oil and cook the onion, ginger and garlic until golden.
+2. Add the spices and tomato and cook for 5 minutes.
+3. Add the turkey and salt and cook for 8 minutes, breaking it up.
+4. Add the peas and 100 ml water, simmer for 8 minutes and finish with garam masala and coriander.
+:::
+
+:::lang bn
+# তুরস্ক
+
+লেয়ান মিরাকি ভারতের একটি ভারতীয়-টমটো মাসালাতে সবুজ মটরশুঁটি রান্না করেছে।
+
+## Instructions
+1. তেল আর লন্ড্রি রান্না করে সোনার আগ পর্যন্ত।
+2. মসলা এবং টমেটো যোগ করুন ৫ মিনিট ধরে।
+3. ট্রাকি আর লবণ যোগ করো ৮ মিনিটের জন্য রান্না করো।
+4. শ্যাম্পু এবং ১০০ মিটার জল যোগ করুন, যা ৮ মিনিট ধরে সিমমারের জন্য উপযুক্ত এবং শেষ হয়ে যায় ।
+:::
+
+:::lang ur
+# ترکی کییما ماتر
+
+لین منٹو ترکی نے ایک ہندو اونیون-ٹوماتو ماسالا میں ہری پور کے ساتھ پکایا۔
+
+## Instructions
+1. تیل کو صاف کریں اور سونے تک اُون ، آمیزش اور لہسن پکا لیں۔
+2. ٹماٹر اور ٹماٹر شامل کرکے 5 منٹ تک پکایا جاتا ہے۔
+3. ترکی اور نمک کو ملا کر 8 منٹ تک پکایا، اسے توڑنے سے۔
+4. پشاور اور 100 ملی میٹر پانی کو ملا کر 8 منٹ تک جموں و کشمیر سے فارغ التحصیل ہوتے ہیں۔
+:::

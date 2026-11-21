@@ -114,3 +114,42 @@ prepTimeEstimated: true
 4. टोफू अलगद घालून 5 मिनिटे मंद आचेवर शिजवा. मग कॉर्नस्टार्च 50 मिली थंड पाण्यात कालवून घट्टपणा आणण्यासाठी त्यात मिसळा.
 5. काळी मिरी आणि पात कांदा घालून पूर्ण करा. ब्राउन राइससोबत वाढा.
 :::
+
+:::lang en
+# Light Mapo Tofu with Mushrooms
+
+Sichuan-style silken-textured tofu in a chilli and garlic sauce, bulked with mushrooms and made with far less oil and salt than the restaurant version.
+
+## Instructions
+1. Blanch the tofu cubes in hot salted water for 2 minutes, then drain gently.
+2. Heat the oil and fry the garlic, ginger and chilli for 30 seconds, then add the mushrooms and cook for 5 minutes until they release their liquid.
+3. Stir in the miso, tamari and 200 ml of water and bring to a simmer.
+4. Slide in the tofu and cook gently for 5 minutes, then stir the cornstarch with 50 ml of cold water and add it to thicken.
+5. Finish with black pepper and spring onion. Serve over brown rice.
+:::
+
+:::lang bn
+# মাসশরুম থেকে লাইট ম্যাপো টোফু
+
+সিচুয়ান স্টাইলে রেশমি আর রসুন সস দিয়ে টফু বানানো হয়েছে, মাশরুম আর রেস্টুরেন্টের সংস্করণের চেয়ে কম তেল আর লবণ দিয়ে তৈরি।
+
+## Instructions
+1. ২ মিনিটের জন্য উষ্ণ লবণাক্ত পানিতে ব্লাঙ্কিত টফু কিউব, তারপর ধীরে ডুবে যায়।
+2. তেল আর রসুন, ভাটা আর ঠাণ্ডা ৩০ সেকেন্ডের জন্য, তারপর মাশরুম আর রান্নার জন্য ৫ মিনিট করে পানি ছাড়া।
+3. ভুলের মধ্যে, তামা আর ২০০ টুকরো পানি নিয়ে আসে।
+4. টফুতে গিয়ে ৫ মিনিট কোমলভাবে রান্না করে তারপর ৫০ মিটার ঠাণ্ডা পানি নিয়ে সেটাকে ঘন করে।
+5. কালো মরিচ এবং বসন্ত দিয়ে শেষ। বাদামি ভাতের উপর নজর রাখো।
+:::
+
+:::lang ur
+# ہلکے میپو توفو کے ساتھ
+
+سیچوان-سائکل ریشمی ریشمی دھاگے کو ایک زہریلی اور لہسن میں مبتلا کیا گیا، جس کی وجہ سے برتنوں سے بھر گئے اور ریستوران ورژن سے بہت کم تیل اور نمک تیار کیا۔
+
+## Instructions
+1. دو منٹ تک گرم نمکین پانی میں کیچڑ کے قطرے پھر نرم ہو جاتے ہیں ۔
+2. اِس کے بعد اِس میں اُس کے معدے کو پکایا جاتا ہے ۔
+3. اس غلط‌فہمی میں مبتلا ہونے کی وجہ سے ، دمری اور 200 ملی‌میٹر پانی میں کمی واقع ہو رہی ہے ۔
+4. اسکے بعد ، مکئی کو ٹھنڈے پانی سے 50 ملی میٹر تک گرم کرکے اس میں مزید اضافہ کرتے ہیں ۔
+5. (شرابِ طہور کے) چھلکتے ہوئے جام۔ بھورے چاول سے زیادہ خدمت کریں ۔
+:::

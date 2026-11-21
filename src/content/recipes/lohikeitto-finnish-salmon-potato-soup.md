@@ -103,3 +103,42 @@ prepTimeEstimated: true
 4. सॅल्मनचे चौकोनी तुकडे घालून ते अपारदर्शक होईपर्यंत, 4 ते 5 मिनिटे शिजवा.
 5. शेपू आणि मिरी मिसळून लगेच वाढा.
 :::
+
+:::lang en
+# Lohikeitto (Light Finnish Salmon and Potato Soup)
+
+A comforting Nordic soup of salmon, potato and carrot in a lightly creamy milk broth scented with dill.
+
+## Instructions
+1. Soften the onion in the oil for 4 minutes, then add the potatoes, carrot, water and salt.
+2. Simmer for 12 to 15 minutes until the vegetables are almost tender.
+3. Pour in the milk and bring back to a gentle simmer (do not boil).
+4. Add the salmon cubes and cook for 4 to 5 minutes until just opaque.
+5. Stir in the dill and pepper and serve straight away.
+:::
+
+:::lang bn
+# Lhyikitto (লিওটা ফিনিশ স্যালমন এবং পটাটো সোপি)
+
+সিয়ামমন, আলু আর কারিটের চমৎকার সুপ, হালকা ক্রিমের দুধের গন্ধে ভরপুর।
+
+## Instructions
+1. ৪ মিনিটের তেলে তেলে নরম করে তারপর আলু, গাজর, পানি আর লবণ যোগ করে।
+2. সবজির ওজন ১২ থেকে ১৫ মিনিট পর্যন্ত কম।
+3. দুধে পোতাশ্রয় এবং একটি কোমল সরল সরলক ফিরিয়ে আনতে হবে (তালে সিদ্ধ নয়)।
+4. সালমন কিউব যোগ করো এবং 4 মিনিটের জন্য রান্না করো.
+5. ডাইল আর মরিচ নিয়ে সোজা চলে যাও।
+:::
+
+:::lang ur
+# لوہیکیتو (انگریزی: Lohikeitto) (چینی فن لینڈ اور پوٹاتو سواپ) ہے۔
+
+ایک تسلی‌بخش Nordic tadium of Monicous, and sious and sious in vill کے ذریعے دودھ برتھ کے ذریعے حاصل کِیا جاتا ہے ۔
+
+## Instructions
+1. چار منٹ تک تیل میں موجود اون کو ملا کر رکھ دیں، اس کے بعد چاول، گندھک، پانی اور نمک شامل کریں۔
+2. سمر 12 سے 15 منٹ تک جب تک سبزیوں کے تقریباً نرم نہ ہو۔
+3. دودھ میں پکا کر ایک نرم‌مزاج شخص کو واپس لایا جاتا ہے ۔
+4. صرف اوپیک تک 4 سے 5 منٹ کے لئے کیک شامل اور پکایا.
+5. لہٰذا اِس کے ساتھ‌ساتھ اُن کی مدد کریں ۔
+:::

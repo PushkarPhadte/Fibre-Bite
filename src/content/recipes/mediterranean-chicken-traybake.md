@@ -85,3 +85,36 @@ prepTimeEstimated: true
 2. चिकनला उरलेले तेल, मीठ आणि लिंबाचा रस चोळून लावा आणि भाज्यांमध्ये ठेवा.
 3. चिकनच्या आतील तापमान 74 °C होईपर्यंत 25 ते 30 मिनिटे भाजा.
 :::
+
+:::lang en
+# Mediterranean Chicken Traybake
+
+Chicken breast roasted on a tray with zucchini, cherry tomatoes and oregano.
+
+## Instructions
+1. Heat the oven to 210 °C. Toss the vegetables with half the oil, oregano and half the salt on a tray.
+2. Rub the chicken with the remaining oil, salt and the lemon juice and nestle it among the vegetables.
+3. Roast for 25 to 30 minutes until the chicken reaches 74 °C inside.
+:::
+
+:::lang bn
+# ভূমধ্যসাগরীয় মুরগি ট্রেব
+
+মুরগির বুকের কবচনি, চেরি টমেটো এবং ইগানো ট্রেতে জ্বলছে।
+
+## Instructions
+1. চুলার চুলে ২১০ ডিগ্রি সেলসিয়াস। অর্ধেক তেল, অথবা জিগানো আর ট্রেতে লবণের অর্ধেক।
+2. অবশিষ্ট তেল, লবণ এবং লেবুর জুস দিয়ে মুরগির মাংসকে পরিষ্কার করুন ।
+3. মুরগির সংখ্যা ৭৪৪ ডিগ্রি সেলসিয়াস পর্যন্ত ২৫ থেকে ৩০ মিনিট পর্যন্ত।
+:::
+
+:::lang ur
+# بحیرۂروم
+
+چیرکسی ، چیرری ٹماٹروں اور اوی‌گانو کے ساتھ ٹرکوں پر پکایا جاتا ہے ۔
+
+## Instructions
+1. ہیپاٹائٹس بی سے 210 °C تک۔ سبزیوں کو نیم تیل سے حاصل ہونے والے تیل کے ساتھ اور آدھے نمک کو ایک ٹرے پر رکھتے ہیں۔
+2. مرغی کو باقی تیل ، نمک اور ٹماٹر کے جوتے کیساتھ ملا کر سبزیوں میں ملا دیں ۔
+3. 25 سے 30 منٹ تک جب تک مرغی 74 °C تک پہنچ جاتی ہے۔
+:::

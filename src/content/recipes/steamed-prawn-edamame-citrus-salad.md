@@ -95,3 +95,36 @@ prepTimeEstimated: true
 2. लिंबाचा रस आणि ऑलिव्ह तेल एकत्र फेटून घ्या.
 3. वाफवलेली कोळंबी आणि एडामामे, चिरलेला कोबी व कोथिंबीर यांत लिंबाचे मिश्रण घालून हलकेच एकत्र करा. थंड किंवा खोलीच्या तापमानाला वाढा.
 :::
+
+:::lang en
+# Steamed Prawn and Edamame Citrus Salad
+
+Lean steamed prawns tossed with shelled edamame, shredded cabbage, lime juice, and fresh cilantro.
+
+## Instructions
+1. Steam prawns and edamame over boiling water for 4 to 5 minutes until prawns turn pink and opaque; cool slightly.
+2. Whisk lime juice and olive oil together.
+3. Toss steamed prawns, edamame, shredded cabbage, and cilantro with the lime dressing and serve chilled or room temperature.
+:::
+
+:::lang bn
+# স্টেমনাম সাইতোরাস সালাদ
+
+কিন্তু, আমি বুঝতে পেরেছিলাম যে, আমি এখনও বেঁচে আছি ।
+
+## Instructions
+1. চার মিনিটের জন্য ফুটন্ত জল ফুটন্ত জলে ফুটতে শুরু করে ।
+2. হুইস্কি চুং জুস আর জলপাই তেল একসাথে।
+3. এদের মধ্যে প্রায় ২,০০০ জন মারা যায় ।
+:::
+
+:::lang ur
+# سٹیم پرون اور ایڈاما سیترس سالاڈ
+
+لیان نے پروڈیوس کِیا ۔
+
+## Instructions
+1. جب تک پروٹون گلابی اور اُوپر نہیں اُبال جاتے ، اُس وقت تک اِس کا پانی ٹھنڈا نہیں ہوتا ۔
+2. اِس کے علاوہ اِس میں تیل اور زیتون کا تیل بھی شامل ہے ۔
+3. اِس کی وجہ یہ ہے کہ اِن میں سے زیادہ‌تر لوگ اِس بات کی قدر کرتے ہیں کہ اُنہیں اِس بات کا احساس نہیں ہوتا ۔
+:::

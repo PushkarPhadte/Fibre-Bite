@@ -83,3 +83,36 @@ prepTimeEstimated: true
 2. रताळ्याच्या गोल कापांना ऑलिव्ह तेल लावा, जिरे भुरभुरा आणि मऊ व किंचित तपकिरी होईपर्यंत 25 मिनिटे बेक करा.
 3. काळे बीन्स लिंबाच्या रसासोबत गरम करा. ते बेक केलेल्या रताळ्याच्या कापांवर चमच्याने घाला आणि कोथिंबिरीने सजवा.
 :::
+
+:::lang en
+# Baked Sweet Potato Rounds with Black Beans and Cilantro
+
+Thick sweet potato slices oven-baked until tender and topped with seasoned black beans, lime, and cilantro.
+
+## Instructions
+1. Preheat the oven to 205 C and line a baking sheet with parchment paper.
+2. Brush sweet potato rounds with olive oil, sprinkle with cumin, and bake for 25 minutes until tender and lightly browned.
+3. Warm black beans with lime juice, spoon onto the baked sweet potato rounds, and garnish with cilantro.
+:::
+
+:::lang bn
+# কালো বিন্স এবং সিলান্ট্রোর মাধ্যমে বানানো মিষ্টি পোটটো
+
+নরম মিষ্টি আলু রান্নার চুলে ঢাকা যতক্ষণ না কোমল আর ঘন কালো শিম, চুন ও সিলানরো দিয়ে ভরা।
+
+## Instructions
+1. এটা দিয়ে কাগজের কাগজের সাথে লিখে দাও.
+2. টমেটোর সাথে জলপাই তেল, জিরিয়ে এবং ২৫ মিনিটের জন্য কেক।
+3. মিষ্টি আলু রাউন্ডে এবং সিলেক্টোর গায়ের কাপ দিয়ে উষ্ণ কালো শিম।
+:::
+
+:::lang ur
+# بلیک بیانس اور سیلانترو کے ساتھ بُک‌بُک پوٹاٹو راؤنڈز
+
+یہاں تک کہ نرم‌وغریب طور پر تیار کئے جاتے ہیں ۔
+
+## Instructions
+1. اِس کے علاوہ اُس نے کاغذ پر کاغذ کے ٹکڑے بنائے ۔
+2. جب تک نرم‌مزاجی نہ ہو ، زیتون کے تیل سے تیار کی جاتی ہے ۔
+3. اِس کے بعد اُس نے اِس بات پر زور دیا کہ اُس نے اُس کا کھانا کھایا ہے ۔
+:::

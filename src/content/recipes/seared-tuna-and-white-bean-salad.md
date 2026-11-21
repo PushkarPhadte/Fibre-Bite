@@ -96,3 +96,36 @@ prepTimeEstimated: true
 2. बीन्स, टोमॅटो, कांदा आणि पार्सलीमध्ये लिंबाचा रस, ऑलिव्ह ऑइल आणि उरलेले मीठ घालून एकत्र करा.
 3. वर ट्यून्याचे काप ठेवा आणि वाढा.
 :::
+
+:::lang en
+# Seared Tuna and White Bean Salad
+
+Seared fresh tuna over cannellini beans, cherry tomatoes and parsley in lemon-olive oil dressing.
+
+## Instructions
+1. Season the tuna with pepper and a pinch of the salt and sear in a hot dry non-stick pan for 90 seconds per side; rest, then slice.
+2. Toss the beans, tomatoes, onion and parsley with the lemon juice, olive oil and remaining salt.
+3. Top with the sliced tuna and serve.
+:::
+
+:::lang bn
+# সীদ তুনা এবং হোয়াইট বিন সালাদ
+
+লবণাক্ত তেলের পোষাক পরে আখ, চেরি টমেটো আর প্যাপিলি।
+
+## Instructions
+1. সন্ধ্যেয় মরিচ এবং লবণাক্ত লবণ এবং সমুদ্রের চিরনৈমিত্তিক প্যানগুলোতে ৯০ সেকেন্ডের জন্য শুকনা থাকে; বিশ্রামের পর টুকরো হয়ে যায়।
+2. নারিকেল, টমেটো, লোশন এবং পারলি, লেবুর জুস, জলপাই তেল এবং অবশিষ্ট লবণ ।
+3. সব শেষ.
+:::
+
+:::lang ur
+# بحریہ ٹونا اور سفید بانی سالالد
+
+اِس کے بعد اُس نے اِس بات کا ذکر کِیا کہ اُس نے اِس بات کو تسلیم کِیا کہ اُس نے اُس کی مدد کی ہے ۔
+
+## Instructions
+1. ٹنا کو آلو سے ملا کر ایک گرم خشک خشک غیر مُنہ والے پین میں 90 سیکنڈ کے لئے، آرام کریں.
+2. ٹماٹروں ، ٹماٹروں ، اُون اور ٹماٹروں کے جوس ، زیتون کا تیل اور نمک باقی بچتا ہے ۔
+3. اِس کے بعد اُنہوں نے اُن سے کہا : ” مَیں آپ سے بات کرنا چاہتا ہوں ۔ “
+:::

@@ -88,3 +88,39 @@ prepTimeEstimated: true
 3. ट्राउटचे तुकडे बेकिंग शीटवर ठेवा, वरून मोहरी-हर्ब्सचे मिश्रण पसरवा आणि माशाचा आतील भाग अपारदर्शक होईपर्यंत 12 ते 15 मिनिटे बेक करा.
 4. ताज्या लिंबाच्या फोडींसोबत वाढा.
 :::
+
+:::lang en
+# Baked Trout with Mustard Herb Crust
+
+Rainbow trout fillets topped with whole-grain mustard, chopped parsley, and thyme, baked until tender.
+
+## Instructions
+1. Preheat the oven to 195 C and line a baking sheet with parchment paper.
+2. Mix whole-grain mustard, parsley, thyme, and olive oil in a small bowl.
+3. Place trout fillets on the baking sheet, spread the herb mustard mixture on top, and bake for 12 to 15 minutes until opaque.
+4. Serve with fresh lemon wedges.
+:::
+
+:::lang bn
+# Bard Hard Hard Hard Helps সঙ্গে Buted
+
+রেইনবোগ্রাট পুরো কষে ভরা, পাপড়ি দিয়ে, প্যারসলি, আর তোমার চামড়া দিয়ে তৈরি, যতক্ষণ না টর্চার পর্যন্ত।
+
+## Instructions
+1. একটা কাগজ দিয়ে লাইন করে ১৯৫ সি-তে লাইন দাও।
+2. ছোট এক বাটি বাটি তেলের তেল, পেন্টি, পেন্লি, আর জলপাই তেল।
+3. প্রথমে এটাকে একটা পাত্রের মধ্যে রাখা হতো ।
+4. তাজা লেবুর সাথে কাজ করো.
+:::
+
+:::lang ur
+# موت کے گھاٹ
+
+بارشوں کی وجہ سے اُس کے جسم میں بہت سی تبدیلیاں آتی ہیں ۔
+
+## Instructions
+1. اِس کے علاوہ اُنہوں نے ایک کاغذ بھی بنایا ۔
+2. ایک چھوٹے سے برتن میں مکئی کے پورے دانے، کیلے، ہیرے اور زیتون کا تیل۔
+3. اِس کے بعد اُس نے اِسے اُوپر سے رکھ دیا ۔
+4. تازہ ٹماٹروں کیساتھ خدمت کریں ۔
+:::

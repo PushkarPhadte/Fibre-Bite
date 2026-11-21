@@ -134,3 +134,42 @@ prepTimeEstimated: true
 4. हिरव्या शेंगा आणि झुकीनी घालून त्या किंचित मऊ होईपर्यंत 5 मिनिटे शिजवा.
 5. तमारी, मीठ आणि लिंबाचा रस घालून चव जुळवा. तुळस मिसळा आणि ब्राउन राइससोबत वाढा.
 :::
+
+:::lang en
+# Thai Green Curry with Chicken and Vegetables
+
+A fresh herb-based green curry paste simmered with chicken breast, green beans and zucchini in a light coconut broth.
+
+## Instructions
+1. Blend the green chillies, lemongrass, ginger, garlic, coriander leaves, cumin, coriander powder and a splash of water into a smooth paste.
+2. Fry the paste in the oil for 2 minutes until fragrant, then add the coconut milk and water and bring to a simmer.
+3. Add the chicken, eggplant and lime leaves and cook for 8 minutes.
+4. Add the green beans and zucchini and cook for 5 minutes until just tender.
+5. Season with tamari, salt and lime juice, stir in the basil and serve with brown rice.
+:::
+
+:::lang bn
+# থাই গ্রীন কারি মুরগি আর নিরামিষী
+
+হালকা নারিকেল ব্রোথের মাঝে সবুজ খাবারদানি, সবুজ শিম, সবুজ শিম, সবুজ শিম এবং জিকুনি।
+
+## Instructions
+1. ঘন সবুজ ঠাণ্ডা, লেবু, রসুন, রসুন, রসুন পাতা, হরিয়ারে পাতা, কোরিয়ান্ডার পাউডার এবং একটি মসৃণ পেস্ট জলের ফোঁটা।
+2. দুই মিনিটের জন্য তেলে পেস্টি করুন, তারপরে নারিকেলের দুধ এবং পানি যোগ করুন এবং একটি চিরকুট নিয়ে আসেন।
+3. মুরগি, ডিমপলার পাতা এবং ৮ মিনিট ধরে রান্না করুন ।
+4. শুধু কোমল না হওয়া পর্যন্ত সবুজ শিম এবং জুচিনি এবং ৫ মিনিট রান্না করুন।
+5. তামা, লবণ এবং লাইম জুসের সঙ্গে সিসল এবং বাদামি চালের সঙ্গে সিকির সঙ্গে সিসিং করুন ।
+:::
+
+:::lang ur
+# تھائی گرین کیوری نے چیکن اور ویگیٹبلز کے ساتھ مل کر
+
+ایک تازہ‌ترین سبزی‌دار سبز رنگ کا پودا ہلکے ناریل میں مرغی کے سینے ، سبز دانوں اور ذوقینی سے تیار کِیا جاتا تھا ۔
+
+## Instructions
+1. اِس کی ایک وجہ تو یہ ہے کہ اِن میں سے زیادہ‌تر لوگ اِس کی وجہ سے اِس کی پیداوار میں اضافہ کرتے ہیں ۔
+2. اِس کے بعد ناریل کا دودھ اور پانی ملا کر اِسے خشک کر دیتا ہے ۔
+3. مرغی کو ملا کر انڈے اور آلو کے پتے اور ۸ منٹ تک پکایا جاتا ہے ۔
+4. سبز دانوں اور ذوقین کو شامل کریں اور 5 منٹ تک صرف نرمی سے کھانا کھائیں۔
+5. اِس کی وجہ یہ ہے کہ اِن میں سے زیادہ‌تر لوگ اِس بات کی قدر کرتے ہیں کہ اُن میں سے زیادہ‌تر اِس کا ذائقہ کم ہو جاتا ہے ۔
+:::

@@ -121,3 +121,39 @@ prepTimeEstimated: true
 3. कांदा, बटाटा, मटार, मिरची, हळद आणि मीठ घाला. झाकण ठेवून मध्यम-मंद आचेवर शिजवा; मध्ये मध्ये ढवळा, बटाटा मऊ होईपर्यंत.
 4. मऊ झालेले पोहे अलगद मिसळून 3 ते 4 मिनिटे मंद आचेवर गरम करा. गॅस बंद करून लिंबाचा रस आणि कोथिंबीर घाला; गरम वाढा.
 :::
+
+:::lang en
+# Vegetable Poha
+
+A light Maharashtrian breakfast of flattened rice with peas, turmeric, peanuts, and fresh lime.
+
+## Instructions
+1. Rinse the poha briefly in a sieve, drain well, and leave it to soften for 8 minutes. Fluff with a fork.
+2. Heat the oil in a wide pan. Add mustard and cumin seeds; when they crackle, stir in the peanuts and cook until lightly toasted.
+3. Add the onion, potato, peas, chilli, turmeric, and salt. Cover and cook over medium-low heat, stirring occasionally, until the potato is tender.
+4. Fold in the softened poha and warm gently for 3 to 4 minutes. Turn off the heat, add lemon juice and cilantro, and serve warm.
+:::
+
+:::lang bn
+# নিরেট পোহা
+
+একটা হালকা মহারাষ্ট্রের সকালের নাস্তা, যা ডাল, টারমরিচ, বাদাম এবং তাজা চুন দিয়ে ঢাকা চালের তৈরি।
+
+## Instructions
+1. পোহাকে অল্প সময়ের জন্য সিভি, ড্রেভারে করে ৮ মিনিটের জন্য সহজ করে দেয়। কাঁটাচামচ দিয়ে মারা।
+2. পুরো প্যানে তেল ঢালে। প্রথম ঋতুস্রাব ও বীজ যোগ করুন ।
+3. আপনি কি মনে করতে পারেন? আলু যেন কোমল না হয়।
+4. নরম পোহা এবং কোমলভাবে ৩ থেকে ৪ মিনিটের জন্য। গরম বন্ধ করুন, লেবুর রস যোগ করুন এবং গরম করুন ।
+:::
+
+:::lang ur
+# قابلِ‌رسائی پوہا
+
+ایک ہلکے مہاراشٹر میں چاول ، ترکی ، مونگ‌پھلی اور تازہ مونگ‌پھلی کیساتھ پکایا جاتا تھا ۔
+
+## Instructions
+1. ایک سیزن میں ، پوہا مختصراً ، اچھی طرح حاصل کرکے اسے 8 منٹ تک نرم کرنے کیلئے چھوڑ دیتا ہے ۔ ایک چوک سے منسلک.
+2. تیل کو وسیع پن میں رکھنا ۔ اُس وقت تک مونگ‌پھلی میں تبدیل ہو جاتی ہے ۔
+3. اِس میں اُون ، کُل‌وقتی خدمت کرنے والے ، پَر ، لُوٹ ، تُو اور نمک شامل کریں ۔ درمیانے درجہ حرارت پر ڈھانپ کر رکھ دیں، وقتاً فوقتاً آگے بڑھ جاتا ہے، یہاں تک کہ اسپنج نرم ہو جاتا ہے۔
+4. حلیمہ پوہا اور گرم ہوکر 3 سے 4 منٹ تک نرم ہو گئے۔ اِس کے علاوہ اِس کے ساتھ ساتھ اُس کا ذائقہ بھی ختم ہو جاتا ہے ۔
+:::

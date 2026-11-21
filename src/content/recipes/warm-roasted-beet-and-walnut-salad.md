@@ -88,3 +88,39 @@ nutrition:
 3. वरून भाजलेले अक्रोड आणि कुस्करलेले शेळीचे चीज भुरभुरा.
 4. ऑलिव्ह ऑइल आणि बाल्सॅमिक व्हिनेगर घाला, नंतर मीठ भुरभुरा.
 :::
+
+:::lang en
+# Warm Roasted Beet and Walnut Salad
+
+Warm oven-roasted beet cubes tossed with toasted walnuts, arugula, goat cheese, and balsamic vinaigrette.
+
+## Instructions
+1. Toss beet cubes in 1 tsp oil and roast at 200°C for 30 minutes.
+2. Arrange arugula on a platter and top with warm roasted beets.
+3. Sprinkle toasted walnuts and crumbled goat cheese.
+4. Drizzle olive oil, balsamic vinegar, and salt.
+:::
+
+:::lang bn
+# গরম ঝোঁট ও ওয়ালনা সালাদান
+
+উষ্ণ চুলে ভরা ঘন ঘন ঘন ঘন ঘন ঘন ঘন ঘন ঘন ঘন ঘন ঘন ঘন ঘন ঘন ঘন ঘন ঘন ঘন ঘন ঘন ঘন ঘন ঘন ঘন ঘন ঘন ঘন ঘন ঘন ঘন ঘন ঘন ঘন ঘন ঘন ঘন ঘন ঘন ঘন তৈরি করে ।
+
+## Instructions
+1. ১ টি পিস তেলে টস এবং ৩০ মিনিটের জন্য ২০০ ডিগ্রি সেলসিয়াসে টস কাটা।
+2. পেটারের উপর আর উপরে গরম গোসলের ব্যবস্থা করো।
+3. বাদামের বাদামের পনিরের মাংস খেয়ে নষ্ট হয়ে গেছে।
+4. হালকা জলপাই তেল, ভেষজ নির্যাস, লবণ।
+:::
+
+:::lang ur
+# گرم گرم گرم بیت اور والٹنٹ سالد
+
+Warmwave-Cheet bebes by Tuassted walnuts, aruguula, Baycious, and siotic Vinagrette.
+
+## Instructions
+1. توس بیٹ کیوب 1 ٹیسپ تیل میں اور 30 منٹ تک 200°C پر پکایا جاتا ہے۔
+2. اُس نے کہا : ” مَیں اِس بات کی قدر کرتا ہوں کہ مَیں اُس کی بات مانتا ہوں ۔ “
+3. اِس کی وجہ یہ تھی کہ بکری کا سُرخ رنگ کا ہوتا تھا ۔
+4. زیتون کا تیل ، تیل اور نمک ۔
+:::

@@ -82,3 +82,36 @@ prepTimeEstimated: true
 2. उरलेल्या तेलात लसूण, फुलकोबीचा भात आणि मटार 5 मिनिटे परतवा.
 3. टॅमरी, अंडी आणि कांद्याची पात घालून 1 मिनिट परतून एकत्र करा.
 :::
+
+:::lang en
+# Cauliflower Rice Egg and Pea Stir-Fry
+
+A low-carb stir-fry of riced cauliflower with scrambled egg, peas and spring onion.
+
+## Instructions
+1. Heat half the oil and scramble the eggs; set aside.
+2. Stir-fry the garlic and cauliflower rice with the peas in the remaining oil for 5 minutes.
+3. Add the tamari, eggs and spring onions and toss for 1 minute.
+:::
+
+:::lang bn
+# ফুলফুল ভাত এগ এবং পেয়া স্টেরি
+
+অল্প সময়ের জন্য চালের ফুল ফোটানো হবে।
+
+## Instructions
+1. তেল আর ডিমের অর্ধেক পালিশ করুন।
+2. পাঁচ মিনিটের জন্য অবশিষ্ট তেল দিয়ে রসুন আর ফুল ফুল চাল দিয়ে।
+3. টামারি, ডিম আর পিঁয়াজ দিন ১ মিনিটের জন্য।
+:::
+
+:::lang ur
+# Caulif County Rice Egg اور Peales-Fry -
+
+چاول کیولف کی ایک کم کرب تحریک جس میں زہریلے انڈے، پائیس اور چشمہ اون کے ساتھ.
+
+## Instructions
+1. تیل کو نصف کرکے انڈے دیں ۔
+2. باقی تیل میں پائی جانے والی پیاز کے ساتھ لہسن اور کیلیف چاول کو 5 منٹ تک پکایا جاتا ہے۔
+3. ٹائیمار، انڈے اور چشمے کا پیاز اور 1 منٹ کے لیے اینٹیں شامل کریں۔
+:::

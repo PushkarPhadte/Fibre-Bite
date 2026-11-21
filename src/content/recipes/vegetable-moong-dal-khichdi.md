@@ -117,3 +117,39 @@ prepTimeEstimated: true
 3. तांदूळ, डाळ, भाज्या, पाणी आणि मीठ घाला. उकळी आल्यावर झाकण ठेवून मंद आचेवर शिजवा. मध्ये मध्ये ढवळत राहा, तांदूळ आणि डाळ अगदी मऊ होईपर्यंत.
 4. खिचडी अधिक पातळ हवी असल्यास थोडे गरम पाणी घाला. चव पाहून मीठ-मसाला समायोजित करा आणि गरम वाढा.
 :::
+
+:::lang en
+# Vegetable Moong Dal Khichdi
+
+A comforting one-pot rice and mung dal meal with vegetables, turmeric, cumin, and ginger.
+
+## Instructions
+1. Rinse rice and moong dal together until the water runs mostly clear. Drain.
+2. Heat ghee or oil in a heavy pot. Add cumin seeds and ginger; stir for 30 seconds, then add turmeric.
+3. Add rice, dal, vegetables, water, and salt. Bring to a boil, then cover and simmer gently, stirring occasionally, until the rice and dal are very soft.
+4. Add a little hot water if a looser consistency is desired. Taste, adjust seasoning, and serve warm.
+:::
+
+:::lang bn
+# ভেগ মুনগ ডাল খচ্চি
+
+একটি সান্ত্বনাদায়ক চাল এবং mung দের সাথে সবজি, টারমিনিক, সারমিন এবং ভাটা।
+
+## Instructions
+1. পানি চালিয়ে যাওয়ার পূর্ব পর্যন্ত ধান এবং চাঁদ একসঙ্গে কাটা হয়। অস্থির।
+2. হেট গেইট বা তেলের উপর ভারী পটা. বীজ এবং ভাটা যোগ করুন; ৩০ সেকেন্ডের জন্য উত্তেজনা তৈরি করুন, তারপর ক্লিক করুন।
+3. চাল, ডাল, পানি এবং লবণ যোগ করুন। এরপর একটু গরম করার পর, ঢেকে দিন, ধীরে ধীরে, ধীরে কাঁপুনি দেয়, যতক্ষণ না চাল ও ডিলা খুব নরম হয় ।
+4. একটা ভেলা করার ইচ্ছা থাকলে একটু গরম পানি যোগ করো। ( ১ করি.
+:::
+
+:::lang ur
+# وَجَعَبُّ مَن دَل قَدِيدٍ
+
+ایک تسلی بخش چاول اور مونگ دال کھانا جس میں سبزیوں، گردوں، گردوں اور جوتوں کے ساتھ کھایا جاتا ہے۔
+
+## Instructions
+1. رنسے چاول اور مل کر مل کر جب تک پانی زیادہ تر صاف نہ ہو جائے۔ Drain.
+2. ہیٹ جی یا تیل کسی بھاری برتن میں۔ اِس کے بعد اِس میں اضافہ ہوتا ہے ۔
+3. چاول، دال، سبزی، پانی اور نمک شامل کرتے ہیں۔ جب تک چاول اور دُل بہت نرم نہیں ہوتا ۔
+4. اگر کوئی خارج‌شُدہ پانی درکار ہو تو گرم پانی بھی شامل کریں ۔ اِس کے علاوہ اُس کی خدمت کرنے سے آپ کو بہت خوشی ملتی ہے ۔
+:::

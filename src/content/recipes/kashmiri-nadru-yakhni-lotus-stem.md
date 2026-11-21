@@ -98,3 +98,42 @@ prepTimeEstimated: true
 4. शिजवलेल्या कमळकाकडीच्या चकत्या, बाजूला ठेवलेले शिजवण्याचे पाणी आणि उरलेले मीठ घाला. झाकण न ठेवता 8 मिनिटे मंद आचेवर, रस्सा किंचित घट्ट होईपर्यंत शिजवा.
 5. गॅस बंद करून चिरलेली पुदिन्याची पाने मिसळा आणि गरम वाढा.
 :::
+
+:::lang en
+# Kashmiri Nadru Yakhni (Lotus Stem in Spiced Yogurt)
+
+Delicate Kashmiri preparation of crisp lotus stem slices simmered in a fragrant low-fat yogurt sauce infused with fennel, dry ginger, cardamom, and mint.
+
+## Instructions
+1. Rinse the sliced lotus stem thoroughly to clear all mud from the pores, then boil in 500 ml of water with 1 g of salt for 15 minutes until tender-crisp; reserve 150 ml of the cooking liquid.
+2. Heat the mustard oil in a saucepan until lightly smoking, reduce to low heat, and stir in the fennel-ginger-cardamom spice blend for 20 seconds.
+3. Add the whisked yogurt over very low heat while stirring constantly in one direction for 4 minutes until it reaches a gentle simmer without curdling.
+4. Fold in the cooked lotus stem slices, reserved cooking liquid, and remaining salt, simmering uncovered for 8 minutes until lightly thickened.
+5. Remove from heat, stir in the chopped mint leaves, and serve warm.
+:::
+
+:::lang bn
+# কাশ্মীরী নাদরু ইয়াখনি (লোটাস সাহটিল ইয়োগুতে)
+
+কাশ্মীরি প্রস্তুতি নেয়া হচ্ছে কৃচ্ছসাধনের প্রস্তুতি, যা টুকরো টুকরো টুকরো টুকরো করে তৈরি করা হয়েছে।
+
+## Instructions
+1. এই টুকরো টুকরো টুকরোগুলো পুরোপুরি পরিষ্কার করতে সক্ষম হয়, তারপর ৫০০ মিটার পানির মধ্যে থেকে ১৫ মিনিট লবণে সিদ্ধ হয়।
+2. সসিয়ামের প্রথম তেল সসফলের উপর সসায়, কম গরম না হওয়া, আর ২০ সেকেন্ড ধরে মেম্বারের মাংসের সাথে মিশে যায়।
+3. এরপর গরমের মধ্যে দিয়ে গরমের পরিমাণ বেড়ে যায় ।
+4. রান্না করা প্রচুর পরিমাণে, সংরক্ষিত রান্নার তরল পদার্থ এবং অবশিষ্ট লবণে ভরে যায়, যতক্ষণ না হালকা ঘন ঘন ঘন হয়ে না ওঠে ।
+5. গরম থেকে সরুন, কাটা মিনিটের পাতাকে নাড়া দিন এবং গরম পরিবেশন করুন।
+:::
+
+:::lang ur
+# کاشمیری نادرو یاکھنی (انگریزی: Lutus Stem in Spiced Yogurt) ہے۔
+
+اِس کی وجہ یہ ہے کہ اِس کی وجہ سے اِس کا وزن کم ہوتا جا رہا ہے ۔
+
+## Instructions
+1. اِس کے بعد 500 ملی میٹر پانی میں نمک ملا کر 15 منٹ تک نرم کر دیا جاتا ہے ۔
+2. دھاتوں کے تیل کو معمولی سگریٹ نوشی، کم گرمیوں میں کمی اور بخارات میں 20 سیکنڈ تک جذب کیا جاتا ہے۔
+3. اِس کی وجہ یہ ہے کہ اِس کی وجہ سے اِس کی رفتار کم ہو جاتی ہے ۔
+4. اِس کے بعد اُس نے اِسے دوبارہ ملانے کی کوشش کی ۔
+5. گرمی سے چھٹکارا حاصل کرنا ، نمی کے پتوں میں منتقل ہونا اور گرم‌دار خدمت کرنا ۔
+:::

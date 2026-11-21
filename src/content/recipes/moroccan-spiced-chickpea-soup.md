@@ -99,3 +99,39 @@ prepTimeSource: 'https://www.eatingwell.com/recipe/251323/moroccan-chickpea-soup
 3. भाजीचा स्टॉक, चिरलेले टोमॅटो आणि हरभरे घाला. उकळी आणा, मग आच कमी करून 20 मिनिटे मंद आचेवर शिजवा.
 4. गरम सर्व्ह करण्यापूर्वी वरून ताजी कोथिंबीर घाला.
 :::
+
+:::lang en
+# Moroccan Spiced Chickpea Soup
+
+A fragrant North African soup made with chickpeas, tomatoes, onions, cinnamon, and cumin.
+
+## Instructions
+1. Heat olive oil in a soup pot over medium heat and sauté onion until soft.
+2. Add garlic, cinnamon, and cumin; cook for 1 minute until fragrant.
+3. Pour in vegetable broth, diced tomatoes, and chickpeas. Bring to a boil, then reduce heat and simmer for 20 minutes.
+4. Garnish with fresh cilantro before serving warm.
+:::
+
+:::lang bn
+# মরোক্কোর স্পাইসড মুরগীর সুপ
+
+উত্তর আফ্রিকার সুপে একটা মুরগি, টমেটো, টমেটো, পেইনোন এবং মরমিন দিয়ে তৈরি ।
+
+## Instructions
+1. একটি স্যুপের উপর হেট জিতবৃক্ষের তেল মাঝারি গরমের উপরে এবং নরম না হওয়া পর্যন্ত সাঁতরে।
+2. রসুন, কনিমন আর যশ; ফ্রুগ্রান্ট পর্যন্ত ১ মিনিট রান্না করা।
+3. সবজি, পাশা, টমেটো আর মুরগির রস। একটু সিদ্ধ হও, তারপর ২০ মিনিটের জন্য গরম আর সিমমের হ্রাস করো।
+4. গরম গরম গরম করার আগে কনফিউজোকে বহিষ্কার করা হয়েছে।
+:::
+
+:::lang ur
+# مورکن سپِڈ چیکپا سوپ
+
+شمالی افریقہ کے صابن کے ذریعے مونگ‌پھلی ، مونگ‌پھلی ، سی‌نم‌مون اور آلو تیار کئے گئے تھے ۔
+
+## Instructions
+1. زیتون کے تیل کو صابن میں درمیان میں گرم گرم اور صابن پر مشتمل تیل نرم‌مزاجی تک رکھا جاتا ہے ۔
+2. لہسن ، سینم‌مون اور آلو شامل کریں ؛ خوشبو تک ۱ منٹ آرام کریں ۔
+3. پودوں میں سبزیوں ، ٹماٹروں اور ٹماٹروں میں پکائے جاتے ہیں ۔ اِس کے بعد اِسے گرم کرکے 20 منٹ تک پکایا جاتا ہے ۔
+4. گرمیوں میں خدمت کرنے سے پہلے گلن‌سن کے ساتھ تازہ سیل‌نٹرو بھی ہوتا ہے ۔
+:::

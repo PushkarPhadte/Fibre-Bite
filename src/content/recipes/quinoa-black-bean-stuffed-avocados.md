@@ -80,3 +80,39 @@ prepTimeSource: 'https://minimalistbaker.com/quinoa-black-bean-stuffed-avocados/
 3. क्विनोआचे मिश्रण अवोकॅडोच्या प्रत्येक अर्ध्या भागात भरपूर प्रमाणात भरा.
 4. ताजे असतानाच लगेच वाढा.
 :::
+
+:::lang en
+# Quinoa Black Bean Stuffed Avocados
+
+Ripe avocado halves filled with protein-rich quinoa, black beans, corn, and a squeeze of fresh lime.
+
+## Instructions
+1. Scoop out a small amount of avocado flesh to widen the center cavity.
+2. In a bowl, mix cooked quinoa, black beans, sweet corn, lime juice, and salt.
+3. Spoon the quinoa mixture generously into each avocado half.
+4. Serve fresh immediately.
+:::
+
+:::lang bn
+# কুইনোকা ব্ল্যাক বেদানো
+
+আইভোকাডো হালে ভরা প্রোটিনে ভরা, কালো শিম, ভূট্টা, এবং তাজা চুড়া।
+
+## Instructions
+1. কল্পনা করুন যে, কিছুটা আভোকাডো মাংসকে কেন্দ্র করে বড় করা যায় ।
+2. এক বাটি বাটি বাটি, মিষ্টি শিম, মিষ্টি রস এবং লবণ রান্না করে ।
+3. বানাননোনো নামক উপাদান প্রতিটি আভোকাডোতে সংগঠিত হয়।
+4. সাবধানে সেবা করো।
+:::
+
+:::lang ur
+# کوینوا بلیک بیون اسٹوفیڈ ایوکاڈوس
+
+ریپ اوکادو کے دانوں نے پروٹین-رچ کونیا، سیاہ دانوں، مکئی اور تازہ آلو سے بھر دیا تھا۔
+
+## Instructions
+1. اِس کے نتیجے میں اُس کا جسم بہت چھوٹا ہو گیا ۔
+2. ایک پیالے میں آمیزش کے ذریعے کویانا ، کالے دانوں ، مکئی ، آلو اور نمک ملا کر پکایا جاتا ہے ۔
+3. اسپُون کو ہر ایک اوکادو میں ملا کر تیار کِیا جاتا ہے ۔
+4. فوراً تازہ‌دم خدمت کریں ۔
+:::

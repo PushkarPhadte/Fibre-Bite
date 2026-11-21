@@ -82,3 +82,36 @@ prepTimeEstimated: true
 2. किसलेले बीटरूट, जिरे, मिरची आणि मीठ घालून हलक्या हाताने मिसळा.
 3. 15 मिनिटे थंड करा आणि वाढण्यापूर्वी कोथिंबिरीने सजवा.
 :::
+
+:::lang en
+# Beetroot Raita
+
+A vivid pink yogurt side of grated cooked beetroot with roasted cumin and green chilli, cooling beside spicy mains.
+
+## Instructions
+1. Whisk the curd until smooth in a bowl.
+2. Fold in the grated beetroot, cumin, chilli and salt.
+3. Chill for 15 minutes and garnish with coriander before serving.
+:::
+
+:::lang bn
+# বিটুটা
+
+খুব স্পষ্ট গোলাপি রসালো রান্নার এক দিক।
+
+## Instructions
+1. একটা বাটি মসৃণ না হওয়া পর্যন্ত হুইস্কির কুড়াল।
+2. আপনি কি মনে করতে পারেন?
+3. ১৫ মিনিটের জন্য শান্ত থাকুন এবং সেবা করার আগে থেরিয়ান্ডারের সাথে।
+:::
+
+:::lang ur
+# ترسٹا رات
+
+اِس کے بعد اُس نے اِس کی ایک اَور وجہ بھی بتائی ۔
+
+## Instructions
+1. یہاں تک کہ اُس نے ایک پیالے میں آرام کِیا ۔
+2. اِس کی ایک وجہ تو یہ ہے کہ اُس نے اِس کا استعمال کِیا ۔
+3. چیل 15 منٹ تک اور کریندر کے ساتھ خدمت کرنے سے پہلے۔
+:::

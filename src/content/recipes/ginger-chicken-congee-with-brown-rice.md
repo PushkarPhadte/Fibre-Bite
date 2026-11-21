@@ -79,3 +79,36 @@ prepTimeEstimated: true
 2. चिकन घालून ते पूर्ण शिजेपर्यंत 15 मिनिटे मंद आचेवर शिजवा; बाहेर काढून त्याचे तुकडे करा.
 3. चिकन पुन्हा पेजेत मिसळा आणि पातीचा कांदा व मिरपूड घालून वाढा.
 :::
+
+:::lang en
+# Ginger Chicken Congee with Brown Rice
+
+A soothing rice porridge with ginger, shredded chicken and spring onion.
+
+## Instructions
+1. Simmer the rice with the water, ginger and salt for 45 minutes until broken down and creamy.
+2. Add the chicken and simmer for 15 minutes until cooked through; lift out and shred.
+3. Stir the chicken back in and serve with spring onion and pepper.
+:::
+
+:::lang bn
+# ব্রাউন রাইসের সাথে গিংকার মুরগী কনজি
+
+একটা মসৃণ চালের চালের ঝোলা, শুকনো মুরগি আর বসন্ত।
+
+## Instructions
+1. ধানের সাথে পানি, ভাটা এবং লবণের সাথে ৪৫ মিনিট পর্যন্ত নষ্ট হয়ে যায়।
+2. মুরগি ও সিমমের সঙ্গে ১৫ মিনিট ধরে রান্না করা, বের হয়ে আসা এবং টুকরো টুকরো করা ।
+3. মুরগিটা ফিরে এসেছে আর বসন্ত আর মরিচ দিয়ে পরিবেশন করছে।
+:::
+
+:::lang ur
+# Ginger Chicken Congee with Brown Rice –
+
+اِس کی ایک وجہ یہ تھی کہ اُس نے اُن سے کہا : ” اَے [ یہوواہ ] !
+
+## Instructions
+1. پانی کے ساتھ چاول، آمیزش اور نمک 45 منٹ تک ٹوٹ کر کریمیا جانے تک نمک کا رس۔
+2. جب تک پکا نہیں ہوتا ، اُسے اُٹھا لیں اور اُوپر سے اُٹھا لیں ۔
+3. اِس کے بعد اُس پرندے کو اُس کی دیکھ‌بھال کرنی چاہئے ۔
+:::

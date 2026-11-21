@@ -87,3 +87,39 @@ prepTimeSource: 'https://minimalistbaker.com/best-ever-homemade-hummus/'
 3. काकडीच्या आणि गाजराच्या काड्या तसेच ढोबळी मिरचीचे काप हम्मसच्या भोवती नीट मांडा.
 4. ताजे असतानाच पौष्टिक डिप प्लेट म्हणून सर्व्ह करा.
 :::
+
+:::lang en
+# Mediterranean Hummus and Veggie Plate
+
+A wholesome snack platter featuring creamy chickpea hummus paired with crisp cucumber, bell pepper, and carrot sticks.
+
+## Instructions
+1. Spread hummus in a shallow serving bowl or plate.
+2. Drizzle olive oil over the hummus and sprinkle with a pinch of paprika.
+3. Arrange cucumber sticks, carrot sticks, and bell pepper slices neatly around the hummus.
+4. Serve fresh as a healthy dip plate.
+:::
+
+:::lang bn
+# ভূমধ্যসাগরীয় অঞ্চল
+
+এক গঠনমূলক নাস্তার মচম রয়েছে, যার মধ্যে রয়েছে ক্রিমা হাম্পমুস ।
+
+## Instructions
+1. একটি অগভীর কাজের বা প্লেটে হামমুস ছড়িয়ে দাও।
+2. তেলাপোকার উপর জলপাই তেল আর পিম্পিকার একটি চিমটি।
+3. লাঠি, চাকার লাঠি এবং মরিচের টুকরো দিয়ে হাম্মাস পরিষ্কার করে।
+4. ভাল খাবার প্লেট হিসেবে তাজা পরিবেশন করুন।
+:::
+
+:::lang ur
+# بحیرۂروم ہیم‌مس اور وجی‌پی پلیٹ
+
+اِس کی ایک وجہ یہ ہے کہ اِن میں سے ایک کانٹوں کی طرح ہے ۔
+
+## Instructions
+1. اِس کے بعد اُس نے اُن سے پوچھا : ” کیا مَیں اِس بات کی قدر کرتا ہوں کہ مَیں اُن سے بات کر رہا ہوں ؟ “
+2. زیتون کے تیل کو سُن کر زیتون کے تیل کو پُرکیکا سے بھر دیا جاتا ہے ۔
+3. اِس کے بعد اُس نے اُن سے پوچھا : ” کیا مَیں اِس بات کی قدر کرتا ہوں کہ مَیں نے اُن سے بات کی ؟ “
+4. صحت‌بخش ٹماٹر پلیٹ کے طور پر تازہ‌دم ہونا ۔
+:::

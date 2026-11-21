@@ -82,3 +82,36 @@ prepTimeEstimated: true
 2. किमान 4 तास किंवा रात्रभर फ्रिजमध्ये ठेवा. गुठळ्या होऊ नयेत म्हणून 20 मिनिटांनी एकदा ढवळा.
 3. खाण्याच्या अगदी आधी प्रत्येक वाटीवर चिरलेला आंबा आणि बदामाच्या कातर्‍या घाला.
 :::
+
+:::lang en
+# Cardamom Chia and Mango Overnight Bowl
+
+Creamy chia seed bowl soaked in unsweetened almond milk with green cardamom and ripe mango chunks.
+
+## Instructions
+1. Whisk chia seeds, unsweetened almond milk, and ground cardamom in a bowl until evenly distributed.
+2. Refrigerate for at least 4 hours or overnight, stirring once after 20 minutes to prevent clumping.
+3. Top each serving with diced mango and slivered almonds just before eating.
+:::
+
+:::lang bn
+# কার্ডুম চিসা আর মাঙ্গো নাইট বানাগা
+
+ক্রিমি কিঙ্কার বীজ অপূর্ণ আলমন্ড দুধ সহ সবুজ কার্ডাম এবং পাকা আম মিকে সংযুক্ত করে।
+
+## Instructions
+1. এক মূল্যবান বীজ
+2. প্রায় ৪ ঘন্টা বা রাতে অন্তত ৪ ঘন্টা বিশ্রাম নেওয়া, ২০ মিনিট পর উত্তেজনা দূর করার জন্য।
+3. তা হলে, কীভাবে আমরা তা করতে পারি?
+:::
+
+:::lang ur
+# کارڈم چی اور منگ آؤٹ نائٹ بُول
+
+اِس کے بعد اُس نے اُن سے پوچھا : ” کیا مَیں اِس بات کی قدر کرتا ہوں کہ مَیں اُن کے ساتھ ہوں ؟ “
+
+## Instructions
+1. وِسک چیا بیج ، غیر زہریلے بادام کا دودھ اور زمین کے کارڈم میں تقسیم ہونے تک ایک پیالے میں تقسیم ہوتے ہیں ۔
+2. کم‌ازکم ۴ گھنٹے یا رات کے لئے دوبارہ رابطہ کریں ، 20 منٹ کے بعد ایک بار رُک جانے کے لئے تیز ہو گیا ۔
+3. اِس کے بعد اُس نے اُن سے کہا : ” مَیں نے اِس بات پر غور کِیا ہے کہ مَیں اُن سے کتنی محبت کرتا ہوں ۔ “
+:::

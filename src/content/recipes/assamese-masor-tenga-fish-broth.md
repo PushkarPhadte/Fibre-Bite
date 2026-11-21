@@ -115,3 +115,42 @@ prepTimeEstimated: true
 4. चिरलेला दोडका, उरलेले मीठ आणि 450 मिली पाणी घाला; उकळी आणून दोडका मऊ होईपर्यंत 7 मिनिटे मंद आचेवर शिजवा.
 5. परतलेला मासा रस्स्यात अलगद सोडा आणि 5 मिनिटे मंद आचेवर शिजवा. गॅसवरून उतरवून ताज्या लिंबाचा रस आणि कोथिंबीर मिसळा.
 :::
+
+:::lang en
+# Assamese Masor Tenga (Tangy Tomato-Lemon Carp Broth)
+
+Refreshing, low-oil Assamese freshwater fish curry featuring lightly seared rohu and ridge gourd in a bright tomato, lemon, and fenugreek broth.
+
+## Instructions
+1. Rub the rohu fish pieces with half the turmeric and 1 g of salt and set aside for 10 minutes.
+2. Heat 10 ml of mustard oil in a wide nonstick pan until hot, lightly sear the fish for 2 minutes per side, and transfer to a plate.
+3. In the same pan, warm the remaining 5 ml of mustard oil, temper the mustard and fenugreek seeds for 15 seconds, then sauté the tomatoes, remaining turmeric, and green chili for 5 minutes until soft.
+4. Add the cubed ridge gourd, remaining salt, and 450 ml of water; bring to a boil and simmer for 7 minutes until the gourd is tender.
+5. Slide the seared fish into the broth, simmer gently for 5 minutes, remove from heat, and stir in the fresh lemon juice and cilantro.
+:::
+
+:::lang bn
+# আসসে মাসর তেগা (টিয়াং টমেটো-লেমন কারুথ)
+
+চাঞ্চল্যকর, কম-লোল অয়েলের তাজা মাছ, যার মধ্যে রয়েছে হালকা সামুদ্রিক মাছের কোদাল।
+
+## Instructions
+1. বলু মাছগুলো অর্ধেক টারমিনিক আর ১ টা লবণ নিয়ে ১০ মিনিটের জন্য সেট করে।
+2. গরম না হওয়া পর্যন্ত জৈতুন তেলের ১০ মিলিমিটার, মাছটিকে প্রতি দুই মিনিটের জন্য হালকা করে এবং একটি প্লেটে নিয়ে যায়।
+3. একই প্যানে, সরীসৃপের অবশিষ্ট ৫ মিটার গরম, সরীসৃপ, সরীসৃপের বীজ ১৫ সেকেন্ড পরে ১৫ সেকেন্ডের জন্য ছড়িয়ে পড়ে, তারপর টমেটো, বাকি টামুড়ি এবং সবুজশিলি ৫ মিনিট নরম হতে পারে।
+4. ঘন ঘনটা যব, অবশিষ্ট লবণ এবং ৪৫০ মিটার জল যোগ করুন; সাত মিনিট পর্যন্ত তান ও স্ফীত হয়ে ওঠে ।
+5. ৫ মিনিটের জন্য সহজ সরলভাবে মাছটা বয়ে যায়, গরম থেকে নেমে আসে এবং তাজা লেবুর জুস এবং সিল্ররোতে ছড়িয়ে পড়ে ।
+:::
+
+:::lang ur
+# آسامس میسور تلنگانہ (Tangy Tomato-Lemon carp Broth)۔
+
+کم‌ازکم ، کم‌ازکم کھانے والی مچھلیوں نے ایک چمکدار ٹماٹر ، مونگ‌پھلی اور فی‌ناگریک برتھ میں چھوٹے چھوٹے بڑے درخت کو اُلٹ دیا ۔
+
+## Instructions
+1. رنو مچھلیوں کے ٹکڑے نصف ترامیم اور 1 جی نمک کے ساتھ مل کر 10 منٹ کے لیے مخصوص کیے۔
+2. اِس کے علاوہ اُس نے اِس مچھلی کو دو منٹ کے لئے استعمال کِیا ۔
+3. اسی نان میں باقی 5 ملی گرام گندم کے تیل کو گرم کرنا، 15 سیکنڈ کے لیے رائی کے دانے اور فینگریکی بیج، پھر ٹماٹر، باقی بچ جانے والے ٹائروں اور سبزی خور 5 منٹ تک نرم ہوتے ہیں۔
+4. جب تک درخت نرم نہ ہو جائے ، اِس درخت میں نمک اور 450 ملی‌میٹر پانی شامل نہ ہو جائے ۔
+5. اِس کی وجہ یہ ہے کہ اِن میں سے ہر ایک کا وزن زیادہ ہوتا ہے ۔
+:::

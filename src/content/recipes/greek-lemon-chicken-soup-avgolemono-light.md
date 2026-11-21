@@ -89,3 +89,39 @@ prepTimeSource: 'https://www.skinnytaste.com/avgolemono-soup/'
 3. एका भांड्यात अंड्याचा पांढरा भाग आणि ताजा लिंबाचा रस जोमाने फेटून घ्या.
 4. सतत फेटत गरम स्टॉकचा एक कप हळूहळू अंडी-लिंबाच्या मिश्रणात घाला. मग ते मिश्रण पुन्हा भांड्यात ओता आणि घट्ट होईपर्यंत ढवळा.
 :::
+
+:::lang en
+# Greek Lemon Chicken Soup (Avgolemono Light)
+
+A lighter take on traditional Greek avgolemono soup with shredded chicken, lemon juice, egg whites, and broth.
+
+## Instructions
+1. Bring chicken broth to a boil and cook whole grain orzo until tender.
+2. Add shredded chicken to the simmering broth.
+3. In a bowl, whisk together egg whites and fresh lemon juice vigorously.
+4. Slowly ladle a cup of hot broth into the egg-lemon mixture while whisking constantly, then pour back into the pot and stir until thickened.
+:::
+
+:::lang bn
+# গ্রীক হলদে মুরগির স্যু (আভলোমনের আলো)
+
+কিন্তু, এই পানীয়গুলোতে প্রচুর পরিমাণে পাওয়া যায় ।
+
+## Instructions
+1. মুরগিটাকে সিদ্ধ করতে এবং কোমল না হওয়া পর্যন্ত পুরো শস্য রান্না করতে বলো ।
+2. মুরগির মাংসের সাথে সেন্টমাইনিং ব্রোথ যোগ করো।
+3. এক বাটি বাটি, ডিমকে একসঙ্গে ডিমের সাদা আর তাজা লেবুর রস।
+4. ধীরে ধীরে বাচ্চারা ডিমের মিশ্রণে এক কাপ গরম ভোঁট নিয়ে ডিমের মিশ্রণে ঘুরে ঘুরে ঘুরে ঘুরে ঘুরে ঘুরে ঘুরে ঘুরে বেড়ায়, তারপর তারা মাটির মধ্যে ঢুকে পড়ে এবং ঘন হয়ে যায়।
+:::
+
+:::lang ur
+# یونانی لیمون چیکن سوپ (انگریزی: Avgolemono Light) ہے۔
+
+اِس کے علاوہ اُس نے اِس بات کا بھی ذکر کِیا کہ اُس نے اُس کے لئے اپنی جان قربان کر دی ۔
+
+## Instructions
+1. مرغی کو گلے میں ڈال کر نرم‌مزاجی تک پورے اناج یازو کو پکایا ۔
+2. اِس میں مرغی کو بھی شامل کِیا جاتا ہے ۔
+3. ایک پیالے میں وشنو سفید اور تازہ ٹماٹر کا رس ملا کر کھایا جاتا ہے ۔
+4. آہستہ آہستہ بچے کو انڈے سے بننے والے آمیزے میں گرم بُت کا پیالہ ملا کر پکایا جاتا ہے ۔
+:::

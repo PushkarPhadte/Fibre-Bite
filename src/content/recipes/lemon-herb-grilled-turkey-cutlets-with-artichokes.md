@@ -86,3 +86,36 @@ prepTimeEstimated: true
 2. ग्रिल पॅन मध्यम-जास्त आचेवर आधी गरम करा आणि टर्की कटलेट प्रत्येक बाजूला 4 ते 5 मिनिटे शिजवा, पूर्ण शिजेपर्यंत.
 3. आर्टिचोकचे अर्धे तुकडे प्रत्येक बाजूला 2 मिनिटे ग्रिल करा, त्यांना हलके भाजल्याच्या खुणा येईपर्यंत; टर्कीसोबत वाढा.
 :::
+
+:::lang en
+# Lemon Herb Grilled Turkey Cutlets with Artichokes
+
+Lean turkey breast cutlets grilled with oregano and lemon, served alongside marinated artichoke hearts.
+
+## Instructions
+1. Whisk olive oil, lemon juice, dried oregano, and garlic powder, then coat the turkey cutlets and artichoke halves.
+2. Preheat a grill pan over medium-high heat and cook turkey cutlets for 4 to 5 minutes per side until cooked through.
+3. Grill the artichoke halves for 2 minutes per side until lightly charred and serve alongside the turkey.
+:::
+
+:::lang bn
+# আর্তিচের সাথে তুরস্কের কাটলেটের টুকরো
+
+লেন টুরকি বুকের বুক কাটা কাটা টবলেটগুলো টসানো আর লেবু দিয়ে ভরে গিয়েছিল, যার সঙ্গে চমৎকার শিল্পোকে হৃদয়ের সঙ্গে পরিবেশন করা হয়েছিল ।
+
+## Instructions
+1. আর তাই এতে অবাক হওয়ার কিছু নেই যে, এতে কোনো সমস্যা নেই ।
+2. মাঝারি তাপ এবং রান্নার জন্য রান্নার জন্য রান্নার প্রক্রিয়া ৪ থেকে ৫ মিনিটের জন্য।
+3. দুই মিনিটের জন্য আর্টিচের চাপকে আরো বাড়িয়ে দেবে যতক্ষণ না টরকির সাথে মিলে কাজ করবে।
+:::
+
+:::lang ur
+# لیمون ہرب گلڈ ترکی کٹوں کے ساتھ ارتریاکوس کے ساتھ
+
+لیان ترکی کے سینے کو اُبال کر اُن کے سینے کو اُن کے ساتھ ملا دیا جاتا تھا ۔
+
+## Instructions
+1. اِس کے بعد اِس کی لکڑی کو کاٹ کر اُس کے تیل کو اِستعمال کِیا جاتا ہے ۔
+2. جب تک اسے پکا نہ لیا جائے۔
+3. اُس وقت تک ہر طرف ۲ منٹ تک مختلف رنگ‌برنگے ہوتے ہیں ۔
+:::

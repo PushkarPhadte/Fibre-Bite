@@ -119,3 +119,42 @@ prepTimeEstimated: true
 4. कडेभोवती थोडे तेल सोडा आणि मध्यम आचेवर खालची बाजू सोनेरी होईपर्यंत शिजवा; पलटून आणखी एक मिनिट शिजवा.
 5. उरलेल्या पिठाचीही अशीच धिरडी करा आणि नारळाच्या किंवा पुदिन्याच्या चटणीसोबत गरम वाढा.
 :::
+
+:::lang en
+# Adai (South Indian Mixed Lentil Pancakes)
+
+Crisp, protein-rich Tamil pancakes made from rice and four lentils, with onion, ginger and curry leaves.
+
+## Instructions
+1. Soak the rice and all the dals together in plenty of water for 4 hours, then drain.
+2. Grind with the chilli, ginger, asafoetida and salt to a coarse batter, adding just enough water to make a thick pouring consistency.
+3. Stir in the onion and curry leaves. Heat a non-stick tawa and spread a ladle of batter into a 15 cm round.
+4. Drizzle a little oil around the edge, cook on medium heat until golden underneath, flip and cook for another minute.
+5. Repeat with the remaining batter and serve hot with coconut or mint chutney.
+:::
+
+:::lang bn
+# আদিয়া (দক্ষিণ ভারতীয় মিশ্রাঞ্চল প্যানকেক)
+
+ক্রিসপ, প্রোটিন সমৃদ্ধ তামিল প্যানকেক চাল এবং চারটি চাবুক দিয়ে তৈরি, সাথে সাথে দের, মদ এবং মিষ্টি পাতা।
+
+## Instructions
+1. চালের সাথে চার ঘন্টার জন্য প্রচুর পানি থাকবে।
+2. ঠাণ্ডা, ভোদড়, আসদা এবং লবণে ভরা ঠাণ্ডার সঙ্গে সঙ্গে ঘন ঘন ঘন ঘন জল যোগ করে ।
+3. পেয়াজ আর ফলের পাতা। সে একটি লিপস্টিক টিওয়া এবং ১৫ সেন্টিমিটারের মধ্যে একটি বালক নির্যাতন ছড়িয়ে দেয়।
+4. গরমের সময় হালকা হালকা তেল, স্বর্ণের তৈরিার উপর রান্না, অন্য এক মিনিট রান্না করা এবং রান্না করা উচিত।
+5. বাকি নির্যাতন আবার শুরু হয়ে যায় আর নারিকেল বা মটচুনির সাথে গরম পরিবেশন করে।
+:::
+
+:::lang ur
+# آدی (South Indian Edmund Lentil Pancakes)۔
+
+کریسپ، پروٹین تامل نانک جو چاول اور چار مونگ پھلی سے بنے ہوتے ہیں، اس کے ساتھ ساتھ اونون، آمیزش اور گیس کے پتوں سے بھی بنائے جاتے ہیں۔
+
+## Instructions
+1. سوکے چاول اور تمام ڈیل مل کر 4 گھنٹے تک پانی میں مل جاتے ہیں، اس کے بعد دوبارہ حاصل کرتے ہیں۔
+2. اِس کے بعد پانی اُڑ جاتا ہے ۔
+3. اِس کے بعد اُس نے اِس پر تحقیق کی ۔ ایک غیر زہریلے تیندوے کو گرم کرکے حملہ آوروں کے بچوں کو 15 سم چکر میں پھیلایا۔
+4. ساحل کے آس پاس تھوڑا سا تیل ملا کر سونے کے نیچے کی گرمیوں میں سونا ، پکانے اور دوسری منٹ تک پکانے تک درمیانے گرم پر پکایا جاتا ہے ۔
+5. باقی ماندہ حملہ‌آوروں سے مقابلہ کرتے ہوئے ناریل یا منٹ چُتنی سے گرم ہو جاتے ہیں ۔
+:::

@@ -92,3 +92,39 @@ prepTimeEstimated: true
 3. डाळ, तांदूळ आणि पाणी घाला. उकळी आल्यावर आच मंद करा, झाकण ठेवा आणि मऊ होईपर्यंत 30 ते 35 मिनिटे शिजवा.
 4. शेवटच्या 3 मिनिटांत बेबी पालक घालून तो मऊ होईपर्यंत मिसळा. गरम वाढा.
 :::
+
+:::lang en
+# Split Mung Dal and Spinach Khichdi-Style Bowl
+
+Comforting yellow split mung dal simmered with brown basmati rice, baby spinach, cumin, and turmeric.
+
+## Instructions
+1. Rinse yellow split mung dal and brown basmati rice until water runs clear.
+2. Warm olive oil in a pot over medium heat and splutter cumin seeds and turmeric for 30 seconds.
+3. Add dal, rice, and water; bring to a boil, reduce heat to low, cover, and simmer for 30 to 35 minutes until soft.
+4. Stir in baby spinach during the final 3 minutes until wilted, then serve warm.
+:::
+
+:::lang bn
+# Mung ডাল এবং Spinchic-স্বাদক-স্টাইল
+
+হলুদ বিভাজনের পর চুং ডি লিটি ধান, শিশু স্পিন, সার্কি এবং টারমের সঙ্গে সংযুক্ত।
+
+## Instructions
+1. রইন হলুদ বিভাজন mung dutel এবং বাদামি বানমাটি চাল যতক্ষণ না পানি পরিষ্কার হচ্ছে।
+2. গরমের সময় গরমের মধ্যে গরমের তেল এবং ৩০ সেকেন্ডের জন্য বীজ ও টর্‌যাম।
+3. তাই, এতে অবাক হওয়ার কিছু নেই যে, গরমের কারণে তাপমাত্রা কমে যায় ।
+4. ৩ মিনিটের মধ্যে শিশু স্পিনে পরিণত হয়, তারপর উষ্ণ থাকে।
+:::
+
+:::lang ur
+# سپلٹ مونگ ڈل اور اسپنچ کھیکیڈی-ستیل بول ہیں۔
+
+زرد رنگ کے پھٹنے سے مُلک میں بھورے بُت‌پرستانہ چاول ، بچوں کی ریڑھ کی ہڈی ، اُس کی ہڈی اور گردوں کا دورہ پڑ رہا تھا ۔
+
+## Instructions
+1. رینسی پیلے رنگ کے مُرنگ دَل اور بھورے بُمَتِی چاول جب تک پانی صاف نہ ہو جائے۔
+2. زیتون کے تیل کو درمیان میں گرم کرنے کے بعد ۳۰ سیکنڈ تک گرم کِیا جاتا ہے ۔
+3. اِس کے علاوہ اُس وقت تک گرمی کم ہو جاتی ہے جب تک وہ نرم‌مزاج نہیں ہوتا ۔
+4. آخری 3 منٹ کے دوران بچے کی ریڑھ کی ہڈی میں داخل ہو جانا جب تک کہ اُس کا انتقال نہ ہو جائے ، پھر اُس وقت تک اُس کی خدمت کریں ۔
+:::

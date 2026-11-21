@@ -93,3 +93,39 @@ prepTimeSource: 'https://www.ambitiouskitchen.com/best-turkey-chili/'
 3. कुस्करलेले टोमॅटो, राजमा आणि काळे बीन्स मिसळा.
 4. झाकण ठेवून मंद आचेवर 30 मिनिटे शिजवा, मीठ घाला आणि गरम वाढा.
 :::
+
+:::lang en
+# Southwest Turkey Chili
+
+A lean and comforting chili made with ground turkey, kidney beans, tomatoes, and southwest spices.
+
+## Instructions
+1. Heat olive oil in a large pot and brown ground turkey with chopped onion and garlic.
+2. Add chili powder and cumin, stirring for 1 minute.
+3. Stir in crushed tomatoes, kidney beans, and black beans.
+4. Simmer covered on low heat for 30 minutes, season with salt, and serve hot.
+:::
+
+:::lang bn
+# দক্ষিণপশ্চিম তুরস্ক চিলি
+
+একটি ছোট এবং সান্ত্বনাদায়ক মিষ্টির সাথে মাটির সাথে ফুকি, ফুকি, ফুকি বিন, টমেটো এবং দক্ষিণ-পশ্চিমাঞ্চলে তৈরি।
+
+## Instructions
+1. প্রচুর পরিমাণে জলপাই তেল এবং বাদামি রঙের বাদামি রঙের সসেজ দিয়ে তৈরি।
+2. কাইলি পাউডার যোগ করো... ...আর Momin, 1 মিনিটের জন্য প্রেরণা.
+3. ঘন টমেটো, ইঞ্জেকশনের শিম আর কালো শিমের উপর.
+4. গরম আবহাওয়ার কারণে ৩০ মিনিটের জন্য গরম, লবণ ও গরমে ঢেকে রাখা হয় ।
+:::
+
+:::lang ur
+# جنوب مغربی ترکی
+
+اِس کے بعد اُس نے اُن سے پوچھا : ” کیا مَیں اُن کے ساتھ ہوں ؟ “
+
+## Instructions
+1. زیتون کا تیل بڑے برتنوں اور بھورے مٹی کے برتنوں پر مشتمل تھا ۔
+2. [ تصویر کا حوالہ ]
+3. اِس کے بعد اُس نے اُن سے پوچھا : ” کیا مَیں اِس بات پر یقین رکھتا ہوں کہ مَیں اُن کے ساتھ ہوں ؟ “
+4. سمر نے 30 منٹ تک کم درجہ حرارت ، نمک سے بھرے ہوئے اور گرم خدمت انجام دی ۔
+:::

@@ -85,3 +85,39 @@ prepTimeEstimated: true
 3. बाल्सामिक व्हिनेगरसह उर्वरित ऑलिव्ह ऑइल फेटा.
 4. कोमट गव्हाची बेरी आणि भाजलेले बीट्स अरुगुलासह टाका आणि बाल्सॅमिक ड्रेसिंगसह रिमझिम पाऊस करा.
 :::
+
+:::lang en
+# Whole Wheat Berry and Roasted Beet Salad with Arugula
+
+Chewy wheat berries tossed with roasted red beets, peppery arugula, and a bright balsamic lemon dressing.
+
+## Instructions
+1. Preheat the oven to 200 C; toss diced beets with half the olive oil and roast for 30 minutes until tender.
+2. Simmer wheat berries in plenty of water for 40 to 45 minutes until chewy, then drain well.
+3. Whisk remaining olive oil with balsamic vinegar.
+4. Toss warm wheat berries and roasted beets with arugula and drizzle with the balsamic dressing.
+:::
+
+:::lang bn
+# আরগুলার সাথে সম্পূর্ণ ওয়াহেট বেরি এবং পুডিং বেট সালাদ
+
+গমের মাংসে লাল দাগ, মরিচের টুকরো, মরিচের ফিতা, আর উজ্জ্বল লেবুর লেবুর পোষাক।
+
+## Instructions
+1. টরেন্ট গ্যাসগুলো ২০০ সি থেকে ২০০ সি পর্যন্ত তৈরি; জলপাই তেল এবং ৩০ মিনিট পর্যন্ত রোপিত।
+2. সা. কা.
+3. কা. পূ.
+4. গরম গম ফলা আর রোস্টে আরুগুলা আর মাংসের ঝরানো কাপড়।
+:::
+
+:::lang ur
+# اروگولا کے ساتھ بیرات سالاد کا داخلہ
+
+اِس کے بعد اُس نے کہا : ” اَے [ یہوواہ ] !
+
+## Instructions
+1. زیتون کے تیل کے نصف حصے میں تیل اور ۳۰ منٹ تک پکایا جاتا ہے ۔
+2. اِس کے بعد گندم کے دانے اِس پانی میں 40 سے 45 منٹ تک پھیل جاتے ہیں ۔
+3. اِس کے علاوہ زیتون کا تیل بھی اِستعمال کِیا جاتا ہے ۔
+4. اِس کے بعد اُس نے اُن سے کہا : ” اَے [ یہوواہ ] !
+:::

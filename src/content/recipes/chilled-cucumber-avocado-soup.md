@@ -86,3 +86,39 @@ prepTimeSource: >-
 3. चवीनुसार मीठ किंवा लिंबाचा रस वाढवा.
 4. थंडगार वाढण्यापूर्वी एक तास रेफ्रिजरेटरमध्ये ठेवा.
 :::
+
+:::lang en
+# Chilled Cucumber Avocado Soup
+
+A creamy, raw blender soup made from fresh cucumbers, avocados, lime juice, cilantro, and garlic.
+
+## Instructions
+1. Combine cucumbers, avocado, water, lime juice, cilantro, garlic, salt, and pepper in a blender.
+2. Blend on high speed until completely smooth.
+3. Adjust salt or lime juice to taste.
+4. Chill in refrigerator for 1 hour before serving cold.
+:::
+
+:::lang bn
+# সচেতন থাক!
+
+একটা ক্রিমি, ক্রিমের সুপ নতুন শূককীট, আভোকাডো, লাইম জুস, সিলেলিন আর রসুন দিয়ে তৈরি ।
+
+## Instructions
+1. জল, চুন, চুন, রসুন, লবন এবং মরিচ ।
+2. একটু মসৃণ না হওয়া পর্যন্ত উপরে শুয়ে থাকো.
+3. স্বাদ নিতে লবণ বা লাইম জুস পরিবর্তন করো।
+4. ঠাণ্ডার আগে ১ ঘন্টা ফ্রিজে শান্ত হও।
+:::
+
+:::lang ur
+# Chiled Cucumber Avocado Soup
+
+اِس کے علاوہ اُس نے اِس بات کا بھی ذکر کِیا کہ اُس نے اُس کے لئے اپنی جان قربان کر دی ۔
+
+## Instructions
+1. اِس کے علاوہ اِس میں بھی بہت سی چیزیں پائی جاتی ہیں ۔
+2. اُس وقت تک اِس کی رفتار تیز ہو جاتی ہے ۔
+3. نمک یا شکر کا ذائقہ زیادہ خوشگوار ہوتا ہے ۔
+4. سردیوں میں خدمت کرنے سے پہلے وہ 1 گھنٹے تک سگریٹ‌نوشی کرتے رہے ۔
+:::

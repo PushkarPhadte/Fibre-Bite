@@ -86,3 +86,36 @@ prepTimeEstimated: true
 2. मॅकेरलचे फिले डिशमध्ये ठेवा, त्यांना जैतुनाचे तेल आणि लिंबाचा रस लावा, नंतर काळी मिरी भुरभुरून चव द्या.
 3. माशावर शेपू आणि केपर्स पेरा; मासा अपारदर्शक आणि सहज पाकळ्यांसारखा सुटणारा होईपर्यंत १२ ते १५ मिनिटे बेक करा.
 :::
+
+:::lang en
+# Baked Mackerel with Dill, Capers, and Lemon
+
+Flavorful Atlantic mackerel baked with fresh dill, capers, and lemon juice for a nutrient-dense seafood dish.
+
+## Instructions
+1. Preheat the oven to 195 C and line a baking dish with parchment paper.
+2. Place mackerel fillets in the dish, brush with olive oil and lemon juice, and season with black pepper.
+3. Scatter dill and capers over the fish and bake for 12 to 15 minutes until opaque and flaky.
+:::
+
+:::lang bn
+# দিল, ক্যাপার্স এবং লেবুর সাথে হারিয়ে যাওয়া ম্যাকরেল
+
+ফ্লেভারফুল আটলান্টিক ম্যাকরেল নতুন ডিলে, ক্যাপার আর লেবুর রস দিয়ে বানানো সামুদ্রিক খাবারের জন্য।
+
+## Instructions
+1. এটা দিয়ে বের করা হয় ।
+2. খাবারে মাসারেল ভর্তি, জলপাই তেল আর লেবুর রস দিয়ে ব্রাশ করা, আর কালো মরিচের রস।
+3. মাছ আর টুপিওয়ালারা ১২ থেকে ১৫ মিনিটের জন্য মাছ আর মাছ ধরে।
+:::
+
+:::lang ur
+# ڈِل، کیپر اور لیمون کے ساتھ میکرل
+
+مصنوعی اٹلانٹک میکر نے تازہ ڈائیول، کیپرز اور ٹماٹر جوہر کے لیے پکایا۔
+
+## Instructions
+1. اِس کے بعد اُس نے اُن سے کہا : ” اَے میرے بیٹے !
+2. اِس کے بعد اُس نے اُسے تیل اور ٹماٹر کے جوس میں استعمال کِیا ۔
+3. مچھلیوں کے اُوپر سے تیرنے والوں کو ۱۲ سے ۱۵ منٹ تک کھانا کھلایا جاتا ہے ۔
+:::

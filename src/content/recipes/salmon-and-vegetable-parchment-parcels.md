@@ -111,3 +111,42 @@ prepTimeEstimated: true
 4. पेपरची घडी घालून कडा घट्ट दुमडून बंद करा. पार्सल्स ट्रेमध्ये ठेवून 18 ते 20 मिनिटे बेक करा.
 5. वाढताना काळजीपूर्वक उघडा, कारण आतली वाफ खूप गरम असेल.
 :::
+
+:::lang en
+# Salmon and Vegetable Parchment Parcels
+
+Salmon fillets steamed in baking paper with zucchini, carrot, tomato and dill, so nothing needs frying and the juices stay in.
+
+## Instructions
+1. Heat the oven to 200 C and cut four large squares of baking paper.
+2. Pile the zucchini, carrot, onion, tomato and garlic in the centre of each square and season lightly.
+3. Lay a salmon fillet on top of each, drizzle with the oil and lemon juice and scatter with dill and pepper.
+4. Fold the paper over and crimp the edges tightly to seal. Bake on a tray for 18 to 20 minutes.
+5. Open carefully at the table, as the steam is hot.
+:::
+
+:::lang bn
+# স্যালমন এবং ভেগ্রেগেটমেন্ট পার্সেল
+
+কিন্তু, এতে কোনো লাভ নেই ।
+
+## Instructions
+1. গ্যাস থেকে ২০০ C-এ রূপান্তর এবং চারটি বড় বর্গ কাটা.
+2. এটা মেকচিনি, জারট, লোশন, টমেটো আর রসুনের পাই।
+3. প্রথমে, তেল, লেবুর রস এবং মরিচের টুকরো দিয়ে চুইয়ে দিন ।
+4. কাগজটা শক্ত করে সীল মেরে ফেল । ট্রেতে ব্রেক ১৮ থেকে ২০ মিনিট পর্যন্ত।
+5. টেবিলে সাবধানে খোল, স্টীম গরম।
+:::
+
+:::lang ur
+# اِس سے ظاہر ہوتا ہے کہ اِن میں سے ہر ایک کو اُس کی ضرورت ہے ۔
+
+اِس لئے اُنہیں کچھ بھی نہیں کھانا پڑتا تھا ۔
+
+## Instructions
+1. اوون 200 سی کو کاٹ کر چار بڑے بڑے بڑے کاغذ کو کاٹ دیا ۔
+2. ہر مربع اور موسم کے مرکز میں چاول ، آلو ، ٹماٹر اور لہسن کی کاشت کریں ۔
+3. ہر ایک کے اوپر ایک حصے پر ایک لیٹر رکھ کر ، تیل اور ٹماٹر کے جوس کو ملا کر رکھ دیں ۔
+4. کاغذ کو اُوپر سے اُتار کر بند کر دیں ۔ 18 سے 20 منٹ کے لیے ایک ٹرک پر پیک۔
+5. میز پر اچھی طرح سے کھولیں جیسا کہ تار گرم ہوتا ہے ۔
+:::

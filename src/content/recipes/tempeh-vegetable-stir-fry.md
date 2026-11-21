@@ -98,3 +98,39 @@ prepTimeEstimated: true
 3. उरलेल्या तेलात कांदा, लसूण आणि मिरच्या सतत हलवत परता. फरसबी, ढोबळी मिरची आणि टोमॅटो घालून 5 मिनिटे शिजवा.
 4. टेम्पेह पुन्हा घाला, तमारी आणि लिंबाचा रस मिसळून सर्व साहित्य एकत्र परता आणि भातावर वाढा.
 :::
+
+:::lang en
+# Tempeh Vegetable Stir-Fry
+
+Indonesian-style tempeh stir-fried with beans, pepper and tomato in tamari and lime.
+
+## Instructions
+1. Cook the rice as directed.
+2. Brown the tempeh in half the oil for 6 minutes and set aside.
+3. Stir-fry the onion, garlic and chillies in the remaining oil, add the beans, pepper and tomato and cook for 5 minutes.
+4. Return the tempeh, add the tamari and lime juice, toss and serve over rice.
+:::
+
+:::lang bn
+# টেম্পে
+
+ইন্দোনেশিয়ার স্টাইলে তিমারি এবং লাইলাতে শিম, মরিচ এবং টমেটো দিয়ে ছড়িয়ে পড়ে।
+
+## Instructions
+1. চালের তুলনা করুন।
+2. ২ মিনিট ছয় মিনিট তেলে গিজগিজ করতে হবে।
+3. অবশিষ্ট তেল, রসুন আর ঠান্ডার সাথে সাথে শিম, মরিচ আর টমেটো যোগ করে ৫ মিনিট ধরে রান্না করা যায়।
+4. পাইপে ফিরে যাও, টামারি আর লাইম জুস যোগ করো, আর চালের জন্য কাজ করো।
+:::
+
+:::lang ur
+# تپسیا وجمال (Tempeh Vegetable-Fry)۔
+
+انڈونیشیا-style tempeh متحرک ہوا کرتے ہیں جس میں تاماری اور ٹماٹر میں دانوں، ٹماٹروں اور ٹماٹروں سے جڑے ہیں۔
+
+## Instructions
+1. چاول کو بطور ہدایت کیا.
+2. براؤن کو آدھی رات تک تیل میں سوراخ کرکے الگ کر دیا جاتا ہے۔
+3. باقی تیل میں موجود اون، لہسن اور چربی کو ملا کر 5 منٹ تک پکایا جاتا ہے۔
+4. اِس کے علاوہ اِس میں چاول کا رس بھی شامل کِیا جاتا ہے ۔
+:::

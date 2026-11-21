@@ -106,3 +106,39 @@ prepTimeEstimated: true
 3. गरम पाणी एका वेळी एक पळी असे घालत, वारंवार ढवळत 35 ते 40 मिनिटे शिजवा; बार्लीचे दाणे मऊ आणि रस्सा क्रीमी होईपर्यंत शिजवा.
 4. शेवटच्या 5 मिनिटांत मटार आणि मशरूम मिसळा. मीठ, मिरी, लिंबाचा रस आणि पार्सली घालून चव पूर्ण करा.
 :::
+
+:::lang en
+# Pearl Barley and Mushroom Risotto
+
+A creamy, high-fibre risotto-style dish made with pearl barley, mushrooms and peas, finished with lemon and parsley.
+
+## Instructions
+1. Sauté the mushrooms in half the oil over high heat for 6 minutes until browned, then set aside.
+2. Soften the onion and garlic in the remaining oil for 5 minutes, add the barley and stir for 1 minute.
+3. Add the hot water a ladle at a time over 35 to 40 minutes, stirring often, until the barley is tender with a creamy sauce.
+4. Fold in the peas and mushrooms for the last 5 minutes. Finish with salt, pepper, lemon juice and parsley.
+:::
+
+:::lang bn
+# পার্ল বারলি এবং মাসশরুম রিসোতো
+
+একটি ক্রিমি, উচ্চ-ফিব্রেট-এর তৈরি পোশাক, মাশরুম এবং মটরশুঁটি দিয়ে তৈরি।
+
+## Instructions
+1. সাউতে মাশরুমগুলো সাড়ে ছয় মিনিটের বেশি গরমের সময় অতিরিক্ত গরমের দিকে যাচ্ছে।
+2. ৫ মিনিটের জন্য অবশিষ্ট তেলে নরম রসুন, যব আর ১ মিনিট উত্তেজনা যোগ করে।
+3. গরম জল এক সময়ে ৩৫ মিনিটেরও বেশি সময় ধরে বৃদ্ধি পায় ।
+4. গত ৫ মিনিট ধরে মটরশুটি এবং মাশরুমে শুয়ে পড়ো। লবণ, মরিচ, লেবুর জুস আর প্যালা দিয়ে শেষ।
+:::
+
+:::lang ur
+# پرل بارلی اور مُشُوم ریتتو
+
+ایک کریمی، اعلیٰ درجے کے risoto-style use جس میں موتی جَو، جَو اور پَس کے ساتھ تیار کیا گیا تھا، اس کا اختتام اناج اور چکیلے سے ہوا۔
+
+## Instructions
+1. اِس کے بعد اُس نے اِسے اُوپر سے رکھ دیا ۔
+2. باقی پانچ منٹ تک تیل میں موجود اون اور لہسن کو ملا کر 1 منٹ تک پکایا جاتا ہے ۔
+3. اُس وقت گرم پانی میں 35 سے 40 منٹ پر اضافہ ہوتا ہے ۔
+4. گزشتہ 5 منٹ کے لئے پیکوں اور چکیوں میں تیار. اِس کے بعد اُس کا ذائقہ ٹھنڈا ہو جاتا ہے ۔
+:::

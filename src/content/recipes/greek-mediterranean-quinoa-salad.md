@@ -108,3 +108,39 @@ prepTimeEstimated: true
 3. लहान बरणीत एक्स्ट्रा व्हर्जिन ऑलिव्ह ऑइल, लिंबाचा रस, ओरेगॅनो, मीठ आणि मिरपूड फेटून एकत्र करा.
 4. सॅलडवर ड्रेसिंग ओता, हलक्या हाताने मिसळा आणि थंड वाढा.
 :::
+
+:::lang en
+# Greek Mediterranean Quinoa Salad
+
+A vibrant, refreshing Mediterranean bowl combining protein-rich quinoa, cucumbers, cherry tomatoes, Kalamata olives, and crumbled feta cheese with extra virgin olive oil.
+
+## Instructions
+1. Cook quinoa in water/stock for 15 minutes until fluffy; let cool.
+2. In a large bowl, combine cooled quinoa, tomatoes, cucumber, Kalamata olives, and crumbled feta.
+3. Whisk extra virgin olive oil, lemon juice, oregano, salt, and pepper in a small jar.
+4. Pour dressing over salad, toss gently, and serve chilled.
+:::
+
+:::lang bn
+# গ্রিস
+
+একটি সতেজ, সতেজ, সতেজ ভূমধ্যসাগরীয় বাটি যাতে প্রোটিনে ভরা মিষ্টি, শ্যাম্পু, চেরি টমেটো, কালসাটা জলপাই এবং আরো কুমারী জলপাই তেল দিয়ে টুকরো টুকরো করা হয়।
+
+## Instructions
+1. কুক কুইনো পানি/স্কেক থেকে ১৫ মিনিটের জন্য পানি ছাড়া পাবে না।
+2. বড় এক বাটি বাটিতে, এটাকে একত্রিত করা, টমেটো, চিনির বাগান, কালটা জলপাই, এবং মাটির টুকরো টুকরো হয়ে যায় ।
+3. প্রচুর পরিমাণে ফল উৎপন্ন করা
+4. সালাদ, কোমলভাবে কাপড় পরুন এবং ঠাণ্ডায় পরিবেশন করেন ।
+:::
+
+:::lang ur
+# یونانی بحیرۂروم کوکوا سالد
+
+تازہ‌ترین ، تازگی‌بخش بحیرۂروم کے پیالے جن میں پروٹین کی‌جنا ، گاجر ، چیری ٹماٹر ، کالامتا زیتون اور دیگر کنواری زیتون کا تیل شامل ہے ۔
+
+## Instructions
+1. پانی میں کوکو کینیا/stock 15 منٹ تک، یہاں تک کہ ٹھنڈا کرنا؛
+2. ایک بڑے پیالے میں ٹھنڈے پن ، ٹماٹر ، کیک‌مبر ، کالامتا زیتون اور سوکھے بیج کو ملا کر رکھ دیا جاتا ہے ۔
+3. اِس کے علاوہ اُس نے زیتون کے تیل کو بھی استعمال کِیا ۔
+4. اِس لئے اُس نے اُن کی دیکھ‌بھال کی ۔
+:::

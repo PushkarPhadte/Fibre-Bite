@@ -98,3 +98,39 @@ prepTimeSource: 'https://cookthestory.com/15-minute-gazpacho/'
 3. मीठ आणि मिरी घाला; हवे तसे घट्टपण मिळवण्यासाठी गरज असल्यास थोडे थंड पाणी घाला.
 4. थंड भांड्यांत वाढण्यापूर्वी किमान 2 तास फ्रिजमध्ये थंड करा.
 :::
+
+:::lang en
+# Spanish Gazpacho (Cold Tomato Soup)
+
+A chilled Andalusian raw vegetable soup blended from ripe tomatoes, cucumbers, bell peppers, garlic, and extra virgin olive oil.
+
+## Instructions
+1. Combine chopped tomatoes, cucumber, green bell pepper, garlic, olive oil, and vinegar in a high-speed blender.
+2. Blend on high until completely smooth.
+3. Season with salt and pepper, adding a splash of cold water if needed for desired consistency.
+4. Chill in the refrigerator for at least 2 hours before serving in cold bowls.
+:::
+
+:::lang bn
+# স্প্যানিশ Gazasapoo (Conadamo Sode)
+
+পাকা টমেটো, সসেজ, মরিচ, রসুন এবং অতিরিক্ত কুমারী জিতবৃক্ষের তেল দিয়ে তৈরি একটি ঠাণ্ডা আন্দাবাদ ।
+
+## Instructions
+1. কম্বিন কাটা টমেটো, সসলার, সবুজ বেলের মরিচ, রসুন, জলপাই এবং ভিনেগার উচ্চ দ্রুত গতিসম্পন্ন অবস্থায়।
+2. একদম মসৃণ না হওয়া পর্যন্ত শুয়ে থাকো.
+3. লবণ এবং মরিচের সঙ্গে সসেজ, যদি প্রয়োজন হয়, তাহলে ঠাণ্ডা জল যোগ করুন ।
+4. ঠাণ্ডা বাটিতে কাজ করার আগে অন্তত ২ ঘন্টা ধরে ফ্রিজে শান্ত থাকো।
+:::
+
+:::lang ur
+# سپینش گازپاچو (Cold Tomato Soup)
+
+اِس کے علاوہ اَور بھی بہت سے لوگ اِس بات پر پکا ایمان رکھتے ہیں کہ اُن کے کھانے پینے کی چیزیں اُن کے لیے اِستعمال کی جاتی ہیں ۔
+
+## Instructions
+1. مونگ پھلی ٹماٹر، کیکمبر، ہرے بیل کا رس، لہسن، زیتون کا تیل اور آلو وغیرہ ایک اعلیٰ قسم کے ملانے والے میں شامل ہیں۔
+2. اُس نے کہا : ” مَیں اُس وقت تک نہیں جاؤں گا جب تک کہ مَیں اُس کے پاس جاؤں ۔ “
+3. اگر ضرورت پڑنے پر پانی کو ٹھنڈا کِیا جائے تو نمک اور دہی کے پانی میں شامل کریں ۔
+4. سردیوں کے برتنوں میں خدمت کرنے سے پہلے ، چیل میں کم‌ازکم ۲ گھنٹے آرام کرتا ہے ۔
+:::

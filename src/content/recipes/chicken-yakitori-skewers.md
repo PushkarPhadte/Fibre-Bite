@@ -94,3 +94,36 @@ prepTimeEstimated: true
 2. चिकन, पातीचा कांदा आणि ढोबळी मिरची सळ्यांवर ओवून घ्या.
 3. सळ्या फिरवत 10 ते 12 मिनिटे ग्रिल करा, चिकन पूर्ण शिजून त्यावर भाजल्याचे काळसर डाग येईपर्यंत; काकडीसोबत वाढा.
 :::
+
+:::lang en
+# Chicken Yakitori Skewers
+
+Tamari-glazed grilled chicken thigh skewers with spring onion and pepper.
+
+## Instructions
+1. Mix the tamari, ginger, garlic, lime juice and oil and coat the chicken; marinate for 15 minutes.
+2. Thread the chicken, spring onion and pepper onto skewers.
+3. Grill for 10 to 12 minutes, turning, until cooked through and charred; serve with the cucumber.
+:::
+
+:::lang bn
+# মুরগি ইয়াকিরি স্কিয়ার
+
+টাপিরি-গজর্দমাক্ত মুরগির শূককীড়া দিয়ে বসন্ত এবং মরিচের মতো মরিচ।
+
+## Instructions
+1. টারি, ডোরা, রসুন, চুন, চুন, তেল এবং মুরগির কোটকে বাড়িয়ে ১৫ মিনিট ধরে রাখুন ।
+2. মুরগি, বসন্ত এবং মরিচের টুকরো।
+3. প্রায় ১০ থেকে ১২ মিনিটের জন্য গ্রিগেজ, যতক্ষণ না রান্না করা হয়, ততক্ষণ পর্যন্ত খাবার খাওয়া বন্ধ করে দেওয়া হয়; হৃৎপিণ্ড দিয়ে পরিবেশন করা হয় ।
+:::
+
+:::lang ur
+# چیکن یاکیتوری سکینڈرز
+
+تھری گلیشئر پری اون اور پُل سے چلنے والی مرغی رانوں کی مشق۔
+
+## Instructions
+1. اِس کے بعد اُس نے اُسے اِس چیز سے محروم کر دیا ۔
+2. مرغی کو پڑھ کر ، چشمہ اونن اور مرغیوں کو سُن کر رکھیں ۔
+3. اُس وقت تک اُن کی عمر ۱۰ سے ۱۲ منٹ تھی ۔
+:::

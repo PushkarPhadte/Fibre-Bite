@@ -87,3 +87,39 @@ prepTimeEstimated: true
 3. घट्ट नारळाचे दूध ओता, ताजी कढीपत्ता पाने घाला आणि लगेच आचेवरून उतरवा.
 4. वाढण्यापूर्वी रस्स्यावर कच्च्या नारळाच्या तेलाची धार घाला.
 :::
+
+:::lang en
+# Olan (Kerala White Gourd and Cowpeas Curry)
+
+A soothing, light Kerala curry made with ash gourd, red cowpeas, fresh coconut milk, and curry leaves.
+
+## Instructions
+1. Cook ash gourd cubes and green chillies in thin coconut milk with salt until soft.
+2. Add boiled red cowpeas and simmer for 3 minutes.
+3. Pour in thick coconut milk, add fresh curry leaves, and remove immediately from heat.
+4. Drizzle raw coconut oil over the curry before serving.
+:::
+
+:::lang bn
+# ওলান (কারলা হোয়াইট গুর্দ) এবং কোপেরাস কারি
+
+তাই, এতে অবাক হওয়ার কিছু নেই যে, প্রচুর গাছপালা রয়েছে ।
+
+## Instructions
+1. রান্নার ছাইসমূহ ঘন নারিকেলের দুধ ও সবুজ ঠাণ্ডার ফলে যতক্ষণ না নরম হয়, ততক্ষণ পর্যন্ত ঘন লবণের সঙ্গে লবণে ভরে থাকে ।
+2. তিন মিনিটের জন্য লাল গরু ও সিমমার যোগ করো।
+3. নারিকেলের দুধ, তাজা রস পাতা যোগ করুন এবং অবিলম্বে গরম থেকে সরিয়ে নিন ।
+4. রান্না করার আগে নারিকেলের তেল হালকা করুন।
+:::
+
+:::lang ur
+# اولان (Kerala White Gourd and Cowpeas Curry)۔
+
+اِس کے علاوہ اُس نے اِن پتوں سے بھی پانی پیا ۔
+
+## Instructions
+1. جب تک نرم‌مزاج نہ ہو ۔
+2. سرخ گائے کو ملا کر 3 منٹ تک پکایا جاتا ہے۔
+3. سخت ناریل کے دودھ میں ملا کر تازہ پتوں کو ملا کر فوراً حرارت سے ہٹا دیں ۔
+4. خشک ناریل کے تیل میں خدمت کرنے سے پہلے ناریل کا تیل ہوتا ہے ۔
+:::

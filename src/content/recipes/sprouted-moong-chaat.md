@@ -110,3 +110,39 @@ prepTimeSource: 'https://www.vegrecipesofindia.com/moong-sprouts-chaat-recipe/'
 3. लिंबाचा रस, जिऱ्याची पूड, चाट मसाला आणि मीठ घाला. नीट मिसळा आणि चव पाहून मसाला समायोजित करा.
 4. अल्पोपहार किंवा हलके जेवण म्हणून लगेच वाढा.
 :::
+
+:::lang en
+# Sprouted Moong Chaat
+
+A fresh, tangy Indian snack of sprouted mung beans, cucumber, tomato, lime, and roasted cumin.
+
+## Instructions
+1. For food safety, steam or boil the mung sprouts for 5 minutes, then drain and cool. Keep them warm instead if serving as a warm chaat.
+2. Combine sprouts, cucumber, tomatoes, onion, cilantro, and chilli in a bowl.
+3. Add lemon juice, cumin powder, chaat masala, and salt. Toss well and taste for seasoning.
+4. Serve promptly as a snack or light meal.
+:::
+
+:::lang bn
+# উজ্জ্বল চাঁদ চাত
+
+এক নতুন, তাজা, টুংই ভারতীয় খাবার, শিম, পীতলা, টমেটো, চুন এবং পচন।
+
+## Instructions
+1. খাদ্য নিরাপত্তার জন্য স্টীম, স্টীম বা মংকে পাঁচ মিনিটের জন্য অঙ্কুরিত করে, তারপর শুকিয়ে যায় এবং ঠাণ্ডা থাকে। তাদেরকে উষ্ণ রাখে, যদি গরম গরম গরম গরম হয়ে থাকে ।
+2. কোইনবিন অঙ্কুরিত হয়, ফলের বাগান, টমেটো, পিঁয়াজ, সিলান্‌রো, এবং বাটি বাটিতে ঠাণ্ডা থাকে ।
+3. লেবুর রস যোগ করুন, moinmin, ধানা, এবং লবণ. ঋতুর জন্য ভাল এবং স্বাদ।
+4. খাবার বা হালকা খাবার হিসেবে তাড়াতাড়ি কাজ করো।
+:::
+
+:::lang ur
+# موہنجودڑو –
+
+ایک تازہ‌دم ، تیلی ہندوستانی پکوانوں ، کیک‌مبر ، ٹماٹروں ، ٹماٹروں ، ٹماٹروں اور جلانے والی چکیوں کی ایک تازہ‌ترین ، ٹانگیں ۔
+
+## Instructions
+1. خوراک کے محفوظ ہونے کے لئے ۵ منٹ تک مونگ‌پھلی کو پکایا جاتا ہے ۔ اُنہیں گرم چوں ۔
+2. اِس کی ایک وجہ یہ ہے کہ اُس نے اِس بات کو تسلیم کِیا کہ اُس نے اُس کی مدد کی ہے ۔
+3. اِس کے علاوہ اِس میں شکر کا رس ، سُرخ رنگ ، شان‌دار اور نمک شامل کِیا جاتا ہے ۔ کھانے پینے کے لئے اچھی طرح اور لطف‌اندوز ہوتے ہیں ۔
+4. کھانے کے فوراً بعد اُس کی خدمت کریں ۔
+:::

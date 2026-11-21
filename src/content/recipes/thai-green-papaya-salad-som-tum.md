@@ -99,3 +99,39 @@ prepTimeEstimated: true
 3. लिंबाचा रस, सोया सॉस आणि नारळाची साखर घालून नीट मिसळा.
 4. किसलेली हिरवी पपई घालून जोरात एकत्र करा; वाढण्यापूर्वी भाजलेले शेंगदाणे भुरभुरा.
 :::
+
+:::lang en
+# Thai Green Papaya Salad (Som Tum)
+
+A tangy, crunchy Northeastern Thai salad made with shredded green papaya, cherry tomatoes, green beans, peanuts, and lime juice.
+
+## Instructions
+1. Pound garlic and red chilli in a mortar with a pestle.
+2. Add long green beans and cherry tomatoes, bruising gently.
+3. Add lime juice, soy sauce, and coconut sugar; mix well.
+4. Add shredded green papaya and toss vigorously; sprinkle roasted peanuts before serving.
+:::
+
+:::lang bn
+# থাই গ্রীন পাপায়া সালাদ (সোম)
+
+একটা ট্যাং, উত্তর উত্তর পূর্ব দিকে লাল পাপিয়া, চেরি টমেটো, সবুজ শিম, বাদাম এবং লাইম জুস দিয়ে তৈরি থাই সালাদ।
+
+## Instructions
+1. পাউন্ড রসুন আর লাল ঠান্ডার সাথে.
+2. সবুজ শিম এবং চেরি টমেটো যোগ করো, আস্তে আস্তে।
+3. হালকা রস, সস এবং নারিকেল চিনি যোগ করুন; একসঙ্গে কাটাও ।
+4. বাদামের রসালো বাদামের স্বাদ
+:::
+
+:::lang ur
+# تھائی سبز پاپائے سالاد (Som Tum) ہے۔
+
+ایک ٹانگی شمال مشرقی تھائی‌لینڈ کے لوگ اِس بات پر یقین رکھتے ہیں کہ یہوواہ خدا نے اُن کی ضروریات پوری کی ہیں ۔
+
+## Instructions
+1. لہسن اور سُرخ سُرخ رنگ کا ہوتا ہے جس کی وجہ سے اُس کا رنگ ٹھنڈا ہو جاتا ہے ۔
+2. سبز دانوں اور چیرری ٹماٹروں کو شامل کریں ۔
+3. اِس کے علاوہ اِس میں شکر ، سوئی کا رس اور ناریل کا ذائقہ بھی شامل کِیا جاتا ہے ۔
+4. اِس کے علاوہ اِس میں سبز پَیا اور کُل‌وقتی خدمت بھی شامل تھی ۔
+:::

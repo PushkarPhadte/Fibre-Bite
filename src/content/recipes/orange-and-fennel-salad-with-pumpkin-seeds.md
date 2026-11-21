@@ -76,3 +76,36 @@ prepTimeEstimated: true
 2. त्यावर ऑलिव्ह तेल आणि लिंबाचा रस घाला आणि मिरी भुरभुरा.
 3. वरून भोपळ्याच्या बिया आणि पुदिन्याची पाने घाला.
 :::
+
+:::lang en
+# Orange and Fennel Salad with Pumpkin Seeds
+
+A crisp winter salad of orange segments and shaved fennel with toasted pumpkin seeds.
+
+## Instructions
+1. Arrange the orange slices and fennel on plates.
+2. Drizzle with the olive oil and lemon juice and season with pepper.
+3. Top with pumpkin seeds and mint.
+:::
+
+:::lang bn
+# পিম্পিন বীজ দিয়ে কমলা ও ফিনায়েল সালাদ
+
+কমলার রঙের সালাদের টুকরো এবং চুনপোকার আখ কাটা আখের বীজ।
+
+## Instructions
+1. কমলার টুকরো আর বোতল প্লেটে নিয়ে এসো।
+2. তেল আর লেবুর জুস দিয়ে হালকা বৃষ্টি।
+3. উপরে কুমড়া বীজ আর মিন্ট।
+:::
+
+:::lang ur
+# اورنج اور فینل سالاڈ کے ساتھ پمپکین نسلیں
+
+اِس کے بعد اُس نے اُن کی مدد کی ۔
+
+## Instructions
+1. اِس کی ایک وجہ تو یہ ہے کہ اُس نے اُن کی خوب حفاظت کی ۔
+2. زیتون کے تیل اور ٹماٹر کے جوس اور کھانے کے ساتھ ساتھ پکتے ہیں ۔
+3. اوپر پمپن بیج اور منٹ کے ساتھ اوپر۔
+:::

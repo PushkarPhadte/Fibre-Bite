@@ -89,3 +89,39 @@ prepTimeSource: 'https://minimalistbaker.com/roasted-cauliflower-steaks-with-chi
 3. जिरे, स्मोक्ड पाप्रिका, लसूण पावडर आणि मीठ एकत्र करा; हे मिश्रण स्टेक्सवर समान रीतीने भुरभुरा.
 4. मऊ आणि सोनेरी-तपकिरी होईपर्यंत 25–30 मिनिटे भाजा.
 :::
+
+:::lang en
+# Spiced Roasted Cauliflower Steaks
+
+Thick-cut cauliflower steaks seasoned with cumin, smoked paprika, garlic powder, and roasted until caramelized.
+
+## Instructions
+1. Preheat oven to 200°C (400°F) and line a baking sheet with parchment paper.
+2. Brush cauliflower steaks with olive oil on both sides.
+3. Mix cumin, smoked paprika, garlic powder, and salt; sprinkle evenly over the steaks.
+4. Roast for 25-30 minutes until tender and golden brown.
+:::
+
+:::lang bn
+# স্পাইপিড কুলি ফুল স্েক্সস
+
+ঘন-তালি ফুল চিরিষণ দিয়ে শুরু হয়।
+
+## Instructions
+1. একটা কাগজ দিয়ে কাগজ বের করা হয় ।
+2. সবদিক থেকে জলপাই তেল নিয়ে ফুল ফোটানো।
+3. গ্লুকোজ, ধূমপায়ী, রসুন পাউডার, এবং লবণ; এমনকি মাংসের উপরে জল ঢেলে দেওয়া ।
+4. ২৫-৩০ মিনিট, কোমল আর সোনালী বাদামের আগ পর্যন্ত।
+:::
+
+:::lang ur
+# سپائیڈرڈ کیولف کیلبیک سٹیکس
+
+یہاں تک کہ کرامیل تیار کئے گئے ۔
+
+## Instructions
+1. پریت اوون 200°C (400°F) تک اور کاغذی کاغذ کے ساتھ ایک ایسی کاغذ کی لائن لگا دیتا ہے۔
+2. دونوں اطراف میں زیتون کا تیل پایا جاتا ہے ۔
+3. اِس کی ایک وجہ تو یہ ہے کہ اِن میں سے زیادہ نمک استعمال کِیا جاتا ہے ۔
+4. 25-30 منٹ تک نرم اور سنہری بھورے رنگ تک داخل ہو جاتا ہے۔
+:::

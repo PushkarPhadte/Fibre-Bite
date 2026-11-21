@@ -105,3 +105,39 @@ prepTimeEstimated: true
 3. हा फोडणीचा मसाला शिजलेल्या डाळ-भाजीच्या रस्स्यात घाला.
 4. वरून ताजा भाजलेला भाजा मसाला भुरभुरा आणि वाढण्यापूर्वी नीट मिसळा.
 :::
+
+:::lang en
+# Dalma (Odisha Lentil and Vegetable Stew)
+
+A wholesome Odia stew cooked with split yellow lentils, raw papaya, pumpkin, eggplant, and dry roasted spices.
+
+## Instructions
+1. Pressure cook toor dal with raw papaya, pumpkin, eggplant, taro, turmeric, salt, and water until tender.
+2. Heat oil/ghee in a small pan, add mustard seeds and cumin seeds until they splutter.
+3. Pour tempering into boiled dal-vegetable stew.
+4. Sprinkle freshly roasted bhaja masala on top and mix well before serving.
+:::
+
+:::lang bn
+# ডালমা
+
+একটা গঠনমূলক ওদিয়া চকেশীবাদ, প্রত্নতা, গন্ধিয়া, কুমড়া, ডিমপের তৈরি মুরগি দিয়ে রান্না করত ।
+
+## Instructions
+1. কিন্তু, গরম জলকে হালকাভাবে নেওয়া উচিত নয় ।
+2. ছোট প্যানে তাপ তেল/ঘোষন যোগ করুন।
+3. পানি গরম হয়ে যাচ্ছে.
+4. অধ্যাপিকা উদবিড়াল তাজা আঘা মাসালার উপরে এবং সেবা করার আগে ভালো ভাবে মিশায়।
+:::
+
+:::lang ur
+# دالما (انگریزی: Odisha Lentil and Vegable Stew) ہے۔
+
+اِس کے بعد اُس نے اُن کے لئے کھانا تیار کِیا ۔
+
+## Instructions
+1. یہاں تک کہ نرم‌مزاجی ، پمپ‌کین ، انڈے ، ٹرُو ، نمکین ، نمک اور پانی سے بھی پانی پکاتا ہے ۔
+2. ایک چھوٹے پن میں ہیٹ تیل/گیے کو ملا کر اس وقت تک رائی کے دانے اور زہریلے بیج شامل کرتے ہیں جب تک کہ وہ سُپرے نہ ہوں۔
+3. اُس کے معدے میں پکایا جاتا ہے۔
+4. اِس کے بعد اُس نے اُس سے کہا : ” مَیں اُس کی خدمت کرنا چاہتا ہوں ۔ “
+:::

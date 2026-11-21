@@ -96,3 +96,36 @@ prepTimeEstimated: true
 2. गॅस बंद करून कांदा, लिंबाचा रस, तमारी, तिखट, पुदिना आणि कोथिंबीर मिसळा.
 3. हे मिश्रण लेट्यूसच्या पानांत भरून वाढा.
 :::
+
+:::lang en
+# Thai Chicken Larb Lettuce Cups
+
+Minced chicken tossed with lime, mint and coriander and served in crisp lettuce leaves.
+
+## Instructions
+1. Cook the chicken in the oil with a splash of water for 6 to 8 minutes, breaking it up, until cooked through.
+2. Take off the heat and toss with the onion, lime juice, tamari, chilli, mint and coriander.
+3. Spoon into lettuce leaves and serve.
+:::
+
+:::lang bn
+# থাই মুরগীন লারব লেটুস কাপ
+
+মুরগির মাংস চুন, মিন্ট এবং কোয়রান্ডার পাতা দিয়ে পরিবেশন করা হয় ।
+
+## Instructions
+1. মুরগিটাকে ছয় থেকে ৮ মিনিট পর্যন্ত তেলে রান্না করা, রান্না না করা পর্যন্ত।
+2. শ্যাম্পু, লাইম জুস, টামারি, ঠাণ্ডা, মোয়া এবং কোরিয়ান্ডার দিয়ে গরম করুন ।
+3. লেটুস ছেড়ে গিয়ে সেবা করে।
+:::
+
+:::lang ur
+# تھائی چیکن لارب لیٹس کپ
+
+مونگ‌پھلی ، مِن اور کوریان‌در کے ساتھ مرغی کا استعمال کِیا جاتا تھا ۔
+
+## Instructions
+1. تیل میں موجود مرغی کو 6 سے 8 منٹ تک پانی میں پکایا جاتا ہے ۔
+2. اِس کے علاوہ اِن میں سے بہت سے لوگ اِس بات پر زور دیتے ہیں کہ اِن میں سے ہر ایک کو اِس کی ضرورت ہے ۔
+3. اسپنج کے پتوں اور خدمت میں آتا ہے۔
+:::

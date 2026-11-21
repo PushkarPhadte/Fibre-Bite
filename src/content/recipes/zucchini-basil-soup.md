@@ -79,3 +79,33 @@ zucchini आणि बटाटा एक हलका हिरवा सूप
 1. कांदा आणि लसूण मऊ होईपर्यंत तेलात शिजवा, नंतर बटाटा, झुचीनी, मीठ आणि पाणी घाला आणि 15 मिनिटे उकळवा.
 2. तुळस घाला, गुळगुळीत होईपर्यंत मिसळा, मिरपूड घाला आणि पुन्हा गरम करा.
 :::
+
+:::lang en
+# Zucchini Basil Soup
+
+A light green soup of zucchini and potato blended with fresh basil.
+
+## Instructions
+1. Cook the onion and garlic in the oil until soft, then add the potato, zucchini, salt and water and simmer for 15 minutes.
+2. Add the basil, blend until smooth, season with pepper and reheat.
+:::
+
+:::lang bn
+# জুমিচিনি বাসিল সম্পু
+
+জুকুচিনি আর আলু তাজা বেসিলের হালকা সবুজ সুপ।
+
+## Instructions
+1. নরম না হওয়া পর্যন্ত তেলে ও রসুন ও রসুনকে রান্না করুন, তারপর আলু, লবণ, লবণ ও জল ও রস যোগ করুন ১৫ মিনিট ধরে ।
+2. রসালো বের করো, যতক্ষণ না মসৃণ হয়ে যাবে, সুড়সুড়ি খাও, মরিচ আর রিলা।
+:::
+
+:::lang ur
+# ذوقی بصری سوپ -
+
+ایک ہلکے سبز رنگ کا سبز رنگ کا سکہ اور اُس نے تازہ بانس سے ملا دیا ۔
+
+## Instructions
+1. تیل میں اون اور لہسن کو نرم کرنے تک کُل‌وقتی طور پر استعمال کِیا جاتا ہے ۔
+2. اِس کے علاوہ اُس وقت تک اِس کا ذائقہ اَور زیادہ مضبوط ہو جاتا ہے ۔
+:::

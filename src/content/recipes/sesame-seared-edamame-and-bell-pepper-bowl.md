@@ -88,3 +88,36 @@ prepTimeEstimated: true
 2. ठेचलेला लसूण घालून सुगंध येईपर्यंत 1 मिनिट शिजवा. मग तांदळाचा व्हिनेगर घालून सर्व पदार्थांना नीट लागेल असे हलवा.
 3. वाट्यांमध्ये वाढा आणि सर्व्ह करण्यापूर्वी वरून भाजलेले पांढरे तीळ भुरभुरा.
 :::
+
+:::lang en
+# Sesame Seared Edamame and Bell Pepper Bowl
+
+Shelled edamame seared with crisp red bell pepper, garlic, and toasted sesame for a quick plant-forward bowl.
+
+## Instructions
+1. Heat toasted sesame oil in a skillet over medium-high heat and sear shelled edamame and diced red bell pepper for 5 minutes.
+2. Add minced garlic and cook for 1 minute until fragrant, then splash in rice vinegar and toss to coat.
+3. Spoon into bowls and sprinkle with toasted white sesame seeds before serving.
+:::
+
+:::lang bn
+# সেমিফাইড এডমেম এবং বেল পেপারে
+
+লাল বেলের মরিচ, রসুন এবং টোস্টের কাপ দিয়ে তৈরি মদ।
+
+## Instructions
+1. মাঝারি তাপ ও সমুদ্রের গোলার্ধের ওপর হকির ক্রিমের তেল পাঁচ মিনিটের জন্য লাল মরিচের মতো।
+2. রসুন এবং ১ মিনিটের জন্য রান্না করুন। এরপর চালের দ্রাক্ষালতা এবং কোটের উপর ঢালুন।
+3. বাটি এবং লেবুর মধ্যে সসেজ, পরিবেশনের আগে সাদা রঙের বীজ দিয়ে বানানো।
+:::
+
+:::lang ur
+# سیسم سیّد عدیم اور بیل پپر باؤل
+
+اسکے علاوہ ، اُس نے اِس بات کا بھی خیال رکھا کہ اُس نے اُس کی مدد کی ہے ۔
+
+## Instructions
+1. گرم گرم گرم گرمیوں کے مقابلے میں سطح مرتفع کی سطح پر مائع تیل میں سوراخ کیا جاتا ہے اور اس میں سوراخ کیے جاتے ہیں
+2. اِس کے بعد چاول اور کُل‌وقتی طور پر اُس وقت تک پکایا جاتا ہے ۔
+3. اِس کے بعد اُس نے اُن سے پوچھا : ” کیا مَیں اِس بات کی قدر کرتا ہوں کہ مَیں اُن کے ساتھ کام کر رہا ہوں ؟ “
+:::

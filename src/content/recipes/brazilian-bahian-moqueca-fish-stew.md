@@ -129,3 +129,42 @@ prepTimeEstimated: true
 4. मुरवलेले माशाचे तुकडे उकळत्या मिरची-नारळाच्या रसात अलगद ठेवा. झाकण ठेवून मंद आचेवर 6 ते 8 मिनिटे शिजवा, मासा अपारदर्शक आणि सहज पदर सुटणारा होईपर्यंत.
 5. उरलेला ताजा लिंबाचा रस घाला आणि वरून भरपूर चिरलेली कोथिंबीर पेरा.
 :::
+
+:::lang en
+# Brazilian Moqueca de Peixe (Bahian Fish, Bell Pepper, and Light Coconut Stew)
+
+Aromatic coastal Brazilian seafood stew gently poaching firm white snapper in a vibrant broth of sweet red and yellow bell peppers, tomatoes, light coconut milk, lime, and cilantro.
+
+## Instructions
+1. Toss the fish chunks with half the lime juice, half the minced garlic, and 1 g of salt; let marinate 15 minutes.
+2. Warm the olive oil in a wide clay pot or Dutch oven over medium heat, sauté the onion rings, red and yellow bell peppers, and remaining garlic for 6 minutes until softened.
+3. Stir in the sweet paprika, cumin, diced tomatoes, light coconut milk, and remaining salt, simmering gently for 6 minutes.
+4. Nestle the marinated fish pieces into the simmering pepper-coconut broth, cover, and poach on low heat for 6 to 8 minutes until opaque and flaky.
+5. Finish with the remaining fresh lime juice and a generous scattering of chopped cilantro.
+:::
+
+:::lang bn
+# ব্রাজিলের মোককা দে পেক্সে (বালিয়ান মাছ, বেল পেপার এবং লাইট কন্সটন স্টাই)
+
+ব্রাজিলের শিল্পোন্নত উপকূলীয় সামুদ্রিক খাবার কোমলভাবে লাল এবং হলুদ রঙের মরিচ, টমেটো, হালকা নারিকেল দুধ, চুন এবং সিলান্‌রোর এক মনোরম কোমল কোমল কোমল কোমল কোমল কোমল শপসারের মধ্যে দিয়ে চালিত হয় ।
+
+## Instructions
+1. মাছগুলো চুষা রসের অর্ধেক, পচনীয় রসুনের অর্ধেক এবং ১টা লবণ; ১৫ মিনিট সময় লাগবে ।
+2. প্রচুর মাটির উপর জিতবৃক্ষের তেল বা রঞ্জক গরমের ওপর দিয়ে গরম, সসেজ, লাল ও হলুদ মরিচ এবং ৬ মিনিট ধরে রসুন দিয়ে থাকে ।
+3. মিষ্টি পাস্টিকা, যোয়েন, স্যাঁতসেঁতে টমেটো, হালকা নারিকেল দুধ এবং অবশিষ্ট লবণ ছয় মিনিটের জন্য কোমলভাবে ব্যবহার করে ।
+4. মাছগুলোকে টুকরো টুকরো করে মরিচ-কোকোট্টা, ঢাকা, এবং সাড়ে ৬ থেকে ৮ মিনিট পর্যন্ত নিচু তাপমাত্রায় ফেলা হয়।
+5. অবশিষ্ট তাজা লাইম জুস দিয়ে শেষ করা হবে... ...আর কুড়াল দিয়ে কাটা হবে.
+:::
+
+:::lang ur
+# برازیل Moqueca de Peixe (Bahian Fis, Bell Peper, and Light Coons Stew)۔
+
+برازیل کے ساحلی علاقے میں پائے جانے والے سیاحوں نے بڑی نرمی سے سفید رنگ کے سفید رنگ کو ملا کر خوشبودار سرخ اور پیلے رنگ کے برتنوں ، ٹماٹر ، ہلکا ناریل کا دودھ ، آلو اور سیل‌نٹرو میں رکھا ۔
+
+## Instructions
+1. مچھلی کو اُس کا آدھا حصہ جوتا ، اُس میں نمک اور ۱ گُنا نمک ہوتا ہے ۔
+2. زیتون کے تیل کو وسیع مٹی کے برتن یا ڈچوں کے ذریعے گرم کِیا جاتا ہے ۔
+3. اِس کے علاوہ اِس میں نمک بھی شامل ہوتا ہے ۔
+4. مریخی مچھلی کے ٹکڑوں کو اُوپر کی طرف سے گرم کرنے کے لئے 6 سے 8 منٹ تک کم حرارت پر رکھا جاتا ہے ۔
+5. باقی تازہ کھانوں کے جوس سے پرہیز کریں ۔
+:::

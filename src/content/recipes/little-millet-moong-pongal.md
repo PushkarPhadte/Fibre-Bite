@@ -90,3 +90,36 @@ prepTimeEstimated: true
 2. तेल गरम करून काजू, जिरे, मिरी, आले आणि कढीपत्ता सोनेरी होईपर्यंत परता.
 3. फोडणी पोंगलमध्ये मिसळून वाढा.
 :::
+
+:::lang en
+# Little Millet Moong Pongal
+
+A comforting South Indian one-pot of little millet and moong dal with pepper, cumin and ginger.
+
+## Instructions
+1. Rinse the millet and dal together and cook with the water and salt until very soft, about 25 minutes, mashing lightly.
+2. Heat the oil and fry the cashews, cumin, pepper, ginger and curry leaves until golden.
+3. Stir the tempering into the pongal and serve.
+:::
+
+:::lang bn
+# ছোট্ট মিলস মুনগ পিংগল
+
+দক্ষিণ ভারতের একটি ছোট মিলেট এবং চাঁদ মরিচ, সারমিন আর ভাটা।
+
+## Instructions
+1. চিনির রস এবং পাত্র একসঙ্গে রান্না করে পানি আর লবণ দিয়ে রান্না করা।
+2. তেল আর তেল দিয়ে নগদ খাবার, ফলের তালিকা, মরিচ, ভোদড়, আটা পাতা আর তেল গরম করে।
+3. সুরঙ্গলে মেজাজ গরম করা এবং সেবা করা।
+:::
+
+:::lang ur
+# لٹل ملیٹ موہنگ پنگل
+
+ایک تسلی بخش جنوبی ہندوستانی ایک چھوٹی چھوٹی چھوٹی چھوٹی گلیوں اور چاندوں کی دال کے ساتھ جون، قازان اور گندھک کے ساتھ۔
+
+## Instructions
+1. پانی اور نمک کے ساتھ ملا کر تقریباً ۲۵ منٹ تک ، تقریباً ۲۵ منٹ تک ، پانی اور نمک ملا کر رکھ دیں ۔
+2. تیل اور چاندی کو پیس کر سونے تک پیسا جاتا ہے ۔
+3. اِس کے بعد اُس نے کہا : ” مَیں آپ سے بہت پیار کرتا ہوں ۔ “
+:::

@@ -68,3 +68,36 @@ prepTimeEstimated: true
 2. प्रत्येक कापावर पीनट बटरचा पातळ थर लावा.
 3. वरून चिया बिया आणि दालचिनी भुरभुरा आणि वाढा.
 :::
+
+:::lang en
+# Peanut Butter Apple Chia Stacks
+
+Apple rounds topped with natural peanut butter and chia seeds for a no-cook breakfast.
+
+## Instructions
+1. Arrange the apple rounds on a plate.
+2. Spread each with a thin layer of peanut butter.
+3. Sprinkle with chia seeds and cinnamon and serve.
+:::
+
+:::lang bn
+# পিনারের Apple চিতা স্ট্যাকস
+
+আপেল গোলসটি প্রাকৃতিক বাদামের মাখনের সাথে মিলে গেছে।
+
+## Instructions
+1. একটি প্লেটে আপেলের রাউন্ড ঠিক করুন।
+2. মাখনের পাতলা স্তর দিয়ে প্রত্যেকে ছড়িয়ে দিন ।
+3. সিঙ্গা বীজ আর সিনেমন আর সেবা দিয়ে পান।
+:::
+
+:::lang ur
+# مونگ پھلی بٹر ایپل چیکا سٹیکس
+
+ایپل چکروں کے ذریعے قدرتی مونگ پھلی اور چیکا کے بیج ایک نووکٹ کے کھانے کے لیے دیے جاتے ہیں۔
+
+## Instructions
+1. ایک پلیٹ پر سیب کے گرد گردش کرنا
+2. ہر ایک کو مونگ‌پھلی کے مونگ‌پھلی کی موٹی تہ سے بکھیر دیا جاتا ہے ۔
+3. چیا بیج اور سینمون اور خدمت گار کے ساتھ سپرنک ۔
+:::

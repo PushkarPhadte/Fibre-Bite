@@ -73,3 +73,39 @@ prepTimeEstimated: true
 3. स्टीमर किंवा इडली कुकरमध्ये 15–20 मिनिटे वाफवा.
 4. गरमागरम कडुबू पानांतून सोडवून नारळाच्या चटणीसोबत किंवा सांबाराबरोबर वाढा.
 :::
+
+:::lang en
+# Kotte Kadubu (Karnataka Jackfruit Leaf Steamed Cakes)
+
+A Karnataka coastal delicacy made of ground rice and urad dal batter steamed inside woven jackfruit leaves.
+
+## Instructions
+1. Grind soaked urad dal and rice separately into a smooth batter; mix and ferment overnight.
+2. Add salt to fermented batter and pour into clean jackfruit leaf baskets.
+3. Steam in a steamer or idli cooker for 15–20 minutes.
+4. Unwrap steaming hot kadubu and serve with coconut chutney or sambar.
+:::
+
+:::lang bn
+# কাট্‌দুবু (কার্তিকা জ্যাক লাইলা লিফ স্টীম)
+
+ধান দিয়ে তৈরি কর্নাতাকার উপকূলীয় অঞ্চল।
+
+## Instructions
+1. গ্রিন্ড ইউড দে আর ভাত আলাদা আলাদা আলাদা আলাদা আলাদা নির্যাতনে; একসাথে আর রাতে কাটা।
+2. আপনি কি মনে করতে পারেন?
+3. ১৫-২০ মিনিট ধরে স্টেম বা স্টেম রান্নাকারী।
+4. গরম গরম কাদুবু এবং নারিকেল চুটনি বা সাম্বার সঙ্গে সেবা করে ।
+:::
+
+:::lang ur
+# کوئٹہ کادوبو (Karnataka Jack feature Leaf Steamed Kakes)۔
+
+زمین کے چاول سے بنے ایک ساحلی ساحلی پٹی اور گردے کے نیچے پر پھیلے ہوئے پتوں کے اندر گھس گئے ۔
+
+## Instructions
+1. اِس کی وجہ سے اِن میں سے ایک رات اُن کے ساتھ مل جاتی ہے ۔
+2. اِس میں نمک شامل کِیا جاتا ہے تاکہ اِسے صاف کِیا جائے ۔
+3. سٹیم 15–20 منٹ کے لیے ایک سپرر یا idli coker میں۔
+4. اِس کے علاوہ اُنہوں نے ناریل یا سمبر کے ساتھ مل کر اُن کی خدمت کی ۔
+:::

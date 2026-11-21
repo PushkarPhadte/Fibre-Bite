@@ -101,3 +101,39 @@ prepTimeEstimated: true
 3. गाळलेले अंडे-दाशीचे मिश्रण भरावणावर हळूहळू ओता आणि पृष्ठभागावरील बुडबुडे चमच्याने काढा.
 4. प्रत्येक कपावर लहान झाकण किंवा फॉइल सैल ठेवा, उकळत्या पाण्यावरच्या स्टीमरमध्ये ठेवा आणि मंद आचेवर 16 ते 18 मिनिटे वाफवा; कस्टर्ड हलके सेट होऊन सौम्यपणे हलू लागेपर्यंत शिजवा.
 :::
+
+:::lang en
+# Japanese Chawanmushi (Steamed Egg Custard with Shrimp and Shiitake)
+
+Silky, low-calorie Japanese savory egg custard gently steamed with dashi broth, shrimp, fresh shiitake mushrooms, and spinach.
+
+## Instructions
+1. Beat the eggs gently with chopsticks without creating foam, then stir in the cooled dashi broth, low-sodium tamari, and ginger juice and pass through a fine-mesh sieve.
+2. Divide the raw shrimp, sliced shiitake mushrooms, and blanched spinach evenly between two heatproof custard cups.
+3. Slowly pour the strained egg-dashi mixture over the fillings and skim any surface bubbles with a spoon.
+4. Cover each cup loosely with a small lid or foil, place in a steamer over simmering water, and steam on low heat for 16 to 18 minutes until gently set and jiggling softly.
+:::
+
+:::lang bn
+# জাপানি চাওয়ানমুশি (সুমিত এঘ কস্টার) শ্রিম্প এবং শিরিটেক এর সাথে যুক্ত।
+
+রেশমি, কম-কালসি জাপানী ডিমের মাংসের ঝোঁকগুলো ধীরে ধীরে ফুলে ওঠে।
+
+## Instructions
+1. সসেজ না খেয়ে চপস্টিক দিয়ে ডিমটা মারুন, তারপর ঠাণ্ডা টুকরো টুকরো টুকরো টুকরো করে, কম-সোড টরমা আর বেজ রস দিয়ে বের হয়ে যায়।
+2. তাই, এতে অবাক হওয়ার কিছু নেই যে, প্রথম ঋতুস্রাব হলটা অত্যন্ত জটিল ।
+3. ধীরে ধীরে ডিম-দাশির মিশ্রণের মাধ্যমে পূর্ণ এবং চামচ দিয়ে যে কোন পৃষ্ঠের টুকরোর মিশ্রণের মাধ্যমে ছড়িয়ে পড়ে।
+4. এরপর গরম গরমের সময় গরমের মধ্যে দিয়ে গরমের জন্য গরমের ব্যবস্থা করা হয় ।
+:::
+
+:::lang ur
+# جاپان چوانموسی (Steamed Egg Custard with Shirmp and Shiike)۔
+
+ریشمی، کم کیل جاپانی نژاد انڈے کیسٹڈ کے ساتھ بڑی نرمی سے اُس پرے برتھ، شریمپ، تازہ شیشے اور رینچ کے ساتھ نرم نرم کر دیا گیا۔
+
+## Instructions
+1. انڈوں کو آسانی سے چیر پھاڑنے کے بغیر آسانی سے پکایا جاتا ہے، اس کے بعد ٹھنڈے پرتگیزی برہمن، کم سوڈیئم تاماری اور جوس وغیرہ میں جذب کر کے ایک عمدہ سیزن سے گزرتا ہے۔
+2. اُس نے دو گرم پیالے کے درمیان ریڑھ کی ہڈی کو ملا کر رکھ دیا ۔
+3. آہستہ آہستہ انڈوں کی آمیزش بھرتے ہیں اور کسی بھی سطح کے بلبلے کی مدد سے اسکیم کا استعمال کرتے ہیں۔
+4. ہر کپ میں ایک چھوٹی سی لدے یا موم بتیاں رکھ کر پانی کے اوپر رکھ دیں اور 16 سے 18 منٹ تک کم درجہ حرارت پر اُس وقت تک نیچے ڈالیں جب تک نرم اور آہستہ نہ ہو ۔
+:::

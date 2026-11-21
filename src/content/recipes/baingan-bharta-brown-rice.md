@@ -117,3 +117,42 @@ prepTimeEstimated: true
 4. टोमॅटो घालून रसाळ, घट्ट मसाला होईपर्यंत शिजवा. मॅश केलेले वांगे आणि मीठ मिसळा; ८ ते १० मिनिटे शिजवा आणि मध्ये मध्ये ढवळत राहा, म्हणजे धुरकट गर मसाल्यात नीट मिसळेल.
 5. कोथिंबीर घालून ब्राउन राइससोबत सर्व्ह करा.
 :::
+
+:::lang en
+# Baingan Bharta with Brown Rice
+
+Smoky roasted eggplant mashed into a tomato-onion masala and served with nutty brown rice.
+
+## Instructions
+1. Prick the eggplant all over and roast over a gas flame or under a hot grill, turning often, until the skin is charred and the flesh is completely soft. Cool, peel, and mash.
+2. Rinse and cook brown rice according to package directions.
+3. Heat oil in a pan. Cook onion until soft and golden, then add garlic, ginger, cumin, and coriander.
+4. Add tomatoes and cook until saucy. Stir in mashed eggplant and salt; cook for 8 to 10 minutes, stirring to blend the smoky flesh with the masala.
+5. Finish with cilantro and serve with brown rice.
+:::
+
+:::lang bn
+# ব্রাউন রাইসের সাথে বলগান ব্রাহার্টা
+
+আকাশ থেকে পোড়া ডিমের শূককীট, টমেটো চাষা এবং বাদামি রঙের ধান দিয়ে তৈরি।
+
+## Instructions
+1. ডিমের ওপর আগুন বা গরম গরম গরম গরম আগুন নিয়ে আসে, যতক্ষণ না চামড়া লাল হয়ে যায় এবং মাংস পুরোপুরি নরম হয় । কুল, ভিজলাম আর মিশ।
+2. প্যাকেজ নির্দেশ অনুযায়ী রিইনস এবং চিনি বাদামী ভাত রান্না করে।
+3. প্যানের মধ্যে তাপ উৎপাদন। নরম ও সুবর্ণ পর্যন্ত রান্নার পর রসুন, হর, হরেল এবং কোরিয়ান্ডার যোগ করে ।
+4. টমেটো আর রান্না করো যতক্ষণ না সাইসি. শূয়োপোকা ও লবণের শূককীট; ৮ থেকে ১০ মিনিট পর্যন্ত রান্না করা, মাসালা দিয়ে মাংসকে রঞ্জিত করা।
+5. সিলেন্ট্রোর সাথে শেষ হয়ে গেছে আর বাদামী চালের সাথে কাজ করছে।
+:::
+
+:::lang ur
+# بَنگَن بَرَتا جس میں براؤن رائس تھا
+
+سُوکی نے انڈے کو ایک ٹماٹر ماسالا میں پکایا اور اس کے ساتھ گندھک بھورے چاول کا کام کیا۔
+
+## Instructions
+1. اِس کے بعد اُس کی کھال صاف ہو جاتی ہے ۔ کُل‌وقتی خدمت
+2. رینے اور پیکج کی سمتوں کے مطابق بھورے چاول پکا لیں۔
+3. ایک پن میں تیل۔ یہاں تک کہ نرم اور زرخیز ہو جاتا ہے ، اس کے بعد لہسن ، آمیزش ، آلو اور کورینڈر شامل ہوتا ہے ۔
+4. ٹماٹر شامل کریں اور سیوے تک پکا لیں۔ اِس کے بعد اُس کے جسم میں اُگنے والے گوشت کی مقدار بڑھ جاتی ہے ۔
+5. اِس کے علاوہ اُس نے اُن کی مدد کی ۔
+:::

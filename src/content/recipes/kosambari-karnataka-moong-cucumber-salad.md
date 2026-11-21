@@ -104,3 +104,39 @@ prepTimeEstimated: true
 3. तेल गरम करा, मोहरी तडतडू द्या, कढीपत्ता घालून 10 सेकंद परता आणि ही फोडणी कोशिंबिरीवर ओता.
 4. सर्व मिसळा आणि भाज्या कुरकुरीत राहण्यासाठी 30 मिनिटांच्या आत वाढा.
 :::
+
+:::lang en
+# Kosambari (Karnataka Moong Dal and Cucumber Salad)
+
+A traditional temple-festival salad of soaked moong dal, cucumber, carrot and fresh coconut with a mustard and curry-leaf tempering.
+
+## Instructions
+1. Soak the moong dal in water for 2 hours, drain well and keep in a large bowl.
+2. Add the cucumber, carrot, coconut, chilli, coriander, lemon juice and salt.
+3. Heat the oil, crackle the mustard seeds, add the curry leaves for 10 seconds and pour over the salad.
+4. Toss and serve within 30 minutes so the vegetables stay crisp.
+:::
+
+:::lang bn
+# কোসুম্বারি (কানার্নাকা মুনগ ডাল এবং কাউম্বালা সালডা)
+
+একটি ঐতিহ্যবাহী মন্দির-বিস্তৃত চাঁদা, শাল, চাকালা, গাজর এবং তাজা নারিকেল, যা একটি সরিষাদানি দিয়ে তৈরি।
+
+## Instructions
+1. এক কাপ বা দু - ঘন্টা জলে চাঁদকে ভিজিয়ে পরিষ্কার করুন ।
+2. তাই, নারিকেল, নারিকেল, ঠাণ্ডা, কোরান্ডার, লেবুর জুস এবং লবণ পান করুন ।
+3. তেল ঢালে, সরিষার বীজ, ১০ সেকেন্ডের জন্য পাতা যোগ করুন এবং সালাদের উপর ঢেলে দিন।
+4. ৩০ মিনিটের মধ্যে টিয়া এবং সেবা করে যাতে সবজিগুলো খেপে থাকে।
+:::
+
+:::lang ur
+# کوسامباری (Karnataka Mandg Dal اور Ccumber Salad)۔
+
+ایک روایتی مسجد-کریول آف سودن چاند ڈل، کیکمبر، چونے اور تازہ ناریل جس میں ایک دانے اور چونے والے کپڑے پہنے۔
+
+## Instructions
+1. پانی میں 2 گھنٹے، اچھی طرح سے گزرنا اور ایک بڑے برتن میں رکھنا۔
+2. اِس میں کیک ، ناریل ، ناریل ، سُرخ ، کوریان ، ٹماٹر اور نمک شامل ہیں ۔
+3. تیل کو صاف کریں ، رائی کے دانے کو توڑ دیں ، اِس کے پتوں کو 10 سیکنڈ کے لئے ملا دیں اور اِس پر دانے ڈال دیں ۔
+4. اِس طرح سبزیوں کو اِس کی رفتار برقرار رہتی ہے ۔
+:::

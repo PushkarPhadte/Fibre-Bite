@@ -118,3 +118,39 @@ prepTimeEstimated: true
 3. मोठ्या भांड्यात चिरलेला कोबी, कुरकुरीत कमळकाकडी, चिरलेला लाल कांदा, बारीक चिरलेले आले, हिरवी मिरची आणि चिरलेली कोथिंबीर एकत्र करा.
 4. सलाडवर भाजलेले हरभऱ्याचे पीठ, कुटलेले तीळ, मीठ आणि ताज्या लिंबाचा रस शिंपडा; हाताने जोमाने हलवून सर्वत्र नीट मिसळा आणि लगेच वाढा.
 :::
+
+:::lang en
+# Manipuri Singju (Lotus Stem, Cabbage, and Roasted Sesame Salad)
+
+Crunchy, oil-free Northeastern Indian salad tossing thinly shaved lotus stem, green cabbage, red onion, roasted chickpea powder, and toasted sesame seeds with lime.
+
+## Instructions
+1. Blanch the thinly sliced lotus stem in boiling water for 2 minutes, drain, and chill in cold water so it stays crisp; pat completely dry.
+2. Dry-toast the chickpea flour and sesame seeds separately in a skillet over low heat until fragrant and nutty, then coarsely crush the sesame seeds.
+3. Combine the shredded cabbage, crisp lotus stem, sliced red onion, minced ginger, green chili, and chopped cilantro in a large mixing bowl.
+4. Sprinkle the toasted chickpea flour, crushed sesame seeds, salt, and fresh lime juice over the salad, toss vigorously by hand until evenly coated, and serve immediately.
+:::
+
+:::lang bn
+# মণিপুরী শিংজু (লোটাস শটে, কাব্বাগ, এবং সাহ সালাদ)
+
+ক্রাঞ্চি, তেল বিহীন উত্তর-পূর্বাঞ্চল ভারতীয় সালাদের শূককীট, সবুজ ক্যাবেজ, লাল রঙের কুমড়া, কুমড়া, কুমড়ার পাউডার এবং চুষা বীজের সাথে পান করে।
+
+## Instructions
+1. আপনি কি মনে করতে পারেন?
+2. ড্রি-টো-টোট মৌমাছিরা আটা আর সিজন বীজের মাঝে আলাদা করে গরম গরম গরমের মধ্যে আলাদা করে রাখে যতক্ষণ না তারা আটা আর বাদামি গাছকে শুকিয়ে যায়।
+3. প্রথমে, এটা পরিষ্কার করার জন্য ব্যবহৃত হয় ।
+4. এই পানীয়গুলো খুব অল্প পরিমাণে ফল উৎপন্ন করে ।
+:::
+
+:::lang ur
+# مانیپری سنجو (Lotus Stam, Cabbage, and hereed Semas Salad)۔
+
+کرنچی، تیل سے آزاد شمال مشرقی ہندوستانی نژاد خام تیلی تہ دار ریشم، سبز رنگ کا رس، سرخ اون، پگھلے ہوئے لوہے کے پاوڈر اور اس سے بنے ہوئے سیم کے بیج جن کے ساتھ مل کر بنے ہیں۔
+
+## Instructions
+1. اِس کے پانی میں ۲ منٹ ، پانی اور ٹھنڈے پانی میں سوراخ کئے جاتے ہیں ۔
+2. گندھک کے آٹے کے آٹے اور شیشے کے بیج الگ سے درجہ حرارت پر ہوتے ہیں یہاں تک کہ خوشبودار اور خوشبودار ہوتے ہیں، اس کے بعد سیسم کے بیج خراب ہوتے ہیں۔
+3. ایک بڑی آمیزش کے پیالے میں اُس کی چھال ، سُرخ اُون ، سُرخ اُون ، مِن‌دار آمیزش ، سبز رنگ اور لوہے کا تیل شامل کِیا جاتا ہے ۔
+4. اِس کے بعد اُس نے اُس کا تیل اُتار دیا ۔
+:::

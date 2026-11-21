@@ -87,3 +87,39 @@ prepTimeEstimated: true
 3. तोपर्यंत कांदा तेलात मध्यम-कमी आचेवर 25 मिनिटे गडद सोनेरी-तपकिरी होईपर्यंत शिजवा.
 4. डाळ आणि तांदळावर कांदा घालून काकडीसोबत वाढा.
 :::
+
+:::lang en
+# Mujaddara Lentils and Rice with Onions
+
+The Levantine classic of brown lentils and brown rice topped with slow-browned onions.
+
+## Instructions
+1. Simmer the lentils in the water for 15 minutes.
+2. Add the rice, cumin and salt, cover and cook for 30 minutes until both are tender.
+3. Meanwhile, cook the onions in the oil over medium-low heat for 25 minutes until deeply browned.
+4. Top the lentils and rice with the onions and serve with cucumber.
+:::
+
+:::lang bn
+# মুজাদাস ল্যান্তিল এবং ভাত
+
+বাদামি ডাল আর বাদামি ভাতের লেভালেন্টিন ক্লাসিক।
+
+## Instructions
+1. ১৫ মিনিটের জন্য পানির মধ্যে প্রচন্ড গরম।
+2. চাল, minmin এবং লবণ যোগ করুন, কভার এবং ৩০ মিনিট ধরে ও রান্না করুন ।
+3. এদিকে, তেলে পিঁয়াজের পরিমাণ ২৫ মিনিটেরও বেশি।
+4. পিঁয়াজ আর চালের উপরে আর ধোলাই করে।
+:::
+
+:::lang ur
+# اونس کے ساتھ مل کر Mujaddara Lentils اور Rice
+
+بھورے رنگوں اور بھورے رنگ کی کلاسیکی پستولوں سے تیار کی جانے والی سستا پیاز سے لیس ہے۔
+
+## Instructions
+1. 15 منٹ تک پانی میں مونگ پھلی۔
+2. چاول، چاول اور نمک شامل کریں، 30 منٹ تک پکائے اور پکائے یہاں تک کہ دونوں میں شفقت ہو جاتی ہے۔
+3. اس دوران میں 25 منٹ تک تیل میں پیاز پکایا یہاں تک کہ گہرا بھورے رنگ کا تھا۔
+4. لہسن اور چاول کو اُوپر رکھ کر کپاس کے ساتھ کام کرتے ہیں ۔
+:::

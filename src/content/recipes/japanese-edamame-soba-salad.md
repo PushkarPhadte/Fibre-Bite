@@ -92,3 +92,39 @@ prepTimeSource: 'https://cookieandkate.com/cold-sesame-soba-noodles-recipe/'
 3. मोठ्या भांड्यात शिजवलेले सोबा नूडल्स, एडामामे, किसलेली कोबी आणि उभा चिरलेला गाजर एकत्र करा.
 4. तीळाचे तेल, सोया सॉस आणि तांदळाचा व्हिनेगर फेटून एकत्र करा; ते सॅलडमध्ये मिसळा आणि वरून तीळ घाला.
 :::
+
+:::lang en
+# Japanese Edamame Soba Salad
+
+Nutty buckwheat soba noodles tossed with shelled edamame, shredded cabbage, and a sesame-ginger dressing.
+
+## Instructions
+1. Cook soba noodles according to package instructions, rinse with cold water, and drain.
+2. Steam edamame until tender.
+3. In a large bowl, combine cooked soba noodles, edamame, shredded cabbage, and julienned carrot.
+4. Whisk sesame oil, soy sauce, and rice vinegar; toss with the salad and top with sesame seeds.
+:::
+
+:::lang bn
+# জাপানী এডআমিম সোবা সালাদ
+
+নুটি বাকহোয়াত সোবা নুডলস দিয়ে ছ্যাঁচড়া, ছ্যাঁচড়া বাঁধা কাঁড়ির পোশাক।
+
+## Instructions
+1. প্যাকেজ নির্দেশ অনুযায়ী কুক সোবা নুডলস, ঠান্ডা পানি আর ড্রেন দিয়ে পানি পান করে।
+2. কোমল হওয়া পর্যন্ত স্টেম ইমামামে।
+3. একটা বড়ো বাটি বাটি, রান্না করা সোবা নুডুলস, ইডাম, ক্লজেজ এবং জলিলিন কারিট মিলে রান্না করে ।
+4. ঘন ঘন তেল, সয়া সস এবং চালের দ্রাক্ষালতার সস; সা.
+:::
+
+:::lang ur
+# جاپانی ادمے صوبہ سالالد
+
+کرناٹی بک سیریز سوبا نودلس کے ساتھ شیلڈ ادمے، سُرخ رنگ اور ایک سشمی رنگ کا لباس۔
+
+## Instructions
+1. کوک سوبا نودلس پیکج ہدایات کے مطابق، سردیوں کے پانی کے ساتھ اور دوبارہ قابل سکونت۔
+2. ستیم ادمے جب تک نرم نہ رہے۔
+3. ایک بڑے پیالے میں ملا کر سوبا نودلس ، ایڈامے ، سُرخ رنگ کے برتن اور جولی‌ن‌ن‌ڈی کو ملا دیا جاتا ہے ۔
+4. وِس‌کی سُرخ تیل ، سوئی کا تیل اور چاول کا سُرخ بیج ۔
+:::

@@ -87,3 +87,39 @@ prepTimeEstimated: true
 3. मशरूम घालून सोनेरी होईपर्यंत 6–8 मिनिटे शिजवा.
 4. शोरबा किंवा लिंबाचा रस घाला, द्रव आटेपर्यंत शिजवा आणि वरून ताजी पार्सली भुरभुरा.
 :::
+
+:::lang en
+# Spanish Garlic Mushrooms (Champiñones al Ajillo)
+
+Sautéed button mushrooms infused with fragrant garlic, dry white grape juice/broth, parsley, and olive oil.
+
+## Instructions
+1. Heat olive oil in a skillet over medium heat.
+2. Add sliced garlic and chilli flakes; sauté for 1 minute until fragrant.
+3. Add mushrooms and cook for 6–8 minutes until golden.
+4. Pour in broth/lemon juice, cook off liquid, and sprinkle fresh parsley.
+:::
+
+:::lang bn
+# স্প্যানিশ কনস্টানটিন আল আজিলো
+
+সাউতদ বোতামের মাশরুম, ফ্রুগ্রান্ট রসুন, শুকনো সাদা আঙ্গুর জুস/প্রাথ, প্যারলি আর জলপাই তেল দিয়ে তৈরি।
+
+## Instructions
+1. প্রচুর পরিমাণে গরমের কারণে তাপদাহের তেল।
+2. রসুন আর ঠান্ডা পাথর দিয়ে দাও; ১ মিনিটের জন্য রক্ত ঝরানো।
+3. সোনার আগ পর্যন্ত মাশরুম এবং রান্না করুন ৬-৮ মিনিট।
+4. ব্রোথ/লেমন জুস, পানি থেকে রান্না করা, আর নতুন পার্লে।
+:::
+
+:::lang ur
+# سپینش گارلک موسشتومس (Champiñones al Ajillo)۔
+
+اِس کے بعد اُس نے اُن سے کہا : ” مَیں اِس بات کی قدر کرتا ہوں کہ مَیں اُن کے ساتھ ہوں ۔ “
+
+## Instructions
+1. زیتون کا تیل درمیانے گرم درجۂ‌حرارت سے بھی زیادہ مہارت سے استعمال کرتا ہے ۔
+2. اِس کے علاوہ اِس میں لہسن بھی شامل کِیا جاتا ہے ۔
+3. سونے تک 6–8 منٹ کے لیے کوکو شامل اور پکایا۔
+4. بریتھ/لیمان جوس میں پکاؤ، کوکوان سے اتار کر اور کوکوین تازہ ہضمی۔
+:::

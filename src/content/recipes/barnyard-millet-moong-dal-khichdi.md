@@ -112,3 +112,39 @@ prepTimeEstimated: true
 3. धुतलेली भगर, मूगडाळ, चिरलेले गाजर, हिरवे वाटाणे आणि पाणी मिसळा.
 4. उकळी आणा, आच मंद करा, झाकण ठेवून 22 ते 25 मिनिटे मऊ आणि मलईदार होईपर्यंत शिजवा. गरज वाटल्यास थोडे पाणी घाला.
 :::
+
+:::lang en
+# Barnyard Millet and Moong Dal Khichdi
+
+Comforting one-pot South and Central Indian porridge combining fiber-rich barnyard millet, yellow moong dal, turmeric, and ginger.
+
+## Instructions
+1. Heat oil or ghee in a heavy pot over medium heat and splutter cumin seeds for 30 seconds.
+2. Add grated ginger and turmeric, stirring for 20 seconds until fragrant.
+3. Stir in rinsed barnyard millet, moong dal, diced carrots, green peas, and water.
+4. Bring to a boil, reduce heat to low, cover, and simmer for 22 to 25 minutes until soft and creamy, adding a splash of water if needed.
+:::
+
+:::lang bn
+# বারনার্ড মিলস এবং মুনগ ডাল খুচি
+
+দক্ষিণ এবং মধ্য ভারতের একটি সম্প্রদায় আছে যার মধ্যে রয়েছে ফাইবার-চাঁট, হলুদ চাঁদা ডিলা, টারম্রিক আর ভাটা।
+
+## Instructions
+1. তাপ তেল বা জিহি মাঝারি পানির গরম আর ৩০ সেকেন্ডের জন্য ভেজা মাটির বীজ।
+2. ...অভিযান আর টরমেরিক যোগ করো, ২০ সেকেন্ড লাগবে... ... যতক্ষণ না...
+3. এদের মধ্যে প্রায় ২,০০০ লোক বাস করে ।
+4. যদি দরকার হয়, তা হলে নরম ও ক্রিমি না হওয়া পর্যন্ত ২২ থেকে ২৫ মিনিট পর্যন্ত গরম, ঢেকে রাখুন এবং তারপর এক ফোঁটা জল যোগ করুন ।
+:::
+
+:::lang ur
+# بارنارڈ میلٹ اور موہن داس گاندھی
+
+ایک پل جنوبی اور وسطی ہندوستانی انفلیشن کو تسلی دیتا ہے جس کی وجہ سے اس کے ساتھ ساتھ اس کا رنگ گہرا ہو جاتا ہے ۔
+
+## Instructions
+1. تیل یا گیس درمیانے گرم درجۂ‌حرارت اور ۳۰ سیکنڈ تک نرم بیج میں رہتی ہے ۔
+2. اِس کے علاوہ اِن میں سے ۲۰ سیکنڈ تک اِس کی خوشبو میں اضافہ ہوتا ہے ۔
+3. اِس کی ایک وجہ تو یہ ہے کہ اِن میں سے ہر ایک کو اُس کے نام سے پکارا جاتا ہے ۔
+4. جب تک نرم اور کریمی نہ ہو جائے ، اُس وقت تک گرم ہو جائے ۔
+:::

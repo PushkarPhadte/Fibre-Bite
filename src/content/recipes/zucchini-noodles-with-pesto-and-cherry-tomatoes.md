@@ -84,3 +84,36 @@ prepTimeSource: 'https://cookieandkate.com/zucchini-noodle-recipe/'
 2. कढईत स्पायरल कापलेले झुकिनी नूडल्स घाला आणि गरम होईपर्यंत 2 मिनिटे हलक्या हाताने परता.
 3. गॅसवरून उतरवा, तुळशीचा पेस्टो मिसळा आणि लगेच वाढा.
 :::
+
+:::lang en
+# Zucchini Noodles with Pesto and Cherry Tomatoes
+
+Spiralized zucchini noodles tossed in vibrant basil pesto and topped with sweet blistered cherry tomatoes.
+
+## Instructions
+1. Heat olive oil in a skillet over medium heat and sauté minced garlic and cherry tomatoes for 3 minutes.
+2. Add spiralized zucchini noodles to the skillet and toss gently for 2 minutes until warm.
+3. Remove from heat, stir in basil pesto, and serve immediately.
+:::
+
+:::lang bn
+# পেসোতো এবং চেরি টমেটোর সাথে জুচিনি নুডলস
+
+পিকেচিনি নুডলস দিয়ে বানানো চুড়িরপোকা আর মিষ্টি চেরি টমেটোর সাথে মিশে যায়।
+
+## Instructions
+1. মাঝারি তাপমাত্রায় হেট জলপাই তেল এবং সসৌতিকৃত রসুন এবং তিন মিনিট চেরি টমেটো।
+2. শক্ত মাটির পাত্রের মধ্যে দিয়ে গঠন করুন ।
+3. গরম থেকে মুক্ত হোন, বেসিল পেসোতে ছড়িয়ে দিন এবং অবিলম্বে সেবা করুন ।
+:::
+
+:::lang ur
+# زوکینی نودلس اور چیری توماتوس کے ساتھ
+
+اِس کی وجہ یہ تھی کہ اُس نے اِس بات کا اندازہ لگا لیا تھا کہ اِس میں کیا کچھ شامل ہے ۔
+
+## Instructions
+1. زیتون کے تیل کو درمیان میں گرم گرم کرنے اور صابن تیار کرنے والے لہسن اور ۳ منٹ تک ٹماٹروں میں استعمال کِیا جاتا ہے ۔
+2. اِس کے علاوہ اِن میں سے دو منٹ کے لئے اُس وقت تک نرم‌مزاجی سے کام لیا جاتا ہے ۔
+3. گرمی سے چھٹکارا حاصل کرنا ، بیسل پشتو میں حرکت کرنا اور فوری طور پر خدمت کرنا ۔
+:::

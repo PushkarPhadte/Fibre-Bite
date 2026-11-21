@@ -137,3 +137,42 @@ prepTimeEstimated: true
 4. डाळीची प्युरी आणि 200 मिली पाणी घाला. चिंच, गूळ आणि मीठ घालून 20 मिनिटे मंद आचेवर शिजवा.
 5. ब्राउन राइस आणि कचुंबर सलाडसोबत वाढा.
 :::
+
+:::lang en
+# Light Chicken Dhansak
+
+A Parsi classic of chicken and mixed lentils cooked down with gourd, eggplant and greens, balanced with a touch of tamarind and jaggery.
+
+## Instructions
+1. Boil the three dals with the bottle gourd, eggplant, fenugreek and turmeric in 800 ml of water for 30 minutes until completely soft, then blend or mash smooth.
+2. Heat the oil and brown the onion for 8 minutes, add the garlic, ginger, spices and tomato and cook for 5 minutes.
+3. Add the chicken and sear for 5 minutes.
+4. Pour in the lentil purée and 200 ml water, add the tamarind, jaggery and salt, and simmer for 20 minutes.
+5. Serve with brown rice and a kachumber salad.
+:::
+
+:::lang bn
+# হালকা মুরগী ধানস্ক
+
+মুরগির মাংস ও মিশ্র বিভাজন
+
+## Instructions
+1. এটা ঠিক যে, এই প্রক্রিয়াকে আরও কোমল করে তোলে ।
+2. তেল আর বাদামিকে ৮ মিনিট ধরে ঢেকে রেখে রসুন, মসলা, মসলা এবং টমেটোর রস যোগ করুন।
+3. মুরগি আর সমুদ্রারকে ৫ মিনিট দাও।
+4. বারুদের রস এবং ২০০ মিটার জল ।
+5. বাদামি ভাত আর কফি নিয়ে কাজ করো।
+:::
+
+:::lang ur
+# ہلکے چیکن دھنسک
+
+مرغیوں اور آمیزش کے آمیزش کے ایک کلاسیکی مجموعے میں درخت ، انڈے اور سبز رنگ کے درخت شامل تھے ۔
+
+## Instructions
+1. اِس کے بعد اُن تین ڈبوں کو جو بوتل کے درخت کے ساتھ ، انڈے کے پتوں ، فن‌لینڈ اور ٹرمیر میں ۳۰ منٹ تک نرم‌مزاجی سے کام لیتے ہیں ۔
+2. تیل اور بھورے رنگ کا تیل 8 منٹ پر مشتمل ہوتا ہے ، اس میں لہسن ، مکھن ، مکئی اور ٹماٹر شامل ہوتے ہیں اور 5 منٹ تک پکاتے ہیں ۔
+3. مرغی اور مرغی کو 5 منٹ تک شامل کریں ۔
+4. اِس کے علاوہ اِس میں پانی بھی شامل ہوتا ہے ۔
+5. مکئی کے چاول اور ایک کک‌مبر کیمرا کے ساتھ خدمت کریں ۔
+:::

@@ -82,3 +82,36 @@ prepTimeEstimated: true
 2. अॅस्पॅरॅगस 3 मिनिटे वाफवा. स्नो पीज घालून आणखी 2 ते 3 मिनिटे वाफवा; भाज्या उठावदार हिरव्या आणि किंचित कुरकुरीत-मऊ झाल्या पाहिजेत.
 3. भाज्या ताटात काढा आणि त्यावर ऑलिव्ह तेल, लिंबाचा रस व चिरलेली पार्सली घाला.
 :::
+
+:::lang en
+# Steamed Asparagus and Snow Peas with Lemon Herb Oil
+
+Crisp steamed asparagus spears and snow peas tossed with lemon juice, chopped parsley, and olive oil.
+
+## Instructions
+1. Bring water to a simmer in a steamer pot and add asparagus spears to the steamer basket.
+2. Steam asparagus for 3 minutes, add snow peas, and steam for 2 to 3 more minutes until bright green and crisp-tender.
+3. Transfer to a platter and drizzle with olive oil, lemon juice, and chopped parsley.
+:::
+
+:::lang bn
+# হলদে হার্ব তেল দিয়ে চালিত আসপাগা এবং স্নো পেয়াজ
+
+ফলে প্রচুর পরিমাণে আখ কাটা হতো ।
+
+## Instructions
+1. আপনি কি মনে করতে পারেন?
+2. ৩ মিনিটের জন্য স্টিরাপাররাগাস, বরফের মটরশুঁটি যোগ করুন, আর ইঞ্জিন আরো ৩ মিনিট বাকি।
+3. তেল, লেবুর জুস এবং প্যারলি দিয়ে পিঁটারে নিয়ে যাওয়া।
+:::
+
+:::lang ur
+# اسٹینڈ اسپاراگوس اور برفیلے پَس لیمون ہرب تیل کے ساتھ
+
+اِس کے بعد اُس نے اِس بات پر زور دیا کہ اُس نے اُس کے جسم کو اُس کے گلے میں لگایا ہے ۔
+
+## Instructions
+1. اِس کے بعد اُس نے یہ بھی کہا کہ ” مَیں نے اپنی آنکھوں سے دیکھا ہے ۔ “
+2. سٹیم اسپاراگوس 3 منٹ تک برف کے پَس کو ملا کر 2 سے 3 منٹ تک مزید نیچے رکھ دیتا ہے یہاں تک کہ چمکدار سبز اور کریسپ-پرٹ تک۔
+3. اِس کے علاوہ اِس میں زیتون کا تیل ، ٹماٹر کا رس اور اِس کا تیل شامل ہے ۔
+:::

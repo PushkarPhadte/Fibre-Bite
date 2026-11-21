@@ -87,3 +87,33 @@ prepTimeEstimated: true
 1. छोले, कांदा, टोमॅटो, काकडी आणि कोथिंबीर एकत्र करा.
 2. लिंबाचा रस, जिरे, तिखट आणि मीठ घालून चव द्या, मिसळा आणि वाढा.
 :::
+
+:::lang en
+# Five-Minute Chickpea Chaat Cup
+
+Cooked chickpeas tossed with onion, tomato, cucumber and lemon for an instant protein snack.
+
+## Instructions
+1. Combine the chickpeas, onion, tomato, cucumber and coriander.
+2. Season with lemon juice, cumin, chilli and salt, toss and serve.
+:::
+
+:::lang bn
+# পাঁচটি মাংসের কাপ
+
+রান্না করা মুরগির মাংস, টমেটো, পোদাল আর লেবুর সাথে সাথে তাৎক্ষণিক প্রোটিনের খাবারের জন্য।
+
+## Instructions
+1. মুরগি, পেখম, টমেটো, পলাপোকা এবং কোরিয়ান্ডার।
+2. লেবুর রস, ফলের রস, ঠাণ্ডা এবং লবণের সঙ্গে সসেজ করুন ।
+:::
+
+:::lang ur
+# پانچ منٹوں والی چیکپا چت کپ
+
+اِس کے علاوہ اِس کے ساتھ ساتھ اِن میں پروٹین بھی شامل ہے ۔
+
+## Instructions
+1. اِس کے بعد اُس نے کہا : ” مَیں نے اِس بات کو تسلیم نہیں کِیا ۔ “
+2. اِس کے بعد اُس نے اُس سے کہا : ” اَے [ یہوواہ ] !
+:::

@@ -119,3 +119,42 @@ prepTimeEstimated: true
 4. नारळाचे दूध आणि टोमॅटो मिसळून जोरात उकळी न आणता 2 मिनिटे गरम करा.
 5. गॅसवरून उतरवून लिंबाचा रस आणि तमारी घाला व कोथिंबीर भुरभुरा. खाण्यापूर्वी लेमनग्रासचे तुकडे काढून टाका.
 :::
+
+:::lang en
+# Light Tom Kha Gai (Chicken and Coconut Soup)
+
+Fragrant Thai soup of chicken, mushrooms, lemongrass and galangal-style ginger in a lightened coconut broth with lots of lime.
+
+## Instructions
+1. Heat the oil in a pot and add the lemongrass, ginger, lime leaves and chilli for 1 minute.
+2. Pour in the water and bring to a gentle simmer for 8 minutes to flavour the broth.
+3. Add the chicken and mushrooms and simmer for 6 minutes until the chicken is cooked through.
+4. Stir in the coconut milk and tomato and warm through for 2 minutes without boiling hard.
+5. Take off the heat, add the lime juice and tamari and scatter with coriander. Remove the lemongrass pieces before eating.
+:::
+
+:::lang bn
+# লাইট টম খাজা গাই (চিকেন এবং কোকোনুট)
+
+থাই মুদ্রার সুপ, মাশরুম, লেবুগ্রাস এবং গাঙ্গুল স্টাইলে প্রচুর চুনাশযুক্ত নারিকেল ব্রোড়ি।
+
+## Instructions
+1. এক মিনিটের জন্য লেবুর ওপর তেল ঢালে এবং লেবু, ডোরাকাটা পাতা, পাতা পাতা এবং ঠাণ্ডা পানীয় যোগ করে।
+2. পানিতে পানি ঢালো এবং একটি কোমল সরল সরল সরলক নিয়ে ৮ মিনিটের জন্য ব্রোথ খেতে.
+3. মুরগি এবং মাশরুম যোগ করুন ।
+4. নারিকেল দুধ এবং টমেটোর গরম
+5. গরমের সময় ঘুম থেকে নামুন, তারপর চুমা আর টামারির সাথে কাটান আর কোরিয়ান্ডারের সাথে ছড়িয়ে দিন। খাওয়ার আগে লেবুর টুকরো মুছে ফেলুন।
+:::
+
+:::lang ur
+# نور ٹام Kha Gago (Chicken and County Soup)
+
+ہلکے ناریل کے ناریل کے ساتھ ساتھ بہت سارے ناریل کے ساتھ ایک چھوٹے سے حصے میں تیل کے تیل کے ٹکڑے، مکھن، ٹماٹر اور Galangal-style کا آمیزہ۔
+
+## Instructions
+1. تیل کو ایک برتن میں ملا کر اِس میں شکر گزارہ ، آمیزش ، آلو کے پتوں اور اِس میں ۱ منٹ تک تیل شامل کِیا جاتا ہے ۔
+2. پانی میں پانی ڈالیں اور 8 منٹ تک نرم برتن میں داخل ہوں ۔
+3. جب تک مرغی کو پکایا نہ جائے ۔
+4. ناریل کا دودھ اور ٹماٹر میں پکانا اور ۲ منٹ تک بغیر گرم رہنا ۔
+5. گرمیوں میں اُڑ کر اُڑ جائیں ۔ کھانے سے پہلے پروٹین کے ٹکڑوں کو ختم کریں۔
+:::

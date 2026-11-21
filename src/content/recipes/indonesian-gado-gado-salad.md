@@ -103,3 +103,39 @@ prepTimeEstimated: true
 3. सजवलेल्या भाज्या आणि टोफूवर शेंगदाण्याची ड्रेसिंग घाला.
 4. खोलीच्या तापमानाला सर्व्ह करा.
 :::
+
+:::lang en
+# Indonesian Gado-Gado Salad
+
+A traditional Indonesian salad of blanched vegetables, hard-boiled eggs, and tofu served with a light peanut dressing.
+
+## Instructions
+1. Arrange blanched cabbage, green beans, bean sprouts, pan-seared tofu, and hard-boiled eggs on a platter.
+2. Whisk peanut butter, lime juice, soy sauce, and warm water until smooth.
+3. Pour peanut dressing over arranged vegetables and tofu.
+4. Serve at room temperature.
+:::
+
+:::lang bn
+# ইন্দোনেশিয়ার গ্যাডো-গোদো সালাদ
+
+ইন্দোনেশিয়ার ঐতিহ্যবাহী সালাদ, শক্ত ডিম, আর টফু হালকা বাদামের পোশাক পরে।
+
+## Instructions
+1. পরিষ্কার পোশাক, সবুজ শিম, বিনের চারা, প্যান টফু আর শক্ত ডিম।
+2. বাদামের মাখন, লাইম জুস, সস এবং গরম জল ।
+3. শাকসবজি ও টফু তৈরি করার জন্য বাদামের কাপড় পরুন ।
+4. রুম তাপমাত্রায় সেবা কর।
+:::
+
+:::lang ur
+# انڈونیشیا جدو-گادو سالود
+
+ایک روایتی انڈونیشیائی سبزیوں کا پکوان، سخت گیر انڈے اور توفو ایک ہلکے مونگ پھلی کپڑے کے ساتھ کام کرتا تھا۔
+
+## Instructions
+1. ایک پَر پر سخت زہریلے انڈے، ہرے دان، بَن پَر، پین جھیل توفو، اور سخت سخت انڈے۔
+2. یہاں تک کہ ٹھنڈا پانی بھی بہتا ہے ۔
+3. مونگ‌پھلی کو ترتیب‌وار سبزیوں اور توفو سے ملا کر کھایا جاتا ہے ۔
+4. کمرے کے درجۂ‌حرارت پر خدمت کریں ۔
+:::

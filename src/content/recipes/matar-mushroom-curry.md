@@ -93,3 +93,39 @@ prepTimeEstimated: true
 3. मशरूम आणि मटारांसोबत 100 मिलीलीटर पाणी घालून 10 मिनिटे शिजवा.
 4. गरम मसाला मिसळा आणि वाढा.
 :::
+
+:::lang en
+# Matar Mushroom Curry
+
+Mushrooms and green peas in an onion-tomato masala finished with garam masala.
+
+## Instructions
+1. Heat the oil and cook the onion, ginger and garlic until golden.
+2. Add the tomato purée, turmeric, coriander powder and salt and cook until the oil separates.
+3. Add the mushrooms and peas with 100 ml water and cook for 10 minutes.
+4. Stir in the garam masala and serve.
+:::
+
+:::lang bn
+# মাটা মুকুস কারী
+
+মাসশরুম এবং সবুজ মটরশুঁটি, যা এক অন-টমটো মাসালাতে শেষ হয়েছে।
+
+## Instructions
+1. তেল আর লন্ড্রি রান্না করে সোনার আগ পর্যন্ত।
+2. তাই, টমেটোগুলো তেলকে পৃথক না করা পর্যন্ত লবণ ও লবণ রান্না করে ।
+3. মাশরুম এবং মটরশুঁটি যোগ করো।
+4. গামির মাসালাতে আর সেবা করে।
+:::
+
+:::lang ur
+# مَیں نے اُس سے پوچھا کہ ” کیا مَیں واقعی خدا کی خدمت کر رہا ہوں ؟ “
+
+ایک اون-ٹوماتو ماسالا میں مسواک اور سبز پائیس نے گیرام مالا سے فارغ کیا۔
+
+## Instructions
+1. تیل کو صاف کریں اور سونے تک اُون ، آمیزش اور لہسن پکا لیں۔
+2. یہاں تک کہ تیل الگ ہو جاتا ہے ۔
+3. اس میں 100 ملی میٹر پانی ملا کر 10 منٹ تک پکایا جاتا ہے۔
+4. جہرم مسلا میں خدمت کی۔
+:::

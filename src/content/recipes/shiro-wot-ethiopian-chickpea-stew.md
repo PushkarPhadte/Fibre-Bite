@@ -95,3 +95,39 @@ prepTimeEstimated: true
 3. हरभऱ्याचे पीठ पाण्यात फेटून घ्या. गुठळ्या होऊ नयेत म्हणून सतत ढवळत ते हळूहळू भांड्यात ओता.
 4. मीठ घालून 15 मिनिटे मंद आचेवर शिजवा. घट्ट आणि चमकदार होईपर्यंत वारंवार ढवळा.
 :::
+
+:::lang en
+# Shiro Wot Ethiopian Chickpea Stew
+
+A thick Ethiopian stew of chickpea flour simmered with onion, garlic and paprika.
+
+## Instructions
+1. Dry cook the onion in a pot for 5 minutes, then add the oil, garlic, ginger and spices.
+2. Add the tomato and cook for 5 minutes.
+3. Whisk the besan into the water, then pour in gradually while stirring to avoid lumps.
+4. Add the salt and simmer for 15 minutes, stirring often, until thick and glossy.
+:::
+
+:::lang bn
+# শত শত ইথিওপিয়ার মুরগি স্টে
+
+একটা মোটা ইথিওপিয়ার পাপড়ি, যা কোদাল, রসুন এবং পাম্পিকা দিয়ে তৈরি ।
+
+## Instructions
+1. ড্রি ডিনকে পাঁচ মিনিটের জন্য পাত্রের মধ্যে রান্না করে তারপর তেল, রসুন, মদ এবং মসলা যোগ করে।
+2. টমেটো আর রান্না করুন ৫ মিনিটের জন্য।
+3. উলকিলগুলো জলের মধ্যে প্রবাহিত হয় ।
+4. তাই, লবণ ও লবণের ব্যবহার দিন ।
+:::
+
+:::lang ur
+# شرو وٹ ایتھوپیائی چِکپا اسٹُو
+
+اِس سے ظاہر ہوتا ہے کہ اِن میں سے زیادہ‌تر لوگ اِس بات پر یقین نہیں رکھتے تھے کہ اِن کی وجہ سے اُن کا دودھ اَور بھی خراب ہو گیا ہے ۔
+
+## Instructions
+1. اِس کے بعد اِس میں تیل ، لہسن ، مکھن اور خوشبو شامل کی جاتی ہے ۔
+2. ٹماٹر کو شامل کریں اور 5 منٹ تک پکا لیں۔
+3. اِس کے بعد اُس نے آہستہ آہستہ اِس بات پر زور دیا کہ اُس نے اُس کی مدد کی ہے ۔
+4. نمک میں 15 منٹ تک نمک شامل کرنا ، اکثر آہستہ آہستہ آہستہ موٹی اور سخت گرمیوں میں اضافہ کرنا پڑتا ہے ۔
+:::

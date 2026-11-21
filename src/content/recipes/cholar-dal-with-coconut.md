@@ -101,3 +101,39 @@ prepTimeEstimated: true
 3. त्याच तेलात जिरे, तमालपत्र आणि आल्याची पेस्ट घाला.
 4. शिजवलेली डाळ घालून दहा मिनिटे मंद आचेवर उकळू द्या. तळलेला नारळ मिसळून वाढा.
 :::
+
+:::lang en
+# Cholar Dal with Coconut (Bengali Gram Dal)
+
+A traditional Bengali chana dal curry flavored with coconut slices, ginger, cumin, and dry red chillies.
+
+## Instructions
+1. Boil chana dal with turmeric, salt, and water until cooked but holding shape.
+2. Heat mustard oil in a pan and fry coconut slices until golden; remove and set aside.
+3. In the same oil, add cumin seeds, bay leaf, and ginger paste.
+4. Pour in cooked dal, simmer for 10 minutes, stir in fried coconut, and serve.
+:::
+
+:::lang bn
+# কোঙ্কার ডাল (বাংলা গ্রাম ডাল)
+
+ঐতিহ্যবাহী বাংলার চান্না ডিলা নারিকেলের টুকরো, ভাটা, নেটা, সার্মা আর শুষ্ক লাল রঙের।
+
+## Instructions
+1. রান্না করার আগে পর্যন্ত রান্না করার পাত্র, লবণ ও জল দিয়ে পরিবেশন করা হয় ।
+2. তেল প্যান এবং নারিকেলের টুকরোর তেল সোনার পূর্ব পর্যন্ত ছড়িয়ে থাকে; সরিয়ে ফেলা ও সরিয়ে ফেলা হয় ।
+3. একই তেলে বীজ, বেয়ার পাতা এবং বিরিয়ানি যোগ করা যায়।
+4. প্রায় ১০ মিনিট ধরে রান্নার কাপড় দিয়ে রান্না করা, মিষ্টি নারিকেল তৈরি করা ও পরিবেশন করা ।
+:::
+
+:::lang ur
+# چولار ڈل کے ساتھ (بنگالی گرام ڈل) ہے۔
+
+ایک روایتی بنگالی شینا دِل کے ذریعے ناریل ، آمیزش ، جِلد اور خشک سرخ رنگ کی خوشبو آتی تھی ۔
+
+## Instructions
+1. یہاں تک کہ اسے پکایا جاتا تھا مگر وہ شکل برقرار رکھتا تھا ۔
+2. اِس کے علاوہ سونے کے تیل کو بھی صاف کِیا جاتا ہے ۔
+3. اِسی تیل میں اُس کے بیج ، بجوے پتے اور بجوک کے پتوں کو شامل کِیا جاتا ہے ۔
+4. اِس کے بعد اُس نے اِس بات کا تجربہ کِیا کہ اُس نے اِس کام میں حصہ لیا ہے ۔
+:::

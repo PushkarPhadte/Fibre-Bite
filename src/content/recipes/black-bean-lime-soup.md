@@ -94,3 +94,36 @@ prepTimeEstimated: true
 2. जिरे, बीन्स, मीठ आणि पाणी घालून 20 मिनिटे मंद आचेवर उकळवा.
 3. भांड्यातील साधारण एक-तृतीयांश बीन्स भरडून घ्या, लिंबाचा रस आणि कोथिंबीर मिसळा आणि वाढा.
 :::
+
+:::lang en
+# Black Bean Lime Soup
+
+A smoky black bean soup brightened with lime and fresh coriander.
+
+## Instructions
+1. Heat the oil and cook the onion, pepper and garlic for 6 minutes.
+2. Add the cumin, beans, salt and water and simmer for 20 minutes.
+3. Mash roughly a third of the beans in the pot, stir in the lime juice and coriander and serve.
+:::
+
+:::lang bn
+# ব্ল্যাক বেনান লাইম সুম
+
+একটি স্মোকি কালো সুপ চুন আর তাজা কোরান্ডার দিয়ে উজ্জ্বল।
+
+## Instructions
+1. তেল আর রান্না করে ছয় মিনিটের জন্য মরিচ আর রসুন রান্না করে।
+2. ওষুধ, শিম, লবণ আর পানি দিন ২০ মিনিট।
+3. টবের মধ্যে প্রায় এক তৃতীয়াংশ শিম, চুড়ির রস এবং কোরিয়াডারে ছড়িয়ে পড়ে।
+:::
+
+:::lang ur
+# سیاہ بین لیمی سوپ
+
+اِس کی وجہ یہ تھی کہ اُن کی آنکھوں میں آنسو آ رہے تھے ۔
+
+## Instructions
+1. تیل کو صاف کریں اور 6 منٹ تک اون ، آلو اور لہسن پکا لیں۔
+2. اِس کے علاوہ اِس میں اُن کا پانی بھی شامل ہوتا ہے ۔
+3. شیشے کے تیسرے حصے کو کاٹ کر اس میں سے ایک تہائی حصے کو ملا کر اس کے جوس اور کوریاننڈر اور خدمت کرتے ہیں ۔
+:::

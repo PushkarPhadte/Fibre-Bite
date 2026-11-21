@@ -91,3 +91,39 @@ prepTimeEstimated: true
 3. पपई घालून मऊ होईपर्यंत 10 मिनिटे मंद आचेवर शिजवा.
 4. पालक मिसळा, काळ्या मिरीने चव जुळवा आणि वाढा.
 :::
+
+:::lang en
+# Filipino Chicken Tinola
+
+A clear ginger broth with chicken, green papaya and leafy greens.
+
+## Instructions
+1. Cook the garlic, onion and ginger in the oil for 4 minutes, then add the chicken for 4 minutes.
+2. Add the water and salt and simmer for 15 minutes.
+3. Add the papaya and simmer for 10 minutes until tender.
+4. Stir in the spinach, season with pepper and serve.
+:::
+
+:::lang bn
+# ফিলিপিনো মুরগী টিনোলা
+
+মুরগি, সবুজ পাপায়া এবং পাতা সবুজ।
+
+## Instructions
+1. রান্না করো, রসুন, লণ্ঠন আর চার মিনিট তেলে ভাটা, তারপর মুরগি ৪ মিনিট লাগবে।
+2. পানি আর লবণ যোগ করো ১৫ মিনিটের জন্য।
+3. কোমল না হওয়া পর্যন্ত পোপ এবং সিমমের সাথে কথা বলো।
+4. স্পিনিং এর চাপ, মৌসুম, মরিচ আর সেবা।
+:::
+
+:::lang ur
+# فلپائن چیکن ٹینولا
+
+ایک صاف آمیزہ جس میں مرغی ، سبز پَیا اور پتے سبز سبز ہوتے ہیں ۔
+
+## Instructions
+1. لہسن کو پکا کر 4 منٹ تک تیل میں پکایا جاتا ہے ۔
+2. پانی اور نمک کو 15 منٹ تک شامل کریں ۔
+3. اِس کے علاوہ اِس میں کچھ چیزیں بھی شامل ہیں ۔
+4. اِس کے بعد مَیں نے اُن سے پوچھا : ” کیا مَیں اُن کی بات مانتا ہوں ؟ “
+:::

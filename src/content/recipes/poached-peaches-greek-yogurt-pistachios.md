@@ -81,3 +81,36 @@ prepTimeEstimated: true
 2. पीचच्या अर्ध्या फोडी कापलेली बाजू खाली ठेवून घाला आणि मऊ होईपर्यंत 6 ते 8 मिनिटे मंद आचेवर शिजवा.
 3. वाट्यांत साधे ग्रीक दही घाला, त्यावर गरम शिजवलेले पीच ठेवा आणि चिरलेले पिस्ते भुरभुरा.
 :::
+
+:::lang en
+# Poached Peaches with Plain Greek Yogurt and Pistachios
+
+Ripe peach halves gently poached in water with vanilla bean and served with nonfat Greek yogurt and pistachios.
+
+## Instructions
+1. Bring water and vanilla extract to a gentle simmer in a wide skillet.
+2. Add peach halves cut-side down and poach gently for 6 to 8 minutes until tender.
+3. Spoon plain Greek yogurt into bowls, top with warm poached peaches, and sprinkle with chopped pistachios.
+:::
+
+:::lang bn
+# সেন্ট গ্রীক ইয়োগুটি এবং পিস্টচিওসের পচনীয়রা
+
+তাই, এতে অবাক হওয়ার কিছু নেই যে, প্রচুর পরিমাণে প্রচুর পরিমাণে আখ খেতে হয় ।
+
+## Instructions
+1. প্রচুর দক্ষতায় জল ও টমেটো নিয়ে আসুন ।
+2. কোমল না হওয়া পর্যন্ত হাত কাটা আর একটু কোমল করে ৬ থেকে ৮ মিনিটের মধ্যে বের করে দাও।
+3. সাধারণ গ্রিক ইয়োনোগরি বাটিতে, গরম শূককীট এবং কাটছাঁট দিয়ে পরিবেশন করা হয় ।
+:::
+
+:::lang ur
+# پُرانے پَروں کیساتھ پَل یونانی یوگا اور پِستاچیوس
+
+اسکے علاوہ ، ونیلا بیان کے ساتھ پانی میں پُر نرمی کیساتھ سفر کِیا جاتا تھا ۔
+
+## Instructions
+1. پانی اور ونیلا کو ایک بہت بڑی مہارت کے ساتھ ملا کر ایک نرم پانی میں ڈال دیتے ہیں ۔
+2. اس میں پشاور کو کاٹ کر 6 سے 8 منٹ تک نرم کر دیتا ہے۔
+3. سپین کے میدان میں یونانیوں کے برتنوں میں ، اُوپر گرم پُراسرار پُراسرار پُراسرار اور پُراسرار پکوانوں سے بنے ہوئے تھے ۔
+:::

@@ -92,3 +92,39 @@ prepTimeSource: 'https://minimalistbaker.com/vegan-lentil-walnut-bolognese/'
 3. शिजवलेली डाळ, ठेचलेले टोमॅटो आणि इटालियन मसाला मिसळा.
 4. चवी एकजीव होण्यासाठी मंद आचेवर 25 मिनिटे शिजवा, मीठ घालून चव समायोजित करा आणि होल-व्हीट पास्त्यावर वाढा.
 :::
+
+:::lang en
+# Lentil Walnut Vegan Bolognese
+
+A hearty plant-based pasta sauce made with protein-rich lentils, toasted walnuts, crushed tomatoes, and Italian herbs.
+
+## Instructions
+1. Heat olive oil in a large pot and sauté onion, grated carrot, and garlic until tender.
+2. Add chopped walnuts and cook for 2 minutes.
+3. Stir in cooked lentils, crushed tomatoes, and Italian seasoning.
+4. Simmer on low heat for 25 minutes to meld flavors, season with salt, and serve over whole-wheat pasta.
+:::
+
+:::lang bn
+# লিটল ওয়ালনাট ভেগান বোগনেস
+
+একটি হার্টের গাছ দিয়ে বানানো পাস্তা সস, যা প্রোটিন সমৃদ্ধ কাঁটি দিয়ে তৈরি।
+
+## Instructions
+1. প্রচুর পরিমাণে জলপাই তেল এবং সাঁতরে শূককীট, রসা এবং রসুন ।
+2. কটি কাটনা যোগ করো আর ২ মিনিট রান্না করো।
+3. শূককীট ও ইতালির রান্না করা টমেটো রান্না করে ।
+4. ২৫ মিনিট ধরে গরম গরমের সময়, মাংসের স্বাদ, লবণের সাথে, আর পুরো গরম পাস্তার জন্য।
+:::
+
+:::lang ur
+# Lentil Walnut Vegan Bolognese –
+
+ایک دلدار پودے پر مبنی پسکا مکھن جو پروٹین سے تیار کی گئی تھی، چاول، ٹوٹے ہوئے ٹماٹر اور اطالوی جڑی بوٹیاں۔
+
+## Instructions
+1. زیتون کے تیل کو بڑے برتنوں اور صابن پر مشتمل ، نرم‌مزاج اور لہسن میں استعمال کِیا جاتا ہے ۔
+2. اِس میں دو منٹ آرام کریں ۔
+3. مونگ‌پھلی ، ٹوٹی ہوئی ٹماٹروں اور اطالوی ٹماٹروں میں مونگ‌پھلی کی کاشت کی جاتی ہے ۔
+4. کم درجہ حرارت پر 25 منٹ تک کم گرمیوں میں میلوں کی خوشبو، نمک کے ساتھ موسم میں اور پورے سرے سے خدمت کرتے ہیں۔
+:::

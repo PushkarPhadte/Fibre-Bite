@@ -110,3 +110,39 @@ prepTimeEstimated: true
 3. एका छोट्या पॅनमध्ये ऑलिव्ह ऑइल गरम करा, मोहरी आणि कढीपत्ता तडतडू द्या, आणि ही फोडणी सांबारमध्ये घाला.
 4. चांगले ढवळा आणि बाउलमध्ये गरम सर्व्ह करा.
 :::
+
+:::lang en
+# Green Mung Bean and Drumstick Sambar Bowl
+
+South Indian spiced green mung bean stew simmered with moringa drumsticks, tomatoes, tamarind, and curry leaves.
+
+## Instructions
+1. Rinse green mung beans and simmer in water with turmeric for 25 to 30 minutes until soft.
+2. Add moringa drumsticks, chopped tomatoes, tamarind paste, and sambar powder; simmer for 12 minutes until drumsticks are tender.
+3. Warm olive oil in a small pan, splutter mustard seeds and curry leaves, and pour the tempering into the stew.
+4. Stir well and serve warm in bowls.
+:::
+
+:::lang bn
+# সবুজ মং বেন এবং ড্রামস্টিক সাম্বার
+
+দক্ষিণ ভারতীয় সুপেশী সবুজ চুন চুঁকের সাথে জুড়ে রয়েছে ড্রামের ঢিবি, টমেটো, তামাদের পাতা।
+
+## Instructions
+1. নরম না হওয়া পর্যন্ত ২৫ থেকে ৩০ মিনিট পর্যন্ত পানির মধ্যে সবুজ মিং শিম এবং সিমমের পানি পান।
+2. ঢোল, কাটা টমেটো, টামারি পেস্ট, সাম্বার পাউডার; ১২ মিনিট ধরে ড্রাম বাজানোর আগে পর্যন্ত।
+3. অল্প ছোট প্যানে, সরিষাদানার বীজ, পাতা পাতা এবং ঝোঁক দিয়ে গরম তেল ঢালে এবং সুরের মধ্যে ছড়িয়ে পড়ে ।
+4. সুন্দর এবং গরম বাটি মধ্যে পরিবেশন.
+:::
+
+:::lang ur
+# گرین مُونگ بیان اور ڈرمُس سمبار بُول
+
+جنوبی ہندوستان میں ہرے رنگ کے بُرجوں کے پتے ، ٹماٹر ، تامارین اور پتوں سے بھرے ہوئے تھے ۔
+
+## Instructions
+1. ہرے رنگ کے دانوں اور پانی میں 25 سے 30 منٹ تک نرم ہوتے ہیں ۔
+2. اِس میں اُس وقت تک اضافہ ہوتا ہے جب تک ۱۲ منٹ کے اندر اندر اندر کی ہڈی نرم ہو جاتی ہے ۔
+3. زیتون کے تیل کو چھوٹے پن میں گرم کرنا ، رائی کے دانے اور اُس کے پتوں کو صاف کرنا اور اُس پر دبا دینا ۔
+4. اِس لئے اُس نے اُن کی مدد کی ۔
+:::

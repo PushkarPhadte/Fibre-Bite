@@ -101,3 +101,39 @@ prepTimeEstimated: true
 3. धुतलेल्या गोजी बेरी आणि उरलेला आले चिकनवर पसरवा. झाकण ठेवून जोरात उकळणाऱ्या पाण्याच्या वाफेवर 12 ते 14 मिनिटे शिजवा, चिकनचे आतील तापमान 74°C होईपर्यंत.
 4. वरून कांद्याच्या पातीचे तुकडे घाला आणि किंचित मऊ होण्यासाठी आणखी 1 मिनिट वाफवा. ताटातील चविष्ट रसासह वाढा.
 :::
+
+:::lang en
+# Cantonese Steamed Chicken with Shiitake and Goji Berries
+
+Gentle, oil-minimal Cantonese steamed chicken breast infused with julienned ginger, earthy shiitake mushrooms, antioxidant-rich goji berries, and light tamari.
+
+## Instructions
+1. Toss the sliced chicken breast in a bowl with the low-sodium tamari, toasted sesame oil, half the julienned ginger, and sliced shiitake mushrooms, marinating for 10 minutes.
+2. Arrange the chicken and mushrooms in a single even layer on a shallow heatproof steaming plate so they cook uniformly.
+3. Scatter the rinsed goji berries and remaining ginger over the chicken, then steam covered over briskly boiling water for 12 to 14 minutes until the chicken reaches 74°C internally.
+4. Top with the scallion batons, steam 1 minute more to wilt slightly, and serve with the savory plate juices.
+:::
+
+:::lang bn
+# শিরিটেক এবং গজি বেরিসহ স্টেমেড মুরগির মাংস।
+
+ভদ্র আচরণ, তেল-প্রবালীয় মাংসের উপর ঝোঁক তৈরি করে।
+
+## Instructions
+1. এক বাটি ডালের টুকরোতে মুরগির চামড়া, টোটাম সেলের তেল, অর্ধেক রসালো বেজমা, আর টুকরো টুকরো টুকরো করে ১০ মিনিট ধরে রাখা হয়েছে।
+2. মুরগি ও মাশরুম ঠিক করুন ।
+3. মুরগির মাংসের রসগুলো ধীরে ধীরে বৃদ্ধি পেতে থাকে ।
+4. শ্যাম্পেইন লাঠির উপরে, ইঞ্জিন ১ মিনিট লাগবে, আর রসালো প্লেট রসের সাথে কাজ করবে।
+:::
+
+:::lang ur
+# کینٹونیز سٹیمرڈ چیکن کے ساتھ شیکیک اور گوجی بیریز ہیں۔
+
+مہربانی سے، تیل-منٹنل کینٹونسی نے مرغی کو جولینے کی آمیزش، زمینیشیک، اینٹیوکسیڈنٹ گوجی اور ہلکے تامری کے ساتھ پیٹ میں ڈال دیا۔
+
+## Instructions
+1. ایک پیالے میں اُس مرغی کا سینہ سینے پر لگا دیا جاتا ہے جس میں کم‌ازکم تیل ، نصف جولی‌شُدہ مشروبات ، مریخ پر 10 منٹ تک رکھا جاتا ہے ۔
+2. مرغی اور مرغیوں کو ایک ہی سطح پر اُوپر کی تہہ میں رکھ کر اُن کے ساتھ مل کر رکھیں ۔
+3. جب تک مرغی 74°C تک نہیں پہنچ جاتی ۔
+4. اِس کے بعد اِس پلیٹ‌لیٹ کے ساتھ کام کریں ۔
+:::

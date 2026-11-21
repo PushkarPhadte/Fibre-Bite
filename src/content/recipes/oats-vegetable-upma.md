@@ -104,3 +104,42 @@ prepTimeEstimated: true
 4. ओट्स आणि शेंगदाणे मिसळा. पाणी शोषले जाईपर्यंत 2 मिनिटे शिजवा.
 5. लिंबाचा रस घालून शेवटचा स्वाद द्या आणि गरम वाढा.
 :::
+
+:::lang en
+# Oats Vegetable Upma
+
+Savoury oats cooked like upma with carrot, peas and a crunch of peanuts.
+
+## Instructions
+1. Dry roast the oats in a pan for 3 minutes until fragrant, then set aside.
+2. Heat the oil, crackle the mustard seeds, then add curry leaves, green chilli and onion and cook until soft.
+3. Add carrot, peas, salt and water and simmer for 5 minutes until the vegetables are tender.
+4. Stir in the oats and peanuts and cook for 2 minutes until the water is absorbed.
+5. Finish with lemon juice and serve hot.
+:::
+
+:::lang bn
+# ভিজা
+
+শ্রেয়ার ওতস, যেমন জারট, মটরশুঁটি এবং বাদামের ঝোলা।
+
+## Instructions
+1. তিন মিনিটের জন্য লবিতে পুড়তে হবে, তারপর সেখান থেকে সরে যাও।
+2. তেল, সরিষার বীজ, তারপর শুকনো পাতা, সবুজ ঠাণ্ডা আর রান্নার জন্য যতক্ষণ না নরম হয় ততক্ষণ পর্যন্ত ।
+3. সবজিগুলো কোমল না হওয়া পর্যন্ত ৫ মিনিট ধরে ধান, ডাল, লবণ এবং জল ও সিমমের সঙ্গে যুক্ত ।
+4. পেখম এবং বাদামের ঝোঁক এবং জল নির্গত না হওয়া পর্যন্ত ২ মিনিট রান্না করে ।
+5. লেবু জুস দিয়ে শেষ করো আর গরম পরিবেশন করো।
+:::
+
+:::lang ur
+# اُونچی آواز
+
+ساووریا کی اُنگلیوں کو اُوپر سے اُتارا جاتا ہے ۔
+
+## Instructions
+1. اِس کے بعد اُس نے اُسے الگ کر دیا ۔
+2. تیل کو صاف کریں ، رائی کے بیج کو توڑ دیں ، پھر اس میں سبز رنگ کے پتوں ، سبزیوں اور اونس کو ملا دیں اور جب تک نرم نہ ہو لیں ۔
+3. یہاں تک کہ سبزیوں میں نرم‌مزاجی ہوتی ہے ۔
+4. جب تک پانی آلودہ نہ ہو جائے ۔
+5. اِس کے بعد اُس نے اُس سے کہا : ” اَے [ یہوواہ ] !
+:::

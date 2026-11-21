@@ -94,3 +94,39 @@ prepTimeEstimated: true
 3. मिश्रणात चार खोलगट जागा करा, त्यांत अंडी फोडा, झाकण ठेवून अंड्यांचा पांढरा भाग सेट होईपर्यंत 4 मिनिटे शिजवा.
 4. वरून पार्सली पेरा आणि कढईतूनच वाढा.
 :::
+
+:::lang en
+# Sweet Potato Breakfast Hash with Eggs
+
+Diced sweet potato roasted in a skillet with peppers, topped with baked eggs.
+
+## Instructions
+1. Heat the oil in a lidded skillet and cook the sweet potato for 10 minutes, stirring occasionally, until browned and nearly tender.
+2. Add the onion, pepper, paprika and salt and cook for 5 minutes.
+3. Make four wells, crack in the eggs, cover and cook for 4 minutes until the whites are set.
+4. Scatter with parsley and serve from the pan.
+:::
+
+:::lang bn
+# Aggst Lawet সকালের হ্যাশ
+
+টুকরো টুকরো আলু পুড়তে থাকে।
+
+## Instructions
+1. এই তেল কোমল করার ফলে ১০ মিনিটের জন্য মিষ্টি আলু রান্না করা হয়। মাঝে মাঝে তা বেড়ে যায়।
+2. আর পাঁচ মিনিটের জন্য মরিচ, পাম্পিকা আর লবণ দিন।
+3. চার চাকা, ডিমের উপর ফাটল, ঢেকে চার মিনিট রান্না করুন, যতক্ষণ না সাদাগুলো সেট করা হয় ।
+4. পেনলির সাথে জড়িত হয়ে এবং প্যান থেকে সেবা করা।
+:::
+
+:::lang ur
+# سوتے ہوئے بھٹو گھاٹ ہاشم کو ایجس کے ساتھ ملا کر
+
+اِس کے بعد اُس نے اُن کے لئے کھانا تیار کِیا ۔
+
+## Instructions
+1. تیل کو بڑی مہارت سے استعمال کرتے ہوئے 10 منٹ تک میٹھا پکاتے رہیں ، وقتاًفوقتاً بھورے اور نرم‌مزاج ہوتے رہیں ۔
+2. اِن میں اونون ، پَرکا اور نمک شامل کریں اور 5 منٹ تک پکایا کریں۔
+3. چار کنوئیں بناتے ہیں، انڈے میں پھٹتے ہیں، کپڑے پہنتے ہیں اور 4 منٹ تک پکاتے ہیں یہاں تک کہ سفید فاموں کو سیٹ کیا جاتا ہے۔
+4. اُس نے اُن سے کہا : ” مَیں اُن کی بات نہیں مانتا ۔ “
+:::

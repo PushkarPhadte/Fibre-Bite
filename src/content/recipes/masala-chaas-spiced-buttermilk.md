@@ -73,3 +73,36 @@ prepTimeEstimated: true
 2. त्यात जिरे, पुदिना, आले आणि मीठ मिसळा.
 3. बर्फ घालून थंड वाढा.
 :::
+
+:::lang en
+# Masala Chaas Spiced Buttermilk
+
+A cooling digestive drink of whisked curd with roasted cumin, mint and ginger.
+
+## Instructions
+1. Blend or whisk the curd with the water until smooth.
+2. Stir in the cumin, mint, ginger and salt.
+3. Serve chilled over ice.
+:::
+
+:::lang bn
+# মাসলা চাউস মডিফাইড
+
+আগুন ও ডোরাকাটা গন্ধের স্বাদ
+
+## Instructions
+1. মসৃণ না হওয়া পর্যন্ত কোমল অথবা হুইস্কি জল দ্বারা আবৃত ।
+2. সার্দ্দি, ছোট ছোট আর লবণ।
+3. বরফের উপর জমে থাকা সেবা।
+:::
+
+:::lang ur
+# ماسلا چاس سپائیڈر دودھ
+
+اِس کی وجہ یہ تھی کہ اُس نے اِس شراب کو پکایا تھا ۔
+
+## Instructions
+1. جب تک پانی صاف نہیں ہو جاتا ، اِس کا پانی صاف نہیں ہوتا ۔
+2. اِس کے بعد اُس نے اُس سے پوچھا : ” کیا مَیں اِس کی وجہ سے پریشان ہوں ؟ “
+3. سردیوں میں خدمت کرنا
+:::

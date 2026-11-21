@@ -103,3 +103,39 @@ prepTimeEstimated: true
 3. तेलात लसूण आणि आले १ मिनिट शिजवा; तमारी, व्हिनेगर आणि ५० मिली पाणी घालून थोडे उकळू द्या.
 4. बेक केलेली फुलकोबी ग्लेझमध्ये घोळवा आणि वरून पातीचा कांदा घाला.
 :::
+
+:::lang en
+# Baked Gobi Manchurian
+
+Oven-baked cauliflower in a tangy ginger-garlic tamari glaze, with no deep frying.
+
+## Instructions
+1. Whisk the besan, water and chilli into a thick batter and coat the cauliflower.
+2. Bake on a lined tray at 220 °C for 25 minutes, turning once.
+3. Cook the garlic and ginger in the oil for 1 minute, add the tamari, vinegar and 50 ml water and simmer briefly.
+4. Toss the baked cauliflower in the glaze and top with spring onions.
+:::
+
+:::lang bn
+# বাড গবি মাঞ্চিয়ান
+
+ওভেন-বিল্ড ফুল, তুয়াং-গারী টিগারী টেইলজে, যার কোন গভীর ফ্রাই নেই।
+
+## Instructions
+1. উলকির মুকান, পানি আর ঠাণ্ডা, আর ফুল ফুল ফুলের কোট।
+2. ২৫ মিনিটের জন্য ২২০ ডিগ্রি সেলসিয়াসের ট্রেতে ব্রেক।
+3. এক মিনিটের জন্য তেলে রসুন এবং ডোরাকাটার রান্না করে, তামা, ভিনেগার এবং ৫০ মাইল পানি যোগ করে।
+4. পিঁয়াজের ফুলগুলো
+:::
+
+:::lang ur
+# کُل‌وقتی خدمت
+
+ایک تلنگانہ آمیزہ میں کیولف نامی ایک گلی میں، جس میں کوئی گہرا ٹکڑا نہیں ہے۔
+
+## Instructions
+1. شہد کی مکھیوں ، پانی اور گندھک کو ایک گھنی لہر میں ڈالا جاتا ہے ۔
+2. 25 منٹ کے لئے 220 °C پر ایک لائن ٹریک پر ایک بار پھر.
+3. تیل میں ۱ منٹ کیلئے لہسن اور آمیزے کو صاف کریں ۔
+4. گلّے میں پکا ہوا کُل‌وقتی مُنہ اور اُوپر کی طرف اُڑ جاتا ہے ۔
+:::

@@ -90,3 +90,39 @@ prepTimeEstimated: true
 3. ताजा पालक मिसळा आणि तो कोमेजेपर्यंत 2 मिनिटे शिजवा.
 4. मीठ आणि काळी मिरी घालून चवीनुसार मसाला करा आणि गरम वाढा.
 :::
+
+:::lang en
+# Tuscan White Bean and Spinach Stew
+
+A comforting Italian stew of creamy cannellini beans cooked with fresh spinach, garlic, tomatoes, and rosemary.
+
+## Instructions
+1. Heat olive oil in a pan; sauté garlic and rosemary for 1 minute.
+2. Add diced tomatoes, white beans, and vegetable broth; simmer for 12 minutes.
+3. Stir in fresh spinach and cook for 2 minutes until wilted.
+4. Season with salt and black pepper and serve hot.
+:::
+
+:::lang bn
+# টুসকান হোয়াইট বেন এবং স্পিনকাচে
+
+এক চমৎকার ইতালীয় পাপড়ি
+
+## Instructions
+1. এক মিনিটের জন্য হিমোগ্লোবিন তেল; যর্দ্দন রসুন ও গোলাপের তৈরি ।
+2. লাল টমেটো, সাদা শিম এবং সবজির বাগান; ১২ মিনিটের জন্য সিমমের।
+3. তাজা স্পিনে আর ২ মিনিট রান্না করে রান্না করবো।
+4. লবণ এবং কালো মরিচের সাথে সিঙ্গেল এবং গরম পরিবেশন।
+:::
+
+:::lang ur
+# تسکان وائٹ بیان اور اسپینک اسٹے ہیں۔
+
+اٹلی کے ایک تسلی‌بخش پکوان کریمی کین‌لین کے دانوں نے تازہ‌وغریب ، لہسن ، ٹماٹر اور آلو تیار کئے ۔
+
+## Instructions
+1. زیتون کے تیل کو پان میں پکایا جاتا ہے ۔
+2. ٹماٹروں ، سفید دانوں اور سبزیوں کے برتنوں میں شامل کرنا ؛ ۱۲ منٹ تک اِس کی تیاری کرنا ۔
+3. اِس کے بعد اُس نے اُس سے پوچھا : ” کیا مَیں اِس بات کا یقین کر سکتا ہوں ؟ “
+4. اِس کے بعد اُس نے اُس سے کہا : ” مَیں اُس کی خدمت کر رہا ہوں ۔ “
+:::

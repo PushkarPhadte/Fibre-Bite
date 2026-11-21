@@ -95,3 +95,39 @@ prepTimeEstimated: true
 3. बाहेरील बाजूला हलकेच ऑलिव्ह तेल लावा.
 4. आधी तापवलेल्या ओव्हनमध्ये ग्रिल करा किंवा तव्यावर प्रत्येक बाजू ५–६ मिनिटे शेकून मासा पूर्ण शिजवा.
 :::
+
+:::lang en
+# Pudina Chutney Stuffed Tandoori Fish
+
+Whole fish fillets stuffed with fresh mint-coriander green chutney and roasted to tender perfection.
+
+## Instructions
+1. Blend mint, coriander, green chillies, lemon juice, cumin, and salt into a smooth green chutney.
+2. Slit fish fillets horizontally to create a pocket and stuff with chutney.
+3. Brush outer surface lightly with olive oil.
+4. Grill in a preheated oven or pan-sear for 5–6 minutes per side until cooked through.
+:::
+
+:::lang bn
+# পুডিনা চুটিনি তান্ট্রি মাছ
+
+পুরো মাছই তাজা সবুজ চুনচুনি দিয়ে ভরা।
+
+## Instructions
+1. এক হালকা সবুজ চুড়ির মধ্যে লবণ, সবুজ ঠাণ্ডা, লেবুর জুস, ফলের রস এবং লবণ এক মসৃণ সবুজ চুন দিয়ে তৈরি হয় ।
+2. স্লাট মাছগুলোকে হাত দিয়ে পকেট আর ব্যাগ তৈরি করতে হয়।
+3. আলেহান্দ্রে পাতা হালকা ছিল ।
+4. রান্না না করা পর্যন্ত ৫-৬ মিনিটের জন্য স্টর্স বা প্যান-শিং এর জন্য খাদ্য সরবরাহ করা হবে।
+:::
+
+:::lang ur
+# پو رکھونا چتنی اسٹوفیڈ ٹنڈوری مچھلی
+
+مچھلیوں نے تازہ منٹوں والے سبز چیتے سے مواد بھرا اور شفقت سے کام لیا ۔
+
+## Instructions
+1. اِس کی ایک وجہ تو یہ ہے کہ اِن میں سے ہر ایک کو اِس چیز کی ضرورت ہے ۔
+2. پس‌منظر سے تعلق رکھنے والی مچھلیوں کی تعداد میں اضافہ ہوتا ہے ۔
+3. زیتون کے تیل کے ساتھ بیرونی سطح‌وزمین کی سطح ۔
+4. جب تک پکا نہ لیا جائے۔
+:::

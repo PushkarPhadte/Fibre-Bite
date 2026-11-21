@@ -102,3 +102,39 @@ prepTimeEstimated: true
 3. पिळलेला पालक घालून घट्ट, तजेलदार हिरवी आणि बारीक पोताची पेस्ट एकजीव होईपर्यंत पल्स करा.
 4. मिश्रणाचे छोटे अंडाकृती गोळे किंवा टिक्क्या करा, किंवा वाढायच्या ताटात ढीग करा; वर भरपूर ताजे डाळिंबाचे दाणे लावा.
 :::
+
+:::lang en
+# Georgian Spinach and Walnut Pkhali
+
+Vibrant Georgian plant-based herb and walnut spread made from blanched spinach, toasted walnuts, cilantro, garlic, and ruby pomegranate arils.
+
+## Instructions
+1. Blanch the spinach in boiling water for 90 seconds, immediately plunge into ice water, and squeeze thoroughly in a clean kitchen towel to remove all excess moisture.
+2. Pulse the walnuts, garlic, cilantro, khmeli suneli spice blend, vinegar, and salt in a food processor until finely ground.
+3. Add the squeezed spinach and pulse until well combined into a thick, bright green paste with fine texture.
+4. Shape into small oval patties or mound onto a serving plate and stud the top generously with fresh pomegranate arils.
+:::
+
+:::lang bn
+# জর্জিয়ান স্পিনাচা এবং ওয়ালনাট পেনলি
+
+ভিন্ট জর্জিয়ান গাছ নির্ভর করে শূককীট আর পাতা পাতাগুলো চুষে চুষে ছড়িয়ে পড়ে।
+
+## Instructions
+1. এটা পরিষ্কার - পরিচ্ছন্নতার কাজ ।
+2. এলকোহল, রসুন, সিল্‌নরো, কিমলি সুর, ভিনেগার এবং লবণের কথা মনে করে।
+3. এই গঠনগুলো খুব দ্রুত গতিতে চলতে থাকে ।
+4. ছোট ছোট পাটাতনে মুখ করে একটা প্লেটের ওপর অথবা ছাঁটা রাখুন।
+:::
+
+:::lang ur
+# جارجیا اسپینخ اور والنوت پکھالی
+
+ویبرانٹ جارجیا کے پودے پر مبنی جڑی بوٹیوں اور چاولوں سے تیار کی جانے والی جڑی بوٹیوں، چاولوں، چاولوں، لہسن، لہسن وغیرہ پھیلے ہوئے تھے۔
+
+## Instructions
+1. پانی کو صاف کرنے کے لئے صاف پانی میں داخل ہو جاتا ہے ۔
+2. یہاں تک کہ کھانے کے برتنوں میں نمک ، لہسن ، پنیر اور نمک ملا کر صاف کِیا جاتا ہے ۔
+3. جب تک اچھی طرح سے سبز رنگ کے سبز رنگ کو اچھی طرح سے ملا نہیں جاتا اِس لئے اُس نے اِس میں سوراخ کِیا ۔
+4. شاپنگ کو چھوٹی چھوٹی چھوٹی کشتیاں یا ٹیلے میں ایک خدمت‌شُدہ پلیٹ پر رکھ کر تازہ‌دم‌دم‌شُدہ لوگوں کی مدد کرنے کے لئے تیار کریں ۔
+:::

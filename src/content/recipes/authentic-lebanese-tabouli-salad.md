@@ -102,3 +102,39 @@ prepTimeSource: 'https://www.simplyleb.com/recipe/tabbouleh/'
 3. सलाडच्या मिश्रणात भिजवलेला बुलगुर घाला.
 4. एक्स्ट्रा व्हर्जिन जैतुनाचे तेल आणि लिंबाचा रस घाला, मीठ व काळी मिरी घालून चवीनुसार मसाला करा आणि हलक्या हाताने एकत्र करा.
 :::
+
+:::lang en
+# Authentic Lebanese Tabouli Salad
+
+A traditional Levantine herb salad loaded with fresh flat-leaf parsley, mint, bulgur wheat, tomatoes, and a zesty lemon-olive oil dressing.
+
+## Instructions
+1. Soak bulgur wheat in warm water for 15 minutes until softened, then drain thoroughly.
+2. In a large bowl, mix finely chopped parsley, mint, tomatoes, and green onion.
+3. Add soaked bulgur wheat to the salad mixture.
+4. Drizzle extra virgin olive oil and lemon juice, season with salt and pepper, and toss gently.
+:::
+
+:::lang bn
+# অভিনব লেবানিজ তালুলি সালাদ
+
+ঐতিহ্যবাহী লেবানিন সুপেইন সুপেলে নতুন ফ্ল্যাটের সালাদ, মিমটস, বুলগুর গম, টমেটো, এবং একটি জ্যাভিয়ার তেল পোষাকে তৈরি করা হয়েছে।
+
+## Instructions
+1. অল্প কয়েক মিনিটের জন্য গরম জলে গম তৈরি করা হয় ।
+2. এক বড় বাটি বাটি, সুন্দর প্যারোলে, মিনিট, টমেটো আর সবুজ রঙের মিশ্রণ।
+3. সালাদের মিশ্রণে বিঙ্গুর গম যোগ করো।
+4. হালকা জলপাই তেল এবং লেবুর জুসে হালকা লবণ এবং মরিচের রস দেওয়া হতো ।
+:::
+
+:::lang ur
+# ارطینۃ لبنان طبووالی سالد –
+
+ایک روایتی لیونیان جڑی بوٹی جس میں تازہ تیل کی بوتل، منٹ، بلگر گندم، ٹماٹر اور ایک زَستِیئم کے تیل کے کپڑے پہنے ہوئے تھے۔
+
+## Instructions
+1. یہاں تک کہ 15 منٹ تک گرم پانی میں گندم کی گندم پک جاتی ہے اور پھر اچھی طرح سے پک جاتی ہے۔
+2. ایک بڑے پیالے میں ، اچھی طرح سے تیار کئے جانے والے لوہے ، منٹ ، ٹماٹر اور سبز اون کو ملا کر رکھ دیا جاتا ہے ۔
+3. اِس میں گندم کی بہتات ہے ۔
+4. اِس سے ظاہر ہوتا ہے کہ زیتون کا تیل اور ٹماٹر کا رس ، نمک اور مکھن کے ساتھ ساتھ نرم‌مزاجی سے استعمال کِیا جاتا ہے ۔
+:::

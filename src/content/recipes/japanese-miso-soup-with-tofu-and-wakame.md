@@ -89,3 +89,39 @@ prepTimeEstimated: true
 3. थोडासा गरम रस्सा एका कपात काढा, त्यात मिसो पेस्ट घाला आणि गुठळ्या न राहेपर्यंत फेटा.
 4. पातेल्यात टोफू आणि वाकामे घाला, विरघळवलेली मिसो पेस्ट मिसळा, गॅस बंद करा आणि वरून हिरवा कांदा घालून वाढा.
 :::
+
+:::lang en
+# Japanese Miso Soup with Tofu and Wakame
+
+A light, gut-friendly fermented dashi broth featuring silken tofu, wakame seaweed, and spring onions.
+
+## Instructions
+1. Soak dried wakame seaweed in warm water for 5 minutes to rehydrate.
+2. Heat kombu dashi broth in a saucepan until hot (do not boil).
+3. Ladle out a little warm broth into a cup, add miso paste, and whisk until smooth.
+4. Add tofu and wakame to pot, stir in dissolved miso paste, turn off heat, and serve topped with spring onions.
+:::
+
+:::lang bn
+# জাপানের মিসো সোফু এবং উকিমের সাথে
+
+একটি হালকা, কুঠরী-সহ বন্ধুসুলভ ব্রিয়াথ, যার সাথে রেশমি টফু, ওয়াকা সাগর আর বসন্ত।
+
+## Instructions
+1. সক্কে শুকিয়ে যাওয়া সামুদ্রিক মাছ পাঁচ মিনিটের জন্য গরম পানিতে ভেসে গিয়েছিল।
+2. গরম না হওয়া পর্যন্ত সসফলে হত কোমবু ফাটে।
+3. এক কাপে একটু গরম বসি, যোগ করুন ও মসৃণ না হওয়া পর্যন্ত হুইস্কি।
+4. টফু এবং কোকামে যোগ করুন, যেন তারা কুয়াশা পেস্ট করে, গরম বন্ধ করে দেয় এবং বসন্তে পরিবেশন করে।
+:::
+
+:::lang ur
+# توفو اور وکامکے کے ساتھ جاپان میسو سوپ
+
+ایک روشنی، گوتم دوست پرستی کے ذریعے ریشمی رنگ کے برتن، وکام دریائی اور سرمائی چاولوں کو ملانے والا۔
+
+## Instructions
+1. سوق خشک وکام دریا 5 منٹ تک گرم پانی میں گردش کرتے رہے تاکہ پانی دوبارہ حاصل کیا جا سکے۔
+2. گرم تک گرم (دو نہیں)۔
+3. لاتعداد گرم بُت کو ایک پیالہ میں نکال کر غلط پستول میں شامل کر لیتے ہیں اور آہستہ آہستہ آہستہ اسے آہستہ صاف کر دیتے ہیں ۔
+4. اِس کے علاوہ اِس کے ساتھ‌ساتھ اُن کے کھانے پینے کی چیزیں بھی صاف ہو جاتی ہیں ۔
+:::

@@ -107,3 +107,39 @@ prepTimeEstimated: true
 3. रस्स्यात चार छोटे खळगे करा आणि प्रत्येकात एक अंडे फोडून घाला.
 4. कढई झाकून मंद आचेवर 5–8 मिनिटे शिजवा, अंड्याचा पांढरा भाग सेट होईपर्यंत.
 :::
+
+:::lang en
+# Shakshuka (North African Poached Eggs in Tomato Sauce)
+
+Gently poached eggs resting in a rich, spiced sauce of tomatoes, bell peppers, onions, garlic, and cumin.
+
+## Instructions
+1. Heat olive oil in a skillet; sauté onion, bell pepper, and garlic for 5 minutes.
+2. Add cumin, paprika, crushed tomatoes, salt, and pepper; simmer for 10 minutes until sauce thickens.
+3. Make 4 small wells in the sauce and crack an egg into each well.
+4. Cover skillet and cook on low heat for 5–8 minutes until egg whites are set.
+:::
+
+:::lang bn
+# ঢাকাশুকা (উত্তর আফ্রিকার প্রতিটি পেডেড এগস সাউসে)
+
+প্রচুর পরিমাণে ডিম রান্না করা হয়েছে ।
+
+## Instructions
+1. প্রচুর পরিমাণে জলপাই তেল; হিমোগ্লোন, মরিচ এবং রসুন পাঁচ মিনিট ধরে।
+2. ফলের রস, পাপমোচন, পাপমোচন, লবণ, লবণ এবং মরিচ যোগ করুন; সসেজের জন্য সিমমার ১০ মিনিট পর্যন্ত ।
+3. সস এ ৪ টা ছোট সস তৈরি করো আর প্রত্যেকটা ডিমকে জোড়া দাও।
+4. ডিমের সাদা রঙ নির্ধারিত না হওয়া পর্যন্ত ঢেকে রাখা এবং অল্প তাপমাত্রায় রান্না করা।
+:::
+
+:::lang ur
+# شیخکا (North African Poched Eggs in Tomato Sauce)۔
+
+اِس کے علاوہ اُن کے انڈے بھی اِس بات پر زور دیتے ہیں کہ اُن کے بچے اُن سے پیار کرتے ہیں ۔
+
+## Instructions
+1. زیتون کے تیل کو مہارت سے استعمال کِیا جاتا ہے ۔
+2. اِس کے علاوہ اِس میں ٹماٹر ، نمک ، نمک وغیرہ شامل ہیں ۔
+3. 4 چھوٹے کنوئیں بنا لیں اور ہر کنویں میں انڈے ڈال دیں۔
+4. 5–8 منٹ تک کم درجہ حرارت پر چادر رکھ کر اس وقت تک رکھ دیں جب تک انڈے سفید نہ ہو جائے۔
+:::

@@ -92,3 +92,39 @@ prepTimeEstimated: true
 3. तिळाचे तेल, सोया सॉस आणि लिंबाचा रस एकत्र फेटा.
 4. वाढण्यापूर्वी बाउलवर ड्रेसिंग घाला.
 :::
+
+:::lang en
+# Global Quinoa Edamame Power Bowl
+
+A nutrient-packed protein bowl featuring fluffy quinoa, steamed edamame, shredded purple cabbage, carrots, and sesame dressing.
+
+## Instructions
+1. Arrange cooked quinoa in bowls as the base.
+2. Top with sections of steamed edamame, purple cabbage, and shredded carrot.
+3. Whisk sesame oil, soy sauce, and lime juice.
+4. Drizzle dressing over power bowl before serving.
+:::
+
+:::lang bn
+# গ্লোবাল কিকোনোয়া এডমাস শক্তি
+
+ঘনিষ্ট প্রোটিনের বাটি, যার মধ্যে রক্ত ঝরানো মাংসের ঝোঁক রয়েছে, যার মধ্যে রক্ত ঝরানো কাটা লাল রঙের বেগুনি রঙের বাঁধা, কার্‌ট এবং সিকি জামা।
+
+## Instructions
+1. ঠিক আছে.
+2. এর ওপরের কয়টি বিভাগ ছিল মাউন্ট আমাম, বেগুনি রঙের ক্যাবেজ, আর সেগুলো নষ্ট হয়ে গিয়েছিল ।
+3. হুইস্কির তেল, সস আর লাইম জুস।
+4. কাজ করার আগে পাওয়ার বাটির উপর হালকা কাপড় দেওয়া.
+:::
+
+:::lang ur
+# گلوبل کوینوا ایڈمنٹن پاور باؤل
+
+اِس کی ایک وجہ یہ ہے کہ اِس میں اُن کا رنگ کم ہوتا ہے ۔
+
+## Instructions
+1. اِس کی ایک وجہ تو یہ تھی کہ اُس نے اِس کی بنیاد رکھی تھی ۔
+2. اُوپر اُوپر نیچے دئے گئے پَر ، ارغوانی رنگ اور رنگ‌برنگے رنگ کے رنگ ہوتے ہیں ۔
+3. وِسِک تیل ، سُوِک اور پنیر کا رس ۔
+4. خدمت کرنے سے پہلے بجلی کے پیالے پر کپڑا پہننا ۔
+:::

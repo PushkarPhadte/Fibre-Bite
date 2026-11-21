@@ -94,3 +94,39 @@ prepTimeEstimated: true
 3. मिश्रणात चार लहान विहिरी करा, प्रत्येक विहिरीमध्ये एक अंडी फोडा, झाकून ठेवा आणि पांढरे सेट होईपर्यंत 6 ते 8 मिनिटे शिजवा.
 4. चमच्याने उथळ भांड्यात मटनाचा रस्सा घाला आणि गरम सर्व्ह करा.
 :::
+
+:::lang en
+# Turmeric Poached Eggs with Swiss Chard and Cannellini
+
+Eggs gently poached in a turmeric-spiced tomato broth with Swiss chard stems and leaves and cannellini beans.
+
+## Instructions
+1. Warm olive oil in a deep skillet over medium heat and sauté garlic and Swiss chard stems for 3 minutes.
+2. Add Swiss chard leaves, cannellini beans, crushed tomatoes, and turmeric; simmer for 5 minutes.
+3. Make four small wells in the mixture, crack an egg into each well, cover, and poach for 6 to 8 minutes until whites are set.
+4. Spoon into shallow bowls with broth and serve warm.
+:::
+
+:::lang bn
+# টরমেরিক পোগড সুইস রড এবং কানেলিনির সঙ্গে
+
+ডিমগুলো কোমলভাবে টরেন্টিক-পিচ দিয়ে তৈরি টমেটো ব্রোথের সাথে সুইস অক্ষরের পাতা এবং পাতা এবং ক্যাননি শিম দিয়ে তৈরি হয়।
+
+## Instructions
+1. গরম গরমের কারণে শ্যাম্পু তেলের তেল এবং সসেজ রসুন এবং সুইস বুলেট বুলেট থম ৩ মিনিট ধরে ভাঙে।
+2. সুইস অক্ষরড পাতা, ক্যানিলনি শিম, চূর্ণ টমেটো এবং টরমেরিক যোগ করুন; পাঁচ মিনিট ধরে।
+3. ডিমের রসের মধ্যে চারটে ছোট গঠন করুন ।
+4. অগভীর বাটির মধ্যে থেকে ব্রোথের সাথে কথা বলা আর উষ্ণ সেবা করা।
+:::
+
+:::lang ur
+# Turmeric Poched Eggs کے ساتھ سوئز کارڈ اور کینولینی کے ساتھ
+
+Eggs نے نرم طریقے سے پلاسٹک کے بنے ہوئے ٹماٹر بُرتھ میں سوئیز کی پٹیوں اور پتوں اور کینلین دانوں کے ساتھ نرم رفتار سے پک گیا۔
+
+## Instructions
+1. زیتون کے تیل کو درمیان میں گرم کرنے کے لئے گرم کِیا جاتا ہے ۔
+2. سوئی کے پتوں کو ملا کر ، کین‌لین کے دانوں ، شکستہ ٹماٹروں اور ٹرمیرک ؛ ۵ منٹ تک اُبال سکتے ہیں ۔
+3. آمیزش میں چار چھوٹے کنوئیں بنا لیں، ہر کنویں میں انڈے کو چھ سے آٹھ منٹ تک توڑ ڈالیں اور جب تک سفید رنگ نہ ہو جائیں۔
+4. اِس لئے اُس نے اُن سے کہا : ” اَے [ یہوواہ ] !
+:::

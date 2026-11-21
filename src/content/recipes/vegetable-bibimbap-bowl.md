@@ -105,3 +105,39 @@ prepTimeEstimated: true
 3. उरलेल्या तेलात अंडी सनी-साइड वर तळून घ्या.
 4. तांदूळ आणि भाज्या भांड्यात ठेवा, वर अंडी घाला आणि तीळ शिंपडा.
 :::
+
+:::lang en
+# Vegetable Bibimbap Bowl
+
+Brown rice topped with sautéed spinach, carrot, mushrooms, sprouts and a fried egg.
+
+## Instructions
+1. Cook the rice as directed.
+2. Separately sauté the carrot, mushrooms, spinach and sprouts briefly in a little of the oil with the garlic until just tender, seasoning with the tamari.
+3. Fry the eggs sunny-side up in the remaining oil.
+4. Arrange the rice and vegetables in bowls, top with an egg and sprinkle with sesame.
+:::
+
+:::lang bn
+# নির্দলীয়ByBemblpa
+
+ব্রাউন চালের সাথে সসটেড বোলচ, কারিট, মাশরুম, অঙ্কুরিত হয় এবং একটি নোংরা ডিম।
+
+## Instructions
+1. চালের তুলনা করুন।
+2. একটু আলাদা ভাবে কার্রোট, মাশরুম, বাঁশ আর অঙ্কুরিত হয় শুধুমাত্র কোমল না হওয়া পর্যন্ত তেল দিয়ে, যা টামারির সাথে মিশে থাকে।
+3. অবশিষ্ট তেলের উপর ডিমের পাশে দাঁড়িয়ে আছে।
+4. ডিম দিয়ে তৈরি ভাত এবং সবজির ব্যবস্থা করুন ।
+:::
+
+:::lang ur
+# بِبِمباپ بُول
+
+براؤن چاول کے ذریعے اُس کے پاؤں میں سوراخ کئے جاتے ہیں ۔
+
+## Instructions
+1. چاول کو بطور ہدایت کیا.
+2. لہسن کو الگ کرنا ، اُس کی ہڈی ، ریڑھ کی ہڈی اور اُس وقت تک لہسن کے ساتھ تھوڑا سا تیل ملا کر اُس وقت تک نرم ہو جاتا ہے جب تک کہ اُس کے تیل میں صابن تیار نہ ہو ۔
+3. باقی تیل میں انڈوں کو خشک کرنا.
+4. چاول اور سبزیوں کو شیشوں میں ملا کر اُس کے اوپر انڈے اور سیب کے ساتھ ملا دیں ۔
+:::

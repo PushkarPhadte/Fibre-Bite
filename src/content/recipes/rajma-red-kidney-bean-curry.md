@@ -107,3 +107,42 @@ prepTimeEstimated: true
 4. उकडलेला राजमा आणि तो शिजवलेले पाणी घाला; 15 मिनिटे मंद आचेवर उकळू द्या.
 5. रस्सा घट्ट करण्यासाठी काही राजमे हलकेच कुस्करून घ्या आणि ब्राउन राइससोबत गरम वाढा.
 :::
+
+:::lang en
+# Rajma (Red Kidney Bean Curry)
+
+A North Indian curry made with slow-cooked red kidney beans simmered in a spiced onion-tomato gravy.
+
+## Instructions
+1. Pressure cook soaked rajma in salted water until soft and tender.
+2. Heat oil in a pan, add cumin seeds, and sauté onions until golden.
+3. Add ginger-garlic paste, tomato puree, turmeric, chilli powder, and rajma masala; cook until oil separates.
+4. Add boiled rajma along with its cooking liquid and simmer for 15 minutes.
+5. Lightly mash a few beans to thicken gravy and serve hot with brown rice.
+:::
+
+:::lang bn
+# রাজমা (রেড কিনি বেইন কারি)
+
+ধীর গতিতে লাল চিক্কির শিম দিয়ে তৈরি উত্তর-পূর্ব ভারতীয়রা।
+
+## Instructions
+1. নরম ও কোমল হওয়ার আগ পর্যন্ত বায়ুস্নাচি রাজমিকে লবণাক্ত জলে রান্না করে।
+2. এক প্যানের মধ্যে তাপ উৎপাদন, বীজ যোগ করা এবং সোনার আগ পর্যন্ত রক্ত ঝরানো হয়।
+3. ডোরামা মাসালা; তেল পৃথক না হওয়া পর্যন্ত রান্না করুন।
+4. ১৫ মিনিট ধরে রান্নার তরল তরল এবং সিমমের সাথে যোগ করো।
+5. হালকা টুকরো টুকরো টুকরো করে ঝরানো মাংসের ঝোলায় এবং বাদামি ভাত দিয়ে পরিবেশন করা হয়।
+:::
+
+:::lang ur
+# راجما (رڈ کd بانی کری )
+
+ایک شمالی ہندوستانی جن میں سستے سرخ رنگ کے دانوں کے ساتھ بنایا گیا تھا
+
+## Instructions
+1. دباؤ میں نرم اور نرم‌مزاج تک نمک‌دار پانی میں بہت زیادہ شکر پکاتا ہے ۔
+2. اِس کے علاوہ اُس نے سونے کے تیل کو بھی اِستعمال کِیا ۔
+3. آمیزش-جرلک پَر کو شامل کرنا، ٹماٹر صاف کرنا، ترشی، گندھک پاوڈر اور گرجما مَسَلا شامل کرنا؛ تیل الگ ہونے تک پکانے کرنا۔
+4. اِس کے ساتھ ساتھ اُس کا کھانا پکانے اور 15 منٹ تک پکایا جاتا ہے ۔
+5. ہلکے ماس چند دانوں کو گھنی گری تک لے جاتے ہیں اور بھورے چاول سے گرم خدمت کرتے ہیں۔
+:::

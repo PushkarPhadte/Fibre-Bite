@@ -84,3 +84,39 @@ prepTimeEstimated: true
 3. चिकन आणि फरसबी घालून चिकन पूर्ण शिजेपर्यंत 6 मिनिटे सतत परतत राहा.
 4. तमारी आणि बेसिल घालून 1 मिनिट एकत्र परता; भातावर वाढा.
 :::
+
+:::lang en
+# Thai Basil Chicken Stir-Fry with Brown Rice
+
+Minced chicken stir-fried with garlic, chilli, green beans and plenty of holy or Thai basil.
+
+## Instructions
+1. Cook the rice according to packet directions.
+2. Heat the oil in a wok and stir-fry the garlic and chillies for 20 seconds.
+3. Add the chicken and beans and stir-fry for 6 minutes until cooked.
+4. Add the tamari and basil and toss for 1 minute; serve over the rice.
+:::
+
+:::lang bn
+# ব্রাউন রাইসের সাথে থাই বাসিল মুরগী সেন্টির-ফিরি
+
+মিনক মুরগির মাংস রসুন, ঠাণ্ডা, সবুজ শিম এবং প্রচুর পবিত্র এবং থাই বসিলের সাথে মিশে যায়।
+
+## Instructions
+1. প্যাকেট নির্দেশনা অনুযায়ী ভাতকে রান্না করো।
+2. তেল ভিকে আর রসুন আর ২০ সেকেন্ডের জন্য ঠান্ডা।
+3. মুরগি এবং শিম যোগ করুন এবং রান্না না হওয়া পর্যন্ত ৬ মিনিট অন্তর উত্তেজিত করুন।
+4. তামা এবং বেসিল যোগ করুন এবং ১ মিনিটের জন্য খরচ করুন; চালের জন্য সেবা করুন ।
+:::
+
+:::lang ur
+# Thai Basil Chicken Foundation-Fry with Brown Rice ہے۔
+
+مانسیڈ مرغی لہسن، سرسوتی، سبز دانوں اور کافی مقدس یا تھائی بسمل سے جڑی ہوئی ہے۔
+
+## Instructions
+1. چاول کو فٹ بال کے مطابق کرو.
+2. تیل کو ایک ویک میں رکھنا اور 20 سیکنڈ تک لہسن اور چربی کو جذب کرنا۔
+3. مرغی اور دانوں کو ملا کر 6 منٹ تک پکایا جاتا ہے۔
+4. چاول کی زیادہ خدمت کریں ۔
+:::

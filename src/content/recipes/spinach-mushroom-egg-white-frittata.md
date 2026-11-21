@@ -102,3 +102,42 @@ prepTimeSource: 'https://www.eatingwell.com/recipe/252119/spinach-mushroom-egg-w
 4. अंड्याचे पांढरे, पूर्ण अंडी, लसूण पावडर, मीठ आणि मिरी एकत्र फेटा; हे मिश्रण कढईतील भाज्यांवर ओता.
 5. कडा सेट होईपर्यंत स्टोव्हवर 5 मिनिटे शिजवा; नंतर कढई ग्रिलखाली 3–4 मिनिटे ठेवा, वरचा भाग सोनेरी होईपर्यंत.
 :::
+
+:::lang en
+# Spinach Mushroom Egg White Frittata
+
+A light and fluffy protein-packed frittata made with egg whites, fresh spinach, sliced mushrooms, and herbs.
+
+## Instructions
+1. Preheat oven grill to high.
+2. Heat olive oil in an oven-safe skillet and sauté sliced mushrooms until tender.
+3. Add baby spinach and cook until wilted.
+4. Whisk together egg whites, whole eggs, garlic powder, salt, and pepper; pour over vegetables in the skillet.
+5. Cook on stovetop for 5 minutes until edges set, then transfer under the grill for 3-4 minutes until golden.
+:::
+
+:::lang bn
+# ঘূর্ণ্যমান প্রতিটি মাস
+
+একটা হালকা আর ফ্লুফরি প্রোটিনে ডিটেইটা দিয়ে ডিমের সাদা, তাজা মাশরুম আর ভেষজ দিয়ে তৈরি।
+
+## Instructions
+1. প্রিটভেন গ্রিল উঁচু হতে.
+2. একটা চুলা জলপাই তেল দিয়ে তৈরি, আর সাঁতরে মাশরুম পর্যন্ত।
+3. বাবুর্চি আর রান্না করো যতক্ষণ না পর্যন্ত না পর্যন্ত।
+4. ডিমগুলো একসঙ্গে ডিমের সাদা, পুরো ডিম, রসুন পাউডার, লবণ এবং মরিচ; দক্ষতায় তেল ঢালে ।
+5. 5 মিনিটের জন্য স্টোভ আপ, তারপর 3-4 মিনিটের নিচে স্থানান্তর.
+:::
+
+:::lang ur
+# اسپینینچ میوزیم ایج وائٹ فرنٹٹا
+
+ایک چمکدار اور زہریلی پروٹین فریٹا جس میں انڈے کے سفید، تازہ ریڑھ کی ہڈی، گیس اور جڑی بوٹیاں ہوتی ہیں۔
+
+## Instructions
+1. اِس کی ایک اَور وجہ بھی ہے ۔
+2. زیتون کا تیل ایک اونی محفوظ مہارت اور ساوتری میں جب تک نرم نہ ہو۔
+3. جب تک بچہ ٹھیک نہیں ہو جاتا اُس وقت تک اُسے پکا نہ کر لیں ۔
+4. اِس کے علاوہ اِس میں اُڑ کر اُڑ جاتے ہیں ۔
+5. 5 منٹ تک کک پر 5 منٹ تک، پھر سونے تک 3-4 منٹ کے لیے نیچے منتقل کریں۔
+:::

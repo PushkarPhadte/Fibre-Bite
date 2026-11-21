@@ -95,3 +95,39 @@ prepTimeSource: 'https://www.allrecipes.com/recipe/215901/tuna-and-chickpea-sala
 3. ऑलिव्ह ऑईल, लिंबाचा रस, मीठ आणि मिरी एकत्र फेटून सलाडवर ओता.
 4. हळुवारपणे एकत्र करा आणि हिरव्या पालेभाज्यांवर किंवा रॅपमध्ये भरून सर्व्ह करा.
 :::
+
+:::lang en
+# Mediterranean Chickpea Tuna Salad (Egg-Free)
+
+A high-protein salad blending flaked light tuna, chickpeas, diced celery, red onion, and lemon-herb olive oil.
+
+## Instructions
+1. Flake drained tuna into a bowl with a fork.
+2. Add chickpeas, diced celery, red onion, and chopped parsley.
+3. Whisk olive oil, lemon juice, salt, and pepper; pour over salad.
+4. Toss gently and serve over greens or in wraps.
+:::
+
+:::lang bn
+# ভূমধ্যসাগরীয় চিকেনা তুনা সালাদ (এগি-ফ্রি)
+
+একটি উচ্চ-প্রজাতের সালাদের সাথে হালকা ঠোঁট, কুঁজো, লাল লাল, এবং লেবু-হেরব জলপাই তেল।
+
+## Instructions
+1. কাপে ভরা টুনা.
+2. মৌমাছিরা, পাশা, লালা, লালা এবং কাটা প্যারোলে.
+3. তেল, লেবু, লবণ এবং মরিচের সসেজ; সালাদের ওপর ঢালুন ।
+4. আলগা করে আর সবুজ অথবা কাঁটা দিয়ে পরিবেশন করে ।
+:::
+
+:::lang ur
+# بحیرۂروم Chickpea Tuna Salad (Egg-Free)
+
+ایک اعلیٰ قسم کے تیل کو ملانے والی روشنی کو ملانے والی روشنی تونا، مریخ، قپد کرسی، سرخ اونی اور کیمیائی زیتون کے تیل کو ملاتی ہے۔
+
+## Instructions
+1. فالکی نے ٹونا کو ایک پیالے میں تبدیل کر دیا جس کے ساتھ ایک چوک ہے۔
+2. اِس کے علاوہ اِس میں اَور بھی بہت سے لوگ شامل ہیں ۔
+3. زیتون کا تیل ، مکئی کا رس ، نمک ، نمک اور پنیر وغیرہ ۔
+4. تو نرم‌مزاجی سے کام لیتے ہیں اور سبز یا لپیٹ میں رہتے ہیں ۔
+:::

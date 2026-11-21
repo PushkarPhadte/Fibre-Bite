@@ -93,3 +93,39 @@ prepTimeEstimated: true
 3. किसलेला टोमॅटो आणि त्याचा रस जवाच्या रस्कवर भरपूर चमच्याने घाला, म्हणजे रस धान्यात मुरेल.
 4. वर कमी चरबीयुक्त चुरलेला फेटा, धुतलेले केपर्स, थोडे एक्स्ट्रा-व्हर्जिन ऑलिव्ह तेल आणि कुस्करलेले ग्रीक ओरिगॅनो घाला; लगेच वाढा.
 :::
+
+:::lang en
+# Cretan Dakos (Whole-Barley Rusk with Grated Tomato and Feta)
+
+Traditional Cretan Mediterranean meal of crunchy whole-grain barley rusks softened with juicy grated ripe tomato, extra-virgin olive oil, reduced-fat feta, and capers.
+
+## Instructions
+1. Lightly sprinkle each barley rusk with 15 ml of water and wait 1 minute so the crust softens slightly while retaining its hearty crunch.
+2. Halve the ripe tomatoes crosswise and grate the cut flesh on the large holes of a box grater into a bowl, discarding the skins.
+3. Spoon the grated tomato and its juices generously over the barley rusks so the juices soak into the grain.
+4. Top with crumbled reduced-fat feta, rinsed capers, a drizzle of extra-virgin olive oil, and crushed Greek oregano; serve immediately.
+:::
+
+:::lang bn
+# ক্রেতান দাকোস (কেলে-বারলি রুস্ক) গ্রাসাতু এবং ফাটা (কেলে রুস্ক)
+
+ঐতিহ্যবাহী কেরান ভূমধ্যসাগরীয় অঞ্চলের রান্নার খাবার যা রসালো টমেটোর সাথে মিলে যায়, অতিরিক্ত পাকা টমেটো, অতিরিক্ত জলপাই তেল, আর টুপিওয়ালারা।
+
+## Instructions
+1. তাই, এতে অবাক হওয়ার কিছু নেই যে, শস্যের পরিমাণ প্রায় ১ মিটার ।
+2. প্রচুর টমেটো পাওয়া যায় ।
+3. রসালো টমেটো এবং এর রস কাটা যবের রসকে বৃদ্ধি করে, ফলে শস্যের রসগুলো শুকিয়ে যায় ।
+4. মাটির নিচে পড়ে যাওয়া ফাটাফাটি, রাইডেড ক্যাপার, অতিরিক্ত আভিজাত জলপাই তেল এবং চূর্ণ গ্রীক বাগানো তেল; সাথে সাথে সাথে সেবা করা।
+:::
+
+:::lang ur
+# کریٹن داکوس (Wole-Barley Rusk with Grad Tomato and Feta)۔
+
+روایتی کریٹن بحیرۂروم کھانا کرنسی پورے جَو جَو رَوَسِک کے ساتھ نرم ہو گیا جس کی وجہ سے اُس کے معدے کے پھول کھلنے لگتے تھے ، زیتون کے تیل میں اضافہ ہوتا تھا ، اُس میں پائی جانے والی چربی بھی کم ہوتی تھی اور کُپر بھی ہوتی تھی ۔
+
+## Instructions
+1. روشنی ہر جَو رُک کیساتھ 15 ملی میٹر پانی کا دورہ کرتی ہے اور 1 منٹ کا انتظار کرتی ہے لہٰذا اپنے دل کی صلیب کو برقرار رکھنے کے دوران کرۂ فضائی کو ہلکا کر دیتی ہے ۔
+2. اِس سے ظاہر ہوتا ہے کہ اِس کے بعد اُس کے جسم میں کوئی نقص نہیں ہوتا ۔
+3. اِس کے بعد اُس نے اِس پودے کو اِستعمال کِیا ۔
+4. اوپر سے پھٹنے والی فاطمہ (fat feta)، rinsed caperers، اضافی زیتون کے تیل کا ایک ٹکڑا اور یونانی یایگانو کو فوراً خدمت کرنا۔
+:::

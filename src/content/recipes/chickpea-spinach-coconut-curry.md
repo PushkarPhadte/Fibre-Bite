@@ -103,3 +103,39 @@ prepTimeSource: 'https://minimalistbaker.com/1-pot-chickpea-spinach-curry/'
 3. चिरलेले टोमॅटो, हरभरा आणि हलके नारळाचे दूध घाला. 15 मिनिटे मंद आचेवर शिजू द्या.
 4. ताजा पालक मिसळा आणि तो कोमेजेपर्यंत शिजवा. मीठ घालून वाढा.
 :::
+
+:::lang en
+# Chickpea Spinach Coconut Curry
+
+A comforting vegan curry featuring tender chickpeas and fresh spinach simmered in a light coconut tomato sauce.
+
+## Instructions
+1. Heat coconut oil in a large skillet and sauté chopped onion until translucent.
+2. Add minced garlic, turmeric, and cumin; cook for 1 minute until fragrant.
+3. Pour in diced tomatoes, chickpeas, and light coconut milk. Simmer for 15 minutes.
+4. Stir in fresh spinach and cook until wilted. Season with salt and serve.
+:::
+
+:::lang bn
+# চিরুকী Carpan Coickteutz
+
+মিষ্টি মিষ্টি মিষ্টি মিষ্টি মিষ্টির রস বের করে এক হালকা নারিকেল টমেটো সসায়।
+
+## Instructions
+1. নারিকেলের প্রচুর পরিমাণে তেল এবং হিমোগ্লোবিনে কাটা গাছ ।
+2. রসুন, তুমারিক আর হরমিন; ফ্রুগ্রান্টের ১ মিনিটের জন্য রান্না করা।
+3. নারিকেলের তৈরি টমেটো, মুরগি, এবং হালকা নারিকেল দুধ । ১৫ মিনিট লাগবে।
+4. তাজা স্পিনে আর রান্নায় শরীর গরম। লবণ আর সেবা দিয়ে সিঙ্গেল।
+:::
+
+:::lang ur
+# چِکّپَا سَنَا قَوْنَا قَرَیْنَا قَرَى
+
+ایک تسلی‌بخش وگن نے نرم‌مزاج اور تازہ‌و تازہ ریڑھ کی ہڈی کو ہلکے ناریل کے ٹماٹر میں پکایا ۔
+
+## Instructions
+1. ناریل کے تیل کو بڑی مہارت سے استعمال کِیا جاتا ہے ۔
+2. اِس کے علاوہ اِس میں لہسن ، تیل اور مکھن بھی شامل کئے جاتے ہیں ۔
+3. مونگ‌پھلی ، ٹماٹروں اور ناریل کا دودھ ۔ 15 منٹ تک سیمر۔
+4. اُس وقت تک تازہ‌دم ہو کر کھانا پکاتے رہیں جب تک کہ اُس کی مرمت نہ ہو جائے ۔ نمک کے ساتھ تیل اور خدمت.
+:::

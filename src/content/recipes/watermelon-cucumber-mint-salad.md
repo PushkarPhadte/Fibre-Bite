@@ -74,3 +74,36 @@ prepTimeEstimated: true
 2. लिंबाचा रस आणि मिरपूड सह वेषभूषा.
 3. भोपळ्याच्या बिया पसरवा आणि थंडगार सर्व्ह करा.
 :::
+
+:::lang en
+# Watermelon Cucumber Mint Salad
+
+A hydrating no-sugar summer salad with watermelon, cucumber, mint, lime and pumpkin seeds.
+
+## Instructions
+1. Combine the watermelon, cucumber and mint in a bowl.
+2. Dress with lime juice and pepper.
+3. Scatter over the pumpkin seeds and serve chilled.
+:::
+
+:::lang bn
+# সা. কা.
+
+গ্রীষ্মের কোন সন্ধার সালাদ নয়, তরমুজ, ফলের বাগান, মিমলা এবং কুমড়া বীজ।
+
+## Instructions
+1. কোয়ারেন্টাইনের মধ্যে, পয়:নিষ্কাশন, পোদাল আর মিনিট.
+2. হালকা জুস আর মরিচের পোশাক।
+3. কুমড়া বীজের উপর বিচ্ছিন্ন হয়ে পড়ে আর ঠাণ্ডায় কাজ করে।
+:::
+
+:::lang ur
+# واٹرملٹن کیکوممبر منٹ سالود
+
+ایک ہائیڈیزنگ نو شوگر کا موسم گرما جس میں واٹرملٹن، کیکمبر، منٹ، آلو اور پمپین بیج ہیں۔
+
+## Instructions
+1. ایک پیالے میں پانی ملانا، کیکمبر اور منٹ لگانا۔
+2. اِس کے علاوہ اَور بھی بہت سے کپڑے ہیں ۔
+3. پمپ‌کین بیج اُوپر اُٹھائے اور اُس کی خدمت کرنے لگے ۔
+:::

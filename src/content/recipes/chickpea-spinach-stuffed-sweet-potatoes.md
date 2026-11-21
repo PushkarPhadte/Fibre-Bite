@@ -104,3 +104,39 @@ prepTimeEstimated: true
 3. दही, ताहिनी आणि लिंबाचा रस एकत्र मिसळा.
 4. रताळी मधोमध उघडा, त्यात हरभऱ्याचे मिश्रण भरा आणि वरून सॉस घाला.
 :::
+
+:::lang en
+# Chickpea Spinach Stuffed Sweet Potatoes
+
+Baked sweet potatoes stuffed with spiced chickpeas, spinach and a tahini yogurt drizzle.
+
+## Instructions
+1. Bake the sweet potatoes at 200 °C for 45 minutes until soft.
+2. Warm the chickpeas in the oil with the cumin, paprika and salt, then wilt in the spinach.
+3. Mix the yogurt, tahini and lemon juice.
+4. Split the potatoes, fill with the chickpea mixture and drizzle with the sauce.
+:::
+
+:::lang bn
+# মুরগির বাচ্চা মিষ্টি পটাটো
+
+আলু দিয়ে বানানো মিষ্টি আলু.
+
+## Instructions
+1. নরম হওয়ার আগ পর্যন্ত ২০০ ডিগ্রি সেলসিয়াসের মধ্যে মিষ্টি আলু নির্মাণ করুন।
+2. মৌমাছিরা তেলে পরিণত হয়... ...জঙ্গল, পাম্পিকা আর লবণ দিয়ে, তারপর স্পিনে।
+3. মাংসের জুস, টিহনি আর লেবুর জুস।
+4. আলুকে বিভক্ত করো, মুরগীর মিশ্রণ আর সস দিয়ে গন্ধ বের করো।
+:::
+
+:::lang ur
+# چِکُپَا سَپِنَّا سَتَفَدُّسُوٹُوَسَ
+
+اِس کی وجہ یہ تھی کہ اُس نے اُن کے لئے کھانا تیار کِیا ۔
+
+## Instructions
+1. شہد کی مکھی 200 °C 45 منٹ تک نرم ہو جاتی ہے۔
+2. اِس کے بعد اِس تیل کو تیل میں پکایا جاتا ہے ۔
+3. مکئی ، تاہنی اور مکئی کا رس ۔
+4. اِس کی ایک وجہ یہ ہے کہ اِس میں کوئی شک نہیں کہ اِس کی وجہ کیا ہے ۔
+:::

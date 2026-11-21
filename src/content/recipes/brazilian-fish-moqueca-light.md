@@ -117,3 +117,42 @@ prepTimeEstimated: true
 4. माशाचे तुकडे वर ठेवा, झाकण ठेवून 8 मिनिटे शिजवा, मासा सहज पदर सुटेपर्यंत. तुकडे अखंड राहावेत म्हणून ढवळू नका.
 5. उरलेला लिंबाचा रस आणि कोथिंबीर घालून शेवटचा स्वाद द्या.
 :::
+
+:::lang en
+# Light Fish Moqueca (Brazilian Coconut Fish Stew)
+
+Firm white fish simmered in tomato, peppers and a light coconut broth with lime and fresh coriander.
+
+## Instructions
+1. Marinate the fish with half the lime juice, garlic and 1 g of the salt for 15 minutes.
+2. Heat the oil in a wide pan and cook the onion and capsicum for 5 minutes, then add the tomato, paprika, chilli and remaining salt for 5 minutes.
+3. Pour in the water and coconut milk and bring to a gentle simmer.
+4. Lay the fish on top, cover and cook for 8 minutes until it flakes. Do not stir, to keep the pieces whole.
+5. Finish with the remaining lime juice and coriander.
+:::
+
+:::lang bn
+# লাইট ফিশ মোককা (কোকোন মাছ স্টেই)
+
+টমেটো, মরিচ এবং হালকা নারিকেল শমককীট দিয়ে সাদা রঙের মাছ শক্ত করুন ।
+
+## Instructions
+1. মেরিনা মাছটার অর্ধেক চুন, রসুন আর ১৫ মিনিট লবণের রস নিয়ে।
+2. প্রচুর প্যানের তেল পড়ে এবং ৫ মিনিটের জন্য রান্না করে, এরপর টমেটো, পাম্পিকা এবং অবশিষ্ট লবণ যোগ করে ।
+3. জল ও নারিকেলের দুধে পিঁয়াজ এবং একটি কোমল সরল সংশোধন নিয়ে আসে।
+4. মাছ উপরে রাখো, লুকিয়ে রাখো আর ৮ মিনিট রান্না করো যতক্ষণ না মাছটা খাওয়াবে. ( গীত.
+5. অবশিষ্ট লাইম জুস দিয়ে শেষ করো।
+:::
+
+:::lang ur
+# ہلکے مچھلی Moqueca (Brazilian County Fish Stew)۔
+
+اِس کے علاوہ اِن میں سے ایک مچھلی بھی تھی ۔
+
+## Instructions
+1. مچھلی کو 15 منٹ تک نمک کے نمک ، لہسن اور ۱ گُنا زیادہ مقدار میں استعمال کِیا جاتا ہے ۔
+2. تیل کو ایک وسیع پان میں پکا کر 5 منٹ تک اونن اور کیپسم پکاتے ہیں، اس کے بعد ٹماٹر، پوپیکا، زہریلی اور باقی 5 منٹ تک نمک شامل کرتے ہیں۔
+3. پانی اور ناریل کے دودھ میں بپتسمہ لیں اور نرم‌مزاجی ظاہر کریں ۔
+4. مچھلی کو اوپر، چھ منٹ پر رکھ کر 8 منٹ تک پکایا۔ سارے ٹکڑوں کو برقرار رکھنے کے لئے ہل نہ کریں۔
+5. اِس کے علاوہ اِس میں بھی بہت سی تبدیلیاں ہوتی ہیں ۔
+:::

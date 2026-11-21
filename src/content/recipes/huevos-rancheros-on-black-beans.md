@@ -94,3 +94,36 @@ prepTimeEstimated: true
 2. मिश्रणात चार खोलगट जागा करा, त्यांत अंडी फोडा, झाकण ठेवून अंड्याचा पांढरा भाग सेट होईपर्यंत 5 मिनिटे शिजवा.
 3. वरून अवोकॅडो आणि कोथिंबीर घालून वाढा.
 :::
+
+:::lang en
+# Huevos Rancheros on Black Beans
+
+Eggs baked in a spiced tomato sauce over black beans, with avocado; no tortilla needed.
+
+## Instructions
+1. Cook the onion and pepper in the oil for 5 minutes, then add the cumin, chilli, passata, beans and salt and simmer for 8 minutes.
+2. Make four wells, crack in the eggs, cover and cook for 5 minutes until the whites set.
+3. Serve topped with avocado and coriander.
+:::
+
+:::lang bn
+# ব্ল্যাক বিন্স-এ হুভস রানচেস
+
+মসিনাযুক্ত টমেটোর সস দিয়ে বানানো হয় কালো শিমের উপরে।
+
+## Instructions
+1. ৫ মিনিটের জন্য তেলে পিঁয়াজ আর মরিচের টুকরোর সাথে যুক্ত হয়।
+2. চার চাকা, ডিমের উপর ফাটল, ঢাকা এবং পাঁচ মিনিট রান্না করুন ।
+3. সেবা করা
+:::
+
+:::lang ur
+# بلیک بیونس پر ہیووس رانچیروس
+
+اِس کے علاوہ اِس کی کوئی ضرورت نہیں تھی ۔
+
+## Instructions
+1. تیل میں ۵ منٹ تک اونین اور پنیر کو پکایا جاتا ہے ۔
+2. چار کنوئیں بناتے ہیں، انڈے میں پھٹتے ہیں، کپڑے پہنتے ہیں اور 5 منٹ تک سفید فاموں تک پکاتے ہیں۔
+3. اُنہوں نے کہا : ” مَیں نے اِس کام میں حصہ لیا ہے ۔
+:::

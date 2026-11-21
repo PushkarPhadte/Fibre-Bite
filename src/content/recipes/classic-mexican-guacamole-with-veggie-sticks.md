@@ -95,3 +95,39 @@ prepTimeSource: >-
 3. चिरलेला लाल कांदा, टोमॅटो, जलापेन्यो आणि कोथिंबीर अलगद मिसळा.
 4. ताजे ग्वाकामोले गाजर आणि काकडीच्या काड्यांसोबत वाढा.
 :::
+
+:::lang en
+# Classic Mexican Guacamole with Veggie Sticks
+
+Creamy mashed ripe avocados blended with lime juice, cilantro, tomatoes, onions, and jalapenos.
+
+## Instructions
+1. Cut avocados in half, remove pits, and scoop flesh into a bowl.
+2. Mash avocados coarsely with a fork; stir in lime juice and salt immediately.
+3. Fold in diced red onion, tomato, jalapeno, and chopped cilantro.
+4. Serve fresh with carrot and cucumber sticks.
+:::
+
+:::lang bn
+# ভেগি স্টিকসহ ক্লাসিক মেক্সিকান গুয়াকামোলে
+
+ক্রিমি মহিষে পাস্তা, পাকা রস, মরিচা, টমেটো, এবং জলাপেসোর সাথে মিশে ছিল ।
+
+## Instructions
+1. প্রায় অর্ধেক, গর্তে, আর মাংসে ভরা একটা বাটি।
+2. মুভকাডোস কোরাকিলির সাথে হাত মেলান; সাথে সাথে লাইমিং জুস এবং লবণে ছড়িয়ে পড়ে।
+3. লাল রং দিয়ে লাল রং করা হয়েছিল, টমেটো, জালপেনো এবং কাটা সিলান্টারো ।
+4. চাকার সাথে তাজা হাতে কাজ করো।
+:::
+
+:::lang ur
+# وجی‌جی‌اے کے ساتھ کلاسیکی میکسیکو گواکلے
+
+اِس کی ایک وجہ یہ تھی کہ اُس نے اِس کا ذائقہ نکالا ۔
+
+## Instructions
+1. آدھی رات کو کاٹ کر رکھیں ، بخارات ہٹا دیں اور گوشت کو ایک پیالے میں ڈال دیں ۔
+2. مَیں اِس بات پر غور کرتا ہوں کہ یہ کیسے ممکن ہے ۔
+3. اِس کی ایک وجہ یہ ہے کہ اُس نے اِس بات کو تسلیم کِیا کہ اُس نے اِس کے بارے میں کیا کہا ۔
+4. اِس لئے اُس نے کہا : ” تُم . . .
+:::

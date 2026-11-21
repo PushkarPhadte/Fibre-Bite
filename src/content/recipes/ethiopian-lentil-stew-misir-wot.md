@@ -90,3 +90,39 @@ prepTimeEstimated: true
 3. टोमॅटो पेस्ट, लाल मसूर डाळ, पाणी आणि मीठ घाला.
 4. झाकण ठेवून मंद आचेवर 20–25 मिनिटे शिजवा, डाळ मऊ होऊन रस्सा घट्ट होईपर्यंत.
 :::
+
+:::lang en
+# Ethiopian Lentil Stew (Misir Wot)
+
+A spicy Ethiopian red lentil stew simmered with berbere spice blend, garlic, ginger, and tomatoes.
+
+## Instructions
+1. Sauté chopped onions in olive oil on medium heat for 8 minutes until golden.
+2. Add garlic, ginger, and berbere spice blend; stir for 1 minute.
+3. Add tomato paste, red lentils, water, and salt.
+4. Simmer covered for 20–25 minutes until lentils are soft and thick.
+:::
+
+:::lang bn
+# ইথিওপিয়ার লিটলিন স্টেই (মিসরেরট)
+
+প্রচুর পরিমাণে চিনি, রসুন, রসুন এবং টমেটো ব্যবহৃত হয় ।
+
+## Instructions
+1. গোল্ডেন না হওয়া পর্যন্ত জলপাই তেলে পাতালো।
+2. রসুন, ভোদড়, আটা, আঙ্গুরের মসলা থাকে; ১ মিনিটের জন্য সতেজ হয়।
+3. টমেটো পেস্ট করুন, লাল ডাল, পানি এবং লবণ যোগ করুন ।
+4. এতে ২০-২৫ মিনিটের জন্য ঢাকা।
+:::
+
+:::lang ur
+# حبشی لتیل اسٹو (Misir Wot)
+
+اِس کے بعد اُس نے اُن سے کہا : ” مَیں نے اِس کا نام اِستعمال کِیا ہے ۔ “
+
+## Instructions
+1. زیتون کے تیل میں روٹی 8 منٹ تک زرخیز رہتی ہے ۔
+2. اِس میں لہسن ، آمیزش اور بیئر شامل کرنا شامل ہے ۔
+3. مونگ‌پھلی ، سرخ مونگ‌پھلی ، پانی اور نمک شامل کریں ۔
+4. سمر نے 20–25 منٹ تک چھپا رکھا یہاں تک کہ مونگ پھلی اور موٹی ہو۔
+:::

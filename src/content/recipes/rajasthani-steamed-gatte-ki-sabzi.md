@@ -121,3 +121,42 @@ prepTimeEstimated: true
 4. आच कमी करा. सतत ढवळत उरलेले 240 ग्रॅम दही आणि 150 मिली गरम पाणी फेटून त्यात मिसळा; मिश्रणाला हलकी उकळी येऊ द्या.
 5. कापलेले गट्टे आणि उरलेले मीठ घाला. झाकण ठेवून 8 मिनिटे मंद आचेवर शिजवा, गट्टे मऊ होऊन रस्सा घट्टसर होईपर्यंत. ताज्या कोथिंबिरीने सजवा.
 :::
+
+:::lang en
+# Rajasthani Steamed Gatte ki Sabzi (Chickpea Dumplings in Yogurt Gravy)
+
+Lightened Rajasthani classic featuring steamed spiced chickpea flour medallions simmered in a tangy, aromatic low-fat yogurt and tomato gravy instead of deep-frying.
+
+## Instructions
+1. Knead the chickpea flour with 40 g of yogurt, 4 ml of mustard oil, half the spice blend, 1 g of salt, and 30 ml of water into a firm dough; roll into 1.5 cm thick logs.
+2. Steam or gently poach the dough logs for 12 minutes until firm and cooked through, cool slightly, and slice into 1 cm medallions (reserving 150 ml of poaching water if poached).
+3. Heat the remaining 10 ml of mustard oil in a saucepan, sauté the onion and ginger-garlic for 4 minutes, add the tomato puree and remaining spices, and cook 5 minutes.
+4. Lower the heat, whisk in the remaining 240 g of yogurt and 150 ml of warm water while stirring continuously until gently simmering.
+5. Add the sliced gatte and remaining salt, simmer covered for 8 minutes until tender and saucy, and garnish with fresh cilantro.
+:::
+
+:::lang bn
+# রাজাতেনি স্টেমমেদ গাটকি সাবজি (ইকুপেরা গ্রাসিং)
+
+হালকাভাবে রাজাস্টিনি মধ্যস্তম্ভের ছবি আঁকা হয়েছে।
+
+## Instructions
+1. আখের তৈরি মুকা খেতে খেতে খেতে শুরু করে ।
+2. স্টেম বা কোমলভাবে ১২ মিনিট দৃঢ় এবং রান্না করে রান্না করে, কিছুটা হালকা হয়ে ১ সেন্টিমিটারের পদক (যদি পলিশ করা হয়) পানির ১৫০ মিটার জল দিয়ে রান্না করা হয়।
+3. সসিয়ামপানের অবশিষ্ট ১০ মিটার তেল, সসেজের সসেজ ও ডোরাগারিতে ৪ মিনিট, টমেটো বিশুদ্ধ এবং অবশিষ্ট মসলা যোগ করুন এবং ৫ মিনিট রান্না করুন।
+4. গরমের পরিমাণ কমিয়ে ২৪০ গজের অবশিষ্ট গাঁট এবং ১৫০ মাইল গরম জল দিয়ে বয়ে যায় ।
+5. তাই, এতে অবাক হওয়ার কিছু নেই যে, শস্যের জন্য প্রচুর পরিমাণে জল সরবরাহ করতে হতো ।
+:::
+
+:::lang ur
+# راجستھانی ستمید گات کیک سبزی (انگریزی: Chickpea Dumplings in Yogurt Gravy) ہے۔
+
+ہلکے راجستھانی کلاسیکی رنگوں نے گہرا کرنے کی بجائے تلمیح، خوشبودار کم پائی ہوئی دھاتوں اور ٹماٹر گری میں سوراخ کیے۔
+
+## Instructions
+1. اِس سے ظاہر ہوتا ہے کہ اِن میں سے ہر ایک کو اِس بات کی ضرورت ہے کہ اُس کا پانی اُس کے ساتھ رہے ۔
+2. اسکوم یا نرمی سے 12 منٹ کے لیے جب تک ٹھوس اور ٹھنڈے پانی میں پکا نہ جائے اور 1 سم‌دار پانی میں تبدیل نہ ہو ۔
+3. باقی 10 ملی گرام گندم کے تیل کو ایک کپاس میں ملا کر رکھ دیا جاتا ہے، ساوتری پر اونی اور پگھلنے والا زہریلا حصہ 4 منٹ کے لیے، ٹماٹر کو خالص اور باقی بچ جانے والی خوشبوؤں کو ملا کر 5 منٹ تک پکاتا ہے۔
+4. گرمی کے موسم میں ، وِسکی باقی 240 گُنا اور گرم پانی کے 150 میل تک گرم رہنے کے باوجود مستقل طور پر ہلنے تک گرم رہتی ہے ۔
+5. اِس میں نمک شامل کِیا جاتا ہے ۔
+:::

@@ -109,3 +109,39 @@ prepTimeEstimated: true
 3. गोळा केलेला टोमॅटोचा रस 20 मिली ऑलिव्ह ऑईल, रेड वाईन व्हिनेगर, किसलेला लसूण आणि उरलेले मीठ घालून फेटा.
 4. टोस्ट केलेले ब्रेडचे चौकोनी तुकडे, काढून टाकलेले टोमॅटो, काकडी, निचरा केलेला लाल कांदा आणि फाटलेली तुळस व्हिनिग्रेटसह फेकून द्या; 10 मिनिटे विश्रांती घ्या जेणेकरून ब्रेड सर्व्ह करण्यापूर्वी चमकदार टोमॅटो ड्रेसिंग शोषून घेईल.
 :::
+
+:::lang en
+# Tuscan Whole-Grain Panzanella (Tomato, Cucumber, and Bread Salad)
+
+Sun-ripened Tuscan summer salad combining oven-toasted whole-grain sourdough cubes with juicy heirloom tomatoes, crisp cucumber, red onion, fresh basil, and red wine vinaigrette.
+
+## Instructions
+1. Toss the cubed whole-grain sourdough with 8 ml of olive oil and toast in a 190°C oven for 10 minutes until dry and crisp on the outside.
+2. Place the chunked tomatoes in a colander set over a bowl, toss with 1.5 g of salt, and let drain 10 minutes to collect their sweet juice.
+3. Whisk the collected tomato juice with the remaining 20 ml of olive oil, red wine vinegar, grated garlic, and remaining salt.
+4. Toss the toasted bread cubes, drained tomatoes, cucumber, drained red onion, and torn basil with the vinaigrette; rest 10 minutes so the bread absorbs the bright tomato dressing before serving.
+:::
+
+:::lang bn
+# টাসান প্যানজানেল্লা (টুমোতো, কাউম্বাস, এবং রুটি সালাডা)
+
+সূর্যের তৈরি টসকানের গ্রীষ্মের সালাদে চুলা ভরা চুলা তৈরি করার সাথে সাথে ঘন ঘন ঘন ঘন ঘন ঘন ঘন ঘন ঘন ঘন ঘন ঘন ঘন ঘন ঘন ঘন ঘন ঘন ঘন ঘন ঘন ঘন ঘন ঘন ঘন ঘন ঘন তৈরি করা ঘন ঘন ঘন ঘন ঘন ঘন, লাল, তাজা, তাজা, তাজা, তাজা, তাজা মদ, এবং লাল দ্রাক্ষারস ভিঁজিয়ে।
+
+## Instructions
+1. টরেন্ট টু কিউব-গ্রাইন নামক এলাকায় ৮ মিটার তেল এবং টোস্টের তেল ও টোস্টের এক স্তর রয়েছে।
+2. এটা ঠিক যে, এই ধরনের টমেটোর ওজন প্রায় ১.৫ লিটার ।
+3. টমেটোর রস সংগ্রহ করা হয়
+4. টসেজড রুটি, টমেটো, ড্রাইবার, পয়:নিষ্কাশন করা, লাল দাগাযুক্ত লাল হয়ে পড়া এবং ভিনাইজি দিয়ে চুন দেওয়া; বাকি ১০ মিনিট তাই উজ্জ্বল টমেটোর পোষাক পরিবেশন করা হয়।
+:::
+
+:::lang ur
+# Tuscan Reserve-Grain پینزانلا (Tomato, Cucumber, and Bey Salad) (تلفظ: /mamtokto/;
+
+سورج سے نکلنے والی تسکان گرمیوں میں اوکاڑہ کو آپس میں ملانے والی تمام زہریلی شکر کیش جس میں چاول کے ٹماٹر، کریسپ کاکمبر، سرخ اونیون، تازہ باسل اور سرخ مشروبات شامل ہیں۔
+
+## Instructions
+1. تسمیہ پورے جگر میں تیل اور زیتون کے تیل کے 8 میل اور مشرق میں 190°C ووون میں 10 منٹ تک خشک اور کریسپ تک رہتا ہے۔
+2. اِس کے بعد اُس نے اِس بات کا ذکر کِیا کہ اُس نے اُس کا کھانا تیار کِیا ہے ۔
+3. زیتون کے تیل ، سُرخ مے ، لہسن اور نمک کے نمک کے علاوہ اَور بھی استعمال کئے جاتے ہیں ۔
+4. اِس کے بعد اُس نے اِس روٹی کو اِستعمال کِیا ۔
+:::

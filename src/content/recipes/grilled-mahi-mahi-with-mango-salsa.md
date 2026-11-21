@@ -90,3 +90,39 @@ prepTimeSource: 'https://www.skinnytaste.com/grilled-mahi-mahi-with-mango-salsa/
 3. मध्यम-उच्च आचेवर प्रत्येक बाजूला 4 मिनिटे ग्रिल करा, मासा पूर्ण शिजेपर्यंत.
 4. वाढण्यापूर्वी ग्रिल केलेल्या माशावर भरपूर ताजा आंब्याचा साल्सा घाला.
 :::
+
+:::lang en
+# Grilled Mahi Mahi with Mango Salsa
+
+Flaky grilled mahi mahi fillets topped with a vibrant tropical salsa of diced mango, red onion, and cilantro.
+
+## Instructions
+1. In a bowl, combine diced mango, red onion, cilantro, lime juice, and a pinch of salt to make salsa.
+2. Brush mahi mahi fillets with olive oil and season with salt.
+3. Grill over medium-high heat for 4 minutes per side until cooked through.
+4. Top grilled fish generously with fresh mango salsa before serving.
+:::
+
+:::lang bn
+# মাঙ্গো সালসা’র সাথে শোকাচ্ছন্ন
+
+সুমিহি মহি পূরণ করেন
+
+## Instructions
+1. এক বাটি বাটি বাটিপোকার মধ্যে লাল রং করা হয়, লাল রং করা হয়, সিলান্‌রো, লাইমিং জুস এবং সালসা বানানোর জন্য লবণ উৎপাদন করা হয় ।
+2. এতে জলপাই এবং লবণ দিয়ে ভরা হয়েছিল।
+3. রান্না না হওয়া পর্যন্ত মাঝারি তাপমাত্রা ৪ মিনিট বাড়িয়ে দেয়া হবে।
+4. পরিবেশন করার আগে তাজা আম সালসা দিয়ে উপরের মাছগুলো ভেসে যায়।
+:::
+
+:::lang ur
+# گلِڈ مَا مَیں مینگو سلسہ کے ساتھ
+
+اِس کی وجہ یہ تھی کہ اِن میں سے زیادہ‌تر لوگ اِس بات پر یقین نہیں رکھتے تھے کہ اُن کے گھر والے اُن کی مدد کریں گے ۔
+
+## Instructions
+1. ایک پیالے میں سِن‌کوڈ مینگو ، سُرخ اونن ، سیل‌ٹرو ، آلو جوس اور نمک کی ایک خاص مقدار ہوتی ہے ۔
+2. برّہ مہدی نے زیتون کے تیل اور موسم کو نمک سے بھر دیا ۔
+3. جب تک 4 منٹ تک پکا نہ جائے۔
+4. اُوپر والی مچھلیوں کی وجہ سے اُس کی خدمت کرنے سے پہلے مَیں تازہ‌دم ہو گئی ۔
+:::

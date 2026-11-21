@@ -21,7 +21,7 @@
 
 <svelte:head>
 	<title>{t('meal.title')} | Fibre-Bite</title>
-	<meta name="description" content="Plan recipes together and work through one consolidated meal-prep checklist." />
+	<meta name="description" content={t('meta.mealDescription')} />
 </svelte:head>
 
 <main class="mx-auto max-w-7xl space-y-8 px-5 py-8 sm:px-8 md:py-12">

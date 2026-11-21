@@ -86,3 +86,36 @@ prepTimeEstimated: true
 2. त्यात अंडी, काकडी, पातीचा कांदा आणि शेपू हलक्या हाताने मिसळा.
 3. हे मिश्रण चमच्याने लेट्युसच्या पानांत भरा.
 :::
+
+:::lang en
+# Egg Salad Lettuce Cups with Greek Yogurt
+
+Chopped boiled egg salad bound with Greek yogurt, cucumber and herbs in crisp lettuce cups.
+
+## Instructions
+1. Mix the yogurt, lemon juice, salt and pepper.
+2. Fold in the eggs, cucumber, spring onion and dill.
+3. Spoon into the lettuce leaves.
+:::
+
+:::lang bn
+# Egagsad Letus গ্রীক ইয়োগুটির সঙ্গে কাপ
+
+এই পানীয়টা খুব সুস্বাদু ছিল ।
+
+## Instructions
+1. মাংস, লেবুর জুস, লবন আর মরিচ।
+2. ডিমের মধ্যে পড়ে গেল, পোদাল, পুড়তে লাগলো।
+3. লেটুস পাতা ছেড়ে আসা.
+:::
+
+:::lang ur
+# ایج سالالد لیٹس کپ یونانی یوگا کے ساتھ
+
+اِس کے بعد اُس نے اِس بات کا ذکر کِیا کہ اُس نے اِس کے بعد اُس کا نام اِستعمال کِیا ۔
+
+## Instructions
+1. اِس کے بعد اِس کا ذائقہ کم ہو جاتا ہے ۔
+2. انڈے، کیکمبر، چشمہ اونون اور دیول۔
+3. اسپنج کے پتوں میں سوراخ.
+:::

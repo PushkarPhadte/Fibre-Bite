@@ -90,3 +90,39 @@ prepTimeSource: 'https://thefoodiephysician.com/berry-chia-pudding/'
 3. मिश्रण सर्व्हिंग कपांमध्ये काढा.
 4. वरून ताज्या बेरीज आणि चिमूटभर दालचिनी घाला.
 :::
+
+:::lang en
+# Healthy Chia Seed Pudding with Berries
+
+A gut-friendly nutrient pot made from chia seeds soaked in almond milk, topped with fresh berries and cinnamon.
+
+## Instructions
+1. Whisk chia seeds, almond milk, vanilla extract, and maple syrup in a jar.
+2. Let sit for 10 minutes, whisk again to break lumps, and refrigerate for 4 hours or overnight.
+3. Scoop into serving cups.
+4. Top with fresh berries and a pinch of cinnamon.
+:::
+
+:::lang bn
+# বেরির সঙ্গে স্বাস্থ্য
+
+আল খুর দুধের মিষ্টি বীজের বীজ দিয়ে বানানো একটি পেট, যা তাজা বেরি এবং কানবিহীন রস দিয়ে তৈরি।
+
+## Instructions
+1. আর এর ফলে প্রচুর পরিমাণে ফল উৎপন্ন হয় ।
+2. ১০ মিনিটের জন্য বসি, আবার টুকরো টুকরো টুকরো টুকরো করে ৪ ঘন্টা বা রাতে বের হতে দাও।
+3. কাপের সাথে খেলা করো.
+4. তাজা বেরি আর কানোন.
+:::
+
+:::lang ur
+# صحت‌بخش چیا سیڈ پُررنگ
+
+مونگ پھلی سے بنے ہوئے چاول کا ایک برتن جو مکئی کے دودھ میں بہت زیادہ پکایا جاتا تھا، تازہ پھولوں اور سینمون پر مشتمل ہوتا تھا۔
+
+## Instructions
+1. وِسک چیا بیج ، بادام کا دودھ ، ونیلا نکال کر ایک برتن میں نقشہ‌جات نکالتا ہے ۔
+2. دس منٹ تک، وِشکک دوبارہ توڑ دینے کے لئے، اور 4 گھنٹے یا رات کے لئے.
+3. پیالے میں خدمت کرنے کی کوشش.
+4. اُوپر تازہ پھلوں اور سین‌نم‌مون کی ایک شاخ ۔
+:::

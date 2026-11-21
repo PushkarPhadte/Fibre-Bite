@@ -96,3 +96,39 @@ prepTimeEstimated: true
 3. शेंगदाणा लोणी गरम रस्स्यात घालून गुळगुळीत होईपर्यंत फेटा आणि भांड्यात मिसळा.
 4. पालक घाला आणि तो मऊ होईपर्यंत 3 मिनिटे शिजवा.
 :::
+
+:::lang en
+# West African Peanut and Tomato Stew (Light Version)
+
+A rich West African vegetable stew infused with natural peanut butter, tomatoes, sweet potatoes, and spinach.
+
+## Instructions
+1. Sauté onion, garlic, and ginger in a pot with a drop of oil.
+2. Add sweet potato, crushed tomatoes, and vegetable broth; simmer for 15 minutes.
+3. Whisk peanut butter with warm broth until smooth and stir into pot.
+4. Add spinach and cook for 3 minutes until wilted.
+:::
+
+:::lang bn
+# ওয়েস্ট আফ্রিকান পিনাট এবং টমেটোটো স্টেই (হালকা সংস্করণ)
+
+একটা ধনী পশ্চিম আফ্রিকার সবজি, যা প্রাকৃতিক বাদামের মাখন, টমেটো, মিষ্টি আলু এবং মসলা দিয়ে তৈরি ।
+
+## Instructions
+1. সিয়ন, রসুন এবং ডোরাকাটা, যার এক ফোঁটা তেল আছে.
+2. মিষ্টি আলু, চূর্ণ টমেটো এবং সবজি ভ্রাত; ১৫ মিনিটের জন্য সহজ।
+3. বাদামের মাখন গরম ব্রোট দিয়ে বানানো হয়েছে যতক্ষণ না মসৃণ হয় আর টব তৈরি হয়।
+4. রান্না করে ৩ মিনিট রান্না করো।
+:::
+
+:::lang ur
+# مغربی افریقی مونگ‌پھلی اور توماتو اسٹ ( انگریزی )
+
+ایک امیر مغربی افریقی سبزیوں میں قدرتی مونگ‌پھلی ، ٹماٹروں ، شہد کی مکھیوں اور مکئی کا رس شامل ہے ۔
+
+## Instructions
+1. سُوت‌ی اونن ، لہسن اور آمیزش ایک برتن میں تیل کی کمی سے پیدا ہوتی ہے ۔
+2. شہد کی مکھیوں کو ملا کر اُڑ جائیں ۔
+3. اُس وقت تک مونگ‌پھلی کے مونگ‌پھلی کو پکایا جاتا تھا ۔
+4. اِس کے بعد اُس نے اُس سے کہا : ” مَیں آپ سے بات کرنا چاہتا ہوں ۔ “
+:::

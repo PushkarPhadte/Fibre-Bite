@@ -97,3 +97,39 @@ prepTimeSource: 'https://cookieandkate.com/sweet-potato-black-bean-chili/'
 3. चिली पावडर, जिरे, ठेचलेले टोमॅटो, काळे बीन्स आणि भाज्यांचा स्टॉक घाला. २० मिनिटे मंद आचेवर शिजवा.
 4. भाजलेली रताळी मिसळा, चवीनुसार मीठ घाला आणि सर्व्ह करण्यापूर्वी आणखी १० मिनिटे मंद आचेवर शिजवा.
 :::
+
+:::lang en
+# Baked Sweet Potato and Black Bean Chili
+
+A hearty vegetarian chili packed with roasted sweet potatoes, black beans, tomatoes, and warming spices.
+
+## Instructions
+1. Toss sweet potato cubes with olive oil and roast at 200°C (400°F) for 25 minutes until tender.
+2. In a large pot, sauté onion and garlic until soft.
+3. Add chili powder, cumin, crushed tomatoes, black beans, and vegetable broth. Simmer for 20 minutes.
+4. Stir in roasted sweet potatoes, season with salt, and simmer for another 10 minutes before serving.
+:::
+
+:::lang bn
+# ♪ মিষ্টি পটেটো আর ব্ল্যাক বেনান চিলি ♪
+
+এক নিরামিষভোজী নিরামিষভোজী মিষ্টি আলু, কালো বিন, টমেটো এবং উষ্ণ মসলা নিয়ে আসে।
+
+## Instructions
+1. মিষ্টি আলু কিউবের তেল দিয়ে ২০০ পাউন্ড (৪০০ মার্কিন ডলার) রোপন করা হয়।
+2. একটা বড় পটে, সোটিয়ন আর রসুন.
+3. চিলি পাউডার, মশাল টমেটো, কালো শিম, এবং সবজি পরিবেশন করুন। ২০ মিনিট লাগবে।
+4. গরমের সময়ে মিষ্টি আলু, লবণ ও সিমের মতো গরম ছিল এবং সেবা করার আগে আরও ১০ মিনিট ধরে এটি ছিল ।
+:::
+
+:::lang ur
+# سوکھے ہوئے چاول پوٹاتو اور بلیک بیان چیلی
+
+اِس کے بعد اُس نے اُن سے پوچھا : ” کیا مَیں اُن کے ساتھ کھانا پکاتا ہوں ؟ “
+
+## Instructions
+1. زیتون کے تیل سے خوشبودار تیل ملا کر 200°C (400°F) میں 25 منٹ تک نرم ہوتا ہے۔
+2. ایک بڑے برتن میں ساوتری اون اور لہسن نرم ہونے تک ہوتا ہے۔
+3. اِس کے علاوہ اِس کے ساتھ ساتھ اِس میں شکر کی بھی ضرورت ہوتی ہے ۔ 20 منٹ کے لئے سیمر.
+4. اِس کے بعد اُس نے اُس سے کہا : ” مَیں اِس بات کی قدر کرتا ہوں کہ مَیں اُس کی خدمت کرنے کے لئے تیار ہوں ۔ “
+:::

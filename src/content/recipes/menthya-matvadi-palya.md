@@ -88,3 +88,39 @@ prepTimeEstimated: true
 3. चिरलेली मेथीची पाने घालून ती कोमेजेपर्यंत परता.
 4. चुरलेली वाफवलेली डाळ मिसळा, 5 मिनिटे शिजवा, शेवटी लिंबाचा रस घालून वाढा.
 :::
+
+:::lang en
+# Menthya Matvadi Palya (Karnataka Fenugreek Lentil Stir-Fry)
+
+A nutrient-dense Karnataka dry dish made with fresh fenugreek leaves and coarsely ground steamed lentils.
+
+## Instructions
+1. Coarsely blend soaked chana dal with green chillies and salt; steam the mixture for 10 minutes and crumble.
+2. Heat coconut oil in a pan, add mustard seeds and turmeric powder.
+3. Add chopped methi leaves and sauté until wilted.
+4. Mix in crumbled steamed dal, cook for 5 minutes, finish with lemon juice, and serve.
+:::
+
+:::lang bn
+# মেথিয়া মাতভিদি পলা (কানার্নাকা ফেন্তিল স্টের-ফরি)
+
+চিনিযুক্ত কারনাটাকা শুকনো খাবার তৈরি করা হয়েছে নতুন পশু পাতা আর ঘন ঘন ঘন ঘন ধোঁয়া দিয়ে।
+
+## Instructions
+1. ঠাণ্ডার সঙ্গে ঘন ঘন ঘন ঘন লবণ ও লবণের মিশ্রণ; ১০ মিনিট ও টুকরো হয়ে যায় ।
+2. এক প্যানের মধ্যে নারিকেল তেল, বীজ এবং টারমেটিক পাউডার যোগ করুন ।
+3. আমাকে কেটে ফেলো... ...আর সাঁতরে পর্যন্ত.
+4. ফলের রসের স্বাদ কমে গিয়েছিল ।
+:::
+
+:::lang ur
+# میناتھا ماتوادی پلایا (Karnataka Fenugreek Lentile-Fry) (انگریزی:
+
+ایک ناریل والا کرنتاکا خشک کھائی جس میں تازہ فنگریکے پتے ہوتے ہیں اور کرہ ارض پر گندم کی تہ لگائی جاتی ہے۔
+
+## Instructions
+1. اِس آمیزے کو اچھی طرح پکایا جاتا ہے ۔
+2. ناریل کا تیل پان میں شامل ہوتا ہے ۔
+3. یہاں تک کہ اُس کے پتے بھی اُس وقت تک اُڑ جاتے ہیں ۔
+4. اِس کے نتیجے میں اُن کا جوتا ختم ہو جاتا ہے اور اُن کی خدمت کی جاتی ہے ۔
+:::

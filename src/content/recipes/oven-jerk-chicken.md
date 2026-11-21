@@ -92,3 +92,33 @@ prepTimeEstimated: true
 1. चिकन वगळून इतर सर्व साहित्य वाटून किंवा एकत्र करून पेस्ट बनवा आणि ती चिकनला सर्व बाजूंनी लावा. किमान 1 तास मुरवत ठेवा.
 2. 210 °C तापमानाला 30 ते 35 मिनिटे बेक करा. मध्ये एकदा उलटा आणि चिकन सोनेरी होऊन पूर्ण शिजेपर्यंत बेक करा.
 :::
+
+:::lang en
+# Oven Jerk Chicken
+
+Chicken thighs marinated in jerk-style thyme, pepper, ginger and lime and baked until browned.
+
+## Instructions
+1. Blend or mix all ingredients except the chicken into a paste and coat the chicken; marinate for at least 1 hour.
+2. Bake at 210 °C for 30 to 35 minutes, turning once, until browned and cooked through.
+:::
+
+:::lang bn
+# অভেন জারিক মুরগী
+
+তুমি তোমার প্যান্ট, মরিচ, ভাটা, চুন, চুড়ি, চুন, চুন, চুন, চুড়ি।
+
+## Instructions
+1. মুরগির মাংস ছাড়া মুরগির মাংস আর মুরগির কোট ছাড়া সব ধরনের উপাদান ভাগ করুন বা তৈরি করুন; অন্তত ১ ঘন্টা ধরে ।
+2. ২১০ ডিগ্রি সেলসিয়াস থেকে ৩০ মিনিট ৩০ মিনিটের মধ্যে বেক, একবার উলকি এবং রান্না করা উচিত।
+:::
+
+:::lang ur
+# ایس .
+
+یہاں تک کہ بھورے رنگ کے ہوتے ہیں ۔
+
+## Instructions
+1. اِس کے علاوہ مرغی کے علاوہ اَور بھی تمام اجزا ملا کر رکھیں ۔
+2. Bake at 310 °C 30 سے 35 منٹ تک، ایک بار تبدیل، یہاں تک کہ بھورے رنگ اور پکایا گیا۔
+:::

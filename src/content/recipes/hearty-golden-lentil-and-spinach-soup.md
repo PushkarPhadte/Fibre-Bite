@@ -92,3 +92,39 @@ prepTimeEstimated: true
 3. झाकण ठेवून 20 मिनिटे मंद आचेवर शिजवा, डाळ मऊ होऊन विरघळेपर्यंत.
 4. ताजा पालक आणि लिंबाचा रस मिसळा; 2 मिनिटे शिजवून वाढा.
 :::
+
+:::lang en
+# Hearty Golden Lentil and Spinach Soup
+
+A nourishing golden soup cooked with yellow lentils, turmeric, ginger, fresh spinach, and lemon juice.
+
+## Instructions
+1. Sauté onion and ginger in olive oil for 3 minutes.
+2. Add turmeric powder, yellow lentils, and vegetable broth; bring to a boil.
+3. Simmer covered for 20 minutes until lentils break down.
+4. Stir in fresh spinach and lemon juice; cook for 2 minutes and serve.
+:::
+
+:::lang bn
+# হৃদয়ের সোনালী লটয়েল এবং স্পিনাচ সোর
+
+একটা সোনার সুপ দিয়ে তৈরি করা হয়, যার মধ্যে রয়েছে হলুদ শূককীট, টুরিক, হরিচি, তাজা তাল এবং লেবু রস ।
+
+## Instructions
+1. শরত এবং জলপাই তেলে তিন মিনিট তেলে।
+2. টরমেরিক পাউডার, হলুদ শূককীট এবং সবজি ভ্রাতৃষ্ট যোগ করুন।
+3. সিমার ২০ মিনিটের জন্য আটকে ছিল, যতক্ষণ না অতিরিক্ত সময় নষ্ট হয়।
+4. তাজা স্পিন আর লেবুর জুস; ২ মিনিট ধরে রান্না এবং সেবা করার জন্য।
+:::
+
+:::lang ur
+# دلدلی گولڈن لینٹل اور سپناخ سوپ ہیں۔
+
+اِس کے بعد اُس نے اُن سے کہا : ” مَیں اُن کے ساتھ کھانا پکاتا ہوں ۔ “
+
+## Instructions
+1. زیتون کے تیل میں تیل ۳ منٹ تک جمع ہوتا ہے ۔
+2. اِس کے علاوہ اِس میں گندھک ، زرد مونگ‌پھلی اور سبزیوں کے کیڑے بھی شامل ہوتے ہیں ۔
+3. سمر نے 20 منٹ تک چھپا رکھا یہاں تک کہ مونگ‌پھلی ٹوٹ جاتی ہے ۔
+4. اِس کے علاوہ اِس میں دو منٹ آرام کرنے اور اُس کی خدمت کرنے کا بھی بندوبست کِیا جاتا ہے ۔
+:::

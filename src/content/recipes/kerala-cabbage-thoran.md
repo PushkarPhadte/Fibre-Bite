@@ -109,3 +109,39 @@ prepTimeEstimated: true
 3. कोबीचे मिश्रण आणि पाणी घाला. झाकण ठेवून मंद आचेवर 8 ते 10 मिनिटे शिजवा. एक-दोनदा ढवळा; कोबी मऊ होईपर्यंत शिजवा, पण ती लगदा होऊ देऊ नका.
 4. झाकण काढून जादा ओलावा आटेपर्यंत थोडे शिजवा. चव पाहून मीठ समायोजित करा आणि भात-डाळीसोबत भाजी म्हणून वाढा.
 :::
+
+:::lang en
+# Kerala Cabbage Thoran
+
+A quick Kerala-style cabbage stir-fry with coconut, mustard seeds, curry leaves, and green chilli.
+
+## Instructions
+1. Mix the cabbage with coconut, shallots, chilli, cumin, and salt.
+2. Heat oil in a covered skillet. Add mustard seeds and curry leaves; let the seeds pop.
+3. Add the cabbage mixture and water. Cover and cook over low heat for 8 to 10 minutes, stirring once or twice, until just tender but not mushy.
+4. Uncover and cook briefly to evaporate excess moisture. Taste and serve as a vegetable side with rice and dal.
+:::
+
+:::lang bn
+# কেরালা কাব্বাগ থরন
+
+কেরালার দ্রুত স্টাইলে নারিকেল, সরিষা বীজ, শুকনো পাতা, এবং সবুজ ঠান্ডা।
+
+## Instructions
+1. নারিকেল, উইলট, ঠাণ্ডা, সারস ও লবণের সঙ্গে ট্যাক্সির মোকাবিলা করুন ।
+2. কোটের তেল. কষে বীজ ও বীজ যোগ করুন; বীজ বোনা যাক।
+3. ক্যাবের মিশ্রণ এবং পানি যোগ করুন। প্রচ্ছদ এবং রান্না ৮ থেকে ১০ মিনিটের বেশী গরমের জন্য, একবার বা দু'বার কাঁপিয়ে দেয়, যতক্ষণ না কেবল কোমল নয়, কিন্তু মাংসের জন্য।
+4. অতিরিক্ত চাপের সঙ্গে মোকাবিলা করা ভাত আর চালের সাথে সবজির পার্শ্ব হিসেবে খেতে খাও।
+:::
+
+:::lang ur
+# کیرالا کیببگ تھرن
+
+ایک تیز دھار کیرلا-سیٹیئم کی وجہ سے ناریل، رائی کے بیج، کپاس کے پتے اور ہرے رنگ کے پتوں سے ٹکراتا ہے۔
+
+## Instructions
+1. ناریل ، ویلوٹس ، لُوٹس اور نمک سے حاصل ہونے والے برتنوں میں نمک شامل ہوتا ہے ۔
+2. چھاتی کی مہارت میں تیل۔ اِس کے علاوہ اِس کے بیج اور پتے بھی شامل ہوتے ہیں ۔
+3. آمیزش آمیزش اور پانی شامل کریں۔ 8 سے 10 منٹ تک کم درجہ حرارت کو ڈھانپنا، ایک یا دو بار حرکت کرتا ہے، یہاں تک کہ صرف نرمی سے مگر مؤخانہ نہیں۔
+4. اِس کی وجہ یہ ہے کہ اِس کی وجہ یہ ہے کہ اِس کی وجہ سے اِس کی مقدار کم ہو جاتی ہے ۔ چاول اور دُل کے ساتھ ساتھ سبزیوں کا بھی مزہ لیں ۔
+:::

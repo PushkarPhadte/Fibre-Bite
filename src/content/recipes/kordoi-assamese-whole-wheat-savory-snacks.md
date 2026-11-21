@@ -89,3 +89,39 @@ prepTimeEstimated: true
 3. स्टारफ्रूटसारखा (कोरदोई) आकार देण्यासाठी एका बाजूकडून दुसऱ्या बाजूकडे घट्ट गुंडाळा.
 4. 180°C वर एअर-फ्रायरमध्ये शिजवा किंवा सोनेरी व कुरकुरीत होईपर्यंत बेक करा. गरम वाढा.
 :::
+
+:::lang en
+# Kordoi / Assamese Whole Wheat Savory Snacks
+
+A traditional Assamese tea-time snack shaped like starfruit (kordoi), made healthy using whole wheat flour and carom seeds.
+
+## Instructions
+1. Knead whole wheat flour, ajwain, kalonji, salt, mustard oil, and water into a firm dough.
+2. Divide into small balls, roll into flat ovals, and make parallel vertical slits leaving edges intact.
+3. Roll tightly from side to side to form the starfruit (kordoi) shape.
+4. Air-fry at 180°C or bake until golden crisp and serve warm.
+:::
+
+:::lang bn
+# কোর্দো / আসমেত সাভোরি সাকস
+
+ঐতিহ্যবাহী চা খাওয়ার সময় তারার তালের (কাদ্দো) মত করে তৈরি হয়, যা সকল গম আটা এবং কারম বীজ দিয়ে তৈরি হয়।
+
+## Instructions
+1. কা. পূ.
+2. ছোট বলয় ভাগ, ফ্ল্যাটে ঢুকে... ...তারপরের মতো খাড়া হয়ে যায়.
+3. তারার তাল (কোর্ডো) আকৃতি গঠন করার জন্য পার্শ্ববর্তী দিক থেকে ধীরে ধীরে গণনা করো ।
+4. 180 ডিগ্রী সেলসিয়াস বা বাকক-তে এয়ারক্রাফট.
+:::
+
+:::lang ur
+# کوردوئے / آسام کی دُنیا کا نظارہ کرنا
+
+ایک روایتی آسام چائے وقتی کیمرا کی شکل میں ستارے کے پھل (کوردوئے) کی شکل اختیار کر گیا، جس نے پورے گندم کے آٹے اور کرم کے بیج استعمال کیے۔
+
+## Instructions
+1. کُل گندم کے آٹے ، دالانج ، نمک ، رائی کے تیل اور پانی کو ٹھوس برتنوں میں تبدیل کر دیا جاتا ہے ۔
+2. چھوٹے چھوٹے سینگوں میں ملا کر پلیٹ‌فارم میں داخل ہو جاتے ہیں ۔
+3. راولپنڈی سے لے کر تارے کے پھول (کرڈوئے) کی شکل تک ۔
+4. Air-fry at 180°C یا Cyp یہاں تک کہ سنہری کریسپ تک اور گرم خدمت کرتے ہیں۔
+:::

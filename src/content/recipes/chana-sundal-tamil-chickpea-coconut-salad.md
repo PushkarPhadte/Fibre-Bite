@@ -103,3 +103,39 @@ prepTimeEstimated: true
 3. हरभरे आणि उरलेले मीठ घालून 3 मिनिटे परतून एकत्र करा.
 4. गॅस बंद करून खोबरे, लिंबाचा रस आणि कोथिंबीर मिसळा; गरम वाढा.
 :::
+
+:::lang en
+# Chana Sundal (Tamil Chickpea and Coconut Stir-Fry)
+
+Soft chickpeas tossed with fresh coconut, ginger, curry leaves and mustard: a protein-rich snack offered at Navaratri and sold on Chennai's beaches.
+
+## Instructions
+1. Soak the chickpeas overnight, drain, then pressure-cook or boil with a little salt until soft but whole. Drain well.
+2. Heat the oil, crackle the mustard seeds, then add the curry leaves, chilli and ginger for 30 seconds.
+3. Add the chickpeas and the remaining salt and toss for 3 minutes.
+4. Remove from the heat, mix in the coconut, lemon juice and coriander and serve warm.
+:::
+
+:::lang bn
+# চানা সানদাল (তামিল মুরগি এবং কন্সটন স্টেরি)
+
+কোমল মুরগিরা তাজা নারিকেল, ভাটা, সস, শুকনো পাতা এবং সরিষাদানি দিয়ে ভরে যায়: নাভারাত্রির একটি প্রোটিন সমৃদ্ধ খাবার এবং চেন্নাই সৈকতে বিক্রি করে।
+
+## Instructions
+1. রাতের বেলা মুরগির মাংস, ড্রেনিং, তারপর চাপ অথবা ঠান্ডা না হওয়া পর্যন্ত। খুব ভালো।
+2. তেল ঢালে, সরিষার বীজ, তারপর রসালো পাতা, ঠাণ্ডায় ৩০ সেকেন্ড লাগবে।
+3. মৌমাছিরা এবং অবশিষ্ট লবণ এবং ৩ মিনিট লবণ যোগ করুন ।
+4. নারিকেল, লেবুর জুস এবং রঞ্জক পদার্থের মিশ্রণ থেকে গরম অপসারণ করুন ।
+:::
+
+:::lang ur
+# چنا سندال (Tamil Chickpea and Country-Fry)۔
+
+tyft spepes جن میں تازہ ناریل، آمیزش، پتوں اور دھاتوں کا استعمال کیا جاتا ہے: ایک پروٹین کے لیے تیار کیا جاتا ہے جو Navaratri میں پیش کی گئی تھی اور چنئی کے ساحلوں پر فروخت ہوتا تھا۔
+
+## Instructions
+1. ساک رات، دوبارہ شروع، دباو یا تھوڑا سا نمک کے ساتھ جلنے تک نرم لیکن پوری طرح. Drain اچھی طرح.
+2. تیل کو صاف کریں ، رائی کے دانے کو توڑ دیں ، اس کے بعد اُس کے پتوں کو ملا دیں ، اُس کی کھال کو صاف کریں اور ۳۰ سیکنڈ تک پکایا کریں ۔
+3. باقی نمک اور تین منٹ کے لیے اینٹیں شامل کریں ۔
+4. گرمی سے چھٹکارا حاصل کرنے ، ناریل میں ملانے ، ٹماٹر جوس اور کوریاننڈر میں ملا کر گرم خدمت انجام دیتے ہیں ۔
+:::

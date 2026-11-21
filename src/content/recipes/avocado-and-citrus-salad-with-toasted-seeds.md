@@ -83,3 +83,39 @@ prepTimeSource: 'https://californiaavocado.com/recipe/avocado-citrus-salad-with-
 3. सलाडवर भाजलेल्या भोपळ्याच्या बिया शिंपडा.
 4. जैतुनाचे तेल, संत्र्याचा रस, मीठ आणि काळी मिरी एकत्र फेटा; वरून सलाडवर घाला.
 :::
+
+:::lang en
+# Avocado and Citrus Salad with Toasted Seeds
+
+A vibrant fresh salad combining sliced orange segments, creamy avocado, mixed greens, and pumpkin seeds.
+
+## Instructions
+1. Arrange mixed baby greens on plates.
+2. Top with orange segments and avocado slices.
+3. Sprinkle toasted pumpkin seeds over salad.
+4. Whisk olive oil, orange juice, salt, and pepper; drizzle over top.
+:::
+
+:::lang bn
+# টর্সার বীজের সঙ্গে আ্যভোকাডো এবং সাইরাস সালাদ
+
+এক মনোরম সালাদের মতো কমলার টুকরো, ক্রিমি আইভোকাডো, মিশ্র সবুজ এবং কুমীর বীজ ।
+
+## Instructions
+1. প্লেটে শিশু সবুজ রঙের মিশ্রণ।
+2. কমলা অংশের উপরে আর ইভোকাডোর টুকরো।
+3. সালাদের উপর পান করুন
+4. তেল, কমলার জুস, লবণ এবং মরিচ; উপরে বৃষ্টিপাত।
+:::
+
+:::lang ur
+# عُوکادو اور سیترس سالد کے ساتھ تواسد نسل کے ساتھ
+
+اِس کے بعد اُس نے اُن سے کہا : ” مَیں نے اِس درخت کو اِس لئے بنایا کہ مَیں اُن کے ساتھ مل کر اُن کے ساتھ کھانا پکاؤں ۔ “
+
+## Instructions
+1. پلیٹ‌فارم پر موجود بچوں کی آمیزش ۔
+2. اُوپر نارنجی بندروں اور اُن کے پاؤں کے نیچے ۔
+3. اِس کی ایک وجہ تو یہ ہے کہ اُس نے اِن بیجوں کی مدد کی ۔
+4. زیتون کا تیل ، نارنجی جوتا ، نمک اور اُوپر والا تیل ۔
+:::

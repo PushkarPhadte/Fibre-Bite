@@ -107,3 +107,42 @@ prepTimeEstimated: true
 4. कडा कुरकुरीत आणि सोनेरी होईपर्यंत 15 ते 18 मिनिटे बेक करा. मग त्रिकोणी तुकडे कापा.
 5. टोमॅटो आणि लेट्यूसमध्ये लिंबाचा रस व उरलेले तेल मिसळून सोबत वाढा.
 :::
+
+:::lang en
+# Chickpea Flour Farinata with Tomato Salad
+
+Ligurian chickpea flatbread baked until crisp at the edges and creamy inside, served with a tomato, lettuce and rosemary salad.
+
+## Instructions
+1. Whisk the besan, water, 10 ml of the oil and the salt into a smooth batter and rest for at least 1 hour.
+2. Heat the oven to 230 C with a 28 cm oven-proof pan or tray inside for 10 minutes.
+3. Pour 20 ml of the oil into the hot pan, add the batter and scatter with the rosemary and pepper.
+4. Bake for 15 to 18 minutes until the edges are crisp and golden. Cut into wedges.
+5. Toss the tomato and lettuce with the lemon juice and the remaining oil and serve alongside.
+:::
+
+:::lang bn
+# টমেটো সালাদ-এর সাথে মুরগিপেটা ফারনাটা
+
+ফলে, চিনির স্বাদ কমে যায় ।
+
+## Instructions
+1. বায়ু, জল, ১০ মিটার এবং লবণ একটি মসৃণ নির্যাতন এবং অন্তত ১ ঘন্টা বিশ্রাম।
+2. এটা দিয়ে C 22C-এ রূপান্তর করা যায় ২৮ সেন্টিমিটার নিষ্কাশন ব্যবস্থা প্যান বা ট্রেইন থেকে ১০ মিনিটের জন্য.
+3. ২০ মিটার গরম প্যানে তেল ছড়িয়ে পড়েছে, আর এতে রয়েছে নির্যাতন আর গোলাপের চক্র।
+4. কেক ১৫ থেকে ১৮ মিনিট পর্যন্ত। আমাদের সাথে কাটা হয়েছে.
+5. টমেটো আর লেবুর রস আর অবশিষ্ট তেল আর সাথে পরিবেশনের জন্য।
+:::
+
+:::lang ur
+# چیکپا پھول فارنٹا ٹوماتو سالاد کے ساتھ
+
+یہاں تک کہ اُس کے آس‌پاس اور کریم کے مقام پر ایک ٹماٹر ، مٹک اور سُر‌مار کے ساتھ بھی کھایا جاتا تھا ۔
+
+## Instructions
+1. بیسن، پانی، تیل اور نمک کے 10 ملی میٹر ایک ہموار مار میں اور کم از کم 1 گھنٹے آرام کرتے ہیں۔
+2. ہاٹ ٹونک تا 230 C جس میں ایک 28 سم اونی پن یا مسافر 10 منٹ کے اندر۔
+3. تیل کا ۲۰ ملی گرام گرم پان میں ڈالا جاتا ہے ۔
+4. 15 سے 18 منٹ تک جب تک کنارے کریسپ اور سنہری رنگ نہ ہو۔ ہمج میں کاٹ.
+5. ٹماٹر کو ملا کر ٹماٹر کے جوس اور باقی تیل سے لیس کرکے ساتھ خدمت کرتا ہے ۔
+:::

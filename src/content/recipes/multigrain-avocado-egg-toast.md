@@ -101,3 +101,39 @@ prepTimeEstimated: true
 3. अवोकॅडो लिंबाचा रस, मीठ आणि मिरीसोबत कुस्करून टोस्टवर पसरवा.
 4. वर टोमॅटोच्या चकत्या आणि अर्धी केलेली अंडी ठेवा; मग भोपळ्याच्या बिया आणि मिरचीचे फ्लेक्स भुरभुरा.
 :::
+
+:::lang en
+# Multigrain Avocado and Egg Toast
+
+Toasted multigrain bread topped with mashed avocado, tomato and a soft-boiled egg, finished with pumpkin seeds.
+
+## Instructions
+1. Lower the eggs into boiling water and cook for 6 to 7 minutes for a jammy yolk, then cool in cold water and peel.
+2. Toast the bread until crisp.
+3. Mash the avocado with the lemon juice, salt and pepper and spread over the toast.
+4. Top with tomato slices and halved eggs, then scatter with pumpkin seeds and chilli flakes.
+:::
+
+:::lang bn
+# মাল্টিগ্রাইন এভোকাডো এবং এগ টেটেট
+
+বহুভাষিক রুটির টুকরো দিয়ে বানানো হয়েছে।
+
+## Instructions
+1. ডিমগুলো ফুটানোর এবং ৬ থেকে ৭ মিনিটের জন্য রান্না করে, তারপর ঠাণ্ডা জল ও জলের মধ্যে ঠান্ডা হয়ে যায় ।
+2. রুটির টুকরো না হওয়া পর্যন্ত।
+3. লেবুর জুস, লবণ এবং মরিচ দিয়ে আভোকাডোকে মাসা।
+4. টমেটোর টুকরো ও মসৃণ ডিমের উপরে, এরপর কুমড়া বীজ এবং ঠাণ্ডা কাপ দিয়ে ছড়িয়ে পড়ে ।
+:::
+
+:::lang ur
+# ملتان ادوکادو اور ایگ توت
+
+اِس لئے اُس نے اُن کے لئے کھانا تیار کِیا ۔
+
+## Instructions
+1. انڈوں کو گرم پانی میں رکھیں اور 6 سے 7 منٹ تک ایک جمے ہوئے جویک کے لئے پکایا کریں، پھر ٹھنڈا پانی اور پانی میں ٹھنڈا کریں.
+2. کریسپ تک روٹی اتار دیں۔
+3. مکئی کے جوس ، نمک اور مکھن کے ساتھ اُس کا تیل اور تیل ملا کر مشرقی سمت میں پھیل گیا۔
+4. اِس کے بعد اُس کے بیج اُڑ جاتے ہیں ۔
+:::

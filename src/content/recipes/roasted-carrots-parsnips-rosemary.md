@@ -76,3 +76,36 @@ prepTimeEstimated: true
 2. गाजर आणि पार्सनिपच्या लांब फोडींना ऑलिव्ह तेल आणि चिरलेल्या रोझमेरीमध्ये नीट घोळवा, म्हणजे त्यांना सर्व बाजूंनी समान तेल-मसाला लागेल.
 3. भाज्या एकाच थरात पसरवा आणि 28 ते 32 मिनिटे भाजा. अर्धा वेळ झाल्यावर एकदा उलटा; सोनेरी आणि मऊ झाल्यावर बाहेर काढा.
 :::
+
+:::lang en
+# Roasted Carrots and Parsnips with Rosemary
+
+Sweet roasted carrots and earthy parsnips caramelized in the oven with fresh rosemary and olive oil.
+
+## Instructions
+1. Preheat the oven to 205 C and line a baking sheet with parchment paper.
+2. Toss carrot and parsnip batons with olive oil and chopped rosemary until evenly coated.
+3. Spread in a single layer and roast for 28 to 32 minutes, turning once halfway, until golden and tender.
+:::
+
+:::lang bn
+# রোজিরির সাথে কুমীর এবং পারসিপ
+
+মিষ্টি কুমীর এবং মাটির রোমআর্মের তেলসহ চুলা রসালো।
+
+## Instructions
+1. এটা দিয়ে কাগজের কাগজের সাথে লিখে দাও.
+2. জলপাই তেল এবং কাঠ দিয়ে কাটা লরমা দিয়ে টরেন্ট এবং প্যারোপ লাঠি।
+3. এক স্তরে ছড়িয়ে পড়ে ২৮ থেকে ৩২ মিনিট পর্যন্ত, সোনার আর কোমল না হওয়া পর্যন্ত।
+:::
+
+:::lang ur
+# روزنامہ سے منسلک کاربٹس اور پراسنیپس
+
+چاول کو پکایا جاتا تھا اور اِس کے بعد اُس نے اِس کے تیل کو پکایا ۔
+
+## Instructions
+1. اِس کے علاوہ اُس نے کاغذ پر کاغذ کے ٹکڑے بنائے ۔
+2. یہاں تک کہ زیتون کے تیل کے ساتھ تیل اور تیل بھی تیار کِیا جاتا ہے ۔
+3. ایک تہ میں بکھیر کر 28 سے 32 منٹ تک آگ لگ جاتی ہے، ایک بار پھر سونے اور نرمی تک پہنچ جاتی ہے۔
+:::

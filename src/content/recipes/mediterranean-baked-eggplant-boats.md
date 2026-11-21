@@ -97,3 +97,39 @@ prepTimeSource: 'https://www.themediterraneandish.com/stuffed-eggplant-recipe/'
 3. एका भांड्यात हरभरा, चिरलेले टोमॅटो, बारीक चिरलेला लसूण, ओरेगॅनो आणि मीठ एकत्र करा.
 4. हे मिश्रण वांग्याच्या होड्यांत भरा, वरून फेटा चीज घाला आणि आणखी 15 मिनिटे बेक करा.
 :::
+
+:::lang en
+# Mediterranean Baked Eggplant Boats
+
+Eggplant halves hollowed and stuffed with tomatoes, chickpeas, garlic, and feta, then baked.
+
+## Instructions
+1. Score eggplant flesh, brush with olive oil, and bake at 200°C (400°F) for 20 minutes.
+2. Scoop out some cooked flesh to create hollow boats.
+3. In a bowl, mix chickpeas, diced tomatoes, minced garlic, oregano, and salt.
+4. Stuff mixture into eggplant boats, top with feta cheese, and bake for another 15 minutes.
+:::
+
+:::lang bn
+# ভূমধ্যসাগরীয় দ্বীপপুঞ্জ
+
+তাই, এতে অবাক হওয়ার কিছু নেই যে, এই ধরনের কলগুলো তৈরি করা হয়েছে ।
+
+## Instructions
+1. শূককীট মাংস, জলপাই তেল এবং ২০০ পাউন্ড (৪০০ পাউন্ড) পাউন্ড (৪০০ ডিগ্রি ফালি) নিয়ে ২০ মিনিট ধরে স্কোর করুন ।
+2. কিছু রান্না করা মাংসের ঝোঁক দিয়ে নৌকা বানানো।
+3. এক বাটি বাটিপোকা, পাশার টমেটো, লাল রসুন, বাগানো এবং লবণের মিশ্রণ ।
+4. ডিমপ্ল্যান নৌকার মিশ্রণ, পেটা পনির এবং আরও ১৫ মিনিট ধরে।
+:::
+
+:::lang ur
+# بحیرۂروم کی مکھیوں کی تعداد
+
+اِس کے بعد اُسے پکایا جاتا ہے ۔
+
+## Instructions
+1. اِس کے بعد اُس نے اِس بات کا ذکر کِیا کہ اُس نے اِس کے بارے میں کیا کہا ۔
+2. اِن میں سے بعض نے کشتی بنانے کے لیے گوشت پکایا ۔
+3. ایک پیالے میں آمیزش کیپ ، مونگ‌پھلی ، مونگ‌پھلی اور نمک شامل ہیں ۔
+4. اسکے علاوہ اُس نے ۱۵ منٹ تک اُن کی خوراک کو محفوظ رکھا ۔
+:::

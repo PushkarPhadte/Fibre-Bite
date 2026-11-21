@@ -91,3 +91,39 @@ prepTimeSource: >-
 3. सॅल्मन फिल्यांवर लिंबाच्या चकत्या ठेवा.
 4. 12–15 मिनिटे भाजा, सॅल्मन सहजपणे पाकळ्यांसारखे सुटे होईपर्यंत आणि अॅस्पॅरॅगस मऊ होईपर्यंत.
 :::
+
+:::lang en
+# Herb Roasted Salmon and Asparagus
+
+Fresh salmon fillets and crisp asparagus spears roasted on a single sheet pan with lemon and dill.
+
+## Instructions
+1. Preheat oven to 200°C (400°F) and arrange salmon and asparagus on a baking sheet.
+2. Drizzle olive oil over both salmon and asparagus, then season with garlic powder and salt.
+3. Place lemon slices on top of the salmon fillets.
+4. Roast for 12-15 minutes until salmon is flaky and asparagus is tender.
+:::
+
+:::lang bn
+# হার্ব্‌ড স্যালমন এবং আসপাগাস
+
+প্রচুর পরিমাণে গরম জল দিয়ে তৈরি প্রচুর পরিমাণে লাল দ্রাক্ষারস রয়েছে ।
+
+## Instructions
+1. প্রায় ২০০ ডিগ্রি সেলসিয়াস (৪০০ ডিগ্রি সেলসিয়াস) থেকে তৈরি শূককীট তৈরি করা হয়েছে এবং একটি বেকিং শীটে লবণ এবং জলহস্তী তৈরির আয়োজন করা হয়েছে।
+2. লাল রঙের তেলে লাল রঙের তেল আর আমরাগাসের উপরে, তারপর রসুন পাউডার আর লবণ দিয়ে বৃষ্টি হয়।
+3. সালমন ভর্তির উপর লেবুর টুকরো স্থাপন করুন।
+4. ১২-১৫ মিনিটের জন্য সুপেয়, যতক্ষণ না সালমন ভেজা হয় আর ততোটা কোমল।
+:::
+
+:::lang ur
+# اِس سے ظاہر ہوتا ہے کہ یہوواہ کے گواہوں کی تعداد میں اضافہ ہو رہا ہے ۔
+
+اِس کی ایک وجہ تو یہ ہے کہ اُس نے ایک ہی کاغذ پر تیر ڈالا تھا ۔
+
+## Instructions
+1. پریہتھ اوون 200°C (400°F) تک اور ایک پُراسرار شیٹ پر اُس کا بندوبست کرتا ہے ۔
+2. اِس کے بعد زیتون کے تیل میں لہسن اور نمک شامل ہوتا ہے ۔
+3. ٹماٹر کی اوپری سطح پر ٹماٹر کے اوپر رکھیں.
+4. 12-15 منٹ کے لیے داخلے یہاں تک کہ ایبٹ آباد ہو جاتا ہے اور اسپراگوس مہربان ہوتا ہے۔
+:::

@@ -86,11 +86,10 @@ export const localizedRecipeTextSchema = z.object({
 	content: z.string().optional()
 });
 
-export const recipeTranslationsSchema = z.object({
-	en: localizedRecipeTextSchema.optional(),
-	hi: localizedRecipeTextSchema.optional(),
-	mr: localizedRecipeTextSchema.optional()
-}).optional();
+export const recipeTranslationsSchema = z.record(
+	z.string().regex(/^[a-z]{2,3}(?:-[a-z0-9]{2,8})*$/),
+	localizedRecipeTextSchema
+).optional();
 
 export const localRecipeFrontmatterSchema = z.object({
 	title: z.string().trim().min(1),

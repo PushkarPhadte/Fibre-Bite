@@ -97,3 +97,39 @@ prepTimeEstimated: true
 3. किंचित तेल लावलेल्या नॉन-स्टिक तव्यावर या मिश्रणाचे चार पातळ क्रेप्स करा; प्रत्येक बाजू सुमारे 2 मिनिटे शिजवा.
 4. प्रत्येक क्रेपमध्ये पनीरचे मिश्रण भरून घडी घाला.
 :::
+
+:::lang en
+# Buckwheat Crepes with Spinach and Paneer
+
+Gluten-free buckwheat crepes filled with a spiced spinach and paneer mixture.
+
+## Instructions
+1. Whisk the flour, water and a pinch of the salt into a thin batter and rest for 10 minutes.
+2. Heat 1 teaspoon of the oil in a pan and cook the cumin and onion until soft; add the spinach and cook for 2 minutes, then stir in the paneer and the remaining salt.
+3. Cook the batter in a lightly oiled non-stick pan as four thin crepes, about 2 minutes per side.
+4. Fill each crepe with the paneer mixture and fold.
+:::
+
+:::lang bn
+# Cartthot CartPs স্পিন এবং পেইনের সাথে
+
+গ্লিটেন মুক্ত শকুন আঙ্গুর দিয়ে ভরা মসলা এবং অপেশাদার।
+
+## Instructions
+1. ক্ষিপ্রের পাত্র, জল ও লবণ এক পাতলা নির্যাতনে পরিণত হয় এবং ১০ মিনিট বিশ্রাম নেয় ।
+2. এক প্যানে তেলের ১ কাপ চা বোনা রান্না করে রান্না করে যতক্ষণ পর্যন্ত না নরম হয় ও রান্না করা হয়; আর ২ মিনিট ধরে রান্না করা ও রান্না করা হয়, ততক্ষণ পর্যন্ত ।
+3. একটি হালকা স্যাঁতসেঁকা তেল প্যানকের সাথে তুলনা করুন।
+4. পেইনের মিশ্রণ ও ভাঁজ দিয়ে প্রত্যেকটা লণ্ডণ্ডি পূর্ণ করুন ।
+:::
+
+:::lang ur
+# اسپناچ اور پینار کے ساتھ بکی جیانگ کرپس
+
+گلگت بلتستان کے بے قاعدہ برتنوں سے بھرے ہوئے برتنوں نے ایک زہریلے ذرات اور پیپرز آمیزے سے بھر دیے۔
+
+## Instructions
+1. اِس کے بعد اُس نے اِس بات پر زور دیا کہ اُس نے اُس کی مدد کی ہے ۔
+2. اِس کے بعد اِس تیل کو پان میں پکایا جاتا ہے ۔
+3. حملہ آوروں کو ایک ہلکے سے غیر مربوط پن کے طور پر، تقریباً 2 منٹ کی طرف.
+4. اِس کی ایک وجہ یہ ہے کہ اِن میں سے ہر ایک کو اِس کی آمیزش کرنی چاہئے ۔
+:::

@@ -98,3 +98,39 @@ prepTimeEstimated: true
 3. वर ताजी बेसिल आणि किसलेले मोझरेला घाला; अशाच प्रकारे थरांची पुनरावृत्ती करा.
 4. वरून पार्मेजान चीज घाला आणि १९०°C (३७५°F) वर २५ मिनिटे बेक करा, सॉस बुडबुडे येईपर्यंत.
 :::
+
+:::lang en
+# Baked Eggplant Parmigiana (Light Style)
+
+A lighter Italian bake made with layered grilled eggplant, marinara tomato sauce, fresh basil, and melted skim mozzarella.
+
+## Instructions
+1. Brush eggplant slices lightly with olive oil and grill/bake at 200°C for 15 minutes until soft.
+2. In a baking dish, spread a thin layer of marinara sauce, followed by grilled eggplant slices.
+3. Top with fresh basil and shredded mozzarella; repeat layers.
+4. Finish with parmesan cheese and bake at 190°C (375°F) for 25 minutes until bubbly.
+:::
+
+:::lang bn
+# ছোট এগনিটুগনিডানা (লোলাইট স্টাইল)
+
+এক হালকা ইতালীয় মুদ্রা তৈরি করা হয়েছে যার মধ্যে রয়েছে ক্রান্তীয় ডিম, মারিনারা টমেটো সস, তাজা বেমিল এবং গলে আসা গলজলা।
+
+## Instructions
+1. কোমল না হওয়া পর্যন্ত ২০০ পাউন্ডের মধ্যে চাপাচানি তেল এবং গ্রিল/বাকির সাথে হালকা ডিমের টুকরো।
+2. এরপর ডিমের টুকরো দিয়ে তৈরি ডিমের সুপের টুকরো বের করে দেওয়া হয় ।
+3. উপরে আছে তাজা বাসিল আর ভাঙ্গা মোজ্জারেলা; স্তরগুলো আবার নতুন করে সাজানো।
+4. পেরেসান পনির আর কেক দিয়ে শেষ হয় ১৮৯০ সালে (৫৫০০০ পাউন্ড) পর্যন্ত।
+:::
+
+:::lang ur
+# بَلَدَیْنَا پَرَمِگیَانَا ( ٹی‌وی اسٹائل )
+
+اٹلی کے ایک چھوٹے سے حصے میں اُگنے والے انڈے ، مارینرا ٹماٹر ، تازہ بانس اور سکیم موزریلا سے بنے ہوئے تھے ۔
+
+## Instructions
+1. اِس سے ظاہر ہوتا ہے کہ اِن میں سے ہر ایک کا تیل تیل ہے ۔
+2. اِس کے بعد اُس نے اِس کے بعد اِنڈوں کو اِستعمال کِیا ۔
+3. اُوپر کی جانب تازہ بُرج اور اُوپر والے مُصّرلہ کے ساتھ اُوپر کی جانب اُڑ جاتے ہیں ۔
+4. اُس وقت سے لے کر ۲۵ منٹ تک کانسی اور اُس کا پنیر 190°C (375°F) تک لگایا جاتا ہے ۔
+:::

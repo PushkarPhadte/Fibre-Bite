@@ -98,3 +98,39 @@ prepTimeEstimated: true
 3. ढोबळी मिरची, कांदा आणि मशरूम घालून मऊ होईपर्यंत 10 मिनिटे शिजवा.
 4. कोथिंबीर घालून सजवा.
 :::
+
+:::lang en
+# Kadai Mushroom with Bell Peppers
+
+Mushrooms and peppers in a freshly ground coriander-chilli kadai masala, made light.
+
+## Instructions
+1. Heat the oil and cook the ginger, garlic, crushed coriander and chilli for 30 seconds.
+2. Add the tomato purée and salt and cook for 8 minutes until thick.
+3. Add the peppers, onion and mushrooms and cook for 10 minutes until tender.
+4. Garnish with coriander.
+:::
+
+:::lang bn
+# বেল পেপারের কাদাই মুশরুম
+
+মুশরুম এবং মরিচের মতো সাদা পোশাকে ঢাকা ছিল।
+
+## Instructions
+1. তেলে ভরা তেল আর ভাটা রান্না করে রসুন, স্ট্রিয়ান্ডার আর ৩০ সেকেন্ডের জন্য ঠান্ডা।
+2. টমেটো আর লবণ যোগ করুন ৮ মিনিট পর্যন্ত।
+3. কোমল না হওয়া পর্যন্ত ১০ মিনিট মাশরুম আর রান্না করুন।
+4. কোরিয়ান্ডারের সাথে গারসন।
+:::
+
+:::lang ur
+# کیدای مسلک بیل پیپرز کے ساتھ ہے۔
+
+مُشَمَّر اور پَسْنَا ایک تازہ زمین پر کریاندر سنگھ کُلّی مَسَلا نے روشنی بنائی۔
+
+## Instructions
+1. تیل کو صاف کریں اور ۳۰ سیکنڈ تک لہسن ، لہسن کو پکا لیں ۔
+2. مونگ‌پھلی میں نمک اور نمک شامل کِیا جاتا ہے ۔
+3. اِس کے بعد اُس نے اِس بات پر غور کِیا کہ اُس نے اِس میں کیا کچھ کِیا ہے ۔
+4. گارنیش کوریانڈر کے ساتھ.
+:::

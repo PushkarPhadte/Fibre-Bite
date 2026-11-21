@@ -111,3 +111,39 @@ prepTimeEstimated: true
 3. ठेचलेले पिकलेले टोमॅटो, 120 मिली पाणी, अर्धी शेपूट आणि मीठ घाला. हलकी उकळी आणा, झाकण ठेवा आणि मंद आचेवर 30 ते 35 मिनिटे शिजवा, शेंगा अगदी मऊ होईपर्यंत.
 4. टोमॅटोचा रस घट्ट होण्यासाठी शेवटची 5 मिनिटे झाकण काढून शिजवा; मग उरलेले 10 मिली ऑलिव्ह तेल घाला आणि ताजी शेपू व अजमोदा पसरून सजवा.
 :::
+
+:::lang en
+# Greek Fasolakia Lathera (Olive-Oil Braised Green Beans and Tomatoes)
+
+Classic Mediterranean lathera dish slowly braising tender green beans and baby potatoes with crushed ripe tomatoes, onions, extra-virgin olive oil, and fresh dill.
+
+## Instructions
+1. Warm 20 ml of extra-virgin olive oil in a wide Dutch oven over medium heat and sauté the sliced onion and garlic for 5 minutes until softened.
+2. Stir in the trimmed green beans and quartered potatoes, tossing for 2 minutes to coat with the aromatic oil.
+3. Pour in the crushed ripe tomatoes, 120 ml of water, half the dill, and salt; bring to a gentle simmer, cover, and braise on low heat for 30 to 35 minutes until the beans are silky-tender.
+4. Uncover for the final 5 minutes to concentrate the tomato sauce, then drizzle with the remaining 10 ml of olive oil and scatter with fresh dill and parsley.
+:::
+
+:::lang bn
+# গ্রীক ফাসোলাকিয়া লাথরা (ওলি-ওল-ওলিজ গ্রিন বিন্স এবং টমেটো)
+
+প্রাচীন ভূমধ্যসাগরীয় ল্যাথেরার খাবার ধীরে ধীরে কোমল সবুজ শিম এবং শিশুর আলুকে সমৃদ্ধ করছে, যার মধ্যে রয়েছে পাকা পাকা টমেটো, পেঁচি, বাড়তি জলপাই তেল এবং তাজা পানীয়।
+
+## Instructions
+1. ২০ মিটার লম্বা তেল, প্রচুর ডাচ চুলার তেলে গরমের কারণে তেলে ভরা তেল এবং পাঁচ মিনিটের জন্য রসুন কেটে ফেলা হয়।
+2. টর্চার সবুজ শিম এবং আলু আলুতে চাপ প্রয়োগ করা হয় ।
+3. শ্যাম্পু পাকা টমেটো, ১২০ মিটার পানি এবং লবণে পিঁয়াজ, একটি কোমল সরল সরল সরল সরল সরল রঞ্জক নিয়ে আসা এবং শিমগুলো যেন ৩০ থেকে ৩৫ মিনিট পর্যন্ত কমে আসে।
+4. টমেটো সসকে মনোযোগ দেবার জন্য শেষ ৫ মিনিট অপেক্ষা করতে হবে, তারপর বাকি ১০ মিলিটি জলপাই তেল আর তাজা ডাইলি ছড়িয়ে পড়বে।
+:::
+
+:::lang ur
+# یونان فہرست یونان کے شہر انگریزی ویکیپیڈیا کے مشارکین. "Yeniçalakia Lathera (Olive-Oil Bile Green Beans and Tomatoes)".
+
+کلاسیکی بحیرۂروم لاتھرا کھانوں میں آہستہ آہستہ نرم سبز دانوں اور بچے کو پکاتے ہوئے ٹماٹروں ، پیاز ، اضافی زیتون کے تیل اور تازہ دال سے پکایا جاتا ہے۔
+
+## Instructions
+1. گرم 20 ملی میٹر اضافی زیتون کے تیل میں پھیلے ہوئے زیتون کے تیل میں درمیانے درجہ حرارت پر اور ساوترے میں استعمال ہونے والے تیل میں 5 منٹ تک نرم ہو جاتے ہیں۔
+2. اِس کے بعد اُس نے خوشبودار تیل کے ساتھ ۲ منٹ تک کھانا کھایا ۔
+3. ٹوٹی ہوئی ٹماٹروں میں پکاؤ، 120 ملی میٹر پانی، آدھی دِل اور نمک؛ 30 سے 35 منٹ تک نرم نرم کرۂ حرارت، چادر اور کم درجہ حرارت پر رکھا جاتا ہے۔
+4. آخری ۵ منٹ تک ٹماٹر کے آٹے پر توجہ دینے میں ناکام رہتے ہیں اور پھر زیتون کے باقی ۱۰ میل کے تیل سے اُڑ کر تازہ‌دم اور تیل سے بکھیرتے ہیں ۔
+:::

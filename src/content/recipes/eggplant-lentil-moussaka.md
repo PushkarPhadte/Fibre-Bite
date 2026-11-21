@@ -114,3 +114,42 @@ prepTimeEstimated: true
 4. एका बेकिंग डिशमध्ये वांगी आणि मसूर डाळीचे रॅगू थरांनी लावा.
 5. योगर्ट अंडे आणि उरलेल्या मिठासह फेटा, वर पसरवा आणि सेट होईपर्यंत 190 °C वर 25 मिनिटे बेक करा.
 :::
+
+:::lang en
+# Eggplant Lentil Moussaka
+
+Layers of roasted eggplant and spiced lentil-tomato ragù topped with a Greek yogurt custard.
+
+## Instructions
+1. Brush the eggplant with half the oil and roast at 220 °C for 20 minutes.
+2. Simmer the lentils in the water for 20 minutes.
+3. Cook the onion and garlic in the remaining oil, add the passata, spices, lentils and half the salt and simmer for 10 minutes.
+4. Layer the eggplant and lentil ragù in a dish.
+5. Beat the yogurt with the egg and remaining salt, spread over the top and bake at 190 °C for 25 minutes until set.
+:::
+
+:::lang bn
+# গ্রামা
+
+দফতরের পচন এবং মসলাযুক্ত কাপড়ের স্তর একটি গ্রীক দৈন্য দ্বারা নির্মিত।
+
+## Instructions
+1. ২০ মিনিটের জন্য ডিমপ্ল্যানের অর্ধেক তেল ও রোপন করে।
+2. ২০ মিনিটের জন্য পানির মধ্যে হট্টগোল।
+3. অবশিষ্ট তেলে রান্না করা আর রসুন, পাসটা, মসলা, ডাল আর অর্ধেক লবন আর ১০ মিনিটের জন্য।
+4. একটা খাবারে ডিমপ্ল্যান এবং ছাঁটা দিয়ে দিন ।
+5. ডিম ও বাকি লবণ দিয়ে আঘাত করে, ওপরে ও ছাদের ওপর ভর করে ।
+:::
+
+:::lang ur
+# اِس کی کیا وجہ ہے ؟
+
+ایک یونانی کیس‌وے سے ٹکرانے کے لئے اُس نے اُس سے کہا : ” کیا آپ کو معلوم ہے ؟ “
+
+## Instructions
+1. انڈے کو نصف تیل کے ساتھ مار کر ۲۰ منٹ تک ۲۰.
+2. جموں پانی میں 20 منٹ تک مونگ پھلی۔
+3. باقی تیل میں موجود اون اور لہسن کو کُل‌وقتی طور پر استعمال کِیا جاتا ہے ۔
+4. اِس کے بعد اُس نے اِس بات کا ذکر کِیا کہ اُس نے اُس سے کہا : ” اَے [ یہوواہ ] !
+5. اِس کے بعد اُس نے اِس بات کا ذکر کِیا کہ اِس میں اِس کی مقدار بہت کم ہے ۔
+:::

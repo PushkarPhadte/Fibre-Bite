@@ -81,3 +81,39 @@ prepTimeEstimated: true
 3. कणकेच्या 8 गोळ्यांत मुळ्याचे सारण भरा, कडा बंद करा आणि हलक्या हाताने लाटा.
 4. गरम तव्यावर तेल लावत दोन्ही बाजूंनी सोनेरी होईपर्यंत शिजवा.
 :::
+
+:::lang en
+# Mooli Paratha Radish Flatbread
+
+Whole wheat flatbreads stuffed with spiced grated radish, cooked with very little oil.
+
+## Instructions
+1. Knead the flour with water into a soft dough and rest for 15 minutes.
+2. Mix the radish with the chilli, cumin, coriander and salt.
+3. Fill 8 dough balls with the radish mixture, seal and roll out gently.
+4. Cook on a hot griddle, brushing with the oil, until golden on both sides.
+:::
+
+:::lang bn
+# মোলি পারাথা রাধী
+
+পুরো গমের সমতল রুটি দিয়ে তৈরি পাপমোচন, খুব সামান্য তেল দিয়ে রান্না করা।
+
+## Instructions
+1. এক নরম ডোরাকাটা ডোরা তৈরি করে ১৫ মিনিট বিশ্রাম নেয় ।
+2. ঠাণ্ডা, জিন্দার, হরন আর লবণের সাথে রাজমিস্ত্রিকে জোড়া দিন।
+3. এই রসালো মিশ্রণ, সীল আর ধীরে ধীরে বের করো।
+4. কুক একটি হট গ্রিডেল, তেল দিয়ে ব্রাশ করে, দুই পক্ষের উপর সোনালী না হওয়া পর্যন্ত।
+:::
+
+:::lang ur
+# مولوی پارتھا ریڈیش فلیش تھے۔
+
+گندم کے برتنوں میں بہت کم تیل تیار کِیا جاتا تھا ۔
+
+## Instructions
+1. پانی کے ساتھ آٹے کو نرم برتن میں رکھ کر 15 منٹ آرام کریں۔
+2. مٹی کے برتنوں سے بنی ہوئی ریتلی، کنڑ، کوریان اور نمک کے ساتھ۔
+3. اِس کے علاوہ اِن میں سے 8 گیس بھی شامل ہیں ۔
+4. کوکو تیل سے صاف کرنے ، تیل کو صاف کرنے ، دونوں اطراف میں سونے تک ۔
+:::

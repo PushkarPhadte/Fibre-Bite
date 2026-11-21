@@ -100,3 +100,39 @@ prepTimeEstimated: true
 3. एका छोट्या बाउलमध्ये उरलेले ऑलिव्ह ऑइल, लसूण, केपर्स, लिंबाचा रस आणि पार्सली एकत्र करा.
 4. सर्व्ह करण्यापूर्वी गरम सार्डिनवर लसूण-केपर ड्रेसिंग घाला.
 :::
+
+:::lang en
+# Grilled Sardines with Lemon, Garlic, and Capers
+
+Omega-3-rich sardines grilled briefly and topped with minced garlic, capers, lemon juice, and parsley.
+
+## Instructions
+1. Preheat a grill pan or outdoor grill to medium-high heat and lightly oil the grates.
+2. Brush sardines with half the olive oil and grill for 3 to 4 minutes per side until lightly charred and cooked through.
+3. Combine remaining olive oil, garlic, capers, lemon juice, and parsley in a small bowl.
+4. Spoon the garlic caper dressing over the hot sardines before serving.
+:::
+
+:::lang bn
+# Solllps Soin, Grichicks, এবং ক্যাপার্স
+
+ওমেগা-চেরী সার্ডিনরা অল্প সময় ধরে রাগে ফেটে পড়ে এবং মুখে মুখে রসুন, ক্যাপার, লেবুর জুস এবং প্যারোলির সাথে মিশে যায়।
+
+## Instructions
+1. মাঝারি তাপ এবং তেলকে হালকা ভাবে হালকা করে।
+2. প্রায় অর্ধেক জলপাই তেল আর গ্রিল দিয়ে তিন থেকে ৪ থেকে ৪ মিনিট প্রতি দিকে তেল আর রান্না করে।
+3. লেবি, রসুন, ক্যাপার, লেবুর জুস আর একটা বাটি বাটির মধ্যে প্যাসলি অবশিষ্ট রাখে।
+4. রসুন রসুনের টুপি পরা গরম সার্ডিনের পোশাক পরে.
+:::
+
+:::lang ur
+# لیمون، گارلک اور کیپرز کے ساتھ گلڈ سرڈینس
+
+اومیگا-3-رچ سرڈینز نے مختصراً لہسن، کیپرز، آلو کے جوس اور کیلی سے لیس کر دیا۔
+
+## Instructions
+1. تیل کو گرم کرنے کے لئے بہت زیادہ گرم اور سستے تیل کی طرف تیز.
+2. اُس وقت تک زیتون کے تیل اور اُس کے تیل کو اُس وقت تک استعمال کِیا جاتا ہے جب تک اُس کے جسم میں تیل نہیں آتا ۔
+3. زیتون کا تیل ، لہسن ، کپاس ، ٹماٹر جوس اور پنیر کو ایک چھوٹے سے پیالے میں رکھتے ہیں ۔
+4. مونگ‌پھلی کی کُوپر کیپر خدمت کرنے سے پہلے گرم سُر کو پہنتا ہے ۔
+:::

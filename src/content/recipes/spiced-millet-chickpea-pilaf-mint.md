@@ -87,3 +87,36 @@ prepTimeEstimated: true
 2. भाज्यांचा रस्सा ओतून उकळी आणा; आच मंद करा, झाकण ठेवा आणि सर्व द्रव आटेपर्यंत २० मिनिटे शिजवा.
 3. काट्याने बाजरी मोकळी करा, हरभरे आणि चिरलेला पुदिना मिसळा; वाढण्यापूर्वी ३ मिनिटे झाकून ठेवा.
 :::
+
+:::lang en
+# Spiced Millet and Chickpea Pilaf with Mint
+
+Fluffy hulled millet cooked with chickpeas, warm cumin, cinnamon, and fresh mint leaves.
+
+## Instructions
+1. Heat olive oil in a saucepan over medium heat and toast millet, cumin, and cinnamon for 2 minutes.
+2. Pour in vegetable broth, bring to a boil, reduce heat to low, cover, and simmer for 20 minutes until liquid is absorbed.
+3. Fluff with a fork, fold in chickpeas and chopped mint, and cover for 3 minutes before serving.
+:::
+
+:::lang bn
+# মিন্টের সাথে ডিভিডি এবং মুরগী পিলাফ
+
+ফুলগুলোকে তৈরি করার জন্য তৈরি করা হয় ।
+
+## Instructions
+1. সা. কা.
+2. প্রচুর পরিমাণে জল সরবরাহ করা হয় ।
+3. মুরগির ডিম, ডিমের টুকরো আর কাটছানি দিয়ে তিন মিনিট পর্যন্ত ঢেকে রাখা ।
+:::
+
+:::lang ur
+# مینٹ کے ساتھ اسپڈ میلٹ اور چیکپا پئیلف
+
+اِس کی ایک وجہ یہ تھی کہ اُس نے اِس کا ذائقہ پکا لیا ۔
+
+## Instructions
+1. زیتون کے تیل کو درمیان میں گرم گرم اور شمال مشرقی نصف کرہ میں ۲ منٹ تک گرم کِیا جاتا ہے ۔
+2. اِس کی وجہ یہ ہے کہ اُس وقت تک اِس میں پانی کم ہو جاتا ہے ۔
+3. اِس کے بعد اُس کی خدمت کرنے سے پہلے ۳ منٹ تک اُس کے جسم پر پردہ پڑا رہتا ہے ۔
+:::

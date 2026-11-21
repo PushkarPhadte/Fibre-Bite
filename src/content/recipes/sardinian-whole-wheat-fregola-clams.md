@@ -103,3 +103,42 @@ prepTimeEstimated: true
 4. स्वच्छ घासलेले क्लॅम्स भांड्यात अलगद ठेवा, झाकण घट्ट लावा आणि सर्व शिंपले उघडेपर्यंत 5 ते 6 मिनिटे वाफवा. न उघडलेले क्लॅम्स टाकून द्या.
 5. ताज्या लिंबाचा रस आणि चिरलेली पार्सली मिसळा आणि लगेच वाढा.
 :::
+
+:::lang en
+# Sardinian Whole-Wheat Fregola with Clams and Parsley
+
+Coastal Sardinian one-pot dish of toasted whole-wheat pasta pearls simmered in a garlicky tomato broth with iron-rich clams and fresh flat-leaf parsley.
+
+## Instructions
+1. Warm the olive oil in a wide Dutch oven over medium heat, sauté the sliced garlic for 1 minute until fragrant, and add the halved cherry tomatoes to blister for 3 minutes.
+2. Stir in the dry whole-wheat fregola to toast for 1 minute, then pour in the unsalted vegetable broth and bring to a gentle simmer.
+3. Cook uncovered for 10 minutes, stirring occasionally, until the fregola is almost tender and the broth has slightly thickened.
+4. Nestle the scrubbed clams into the pot, cover tightly, and steam for 5 to 6 minutes until all shells open (discarding any unopened clams).
+5. Stir in the fresh lemon juice and chopped parsley and serve immediately.
+:::
+
+:::lang bn
+# কলাম এবং পারসিলির মাধ্যমে সরদিনিয়ান ফ্রিগোলা
+
+উপকূলীয় সারদিনিয়ানের একটি চেরনোবিলের মাংস পুরো চ্যাপিকা দিয়ে তৈরি রসুন দিয়ে তৈরি রসুন দিয়ে তৈরি রসুন দিয়ে তৈরি রসুন দিয়ে তৈরি রসুন দিয়ে তৈরি রসুন দিয়ে, আর তাজা ফ্লাট পার্লে।
+
+## Instructions
+1. প্রচুর পরিমাণে গরমের কারণে প্রচুর ডাচ চুলা তেল গরম হয়ে যায় ।
+2. এক মিনিটের জন্য লাষ্টোলাতে এক মিনিট করে টোটাগোলাতে স্ট্রেচার করা হয়েছে, তারপর সব্জির মধ্যে ঢালতে হবে এবং একটি ভদ্র সরল সিমমের কাছে নিয়ে আসতে হবে।
+3. কুক ১০ মিনিটের জন্য উন্মুক্ত, মাঝে মাঝে উৎসাহ বোধ করে, যতক্ষণ না ফ্রাঙ্গালা প্রায় কোমল হয়ে যায় এবং ব্রোথের সামান্য ক্ষতি হয়।
+4. শূককীটগুলো দের মধ্যে ঢুকে, শক্ত করে ঢেকে রাখে এবং সন্ধ্যা ৬ থেকে ৬ থেকে ৬ মিনিট পর্যন্ত গরম থাকে।
+5. তাজা লেবুর জুস আর প্যারোলি দিয়ে সাথে কাজ করা।
+:::
+
+:::lang ur
+# ساردین کمار اور پارسلے کے ساتھ-
+
+Coastal Sardinian one-put of Taassted پورے خشکی کے موتیوں میں ایک لہسنکی ٹماٹر بُرتھ میں لوہے کے کیم اور تازہ پلیٹ بُکوں کے ساتھ بنے تھے۔
+
+## Instructions
+1. زیتون کے تیل کو درمیانے گرم درجۂ‌حرارت پر پھیلے ہوئے جنوب‌مشرقی علاقوں میں گرم کرنے ، لہسن کو خوشبو تک ۱ منٹ تک پکایا جاتا ہے اور ۳ منٹ تک ٹماٹروں میں شامل کِیا جاتا ہے ۔
+2. خشک خشکی میں 1 منٹ تک خشک شدہ فرگولا میں سوراخ کریں، پھر بے ذائقہ سبزیوں میں ڈال کر ایک نرم سوراخ تک پہنچا دیں۔
+3. کُک نے 10 منٹ تک ، وقتاًفوقتاً حملہ کِیا ، یہاں تک کہ فرگولا تقریباً پُرمحبت اور برتھ نے کچھ دیر کے لئے کچھ دیر آرام کِیا ۔
+4. جب تک تمام خلیات کھلے نہیں ہیں ( کوئی بھی کھلے ہوئے کلام کو صاف نہیں کر سکتا ) تو اُس میں سے ۵ سے ۶ منٹ کے اندر اندر اندر داخل ہو جاتے ہیں ۔
+5. اِس کے علاوہ اِس میں بھی بہت سی تبدیلیاں ہوتی ہیں ۔
+:::

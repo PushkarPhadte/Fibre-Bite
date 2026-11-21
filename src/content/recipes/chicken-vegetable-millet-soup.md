@@ -99,3 +99,36 @@ prepTimeEstimated: true
 2. चिकन, हळद आणि मिरी घालून 3 मिनिटे शिजवा.
 3. गाजर, सेलरी, कांगणी, मीठ आणि पाणी घाला. कांगणी व चिकन पूर्ण शिजेपर्यंत 25 मिनिटे मंद आचेवर उकळवा.
 :::
+
+:::lang en
+# Chicken Vegetable Millet Soup
+
+A warming soup with lean chicken, foxtail millet, carrot and celery.
+
+## Instructions
+1. Heat the oil and cook the onion, garlic and ginger for 4 minutes.
+2. Add the chicken, turmeric and pepper and cook for 3 minutes.
+3. Add the carrot, celery, millet, salt and water and simmer for 25 minutes until the millet and chicken are cooked through.
+:::
+
+:::lang bn
+# মুরগির মাংস
+
+মুরগি, শিয়ালটেল মিলেট, গাজর আর ডিমের সুপ।
+
+## Instructions
+1. তেল আর লন্ড্রি রান্না করে ৪ মিনিটের জন্য রসুন আর ভাটা।
+2. মুরগি, টারমেরিক আর মরিচ আর ৩ মিনিটের জন্য রান্না করুন।
+3. চিনির রস, চিনি, চিনি, লবণ ও জল দিন দিন ।
+:::
+
+:::lang ur
+# چِک‌ن Vegetable millet Soup
+
+اِس کی وجہ یہ ہے کہ اِن میں سے زیادہ‌تر لوگ اِس بات کی قدر کرتے ہیں کہ اُن کے دل میں اُن کے لیے حرارت کی کمی ہے ۔
+
+## Instructions
+1. تیل کو صاف کریں اور اِن میں موجود لہسن ، لہسن اور مشروبات کو چار منٹ تک پکائیں ۔
+2. مرغی ، ٹرمیر اور مکھن شامل کرکے 3 منٹ تک پکایا۔
+3. جب تک مرغی اور مرغی کو پکایا جاتا ہے ۔
+:::

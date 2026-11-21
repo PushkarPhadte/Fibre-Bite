@@ -84,3 +84,39 @@ prepTimeEstimated: true
 3. आच बंद करून हळद, काळी मिरी आणि मीठ घालून मखाणे नीट हलवा.
 4. मखाणे पूर्ण थंड होऊन कुरकुरीत होऊ द्या, मग हवाबंद डब्यात ठेवा.
 :::
+
+:::lang en
+# Turmeric and Black Pepper Roasted Makhana
+
+Light, crunchy fox nuts dry-roasted with a little ghee, turmeric and black pepper: a high-fibre, low-oil snack.
+
+## Instructions
+1. Warm the ghee in a wide pan over low heat.
+2. Add the makhana and roast on low heat for 8 to 10 minutes, stirring often, until a nut snaps easily when pressed.
+3. Turn off the heat and toss with the turmeric, pepper and salt.
+4. Cool completely to crisp up, then store in an airtight jar.
+:::
+
+:::lang bn
+# টরমেরিক এবং ব্ল্যাক পেপার মাকানাকে উৎসর্গ করেছে
+
+হালকা, শিয়াল বাদাম শুকিয়ে যাওয়া শুকনো মাংসের গন্ধ, টরমেরিক এবং কালো মরিচের সাথে মিশিয়ে।
+
+## Instructions
+1. ঘোড়দৌড়কে গরমের দিকে ঠেলে দাও।
+2. মাখানিকে সকাল ৮ থেকে ১০ মিনিট পর্যন্ত গরমের জন্য রান্না করতে হয়।
+3. গরম এবং টরমেরিক, মরিচ এবং লবণ দিয়ে গরম করা।
+4. মাথা ঠান্ডা হয়ে যায়, তারপর একটি এয়ারটওট বোতলে স্টোর করে।
+:::
+
+:::lang ur
+# تھرمیرک اور بلیک پیپر نے مقنہ کو داخل کیا۔
+
+روشنی، کرنسی فوکس خشک ڈھلوانوں کے ساتھ چھوٹی چھوٹی گولیوں کے ساتھ، ٹرمیر اور سیاہ رنگ: ایک اونچی چوٹی، کم ڈھلوان کے ساتھ۔
+
+## Instructions
+1. کم درجہ حرارت پر ایک وسیع پن میں گیج کو گرم کرتے ہیں۔
+2. اسکے علاوہ ، اسپنج کو بھی استعمال کِیا جاتا ہے ۔
+3. گرمیوں کو دور کریں اور ترکی، چاول اور نمک کے ساتھ مل جائیں۔
+4. اِس کے بعد اُس نے ایک برتن میں رکھ دیا ۔
+:::

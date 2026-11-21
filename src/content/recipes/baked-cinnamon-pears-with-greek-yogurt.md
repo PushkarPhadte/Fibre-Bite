@@ -83,3 +83,36 @@ prepTimeEstimated: true
 2. वरून दालचिनी आणि अक्रोड पेरा आणि मऊ होईपर्यंत 25 मिनिटे भाजा.
 3. गरम असतानाच योगर्टसोबत वाढा.
 :::
+
+:::lang en
+# Baked Cinnamon Pears with Greek Yogurt
+
+Pears roasted with cinnamon and walnuts, served warm with Greek yogurt; sweetened only by the fruit.
+
+## Instructions
+1. Heat the oven to 190 °C and place the pears cut-side up in a dish with the water.
+2. Sprinkle with cinnamon and walnuts and bake for 25 minutes until tender.
+3. Serve warm with the yogurt.
+:::
+
+:::lang bn
+# গ্রীক ইয়োগুরের সাথে বেইতনিক সিনামোন পেনিজ
+
+গ্রিক ইয়োগুরের সঙ্গে মিষ্টি ব্যবহার করা হতো ।
+
+## Instructions
+1. ১৯০ ডিগ্রি সেলসিয়াসে চুলায় এবং সেখানে মটরশুঁটি কেটে পানি দিয়ে পরিবেশন করা হয়।
+2. কোমল হওয়ার আগে পর্যন্ত স্নেমন এবং কফির সাথে পান করুন।
+3. দের সাথে খেতে দাও।
+:::
+
+:::lang ur
+# یونانی یو .
+
+اِس کے بعد اُنہوں نے اُن سے کہا : ” مَیں نے اُن کی بات مان لی ۔ “
+
+## Instructions
+1. ہاٹ ٹونک سے 190 °C تک اور پیروں کو پانی کے ساتھ ایک برتن میں کاٹ کر رکھ دیں۔
+2. اِس کی وجہ یہ ہے کہ اُس نے اِس بات پر غور کِیا کہ اُس نے اُس کے ساتھ کیا کِیا ۔
+3. مَیں نے اُن سے کہا : ” مَیں آپ سے بات کرنا چاہتی ہوں ۔
+:::

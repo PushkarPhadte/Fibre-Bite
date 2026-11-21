@@ -97,3 +97,36 @@ prepTimeEstimated: true
 2. तेलात कांदा आणि लसूण शिजवा; मग मसाले, टोमॅटो, डाळ आणि मीठ घालून ८ मिनिटे शिजवा.
 3. हे मिश्रण लेट्यूसच्या पानांत भरून वर अवोकॅडो, लिंबाचा रस आणि कोथिंबीर घाला.
 :::
+
+:::lang en
+# Spiced Lentil Lettuce Wrap Tacos
+
+Cumin and paprika spiced lentils in crisp lettuce cups with tomato, avocado and lime.
+
+## Instructions
+1. Simmer the lentils in the water for 20 minutes until tender; drain.
+2. Cook the onion and garlic in the oil, then add the spices, tomatoes and lentils and cook for 8 minutes with salt.
+3. Spoon into lettuce leaves and top with avocado, lime juice and coriander.
+:::
+
+:::lang bn
+# Monopd Lentil Letil Letus Tass
+
+কুমিন এবং পাম্পিকা কাস্টাপির কাপের সাথে টমেটো, আভোকাডো এবং লাইম চা নিয়ে।
+
+## Instructions
+1. কোমল হওয়া পর্যন্ত ২০ মিনিট পানির মধ্যে ঘটিকা।
+2. এরপর তেলে ও রসুনের রান্না করুন, তারপর মসলা, টমেটো আর ঘষা আর লবণ দিয়ে ৮ মিনিট রান্না করুন।
+3. লেটুস পাতা এবং উপরে আভোকাডো, লাইম জুস এবং কোরিয়ান্ডার।
+:::
+
+:::lang ur
+# اسپیسڈ لِنل لِتُس وَرَپ تاکوس
+
+کومین اور پُرکیکا نے ٹماٹروں ، اُوکادو اور ٹماٹروں کے ساتھ مل کر مونگ‌پھلی کے پیالے میں مونگ‌پھلی کی کاشت کی ۔
+
+## Instructions
+1. پانی میں ۲۰ منٹ تک مونگ‌پھلی کا سُرخ رنگ ہوتا ہے ۔
+2. تیل میں موجود اون اور لہسن کو پکانے کے بعد چاول، ٹماٹر اور آلو ملا کر 8 منٹ تک نمک کے ساتھ پکایا جاتا ہے۔
+3. اسپن کے پتوں میں اور اوپر میں ایکوکاڈو، کین جوس اور کریانڈر کے ساتھ.
+:::

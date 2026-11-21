@@ -112,3 +112,39 @@ prepTimeEstimated: true
 3. उरलेले 10 मिली ऑलिव्ह ऑईल एका कढईत गरम करा, त्यात चिरलेली सेलेरी, शेलॉट्स आणि उरलेले थाईम मऊ होईपर्यंत 5 मिनिटे परतून घ्या, नंतर शिजवलेले जंगली भात, टोस्ट केलेले पेकन, क्रॅनबेरी, अजमोदा आणि उरलेले मीठ टाका.
 4. भाजलेले स्क्वॅशचे अर्धे भाग सरळ पलटवा, जंगली तांदूळ पिलाफ प्रत्येक पोकळीत बांधा आणि वर हलके कुरकुरीत होईपर्यंत 8 मिनिटे आणखी बेक करा.
 :::
+
+:::lang en
+# Wild Rice and Pecan Stuffed Acorn Squash
+
+Roasted acorn squash halves brimming with nutty black wild rice, sautéed celery, shallots, fresh thyme, toasted pecans, and unsweetened dried cranberries.
+
+## Instructions
+1. Preheat the oven to 200°C, brush the cut surfaces of the acorn squash halves with 10 ml of olive oil and a pinch of salt, and roast cut-side down on a lined sheet for 35 minutes until fork-tender.
+2. Simmer the rinsed wild rice in the vegetable broth with half the thyme for 40 minutes until the grains split open and turn tender; drain any excess liquid.
+3. Warm the remaining 10 ml of olive oil in a skillet, sauté the diced celery, shallots, and remaining thyme for 5 minutes until softened, then toss with the cooked wild rice, toasted pecans, cranberries, parsley, and remaining salt.
+4. Flip the roasted squash halves upright, mound the wild rice pilaf into each cavity, and bake 8 minutes more until lightly crisp on top.
+:::
+
+:::lang bn
+# বন্য ভাত এবং পেকেক আঙ্ক স্কোয়াড
+
+আখের শর্করার শূককীটগুলো কালো বন্য ভাত, সাসটেড সেলেরি, তাজা, মদদানা, আখদানা, আখদানি এবং শুকনো চিরকুটিকল দিয়ে তৈরি ।
+
+## Instructions
+1. শ্যাম্পেইন থেকে ২০০ ডিগ্রি সেলসিয়াস পর্যন্ত চুল্লীর চুলা পরিষ্কার করুন। এতে ১০ মিটার তেল আর লবন তেল আর ৩৫ মিনিটের জন্য কাটা কাটা পাতা।
+2. শস্য কাটার আগে পর্যন্ত ৪০ মিনিটের মধ্যে সবজির ভাতের রসের রসাক্ষরের সাথে ঝরানো বন্য চালের পরিমাণ কমে যায়।
+3. প্রায় ১০ মিটার লম্বা জলপাই তেল, সাঁতরে সসটলা, দোতালু, এবং ৫ মিনিট পর্যন্ত টিকে থাকে, তারপর রান্নাকৃত বন্য চাল, টোস্টিং, কলি আর লবণে ভরা।
+4. চিরকুটগুলো সোজাভাবে কাটা, বন্য চালের লণ্ডভণ্ডকে লণ্ডণ্ডভণ্ড করে এবং উপরের দিকে হালকাভাবে কাটা ৮ মিনিট সময় লাগে।
+:::
+
+:::lang ur
+# جنگلی رائس اور پکوان اسٹوپاڈ اسکیچ
+
+اِس کے بعد اُس نے اِس کی ایک اَور مثال قائم کی ۔
+
+## Instructions
+1. اوون 200°C تک ، زیتون کے تیل کا تیل اور نمک کی ایک تہ سے دس ملی میٹر تک کاٹ کر 35 منٹ تک ایک لائن شیٹ پر کاٹ دیا جاتا ہے۔
+2. اِس کے بعد اُس نے اِس بات پر غور کِیا کہ اِس میں کیا کچھ شامل ہے ۔
+3. زیتون کے تیل کے باقی ۱۰ ملی‌میٹر کو ایک مہارت ، سُوت‌دار کِیا جاتا ہے اور اُس وقت تک آپ کی عمر ۵ منٹ تک نرم ہو جاتی ہے ۔
+4. اِس کے بعد اُس نے اِسے دوبارہ اُٹھا لیا ۔
+:::

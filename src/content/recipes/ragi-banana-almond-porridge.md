@@ -89,3 +89,39 @@ prepTimeEstimated: true
 3. कुस्करलेले केळे आणि दालचिनी मिसळून आणखी 2 मिनिटे शिजवा.
 4. वरून चिरलेले बदाम घालून वाढा.
 :::
+
+:::lang en
+# Ragi Banana Almond Porridge
+
+Warm finger millet porridge sweetened only by ripe banana, with cinnamon and toasted almonds.
+
+## Instructions
+1. Whisk the ragi flour with the water until completely smooth.
+2. Heat the milk in a saucepan, then stir in the ragi paste and cook on low heat for 8 minutes, stirring constantly, until thick.
+3. Stir in the mashed banana and cinnamon and cook for 2 more minutes.
+4. Serve topped with chopped almonds.
+:::
+
+:::lang bn
+# রাগি কলা আল হার্‌জ
+
+প্রচুর পরিমাণে কলা তৈরি করা
+
+## Instructions
+1. যতক্ষণ না সবকিছু মসৃণ হয়ে যায়।
+2. সসিয়ামপানে দুধ পড়ে, তারপর কাপড় পেস্ট করে ৮ মিনিট গরম গরমের সময় রান্না করে রান্না করা, ঘন না হওয়া পর্যন্ত।
+3. কলা আর সিন্নামন আর রান্না করে আরো ২ মিনিট রান্না করা।
+4. কা. পূ.
+:::
+
+:::lang ur
+# راجیہ سبھا المدنی پوٹھوہار -
+
+اِس لئے اُس نے اُن سے کہا : ” مَیں اُن کی بات مانتا ہوں ۔ “
+
+## Instructions
+1. یہاں تک کہ پانی بالکل ہموار ہو جاتا ہے ۔
+2. دودھ کو ملانے سے ، اس کے بعد ، راگ کے پَروں میں جذب ہو کر 8 منٹ تک کم درجہ حرارت پر پکایا جاتا ہے ، مسلسل موٹا رہتا ہے ۔
+3. اور 2 منٹ تک کھانا کھائیں ۔
+4. مونگ‌پھلی کے جھنڈوں سے لیس خدمت انجام دیں ۔
+:::

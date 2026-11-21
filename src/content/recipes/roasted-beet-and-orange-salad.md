@@ -86,3 +86,39 @@ prepTimeSource: 'https://www.loveandlemons.com/roasted-beet-salad/'
 3. एक्स्ट्रा व्हर्जिन ऑलिव्ह तेल, बाल्सॅमिक व्हिनेगर आणि चिमूटभर मीठ एकत्र फेटून घ्या.
 4. वाढण्याच्या अगदी आधी ड्रेसिंग कोशिंबिरीवर ओता.
 :::
+
+:::lang en
+# Roasted Beet and Orange Salad
+
+Sweet roasted beetroot slices paired with fresh orange segments, mixed greens, and a citrus vinaigrette.
+
+## Instructions
+1. Arrange mixed salad greens on a serving platter.
+2. Top greens with roasted beet slices and fresh orange segments.
+3. Whisk together extra virgin olive oil, balsamic vinegar, and a pinch of salt.
+4. Drizzle dressing over the salad just before serving.
+:::
+
+:::lang bn
+# শোঁত এবং কমলা সালাদ
+
+মিষ্টি কুমড়ার টুকরোগুলো নতুন কমলার টুকরো, মিশ্র সবুজ এবং একটি বিসিণিকা।
+
+## Instructions
+1. বিয়ারের মিশ্র সবুজ।
+2. সব সবুজ সবুজ রঙের টুকরো।
+3. [ অধ্যয়ন প্রশ্নাবলি]
+4. পরিবেশনের আগে সালাদের উপর হালকা কাপড় দেওয়া
+:::
+
+:::lang ur
+# بیت‌ایل میں داخل ہونا
+
+سوتے ہوئے سفید رنگ کے ہوتے ہیں ۔
+
+## Instructions
+1. ایک خدمت‌شُدہ پُل پر ہرے رنگ کے پتے ملا دیتے ہیں ۔
+2. اُوپر والے سبز رنگ کے ہوتے ہیں جنکے رنگ سبز ہوتے ہیں ۔
+3. اِس سے ظاہر ہوتا ہے کہ اِن میں زیتون کا تیل ، تیل اور نمک شامل ہیں ۔
+4. خدمت کرنے سے پہلے ہی مَیں اُن کے کپڑے پہنتا ہوں ۔
+:::

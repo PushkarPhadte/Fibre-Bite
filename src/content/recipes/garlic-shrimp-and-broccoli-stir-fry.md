@@ -100,3 +100,39 @@ prepTimeEstimated: true
 3. लसूण, आले आणि मिरची घाला; नंतर कोळंबी घालून ती गुलाबी होईपर्यंत 3 मिनिटे शिजवा.
 4. तमारी आणि लिंबाचा रस घालून एकत्र करा आणि भातावर वाढा.
 :::
+
+:::lang en
+# Garlic Shrimp and Broccoli Stir-Fry
+
+Quick stir-fried shrimp with broccoli, garlic and ginger, served over brown rice.
+
+## Instructions
+1. Cook the rice according to packet directions.
+2. Stir-fry the broccoli in the oil with 3 tablespoons of water for 4 minutes.
+3. Add the garlic, ginger and chilli, then the shrimp and cook for 3 minutes until pink.
+4. Add the tamari and lemon juice, toss and serve over the rice.
+:::
+
+:::lang bn
+# গ্রামি শ্রিম্প এবং ব্রোচিলি স্টেরি
+
+ভেরচিলি, রসুন আর নের সাথে দ্রুত উত্তেজিত চিংড়ি, বাদামি চাল।
+
+## Instructions
+1. প্যাকেট নির্দেশনা অনুযায়ী ভাতকে রান্না করো।
+2. তেলে চুরি করা ব্রোকোলিকে ৪ মিনিটের জন্য পানি দিয়ে ৩ মিনিট পানি দেয়া হয়েছে।
+3. রসুন, ভোদড় আর ঠান্ডা করো, তারপর চিংড়ি আর ৩ মিনিট রান্না করবে...
+4. তামা এবং লেবুর জুস যোগ করুন এবং চালের জন্য সেবা করুন।
+:::
+
+:::lang ur
+# Garlic Shrimp and Broccolli Fry -
+
+جلد ہی بریکولی، لہسن اور آمیزش کے ساتھ تیزی سے پھیلنے والی شریم نے بھورے چاول سے زیادہ خدمات انجام دیں۔
+
+## Instructions
+1. چاول کو فٹ بال کے مطابق کرو.
+2. تیل میں بریکولی 3 تختہ دار پانی کے ساتھ 4 منٹ تک۔
+3. اِس کے بعد اِس کے بعد اُس کی کھال میں تین منٹ تک پکایا جاتا ہے ۔
+4. اس میں تاماری اور ٹماٹر کا رس شامل کیا جاتا ہے اور چاول پر کام کرتا ہے۔
+:::

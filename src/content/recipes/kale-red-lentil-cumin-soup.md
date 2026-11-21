@@ -115,3 +115,42 @@ prepTimeEstimated: true
 4. केल मिसळून 4 मिनिटे शिजवा.
 5. लिंबाचा रस घाला. सूप जास्त घट्ट वाटल्यास थोडे गरम पाणी घालून घट्टपणा समायोजित करा.
 :::
+
+:::lang en
+# Kale and Red Lentil Soup with Cumin
+
+A fast, thick lentil soup with carrot, tomato and ginger and a handful of kale stirred in at the end.
+
+## Instructions
+1. Heat the oil, add the cumin seeds for 20 seconds, then the onion, garlic and ginger and cook for 5 minutes.
+2. Add the carrot, tomato and turmeric and cook for 3 minutes.
+3. Add the lentils, water and salt, bring to a boil and simmer for 18 minutes until the lentils collapse.
+4. Stir in the kale and cook for 4 minutes.
+5. Finish with the lemon juice and adjust the thickness with a splash of hot water.
+:::
+
+:::lang bn
+# কুমিনের সাথে ক্যাল ও রেড Letaল সোপ
+
+এক দ্রুত, মোটা পাঁপা সুপ, টমেটো এবং ভোদড়ের সাথে, আর শেষ পর্যন্ত বেশ কিছু কালের সৃষ্টি হয়।
+
+## Instructions
+1. তেল ঢালে, ২০ সেকেন্ড অন্তর বীজ যোগ করে, তারপর রসুন, রসুন আর রান্না করে ৫ মিনিট ধরে।
+2. চাকা, টমেটো আর টরমেরিক যোগ করো আর ৩ মিনিট রান্না করো।
+3. জল, জল ও লবণ যোগ করুন, ১৮ মিনিটের জন্য একটা সিদ্ধ ও গরম নিয়ে আসুন ।
+4. কায়েল আর বাবুর ৪ মিনিটের জন্য রান্না করে।
+5. লেবুর জুস দিয়ে শেষ করুন এবং গরম পানি দিয়ে তার সমন্বয় করুন।
+:::
+
+:::lang ur
+# کیل اور ریڈ لینٹل سوپ کے ساتھ
+
+اِس کے نتیجے میں اُن کے جسم میں بہت سی تبدیلی آئی ۔
+
+## Instructions
+1. تیل کو صاف کرنے کے لئے ۲۰ سیکنڈ تک اُس کے بیج کو ملا دیں ، پھر اونون ، لہسن اور مکھن اور ۵ منٹ تک پکایا جاتا ہے ۔
+2. ٹماٹر ، ٹماٹر اور ٹرک وغیرہ شامل کریں اور ۳ منٹ تک پکایا کریں۔
+3. اِس کے علاوہ وہ 18 منٹ تک مونگ‌پھلی ، پانی اور نمک کو پکاتے رہتے ہیں ۔
+4. کلے میں پکا کر 4 منٹ تک پکایا۔
+5. اِس کے بعد اِس کی تہہ گرم پانی میں تبدیل ہو جاتی ہے ۔
+:::

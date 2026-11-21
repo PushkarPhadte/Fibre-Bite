@@ -113,3 +113,39 @@ prepTimeEstimated: true
 3. गरम ताज्या सेनचा हिरव्या चहात गरम मीठ न घातलेला दाशीचा रस्सा आणि उरलेली कमी-सोडियम तामारी चहाच्या भांड्यात एकत्र करा.
 4. गरम ब्राउन राइसचे दोन खोल बाउलमध्ये ढीग करा; वर सॅल्मनचे तुकडे, भाजलेल्या नोरीच्या पट्ट्या, चिरलेला पातीचा कांदा, किसलेले आले आणि तीळ सजवा; नंतर गरम चहाचा रस्सा प्रत्येक बाउलच्या कडेकडून हळूच ओता.
 :::
+
+:::lang en
+# Japanese Salmon Ochazuke (Green Tea Over Brown Rice with Flaked Salmon)
+
+Restorative Japanese bowl pouring freshly brewed antioxidant-rich sencha green tea over nutty brown rice, oven-flaked wild salmon, toasted nori strips, scallions, and sesame.
+
+## Instructions
+1. Cook the brown rice in 280 ml of water until tender and fluffy.
+2. Brush the wild salmon fillet with half the low-sodium tamari and bake at 200°C for 10 to 12 minutes until just flaky, then break into coarse flakes.
+3. Combine the hot freshly brewed sencha green tea, hot unsalted dashi, and remaining low-sodium tamari in a teapot.
+4. Mound the warm brown rice into two deep bowls, arrange the flaked salmon, toasted nori strips, sliced scallions, grated ginger, and sesame seeds on top, and pour the hot tea broth gently down the side of each bowl.
+:::
+
+:::lang bn
+# জাপানী স্যালমন ওচাজুকে (গ্রীন চা ব্রাউন ভাতের উপর সবুজ চা)
+
+পুরোনো মিষ্টির পাত্র দিয়ে তৈরি মিষ্টি বাটিকল দিয়ে তৈরি মিষ্টি পানীয় তৈরি করা হয়েছে।
+
+## Instructions
+1. বাদামি ভাতকে ২৮০ মিটার পানির মধ্যে রান্না করো যতক্ষণ না কোমল আর ফ্লুর মতো হয়।
+2. বন্য সেলমোনের অর্ধেক কম সোডিয়ামের টিমা এবং ২০০ পাউন্ড পাউন্ড (প্রায় ১২ থেকে ১২ মিনিট পর্যন্ত) দিয়ে ভরা।
+3. গরম চা পান করা গরম চা, গরম গরম গরম, আর চায়ের উপরে কম রেস্তোরা টামারি।
+4. মৃগী বাদামের চিনিগুলো দুটা গভীর বাটি বাটি বাটি বাকলের মধ্যে দিয়ে তৈরি হয় ।
+:::
+
+:::lang ur
+# جاپان کی ایک ماہر اقتصادیات کا کہنا ہے کہ ” مَیں اِس بات پر بہت خوش ہوں کہ مَیں نے اُس کی مدد کی ہے ۔
+
+جاپانی پیالے میں تازہ بُری طرح سے antioxidant-rik sencha سبز چائے جو nioxidant Sencha Greena tain atoty Bluenious rious, Owan-flaking جنگلی مونگ پھلی، توپیں، سسیم وغیرہ شامل ہیں۔
+
+## Instructions
+1. پانی کو 280 ملی میٹر تک نرم اور زہریلے پانی میں پکایا۔
+2. جنگلی ریچھ آدھی کمیت کے ساتھ بھرتا ہے اور 200°C تک 10 سے 12 منٹ کے لئے.
+3. گرم تازہ بُرُدہ سبز چائے، گرم بے آب و ہوا اور ایک چائے میں کم مقدار میں کم سوڈیئم تیماری رہتی ہے۔
+4. گرم بھورے رنگ کے چاول کو دو گہرے برتنوں میں ملا کر رکھ دیا جاتا ہے ۔
+:::

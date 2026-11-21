@@ -134,3 +134,42 @@ prepTimeEstimated: true
 4. पाणी आणि मीठ घालून झाकण ठेवा आणि 20 मिनिटे मंद आचेवर शिजवा, चिकन मऊ व रस्सा घट्ट होईपर्यंत.
 5. कोथिंबिरीने सजवा आणि ब्राउन राइस किंवा संपूर्ण गव्हाच्या पावसोबत वाढा.
 :::
+
+:::lang en
+# Light Goan Chicken Xacuti
+
+Goa's famous roasted-spice and coconut curry, lightened with less coconut and oil but all the depth of the traditional masala.
+
+## Instructions
+1. Dry-roast the coconut, half the onion, sesame, coriander, cumin, pepper, whole spices and chilli in a pan for 6 to 8 minutes until deep brown, then grind with the garlic, ginger and tamarind to a smooth paste.
+2. Heat the oil and brown the remaining onion for 6 minutes, add the tomato and turmeric and cook for 4 minutes.
+3. Add the chicken and sear for 5 minutes, then stir in the masala paste and cook for 3 minutes.
+4. Pour in the water and salt, cover and simmer for 20 minutes until the chicken is tender and the gravy is thick.
+5. Garnish with coriander and serve with brown rice or whole-wheat pav.
+:::
+
+:::lang bn
+# হালকা Godan চিকেন Zataki
+
+গোয়া’র বিখ্যাত পুঁথি এবং নারিকেলের সসেজ কম নারিকেল ও তেলে হালকা হয়ে গেছে।
+
+## Instructions
+1. ড্রি-রোট, নারিকেলের অর্ধেক অংশ, সিরান্ডার, সিরিয়ান্ডার, মরিচ, মরিচ, মরিচের টুকরো, এবং ঠাণ্ডায় ভরা।
+2. সাড়ে ছয় মিনিট ধরে তেল এবং বাদামি রঙের মধ্যে দিয়ে গরম করা হয়।
+3. ৫ মিনিটের জন্য মুরগি ও সামুদ্রিক প্রাণীর সাথে যোগ করুন, এরপর মাসালা পেস্ট এবং ৩ মিনিট রান্না করুন।
+4. জল ও লবণে পিঁয়াজ, ২০ মিনিটের জন্য ঢেকে রাখা এবং মুরগির মাংস কোমল এবং মাংসের ঝোঁক হওয়া ঘন হয়ে থাকে ।
+5. সাক্রান্ডার এবং বাদামি চাল অথবা পুরো হুট পেভ-এর সাথে কাজ করা।
+:::
+
+:::lang ur
+# روشنی گون چیکن ایککوٹی -
+
+گوا کی مشہور تلچھٹ اور ناریل کی نالی، کم ناریل اور تیل سے ہلکا لیکن روایتی ماسلہ کی ساری گہرائی۔
+
+## Instructions
+1. ناریل ، نصف اونس ، سیسم ، کوریاندر ، کویندر ، کیک ، پوری خوشبوؤں اور خوشبوؤں کو ایک نان میں ۶ سے ۸ منٹ تک پکایا جاتا ہے ۔
+2. تیل اور بھورے رنگ کا بقیہ حصہ 6 منٹ تک رہتا ہے، اس میں ٹماٹر اور ٹرمیر شامل کرکے 4 منٹ تک پکایا جاتا ہے۔
+3. مرغی اور مرغی کو ۵ منٹ تک شامل کریں ، پھر ماسلا کے فرش میں ہل کر ۳ منٹ تک پکایا جاتا ہے ۔
+4. جب تک مرغی نرم نہ ہو اور بھاری ہو ۔
+5. گارنیش کوریانڈر کے ساتھ خدمت کرتا ہے اور بھورے چاول یا پورے سرے کی پاو سے خدمت کرتا ہے۔
+:::

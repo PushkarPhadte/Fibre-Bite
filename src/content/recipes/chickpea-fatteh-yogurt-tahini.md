@@ -119,3 +119,42 @@ prepTimeEstimated: true
 4. उथळ भांड्यात पीटाचा थर लावा, जिऱ्यासह गरम हरभरे त्यावर घाला आणि मग दह्याचा सॉस ओता.
 5. भोपळ्याच्या बिया तेलात तडतडेपर्यंत भाजा, पाप्रिकासह वरून घाला आणि पार्सलीने सजवून पूर्ण करा.
 :::
+
+:::lang en
+# Chickpea Fatteh with Garlic Yogurt and Tahini
+
+A Levantine layered dish of toasted pita, warm chickpeas and garlicky yogurt tahini sauce, topped with toasted pumpkin seeds and paprika.
+
+## Instructions
+1. Soak the chickpeas overnight and simmer in fresh water for 50 to 60 minutes until soft. Drain, keeping 100 ml of the cooking liquid.
+2. Tear the pita into pieces and toast in a 200 C oven for 8 minutes until crisp.
+3. Whisk the yogurt with the tahini, garlic, lemon juice, salt and a splash of the reserved liquid.
+4. Layer the pita in a shallow dish, spoon over warm chickpeas with the cumin and then the yogurt sauce.
+5. Toast the pumpkin seeds in the oil until they pop, pour over with the paprika and finish with parsley.
+:::
+
+:::lang bn
+# গ্রামিক ইয়াগুর এবং তাহনির সাথে মুরগিপেটা ফাত্তাহ
+
+টোস্টিং পুটা, গরম মুরগি এবং রসুনকি ডোরাগিনি সস, যা টোস্টিং বীজ এবং পাম্পিকার সাথে মিলে যায়।
+
+## Instructions
+1. রাতের বেলা মুরগিগুলো আর নরম না হওয়া পর্যন্ত ৫০ থেকে ৬০ মিনিট পর্যন্ত তাজা পানিতে ভরে যায়। শান্ত, ১০০ মিটার রান্নার তরল পদার্থ রাখা.
+2. গর্তটা টুকরো করে ২০০টা CP এ ৮ মিনিটের জন্য 1 মিনিট 1 মিনিট 1 মিনিটের জন্য.
+3. রসুন, লেবুর জুস, লবণ এবং সংরক্ষিত তরল পদার্থের এক টুকরো ।
+4. একটি অগভীর খাবারের উপর ভিত্তি করে কাটার স্তর।
+5. তেলে কুমড়ার বীজ যতক্ষণ না তেলে পড়ে যায়, ততক্ষণ পর্যন্ত তারা প্যাপ্রারিকার সাথে মিশিয়ে প্যারিকা দিয়ে শেষ হয়।
+:::
+
+:::lang ur
+# چیکپا فاتح کے ساتھ Garlic Yogurt اور Tahni
+
+اِس کے بعد اُس نے اِن بیجوں کو ملا کر اُس کی مدد کی ۔
+
+## Instructions
+1. اِس کے بعد اُس نے اِس پانی کو صاف کر دیا ۔ دنن ، کھانا پکانے کے لئے ۱۰۰ ملی‌میٹر تک پکاتے ہیں ۔
+2. بخارات کو ٹکڑوں میں ملا کر ایک 200 سی اوور میں 8 منٹ تک سوراخ کریں ۔
+3. اِن میں سے ایک نمک ، لہسن ، لہسن ، نمک اور نمک شامل ہیں ۔
+4. اِس کے بعد اِس گڑھے کو اُوپر سے اُوپر کی طرف اُبال کر اِس کی تہہ میں رکھ دیں ۔
+5. تیل میں پمپ کے بیج اُس وقت تک پک جاتے ہیں جب تک کہ وہ پوپ نہیں ہوتے ، پُرکیکا سے اُوپر اُتار دیتے ہیں اور اُس کے ساتھ تیل ختم کر دیتے ہیں ۔
+:::

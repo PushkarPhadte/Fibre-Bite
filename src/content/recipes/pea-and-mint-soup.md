@@ -79,3 +79,36 @@ prepTimeEstimated: true
 2. वाटाणे घालून 5 मिनिटे शिजवा.
 3. पुदिना घालून सूप गुळगुळीत होईपर्यंत वाटा. मीठ आणि काळी मिरी घालून चव जुळवा आणि पुन्हा गरम करा.
 :::
+
+:::lang en
+# Pea and Mint Soup
+
+A bright green soup of peas, potato and mint, blended smooth.
+
+## Instructions
+1. Cook the onion in the oil until soft, then add the potato and water and simmer for 10 minutes.
+2. Add the peas and cook for 5 minutes.
+3. Add the mint, blend until smooth, season with salt and pepper and reheat.
+:::
+
+:::lang bn
+# পে এবং মিনট সোম
+
+আলু, আলু এবং মিন্টের উজ্জ্বল সবুজ সুপ
+
+## Instructions
+1. নরম না হওয়া পর্যন্ত তেলে ভর দিন, তারপর আলু ও জল যোগ করুন ১০ মিনিটের জন্য।
+2. সুই এবং রান্না করুন ৫ মিনিটের জন্য।
+3. আপনি হয়তো আপনার ঘুমের ওষুধ খেতে পারেন ।
+:::
+
+:::lang ur
+# پے اور منٹ سوپ
+
+اِس کے بعد اُس نے ایک شاندار سبز صابن تیار کِیا ۔
+
+## Instructions
+1. تیل میں اونس کو نرم کرنے تک کُل‌وقتی طور پر استعمال کِیا جاتا ہے ۔
+2. پیکوں کو شامل کریں اور 5 منٹ تک پکا لیں۔
+3. اِس میں نمک اور مکھن شامل کرنے کے لئے استعمال کئے جاتے ہیں ۔
+:::

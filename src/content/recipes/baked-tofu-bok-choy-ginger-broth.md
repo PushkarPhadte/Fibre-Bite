@@ -104,3 +104,39 @@ prepTimeEstimated: true
 3. बेबी बोक चॉय घाला आणि देठ किंचित कुरकुरीत राहून मऊ होईपर्यंत 3 मिनिटे मंद आचेवर शिजवा.
 4. वाडग्यांत रस्सा आणि बोक चॉय वाढा. वरून बेक केलेले टोफूचे तुकडे आणि उरलेले तेल घाला.
 :::
+
+:::lang en
+# Baked Tofu and Bok Choy Ginger Broth
+
+Crispy oven-baked firm tofu cubes served in a restorative ginger-garlic broth with tender baby bok choy.
+
+## Instructions
+1. Toss tofu cubes with half the oil and bake at 200 C for 18 minutes until golden and firm.
+2. Simmer vegetable broth, ginger slices, smashed garlic, and soy sauce in a pot for 8 minutes.
+3. Add baby bok choy and simmer for 3 minutes until stems are crisp-tender.
+4. Ladle broth and bok choy into bowls and top with baked tofu cubes and remaining oil.
+:::
+
+:::lang bn
+# বাড টফু আর বোক চোই Ging Broa
+
+ক্রিসপি চুলা চুলা টফু কিউবসকে পুন:স্থাপন করা হয়েছে রেস্তরাঁয় ছোট বাচ্চা চোচ দিয়ে।
+
+## Instructions
+1. গোল্ডেন আর ফার্মের অর্ধেক তেল আর কেক দিয়ে টফু কিউব।
+2. সিয়ামের সবজি ব্রোথ, ডোরাকাটা টুকরো, রসুন ভেঙ্গে, আর সয়া সস ৮ মিনিট ধরে।
+3. বাচ্চা চোই আর সিমমের সাথে ৩ মিনিটের জন্য যোগ করো।
+4. লাডল ব্রোথ এবং ছাকে বাটি, টফু কিউব এবং অবশিষ্ট তেল।
+:::
+
+:::lang ur
+# بکیڈ توفو اور بوکی چے گنجر بارتھ
+
+Crispy Outwan-baked found Tufu Kobes ایک بحالی آمیز جڑی بوٹیوں میں Special-gorlic Broth by Special bok Choy کے ساتھ کام کیا۔
+
+## Instructions
+1. اِس کے بعد اُس نے اُسے تیل اور تیل ملانے کی کوشش کی ۔
+2. اِس کے علاوہ اُس نے اِس بات کا بھی خیال رکھا کہ اِس میں کوئی شک نہیں ہے ۔
+3. اس کے علاوہ بچے کو بوکی اور 3 منٹ کے لیے بھی شامل کریں جب تک کہ خلیات کو کریسپ-پرے نہیں ہوتے
+4. لالہ برتھ اور بوک چوئی کو شیشوں میں ملا کر پکا کر پکایا جاتا ہے اور تیل باقی بچتا ہے۔
+:::

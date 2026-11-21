@@ -88,3 +88,39 @@ prepTimeSource: 'https://minimalistbaker.com/easy-vegan-miso-ramen/'
 3. भाजीचा रस्सा ओता आणि मंद आचेवर उकळी येऊ द्या.
 4. मिसो पेस्ट विरघळेपर्यंत फेटून मिसळा, पालक घालून तो कोमेजेपर्यंत शिजवा, नूडल्सवर रस्सा ओता आणि हिरव्या कांद्याने सजवा.
 :::
+
+:::lang en
+# Japanese Mushroom Miso Ramen (Light)
+
+A soothing noodle soup featuring savory miso broth, earthy mushrooms, baby spinach, and ramen noodles.
+
+## Instructions
+1. Cook ramen noodles in boiling water until tender; drain and set aside.
+2. Heat sesame oil in a pot and sauté sliced mushrooms and garlic until tender.
+3. Pour in vegetable broth and bring to a simmer.
+4. Whisk in miso paste until dissolved, add spinach until wilted, pour over noodles, and garnish with green onions.
+:::
+
+:::lang bn
+# জাপানি মাসশরুম মিসো রামেন (হালকা)
+
+এক চমৎকার নুডুলস সুপের মধ্যে রয়েছে মজাদার কুয়াশা, মাটির মাশরুম, শিশু স্পিন এবং রামেন নুডলস।
+
+## Instructions
+1. কুক রামেন নুডলস জলের মধ্যে ডুবে যায় ।
+2. তা হলে, কীভাবে?
+3. সবজি ভ্রাতৃষ্ণ এবং একটি সিমমার নিয়ে আসে।
+4. যতক্ষণ না খালি হয়ে যায়, ততক্ষণ পর্যন্ত হুইস্কিকে কেটে ফেলা হয় ।
+:::
+
+:::lang ur
+# جاپانی ماسو رمن (انگریزی:
+
+ایک پُرسکون نوابی صابن نے پُراسرار طور پر غلط‌فہمی ، مٹی کے ذرّوں ، بچوں کی ریڑھ کی ہڈی اور رم‌مین نیوڈز کو نشانہ بنایا ۔
+
+## Instructions
+1. جب تک نرم پانی میں کُل‌وقتی خدمت نہیں کی جاتی ، اِس کے بعد اُسے اُٹھا کر رکھ دیں ۔
+2. اِس کے بعد اُس نے اُس سے پوچھا : ” کیا مَیں اِس بات کا یقین کر سکتا ہوں کہ مَیں اُس کے ساتھ ہوں ؟ “
+3. پودوں کے بُرے پودوں میں اُگ کر اُن کی خوراک حاصل کریں ۔
+4. اِس کے علاوہ اِس میں کوئی شک نہیں کہ اُس نے اِس بات کو دریافت کِیا ۔
+:::

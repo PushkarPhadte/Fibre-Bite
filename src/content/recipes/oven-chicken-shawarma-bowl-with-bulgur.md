@@ -110,3 +110,42 @@ prepTimeEstimated: true
 4. दह्यात उरलेला लसूण, लिंबाचा रस आणि मीठ मिसळा.
 5. बुलगुरवर चिकन, काकडी, टोमॅटो, पार्सली आणि दह्याचा सॉस घालून वाढा.
 :::
+
+:::lang en
+# Oven Chicken Shawarma Bowl with Bulgur
+
+Spiced oven-roasted chicken thigh over bulgur with cucumber, tomato and yogurt sauce.
+
+## Instructions
+1. Marinate the chicken in the spices, half the garlic, half the lemon juice, the oil and half the salt for 20 minutes.
+2. Roast at 220 °C for 22 minutes until cooked through, rest, then slice.
+3. Cover the bulgur with boiling water, rest 15 minutes, and fluff.
+4. Mix the yogurt with the remaining garlic, lemon juice and salt.
+5. Serve the bulgur topped with chicken, cucumber, tomato, parsley and the sauce.
+:::
+
+:::lang bn
+# বুলেগুরের সাথে ওভেন মুরগির শর্মা বোল
+
+রান্নার কাজে তৈরি মুরগির মাংসের ঝোঁক, টমেটো আর দের সস।
+
+## Instructions
+1. এই মুরগির মাংস, অর্ধেক রসুন, লেবুর জুস, ২০ মিনিট লবণের অর্ধেক।
+2. ২২ মিনিটের জন্য দুপুর ২২০ ডিগ্রি সেলসিয়াস পর্যন্ত রান্না করা, বিশ্রাম নেওয়া, তারপর টুকরো করা।
+3. পানি, বাকি ১৫ মিনিট এবং ফ্লুর মত শকুন।
+4. বাকি রসুন, লেবুর জুস আর লবণ দিয়ে দাও।
+5. মুরগি, পোদাল, টমেটো, প্যাসলি এবং সস দিয়ে পরিবেশন করুন ।
+:::
+
+:::lang ur
+# اُنہوں نے کہا : ” مَیں نے اپنی زندگی میں تبدیلیاں کیں ۔
+
+اسپیکیڈ اوور-کری مرغی کا گوشت بلغم کے اوپر ککمبر، ٹماٹر اور آلو کے ساتھ.
+
+## Instructions
+1. اِس کے بعد اُس نے اُس سے کہا : ” مَیں اِس بات کی قدر کرتا ہوں کہ مَیں نے اُس سے کہا کہ مَیں اُس کا شکر ادا کروں ۔ “
+2. 22 منٹ تک 22 منٹ کے اندر اندر اندر داخل ہو جاؤ جب تک کہ پکا ہوا، آرام نہ ہو،
+3. پانی کو گرم کرنے والے کو صاف کرنے ، ۱۵ منٹ تک آرام کرنے اور اُس کی کھال کو صاف کرنے میں مدد دیں ۔
+4. باقی لہسن ، ٹماٹر اور نمک کے ساتھ ملا کر رکھیں ۔
+5. اِس سے ظاہر ہوتا ہے کہ اُس نے اِس بات پر غور کِیا کہ اُس نے اُن کی مدد کیسے کی ۔
+:::

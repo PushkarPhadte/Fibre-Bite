@@ -116,3 +116,39 @@ prepTimeEstimated: true
 3. आच कमी करा, स्किम मिल्क ओता आणि रानटी सॅल्मनचे तुकडे हलकेच उकळत्या शोरब्यात सोडा.
 4. न ढवळता 4 ते 5 मिनिटे पोच करा, सॅल्मन सहज पाकळ्यांसारखा सुटेपर्यंत. आचेवरून उतरवा, ऑलस्पाइसचे दाणे काढून टाका आणि चिरलेली ताजी शेपू मिसळा.
 :::
+
+:::lang en
+# Finnish Lohikeitto (Light Salmon, Leek, Potato, and Dill Soup)
+
+Nordic comfort soup featuring omega-3-rich wild salmon chunks, sweet leeks, carrots, and waxy potatoes gently poached in a light milk-enriched broth perfumed with allspice and abundant fresh dill.
+
+## Instructions
+1. Warm the olive oil in a Dutch oven over medium-low heat and sweat the sliced leek for 5 minutes until soft and sweet without browning.
+2. Add the diced potatoes, sliced carrots, vegetable broth, allspice berries, and salt; bring to a gentle boil and simmer 12 minutes until the vegetables are fork-tender.
+3. Reduce heat to low, pour in the skim milk, and gently slide the wild salmon cubes into the simmering broth.
+4. Poach undisturbed for 4 to 5 minutes until the salmon flakes easily, remove from heat, discard the allspice berries, and fold in the fresh chopped dill.
+:::
+
+:::lang bn
+# ফিনিশ লোহকিটটো (লিওল স্যালমন, লীক, পটাটো এবং দিলাল সোপ)
+
+ওমেগা-৩-চৈমি-চরী সেলমোন, মিষ্টি মাছ, কারু, এবং মোম আলু আলু আলু আলু হালকাভাবে হালকা দুধ দিয়ে রান্না করে।
+
+## Instructions
+1. মাঝারি তাপমাত্রায় তেল তেলে তেল ঢালে এবং পাঁচ মিনিট ঘামতে পারে।
+2. পাশার আলু, স্লাড কাররোট, সবজি, সবজি, ফলি আর লবণ যোগ করুন।
+3. গরমের পরিমাণ হ্রাস করুন, স্কিম দুধে ঢালুন এবং বন্য লবণ ঘন ঘন ঘন ঘন ঘন ঘন ঘন ঘন ঘন ঘন ঘন ঘন ঘন ঘন ঘন ঘন ঘন ঘন ঘন ঘন ঘন ঘন ঘন ঘন ঘন ঘন ঘন ঘন ঘন ঘন ঘন ঘন করে ব্রোটে ।
+4. অল্প কয়েক মিনিটের জন্য পচস্‌ ৪ থেকে ৪ মিনিট স্থির থাকে যতক্ষণ না সাশ্রয়ীরা সহজেই গরমের মধ্যে চলে যায়, কলিগুলো বের হয়ে আসে এবং তাজা আখের টুকরো দিয়ে ঢেকে দেয়।
+:::
+
+:::lang ur
+# فن لینڈ لوہیکیتو (انگریزی: Finlands, Lek, Poto, and Dill Soup)
+
+شمالی تسلی‌بخش صابن تیار کرنے والے ایمیگا-3 مُلک کے جنگلی چیتے ، میٹھا دودھ ، سُرخ رنگ اور وُوے وغیرہ ہلکے دودھ سے تیار کئے جانے والے بُرُوت میں سبسپِس کے ساتھ مل کر اور بہت سے تازہ ڈِل سے تیار کئے گئے ۔
+
+## Instructions
+1. نیدرلینڈز میں زیتون کے تیل کو درمیانے درجہ حرارت پر گرم کرکے 5 منٹ تک نرم اور میٹھا بغیر بھورے رنگ کے میٹھا ہوتا ہے۔
+2. اِس میں اُس وقت تک شامل ہو جاتا ہے جب تک سبزیوں کا استعمال نہ ہو ۔
+3. سردیوں میں گرم ہونا ، سکیم کے دودھ میں ڈال دینا اور نرم‌مزاجی سے جنگلی چیتوں کو خشک‌سالی میں لیجانا ۔
+4. اِس کے علاوہ اُس نے اِس بات کا بھی خیال رکھا کہ اِس میں کوئی تبدیلی نہیں آئے گی ۔
+:::

@@ -88,3 +88,36 @@ prepTimeEstimated: true
 2. फणसाचे तुकडे आणि हिरवे वाटाणे घालून ३ मिनिटे ढवळा; नंतर धुतलेला ब्राउन बासमती तांदूळ मिसळा.
 3. पाणी घालून भांडे घट्ट झाका आणि मंद आचेवर २८ ते ३२ मिनिटे शिजवा; पाणी पूर्ण आटून तांदळाचे दाणे मऊ झाले पाहिजेत.
 :::
+
+:::lang en
+# Spiced Jackfruit and Green Pea Pulao
+
+Aromatic brown basmati rice pilaf simmered with tender unripe jackfruit, green peas, and whole spices.
+
+## Instructions
+1. Heat ghee or oil in a heavy pot over medium heat and splutter cumin seeds and turmeric for 30 seconds.
+2. Add cubed jackfruit and green peas, stirring for 3 minutes before mixing in rinsed brown basmati rice.
+3. Add water, cover tightly, and simmer over low heat for 28 to 32 minutes until liquid is absorbed and grains are tender.
+:::
+
+:::lang bn
+# রকস্টার জ্যাকি এবং সবুজ পেলা Palao
+
+আলেহান্দ্রো বাদামি বাগানের রসালো কাটা কাটা কাটা, সবুজ মটরশুঁটি এবং পুরো মসলা দিয়ে ঢাকা।
+
+## Instructions
+1. প্রচুর পরিমাণে গরমের মধ্যে হেট জিপ বা তেল বা তেল, ৩০ সেকেন্ডের জন্য বীজ ও অন্তর্ঘাতের বীজের অভাব।
+2. এতে কিউবের কাটা ফল এবং সবুজ মটরশুঁটি যোগ করুন, তিন মিনিটের জন্য উৎসাহ প্রদান করা হয়।
+3. জলকে শক্ত করে ঢেকে রাখুন এবং ২৮ থেকে ৩২ মিনিটের বেশি গরমের জন্য জল সরবরাহ করুন ।
+:::
+
+:::lang ur
+# اسپڈ جیک پھل اور گرین پے پیولاؤ
+
+اِس کے علاوہ اُنہوں نے اِن پھلوں سے بھی فائدہ اُٹھایا ۔
+
+## Instructions
+1. حرارت یا تیل درمیانے درجۂ‌حرارت اور سُپر‌اپور کے بیج اور ۳۰ سیکنڈ تک بھاری مقدار میں ہوتا ہے ۔
+2. اِس کے علاوہ اِن میں سے تین منٹ تک سبز پھل اور ہرے پَروں کو ملا دیا جاتا ہے ۔
+3. جب تک پانی جذب نہ ہو جائے اور دانے نرم نہ ہوں ۔
+:::

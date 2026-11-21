@@ -87,3 +87,39 @@ prepTimeEstimated: true
 3. नॉन-स्टिक पॅनमध्ये तेल गरम करून अंड्याच्या मिश्रणाचे पातळ ऑम्लेट शिजवा आणि त्याचे दोन भाग करा.
 4. प्रत्येक पोळीवर ऑम्लेटचा एक भाग ठेवा, गुंडाळा आणि वाढा.
 :::
+
+:::lang en
+# Egg and Spinach Roti Roll
+
+A whole wheat roti rolled around a spinach and onion omelette.
+
+## Instructions
+1. Knead the flour with water into a dough and cook two thin rotis on a dry griddle.
+2. Beat the eggs with the spinach, onion, chilli, pepper and salt.
+3. Cook the egg mixture in the oil as a thin omelette in a non-stick pan and cut in half.
+4. Place an omelette half on each roti, roll up and serve.
+:::
+
+:::lang bn
+# ডিম এবং স্পিনিং রোটি গড়িয়ে দিন
+
+পুরো গমের মাংস ঘুরে ঘুরে ঘুরে ঘুরে বেড়াত।
+
+## Instructions
+1. জল দিয়ে আটা তৈরি করা ও শুকানোর জন্য তৈরি করা হয় ।
+2. ডিমগুলো ধাক্কা দিয়ে আঘাত করে ডিমটি।
+3. ডিমের মিশ্রণকে তেলের মাঝে হালকা সসস্টিক প্যান হিসেবে রান্না করে।
+4. পিংকির অর্ধেকটা রাখো, উঠে যাও আর কাজ করো।
+:::
+
+:::lang ur
+# ایگ اور سپیناک رتی رول
+
+ایک پورے گندم کی راکھ ایک ریڑھ کی ہڈی اور اونن ایملیٹ کے گرد گھومتی تھی ۔
+
+## Instructions
+1. اِس کے بعد اُس نے اِس بات کا ذکر کِیا کہ اُس نے اُس کی مدد کی ہے ۔
+2. انڈوں کو جو ریڑھ کی ہڈی ، اونین ، سُرخ اور نمکین ہوتے ہیں ۔
+3. تیل میں ملائم آمیز آمیزے کو غیر زہریلے پن میں تبدیل کرکے نصف میں کاٹ دیا جاتا ہے۔
+4. ہر رُکی پر نصف کر دیں ، رول لگائیں اور خدمت کریں ۔
+:::

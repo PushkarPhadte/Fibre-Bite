@@ -86,3 +86,39 @@ prepTimeEstimated: true
 3. लीक्समध्ये चिरलेला टॅरॅगॉन आणि लिंबाचा रस मिसळा.
 4. शिजवलेले चिकन ब्रेस्ट कापून औषधी वनस्पती मिसळलेल्या लीक्ससोबत वाढा.
 :::
+
+:::lang en
+# Poached Chicken Breast with Leeks and Tarragon
+
+Gentle poached chicken breast served alongside tender sweet leeks and aromatic fresh tarragon.
+
+## Instructions
+1. Bring water to a gentle simmer in a wide skillet, add chicken breasts, cover, and poach for 12 to 15 minutes until cooked through.
+2. Meanwhile, warm olive oil in a separate pan over medium heat and cook sliced leeks for 7 minutes until tender.
+3. Toss leeks with chopped tarragon and lemon juice.
+4. Slice the poached chicken and serve alongside the herb leeks.
+:::
+
+:::lang bn
+# লিক আর টারগনের সাথে পচেড মুরগীর ব্রেট
+
+কোমল মুরগির বুক কোমল মিষ্টির রস ও গন্ধযুক্ত তাজা মৃগীর সঙ্গে পরিবেশন করা হতো ।
+
+## Instructions
+1. রান্না করা না হওয়া পর্যন্ত মুরগির মাংস, ঢেকে ১২ থেকে ১৫ মিনিট সময় লাগবে ।
+2. এই সময়ের মধ্যে, মাঝারি পরিমাণে গরম ও রান্না করার সময় কোমল না হওয়া পর্যন্ত ৭ মিনিট ধরে গরম জলপাই তেল।
+3. আখের টুকরো আর লেবুর জুস দিয়ে টস।
+4. মুরগির মাংস টুকরো করে তার গলি দিয়ে পরিবেশন করো.
+:::
+
+:::lang ur
+# پوکیڈ چیکن لیکس اور تراگون کے ساتھ
+
+نرم‌مزاج مرغی کے سینہ میں خوشبودار مشروبات اور خوشبودار تازہ‌دمے شامل تھے ۔
+
+## Instructions
+1. جب تک اسے پکا نہ کِیا جائے ، اُس وقت تک مرغی کے سینے ، چادر اور پُوے میں پانی ڈالا جاتا ہے ۔
+2. اس دوران ، گرم زیتون کا تیل درمیانے گرم گرم گرم موسم میں ایک الگ پن میں تبدیل ہو جاتا ہے اور شفقت سے لطف‌اندوز ہونے تک ۷ منٹ تک اسے پکایا جاتا ہے ۔
+3. اِس کے بعد اُس نے اُس سے کہا : ” اَے میرے بیٹے !
+4. اِس کی ایک وجہ یہ ہے کہ اُس نے اِس پر تحقیق کی ۔
+:::

@@ -91,3 +91,39 @@ prepTimeEstimated: true
 3. पास्ता अल डेंटे पर्यंत शिजवा आणि काढून टाका.
 4. पास्ता सॉस आणि भाज्या आणि तुळस सह टॉस.
 :::
+
+:::lang en
+# Whole Wheat Penne Arrabbiata with Roasted Vegetables
+
+Spicy tomato-garlic sauce over whole wheat penne with roasted zucchini and peppers.
+
+## Instructions
+1. Roast the zucchini and pepper with a little of the oil at 220 °C for 20 minutes.
+2. Cook the garlic and chilli in the remaining oil for 30 seconds, add the passata and salt and simmer for 12 minutes.
+3. Cook the pasta until al dente and drain.
+4. Toss the pasta with the sauce and vegetables and top with basil.
+:::
+
+:::lang bn
+# গোটা ওয়াট পেনে আরাববিয়ার মাংস দিয়ে তৈরি ভেলা
+
+ছোট টমেটোর সস, পুরো গমের কলমের সস।
+
+## Instructions
+1. ২০ মিনিট ধরে তেল দিয়ে জুচিনি আর মরিচের টুকরো দিয়ে ২০ মিনিট বাড়িয়ে দিন।
+2. ৩০ সেকেন্ড ধরে অবশিষ্ট তেলে রসুন আর ঠাণ্ডার সাথে সাথে পাসটা আর লবণ আর ১২ মিনিট লাগবে।
+3. কা.
+4. সস এবং সবজি দিয়ে পাস্তা।
+:::
+
+:::lang ur
+# اُس نے کہا : ” مَیں نے اِس بات پر غور کِیا ہے کہ مَیں اُس کی بات مانتا ہوں ۔
+
+اسپیکی ٹماٹر-گرلک کے ساتھ پورے گندم کے پن کے اوپر پکایا جس میں جل کر پکتی ہے
+
+## Instructions
+1. اِس کے علاوہ اِس تیل میں ۲۰ منٹ کے لئے تیل بھی شامل کِیا جاتا ہے ۔
+2. 30 سیکنڈ تک باقی تیل میں لہسن اور چربی کو کُل‌وقتی طور پر استعمال کِیا جاتا ہے ۔
+3. اِس کے بعد اِس بات پر غور کریں کہ اِس میں کیا کچھ شامل ہے ۔
+4. توپ اور سبزیوں کے ساتھ اور سب سے اوپر بیسل کے ساتھ پائی جاتی ہے۔
+:::

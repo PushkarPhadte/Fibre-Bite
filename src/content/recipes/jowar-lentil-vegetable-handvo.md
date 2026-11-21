@@ -125,3 +125,42 @@ prepTimeEstimated: true
 4. मिश्रणात बेकिंग सोडा घालून हलक्या हाताने मिसळा. ते फोडणीच्या कढईत समान पसरवा आणि वर उरलेले तीळ भुरभुरा.
 5. 32 ते 35 मिनिटे बेक करा; वरचा भाग सोनेरी तपकिरी आणि कडा कुरकुरीत झाल्या पाहिजेत. चौकोनी किंवा त्रिकोणी तुकडे कापण्यापूर्वी 10 मिनिटे तसेच ठेवा.
 :::
+
+:::lang en
+# Baked Jowar and Lentil Handvo (Savory Millet Cake)
+
+High-fiber Gujarati oven-baked savory cake combining sorghum flour, soaked lentils, grated bottle gourd, and carrots beneath a toasted sesame crust.
+
+## Instructions
+1. Drain the soaked chana dal and toor dal and pulse in a food processor with the yogurt and 60 ml of water into a coarse, thick batter.
+2. Stir in the sorghum flour, grated bottle gourd, grated carrot, ginger, turmeric-cumin powder, and salt; rest covered for 30 minutes while preheating the oven to 190°C.
+3. Heat the sunflower oil in an ovenproof 22 cm cast-iron skillet, crackle the mustard seeds, curry leaves, and half the sesame seeds, then turn off the heat.
+4. Fold the baking soda into the batter, spread evenly into the tempered skillet, and scatter the remaining sesame seeds over the surface.
+5. Bake for 32 to 35 minutes until golden brown and crisp at the edges; rest 10 minutes before slicing into wedges.
+:::
+
+:::lang bn
+# পরাজিত জোয়র এবং লিটল হ্যান্ডভো (সুর্থ মিল কেক)
+
+হাই-ফিবার গুজরাটি-এর স্টর্স-এর তৈরি করা কেক, যা শূককীট দিয়ে তৈরি করা হয়েছে।
+
+## Instructions
+1. একটা খাদ্য প্রসেসরের মধ্যে পিঁয়াজ আর কাঁটার পাত্রের মধ্যে দিয়ে পানি আর ৬০ মিটার উঁচু, ঘন শূককীট, ঘন শূককীট।
+2. মিশিগানের আটা, আঙ্গুর বোতলের আঙ্গুর, আঙ্গুর, টরেন্ট, টরেন্ট, টর্চার-প্লান পাউডার এবং লবণ; বিশ্রামের জন্য ৩০ মিনিট সময় ধরে।
+3. ২০ সেন্টিমিটারের উপরে সূর্যমুখী তেলে তেল ঢেলে, শস্যের বীজ ভেঙ্গে ফেল, আর অর্ধেক শুকায়, তারপর তাপ বন্ধ করে দেয়।
+4. কিন্তু, এই বিষয়টা স্পষ্ট হয়ে ওঠে যে, আপনি যদি আপনার সাথির সঙ্গে কথা বলেন, তা হলে আপনি কী করতে পারেন?
+5. বেক ৩২ থেকে ৩৫ মিনিট ৩৫ মিনিট পর্যন্ত, সোনার বাদাম আর স্ক্রিপ না হওয়া পর্যন্ত, আর ১০ মিনিট আগে।
+:::
+
+:::lang ur
+# بیلے جوار اور لینٹل ہینڈو (انگریزی: Saward Millet Koke) ہے۔
+
+ہائی وے گجراتی ووے کیک، سرنگ کے آٹے کو ملانے، گندم کے آٹے کو ملانے، بوتل کے درخت کے نیچے کیچڑ کے نیچے
+
+## Instructions
+1. اِس کی وجہ یہ ہے کہ اُس نے اِس پانی کو صاف کرنے کے لئے استعمال کِیا ۔
+2. چاول کے آٹے میں موجود تیل ، مکئی کے درخت ، گندھک ، گندھک اور نمک ؛ ۳۰ منٹ تک ڈھانپے جبکہ اوون کو 190°C تک ڈھانپنا ۔
+3. سورج‌مکھی کے تیل کو ایک اوون‌وونکل میں 22 سینٹی‌میٹر کی دُنیا میں تبدیل کر دیا جاتا ہے ۔
+4. اِس کے بعد اُس نے اِس پودے کو مار ڈالا ۔
+5. ۳۲ سے ۳۵ منٹ تک سونے کے بھورے رنگ اور کناروں پر سوراخ ؛ ۱۰ منٹ پہلے کی طرح آرام کریں ۔
+:::

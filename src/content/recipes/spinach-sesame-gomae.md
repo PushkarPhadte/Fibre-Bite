@@ -73,3 +73,36 @@ prepTimeEstimated: true
 2. तीळ, तमारी, व्हिनेगर आणि आले एकत्र करून पेस्ट बनवा.
 3. ही पेस्ट पालकात मिसळून एकत्र करा आणि वाढा.
 :::
+
+:::lang en
+# Spinach Sesame Gomae
+
+A Japanese side of blanched spinach in a ground sesame and tamari dressing.
+
+## Instructions
+1. Blanch the spinach in boiling water for 1 minute, plunge into cold water and squeeze dry.
+2. Mix the sesame, tamari, vinegar and ginger into a paste.
+3. Toss with the spinach and serve.
+:::
+
+:::lang bn
+# স্পিনুচে সেম গোইমা
+
+একটি মাটির উপর কাঠের চুনপোকার একটি জাপানি দিক।
+
+## Instructions
+1. শুকনা জলকে ১ মিনিটের জন্য শুকিয়ে যায়, ঠাণ্ডা জল ও শুষ্ক হয়ে যায় ।
+2. সিরাম, টামারি, ভিনেগার আর একটা পেস্টের সাথে মিশায়।
+3. স্পিন আর সেবা করতে লাগে।
+:::
+
+:::lang ur
+# سَمَا
+
+جاپان کے ایک طرف ریڑھ کی ہڈی کا دورہ کرنے والے ایک علاقے میں ایک کمرے اور دم‌دار کپڑے پہنے ہوئے تھے ۔
+
+## Instructions
+1. ایک منٹ کے لئے گرم پانی میں سوراخ کرنا سرد پانی میں تبدیل ہو جاتا ہے ۔
+2. سی‌مس ، تامری ، گیس اور بُت‌پرستانہ ۔
+3. ریڑھ کی ہڈی اور خدمت کے ساتھ.
+:::

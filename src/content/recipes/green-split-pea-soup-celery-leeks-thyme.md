@@ -90,3 +90,39 @@ prepTimeEstimated: true
 3. वाटाणे आणि भाज्यांचा स्टॉक घाला, उकळी आणा, मग आच मंद करून झाकण ठेवा आणि वाटाणे पूर्ण मऊ होईपर्यंत 40 ते 45 मिनिटे शिजवा.
 4. सूप क्रीमी होईपर्यंत ढवळा आणि गरम सर्व्ह करा.
 :::
+
+:::lang en
+# Green Split Pea Soup with Celery, Leeks, and Thyme
+
+Velvety green split pea soup simmered with leeks, celery, garlic, and thyme without heavy cream.
+
+## Instructions
+1. Rinse green split peas under cold water.
+2. Heat olive oil in a pot over medium heat and sauté leeks, celery, garlic, and thyme for 6 minutes.
+3. Add split peas and vegetable broth, bring to a boil, reduce heat to low, cover, and simmer for 40 to 45 minutes until peas break down.
+4. Stir until creamy and serve warm.
+:::
+
+:::lang bn
+# Celys, Leks এবং আপনারm এর সবুজ বিভাজন
+
+রসুন, রসুন এবং তোমার ইজ্জত ক্রিম ছাড়া।
+
+## Instructions
+1. ঠাণ্ডা পানিতে সবুজ টুকরো টুকরো টুকরো করে।
+2. প্রচুর পরিমাণে গরমের মধ্যে হেট জিতবৃক্ষের তেল এবং সাঁতরে পিকে, ক্ল্যারি, রসুন এবং ৬ মিনিট ধরে আপনার রম।
+3. তাই, এতে অবাক হওয়ার কিছু নেই যে, এই ধরনের পরামর্শের জন্য আপনি কী করতে পারেন?
+4. ক্রিমি আর গরম না হওয়া পর্যন্ত গরম।
+:::
+
+:::lang ur
+# گرین سپلٹی پے سوپ کے ساتھ سیلری، لیکس اور تھیمی کے ساتھ
+
+اِس کے علاوہ اُس نے اِس بات کا بھی ذکر کِیا کہ اُس نے اُن کے ساتھ کتنا اچھا سلوک کِیا ۔
+
+## Instructions
+1. ٹھنڈے پانی کے نیچے ہرے پتوں کو کاٹ ڈالا جاتا ہے ۔
+2. زیتون کا تیل درمیان میں گرم گرم اور صابن ، پنیر ، لہسن اور تیرہ منٹ تک ہوتا ہے ۔
+3. اِس کے علاوہ اُس وقت تک اُس کی حرارت کم ہو جاتی ہے جب تک پَر پھٹ نہ جائے ۔
+4. اُس نے کہا : ” مَیں اِس بات پر بہت خوش ہوں کہ مَیں یہوواہ خدا کی خدمت کر رہا ہوں ۔
+:::

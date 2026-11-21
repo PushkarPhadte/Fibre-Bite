@@ -85,3 +85,42 @@ prepTimeSource: 'https://www.allrecipes.com/recipe/272232/chicken-potato-soup/'
 4. मीठ, मिरीपूड आणि मॅगी क्यूब घालून उकळी आणा.
 5. कोथिंबीर किंवा सेलरीने सजवून गरमागरम वाढा.
 :::
+
+:::lang en
+# Chicken Potato Soup
+
+A savory, light soup consisting of pressure-cooked chicken and potatoes blended together with shredded chicken pieces and herbs.
+
+## Instructions
+1. Pressure cook chicken pieces and potatoes with water until tender.
+2. Remove potatoes, mash/grate them smoothly; remove chicken, debone, and shred finely.
+3. Combine shredded chicken and grated potatoes in a saucepan.
+4. Bring to a boil, adding salt, pepper powder, and the Maggi cube.
+5. Garnish with coriander or celery and serve piping hot.
+:::
+
+:::lang bn
+# মুরগী পটেটো সোপি
+
+হালকা সুপে থাকে চাপ প্রয়োগ করা মুরগি আর আলু একসাথে মিলে মুরগি আর ভেষজের সাথে।
+
+## Instructions
+1. বায়ু বাবুর্চী মুরগি আর আলু পানির টুকরা।
+2. আলু অপসারণ করুন, mash/ghes তাদের মসৃণভাবে; মুরগী অপসারণ করুন, ডেবোন এবং ময়লা পরিষ্কার করুন।
+3. একটি সসফলে মুরগির টুকরো টুকরো হয়ে যায় এবং আলু তৈরি হয়।
+4. একটু সিদ্ধ হও, লবণ, মরিচের পাউডার আর ম্যাগগি কিউব.
+5. কোরিয়ান্ডার বা সিলেরিয়েরের সাথে গাউনিয়ে গরমের ব্যবস্থা করা।
+:::
+
+:::lang ur
+# چیکن پوٹاتو سوپ
+
+اِس کی ایک وجہ یہ تھی کہ اُس نے اُن پر دباؤ ڈالا ۔
+
+## Instructions
+1. دباؤ نے مرغیوں کے ٹکڑے اور پانی کو نرم کرنے کے لئے پانی میں ڈال دیا ۔
+2. خارج کرنا، مس کرنا/ ان کو ہموار کرنا، مرغی کو دور کرنا، دیبل اور کنول کو صاف کرنا۔
+3. اِس کی ایک وجہ یہ تھی کہ اُس نے اُن پر بھروسا کِیا ۔
+4. اِس میں نمک ، پَر ہوئے آٹے اور مگ کیوب شامل کِیا گیا ہے ۔
+5. اِس کے علاوہ اُنہوں نے اِس بات پر بھی زور دیا کہ اُن کے بچے بھی اُن سے پیار کرتے ہیں ۔
+:::

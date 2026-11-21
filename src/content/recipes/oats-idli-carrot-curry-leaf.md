@@ -115,3 +115,42 @@ prepTimeEstimated: true
 4. वाफवण्याच्या अगदी आधी खायचा सोडा मिसळा. तेल लावलेल्या इडलीच्या साच्यांत पीठ भरा आणि 12 मिनिटे वाफवा.
 5. साच्यातून काढण्यापूर्वी 2 मिनिटे थांबा. सांबार किंवा कोथिंबिरीच्या चटणीसोबत वाढा.
 :::
+
+:::lang en
+# Oats Idli with Carrot and Curry Leaves
+
+Soft steamed idlis made from roasted oats and curd, studded with carrot, ginger and a quick mustard tempering.
+
+## Instructions
+1. Dry roast the oats in a pan for 3 minutes until fragrant, cool and grind to a coarse powder.
+2. Heat the oil, crackle the mustard seeds, then add curry leaves, chilli and ginger for 30 seconds and tip over the oat powder.
+3. Mix in the curd, carrot, coriander, salt and enough water to make a thick, dropping batter. Rest for 15 minutes.
+4. Stir in the baking soda just before steaming, fill greased idli moulds and steam for 12 minutes.
+5. Rest for 2 minutes before unmoulding and serve with sambar or coriander chutney.
+:::
+
+:::lang bn
+# কার্রট এবং কার্রি চলে যাওয়ার জন্য উল্টলি
+
+কিন্তু, এটা ছিল সা.
+
+## Instructions
+1. তিন মিনিটের জন্য লবিতে পচন করে ।
+2. তেল ঢালে, সরিষার বীজ, তারপর রসালো পাতা, ঠাণ্ডা আর ভেজা পাউডারের উপর সসেজ যোগ করে।
+3. কোকুন, গাজর, কোরান্ডার, লবণ এবং যথেষ্ট জল ঘন ঘন হতে পারে, নির্যাতন হতে পারে । ১৫ মিনিট বিশ্রাম নাও।
+4. মদ খাওয়ার ঠিক আগে বেকিং সোডাতে গরম হয়ে ১২ মিনিট গরমি আর স্টিম ভর্তি করে।
+5. দুই মিনিট বিশ্রাম নিন আর সাম্বার অথবা কোরিয়ান্ডার চুননির সাথে সেবা করুন।
+:::
+
+:::lang ur
+# اوتس اڈیلی جس میں کاربٹ اور کریس نکل آتے ہیں۔
+
+اِس کے بعد اُس نے اِس بات کا ذکر کِیا کہ اُس نے اِس میں کوئی تبدیلی نہیں کی ۔
+
+## Instructions
+1. اِس کے بعد اُس نے اِس کی آواز سنی ۔
+2. تیل کو صاف کریں ، رائی کے دانے کو توڑ دیں ۔
+3. اِس کی وجہ یہ ہے کہ اِن میں سے زیادہ‌تر لوگ اِس بیماری میں مبتلا ہیں ۔ 15 منٹ آرام.
+4. اِس کے بعد اُس نے اِس پر تحقیق کی ۔
+5. اس سے پہلے کہ دو منٹ آرام کریں اور سمبار یا کوریاندر چیتنی کے ساتھ خدمت کریں۔
+:::

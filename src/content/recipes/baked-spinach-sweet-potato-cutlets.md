@@ -112,3 +112,42 @@ prepTimeEstimated: true
 4. 15 मिनिटे बेक करा, पलटून पुन्हा थोडे तेल लावा. वरचा भाग घट्ट आणि किंचित सोनेरी होईपर्यंत आणखी 10 ते 12 मिनिटे बेक करा.
 5. पुदिन्याच्या चटणीसोबत किंवा वरून लिंबाचा रस पिळून वाढा.
 :::
+
+:::lang en
+# Baked Spinach and Sweet Potato Cutlets
+
+Spiced sweet potato and spinach patties bound with roasted chickpea flour and baked rather than fried.
+
+## Instructions
+1. Heat the oven to 200 C and line a tray with baking paper.
+2. Squeeze the blanched spinach dry, then mix with the sweet potato, besan, onion, ginger, chilli, spices, coriander, lemon juice and salt.
+3. Shape into 8 flat patties and place on the tray. Brush the tops lightly with oil.
+4. Bake for 15 minutes, flip, brush again and bake for another 10 to 12 minutes until the surface is firm and lightly golden.
+5. Serve with mint chutney or a squeeze of lemon.
+:::
+
+:::lang bn
+# ♪ কুঁচকা আর মিষ্টি পটো কাটলেট ♪
+
+মিষ্টি আলু আর চেচলা পাটাতী।
+
+## Instructions
+1. গ্যাস থেকে ২০০ C থেকে ২০০ এর দিকে এবং ট্রেকের কাগজ দিয়ে লাইন দাও।
+2. এরপর মিষ্টি আলু, বিন, ভোদড়, সসেজ, সসেজ, সসেজ, মসলা, মসলা, কোরিয়ান্ডার, লেবু এবং লবণের সঙ্গে মিশে যায় ।
+3. ৮টি ফ্ল্যাট পাটিল আর ট্রেতের জায়গা। তেল দিয়ে উপরের ঢেউটা হালকা করে।
+4. ১৫ মিনিটের জন্য কেক, লাফ দাও, আবার ১০ মিনিটের জন্য ব্রাশ করো... ...আর যদি পৃষ্ঠ শক্ত আর হালকা সাদা থাকে.
+5. মিন্টচুনির সাথে কাজ করুন, অথবা লেবুর টুকরো।
+:::
+
+:::lang ur
+# اِس کی ایک وجہ یہ ہے کہ اُن کی عمر تقریباً ۳۰ سال ہے ۔
+
+اِس کے بعد اُس نے اِس بات پر غور کِیا کہ اُس نے اِس میں کیا کچھ کِیا ہے ۔
+
+## Instructions
+1. اِس کی وجہ یہ ہے کہ اِن میں سے ہر ایک کو اُس کاغذ پر رکھ دیا گیا ہے جس پر اُس نے کاغذ بنایا ہے ۔
+2. اِس کے بعد شہد کی مکھیوں ، بی‌سن ، اُن کا ذائقہ ، جِلد ، شکر ، خوشبو ، شکر ، کوریان ، ٹماٹر اور نمک ملا دیں ۔
+3. شاپنگ 8 فلیٹوں میں اور ٹرے پر جگہ۔ تیل کے ساتھ توپیں تیز.
+4. جب تک سطح زیادہ مضبوط اور سادہ سونا نہیں ہو جاتا 15 منٹ تک ایک بار پھر پنسل ، پنسل اور دوسری 10 سے 12 منٹ تک دوبارہ استعمال ہوتا ہے ۔
+5. منٹ چُتنی کے ساتھ خدمت کریں ۔
+:::

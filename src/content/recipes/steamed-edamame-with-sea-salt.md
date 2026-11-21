@@ -73,3 +73,39 @@ prepTimeSource: 'https://feelgoodfoodie.net/recipe/how-to-cook-edamame/'
 3. पाणी पूर्णपणे निथळून शेंगा वाढण्याच्या भांड्यात काढा.
 4. गरम शेंगांवर भरड समुद्री मीठ भुरभुरा आणि लगेच वाढा.
 :::
+
+:::lang en
+# Steamed Edamame with Sea Salt
+
+Young green soybeans steamed in their pods and tossed with coarse sea salt, offering an effortless protein-rich plant snack.
+
+## Instructions
+1. Bring water to a rapid boil in a pot.
+2. Add frozen edamame pods and cook for 4–5 minutes until bright green and tender.
+3. Drain well and transfer to a serving bowl.
+4. Sprinkle coarse sea salt over pods while hot and serve immediately.
+:::
+
+:::lang bn
+# সামুদ্রিক লবণের সঙ্গে স্টিমাম
+
+তরুণ সবুজ সয়াবিন তাদের চেম্বারে গরম হয়ে গিয়েছিল এবং সামুদ্রিক লবণ দিয়ে আঘাত হানে।
+
+## Instructions
+1. পাত্রের মধ্যে দ্রুত গতির তাপমাত্রা নিয়ে আসো।
+2. উজ্জ্বল সবুজ এবং কোমল না হওয়া পর্যন্ত হিমায়িত দুধ পড এবং ৪-৫ মিনিট রান্না করুন।
+3. ভালো হয়ে যাও আর একটা বাটি নিয়ে আসো।
+4. গরম এবং দ্রুত সেবা করার সঙ্গে সঙ্গে পান করুন ।
+:::
+
+:::lang ur
+# سمندر میں نمک کے ساتھ اُترا
+
+جواں‌سال سبز کیڑے اپنے پودوں میں اُتر آئے اور سمندر میں نمک ملا کر اُنہیں ایک بغیر کسی پروٹین کے پودا پیش کِیا ۔
+
+## Instructions
+1. ایک برتن میں تیزی سے پگھلے ہوئے پانی لاؤ ۔
+2. سردیوں میں ٹھنڈے ادمے پودوں کو ملا کر 4–5 منٹ تک پکایا جاتا ہے یہاں تک کہ چمکدار سبز اور نرم مزاج بھی۔
+3. دنن اچھی طرح سے خدمت انجام دیتا ہے ۔
+4. گرم اور فوری طور پر اُس کی خدمت کرنا
+:::

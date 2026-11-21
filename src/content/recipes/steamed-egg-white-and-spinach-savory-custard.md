@@ -88,3 +88,36 @@ prepTimeEstimated: true
 2. मिश्रण उष्णतारोधक भांड्यात ओता आणि ते मंद उकळणाऱ्या पाण्यावर ठेवलेल्या स्टीमरच्या टोपलीत ठेवा.
 3. झाकण ठेवून मंद-मध्यम आचेवर १२ ते १४ मिनिटे मिश्रण घट्ट होईपर्यंत वाफवा; नंतर वरून पातीचा कांदा घालून सजवा.
 :::
+
+:::lang en
+# Steamed Egg White and Spinach Savory Custard
+
+Silky steamed egg whites folded with tender spinach and white pepper for a light high-protein dish.
+
+## Instructions
+1. Lightly whisk egg whites with water, ground white pepper, and olive oil, then fold in chopped spinach.
+2. Pour the mixture into a heatproof dish and place it in a steamer basket over simmering water.
+3. Cover and steam gently on low-medium heat for 12 to 14 minutes until set, then garnish with scallions.
+:::
+
+:::lang bn
+# স্টেমড Egard এবং Spinarbolica Carzarboy
+
+রেশমিযুক্ত ডিম সাদাচেচেচে আর সাদা মরিচের তৈরি.
+
+## Instructions
+1. হালকা ডিম জল, সাদা মরিচ এবং জলপাই তেল দিয়ে তৈরি, তারপর আখের টুকরো টুকরো করে ।
+2. গরম গরমপ্রুফরড খাবারে মিশ্রণ তৈরি করুন এবং এটাকে গরমের ঝুড়িতে রাখুন ।
+3. কভার আর স্ট্রেচারে আস্তে আস্তে ১২ থেকে ১৪ মিনিট চাপ দেয়া হয়।
+:::
+
+:::lang ur
+# سٹیمڈ ایج وائٹ اینڈ اسپینک ساوئر کوسٹر
+
+ریشمی رنگ کے انڈے سفید رنگ کے ہوتے ہیں ۔
+
+## Instructions
+1. اِس کے بعد اُس نے اِس کی مدد سے اِس کے بعد اُس کا تیل ملا دیا ۔
+2. آمیزے کو گرم کرنے والے برتنوں میں رکھ کر پانی کو صاف کرنے والے برتن میں رکھ دیں ۔
+3. اس کے بعد گینس کے ساتھ بنے ہوئے گیس کے ساتھ ساتھ کم سے کم درجہ حرارت پر ڈھانپ کر اس میں 12 سے 14 منٹ تک نرم کر دیتی ہے۔
+:::

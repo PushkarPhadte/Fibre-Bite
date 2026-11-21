@@ -98,3 +98,39 @@ prepTimeEstimated: true
 3. त्यात बारीक चिरलेला लसूण, जिऱ्याची पूड, लिंबाचा रस आणि मीठ मिसळा.
 4. मिश्रण एका वाटीत काढा, वरून भरपूर एक्स्ट्रा व्हर्जिन ऑलिव्ह तेल घाला आणि पार्सलीने सजवा.
 :::
+
+:::lang en
+# Egyptian Ful Medames (Spiced Fava Beans)
+
+A traditional Egyptian breakfast dish of slow-cooked fava beans seasoned with garlic, cumin, lemon juice, and olive oil.
+
+## Instructions
+1. Warm cooked fava beans in a pot with 3 tbsp water.
+2. Slightly mash beans with a fork or potato masher.
+3. Stir in minced garlic, cumin powder, lemon juice, and salt.
+4. Transfer to a bowl, drizzle generously with extra virgin olive oil, and garnish with parsley.
+:::
+
+:::lang bn
+# মিশরীয় ফুল মেডাস (সাম্পেড ফাভা)
+
+ধীর গতিতে চলা ফাভা বিনের ঐতিহ্যবাহী নাস্তার খাবার। রসুন, চাঁবি, লেবুর জুস এবং জলপাই তেল দিয়ে তৈরি করা হয়।
+
+## Instructions
+1. গরমের পর এক পাত্রের মধ্যে ফাভা বিন রান্না করা হয় ।
+2. কাঁটাচামচ অথবা আলুর মাসশের মতো শিম।
+3. মিক্‌ড রসুন, যমিন পাউডার, লেবুর জুস আর লবণ।
+4. এক বাটি বাটিতে নিয়ে যাওয়া হবে, তারপর অতিরিক্ত কুমারী জলপাই তেল নিয়ে, আর প্যারোলির সাথে কাধে।
+:::
+
+:::lang ur
+# مصری فیول میڈامس (Spiced Fava Beans) ہے۔
+
+مصر کے ایک روایتی کھانے میں سستے بَوا کے دانوں کو لہسن ، آلو ، آلو اور زیتون کا تیل ملا کر کھایا جاتا تھا ۔
+
+## Instructions
+1. ایک برتن میں موم بجو پکایا گیا جس میں 3 Tbsp پانی ہے۔
+2. مَیں نے اُس سے کہا : ” مَیں نے اِس بات کو تسلیم نہیں کِیا ۔
+3. مونگ‌پھلی ، لوہے کے آٹے ، آلو ، آلو اور نمک میں نمک شامل ہوتا ہے ۔
+4. اُس پیالے میں منتقل ہو جاتے ہیں ، اُن میں زیتون کے تیل کی زیادہ مقدار ہوتی ہے اور اُن کا تیل اَور بھی زیادہ ہوتا ہے ۔
+:::

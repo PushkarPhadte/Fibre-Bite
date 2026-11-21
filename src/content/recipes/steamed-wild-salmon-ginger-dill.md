@@ -98,3 +98,39 @@ prepTimeEstimated: true
 3. झाकण लावून 10 ते 12 मिनिटे वाफवा; काट्याने दाबल्यावर सॅल्मन सहज पापुद्र्यांसारखा वेगळा होईपर्यंत शिजवा.
 4. वाढण्यापूर्वी वरून ऑलिव्ह तेल घाला.
 :::
+
+:::lang en
+# Steamed Wild Salmon with Ginger and Dill
+
+Tender steamed wild salmon fillets infused with fresh ginger root, lemon slices, and dill.
+
+## Instructions
+1. Bring water to a gentle simmer in the bottom of a steamer pot.
+2. Place salmon fillets on a lightly oiled steamer rack and top with ginger, dill, lemon juice, and black pepper.
+3. Cover and steam for 10 to 12 minutes until the salmon flakes easily with a fork.
+4. Drizzle with olive oil before serving.
+:::
+
+:::lang bn
+# Gner এবং Dell দ্বারা স্টেম ওয়াইল্ড স্যালমন
+
+প্রচুর পরিমাণে গরম জল সরবরাহ করা
+
+## Instructions
+1. একটি স্টিমারের নিচে একটি নরম সিমমার নিয়ে এসো।
+2. এক হালকা তেলযুক্ত মাংসের কল এবং টলা, মাংস, লেবুর জুস এবং কালো মরিচের মতো কালো মরিচের উপর সসেজ ভরে যায়।
+3. ডিমগুলো এত সহজে শুকানোর আগ পর্যন্ত ১০ থেকে ১২ মিনিটের জন্য কভার আর স্টিম।
+4. সেবা করার আগে জলপাই তেল নিয়ে আলো।
+:::
+
+:::lang ur
+# گانجر اور دیل کے ساتھ سٹیمرڈ جنگلی بلی
+
+اِس لئے اُس نے اُن سے کہا : ” مَیں نے اُن کے ساتھ کھانا پکایا ہے ۔ “
+
+## Instructions
+1. پانی کو نرم برتنوں میں ڈال دیں ۔
+2. اِس کے بعد اُس نے اِس کی ایک اَور وجہ بھی بتائی ۔
+3. 10 سے 12 منٹ تک چھپا اور نیچے رکھ دیں یہاں تک کہ کچھ منٹ کے اندر اندر اندر ایک چوک کے ساتھ.
+4. زیتون کا تیل خدمت کرنے سے پہلے خشک ہو جاتا ہے ۔
+:::

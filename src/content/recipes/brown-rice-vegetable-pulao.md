@@ -105,3 +105,39 @@ prepTimeEstimated: true
 3. निथळलेला भात आणि पाणी घाला. उकळी आणा, झाकण ठेवून मंद आचेवर 30 मिनिटे पाणी आटेपर्यंत शिजवा.
 4. 5 मिनिटे झाकून ठेवा आणि काट्याने भात मोकळा करा.
 :::
+
+:::lang en
+# Brown Rice Vegetable Pulao
+
+A fragrant one-pot pulao of brown rice, peas, carrot and beans with whole spices.
+
+## Instructions
+1. Heat the oil, splutter the cumin and cook the onion until golden.
+2. Add the vegetables, spices, mint and salt and stir for 2 minutes.
+3. Add the drained rice and water, bring to a boil, cover and simmer on low for 30 minutes until the water is absorbed.
+4. Rest for 5 minutes and fluff with a fork.
+:::
+
+:::lang bn
+# ব্রাউন রাইস ভেজেবল Pao
+
+বাদামি চাল, মটরশুঁটি, গাজর, গাজর আর শিমের সাথে।
+
+## Instructions
+1. তেল ঢালে, ধূমপায়ী আর সোনার আগ পর্যন্ত রান্না করে।
+2. সবজি, মসলা, মিনিট এবং লবণ যোগ করুন।
+3. জল নির্গত হওয়ার আগে পর্যন্ত ৩০ মিনিটের জন্য মাটির নীচে চলে আসে ।
+4. ৫ মিনিট বিশ্রাম নাও।
+:::
+
+:::lang ur
+# Brown Rice Vegetable Pulao
+
+ایک خوشبودار بھورے چاول، پائیس، کپاس اور دانوں کا ایک خوشبودار پکوان جس میں پورے چاول ہیں۔
+
+## Instructions
+1. تیل کو صاف کریں اور سونے تک اون کو پکائیں ۔
+2. سبزیوں کو ملا کر سبزیوں، چاولوں، منتروں اور نمک وغیرہ کو 2 منٹ تک منتقل کیا جاتا ہے۔
+3. اِس کے بعد ۳۰ منٹ کے اندر اندر اندر پانی جذب ہو جاتا ہے ۔
+4. 5 منٹ تک آرام کریں اور ایک چوک کے ساتھ.
+:::

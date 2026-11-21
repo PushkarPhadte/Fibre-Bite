@@ -101,3 +101,39 @@ prepTimeEstimated: true
 3. मोड आलेला मूग, मीठ आणि पाणी घाला. झाकण ठेवून 10 मिनिटे शिजवा; मूग मऊ झाला पाहिजे, पण किंचित कुरकुरीतपणा राहू द्या.
 4. वरून नारळ आणि कोथिंबीर घाला.
 :::
+
+:::lang en
+# Sprouted Moong Usal
+
+A Maharashtrian sprouted green gram curry with onion, tomato and goda spices.
+
+## Instructions
+1. Heat the oil, splutter the mustard and cumin, then cook the onion until golden.
+2. Add the tomato and spices and cook for 4 minutes.
+3. Add the sprouts, salt and water, cover and cook for 10 minutes until tender but still slightly crunchy.
+4. Top with coconut and coriander.
+:::
+
+:::lang bn
+# মুনঙ্গাল
+
+এক মহারাষ্ট্র সবুজ রঙের ফল উৎপন্ন করে
+
+## Instructions
+1. তেল ঢালে, সরীসৃপ এবং ধনাঢ্যতা, তারপর সোনার আগ পর্যন্ত রান্না করে।
+2. টমেটো এবং মসলা যোগ করুন এবং ৪ মিনিটের জন্য রান্না করুন।
+3. তাই, এটা পরিষ্কার করা সহজ নয় ।
+4. নারিকেল আর কোরান্ডারের উপরে।
+:::
+
+:::lang ur
+# چاند کا تیل
+
+ایک مہاراشٹر میں ہرے گرام کو اُون ، ٹماٹر اور دیوی‌دیوتاؤں کے ساتھ کھایا جاتا ہے ۔
+
+## Instructions
+1. تیل کو صاف کریں ، رائی کے دانے اور چاول کو دبا دیں ، پھر سونے تک اون کو پکایا کریں ۔
+2. ٹماٹر اور ٹماٹر شامل کرکے 4 منٹ تک پکایا جاتا ہے۔
+3. اِس کے علاوہ اِس میں پانی ، نمک اور پانی شامل کرنا ، 10 منٹ تک کپڑے اور پکانا بھی شامل کرنا ۔
+4. ناریل اور کریانڈر سے اوپر ۔
+:::

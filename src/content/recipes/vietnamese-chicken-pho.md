@@ -100,3 +100,39 @@ prepTimeEstimated: true
 3. नूडल्स मऊ होईपर्यंत गरम पाण्यात भिजवा आणि वाट्यामध्ये विभागून घ्या.
 4. चिकन, स्प्राउट्स आणि औषधी वनस्पतींसह शीर्षस्थानी आणि गरम मटनाचा रस्सा वर लाडू; लिंबाच्या रसाने सर्व्ह करा.
 :::
+
+:::lang en
+# Vietnamese Chicken Pho
+
+A fragrant ginger-cinnamon broth with rice noodles, shredded chicken, sprouts and herbs.
+
+## Instructions
+1. Char the onion and ginger in a dry pan, then simmer with the chicken, cinnamon, salt and water for 25 minutes.
+2. Remove the chicken, shred it, and strain the broth; stir in the tamari.
+3. Soak the noodles in hot water until soft and divide between bowls.
+4. Top with chicken, sprouts and herbs and ladle over the hot broth; serve with lime juice.
+:::
+
+:::lang bn
+# ভিয়েতনামের মুরগী
+
+চালের নুডলস, মুরগি, উদরুল আর ভেষজের সাথে ফ্রোনা-সিনানামোন ভাইথ।
+
+## Instructions
+1. এরপর মুরগি, সিনমন, লবণ এবং জলকে শুকানো হয় ।
+2. মুরগিটা পরিষ্কার করুন, এটাকে কেটে ফেলুন এবং ব্রোথকে চাপ দিন; তামাতে উদ্দীপিত হয়ে ওঠে ।
+3. গরম পানিতে নুডুলসগুলো সস করে, যতক্ষণ না হালকা পানি আসে এবং বাটির মাঝে বিভক্ত হয়।
+4. মুরগির ওপর, অঙ্কুরিত ফল ও ভেষজগুলো অঙ্কুরিত হয় এবং গরম ব্রোথের ওপর বৃদ্ধি পায়; লাইম জুস দিয়ে পরিবেশন করা হয় ।
+:::
+
+:::lang ur
+# ویتنام چیکن فو
+
+ایک خوشبودار آمیزہ جس میں چاول نودلس، آلو اور جڑی بوٹیاں ہیں۔
+
+## Instructions
+1. اِس کے بعد ۲۵ منٹ تک مرغی ، کان‌نم ، نمک اور پانی سے پانی حاصل کریں ۔
+2. مرغی کو ختم کریں ، اِسے صاف کریں اور برف کو دبا دیں ؛ تامری میں اضافہ کریں ۔
+3. گرم پانی میں پائے جانے والے نوودلوں کو نرم اور شیشوں کے درمیان تقسیم کیا جاتا ہے۔
+4. اُوپر مرغیوں ، مرغیوں اور جڑی‌بوٹیوں اور بکریوں کو گرم برتنوں پر رکھا جاتا ہے ۔
+:::

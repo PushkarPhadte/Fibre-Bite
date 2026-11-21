@@ -95,3 +95,39 @@ prepTimeEstimated: true
 3. ढोबळी मिरच्या आणि कांदा मऊ पण किंचित कुरकुरीत राहेपर्यंत परता.
 4. चिरलेल्या रोमेन लेट्यूसच्या थरावर चिकन आणि भाज्या साल्सासोबत वाढा.
 :::
+
+:::lang en
+# Grilled Chicken Fajita Salad
+
+Sizzling grilled chicken breast strips tossed with sautéed bell peppers, onions, romaine lettuce, and salsa.
+
+## Instructions
+1. Toss chicken strips, bell peppers, and onion with taco seasoning and olive oil.
+2. Grill chicken on a skillet over medium-high heat until cooked through.
+3. Sauté peppers and onions until tender crisp.
+4. Serve chicken and veggies over a bed of chopped romaine lettuce with salsa.
+:::
+
+:::lang bn
+# মেরে ফেলা মুরগী ফাজিনা সালাদ
+
+মুরগির চামড়া দিয়ে তৈরি মুরগির বুকের চামড়া
+
+## Instructions
+1. মুরগির চামড়া, বেলের মরিচ এবং টাকো ও জলপাই তেল দিয়ে পরিবেশন করা হয় ।
+2. রান্না না হওয়া পর্যন্ত মাঝারি তাপমাত্রায় মুরগি খাবে।
+3. টরেন্টে মরিচ এবং পেয়াজ।
+4. মুরগি আর মাংসের মাংসের মাংসের উপরে পরিবেশন করুন
+:::
+
+:::lang ur
+# گلئیڈ Chicken Fajita Salad
+
+اِس لئے اُس نے اُس پر بھروسا کِیا ۔
+
+## Instructions
+1. اِس کے علاوہ اُس نے اُن سے کہا : ” مَیں اُن کے ساتھ کھانا پکاتا ہوں ۔ “
+2. جب تک پکا نہ لیا جائے۔
+3. اُس وقت تک اُس کی آنکھیں صاف نہیں ہوتی تھیں ۔
+4. اِس لئے اُس نے اُن سے کہا : ” مَیں اُن کی بات نہیں مانتا ۔ “
+:::

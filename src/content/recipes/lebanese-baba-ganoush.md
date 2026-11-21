@@ -92,3 +92,39 @@ prepTimeEstimated: true
 3. गर ताहिनी, लसूण, लिंबाचा रस आणि मीठ यांच्यासोबत मलईदार होईपर्यंत कुस्करा.
 4. वाढण्यापूर्वी वरून ऑलिव्ह तेल घाला आणि पार्सली भुरभुरा.
 :::
+
+:::lang en
+# Lebanese Baba Ganoush (Eggplant Dip)
+
+Smoky roasted eggplant dip blended with tahini, garlic, lemon juice, and extra virgin olive oil.
+
+## Instructions
+1. Prick eggplant with a fork and roast whole at 220°C for 40 minutes until collapsed and charred.
+2. Scoop out soft inner flesh and drain excess liquid.
+3. Mash flesh with tahini, garlic, lemon juice, and salt until creamy.
+4. Drizzle olive oil and sprinkle parsley before serving.
+:::
+
+:::lang bn
+# লেবাননী বাবা গানু (এগপ্লী দান)
+
+শূয়োপোকা, রসুন, লেবুর জুস এবং অতিরিক্ত কুমারী জলপাই তেলের সাথে মিশে যায়।
+
+## Instructions
+1. রিক ডিমপ্ল্যানের সাথে একটি লাঠি দিয়ে পুরো ২২০ ডিগ্রি সেলসিয়াসের সাথে রোপন করে।
+2. নরম ভিতরের মাংস এবং অতিরিক্ত তরল পদার্থ পরিষ্কার করুন ।
+3. টাহনি, রসুন, লেবুর জুস আর লবণের মশ।
+4. অলিভ তেল আর পানি পরিবেশনের আগে।
+:::
+
+:::lang ur
+# لبنانی بابا گانوش (Eggleged Dip)
+
+اِس کے علاوہ اُس نے زیتون کے تیل کو بھی تیار کِیا ۔
+
+## Instructions
+1. اِس کے بعد اُس نے اِسے دوبارہ جلا دیا ۔
+2. اِس لئے اُس کے جسم کو نرم کرنا چاہئے اور اُس پر زیادہ دباؤ ڈالیں ۔
+3. مَیں اِس بات کو تسلیم کرتا ہوں کہ اُس کا گوشت اُس وقت تک استعمال کِیا جاتا ہے ۔
+4. زیتون کا تیل اور سُرخ رنگ کا تیل خدمت کرنے سے پہلے ۔
+:::

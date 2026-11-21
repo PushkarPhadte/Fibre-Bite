@@ -120,3 +120,39 @@ prepTimeEstimated: true
 3. 350 मिली पाणी आणि मीठ घाला. झाकण ठेवून मध्यम-मंद आचेवर 12 मिनिटे शिजवा, भाज्या जवळजवळ मऊ होईपर्यंत.
 4. वाटलेली खसखशीची पेस्ट, साय काढलेले दूध आणि बाजूला ठेवलेले कारले मिसळा. झाकण न ठेवता मंद आचेवर 6 मिनिटे शिजवा, रस्सा किंचित मलईदार होईपर्यंत.
 :::
+
+:::lang en
+# Bengali Shukto (Mixed Vegetable Stew with Ginger and Poppy Seeds)
+
+Traditional Bengali bittersweet vegetable medley simmering bitter gourd, drumstick pods, raw plantain, and eggplant in a delicate ginger, poppy seed, and skim milk broth.
+
+## Instructions
+1. Heat 10 ml of mustard oil in a wide Dutch oven over medium heat and lightly sauté the bitter gourd batons for 4 minutes until browned at the edges, then remove and set aside.
+2. Add the remaining 5 ml of mustard oil, temper the panch phoron and mustard seeds for 20 seconds, then stir in the grated ginger, raw plantain, sweet potato, drumstick pods, and eggplant.
+3. Pour in 350 ml of water and salt, cover, and simmer over medium-low heat for 12 minutes until the vegetables are nearly tender.
+4. Stir in the ground poppy seed paste, skim milk, and reserved bitter gourd, simmering uncovered on low heat for 6 minutes until the gravy turns lightly creamy.
+:::
+
+:::lang bn
+# বাংলায় শুক্তো (মিক্সেবল ভেজেগু এবং কালসেজ)
+
+ঐতিহ্যবাহী বাংলার তিক্ত তিক্ত সবজি, তিক্ত উদরিত আটা, ড্রামস্টিকের কল, রান্নার পুতুল এবং ডিমপুলপের মিষ্টি মিষ্টি, পপপি বীজ এবং স্কিমম ব্রোথ।
+
+## Instructions
+1. তেলে ভরা তেলের ১০ মিটার উঁচু ডাচ স্ট্রেচারের তেল এবং চার মিনিটের জন্য তিক্ত লাঠিকে হালকা করে দেয় যতক্ষণ না বাদামি রঙের চুলে ঢাকা থাকে, তারপর তা সরিয়ে ফেলে।
+2. এই বীজের অবশিষ্ট ৫ মিটার তেল, প্যানফরন আর ২০ সেকেন্ডের জন্য ছড়িয়ে দিন, তারপর বীজ বোনার পর শুকনো, শুকনো আলু, মিষ্টি, ড্রামস্টিক চেম্বার এবং ডিমিপ্ল্যান।
+3. ৩৫০ মিটার পানি আর লবণের তেল, ঢেকে, এবং মাঝারি তাপমাত্রা ১২ মিনিট পর্যন্ত গরম পর্যন্ত।
+4. মাটির টুকরো পেস্টি পেস্টি, স্কিম দুধ এবং সংরক্ষিত তিক্ত উদবিড়াল।
+:::
+
+:::lang ur
+# بنگالی شوکتو (انگریزی:
+
+روایتی بنگالی تلخ سبزیوں میں خوشبودار درخت ، پھیپھڑوں کے پُراسرار پھول ، چاول کے پودے اور انڈے وغیرہ شامل ہیں ۔
+
+## Instructions
+1. نیدرلینڈز کے ایک وسیع‌وعریض تیل میں ۱۰ ملی‌میٹر کا بیج درمیان میں گرم گرم اور ہلکی سی جھاڑیوں کو چار منٹ تک اُس وقت تک کاٹ کر رکھ دیا جاتا ہے جب تک کہ اُس کے کناروں پر بھورے رنگ نہ ہو ۔
+2. اِس میں 20 سیکنڈ کے لئے رائی کے تیل کے باقی ۵ ملی‌میٹر کا حصہ شامل کِیا گیا ہے ۔
+3. 350 ملی میٹر پانی اور نمک، غلاف اور درمیانے درجہ حرارت پر 12 منٹ سے زیادہ وقت کے لیے کھانا فراہم کریں یہاں تک کہ سبزیوں کا تقریباً شفیق بھی ہو۔
+4. زمین پر پائی جانے والی بیج ، سکی‌م دودھ اور محفوظ گرم درخت کو ملا کر ۶ منٹ تک نیچے گرم کر دیا جاتا ہے ۔
+:::

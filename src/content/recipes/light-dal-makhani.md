@@ -118,3 +118,42 @@ prepTimeEstimated: true
 4. शिजलेल्या डाळी त्यांच्यासह असलेल्या पाण्यासकट घालून मंद आचेवर 30 मिनिटे शिजवा. घट्टपणा आणण्यासाठी काही दाणे मॅश करा.
 5. दूध आणि गरम मसाला मिसळून आणखी 3 मिनिटे शिजवा.
 :::
+
+:::lang en
+# Light Dal Makhani
+
+Slow-simmered whole black urad and kidney beans in a tomato-ginger gravy with just a spoon of ghee and a splash of milk instead of cream.
+
+## Instructions
+1. Soak the urad and rajma overnight, drain and pressure-cook or boil in 800 ml of water for 50 to 60 minutes until completely soft.
+2. Heat the ghee, crackle the cumin, then cook the onion, garlic and ginger for 8 minutes until golden.
+3. Add the tomato puree, chilli and salt and cook for 8 minutes until the oil separates.
+4. Add the cooked lentils with their liquid and simmer on low heat for 30 minutes, mashing some of the beans to thicken.
+5. Stir in the milk and garam masala and cook for 3 more minutes.
+:::
+
+:::lang bn
+# হালকা ডাল মায়েন
+
+ধীর গতিতে কালো উরাদ এবং ফুকি বিনে ভরা মাংসের ঝোঁক এবং ক্রিমের বদলে এক ফোটা দুধ।
+
+## Instructions
+1. রাতের বেলা উরাদ এবংরাজমাকে অসুস্থ করে দিন, পানিতে ডুবে যাওয়া বা তাপমাত্রা ৮০০ মিটার বা সিদ্ধ পানি সরবরাহের জন্য।
+2. শূককীট, মর্চ্চন, তারপর রান্না করে, রসুন আর ডোরাকে ৮ মিনিট পর্যন্ত।
+3. তেল পৃথক না হওয়া পর্যন্ত টমেটো বিশুদ্ধ, ঠাণ্ডা এবং লবণ ও রান্না করুন ।
+4. এই খাবারগুলো রান্না করা হতো ৩০ মিনিটের জন্য গরম গরমের মধ্যে ।
+5. দুধ আর কাধেমা মাসালা আর ৩ মিনিট রান্না করে।
+:::
+
+:::lang ur
+# نور دل مکی
+
+آہستہ آہستہ پورے کالے گردے اور کپاس کے دانوں کو کریم کی بجائے ایک ٹماٹر کے ساتھ ہی اور دودھ کی نالیوں کے ساتھ
+
+## Instructions
+1. ساکا یووراد اور راما رات، ریختہ اور دباؤ یا دباؤ کی وجہ سے 800 ملی میٹر پانی میں 50 سے 60 منٹ تک مکمل طور پر نرم ہو گیا۔
+2. اِس کی وجہ یہ ہے کہ اِن میں سے ہر ایک کو اِس کی ضرورت ہوتی ہے ۔
+3. ٹماٹر کو صاف کرنے ، صاف کرنے اور نمک کو ملا کر 8 منٹ تک پکایا جاتا ہے یہاں تک کہ تیل الگ ہو جاتا ہے ۔
+4. اِس کے علاوہ اُن کے معدے میں سے کچھ بیج بھی شامل ہوتے ہیں ۔
+5. دودھ اور گراہم ماسالا میں پکایا اور 3 منٹ تک پکایا۔
+:::

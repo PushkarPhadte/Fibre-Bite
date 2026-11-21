@@ -94,3 +94,39 @@ prepTimeEstimated: true
 3. 10 मिनिटे मंद आचेवर शिजवा. नंतर कॉर्नची पेस्ट आणि मीठ मिसळून सूप किंचित घट्ट होईपर्यंत आणखी 5 मिनिटे शिजवा.
 4. वरून मिरी आणि कांद्याची पात घालून वाढा.
 :::
+
+:::lang en
+# Sweet Corn and Vegetable Soup
+
+A light clear-style soup of sweet corn, carrot and beans with ginger and pepper.
+
+## Instructions
+1. Blend half of the corn with 100 ml of the water to a coarse purée.
+2. Heat the oil and cook the ginger and garlic for 30 seconds, then add the carrot, beans, remaining corn and the rest of the water.
+3. Simmer for 10 minutes, then stir in the corn purée and salt and simmer for 5 minutes until lightly thickened.
+4. Finish with black pepper and spring onion.
+:::
+
+:::lang bn
+# মিষ্টি কর এবং ভেজেবল সুম
+
+মিষ্টি ভূট্টা, গাজর আর শিমসহ হালকা মরিচ।
+
+## Instructions
+1. এক টুকরো পানির সাথে ১০০ মিলিটারের মত ভূট্টার অর্ধেক।
+2. তেল আর রসুন ৩০ সেকেন্ডের জন্য রান্না করে, তারপর কার্রোট, শিম, বাকি ভূট্টা আর পানি যোগ করে।
+3. ১০ মিনিটের জন্য সিমমার, তারপর ভূট্টাতে পিঁতে এবং লবণে পরিণত হয় ৫ মিনিট পর্যন্ত ঘন ঘন ঘন হতে থাকে।
+4. কালো মরিচ এবং বসন্ত দিয়ে শেষ।
+:::
+
+:::lang ur
+# کھانے کی چیزیں اور خوشبو
+
+ایک ہلکے صاف دکھائی دینے والا صابن میٹھا مکئی، آلو اور دانوں کے ساتھ ملائم اور پنیر کے ساتھ.
+
+## Instructions
+1. اِس کے بعد اُس نے اُن سے پوچھا : ” کیا مَیں اُن کے ساتھ ہوں ؟ “
+2. تیل کو گرم کرکے ۳۰ سیکنڈ تک لہسن اور لہسن کو پکاتے ہیں ۔
+3. اِس کے بعد اِس کی تھوڑی دیر کے لئے مکئی اور نمک اور اِس کی تھوڑی دیر کے لئے ۵ منٹ کے اندر اندر اندر اندر گھس جاتا ہے ۔
+4. (شرابِ طہور کے) چھلکتے ہوئے جام۔
+:::

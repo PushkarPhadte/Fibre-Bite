@@ -91,3 +91,42 @@ prepTimeSource: 'https://www.theloveofspice.com/besan-chilla-indian-tomato-omele
 4. एक पळी पीठ तव्यावर ओता, गोलाकार समान पसरवा आणि मध्यम आचेवर सोनेरी होईपर्यंत शिजवा.
 5. चिल्ला उलटून दुसरी बाजू शिजेपर्यंत भाजा. पुदिन्याच्या चटणीसोबत गरम वाढा.
 :::
+
+:::lang en
+# Tomato Omelette (Besan Chilla)
+
+A savory pan-cooked pancake made from chickpea flour batter mixed with chopped tomatoes, onions, spices, and herbs.
+
+## Instructions
+1. Whisk besan with water to form a smooth, pourable batter.
+2. Mix in tomatoes, onions, chillies, turmeric, ajwain, and salt.
+3. Heat a non-stick skillet and grease lightly with oil.
+4. Pour a ladle of batter, spread evenly in a circle, and cook on medium heat until golden.
+5. Flip and cook the other side until done. Serve warm with mint chutney.
+:::
+
+:::lang bn
+# টমেটো ওমলেট (বেদানা)
+
+একটি মজাদার প্যানকেক প্যানকেক তৈরি করা হয়েছে।
+
+## Instructions
+1. একটা মসৃণ, নিখুঁত নির্যাতন গঠন করার জন্য হুইস্কিনকে জল দেওয়া হয় ।
+2. টমেটো, পেয়াজ, আর্দ্রতা, তুমেরিক, একটা কিংডম হল এবং লবণের মিশ্রণ ।
+3. তেলের সাথে হালকা নরম নরম নরম আর নরম নরমা।
+4. শ্যাম্পু করার জন্য তৈরি ।
+5. একটু হাগু করো আর রান্না করবে যতক্ষণ না পর্যন্ত। মিন্টের সাথে খেতে খাও।
+:::
+
+:::lang ur
+# توماتو اومیلیٹ (Besan Chila)
+
+اِس کی ایک وجہ یہ تھی کہ اُس نے اِس بات کی تصدیق کی کہ اُس نے اُس کے لئے کھانا تیار کِیا ۔
+
+## Instructions
+1. وِشک بیسن پانی کے ساتھ ایک ہموار اور قابلِ تلافی مار کی صورت میں بنایا جاتا ہے۔
+2. ٹماٹروں میں پیاز، آلو، چاول، تور، چاول اور نمک وغیرہ شامل ہیں۔
+3. ایک غیر معمولی مہارت اور تیل کے ساتھ ہلکا سا تیل.
+4. تشدد کا شکار بنائیں ، ایک دائرے میں پھیلے ہوئے اور سونے تک درمیانے گرم گرمی پر کھانا کھائیں ۔
+5. فلاپ اور دوسرے پہلو کو پکانے تک. منٹ چُتنی کے ساتھ خوشی سے خدمت کریں ۔
+:::

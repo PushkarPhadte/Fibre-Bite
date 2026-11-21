@@ -94,3 +94,39 @@ prepTimeSource: 'https://lowcarbafrica.com/sukuma-wiki-kenyan-collard-greens/'
 3. चिरलेली कोलार्डची पाने आणि 2 मोठे चमचे पाणी घाला; झाकण ठेवून 8 मिनिटे शिजवा.
 4. शेवटी लिंबाचा रस, मीठ आणि काळी मिरी घाला.
 :::
+
+:::lang en
+# Kenyan Sukuma Wiki (Sautéed Collard Greens)
+
+An East African staple dish of collard greens braised with tomatoes, onions, cumin, and lemon.
+
+## Instructions
+1. Heat olive oil in a pan; sauté onion for 4 minutes.
+2. Add chopped tomatoes and cumin; cook for 3 minutes.
+3. Add chopped collard greens and 2 tbsp water; cover and cook for 8 minutes.
+4. Finish with lemon juice, salt, and pepper.
+:::
+
+:::lang bn
+# কেনিয়ান সাকুমা উইকি (সাক্টর কর্ড গ্রিনস)
+
+পূর্ব আফ্রিকার এক প্রধান খাবার যা টমেটো, পেয়াজ, পাকনা এবং লেবু দিয়ে তৈরি সবুজ খাবার।
+
+## Instructions
+1. এক প্যানের মধ্যে হেট জিতবৃক্ষের তেল; ৪ মিনিট ধরে সাঁতরে।
+2. কাটা টমেটো যোগ করুন এবং mins; তিন মিনিট ধরে রান্না করুন।
+3. এই খাবারগুলো খুব সুস্বাদু ।
+4. লেবুর জুস, লবণ এবং মরিচ দিয়ে শেষ।
+:::
+
+:::lang ur
+# کینیا سکوما ویکی (Sautéed Colard Greens)
+
+مشرقی افریقہ کے ایک کھانے پر سبز رنگ کا سبز رنگ پایا جاتا ہے ۔
+
+## Instructions
+1. زیتون کے تیل کو پان میں پکایا جاتا ہے ۔
+2. ٹماٹر اور ٹماٹر شامل کریں ؛ ۳ منٹ تک پکانے کا کام کریں ۔
+3. اِس کے علاوہ اِس میں سبز رنگ اور ۲ ٹی‌بیس پانی بھی شامل ہوتا ہے ۔
+4. مونگ‌پھلی کا رس ، نمک اور مکئی کا رس ۔
+:::

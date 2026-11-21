@@ -117,3 +117,39 @@ prepTimeEstimated: true
 3. सागासाठी, तेलात मोहरी तडतडू द्या. लसूण सोनेरी होईपर्यंत परता, मग पालक आणि उरलेले मीठ घालून 3 मिनिटे परतत राहा.
 4. थंड भात काकडी, कांदा, पुदिना आणि लिंबाच्या रसासोबत वाढा. हिरवी मिरची बाजूला ठेवा आणि गरम पालक सोबत द्या.
 :::
+
+:::lang en
+# Pakhala Bhata with Spinach Saga (Odia Water Rice)
+
+Odisha's cooling summer meal: soft brown rice soaked in lightly salted curd water with cucumber and mint, served with garlicky spinach.
+
+## Instructions
+1. Cook 160 g of dry brown rice until soft, then cool and portion into bowls (about 400 g cooked in total).
+2. Whisk the curd with the water, cumin and 1.5 g of salt and pour over the rice. Refrigerate for 4 to 8 hours rather than leaving it out in warm weather, and discard if it smells off.
+3. For the saga, crackle the mustard seeds in the oil, fry the garlic until golden, add the spinach and the remaining salt and stir-fry for 3 minutes.
+4. Serve the rice cold with cucumber, onion, mint, lemon juice and a green chilli on the side, and the hot spinach.
+:::
+
+:::lang bn
+# স্পিনিচের (ওদিয়া ওয়াটার রাইস) পাকলা ভাটা
+
+ওডিশার গরম গরমের খাবার: নরম বাদামি ভাত হালকা লবণাক্ত পানিকে সসেজের সাথে তুলনা করা হয়েছে।
+
+## Instructions
+1. কুক ১৬০টি শুকনো বাদামি ধান, তারপর ঠাণ্ডা আর টুকরো টুকরো টুকরোয় (প্রায় ৪০০টা গ্লুক দিয়ে রান্না)।
+2. ওজন প্রায় ১. গরম আবহাওয়া থেকে বেরিয়ে আসার বদলে ৪ থেকে ৮ ঘন্টা সময় নষ্ট হয়ে যায়।
+3. তেলে সরিষাদানার বীজ বোনা, সোনার জন্য রসুন খাওয়া, বাকি লবণ আর ৩ মিনিটের জন্য উত্তেজিত করা।
+4. ফলের রস, লেবু, লেবুর জুস এবং অন্য দিকে সবুজ চুড়ার জন্য ভাতের ঠাণ্ডায় কাজ করুন ।
+:::
+
+:::lang ur
+# پیاکلا بھاٹا کے ساتھ اسپینخ ساگا (انڈیا واٹر رائس) ہے۔
+
+اودیشا کا ٹھنڈا موسم گرما کا کھانا: نرم بھورے چاول کے سُرخ رنگ کا سُرخ رنگ کا ہوتا ہے جس میں نمک کیچ اور منٹ کے ساتھ ساتھ لہسنکی مائل بھی ہوتی تھی۔
+
+## Instructions
+1. کوک 160 گرام خشک بھورے رنگ کے چاول جب تک نرم ، پھر ٹھنڈا اور حصہ ملا کر ( تقریباً 400 گُنا کِیا جاتا ہے ۔
+2. اِس کے پانی کو صاف کرنے کے لئے نمک اور 1.5 گُنا زیادہ استعمال کِیا جاتا ہے ۔ گرم موسم میں اسے چھوڑنے کی بجائے 4 سے 8 گھنٹے تک دوبارہ سانس لیں اور اگر خوشبو ختم ہو جائے تو اسے ختم کر دیں۔
+3. ساگا کے لیے تیل میں موجود رائی کے بیج کو توڑ دیں، سونے تک لہسن کو توڑ دیں، چاول اور باقی نمک کو شامل کریں اور 3 منٹ کے لیے-فری کو ہلائیں۔
+4. چاول کی سردی ، اونون ، منت ، ٹماٹر جوس اور ہرے رنگ کا رس اور گرم ریڑھ کی ہڈی کے ساتھ خدمت کریں ۔
+:::

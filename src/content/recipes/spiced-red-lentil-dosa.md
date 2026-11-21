@@ -83,3 +83,39 @@ prepTimeSource: 'https://minimalistbaker.com/red-lentil-dosas/'
 3. एक पळीभर पीठ तव्यावर ओता आणि पातळ गोलाकार पसरवा.
 4. कडा सुटू लागेपर्यंत आणि खालची बाजू सोनेरी व कुरकुरीत होईपर्यंत शिजवा; मग घडी घालून वाढा.
 :::
+
+:::lang en
+# Spiced Red Lentil Dosa
+
+Crispy savory crepes made from soaked red lentils and spices, served with fresh coconut chutney.
+
+## Instructions
+1. Drain soaked red lentils and blend with water, cumin, green chili, ginger, and salt until smooth.
+2. Heat a non-stick skillet over medium-high heat and lightly oil it.
+3. Pour ladleful of batter and spread into a thin circle.
+4. Cook until edges lift and bottom is golden and crisp, then fold and serve.
+:::
+
+:::lang bn
+# সংযুক্ত দূরবর্তী লাল লেতেল ডোসা
+
+কিন্তু, নারিকেলের জন্য প্রচুর পরিমাণে খাবার ছিল ।
+
+## Instructions
+1. তাই, এতে অবাক হওয়ার কিছু নেই যে, যিহোবা তাঁর দাসদের সঙ্গে কেমন ব্যবহার করেন ।
+2. মাঝারি তাপ ও হালকা ভাবে তেল দিয়ে ভেজা।
+3. আগুনের ঢালে গুলি ছড়িয়ে পড়ে।
+4. রান্নার কাজ শুরু করা
+:::
+
+:::lang ur
+# سُرخ لِن‌ٹل دوسا
+
+اِس کی وجہ یہ تھی کہ اُس نے اُن کے ساتھ تازہ ناریل بھی بنایا تھا ۔
+
+## Instructions
+1. یہاں تک کہ نرم مٹی کے برتنوں کو ملا کر اُنہیں پانی ، اُبالنا ، سبز رنگ کا رس اور نمک ملا کر ملا دیا جاتا ہے ۔
+2. درمیانے درجہ حرارت پر غیر معمولی مہارت اور ہلکا تیل۔
+3. اِس لئے اُس نے اُن سے کہا : ” تُم . . .
+4. کُک اُٹھ کر نیچے کی طرف سونا اور کریسپ ہوتا ہے ۔
+:::

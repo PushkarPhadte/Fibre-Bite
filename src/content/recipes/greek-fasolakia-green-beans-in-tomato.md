@@ -97,3 +97,39 @@ prepTimeEstimated: true
 3. हिरव्या शेंगा आणि बटाटे घालून झाकण ठेवा. मंद आचेवर 35 ते 40 मिनिटे शिजवा, सर्व पदार्थ खूप मऊ होईपर्यंत आणि रस्सा घट्ट होईपर्यंत.
 4. अजमोद मिसळा आणि गरम किंवा खोलीच्या तापमानाला वाढा.
 :::
+
+:::lang en
+# Fasolakia (Greek Green Beans Braised in Tomato)
+
+Tender green beans and potato slowly braised in olive oil, tomato and garlic, the way Greek families make it all summer.
+
+## Instructions
+1. Soften the onion and garlic in the olive oil for 5 minutes.
+2. Add the tomatoes, oregano, salt and water and simmer for 5 minutes.
+3. Add the green beans and potatoes, cover and simmer on low heat for 35 to 40 minutes until everything is very tender and the sauce is thick.
+4. Stir in the parsley and serve warm or at room temperature.
+:::
+
+:::lang bn
+# ফাসোলাকিয়া (গ্রীক গ্রীন বিন্স বাম্পো-এ)
+
+মিষ্টি সবুজ শিম এবং আলু ধীরে ধীরে জলপাই, টমেটো এবং রসুন দিয়ে বোনা হয়।
+
+## Instructions
+1. পাঁচ মিনিটের জন্য তেলে তেল আর রসুন ঢালো।
+2. টমেটো, কিংবাগানো, লবণ এবং পানি এবং ৫ মিনিটের জন্য সহজ ব্যবহার করুন ।
+3. সবুজ শিম এবং আলু যোগ করুন, বিশেষ করে ৩৫ থেকে ৪০ মিনিট পর্যন্ত গরমের জন্য।
+4. পার্লেতে স্টর এবং রুম তাপমাত্রায় উষ্ণ বা উষ্ণ সেবা করে।
+:::
+
+:::lang ur
+# شہر توماتو میں یونانی گرین بینز بورو (انگریزی:
+
+جس طرح یونانی خاندانوں نے اِسے گرم کِیا ہے اُسی طرح زیتون کے تیل ، ٹماٹر اور لہسن میں آہستہ آہستہ ہرن کے بیج اُبال جاتے ہیں ۔
+
+## Instructions
+1. زیتون کے تیل میں اُون اور لہسن کو ۵ منٹ تک پکایا جاتا ہے ۔
+2. ٹماٹروں میں نمک اور پانی شامل کِیا جاتا ہے ۔
+3. سبز دانوں اور بانسوں کو ملا کر رکھ دیں، 35 سے 40 منٹ تک کم درجہ حرارت پر رکھ دیں، یہاں تک کہ سب کچھ بہت نرم ہو جائے اور چاول موٹی ہو۔
+4. اِس کی وجہ یہ ہے کہ اُن کے بچے اُن سے ملنے جاتے ہیں ۔
+:::

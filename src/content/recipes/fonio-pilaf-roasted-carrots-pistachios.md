@@ -108,3 +108,39 @@ prepTimeEstimated: true
 3. भाजीचा रस्सा ओतून उकळी आणा. भांडे घट्ट झाकून अगदी मंद आचेवर 5 मिनिटे शिजवा. आच बंद करून झाकण न काढता 5 मिनिटे तसेच ठेवा, मग काट्याने दाणे मोकळे करा.
 4. भाजलेली गाजरे, लिंबाचा रस, ताजा पुदिना, पार्सली आणि चिरलेले पिस्ते फुललेल्या फोनिओमध्ये अलगद मिसळा. गरम किंवा खोलीच्या तापमानाला वाढा.
 :::
+
+:::lang en
+# West African Fonio Pilaf with Roasted Carrots and Pistachios
+
+Fluffy ancient West African fonio grain tossed with cumin-roasted carrots, shallots, bright fresh mint, lemon juice, and crunchy pistachios.
+
+## Instructions
+1. Preheat the oven to 210°C, toss the carrot half-moons with 10 ml of olive oil and half the cumin-coriander spice blend, and roast for 22 minutes until caramelized.
+2. Warm the remaining 10 ml of olive oil in a saucepan, sauté the diced shallots and remaining spices for 2 minutes, then stir in the dry fonio for 1 minute.
+3. Pour in the vegetable broth, bring to a boil, cover tightly, and cook on the lowest heat for 5 minutes; rest covered off the heat for 5 minutes before fluffing with a fork.
+4. Fold the roasted carrots, lemon juice, fresh mint, parsley, and chopped pistachios into the fluffy fonio and serve warm or at room temperature.
+:::
+
+:::lang bn
+# ওয়েস্ট আফ্রিকান ফনিও প্যালাফ
+
+প্রাচীন পশ্চিম আফ্রিকার ফানোও শস্যের সাথে মিশে গেছে।
+
+## Instructions
+1. ২১০ ডিগ্রিসিতে প্রত্নতা, ১০ মিলিটারী তেল আর অর্ধেক হৃৎপিণ্ড চাঁছায়, আর গাড়ীর রস নালা পর্যন্ত ২২ মিনিটের জন্য রান্না করা হয়।
+2. সসিয়ামপানের অবশিষ্ট ১০ মিলিটার মধ্যে সসেজ তেল গরম হয়ে যায়, সাদুতনে স্যুত এবং অবশিষ্ট মসলা দু'মিনিটের জন্য শুকনা হয়ে যায়।
+3. প্রচুর পরিমাণে খাদ্য পরিবেশন করা হয় ।
+4. এদের মধ্যে প্রায় ২,০০০ জন মারা যায় ।
+:::
+
+:::lang ur
+# مغربی افریقی فونو پِلف کے ساتھ غسل شدہ کاروتس اور پِستاچیوس
+
+مغربی افریقہ کے قدیم زمانے میں زرعی زرعی زرعی زرعی زرعی زرعی پیداوار کے ساتھ، ویلوٹ، چمکدار تازہ منٹ، ٹماٹر جوس اور کرنسی پُستاکیوس کے ساتھ مل کر کھایا جاتا تھا۔
+
+## Instructions
+1. پروہت اوون 210°C تک، زیتون کے تیل کے 10 ملی گرام اور نیم مریخ پر موجود آمیزے کو ملا کر 22 منٹ تک پکاتا ہے۔
+2. زیتون کے تیل کے باقی ۱۰ ملی گرام کو ایک آٹے میں گرم کرتے ہیں ۔
+3. اِس کے بعد ۵ منٹ کے لئے گرمی سے نیچے اُڑ کر اُڑ جاتے ہیں ۔
+4. اِس کی وجہ یہ ہے کہ اِن میں سے زیادہ‌تر لوگ اِس بات کی قدر کرتے ہیں کہ اُن کے دل میں اُن کے لئے قدر بڑھ جاتی ہے ۔
+:::

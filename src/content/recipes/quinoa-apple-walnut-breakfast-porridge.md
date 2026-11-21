@@ -75,3 +75,36 @@ prepTimeEstimated: true
 2. किसलेले सफरचंद मिसळा आणि आणखी 2 मिनिटे शिजवा.
 3. वरून अक्रोड घालून वाढा.
 :::
+
+:::lang en
+# Quinoa Apple Walnut Breakfast Porridge
+
+Creamy quinoa simmered in milk with grated apple, cinnamon and walnuts.
+
+## Instructions
+1. Simmer the quinoa with the milk, water and cinnamon for 15 minutes, stirring now and then, until soft and creamy.
+2. Stir in the grated apple and cook for 2 minutes.
+3. Serve topped with the walnuts.
+:::
+
+:::lang bn
+# Qnonoa Apple Wawapst Polwez
+
+ক্রিমি কুইনা দুধে ভরা আপেল, সিননামোন আর কফির রসালো।
+
+## Instructions
+1. দুধ, জল এবং স্নেমন প্রায় ১৫ মিনিট ধরে কাঁপুনি দিয়ে থাকে ।
+2. সাদা আপেল আর ২ মিনিট রান্না করে।
+3. হাত দিয়ে সেবা করা.
+:::
+
+:::lang ur
+# کوینووا ایپل والنوت ضلع (انگریزی: Kinoa Apple Walnut district) قبرص کا ایک ضلع جو ضلع پافوس میں واقع ہے۔
+
+اِس کے بعد اُس نے اپنے بچے کو دودھ پلایا ۔
+
+## Instructions
+1. سممر کو دودھ، پانی اور زنمون کے ساتھ 15 منٹ، اب اور پھر نرم اور کریمی تک پکایا جاتا ہے۔
+2. اِس کے بعد اُس نے دو منٹ تک کھانا پکایا ۔
+3. اِس کے بعد مَیں نے اُن سے پوچھا : ” کیا مَیں اُن کی بات مانتا ہوں ؟ “
+:::

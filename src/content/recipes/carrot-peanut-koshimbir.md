@@ -90,3 +90,36 @@ prepTimeEstimated: true
 2. तेल गरम करून त्यात मोहरी तडतडू द्या; कढीपत्ता घालून फोडणी कोशिंबिरीवर ओता.
 3. कोथिंबिरीने सजवा आणि खोलीच्या तापमानाला वाढा.
 :::
+
+:::lang en
+# Carrot Peanut Koshimbir
+
+A Maharashtrian raw carrot salad with peanuts, coconut and a mustard-curry leaf tempering.
+
+## Instructions
+1. Toss the carrots with peanuts, coconut, chilli, lemon juice and salt.
+2. Heat the oil, splutter the mustard seeds and curry leaves, and pour over the salad.
+3. Garnish with coriander and serve at room temperature.
+:::
+
+:::lang bn
+# কার্রন্ট পিনাট কোহিমবির
+
+বাদাম, নারিকেল এবং সরিষাদানি পাতা নিয়ে মহারাষ্ট্রীয় প্রবাল সংগীত।
+
+## Instructions
+1. বাদাম, নারিকেল, ঠাণ্ডা পানীয়, লেবুর জুস এবং লবণের রসগুলো ।
+2. তেল ঢালে, সরিষাদানার বীজ এবং সসেজ পাতা এবং সালাদের উপর ঢালুন ।
+3. সাক্রান্ডারের সাথে গাউন্ট এবং রুম তাপমাত্রায় কাজ করা।
+:::
+
+:::lang ur
+# کاروٹ مونگ‌پھلی کوسمبیر
+
+ایک مہاراشٹر کے چاولوں میں مونگ پھلی، ناریل اور شیشے کے پتوں کے ساتھ مل کر کھایا جاتا ہے۔
+
+## Instructions
+1. اِن میں مونگ‌پھلی ، ناریل ، سُرخ ، ٹماٹر اور نمک شامل ہیں ۔
+2. تیل کو صاف کرنے ، رائی کے دانے اور اُس کے پتوں کو چُھونے اور اُس پر پیسنے کی کوشش کرنے کی کوشش کریں ۔
+3. گارنیش کوریانڈر کے ساتھ اور کمرے کے درجہ حرارت پر خدمت کرتے ہیں۔
+:::

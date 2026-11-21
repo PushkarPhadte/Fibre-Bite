@@ -84,3 +84,36 @@ prepTimeEstimated: true
 2. नॉन-स्टिक पॅनमध्ये तेलात चमचेभर 3 मिनिटे सोनेरी होईपर्यंत शिजवा.
 3. उरलेली बडीशेप दह्यात मिसळा आणि सोबत सर्व्ह करा.
 :::
+
+:::lang en
+# Zucchini Besan Pan Fritters
+
+Pan-seared zucchini fritters bound with chickpea flour and egg, with a dill yogurt dip.
+
+## Instructions
+1. Mix the zucchini, besan, eggs, spring onions, half the dill and salt.
+2. Cook spoonfuls in the oil in a non-stick pan for 3 minutes per side until golden.
+3. Stir the remaining dill into the yogurt and serve alongside.
+:::
+
+:::lang bn
+# জুসিচিনি বেসান প্যান ফ্রিটার
+
+প্যান-সেন্সরী জুকেনি ফ্রাঁস-এর সাথে মিষ্টি আর ডিম বাঁধা।
+
+## Instructions
+1. ডিম, ডিম, বসন্ত, অর্ধেক ডিলি এবং লবণ ।
+2. গোল্ডেন না হওয়া পর্যন্ত ৩ মিনিটের জন্য কুক চামচাস তেলে ভরা।
+3. বাকি দের নিচে গিয়ে সাথে কাজ করে।
+:::
+
+:::lang ur
+# زوکینی بیسن پین فریٹز
+
+پان - جھیلوں سے چلنے والی ونچینی فریٹز جس میں ایک ڈائیول کیمرا اور انڈے جڑے ہوئے ہیں۔
+
+## Instructions
+1. مکس جوشی، بیسن، انڈے، چشمے کاغذ، آدھی ڈیڑھ اور نمک۔
+2. کوکو تیل میں غیر زہریلے پن میں سونے تک 3 منٹ فی پہلوی۔
+3. باقی برتنوں میں گھس کر ساتھ خدمت کرتے ہیں ۔
+:::

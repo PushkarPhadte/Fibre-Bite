@@ -102,3 +102,39 @@ prepTimeEstimated: true
 3. बटाटा, फुलकोबी, मीठ आणि 100 मिली पाणी घाला. झाकण ठेवून 20 मिनिटे शिजवा आणि मध्येच ढवळा.
 4. कोथिंबिरीने सजवा.
 :::
+
+:::lang en
+# Light Aloo Gobi
+
+Potato and cauliflower dry curry with cumin, coriander and turmeric using minimal oil.
+
+## Instructions
+1. Heat the oil, splutter the cumin and cook the onion and ginger until soft.
+2. Add the tomato and spices and cook for 3 minutes.
+3. Add the potato, cauliflower, salt and 100 ml water, cover and cook for 20 minutes, stirring occasionally.
+4. Garnish with coriander.
+:::
+
+:::lang bn
+# হালকালু গোবি
+
+পোতাতো এবং ফুল ফুলের শুষ্ক ফল
+
+## Instructions
+1. তেলের উপরে ঢালুন, ধূমপায়ী আর রান্না করেন নরম না হওয়া পর্যন্ত।
+2. টমেটো এবং মসলা যোগ করুন ৩ মিনিট ধরে।
+3. আলু, ফুল, লবণ এবং ১০০ মিটার জল যোগ করুন, যা ২০ মিনিট ধরে ঢেকে রাখা ও রান্না করা যায় ।
+4. কোরিয়ান্ডারের সাথে গারসন।
+:::
+
+:::lang ur
+# نور اللو گوبی
+
+اِس کے بعد اُس نے اِس کا تیل استعمال کِیا ۔
+
+## Instructions
+1. تیل کو صاف کریں اور نرم ہونے تک اُس کے معدے کو صاف کریں ۔
+2. ٹماٹر اور ٹماٹر شامل کرکے 3 منٹ تک پکایا۔
+3. اِس کے علاوہ اِس میں ۲۰ منٹ تک پانی ، کپڑے ، کپڑے اور کھانے وغیرہ شامل کئے جاتے ہیں ۔
+4. گارنیش کوریانڈر کے ساتھ.
+:::

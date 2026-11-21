@@ -112,3 +112,42 @@ prepTimeEstimated: true
 4. गरम रस्स्याचा एक पळीभर भाग योगर्टमध्ये फेटून घ्या; मग पॅन आचेवरून उतरवून ते मिश्रण पुन्हा पॅनमध्ये ढवळा.
 5. वरून पार्सली भुरभुरा आणि ब्राउन राइस किंवा जवासोबत वाढा.
 :::
+
+:::lang en
+# Light Chicken Paprikash with Greek Yogurt
+
+Hungarian paprika chicken stewed with onion and peppers and finished with a swirl of Greek yogurt instead of soured cream.
+
+## Instructions
+1. Soften the onion in the oil for 8 minutes until golden, then take off the heat and stir in the paprika so it does not burn.
+2. Add the garlic, chicken, capsicum, tomato, salt and water and bring to a simmer.
+3. Cover and cook gently for 25 minutes until the chicken is tender and the sauce is rich.
+4. Whisk a ladle of hot sauce into the yogurt, then stir it back into the pan off the heat.
+5. Scatter with parsley and serve with brown rice or barley.
+:::
+
+:::lang bn
+# গ্রীক ইয়োগুর মাধ্যমে হালকা মুরগির পাপড়ি
+
+হাঙ্গেরীয় পাম্পিকা মুরগির মাংস পেঁচিয়ে দন্ড আর মরিচ দিয়ে শেষ হয়ে গেল।
+
+## Instructions
+1. এই তেলে আট মিনিটের জন্য তেল ঢালে, তারপর গরমের সময় নামার পর Phila তে জ্বলে না।
+2. রসুন, মুরগি, পচন, টমেটো, লবণ এবং জল যোগ করুন ।
+3. কভার আর রান্না করে ২৫ মিনিটের জন্য সহজ করে রান্না করা, যতক্ষণ না মুরগি কোমল আর সস সমৃদ্ধ হয়।
+4. উলকির একটি মিষ্টি সস, দইটের মধ্যে দিয়ে, তারপর এটাকে গরমের মধ্যে ফেলে দেয়।
+5. প্যারলির সাথে যুক্ত হয়ে বাদাম বা যবের সাথে কাজ করা।
+:::
+
+:::lang ur
+# ہلکے Chicken Paprikash کے ساتھ یونانی یوگا کے ساتھ
+
+ہنگری کے پُرکیکا مرغی نے اونون اور پَروں کے ساتھ مل کر اُن کی مدد کی ۔
+
+## Instructions
+1. 8 منٹ تک تیل میں موجود اونس کو گرم کر کے پھر پوکیکا میں جذب کر لیتا ہے تاکہ وہ جل نہ جائے۔
+2. لہسن ، مرغی ، کپاس ، ٹماٹر ، نمک اور پانی کو ملا کر اسے صاف کرنے کی کوشش کرتے ہیں ۔
+3. جب تک مرغی نرم ہو جاتی ہے اور مرغی مال‌ودولت حاصل نہیں کرتی ۔
+4. اسکے بعد اُسے دوبارہ گرم کِیا جاتا ہے ۔
+5. اِس کے علاوہ اُن کے ساتھ چاول بھی ہوتا ہے ۔
+:::

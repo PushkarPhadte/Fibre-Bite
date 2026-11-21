@@ -108,3 +108,39 @@ prepTimeEstimated: true
 3. वाढण्याच्या अगदी आधी कुरमुरे आणि चटणी घाला; कुरमुरे कुरकुरीत राहावेत म्हणून पटकन एकत्र करा.
 4. लगेच वाढा.
 :::
+
+:::lang en
+# Puffed Rice Bhel with Cucumber and Peanuts
+
+A fresh, no-fry bhel of murmura, cucumber, tomato and roasted peanuts with a tamarind-mint dressing.
+
+## Instructions
+1. Whisk the tamarind pulp with 30 ml of water, the lemon juice, cumin, chilli and salt into a thin dressing.
+2. Combine the cucumber, tomato, onion, peanuts, coriander and mint in a large bowl.
+3. Add the puffed rice and dressing just before serving and toss quickly so the rice stays crisp.
+4. Serve immediately.
+:::
+
+:::lang bn
+# চিনা এবং পিনাটের সঙ্গে ভাত বাহেল
+
+একটি নতুন, একটি তাজা, বচসার বিড়ম্বল, পীতলা, টমেটো আর বাদামের পোশাক।
+
+## Instructions
+1. উল্কির শ্লেষে ৩০ সেন্টিমিটার পানি, লেবুর জুস, জিমিন, ঠাণ্ডা আর লবণ পাতলা পোষাকে।
+2. প্লুমেষ, টমেটো, লোশন, বাদাম, কোয়রান্ডার এবং মিমকে বড় বাটি ।
+3. চালের যত্ন নেওয়া
+4. জলদি সেবা করো।
+:::
+
+:::lang ur
+# ککمبر اور مونگ پھلی کے ساتھ پافڈ رائس بال
+
+ایک تازہ، نو-فری بِل، ککْکْم، ٹماٹر اور تلمذ کے ساتھ مونگ پھلی کو پکایا۔
+
+## Instructions
+1. اِس کے بعد اُس نے اِس پر پانی ڈالا ۔
+2. ایک بڑے برتن میں کک‌کوم ، ٹماٹر ، اونن ، مونگ‌پھلی ، کوریان اور منٹ‌بھر کو ملا دیں ۔
+3. اِس کے علاوہ وہ چاول بھی تیار کرتے ہیں ۔
+4. فوری طور پر خدمت کریں ۔
+:::

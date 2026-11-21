@@ -87,3 +87,39 @@ prepTimeSource: 'https://www.vegrecipesofindia.com/kokum-curry-sol-kadhi/'
 3. ठेचलेला लसूण, हिरवी मिरची, भाजलेल्या जिऱ्याची पूड आणि मीठ घाला.
 4. 30 मिनिटे थंड करा, ताज्या कोथिंबिरीने सजवा आणि थंड वाढा.
 :::
+
+:::lang en
+# Sol Kadhi (Kokum and Coconut Milk Drink)
+
+A cooling Goan-Konkani digestive drink made from natural kokum extract, fresh coconut milk, garlic, and chillies.
+
+## Instructions
+1. Extract dark red kokum juice (amsul) by pressing soaked kokum petals.
+2. Whisk kokum juice with fresh coconut milk.
+3. Add crushed garlic, green chilli, roasted cumin powder, and salt.
+4. Chill for 30 minutes, garnish with fresh coriander, and serve cold.
+:::
+
+:::lang bn
+# সোল কাধি (কুকুমো এবং কোকুত্তা দুধ পান)
+
+প্রাকৃতিক কুকুম থেকে তৈরি একটি ঠান্ডা গোন-কোনিকানি জল, তাজা নারিকেল দুধ, রসুন এবং ঠাণ্ডা পানীয়।
+
+## Instructions
+1. ঘন লাল কুকুম জুস (মুসুল) সম্প্রসারণ করুন।
+2. হুইককুম জুস তাজা নারিকেল দুধ দিয়ে তৈরি।
+3. দ্রাক্ষার রসুন, সবুজ ঠাণ্ডা, বরবণ, এবং লবণ.
+4. ৩০ মিনিটের জন্য শান্ত হও, তাজা কোরিয়ান্ডার দিয়ে ঠান্ডায় কাজ করো।
+:::
+
+:::lang ur
+# سول کبڈی (کوکوم اور کین کا دودھ پینے والا مشروب)
+
+قدرتی کوکوم نکالنے، تازہ ناریل کا دودھ، لہسن اور کھانے پینے سے تیار کردہ مشروب۔
+
+## Instructions
+1. ہلکے سرخ کوکوم جوس (amsul) کو دبا کر kokum Pathals خارج کرتا ہے۔
+2. وِسک کوکوم جون کو تازہ ناریل کا دودھ دیتا ہے ۔
+3. اِس میں لہسن ، ہرے رنگ کے گندھک اور نمک شامل ہیں ۔
+4. چیل 30 منٹ تک، تازہ کریندر کے ساتھ، اور سردیوں میں خدمت کرتے ہیں۔
+:::

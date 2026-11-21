@@ -100,3 +100,39 @@ prepTimeSource: 'https://www.bbcgoodfood.com/recipes/moroccan-vegetable-couscous
 3. झुकिनी, हरभरे, दालचिनी, जिरे आणि थोडे पाणी घाला; 15 मिनिटे मंद आचेवर शिजवा.
 4. गरम भाजी-हरभऱ्याचा रस्सा फुललेल्या कुसकुसवर वाढा.
 :::
+
+:::lang en
+# Moroccan Vegetable and Chickpea Couscous
+
+Fluffy couscous served with a spiced stew of carrots, zucchini, chickpeas, and warm Moroccan spices.
+
+## Instructions
+1. Prepare couscous by pouring boiling vegetable broth over dry couscous, covering, and letting sit for 5 minutes before fluffing.
+2. Heat olive oil in a pan and sauté onion and carrots until softened.
+3. Add zucchini, chickpeas, cinnamon, cumin, and a splash of water; simmer for 15 minutes.
+4. Serve the warm vegetable chickpea stew over the fluffy couscous.
+:::
+
+:::lang bn
+# মরোক্কোর ভেলা এবং মুরগী কুসকুস
+
+ফুফি কুসকুস কাররোট, জুকুচিনি, মেয়েপে, এবং উষ্ণ মরোক্কোর মসলা দিয়ে পরিবেশন করা হয়।
+
+## Instructions
+1. রান্না করার জন্য প্রস্তুত হোন ।
+2. জিতবৃক্ষের তেল এক প্যানে এবং ঝোঁক পর্যন্ত নরম ছিল ।
+3. মেকচিনি, কুঁদো, সিনামোন, হৃৎপিণ্ড এবং এক ফোঁটা জল যোগ করুন; ১৫ মিনিটের জন্য সহজ ।
+4. গরম সবজির ডালে পরিবেশন করুন।
+:::
+
+:::lang ur
+# ماورککن وِجَوَتَّبُ وَوَقَّا قُوسُوسُوسُونَ
+
+اِس کے علاوہ اُنہوں نے اِس بات پر بھی غور کِیا کہ اِس میں کیا کچھ شامل ہے ۔
+
+## Instructions
+1. کوس‌کوس تیار کرنے سے خشک سبزیوں کو صاف کرنے ، کپڑے پہننے سے پہلے ۵ منٹ تک بیٹھ جاتے ہیں ۔
+2. یہاں تک کہ اُس نے زیتون کا تیل بھی کھایا ۔
+3. اِس میں 15 منٹ تک پانی جمع ہوتا ہے ۔
+4. اِس کی وجہ یہ تھی کہ اُس نے اِس جزیرے کو خوب بنایا تھا ۔
+:::

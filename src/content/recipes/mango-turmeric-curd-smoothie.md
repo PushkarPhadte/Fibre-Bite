@@ -68,3 +68,33 @@ prepTimeEstimated: true
 1. सर्व साहित्य ब्लेंडरमध्ये घाला.
 2. 45 सेकंद गुळगुळीत होईपर्यंत ब्लेंड करा आणि दोन ग्लासांत ओता.
 :::
+
+:::lang en
+# Mango Turmeric Curd Smoothie
+
+A thick, creamy smoothie of ripe mango, curd, turmeric and ginger.
+
+## Instructions
+1. Add all ingredients to a blender.
+2. Blend for 45 seconds until smooth and pour into two glasses.
+:::
+
+:::lang bn
+# মঙ্গো টারমেরিক কার্ডিজ
+
+পাকা আম, রসালো, রসালো, রসালো এবং ভাটা।
+
+## Instructions
+1. সব উপাদান একটি বিয়ারের সাথে যোগ করুন।
+2. ৪৫ সেকেন্ডের জন্য সাশ্রয়ী, যতক্ষণ না মসৃণ হয়ে দুই গ্লাসে ঢেলে দাও।
+:::
+
+:::lang ur
+# مونگ‌پھلی کا رنگ
+
+اِس کی وجہ یہ تھی کہ اُس نے اُن سے کہا : ” مَیں نے اُن کی بات مان لی ہے ۔ “
+
+## Instructions
+1. ایک ملانے والے میں تمام اجزاء شامل کریں ۔
+2. 45 سیکنڈ کے لیے 45 سیکنڈ تک دو گلاس میں ڈال دیں ۔
+:::

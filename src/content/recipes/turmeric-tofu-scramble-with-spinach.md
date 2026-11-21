@@ -95,3 +95,39 @@ prepTimeEstimated: true
 3. टोफू आणि मीठ घाला आणि चमच्याने फोडून 4 मिनिटे शिजवा.
 4. पालक फक्त कोमेजून येईपर्यंत दुमडून घ्या आणि मिरपूड टाका.
 :::
+
+:::lang en
+# Turmeric Tofu Scramble with Spinach
+
+A vegan scramble of crumbled tofu with turmeric, tomato and wilted spinach.
+
+## Instructions
+1. Heat the oil, splutter the cumin and cook the onion until translucent.
+2. Add the tomato and turmeric and cook for 2 minutes.
+3. Add the tofu and salt and cook for 4 minutes, breaking it up with a spoon.
+4. Fold in the spinach until just wilted and finish with black pepper.
+:::
+
+:::lang bn
+# ঘূর্ণ্যমান টফু স্কলার সঙ্গে টারমিনিক টফু স্কলার
+
+একটা গাঁথা টফু টুকরো টুকরো হয়ে যায়, টমেটো আর ঘুরে যায়।
+
+## Instructions
+1. তেলের উপরে, ধূমপায়ী এবং জলস্রোত রান্না করা পর্যন্ত।
+2. টমেটো আর টরমেরিক যোগ করো আর ২ মিনিট রান্না করো।
+3. টফু আর লবণ যোগ করো আর ৪ মিনিট রান্না করো, চামচ দিয়ে ভেঙ্গে ফেলো।
+4. শুধু কালো মরিচ শেষ না হওয়া পর্যন্ত শকুন.
+:::
+
+:::lang ur
+# اِس وجہ سے اُن کی عمر تقریباً ۳۰ سال ہے ۔
+
+اِس کی وجہ یہ تھی کہ اُس نے اِس بات کی تصدیق کی کہ اُس نے اُس کی مدد کی ہے ۔
+
+## Instructions
+1. تیل کو صاف کرنے کے بعد ، تیل کو صاف کرنے اور اِس کی صفائی کرنے تک اون کو پکاتے ہیں ۔
+2. ٹماٹر اور ٹرمر شامل کرکے 2 منٹ تک پکایا۔
+3. اِس کے بعد اُس کا ذائقہ ٹوٹ جاتا ہے ۔
+4. اِس کے بعد اُس نے اُس سے پوچھا : ” کیا مَیں اِس بات پر یقین رکھتا ہوں کہ مَیں اُس کے ساتھ ہوں ؟ “
+:::

@@ -107,3 +107,39 @@ prepTimeEstimated: true
 3. लसूण आणि थाइम घालून 1 मिनिट परता; मग मसूर, जव आणि भाज्यांचा साठा घाला.
 4. उकळी आणा, आच मंद करा, झाकण ठेवा आणि धान्य व मसूर मऊ होईपर्यंत 35 ते 40 मिनिटे शिजवा.
 :::
+
+:::lang en
+# Black Lentil and Barley Harvest Soup
+
+Hearty vegetable soup made with beluga lentils, hulled barley, celery, carrots, and thyme.
+
+## Instructions
+1. Rinse the black lentils and hulled barley under cold running water.
+2. Heat olive oil in a heavy pot over medium heat and sauté onion, carrots, and celery for 6 minutes.
+3. Add garlic and thyme, stir for 1 minute, then add lentils, barley, and vegetable broth.
+4. Bring to a boil, reduce heat to low, cover, and simmer for 35 to 40 minutes until grains and lentils are tender.
+:::
+
+:::lang bn
+# ব্ল্যাক লিটল এবং বার্লি ফসল সোর
+
+মাংসের সুপের তৈরি মাংসের কল, যব, কোদাল,rolies এবং আপনার রস।
+
+## Instructions
+1. আর এর ফলে গরম পানির উপর দিয়ে কাটা যব তৈরি হয়।
+2. প্রচুর পরিমাণে গরমের মধ্যে হেট জিতবৃক্ষের তেল এবং স্যাঁতসেঁতে ছয় মিনিট ধরে শূককীট করা হয় ।
+3. রসুন এবং আপনার মেমিকে ১ মিনিটের জন্য নাড়া দিন, তারপর হাতাহাতি, যব এবং সবজি ব্রোথ যোগ করুন ।
+4. তাই, এতে অবাক হওয়ার কিছু নেই যে, শস্যের পরিমাণ বৃদ্ধি পাবে ।
+:::
+
+:::lang ur
+# بلیک لینٹل اور بارلی کٹائی سوپ
+
+دلدلی سبزیوں کے پکوانوں سے بنے ہوئے تھے ۔
+
+## Instructions
+1. اِس کی وجہ یہ تھی کہ اُن کے جسم میں بہت زیادہ سردی ہوتی تھی ۔
+2. زیتون کے تیل کو درمیان میں گرم گرم اور صابن پر مشتمل تیل میں ۶ منٹ تک گرم کِیا جاتا ہے ۔
+3. لہسن اور آپکا معدے شامل کریں ، ۱ منٹ تک اُڑ جائیں ، پھر مونگ‌پھلی ، جَو اور سبزیاں وغیرہ شامل کریں ۔
+4. اُس وقت تک اُس کی فصل نرم ہو جاتی ہے ۔
+:::

@@ -105,3 +105,39 @@ prepTimeEstimated: true
 3. उरलेले ऑलिव्ह तेल, लिंबाचा रस आणि डिझॉन मोहरी फेटून हलकी ड्रेसिंग तयार करा.
 4. वाढण्यापूर्वी फर्रो, करपवलेले ब्रसेल्स स्प्राउट्स, चिरलेले अक्रोड आणि ड्रेसिंग एकत्र करा.
 :::
+
+:::lang en
+# Charred Brussels Sprouts and Farro Salad
+
+Nutty chewy farro tossed with blistered Brussels sprouts, toasted walnuts, and bright lemon-mustard vinaigrette.
+
+## Instructions
+1. Simmer farro in water for 20 to 25 minutes until tender yet chewy, then drain excess liquid and cool slightly.
+2. Toss Brussels sprouts with half the olive oil and sear in a hot skillet for 8 to 10 minutes until charred on the cut sides.
+3. Whisk remaining olive oil, lemon juice, and Dijon mustard into a light dressing.
+4. Combine farro, charred Brussels sprouts, chopped walnuts, and dressing before serving.
+:::
+
+:::lang bn
+# রড ব্রাসেলস স্প্রাউট এবং ফারো সালাদ
+
+নুটি চিওনো টর্তো ডোরোর সাথে কিউবার অঙ্কুরিত পাতা, টোস্টিং কাটি, আর উজ্জ্বল লেবুর স্বাদের স্বাদ।
+
+## Instructions
+1. এখন পর্যন্ত কোমল চিবো না হওয়া পর্যন্ত ২০ থেকে ২৫ মিনিট পানির মধ্যে সিমেরো। এরপর অতিরিক্ত তরল ও ঠাণ্ডা জল ঝরছে।
+2. ব্রাসেলসে প্রায় অর্ধেক জলপাই এবং সামুদ্রিক মাছ রয়েছে ।
+3. প্রচুর পরিমাণে তেল, লেবু, লেবুর জুস এবং সরিষাদানি হালকা পোষাকে ।
+4. ওয়ালডেন্‌অরো নামে পরিচিত ওয়ালডেনসিসরা অঙ্কুরিত হয়ে যায়, কাটিংগাছ কেটে এবং সেবা করার আগে পোশাক - আশাক পরে ।
+:::
+
+:::lang ur
+# چارارڈ برسلز اور فارو سالالڈ
+
+نیوٹرینو میٹر (Nutty Folrows) جس میں انفنٹری برسلز کی کمیت ہوتی ہے، اس کی وجہ سے پانی کی کمیت بڑھ جاتی ہے۔
+
+## Instructions
+1. پانی میں ۲۰ سے ۲۵ منٹ تک نہایت نرمی سے استعمال ہونے تک ۲۰ سے ۲۵ منٹ پانی میں تبدیل ہو جاتا ہے ۔
+2. توس برسلز زیتون کے تیل کے نصف حصے میں اُس وقت تک 8 سے 10 منٹ تک اُبالتا رہتا ہے جب تک کہ کاٹ نہ دیا جائے ۔
+3. اِس کے علاوہ زیتون کا تیل ، ٹماٹر کا رس اور ڈی‌اے‌این‌ن کے دانے بھی ہلکے کپڑے میں ڈالتے ہیں ۔
+4. اِس کے علاوہ اِن میں سے کچھ بہن‌بھائی بھی شامل ہیں ۔
+:::

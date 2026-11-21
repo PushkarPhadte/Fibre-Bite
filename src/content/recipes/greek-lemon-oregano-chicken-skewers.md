@@ -93,3 +93,39 @@ prepTimeSource: 'https://www.themediterraneandish.com/greek-chicken-souvlaki-rec
 3. मॅरिनेट केलेले चिकन सीखांवर ओवा.
 4. मध्यम-उच्च आचेवर ग्रिल करा किंवा पॅनमध्ये प्रत्येक बाजूला 4–5 मिनिटे शेकून घ्या, चिकन पूर्ण शिजेपर्यंत आणि त्याला किंचित करपलेला रंग येईपर्यंत.
 :::
+
+:::lang en
+# Greek Lemon Oregano Chicken Skewers
+
+Tender chicken chunks marinated in Greek olive oil, lemon, garlic, and oregano, then grilled.
+
+## Instructions
+1. Whisk together lemon juice, olive oil, minced garlic, oregano, salt, and pepper in a bowl.
+2. Add chicken cubes and marinate for at least 30 minutes.
+3. Thread marinated chicken onto skewers.
+4. Grill or pan-sear over medium-high heat for 4-5 minutes per side until fully cooked and slightly charred.
+:::
+
+:::lang bn
+# গ্রীক লেবু অরেনো মুরগির মাচো
+
+মুরগির মাংস
+
+## Instructions
+1. লেবুর জুস, জলপাই তেল, রসুন, বাগানো, লবণ এবং মরিচের রস একসাথে মিলে যায়।
+2. চিকেন কিউব যোগ করো আর কমপক্ষে ৩০ মিনিট লাগবে.
+3. স্নিগ্ধ মুরগির মাংস।
+4. সম্পূর্ণ রান্না এবং সামান্য অক্ষর না করা পর্যন্ত ৪-৫ মিনিটের জন্য গ্রিল অথবা প্যানার হিট।
+:::
+
+:::lang ur
+# یونانی لیمون اوریگانو چیکن سکیورز
+
+اِس کے بعد اُس نے زیتون کے تیل ، ٹماٹر ، لہسن اور اِس کے تیل کو اِستعمال کِیا ۔
+
+## Instructions
+1. اِس کے علاوہ اِس میں لہسن ، زیتون کا تیل ، لہسن ، نمک اور پیاز شامل ہیں ۔
+2. کم‌ازکم ۳۰ منٹ تک مرغی اور مریخ کو بھی شامل کریں ۔
+3. اِس لئے اُس نے اُن سے کہا : ” مَیں اُن کی بات نہیں مانتا ۔ “
+4. گریل یا پن میٹر زیادہ سے زیادہ اوسط درجہ حرارت 4-5 منٹ فی پہلو تک مکمل طور پر پکایا اور تھوڑا سا کرۂ فضائی۔
+:::

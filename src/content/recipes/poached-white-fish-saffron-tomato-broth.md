@@ -90,3 +90,39 @@ prepTimeEstimated: true
 3. हॅडॉकचे तुकडे मंद उकळणाऱ्या रस्स्यात अलगद ठेवा, झाकण ठेवा आणि मासळी अपारदर्शक होऊन सहज सुटणारी होईपर्यंत 8 ते 10 मिनिटे शिजवा.
 4. वाढण्यासाठी मासळी आणि केशर-टोमॅटोचा रस्सा वाट्यांत काढा.
 :::
+
+:::lang en
+# Poached White Fish in Saffron Tomato Broth
+
+Delicate haddock or cod poached in an aromatic broth of crushed tomatoes, fennel, garlic, and saffron threads.
+
+## Instructions
+1. Heat olive oil in a wide skillet over medium heat and sauté diced fennel and garlic for 5 minutes.
+2. Stir in crushed tomatoes and saffron threads and simmer gently for 8 minutes.
+3. Nestle the haddock fillets into the simmering broth, cover, and poach for 8 to 10 minutes until opaque and flaky.
+4. Spoon the fish and saffron tomato broth into bowls to serve.
+:::
+
+:::lang bn
+# শফরন টমেটো ব্রোথে পোল্লা সাদা মাছ
+
+বিভিন্ন ধরনের সুগন্ধি তৈরি করা হতো ।
+
+## Instructions
+1. প্রচুর পরিমাণে গরমের কারণে প্রচুর পরিমাণে জলপাই তেল এবং সাঁতরে ওজন পাঁচ মিনিটের জন্য রসুন দিয়ে তৈরি হয় ।
+2. দ্রাক্ষা টমেটো আর সাঁতরন থ্রেড ৮ মিনিটের জন্য কোমলভাবে
+3. খালি হাতে খাঁচা ভর্তি, ঢাকা, এবং পলিচ ৮ থেকে ১০ মিনিট পর্যন্ত।
+4. মাছ আর সফরন টমেটো ব্রোথকে পরিবেশন করে।
+:::
+
+:::lang ur
+# سافرون توماتو بوتھ میں پاوکیڈ وائٹ مچھلی
+
+اِس کی ایک وجہ تو یہ ہے کہ اِس کے بعد اُس نے اِسے پکایا ۔
+
+## Instructions
+1. زیتون کے تیل کو درمیان میں گرم گرم اور صابن میں ۵ منٹ تک اُبال دیا جاتا تھا ۔
+2. اِس کے بعد اُس نے اِس بات پر زور دیا کہ اُس نے اُس کے لئے کھانا تیار کِیا ہے ۔
+3. جب تک اوپیک اور اُوپریا جانے تک ۸ سے ۱۰ منٹ تک اُوپر نہیں اُٹھایا جاتا ۔
+4. اِس کے علاوہ اُس نے اُن سے کہا : ” مَیں اِس بات پر خوش ہوں کہ مَیں اُن کے ساتھ ہوں ۔ “
+:::

@@ -98,3 +98,36 @@ prepTimeEstimated: true
 2. गाजर, कोबी, फरसबी, एडामामे, मीठ आणि पाणी घालून 12 मिनिटे मंद आचेवर शिजवा.
 3. लिंबाचा रस, कोथिंबीर आणि मिरी मिसळून गरम वाढा.
 :::
+
+:::lang en
+# Lemon Coriander Soup with Edamame
+
+An Indian-style clear vegetable soup with lemon, coriander and edamame for protein.
+
+## Instructions
+1. Heat the oil and cook the onion, garlic and ginger for 3 minutes.
+2. Add the carrot, cabbage, beans, edamame, salt and water and simmer for 12 minutes.
+3. Stir in the lemon juice, coriander and pepper and serve hot.
+:::
+
+:::lang bn
+# এডিমের সাথে হলদে করিয়ানডার সোপি
+
+একটি ভারতীয় স্টাইলে লেবু, কোরিয়ান্ডার এবং ইমাদেমের সাথে লেবুর সুপ পরিষ্কার করা হয়েছে।
+
+## Instructions
+1. তেল আর রান্না করে তিন মিনিটের জন্য রসুন আর মদ খাওয়া।
+2. আপনি কি সেখানে যেতে চান?
+3. লেবুর জুস, কোরিয়ান্ডার এবং মরিচ এবং গরম পরিবেশন।
+:::
+
+:::lang ur
+# ایڈمنٹن کے ساتھ لیمون کروئینڈر سوپ
+
+پروٹین کے لیے ایک ہندوستانی-سیٹیئم روشن سبزیوں کا پکوان، کرویانڈر اور ادمے کے ساتھ ہوتا ہے۔
+
+## Instructions
+1. تیل کو پکا کر ۳ منٹ تک لہسن ، لہسن اور مشروبات پکاتے ہیں ۔
+2. اِس کے علاوہ اِس میں اُن کا پانی اور پانی بھی شامل ہوتا ہے ۔
+3. مونگ‌پھلی کے جوس ، کوریان اور مکھن میں اُبال کر گرم خدمت کرتے ہیں ۔
+:::

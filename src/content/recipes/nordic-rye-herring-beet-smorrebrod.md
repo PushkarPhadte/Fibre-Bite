@@ -106,3 +106,39 @@ prepTimeEstimated: true
 3. गडद राई ब्रेडच्या स्लाइसवर हॉर्सरॅडिश-दही समप्रमाणात पसरवा आणि तळावर बीटचे काप एकमेकांवर किंचित चढवत सजवा.
 4. वर गरम किंवा थंड केलेले बेक्ड हेरिंग फिले, लाल कांद्याच्या चकत्या, धुऊन निथळलेले केपर्स आणि उरलेल्या ताज्या शेपूच्या काड्या ठेवा.
 :::
+
+:::lang en
+# Nordic Rye Smørrebrød with Baked Herring and Beetroot
+
+Heart-healthy open-faced Danish whole-grain dark rye sandwiches layered with omega-3-rich baked Atlantic herring, horseradish yogurt, cooked beets, and fresh dill.
+
+## Instructions
+1. Preheat the oven to 200°C, brush the herring fillets with olive oil and half the lemon juice, and bake on a lined tray for 10 to 12 minutes until flaky.
+2. Whisk the yogurt, prepared horseradish, remaining lemon juice, and half the chopped dill in a small bowl.
+3. Spread the horseradish yogurt evenly over the dark rye bread slices and shingle the sliced beetroot across the base.
+4. Top with the warm or cooled baked herring fillets, red onion rings, rinsed capers, and the remaining fresh dill sprigs.
+:::
+
+:::lang bn
+# নর্ডিক রেই সর্রম রুথ্রমবথ্রম রুনজ
+
+হৃদয় খোলা ড্যানিশদের মুখ থেকে সম্পূর্ণ অন্ধকার রি-গ্রাচের স্যান্ডউইচ, ওমেগা-চিঠি দিয়ে তৈরি আটলান্টিকের তৈরি চামড়া, ঘোড়ায় ভরা, রান্না করা আর তাজা কাপড়।
+
+## Instructions
+1. তেল আর লেবুর রস দিয়ে ভরা ঝোলারের চুলগুলো পরিষ্কার করুন, আর একটি লাইন ট্রেতে ১০ থেকে ১২ মিনিট পর্যন্ত।
+2. কফির তৈরি ঘোড়া, বাকি লেবুর রস আর অর্ধেক বাটি এক বাটি বাটি বাটি বাটির মধ্যে ।
+3. এমনকি ঘোড়ার মাংসের টুকরো পর্যন্ত ছড়িয়ে দিন... ...আর টুকরো টুকরো টুকরো টুকরো হয়ে যাবে.
+4. গরম ও ঠাণ্ডা জল দিয়ে তৈরি পূরন, লাল রঞ্জিত রিং, রঞ্জক টুপি এবং অবশিষ্ট তাজা ডাইরিগুলো ।
+:::
+
+:::lang ur
+# نوردی رے سموربرُود کے ساتھ بالترتیب ہررنگ اور بیوتوت کے ساتھ
+
+دل کا دورہ پڑنے والے کھلے عام ڈینش پورے سیاہ رنگ کے رایائل کی تہہ میں omega-3-rich cowil Elantic herring، گھوڑوں کی کاشت، بیلوں کو پکا کر پکایا اور تازہ ڈیول۔
+
+## Instructions
+1. زیتون کے تیل اور آدھے حصہ کے رس کو صاف کرتے ہیں اور اُس وقت تک ۱۰ سے ۱۲ منٹ تک ایک قطار میں کھڑے رہتے ہیں ۔
+2. اِس کے بعد اُس نے اپنے مویشیوں سے کہا : ” مَیں اِس بات پر خوش ہوں کہ مَیں نے اُن کے ساتھ کھانا پکایا ہے ۔ “
+3. اِس کی وجہ یہ ہے کہ اِس کی وجہ سے اِس کی تہہ میں گِر جاتی ہے ۔
+4. اُوپر گرم یا ٹھنڈا ہو کر گرم ہو جانے والے ہار کو بھر دیا جاتا ہے ، سرخ اونی کندھوں ، اُن کیپروں اور باقی تازہ دیول سپرگوں سے ۔
+:::

@@ -101,3 +101,39 @@ prepTimeEstimated: true
 3. काकडी, कांदा, ऑलिव्ह आणि ब्रेड घालून चांगले फेटा.
 4. 15 मिनिटे विश्रांती घ्या म्हणजे ब्रेड किंचित मऊ होईल, नंतर तुळसमध्ये दुमडून सर्व्ह करा.
 :::
+
+:::lang en
+# Whole-Grain Panzanella
+
+Tuscan bread salad of toasted whole-wheat bread, ripe tomato, cucumber and basil soaked in a simple olive oil and vinegar dressing.
+
+## Instructions
+1. Toast the bread cubes on a dry tray at 190 C for 10 minutes until dry and golden.
+2. Whisk the oil, vinegar, garlic and pepper in a large bowl and add the tomatoes so they release their juices.
+3. Add the cucumber, onion, olives and bread and toss well.
+4. Rest for 15 minutes so the bread softens slightly, then fold in the basil and serve.
+:::
+
+:::lang bn
+# সমগ্র-গ্যান প্যানজানালা
+
+টসকান রুটির তৈরি তৈরি রুটি, পাকা টমেটো, ফলের বাগান, পোদাল, পলালা আর মাছ ভরা।
+
+## Instructions
+1. টসট টমত ১৯০ সালে শুকনো ট্রেতে রুটিগুলো শুকানোর জন্য ১০ মিনিট সময় লাগে ।
+2. তেল, ভিনেগার, রসুন এবং মরিচ এক বাটি বাটিকলের সাথে যোগ করে তারা টমেটোর রস মুক্ত করে।
+3. শুলতা, ফুল, জলপাই, রুটি এবং রুটি দিন ।
+4. ১৫ মিনিট বিশ্রাম নিন ।
+:::
+
+:::lang ur
+# اِس کے بعد اُس نے اُس سے پوچھا : ” کیا مَیں اُس کی بات مانتا ہوں ؟
+
+تسکان روٹی روٹی کی روٹی کا ایک سادہ زیتون کے تیل میں پکایا جاتا تھا اور کپڑے پہنتا تھا۔
+
+## Instructions
+1. 190 C میں خشک اور زرخیزی تک 10 منٹ تک خشکی تک روٹی کا سکہ کاٹ دیا۔
+2. اِس کے بعد اُس نے ٹماٹروں کو نکال دیا ۔
+3. اِس میں زیتون ، زیتون اور روٹی وغیرہ شامل ہیں ۔
+4. 15 منٹ تک آرام کرنے کے بعد روٹی تھوڑی دیر کیلئے نرم ہو جاتی ہے ۔
+:::

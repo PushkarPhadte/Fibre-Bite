@@ -90,3 +90,39 @@ prepTimeEstimated: true
 3. मसाल्याचे सारण पानांत गुंडाळा आणि जोड खालच्या बाजूला ठेवून बेकिंग डिशमध्ये मांडा.
 4. वर टोमॅटो प्युरी (पासाटा) आणि उरलेले मीठ घालून 190 °C ला 30 मिनिटे भाजा.
 :::
+
+:::lang en
+# Lentil Stuffed Cabbage Rolls
+
+Cabbage leaves filled with spiced lentils and baked in tomato sauce.
+
+## Instructions
+1. Blanch the cabbage leaves for 2 minutes and trim the thick stems.
+2. Cook the onion and garlic in the oil, then stir in the spices, lentils and half the salt.
+3. Roll the filling into the leaves and place seam-side down in a baking dish.
+4. Cover with the passata and remaining salt and bake at 190 °C for 30 minutes.
+:::
+
+:::lang bn
+# Leiting cuz রোলস
+
+টমেটো সস-এ কাব্বাজ পাতা ভর্তি ছিল।
+
+## Instructions
+1. ২ মিনিটের জন্য ক্যাবেজের পাতা খালি করে দাও এবং ঘন mus sm.
+2. তারপর তেলে ও রসুনের রসুন, তারপর মসলা, ঘষা আর লবণের অর্ধেক।
+3. পাতা আর জায়গাকে পরিষ্কার করে একটা বেকিং খাবারে ফেলে দাও।
+4. পটা আর অবশিষ্ট লবণ আর কেক দিয়ে ৩০ মিনিট লাগবে।
+:::
+
+:::lang ur
+# لنتیل اسٹوفیڈ کیبباگ رولز
+
+کیباگ کے پتے مونگ‌پھلی سے بھرے ہوئے مونگ‌پھلی سے بھرے ہوئے ہیں ۔
+
+## Instructions
+1. بلے باز کے پتے 2 منٹ کے لئے نکلتے ہیں اور گھنی شاخوں کو جذب کرتے ہیں۔
+2. تیل میں موجود اون اور لہسن کو پکا کر پھر خوشبودار ، مونگ‌پھلی اور نیم نمک میں پھونکا جاتا ہے ۔
+3. پتوں میں بھرتی کر کے دریا سے جڑے ہوئے برتن میں رکھ دیں۔
+4. اِس کے بعد اُس نے ۳۰ منٹ تک نمک اور نمک کو محفوظ رکھا ۔
+:::

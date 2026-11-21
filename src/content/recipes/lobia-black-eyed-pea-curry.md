@@ -108,3 +108,39 @@ prepTimeEstimated: true
 3. चवळी, मीठ आणि पाणी घालून 12 मिनिटे मंद आचेवर शिजवा; घट्टपणा आणण्यासाठी काही दाणे कुस्करा.
 4. कोथिंबिरीने सजवा.
 :::
+
+:::lang en
+# Lobia Black-Eyed Pea Curry
+
+Black-eyed peas in a tomato-onion masala with cumin and coriander.
+
+## Instructions
+1. Heat the oil, splutter the cumin and cook the onion, garlic and ginger until golden.
+2. Add the tomatoes and spices and cook until soft and pulpy.
+3. Add the peas, salt and water and simmer for 12 minutes, mashing a few peas to thicken.
+4. Garnish with coriander.
+:::
+
+:::lang bn
+# লোবি কালো-ইদি পেয়া কারি
+
+টমেটো-দানাতে কালো মটরশুঁটি।
+
+## Instructions
+1. তেল ঢালে, ধূমপায়ী আর রান্না করে সোনার আগ পর্যন্ত।
+2. টমেটো, মসলা এবং রান্না করুন যতক্ষণ না নরম আর মচমচে।
+3. ১২ মিনিটের জন্য লবণ, লবণ এবং লবণ যোগ করুন, আর তা অল্প পরিমাণে ফল দেয় ।
+4. কোরিয়ান্ডারের সাথে গারসন।
+:::
+
+:::lang ur
+# لوبیا کالے رنگ کیوری
+
+ایک ٹماٹر ماسالا میں سیاہ آنکھوں والی پائیس اور کریانڈر کے ساتھ.
+
+## Instructions
+1. تیل کو صاف کریں اور سونے تک لہسن ، لہسن اور مکھن پکا لیں ۔
+2. ٹماٹر اور ٹماٹر شامل کریں ۔
+3. اِس میں پانی ، نمک اور پانی شامل کِیا جاتا ہے ۔
+4. گارنیش کوریانڈر کے ساتھ.
+:::

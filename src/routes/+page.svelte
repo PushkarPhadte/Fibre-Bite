@@ -13,8 +13,8 @@
 </script>
 
 <svelte:head>
-	<title>Fibre-Bite | Recipes for everyday good eating</title>
-	<meta name="description" content="Explore practical, nourishing recipes with adjustable servings and clear nutrition information." />
+	<title>{t('meta.homeTitle')}</title>
+	<meta name="description" content={t('meta.homeDescription')} />
 </svelte:head>
 
 <main class="page-enter">

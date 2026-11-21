@@ -89,3 +89,36 @@ prepTimeEstimated: true
 2. बेबी बोक चॉयचे अर्धे तुकडे घालून 3 मिनिटे मंद आचेवर शिजवा; देठ नरम-कुरकुरीत आणि पाने तजेलदार हिरवी होईपर्यंत.
 3. वाढण्यापूर्वी कमी सोडियमचा सोया सॉस किंवा तमारी मिसळा आणि वरून भाजलेल्या तीळाचे तेल घाला.
 :::
+
+:::lang en
+# Gingered Bok Choy and Shiitake Broth
+
+Soothing clear broth infused with fresh ginger, shiitake mushrooms, and crisp baby bok choy.
+
+## Instructions
+1. Bring broth, julienned ginger, and sliced shiitake mushrooms to a gentle simmer over medium heat for 8 minutes.
+2. Add baby bok choy halves and simmer for 3 minutes until stems are tender-crisp and leaves are bright green.
+3. Stir in reduced-sodium soy sauce or tamari and drizzle with toasted sesame oil before serving.
+:::
+
+:::lang bn
+# গিংর্ড বোক চোই এবং শিইথ ভাই
+
+এতো পরিষ্কার ব্রো আবার তাজা, সিকি মাশরুম, আর বাচ্চা চোই।
+
+## Instructions
+1. ব্রোথ, জলিজ বেড, আর স্লিমের মাশরুম দিয়ে ৮ মিনিট ধরে গরম করা যায়।
+2. পাতাগুলো কোমল কোমল। পাতাগুলো আরো উজ্জ্বল সবুজ।
+3. সেবা করার আগে সিয়াম সিয়াম সস বা টামারি এবং আইসক্রীমের তেল কমবে।
+:::
+
+:::lang ur
+# گینگرڈ بوک چوئے اور شییکو بوتھ
+
+لہٰذا ، کپڑوں کی صاف‌گوئی کے مطابق ، تازہ بُت ، شیشے اور کُل‌وقتی خدمت کرنے والے بچے کوک‌کُو کے کپڑے ۔
+
+## Instructions
+1. بارش ، جولی‌بین‌شُدہ آمیزے اور 8 منٹوں تک درمیانے گرم درجۂ‌حرارت میں نرم‌حرارت کی طرف اُڑ جاتے ہیں ۔
+2. اس کے علاوہ بچے بوکو جیو اور 3 منٹ کے لیے بھی تیار کیے جاتے ہیں جب تک کہ پتوں کے پتے نرم ہوتے ہیں اور پتے چمکدار سبز ہوتے ہیں۔
+3. کم مقدار میں تیار ہونے والے سوڈیئم یا تامری اور تیل میں خدمت کرنے سے پہلے تیل کے ساتھ تیل ملا کر کھایا جاتا ہے۔
+:::

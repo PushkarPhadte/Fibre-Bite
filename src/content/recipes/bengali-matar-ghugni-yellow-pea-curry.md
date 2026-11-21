@@ -122,3 +122,42 @@ prepTimeEstimated: true
 4. शिजवलेले पिवळे वाटाणे, त्यांचे राखून ठेवलेले पाणी आणि उरलेले मीठ घाला. उघडे ठेवून 10 मिनिटे मंद आचेवर शिजवा, आमटी किंचित घट्ट होईपर्यंत.
 5. उरलेला भाजलेला मसाला, ताज्या लिंबाचा रस, कच्चा चिरलेला कांदा आणि चिरलेली कोथिंबीर घालून शेवटचा स्वाद द्या.
 :::
+
+:::lang en
+# Bengali Matar Ghugni (Spiced Dried Yellow Pea Curry)
+
+High-fiber Bengali street-food favorite made wholesome with slow-simmered dried white-yellow peas, roasted cumin-coriander spice blend, tomatoes, and fresh lime.
+
+## Instructions
+1. Drain the soaked yellow peas and pressure-cook or simmer in 750 ml of water with 1 g of salt until soft yet intact, keeping the starchy cooking broth.
+2. Heat the mustard oil in a wide pot over medium heat and sauté three-quarters of the chopped onion, ginger, and garlic for 5 minutes until golden.
+3. Add the diced tomatoes and two-thirds of the bhaja masala, cooking 5 minutes until the tomatoes break down into a rich base.
+4. Pour in the cooked yellow peas with their broth and remaining salt, simmering uncovered for 10 minutes until lightly thickened.
+5. Finish with the remaining roasted bhaja masala, fresh lime juice, raw diced onion, and chopped cilantro.
+:::
+
+:::lang bn
+# বাংলার মাতার ভুগনি (সুযুক্ত হলুদ পেয়া কারী)
+
+উচ্চ-ফিয়ার বাংলার রাস্তার প্রিয় খাবারগুলো ধীর গতিতে শুকিয়ে যাওয়া সাদা কাপড়, কুমীর-কাণ্ডা, রোস্ট, টমেটো এবং তাজা চুড়ি দিয়ে তৈরি।
+
+## Instructions
+1. নরম এখনো নরম না হওয়া পর্যন্ত ৭৫০ মিটার পানির মধ্যে হলুদ মটরশুঁটি এবং চাপ প্রয়োগ করা হয়।
+2. প্রচুর পরিমাণে গরমের মধ্যে সরীসৃপ তেল ঢালে এবং সুয়াতে তিন ইঞ্চির কোদাল, ভাটা আর রসুন পাঁচ মিনিট পর্যন্ত।
+3. পাশার টমেটো এবং বাহাজার মাসালার দুই-তৃতীয়াংশ যোগ করুন। এটি পাঁচ মিনিট ধরে রান্না করে থাকে।
+4. রান্না করা হলুদ মটরশুঁটি এবং বাকি লবণ দিয়ে, ঘন ঘন ঘন ঘন না হওয়া পর্যন্ত খোলা ১০ মিনিট পর্যন্ত খোলা থাকে।
+5. অবশিষ্ট কৃত্তিজ মাসালা, তাজা লাইম জুস, সুম্লী পাশার টুকরা এবং কাটা সিলানরো দিয়ে শেষ।
+:::
+
+:::lang ur
+# بنگالی ماتر گوگنی (Spiced Dried Yellow Pea Curry)
+
+اعلیٰ درجے کی بنگالی سڑک کے کھانے پسند نے سستے خشک سفید فام پکوانوں سے خوب لطف اندوز کیا، پکایا-کریانڈر ملائم، ٹماٹر اور تازہ ٹماٹر۔
+
+## Instructions
+1. دھونا پیلے رنگ کے پکوان اور دباؤ یا دباؤ کی وجہ سے 750 ملی میٹر میں پانی کے ساتھ 1 جی نمک ملا کر جب تک نرم نہ رہ جائے، ستاری پکانے والی بوٹیاں برقرار رکھیں۔
+2. چاول کے تیل کو درمیانے گرم اور صابن کے تین چوتھائی حصے پر مشتمل ایک وسیع کپ میں سونا سونے تک رکھا جاتا ہے۔
+3. ٹماٹروں کو ملا کر اور بھاجا مالا کا دو تہائی حصہ ملا کر 5 منٹ تک پکاتا ہے یہاں تک کہ ٹماٹروں کو ایک امیر بنیاد پر توڑ دیتی ہے۔
+4. اِس کی ایک وجہ یہ ہے کہ اُس نے اُن کی مدد کی ۔
+5. باقی ماندہ بِجا مَسلا ، تازہ‌دم جوس ، سُرخ رنگ کا رس اور سِل‌ن‌ن‌وَوَن‌وَوُن اور سِلن‌ترو کے ساتھ کھانا کھائیں ۔
+:::

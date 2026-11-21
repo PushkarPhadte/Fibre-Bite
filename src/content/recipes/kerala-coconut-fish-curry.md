@@ -120,3 +120,39 @@ prepTimeEstimated: true
 3. तिखट आणि टोमॅटो मिसळा. टोमॅटो मऊ होईपर्यंत शिजवा; मग नारळाचे दूध, चिंच आणि 120 मिली पाणी घाला. मंद उकळी आणा.
 4. मासळीचे तुकडे अलगद घाला आणि मासळी अपारदर्शक दिसून पूर्ण शिजेपर्यंत मंद आचेवर शिजवा; तुकड्यांच्या जाडीनुसार साधारण 7 ते 10 मिनिटे लागतील. जोरात ढवळू नका; चव पाहून मीठ समायोजित करा.
 :::
+
+:::lang en
+# Kerala Coconut Fish Curry
+
+A coastal-style fish curry with coconut milk, tomato, tamarind, curry leaves, and black mustard seeds.
+
+## Instructions
+1. Cut the fish into large pieces and season lightly with salt and turmeric.
+2. Heat oil in a wide pan. Add mustard seeds and curry leaves; when fragrant, add shallots, ginger, and garlic and cook until softened.
+3. Stir in chilli powder and tomatoes. Cook until the tomatoes soften, then add coconut milk, tamarind, and 120 ml water. Bring to a gentle simmer.
+4. Slide in the fish and simmer gently until opaque and just cooked through, about 7 to 10 minutes depending on thickness. Avoid vigorous stirring; taste and adjust salt.
+:::
+
+:::lang bn
+# কেরালা কন্সট মাছ কারি
+
+একটি উপকূলীয় মাছ নারিকেল, টমেটো, টামারি, পাতা, এবং কালো সরিষার বীজ দিয়ে তৈরি।
+
+## Instructions
+1. মাছটাকে বড় টুকরো করে কেটে লবণ ও লবণের সঙ্গে হালকাভাবে কাট ।
+2. বড় প্যানে হেট তেল। ( খ) কীভাবে আমরা দেখাতে পারি যে, আমরা যিহোবাকে ভালোবাসি?
+3. ঠান্ডা পাউডার আর টমেটোতে গরম। টমেটো নরম না হওয়া পর্যন্ত কুক নারিকেলের দুধ, টামারড এবং ১২০ মিলিলি জল যোগ করে । একটা কোমল সহজ নমুনা নিয়ে এসো।
+4. মাছটির উপর চাপ প্রয়োগ না হওয়া পর্যন্ত ও নিরামিষে ধীরে ধীরে ধীরে রান্না করা যায়। [ অধ্যয়ন প্রশ্নাবলি]
+:::
+
+:::lang ur
+# کیرالا کاؤنسل مچھلی
+
+ساحلی چٹانوں سے بنی مچھلیوں میں ناریل کا دودھ ، ٹماٹر ، تامارینڈ ، پتوں اور کالے جام کے بیج شامل ہیں۔
+
+## Instructions
+1. مچھلیوں کو بڑے ٹکڑوں میں کاٹ کر نمک اور ٹرمیر کے ساتھ ہلکا سا وقت لگتا ہے۔
+2. ایک وسیع پن میں تیل۔ اِس کے علاوہ اِس کے بیج اور پتے بھی شامل کئے جاتے ہیں ۔
+3. اِس کی وجہ یہ ہے کہ اُس نے اِس بات کو تسلیم کِیا کہ اُس نے اُس سے کہا تھا : ” تُم . . . یہاں تک کہ ٹماٹر نرم ہو جاتے ہیں اس کے بعد ناریل کا دودھ ، تامارین اور 120 ملی‌میٹر پانی شامل کرتے ہیں ۔ ایک نرم‌مزاج شخص کو لے آؤ ۔
+4. جب تک مچھلیوں میں پھوٹ نہیںتی اور اُس وقت تک آسانی سے پک جاتی ہے جب تک کہ اُوپریا نہیں جاتا ۔ سخت محنت سے کام نہ لیں ۔
+:::

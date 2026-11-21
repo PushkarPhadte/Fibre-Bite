@@ -99,3 +99,39 @@ prepTimeEstimated: true
 3. पुट्टू कुट्टीच्या वाफवण्याच्या नळीत ताज्या किसलेल्या नारळाचे आणि ओलसर लाल तांदळाच्या पिठाचे आलटून-पालटून थर भरा. वर नारळाचा थर ठेवा आणि मिश्रण घट्ट दाबू नका.
 4. नळी उकळत्या पाण्याच्या पुट्टू स्टीमरच्या तळावर बसवा आणि वरच्या छिद्रांतून सतत मोकळेपणाने वाफ बाहेर येईपर्यंत 8 ते 10 मिनिटे वाफवा. नळी अलगद ताटावर ढकलून काढा आणि गरम वाढा.
 :::
+
+:::lang en
+# Kerala Red Rice Puttu (Steamed Rice and Coconut Cylinders)
+
+Oil-free traditional Kerala breakfast of coarse whole red rice flour gently hydrated and steam-layered with freshly grated coconut and cardamom.
+
+## Instructions
+1. Mix the red rice flour, cardamom, and salt in a wide bowl, then sprinkle warm water gradually while rubbing with your fingertips until the flour resembles damp breadcrumbs that hold together lightly when pressed.
+2. Rest the hydrated flour covered for 10 minutes so the coarse whole-grain particles absorb moisture evenly.
+3. Fill a puttu kutti steamer cylinder in alternating layers of freshly grated coconut and damp red rice flour, finishing with coconut on top without packing tightly.
+4. Fit the cylinder onto a boiling puttu steamer base and steam for 8 to 10 minutes until steady steam rises freely from the top vents; push the cylinder gently onto a plate and serve hot.
+:::
+
+:::lang bn
+# কেরালার রেড রাইসতু (স্ট্রিটেড রাইস এন্ড কন্সটন সিলিন্ডার)
+
+তেলমুক্ত কেরালার ঐতিহ্যবাহী নাস্তার জন্য সম্পূর্ণ লাল ভাতের আটা কোমলভাবে শুকায় এবং তাজা নারিকেল ও তাসমমের সাথে মিলে যায়।
+
+## Instructions
+1. তাই, এতে অবাক হওয়ার কিছু নেই যে, আপনি যদি আপনার হাত বা পা গরম করেন, তা হলে আপনি হয়তো আপনার বুকের মধ্যে জল বের করে দেবেন ।
+2. ১০ মিনিটের জন্য তেলে ভরা আটা খেতে থাকো, তাই পুরো সাকিটা শামুকের মত উজ্জ্বল হয়ে উঠছে।
+3. প্রচুর পরিমাণে নারিকেল তৈরি করা হয় এবং নারিকেল তৈরি করা হয় ।
+4. গরমের সময় গরম জলকে স্যাঁতসেঁতে দিন ।
+:::
+
+:::lang ur
+# کیرالا ریڈ رائس پیٹتو (Steamed Rice and Cylinders)
+
+تیل سے آزاد روایتی کیرالا کے کھانے کور پوری سرخ چاول کے آٹے میں نرم نرم ہلنگ اور اسپرے والے چھوٹے ناریل اور کارڈامم سے تیار کیے جاتے ہیں۔
+
+## Instructions
+1. سُرخ چاول کے آٹے ، کارڈم اور نمک کو ایک وسیع پیالہ میں رکھا جاتا ہے ۔
+2. 10 منٹ تک ڈھانپے ہوئے hydrateed کے آٹے کو واپس کر دیں تو کور کے سارے اجزا میں مقدار میں جذب ہو جاتے ہیں۔
+3. ناریل کو صاف کرنے کے لئے ناریل کی تہوں میں ڈال کر ناریل کو اُوپر سے اُوپر رکھ دیا جاتا ہے ۔
+4. اِس کے بعد اُس نے اِس بات پر زور دیا کہ اُس کا رنگ نرم ہے ۔
+:::

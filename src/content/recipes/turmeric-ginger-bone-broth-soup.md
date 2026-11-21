@@ -80,3 +80,39 @@ prepTimeSource: 'https://www.thehealthymaven.com/turmeric-ginger-bone-broth/'
 3. बेबी पालक आणि लिंबाचा रस घालून ढवळा; पालक कोमेजेपर्यंत शिजवा.
 4. चवीनुसार मीठ घाला आणि गरम वाढा.
 :::
+
+:::lang en
+# Turmeric Ginger Bone Broth Soup
+
+A healing broth simmered with fresh ginger, turmeric root, garlic, and leafy greens.
+
+## Instructions
+1. In a pot, combine bone broth, sliced ginger, turmeric, and minced garlic.
+2. Bring to a simmer and cook for 15 minutes to infuse flavors.
+3. Stir in baby spinach and lemon juice, cooking until spinach is wilted.
+4. Season with salt to taste and serve warm.
+:::
+
+:::lang bn
+# টরমেরিক Gingerwet pugm
+
+এক আরোগ্যপ্রাপ্ত ব্রোথ তাজা, টারমেরিক মূল, রসুন এবং পাতাযুক্ত সবুজ ।
+
+## Instructions
+1. একটা মৃগী, হাড়, মৃগী, মৃগী, টারমিকা, আর রসুন ।
+2. স্বাদের স্বাদে ১৫ মিনিট ধরে রান্না করো।
+3. বাচ্চা স্পিন আর লেবুর জুসে মচমচে রান্না করা যতক্ষণ না স্পিনিং হয়।
+4. লবণের সাথে লবণের স্বাদ এবং উষ্ণ সেবা।
+:::
+
+:::lang ur
+# Turmeric Ginger Bone Broth Soup
+
+ایک شفا‌بخش جڑی‌بوٹی میں تازہ بُو ، ترش‌دار جڑ ، لہسن اور پتے سبز ہوتے ہیں ۔
+
+## Instructions
+1. ایک برتن میں ہڈیوں کے بُت کو ملا دیا جاتا ہے ۔
+2. کھانے کے لئے ۱۵ منٹ کا کھانا لائیں ۔
+3. اُس وقت تک کھانے پینے کی چیزیں تیار نہیں ہوتی جب تک اُس کا معدہ نہ ختم نہ ہو جائے ۔
+4. اِس کے علاوہ اِس میں نمک بھی شامل ہوتا ہے ۔
+:::

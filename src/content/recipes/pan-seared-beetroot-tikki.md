@@ -81,3 +81,36 @@ prepTimeEstimated: true
 2. मिश्रणाचे 9 टिक्के तयार करा.
 3. नॉन-स्टिक पॅनमध्ये तेल गरम करून टिक्क्या प्रत्येक बाजूने 4 मिनिटे कुरकुरीत होईपर्यंत शिजवा.
 :::
+
+:::lang en
+# Pan-Seared Beetroot Tikki
+
+Spiced beetroot and chickpea flour patties pan-seared with a little oil.
+
+## Instructions
+1. Mix the beetroot, besan, oats, onion, chilli, cumin, coriander and salt and rest for 10 minutes.
+2. Shape into 9 patties.
+3. Cook in the oil in a non-stick pan for 4 minutes per side until crisp.
+:::
+
+:::lang bn
+# প্যান-সিডেন বেইতটা তকি
+
+এটি একটি ছোট তেল দিয়ে তৈরি করা হয়েছে।
+
+## Instructions
+1. মৌমাছি, মৌমাছি, অস্টাগন, ওত, ঠাণ্ডা, সারী, সার্কুলার এবং লবণ ও ১০ মিনিটের জন্য বিশ্রাম নিন ।
+2. ৯ পাটাতনে।
+3. গর্ত না হওয়া পর্যন্ত তেলের কুক প্রতি ৪ মিনিট গতি বৃদ্ধি করে।
+:::
+
+:::lang ur
+# پین-سرشید بیتروت ٹیککی -
+
+اسپڈ بیتروت اور چونے کے آٹے کے آٹے کی پٹیوں کے ساتھ تیل کی تھوڑی سی مقدار تھی۔
+
+## Instructions
+1. مکئی، بیل، آلو، اونی، زہریلی، زہریلی اور نمک اور 10 منٹ آرام کرتے ہیں۔
+2. شاپنگ 9 میں.
+3. تیل میں کوکو ایک غیر زہریلے پن میں 4 منٹ فی پہلو تک کک۔
+:::

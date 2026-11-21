@@ -103,3 +103,39 @@ prepTimeEstimated: true
 3. तेलात कांदा, आले आणि लसूण शिजवा. टोमॅटो, उरलेले मसाले आणि मीठ घालून 10 मिनिटे मंद आचेवर शिजवा.
 4. टोफू घालून गरम होईपर्यंत शिजवा आणि कोथिंबिरीने सजवा.
 :::
+
+:::lang en
+# Tofu Tikka Masala
+
+Grilled marinated tofu in a lightly spiced tomato-onion masala.
+
+## Instructions
+1. Marinate the tofu in the curd, half the garam masala, chilli, turmeric and a pinch of salt for 20 minutes.
+2. Roast or grill the tofu at 220 °C for 15 minutes until browned at the edges.
+3. Cook the onion, ginger and garlic in the oil, add the tomato and remaining spices and salt and simmer for 10 minutes.
+4. Add the tofu, warm through and garnish with coriander.
+:::
+
+:::lang bn
+# টফু তিক্কা মাসালা
+
+টমেটো-নসোলায় গ্রিলকৃত টফুকে খাওয়ালেন।
+
+## Instructions
+1. সার্দ্দি, কয়ারম মাসালা, ঠাণ্ডা, তুমারিক এবং ২০ মিনিট লবণাক্ত লবণ ।
+2. ৩২০ পাউন্ডের টফুতে ১৫ মিনিট লাগবে।
+3. তেলে স্বাদ, ভাটা এবং রসুনের সাথে যোগ করুন।
+4. টফু দিয়ে, গরম করো... ...আর হররিয়ান্ডারের সাথে.
+:::
+
+:::lang ur
+# توفو ٹیککا ماسلا
+
+ایک ہلکے چھوٹے سے آٹے والے ٹماٹر-یونیون مسالا میں ...
+
+## Instructions
+1. کُل‌وقتی مُنادوں میں سے نصف جَرم مَسَلا ، تُرَک اور نمک کی مقدار ۲۰ منٹ تک ۔
+2. اُس وقت تک تقریباً ۱۵ منٹ تک ٹوٹ جاتے ہیں ۔
+3. اِس کے علاوہ اِس میں ٹماٹر اور نمک اور نمک وغیرہ شامل ہوتے ہیں ۔
+4. کوریاندر کے ساتھ توفو، گرم اور گرنیش شامل کریں۔
+:::

@@ -114,3 +114,42 @@ prepTimeEstimated: true
 4. वेगळ्या कढईत मोहरीचे तेल किंचित धूर येईपर्यंत गरम करा, थोडे थंड होऊ द्या आणि उरलेले आले, लसूण व चिरलेला कांदा 4 मिनिटे परता.
 5. चिरलेला टोमॅटो घालून घट्ट, जॅमसारखा होईपर्यंत शिजवा. फोडणी सागात मिसळा आणि वाढण्यापूर्वी 3 मिनिटे मंद आचेवर शिजवा.
 :::
+
+:::lang en
+# Light Punjabi Sarson Ka Saag (Mustard Greens Mash)
+
+Heart-healthy winter Punjabi classic of slow-simmered mustard greens and spinach naturally thickened with coarse maize flour and aromatic ginger-garlic tempering.
+
+## Instructions
+1. Roughly chop the washed mustard greens and spinach, place them in a heavy pot with half the ginger, half the garlic, green chili, salt, and 180 ml of water.
+2. Simmer covered over medium-low heat for 25 minutes until completely tender, then mash coarsely with a wooden masher or pulse briefly.
+3. Sprinkle the maize flour gradually into the greens while stirring continuously, and simmer on low heat for 10 minutes until velvety.
+4. Heat the mustard oil in a separate skillet until lightly smoking, cool briefly, and sauté the remaining ginger, garlic, and diced onion for 4 minutes.
+5. Add the chopped tomato and cook until jammy, then fold the tempering into the saag and simmer 3 minutes before serving.
+:::
+
+:::lang bn
+# হালকা পাঞ্জাবী সারসন কাগ (মুস্টার গ্রিনস ম্যাশ)
+
+হার্ট-হালী শীত, পাঞ্জাবী, ধীরে ধীরে সর্ষিত সরীসৃপের সবুজ রঙের এবং প্রাকৃতিকভাবে আখড়ায় আটা, আটা আর গন্ধে ভরা বদর সুর।
+
+## Instructions
+1. খুব সম্ভবত নাযিলকৃত সরীসৃপ সবুজ সবুজ রঙের চূঁছা, এগুলোকে শক্ত ডোরা, অর্ধেক রসুন, সবুজ চিলি, লবণ এবং ১৮০ মিটার জল দিয়ে তৈরি করে ।
+2. সমর ২৫ মিনিটের জন্য মাঝারি গরম দিয়ে ঢেকে রাখে যতক্ষণ না পুরোপুরি কোমল হয়ে যায়, ততক্ষণ পর্যন্ত সে কাঠের টুকরো টুকরো টুকরো টুকরো করে অথবা নাড়ির মাধ্যমে।
+3. তাই, এতে অবাক হওয়ার কিছু নেই যে, এই সুগন্ধি তৈরি করার জন্য হৃৎপিণ্ড ব্যবহার করা হতো ।
+4. অল্প সময়ের মধ্যে, শস্যের তেল হালকাভাবে না খেয়ে, ঠাণ্ডা করে এবং অবশিষ্ট ডোরাকাটা, রসুন এবং ৪ মিনিটের জন্য পাশার ওপর বসে ।
+5. তাই, এতে অবাক হওয়ার কিছু নেই যে, তারা অল্প কয়েক মিনিট অপেক্ষা করে আছে ।
+:::
+
+:::lang ur
+# ہلکے پنجابی سرسون کا سااگ (انگریزی: Mostard Greens Mash) ہے۔
+
+دل کا دورہ پڑنے والا موسم گرما پنجابی کلاسیکی سستے دانے اور ریڑھ کی ہڈی قدرتی طور پر مکئی کے آٹے اور خوشبودار آمیزے سے ہوتا ہے۔
+
+## Instructions
+1. اِس لئے اُنہیں اُس برتن میں رکھ دیا جاتا ہے جس میں اُس کا آدھا حصہ ہوتا ہے ۔
+2. سیممر نے 25 منٹ تک درمیانی درجہ حرارت پر مکمل طور پر لپیٹ لیا، اس کے بعد مومار کو لکڑی کے مسچر کے ساتھ یا پھر تھوڑی دیر کے لیے رکھا جاتا ہے۔
+3. مکئی کے آٹے کو آہستہ آہستہ سبز رنگ میں تبدیل کر دیا جاتا ہے جبکہ مسلسل بڑھتا رہتا ہے ۔
+4. اُس وقت تک سگریٹ‌نوشی ، ٹھنڈے پانی اور لہسن کے علاوہ ۴ منٹ تک سگریٹ‌نوشی کرنے کے بعد اُس کے تیل کو صاف کریں ۔
+5. اِس کے بعد اُس کا غصہ ٹھنڈا ہو جاتا ہے اور اُس کی خدمت کرنے سے پہلے 3 منٹ کے اندر اندر اندر پہنچ جاتا ہے ۔
+:::

@@ -83,3 +83,36 @@ prepTimeEstimated: true
 2. त्यावर कांदा, टोमॅटो, काकडी आणि कोथिंबीर घाला.
 3. लिंबाचा रस, तिखट, जिरे आणि मीठ घालून चव द्या.
 :::
+
+:::lang en
+# Boiled Egg Masala Chaat
+
+Sliced boiled eggs with onion, tomato, cucumber, lemon and spices.
+
+## Instructions
+1. Slice the eggs and arrange on plates.
+2. Top with the onion, tomato, cucumber and coriander.
+3. Season with lemon juice, chilli, cumin and salt.
+:::
+
+:::lang bn
+# স্ফূটন
+
+পূরন করা ডিম, টমেটো, পোদাল, লেবু আর মসলা দিয়ে সিদ্ধ করা হতো ।
+
+## Instructions
+1. ডিমগুলো টুকরো করে প্লেটের ব্যবস্থা করো।
+2. পেয়াজ, টমেটো, প্লুমেষ এবং কোরিয়ান্ডারের উপরে।
+3. লেবুর রস, ঠান্ডা, জিন্দা, জিমিন আর লবণের সাথে সিঁথি।
+:::
+
+:::lang ur
+# بقول ایگ ماسلا چات (انگریزی:
+
+انڈوں میں اونون ، ٹماٹر ، کیک‌مبر ، ٹماٹر اور ٹماٹر شامل ہیں ۔
+
+## Instructions
+1. انڈے صاف کریں اور پلیٹ‌لیٹس پر ترتیب دیں ۔
+2. اونون، ٹماٹر، کیکمبر اور کریانڈر سے اوپر۔
+3. اِس کے بعد اُس نے اُس سے کہا : ” اَے [ یہوواہ ] !
+:::

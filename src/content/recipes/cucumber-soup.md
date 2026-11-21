@@ -110,3 +110,45 @@ prepTimeSource: 'https://www.tasteofhome.com/recipes/cucumber-potato-soup/'
 5. उकळते पाणी घाला, झाकण ठेवून भाजी मऊ होईपर्यंत शिजवा. थंड होऊ द्या आणि गुळगुळीत होईपर्यंत ब्लेंड करा.
 6. मॅगी क्यूब्स घालून पुन्हा उकळी आणा आणि वरून ताजी क्रीम घालून गरम वाढा.
 :::
+
+:::lang en
+# Cucumber Soup
+
+A refreshing, blended soup made with sautéed cucumbers, potatoes, garlic, and onions, thickened slightly with cornflour and cream.
+
+## Instructions
+1. Heat ghee/oil in a pan, add crushed garlic, and stir-fry until golden brown.
+2. Add chopped onions and sauté until light pink.
+3. Add cucumbers and potatoes; stir-fry until moisture evaporates.
+4. Stir in cornflour and sauté for 2-3 minutes.
+5. Add boiling water, cover, and cook until tender; let cool and blend smoothly.
+6. Bring back to a boil with Maggi cubes and serve hot garnished with fresh cream.
+:::
+
+:::lang bn
+# কুকি
+
+কিন্তু, এই ধরনের খাবার খাওয়াটা খুবই স্বাভাবিক ।
+
+## Instructions
+1. প্যানের মধ্যে হেট জিপ/অলিল যুক্ত করে সাদা রসুন যোগ করে এবং সোনার বাদাম না হওয়া পর্যন্ত উত্তেজিত করে তোলে।
+2. হালকা গোলাপি না হওয়া পর্যন্ত পুঁচকে কেটে নাও।
+3. আলু যোগ করুন এবং আলু যোগ করুন; শ্বাসরোধ না হওয়া পর্যন্ত উত্তেজিত হবেন।
+4. দ্রাক্ষাফলার আর ২-৩ মিনিট।
+5. জল, ঢেকে রাখুন এবং কোমল হওয়া পর্যন্ত রান্না করুন; ঠাণ্ডা ও মসৃণভাবে ।
+6. মাগগি কিউবস দিয়ে সিদ্ধ হয়ে নতুন ক্রিম দিয়ে খাওয়া।
+:::
+
+:::lang ur
+# کُل‌وقتی خدمت
+
+ایک تازگی‌بخش اور ملا کر صابن تیار کِیا جاتا تھا جس سے گائے ، لہسن ، لہسن اور لہسن تیار کِیا جاتا تھا ۔
+
+## Instructions
+1. ایک پن میں ہیٹ جی/ویل، چربی کو ملا کر اور سونے کے بھورے رنگ تک منتقل کر دیتا ہے۔
+2. جب تک ہلکے گلابی رنگ نہ ہو جائے اُس وقت تک اُس کا بیج اور سُوت بھی شامل ہو جاتا ہے ۔
+3. گاجر اور قے شامل کریں؛ سانس لینے تک حرکت کریں۔
+4. کیکفلور اور ساوت میں 2-3 منٹ.
+5. اِس کے علاوہ اِس کے ساتھ ساتھ اُس وقت تک پانی بھی شامل کریں جب تک اُس کا ذائقہ ٹھنڈا نہ ہو جائے ۔
+6. مگگی کتوں کے ساتھ آگ بجھانے کے بعد دوبارہ آگ لگا کر تازہ کریموں سے گرم کِیا جاتا ہے ۔
+:::

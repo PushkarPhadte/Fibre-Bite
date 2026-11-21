@@ -85,3 +85,36 @@ prepTimeEstimated: true
 2. धुतलेली सोललेली लाल मसूर पाणी किंवा रस्स्यात 15 मिनिटे मंद आचेवर शिजवा; ती मऊ आणि मलईदार झाली पाहिजे.
 3. उरलेल्या ऑलिव्ह तेलात बारीक चिरलेला लसूण आणि गरम मसाला 30 सेकंद परता. हे मिश्रण भाजलेल्या फुलकोबीसह डाळीत मिसळा.
 :::
+
+:::lang en
+# Roasted Cauliflower and Red Lentil Dal
+
+Hearty split red lentils simmered with roasted cauliflower florets, garlic, and warm garam masala.
+
+## Instructions
+1. Toss cauliflower florets with 8 ml olive oil and roast at 205 C for 18 minutes until golden at the edges.
+2. Simmer rinsed split red lentils in water or broth for 15 minutes until soft and creamy.
+3. Saute minced garlic and garam masala in remaining olive oil for 30 seconds, then stir into the lentils with roasted cauliflower.
+:::
+
+:::lang bn
+# পুডিং কুলি ফুল এবং রেড লিয়লিন ডাল
+
+অল্প সময়ের মধ্যেই তিনি মারা যান ।
+
+## Instructions
+1. ফুল ফুল ফুলদানি, যা ৮ মিলিলি জলপাই তেল নিয়ে ১৮ মিনিট পর্যন্ত রান্না করে।
+2. সিয়ামর রিসিনে লাল দাগে জল বা ব্রোথ থেকে ১৫ মিনিটের জন্য লাল কালি মাখানো হয় যতক্ষণ না নরম আর ক্রিমি।
+3. ৩০ সেকেন্ডের জন্য খোলা জলপাই তেলে শম মাসালা সাসিত রসুনের রসুন এবং রসুনের মাসালা, এরপর বরোফুলের ফুলে ফেটে পড়ে।
+:::
+
+:::lang ur
+# اس میں داخل ہونے والے کاولیف اور ریڈ لینٹل ڈیل شامل ہیں۔
+
+دل‌ودماغ میں لال مونگ‌پھلی کے پھول ، لہسن اور گرم گیرام ماسا سے ٹکرائے ۔
+
+## Instructions
+1. توس کیول‌فِف کیول‌فِلّہ‌وِلُو گرام جس میں ۸ ملی زیتون کا تیل ہے اور ۱۸ منٹ تک ۵. ۱۸ منٹ تک سونے پر پکایا جاتا ہے ۔
+2. سمر ین نے نرم اور کریمی تک 15 منٹ تک پانی میں سرخ گندم یا برتھ میں تقسیم کر دیا۔
+3. ۳۰ سیکنڈ تک زیتون کے تیل میں رہنے والے لہسن اور جَرم مَسَلا اور پھر لہسن میں جلنے کے بعد مونگ‌پھلی میں منتقل ہو جاتے ہیں ۔
+:::

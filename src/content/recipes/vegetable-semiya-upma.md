@@ -100,3 +100,39 @@ prepTimeEstimated: true
 3. भाज्या, मीठ आणि पाणी घालून 3 मिनिटे उकळवा.
 4. शेवया नीट ढवळून घ्या, झाकून ठेवा आणि पाणी शोषले जाईपर्यंत 3 मिनिटे शिजवा; लिंबाचा रस सह समाप्त.
 :::
+
+:::lang en
+# Vegetable Semiya Upma
+
+Whole wheat vermicelli roasted and cooked with vegetables, mustard seeds and curry leaves.
+
+## Instructions
+1. Dry roast the vermicelli for 3 minutes until lightly golden and set aside.
+2. Heat the oil, splutter the mustard seeds, then cook the curry leaves, chilli and onion until soft.
+3. Add the vegetables, salt and water and boil for 3 minutes.
+4. Stir in the vermicelli, cover and cook for 3 minutes until the water is absorbed; finish with lemon juice.
+:::
+
+:::lang bn
+# ভিটেবল সেমিয়া আপমা
+
+পুরো গমের নির্যাসিষভোজন এবং সবজি, সরীসৃপ বীজ এবং পাতা দিয়ে রান্না করা।
+
+## Instructions
+1. তিন মিনিট পর্যন্ত ড্রিমেলের মাংস ভোঁতা কমে যায়।
+2. তেলে ভরা তেল, শস্যের বীজ, তারপর রান্না করে রান্নার পাতা, ঠাণ্ডা হওয়া পর্যন্ত।
+3. সবজি, লবণ আর পানির পাত্র দাও ৩ মিনিট।
+4. জল নির্গত না হওয়া পর্যন্ত তিন মিনিট ধরে খাদ্য ও রান্না করা, লেবু রস দিয়ে শেষ হয় ।
+:::
+
+:::lang ur
+# قابلِ‌تعریف سیمیا اپما
+
+اِس کے علاوہ گندم کے دانے بھی اُڑ جاتے ہیں ۔
+
+## Instructions
+1. خشکی کو 3 منٹ تک پکایا جاتا ہے یہاں تک کہ معمولی سونا اور الگ کر لیں۔
+2. تیل کو صاف کرنے ، رائی کے دانے کو اُوپر رکھنے ، پھر نرم پتوں کو پکانے ، اُس پرے اور تیل کو نرم ہونے تک پکایا ۔
+3. سبزیاں، نمک اور پانی شامل کرکے 3 منٹ تک پکایا جاتا ہے۔
+4. جب تک پانی ٹھنڈا نہ ہو جائے ، اُس کے معدے کو صاف کریں اور اُس پر کپڑے لگائیں ۔
+:::

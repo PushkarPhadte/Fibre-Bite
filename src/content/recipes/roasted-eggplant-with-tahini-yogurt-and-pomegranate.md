@@ -96,3 +96,36 @@ prepTimeEstimated: true
 2. दही, ताहिनी, लिंबाचा रस, लसूण आणि उरलेले मीठ एकत्र मिसळा.
 3. वांग्यांवर सॉस चमच्याने घाला आणि वरून डाळिंबाचे दाणे व पार्सली घाला.
 :::
+
+:::lang en
+# Roasted Eggplant with Tahini Yogurt and Pomegranate
+
+Thick eggplant slices roasted until silky, topped with tahini yogurt, pomegranate and parsley.
+
+## Instructions
+1. Brush the eggplant with the oil, sprinkle with half the salt and roast at 220 °C for 25 minutes, turning once.
+2. Mix the yogurt, tahini, lemon juice, garlic and remaining salt.
+3. Spoon the sauce over the eggplant and top with pomegranate and parsley.
+:::
+
+:::lang bn
+# তাহিনি ইয়োগর এবং পমগ্রামের সাথে আপ
+
+রেশমি কাপড়ের টুকরোগুলো সাশ্রয়ী, তহীনি দেরে এবং প্যাপিলি দিয়ে ঢেকে দেওয়া হয় ।
+
+## Instructions
+1. তাই, এতে অবাক হওয়ার কিছু নেই যে, এই ডিমটা তেল দিয়ে তৈরি ছিল ।
+2. মাংসের রস, লেবু, রসুন এবং বাকি লবণ।
+3. সসকে সস দেওয়া হবে ডিমপ্ল্যান আর টসলির উপরে।
+:::
+
+:::lang ur
+# تائینی یوگرٹ اور پومگریناٹ کے ساتھ Egg Reamesed
+
+اِس کے بعد اُس نے اُس پر تیل ڈالا ۔
+
+## Instructions
+1. انڈے کو تیل کے ساتھ ملا کر آدھے نمک کے ساتھ ۲۵ منٹ تک پکایا جاتا ہے ۔
+2. چاول ، تاہنی ، آلو ، لہسن ، لہسن اور باقی نمک ۔
+3. اِس کے بعد اُس نے اِس بات پر زور دیا کہ اُس نے اُس کا نام اِستعمال کِیا ہے ۔
+:::

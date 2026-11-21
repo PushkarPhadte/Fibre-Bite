@@ -93,3 +93,39 @@ prepTimeEstimated: true
 3. प्रत्येक बटाटा लांबीच्या दिशेने चिरून उघडा, काट्याने आतील गर हलका फुलवा आणि त्यात कॉटेज चीज, चाइव्ज व काळी मिरी घाला.
 4. वाढण्यापूर्वी पुन्हा 5 मिनिटे ओव्हनमध्ये ठेवा, जेणेकरून ते पूर्ण गरम होतील.
 :::
+
+:::lang en
+# Cottage Cheese and Chive Stuffed Baked Potatoes
+
+Russet potatoes baked crisp and stuffed with low-fat cottage cheese, fresh chives, and cracked black pepper.
+
+## Instructions
+1. Preheat the oven to 205 C, rub potatoes lightly with olive oil, and prick each with a fork.
+2. Bake directly on the oven rack for 45 to 55 minutes until tender inside.
+3. Slice each potato open lengthwise, fluff the flesh gently with a fork, and spoon in cottage cheese, chives, and black pepper.
+4. Return to the oven for 5 minutes to warm through before serving.
+:::
+
+:::lang bn
+# কোটিজ Cheese এবং চিভিড পটাটো
+
+রুসটা আলু আলু আলু আলু তৈরি করা হয় এবং কম-ফাঁটি শপ, তাজা কবচ এবং কালো মরিচের টুকরো দিয়ে তৈরি হয়।
+
+## Instructions
+1. আলু তেল দিয়ে হালকা আলু ঘষা, আর প্রত্যেক ডিম দিয়ে কাটা।
+2. সোজা র‌্যাম্পে চলে যাও।
+3. প্রত্যেকটা আলু খোলা দৈর্ঘ্যের চেয়ে বেশি, জ্বরে শরীরের মাংস ধীরে ধীরে ঘষে, আর চামচ পনির, মরিচের টুকরোয় এবং কালো মরিচের টুকরোয়.
+4. সেবা করার আগে ৫ মিনিট উষ্ণে ফিরে যাও।
+:::
+
+:::lang ur
+# کوٹٹیج چیس اور چکو اسٹوفیڈ پیکس
+
+روسٹ کوکوئرس پکایا اور اس کے ساتھ کم‌ازکم پنیر کے پنیر ، تازہ‌دمے اور لوہے کے کالے پتوں سے لیس تھا ۔
+
+## Instructions
+1. زیتون کے تیل سے تیل نکالا جاتا ہے اور ہر ایک کو اُس کی مدد کی ضرورت ہوتی ہے ۔
+2. 45 سے 55 منٹ کے اندر اندر اندر تک براہِ‌راست ویکی پر بیک‌نہ رہنا ۔
+3. اِس کے علاوہ ، گوشت کو اچھی طرح سے پکایا جاتا ہے ۔
+4. 5 منٹ تک غسل‌خانے میں خدمت کرنے سے پہلے واپس لوٹ آئیں ۔
+:::

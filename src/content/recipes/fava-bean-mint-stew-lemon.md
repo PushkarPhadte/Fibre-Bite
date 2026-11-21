@@ -84,3 +84,36 @@ prepTimeEstimated: true
 2. बाकला बीन्स आणि पाणी घालून उकळी आणा; मऊ होईपर्यंत 12 मिनिटे मंद आचेवर शिजवा.
 3. वाढण्याच्या अगदी आधी चिरलेला पुदिना आणि ताजा लिंबाचा रस मिसळा.
 :::
+
+:::lang en
+# Fava Bean and Mint Stew with Lemon
+
+Tender fava beans simmered with garlic, fresh garden mint, and lemon juice for a bright, protein-rich stew.
+
+## Instructions
+1. Heat olive oil in a saucepan over medium heat and sauté garlic for 2 minutes.
+2. Add fava beans and water, bring to a simmer, and cook gently for 12 minutes until tender.
+3. Stir in chopped mint and fresh lemon juice just before serving.
+:::
+
+:::lang bn
+# লেবুর সাথে ফেভা বেয়ান এবং মিনট স্ট্রু
+
+কোমল ফাভা শিম রসুন, তাজা বাগান আর লেবুর জুস দিয়ে তৈরি।
+
+## Instructions
+1. এক সসেজ তেলে গরম আর সসেজ রসুন দুই মিনিটের জন্য।
+2. এ ছাড়া, কোমল স্নেহের জন্য কোমলভাবে রান্না করুন ।
+3. মি.
+:::
+
+:::lang ur
+# فاوا بیان اور منٹ سٹیم کے ساتھ
+
+عزیز فُوا کے دانوں نے لہسن ، تازہ باغ منٹ اور ٹماٹر جوس کو ایک چمکدار اور پروٹین کے لئے تیار کِیا ۔
+
+## Instructions
+1. زیتون کا تیل دو منٹ تک گرم گرم اور صابن کے لہسن پر مشتمل ہوتا ہے ۔
+2. اِس کے علاوہ اِس کے ساتھ‌ساتھ اُن کے لیے کھانا بھی تیار کِیا جاتا ہے ۔
+3. اِس کے علاوہ اِس میں بھی بہت سی چیزیں شامل ہیں ۔
+:::

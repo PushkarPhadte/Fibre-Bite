@@ -73,6 +73,8 @@ imageAttribution:
 prepTimeMinutes: 35
 prepTimeEstimated: true
 ---
+![alt text](image.png)
+
 :::lang hi
 # मशरूम और ओट्स का क्रीमी सूप
 
@@ -94,4 +96,36 @@ prepTimeEstimated: true
 2. ओट्स, थाइम, मीठ आणि पाणी घालून 15 मिनिटे मंद आचेवर शिजवा.
 3. दूध घालून सूप गुळगुळीत होईपर्यंत ब्लेंड करा. काळी मिरी घालून चवीनुसार मसाला करा आणि मंद आचेवर पुन्हा हलके गरम करा.
 :::
-![alt text](image.png)
+
+:::lang en
+# Mushroom Oat Cream Soup
+
+A dairy-light cream of mushroom soup thickened with oats instead of cream.
+
+## Instructions
+1. Cook the onion and garlic in the oil, then add the mushrooms and cook for 8 minutes until browned.
+2. Add the oats, thyme, salt and water and simmer for 15 minutes.
+3. Add the milk, blend until smooth, season with pepper and reheat gently.
+:::
+
+:::lang bn
+# মাশরুম ওত ক্রিম সোম
+
+মাশরুমের হালকা ক্রিম ক্রিমের মত ক্রিম ক্রিম ক্রিমের বদলে ক্রিমের মত।
+
+## Instructions
+1. তেলে রান্না করা আর রসুনের রসুন, তারপর মাশরুম আর রান্নার জন্য ৮ মিনিট লাগবে।
+2. শুধু তাই না.
+3. দুধ, মসৃণ না হওয়া পর্যন্ত দুধ যোগ করুন ।
+:::
+
+:::lang ur
+# مسواک اوت کریم سوپ
+
+دودھ پینے کا ایک کریم کریمہ جس کے ساتھ چاول کی بجائے چاول۔
+
+## Instructions
+1. تیل میں موجود اون اور لہسن کو پکا کر 8 منٹ تک پکایا جاتا ہے ۔
+2. الو ، آپکا ، نمک اور پانی شامل کریں اور ۱۵ منٹ تک پانی پئیں ۔
+3. دودھ شامل کریں ، جب تک نرم نہ ہو جائے ، پُرسکون ہو جائے اور پھر آہستہ‌آہستہ دودھ واپس نہ آئے ۔
+:::

@@ -69,3 +69,33 @@ prepTimeEstimated: true
 1. एका वाडग्यात सर्व साहित्य एकत्र फेकून घ्या.
 2. प्रत्येकी 22 ग्रॅमच्या सहा लहान भागांमध्ये विभागून घ्या.
 :::
+
+:::lang en
+# Unsalted Nut and Seed Trail Mix
+
+A five-minute snack mix of almonds, walnuts, pumpkin seeds and peanuts; no salt or sugar.
+
+## Instructions
+1. Toss all ingredients together in a bowl.
+2. Divide into six small portions of about 22 g each.
+:::
+
+:::lang bn
+# নাসরত নুটস এবং বীজ মং
+
+আলমন্ড, বাদাম, বাদাম, কুমড়া বীজ এবং বাদামের মাঝে পাঁচ মিনিটের এক নাস্তা।
+
+## Instructions
+1. সব উপাদান এক বাটি করে.
+2. ২২ টা গ্লের ছোট অংশে ভাগ।
+:::
+
+:::lang ur
+# بے نظیر بھٹ اور سیڈ ٹریل مکس
+
+مونگ پھلی، چاول، پمپک بیج اور مونگ پھل؛ کوئی نمک یا چینی نہیں۔
+
+## Instructions
+1. ایک پیالے میں جمع تمام اجزا.
+2. تقریباً ۲۲ جینز کے چھ چھوٹے حصوں میں تقسیم کریں ۔
+:::

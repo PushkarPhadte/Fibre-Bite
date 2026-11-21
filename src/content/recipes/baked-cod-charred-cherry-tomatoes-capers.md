@@ -93,3 +93,39 @@ prepTimeEstimated: true
 3. वरून ऑलिव्ह तेल घाला आणि मासा अपारदर्शक होऊन सहज पाकळ्यांसारखा सुटेपर्यंत 14 ते 16 मिनिटे भाजा.
 4. वाढण्यापूर्वी ताजी पार्सली भुरभुरा.
 :::
+
+:::lang en
+# Baked Cod with Charred Cherry Tomatoes and Capers
+
+Flaky oven-baked cod fillets topped with blistered cherry tomatoes, capers, garlic, and parsley.
+
+## Instructions
+1. Preheat the oven to 200 C and lightly oil a baking dish.
+2. Arrange the cod fillets in the dish and scatter cherry tomatoes, garlic, capers, and oregano around them.
+3. Drizzle with olive oil and bake for 14 to 16 minutes until the fish is opaque and flakes easily.
+4. Sprinkle with fresh parsley before serving.
+:::
+
+:::lang bn
+# Cod Card Corked Cheets এবং ক্যাপার
+
+ফ্লাক-ব্লাক-ব্লাক দিয়ে তৈরি টমেটো, ক্যাপার্স, রসুন আর প্যারোলি দিয়ে ভরা।
+
+## Instructions
+1. ২০০ C থেকে ২০০ সেন্ট পর্যন্ত চুলা আর হালকা ভাবে তেল রান্নার খাবার।
+2. খাবারে যে সমস্ত পাত্র ভর্তি হয়, সেগুলো প্রদর্শন করে এবং চেরি টমেটো, রসুন, রসুন, রসুন এবং সেগুলোকে ঘিরে রেখে দেয়।
+3. জিতবৃক্ষের তেল আর কেক দিয়ে ১৪ থেকে ১৬ মিনিট পর্যন্ত হালকা বৃষ্টি হয় যতক্ষণ না মাছটি এত সহজে ধরা পড়ে।
+4. কাজের আগে নতুন পার্লে পান।
+:::
+
+:::lang ur
+# کُل‌وقتی خدمت
+
+Flaky Owan-baked Cod بھرتی شدہ کولکاتاز نے چیرکسی ٹماٹروں، کیپروں، لہسن، لہسن وغیرہ سے بھر دیے۔
+
+## Instructions
+1. اِس کی ایک وجہ یہ ہے کہ اِن میں سے ایک تیل ہے ۔
+2. اُن کے اِردگِرد ٹماٹر ، لہسن ، کپاس اور اُن کے اِردگِرد موجود اِن ٹماٹروں کو بھر دیں ۔
+3. جب تک مچھلی کو اُبال نہ دیا جائے ، اُس وقت تک زیتون کے تیل اور اُس کے تیل سے لیس نہ ہو ۔
+4. اس سے پہلے کہ خدمت کرنے سے پہلے تازہ‌دم ہو جائے ۔
+:::

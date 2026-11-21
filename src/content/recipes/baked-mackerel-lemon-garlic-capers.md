@@ -97,3 +97,39 @@ prepTimeEstimated: true
 3. मासा काट्याने सहज सुटेपर्यंत २००°C वर १२ ते १४ मिनिटे बेक करा.
 4. वाढण्यापूर्वी ताज्या चिरलेल्या पार्सलीने सजवा.
 :::
+
+:::lang en
+# Baked Mackerel with Lemon, Garlic, and Capers
+
+Oven-baked mackerel fillets roasted with lemon slices, garlic, parsley, and a touch of briny capers.
+
+## Instructions
+1. Place mackerel fillets skin-side down in a baking dish lined with parchment.
+2. Brush with olive oil and lemon juice, then scatter minced garlic and rinsed capers on top.
+3. Bake at 200 C for 12 to 14 minutes until the fish flakes easily.
+4. Garnish with fresh chopped parsley before serving.
+:::
+
+:::lang bn
+# লেবু, গ্রামি আর ক্যাপার্সের সঙ্গে ♪
+
+অভেন-বেবিল্ড মাকারেল লেবু, রসুন, প্যারোলে, আর কিছুটা চুলি ক্যাপার।
+
+## Instructions
+1. পাত্রের চামড়া দিয়ে তৈরি কাগজের পাশে।
+2. জলপাই তেল আর লেবুর জুস দিয়ে, তারপর রসুন ছড়িয়ে দিন আর উপরে রসুন আর র‌্যাপ করা টুপি।
+3. ২০০ C তে কেক, ১২ থেকে ১৪ মিনিট পর্যন্ত মাছগুলোকে খুব সহজে লাথি মারা যায়।
+4. কাজ শুরুর আগে মুক্তি।
+:::
+
+:::lang ur
+# سیمن، گیریلک اور کیپر کے ساتھ میکرل
+
+اِس کے بعد اُس نے اِس بات کا ذکر کِیا کہ اُس نے اُس کی مدد کی ہے ۔
+
+## Instructions
+1. مشینوں کے ذریعے چمڑے کے نیچے کی کھال بھر دیں ۔
+2. زیتون کے تیل اور ٹماٹر کے جوس سے ٹکراتے ہیں ۔
+3. جب تک مچھلیوں کو آسانی سے نہیں بہایا جاتا 200 سی 12 سے 14 منٹ کے دوران۔
+4. اِس کے بعد اُس نے اُن سے پوچھا : ” کیا مَیں اُن کی بات مانتا ہوں ؟ “
+:::

@@ -96,3 +96,39 @@ prepTimeEstimated: true
 3. शिजवलेले मोठे पांढरे बीन्स मिसळा आणि मिश्रण बेकिंग डिशमध्ये काढा.
 4. 180°C (350°F) तापमानावर 30 मिनिटे बेक करा, सॉस घट्ट होईपर्यंत.
 :::
+
+:::lang en
+# Greek Baked Giant Beans (Gigantes Plaki)
+
+Large butter beans baked slow in a rich, oregano-infused tomato and garlic sauce topped with fresh parsley.
+
+## Instructions
+1. Sauté onion and garlic in olive oil until soft.
+2. Add crushed tomatoes, oregano, salt, pepper, and simmer for 10 minutes.
+3. Mix in cooked butter beans and transfer to a baking dish.
+4. Bake at 180°C (350°F) for 30 minutes until sauce thickens.
+:::
+
+:::lang bn
+# গ্রীক বাঞ্চলীয় দৈত্য বিন্স (গ্যান্টিন প্ল্যাটকি)
+
+বড় মাখনের সসেজ বেশ ধীর গতিতে সমৃদ্ধ, কিংবা সসেজের সস দিয়ে তৈরি।
+
+## Instructions
+1. শরত এবং রসুন তেলে নরম না হওয়া পর্যন্ত।
+2. চুড়া টমেটো, কিংবাগানো, লবণ, মরিচ এবং সিমমের সাথে ১০ মিনিটের জন্য।
+3. মাখনের সসেজ রান্না করে বেকিং খাবার নিয়ে আসি।
+4. ১৮০ পাউন্ডের কেক (৩৫০ ডিগ্রি ফারেনহাইট) যতক্ষণ না সস সয়াবিন থাকে।
+:::
+
+:::lang ur
+# یونانی بیڑے سیمس (Gigantes Plaki)
+
+اِس کے بعد اُس نے اُن سے پوچھا : ” کیا مَیں اِس بات کا یقین کر سکتا ہوں کہ مَیں اُن سے بات کر رہا ہوں ؟ “
+
+## Instructions
+1. زیتون کے تیل میں Saute onion اور لہسن نرم‌مزاج ہوتے ہیں ۔
+2. اِس کی وجہ یہ ہے کہ اِس میں اِس قسم کے ٹماٹر شامل ہیں ۔
+3. مونگ‌پھلی کے دانوں کو پکا کر کھانا پکانے کے لئے استعمال کِیا جاتا ہے ۔
+4. Bake at 180°C (350°F) 30 منٹ تک 30 منٹ کے لیے جب تک کاک ٹینیسی نہیں ہوتا۔
+:::

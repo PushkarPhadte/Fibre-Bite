@@ -1,0 +1,11 @@
+{
+	"default": "en",
+	"translationTargets": ["bn", "hi", "ur"],
+	"languages": [
+		{ "code": "en", "name": "English" },
+		{ "code": "bn", "name": "বাংলা" },
+		{ "code": "hi", "name": "हिन्दी" },
+		{ "code": "mr", "name": "मराठी" },
+		{ "code": "ur", "name": "اردو" }
+	]
+}

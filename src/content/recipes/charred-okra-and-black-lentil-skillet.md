@@ -88,3 +88,36 @@ prepTimeEstimated: true
 2. दळलेले जिरे आणि शिजवलेले काळे बेलुगा मसूर घालून 4 मिनिटे शिजवा, सर्व मिश्रण गरम होईपर्यंत.
 3. गॅसवरून उतरवा, ताजा लिंबाचा रस आणि कोथिंबीर मिसळा आणि गरम वाढा.
 :::
+
+:::lang en
+# Charred Okra and Black Lentil Skillet
+
+Pan-charred okra tossed with tender black beluga lentils, cumin, and fresh cilantro.
+
+## Instructions
+1. Heat olive oil in a wide skillet over medium-high heat and sear the sliced okra and diced onion for 7 to 8 minutes until lightly charred.
+2. Stir in ground cumin and cooked black beluga lentils, cooking for 4 minutes until warmed through.
+3. Remove from heat, fold in fresh lime juice and cilantro, and serve warm.
+:::
+
+:::lang bn
+# Coca এবং কালো Latletil দক্ষতা
+
+প্যান-চারড ওআররার সাথে কোমল কালো দাগা দাগ, জিমিন এবং তাজা সিলান্র।
+
+## Instructions
+1. মাঝারি তাপমাত্রা এবং সমুদ্রতটে প্রচুর পরিমাণে তাপ ও স্যাঁতসেঁতে হেট অলিভার রয়েছে।
+2. মাটির নিচে থাকা আর রান্না করা কালো সাল্লুগা হারা, যেটা ৪ মিনিটের জন্য রান্না করা হয় গরম না হওয়া পর্যন্ত।
+3. গরম থেকে সরিয়ে নিন, তাজা চুনপোকার রসে ভাঁজ করুন এবং গরম করুন ।
+:::
+
+:::lang ur
+# Charred Okra اور بلیک لینٹل اسکیللٹ ہیں۔
+
+نان-چرڈ-کریسترا کو نرم بلیک بیلوگا مونگ پھلی، آلو اور تازہ سیلانترو کے ساتھ ملا ہوا ہے۔
+
+## Instructions
+1. زیتون کا تیل درمیانے درجہ حرارت پر وسیع پیمانے پر زیادہ مقدار میں پایا جاتا ہے اور اُس نے اُس کی مدد سے اُس کی مدد کی ہے ۔
+2. اِس کے بعد اُس نے اُسے کھانا کھلایا ۔
+3. گرمیوں سے اُڑ کر تازہ‌ترین مشروبات اور سیل‌نٹرو کو صاف کریں اور گرم کی خدمت کریں ۔
+:::

@@ -103,3 +103,42 @@ prepTimeSource: 'https://www.spiceupthecurry.com/palak-soup-recipe-spinach-soup/
 4. मिश्रण ब्लेंडरमध्ये घालून गुळगुळीत होईपर्यंत वाटा.
 5. मिश्रण पुन्हा सॉसपॅनमध्ये घाला, मीठ आणि मिरी घाला, मंद उकळी येईपर्यंत गरम करा आणि शेवटी लिंबाचा रस मिसळा.
 :::
+
+:::lang en
+# Palak (Spinach) Soup
+
+A smooth green soup made by simmering fresh spinach leaves with garlic, ginger, and subtle seasoning, finished with lemon juice.
+
+## Instructions
+1. Heat oil/ghee in a saucepan and sauté garlic, ginger, and onion until translucent.
+2. Add fresh spinach leaves and sauté for 2-3 minutes until wilted.
+3. Pour in stock/water and simmer for 3 minutes. Remove from heat and allow to cool.
+4. Blend the mixture smoothly using a blender.
+5. Return to saucepan, season with salt and pepper, bring to a gentle simmer, and finish with lemon juice.
+:::
+
+:::lang bn
+# প্যালাক (স্পিন) সোপ
+
+রসুন, হৃৎপিণ্ড এবং সূক্ষ্ম মৃগীজ দিয়ে তৈরি এক মসৃণ সবুজ সুপ ।
+
+## Instructions
+1. তাপ তেল/ঘোষন আর সসেজ রসুন, ভোদড় আর দের উপরে।
+2. পাতা যোগ করো আর ২-৩ মিনিটের জন্য সাঁতরে।
+3. তিন মিনিটের জন্য স্টক/জল ও সিমমের জন্য। গরম থেকে সরান এবং শান্ত হতে দিন।
+4. স্ফূটন ব্যবহার করুন ।
+5. সসপানে ফিরে যাও, লবণ আর মরিচের সাথে, একটি নরম সিমমের সাথে নিয়ে এসো আর লেবুর জুস দিয়ে শেষ করো।
+:::
+
+:::lang ur
+# پالاک (سپانی: up) سوپ -
+
+اِس کے بعد اُس نے اِن پتوں کو پکایا ۔
+
+## Instructions
+1. خام تیل/گی ایک معدن اور ساوتس لہسن میں، گندھک اور اونس میں جب تک انتقال نہ ہو جائے۔
+2. تازہ ریڑھ کے پتوں اور ساوے کو 2-3 منٹ تک شامل کر لیں۔
+3. اسٹاک/ پانی اور پانی میں 3 منٹ کے لیے استعمال کریں۔ گرمی سے اتار کر ٹھنڈا ہونے کی اجازت دیں۔
+4. ایک دوسرے کو ملانے والے کے ذریعے آمیزش کریں ۔
+5. اِس کے علاوہ اِس کا ذائقہ بھی اِس بات پر اثرانداز ہو سکتا ہے کہ اِس میں کتنا وقت لگے ۔
+:::

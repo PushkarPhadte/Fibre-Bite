@@ -92,3 +92,36 @@ prepTimeEstimated: true
 2. cannellini सोयाबीनचे आणि भाज्या मटनाचा रस्सा जोडा; 10 मिनिटे उकळवा.
 3. चिरलेली काळे ढवळून मऊ होईपर्यंत ५ ते ७ मिनिटे शिजवा.
 :::
+
+:::lang en
+# White Bean, Kale, and Rosemary Simmer
+
+Cannellini beans and chopped Tuscan kale simmered with fresh rosemary, garlic, and extra-virgin olive oil.
+
+## Instructions
+1. Warm olive oil in a pot over medium heat and cook garlic and rosemary for 45 seconds.
+2. Add cannellini beans and vegetable broth; simmer for 10 minutes.
+3. Stir in chopped kale and cook for 5 to 7 minutes until tender.
+:::
+
+:::lang bn
+# সাদা বিন, কাল এবং রোজি সিমর
+
+ক্যানেলিনি শিম আর কাটা টুকান কায়েল সিমের সাথে তাজা গোলাপ, রসুন আর অতিরিক্ত জলপাই তেল দিয়ে কাটা হয়েছে।
+
+## Instructions
+1. গরম গরম ও রসুনের রসুন ও ৪৫ সেকেন্ডের জন্য গোলাপের তেল দিয়ে গরম হয় ।
+2. এর সাথে যোগ করা যায় সেনানি শিম এবং সবজি ব্রোথ; ১০ মিনিটের জন্য সহজ।
+3. কোমল না হওয়া পর্যন্ত কাটা কালে এবং রান্নার জন্য ৫ থেকে ৭ মিনিট রান্না করা।
+:::
+
+:::lang ur
+# سفید بانی، کلے اور روزمیر سیممر ہیں۔
+
+کین‌لین کے دانوں اور اُن کے بچے توکان کیکل نے تازہ‌دمے ، لہسن اور اضافی زیتون کے تیل سے تیار کِیا ۔
+
+## Instructions
+1. زیتون کے تیل کو درمیان میں گرم کرنے اور لہسن کو پکانے اور ۴۵ سیکنڈ تک اُبالنے کیلئے گرم کِیا جاتا ہے ۔
+2. اِس کے علاوہ اِن دانوں اور سبزیوں کے دانوں کو بھی اِستعمال کِیا جاتا ہے ۔
+3. اِس کے بعد اُس نے ۵ سے ۷ منٹ تک کھانا پکایا ۔
+:::

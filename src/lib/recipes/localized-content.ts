@@ -1,7 +1,8 @@
-import type { Language } from '$lib/locale.svelte';
+import type { Language } from '../locale.svelte';
 import type { LocalizedRecipeText, Recipe, RecipeTranslations } from './types';
+import { languageOptions } from '../i18n/languages.ts';
 
-const languageBlockPattern = /^:::lang\s+(en|hi|mr)\s*\r?\n([\s\S]*?)^:::\s*$/gm;
+const languageBlockPattern = /^:::lang\s+([a-z]{2,3}(?:-[a-z0-9]{2,8})*)\s*\r?\n([\s\S]*?)^:::\s*$/gm;
 
 function parseLanguageBlock(block: string): LocalizedRecipeText {
 	const result: LocalizedRecipeText = {};
@@ -51,7 +52,7 @@ function parseLanguageBlock(block: string): LocalizedRecipeText {
 export function parseLanguageBlocks(markdown: string): RecipeTranslations {
 	const translations: RecipeTranslations = {};
 	for (const match of markdown.matchAll(languageBlockPattern)) {
-		const locale = match[1] as Language;
+		const locale = match[1];
 		translations[locale] = parseLanguageBlock(match[2]);
 	}
 	return translations;
@@ -71,7 +72,12 @@ function renderLanguageBlock(text: LocalizedRecipeText): string {
 
 export function renderLanguageBlocks(translations: RecipeTranslations | undefined): string {
 	if (!translations) return '';
-	return (['en', 'hi', 'mr'] as const)
+	const configuredCodes = languageOptions.map(({ code }) => code);
+	const locales = [
+		...configuredCodes,
+		...Object.keys(translations).filter((locale) => !configuredCodes.includes(locale)).sort()
+	];
+	return locales
 		.filter((locale) => translations[locale])
 		.map((locale) => `:::lang ${locale}\n${renderLanguageBlock(translations[locale]!)}\n:::`)
 		.join('\n\n');

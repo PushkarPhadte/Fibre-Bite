@@ -10,7 +10,7 @@
 
 <svelte:head>
 	<title>{t('favorites.title')} | Fibre-Bite</title>
-	<meta name="description" content="Recipes saved in this browser on this device." />
+	<meta name="description" content={t('meta.favoritesDescription')} />
 </svelte:head>
 
 <div class="mx-auto max-w-6xl px-6 py-10">
@@ -29,7 +29,7 @@
 	{#if savedRecipes.length === 0}
 		<div class="rounded-2xl border border-dashed border-slate-300 bg-white p-10 text-center text-slate-600">
 			<p class="text-lg font-medium">{t('favorites.empty')}</p>
-			<a href="/recipes" class="mt-4 inline-block text-sm font-semibold text-emerald-700">Explore recipes</a>
+			<a href="/recipes" class="mt-4 inline-block text-sm font-semibold text-emerald-700">{t('common.exploreRecipes')}</a>
 		</div>
 	{:else}
 		<div class="grid gap-6 md:grid-cols-2 xl:grid-cols-3">

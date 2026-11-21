@@ -110,3 +110,42 @@ prepTimeEstimated: true
 4. केल मिसळून 5 मिनिटे शिजवा; ते मऊ झाले पाहिजे, पण त्याचा तजेला असलेला हिरवा रंग टिकला पाहिजे.
 5. लिंबाचा रस आणि काळी मिरी घालून सूप पूर्ण करा. प्रत्येक वाटीत उरलेले तेल आणि पाप्रिका मिसळून वरून घाला.
 :::
+
+:::lang en
+# Caldo Verde (Portuguese Kale and Potato Soup)
+
+Silky potato soup with ribbons of kale, garlic and smoked paprika: a classic Portuguese comfort bowl without sausage.
+
+## Instructions
+1. Warm half the olive oil in a pot and cook the onion and garlic on low heat for 5 minutes until soft.
+2. Add the potatoes, water and salt and simmer for 18 to 20 minutes until the potatoes are very tender.
+3. Mash the potatoes into the broth with a potato masher, or blend half the soup, so it turns thick and creamy.
+4. Stir in the kale and simmer for 5 minutes until tender but still bright green.
+5. Finish with the lemon juice and pepper. Serve each bowl with the remaining oil mixed with the paprika drizzled over.
+:::
+
+:::lang bn
+# ক্যালদো ভার্দে (পর্তুগীজ ও পটাতো সোপি)
+
+কয়েল, রসুন এবং ধূমপায়ী পাকি দিয়ে সিল্ক আলু সুপ: সসেজ ছাড়া একটি ক্লাসিক পর্তুগীজ কুসেজ।
+
+## Instructions
+1. শূককীট ও রসুনের তেলের অর্ধেকই নরম না হওয়া পর্যন্ত পাঁচ মিনিট পর্যন্ত কম গরম ও রসুন রান্না করে ।
+2. আলু, পানি এবং লবণ যোগ করুন ১৮ থেকে ২০ মিনিট পর্যন্ত আলু খুব কোমল।
+3. আলুকে আলু মাসের সাথে তুলনা করুন, অথবা সুপের অর্ধেক যোগায়, তাই এটা মোটা আর ক্রিমি হয়ে যায়।
+4. কোমল কিন্তু উজ্জ্বল সবুজ।
+5. লেবুর জুস আর মরিচ দিয়ে শেষ। প্রত্যেক বাটি অবশিষ্ট তেল সাথে পরিবেশন করুন পঞ্চিকার সাথে.
+:::
+
+:::lang ur
+# کالڈو ورڈی (Portuguese Kale اور Poto Soup)
+
+سُرخ رنگ کا سُرخ رنگ : ایک کلاسیکی پرتگالی آرام‌دہ پیالے جس کا نام سُوسگی تھا ۔
+
+## Instructions
+1. زیتون کے نصف حصے کو ایک برتن میں گرم کرتے ہیں ۔
+2. اس میں ۱۸ سے ۲۰ منٹ تک نمک ، پانی اور نمک شامل کِیا جاتا ہے ۔
+3. مَیں اِس بات پر غور کرتا ہوں کہ اِس میں کیا کچھ شامل ہے ۔
+4. لیکن پھر بھی سبز سبز رنگ کی چمک ہوتی ہے ۔
+5. اِس کے ساتھ ساتھ اُس کا ذائقہ بھی ختم ہو جاتا ہے ۔ اُس پیالے میں سے ہر ایک کے ساتھ ملکر خدمت کر رہا تھا ۔
+:::

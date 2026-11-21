@@ -90,3 +90,39 @@ prepTimeEstimated: true
 3. अखंड हिरवी पाने, पाणी, मीठ आणि बडीशेप पूड घाला.
 4. झाकण न ठेवता मध्यम आचेवर 12–15 मिनिटे शिजवा, पाने मऊ होतील पण त्यांचा हिरवा रंग ताजा राहील इतपत.
 :::
+
+:::lang en
+# Kashmiri Haak Saag (Steamed Collard Greens)
+
+A minimalist Kashmiri specialty featuring collard greens cooked gently with mustard oil, asafoetida, and dry red chillies.
+
+## Instructions
+1. Heat mustard oil in a heavy pot until smoking point; cool slightly.
+2. Add asafoetida and dry red chillies.
+3. Add whole green leaves, water, salt, and fennel powder.
+4. Simmer uncovered on medium heat for 12–15 minutes until leaves are tender yet bright green.
+:::
+
+:::lang bn
+# কাশ্মীরি হায়াক সাগ (সেন্টসাম কর্ড গ্রিনস)
+
+খুব কম জনপ্রিয় কাশ্মীরি স্পেশালিষ্ট যেগুলোতে কলার লাগানো সবুজগুলো রয়েছে তা কষাকষণ তেল, আস ফিফতেদা আর শুকনো লাল ঠাণ্ডা।
+
+## Instructions
+1. ধূমপান না করা পর্যন্ত প্রচুর পরিমাণে তেলের তেল ঢালে; একটু ঠান্ডা।
+2. seaffeetdeda এবং শুষ্ক লাল পানীয় যোগ করুন।
+3. সব সবুজ পাতা, পানি, লবণ আর পশুরা পাউডার দিয়ে দাও।
+4. ১২-১৫ মিনিট পর্যন্ত পাতাগুলো কোমল কিন্তু উজ্জ্বল সবুজ।
+:::
+
+:::lang ur
+# کشمیری ہاک سااگ (Steamed Colard Greens)۔
+
+اِس کے بعد اُس نے اُن کے ساتھ کھانا پکایا ۔
+
+## Instructions
+1. سگریٹ‌نوشی کرنے والے شخص کی نظر میں سگریٹ‌نوشی کرنا آسان نہیں ہوتا ۔
+2. اسکوفائڈا اور خشک سرخ رنگوں میں شامل کرنا۔
+3. پورے سبز پتوں، پانی، نمک اور گندھک کو ملا کر رکھ دیں۔
+4. شمسی گرمیوں پر 12–15 منٹ تک کھلتا رہتا ہے یہاں تک کہ پتوں کے پتے نرم ہوتے رہتے ہیں۔
+:::

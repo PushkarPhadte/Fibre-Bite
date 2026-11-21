@@ -93,3 +93,39 @@ prepTimeSource: 'https://minimalistbaker.com/easy-spicy-tofu-broccoli-stir-fry/'
 3. ब्रोकोलीची फुले आणि 2 मोठे चमचे पाणी घाला; झाकण ठेवून 3 मिनिटे वाफवा.
 4. लसूण, आले, सोया सॉस आणि श्रीराचा घाला. सॉस घट्ट होऊन सर्व पदार्थांना समानपणे लागेपर्यंत नीट परता.
 :::
+
+:::lang en
+# Spicy Tofu Broccoli Stir Fry
+
+Crispy tofu cubes and fresh broccoli florets tossed in a savory garlic-chili soy glaze.
+
+## Instructions
+1. Toss cubed tofu in cornstarch until lightly coated.
+2. Heat sesame oil in a wok or skillet over medium-high heat and pan-sear tofu until golden and crispy.
+3. Add broccoli florets and 2 tablespoons of water; cover and steam for 3 minutes.
+4. Stir in garlic, ginger, soy sauce, and sriracha. Toss well until sauce thickens and coat evenly.
+:::
+
+:::lang bn
+# স্পাপিরি টফু ব্রোচিলি সেন্টি
+
+ক্রিসি টফু কিউব এবং তাজা ব্রোকোলি রসুনের ঝোলায়।
+
+## Instructions
+1. যতক্ষণ না হালকা কোট পরিধান করা হয়, ততক্ষণ পর্যন্ত টেট টফু টফু।
+2. সাদা রঙের তেল, মাঝারি তাপ এবং প্যান টফু পর্যন্ত গরমের মতো পাকানো তেল।
+3. যোগ করুন ।
+4. রসুন, ভের, সয়া সস আর শ্রাচাতে স্টর। যতক্ষণ না সস আর কোটের সস আসে।
+:::
+
+:::lang ur
+# اسپیکی توفو برکلے فری
+
+کریسپی توفو کیوب اور تازہ براکلولی فلوریٹس ایک سامی لہسن سوئی گلزے میں پھنسے ہوئے ہیں۔
+
+## Instructions
+1. جب تک ہلکی سی چادر نہ کھولی گئی تو تو اُس نے مکئی کے تیل کو کاٹ دیا ۔
+2. گرم تیل میں گرم یا مہارت کے لحاظ سے متوسط درجہ حرارت اور پنیر توفو تک سونا اور کرنسی۔
+3. اِس کے علاوہ اِس میں پانی کے 2 تختے اور 3 منٹ کے لیے اِستعمال ہوتے ہیں ۔
+4. لہسن ، لہسن ، سُرخ مے اور سریاکھا ۔ توپیں اچھی طرح سے بنائی جاتی ہیں یہاں تک کہ دوپہر کے وقت موٹا اور کپڑا بھی ٹھیک ہو جاتا ہے ۔
+:::

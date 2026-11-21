@@ -103,3 +103,39 @@ prepTimeEstimated: true
 3. टूना प्रत्येक बाजूने 90 सेकंद भाजून त्याचे काप करा.
 4. तेल, लिंबाचा रस, मीठ आणि मिरी एकत्र फेटा; बटाटे, शेंगा आणि टोमॅटो यांत मिसळा. वर टूना, अंडे आणि पार्सली घाला.
 :::
+
+:::lang en
+# Light Niçoise Salad
+
+Baby potatoes, green beans, seared fresh tuna and boiled egg with a lemon-olive oil dressing.
+
+## Instructions
+1. Boil the potatoes for 15 minutes, adding the beans for the last 4 minutes; drain and halve the potatoes.
+2. Boil the eggs for 8 minutes, cool and quarter them.
+3. Sear the tuna for 90 seconds per side and slice.
+4. Whisk the oil, lemon juice, salt and pepper; toss with the potatoes, beans and tomatoes, then top with tuna, egg and parsley.
+:::
+
+:::lang bn
+# লাইট নিকাসে সালাদ
+
+বেবি আলু, সবুজ শিম, শুকনো তাজা টুনা আর লেবু দিয়ে ডিম সিদ্ধ করা হয়েছে।
+
+## Instructions
+1. ১৫ মিনিটের জন্য আলু রান্না করে, গত ৪ মিনিটের জন্য শিম যোগ করে; ড্রেন এবং আলুর পরিমাণ বেড়ে যায়।
+2. ডিমগুলো ৮ মিনিট ঠান্ডা করে দাও।
+3. 9 সেকেন্ডের জন্য টানা.
+4. তেল, লেবু, লবণ এবং মরিচ; আলু, শিম এবং টমেটোর সাথে খেতে, তারপর টুনা, ডিম এবং পার্ললি।
+:::
+
+:::lang ur
+# نور نفیس سالد
+
+بجو، ہرے دان، تازہ طوطا اور پکا ہوا انڈے جس کا تیل پہننا ہوتا ہے۔
+
+## Instructions
+1. گزشتہ ۴ منٹ تک بانسوں کو ملا کر اُس کے دانوں کو ملا دیں ۔
+2. انڈوں کو 8 منٹ، ٹھنڈی اور چوتھائی تک پکایا جاتا ہے۔
+3. بحری بیڑے نے 90 سیکنڈ فی ایک طرف اور دوحہ کے لئے.
+4. اِس کے بعد اُس کا تیل ، ٹماٹر ، ٹماٹر اور ٹماٹر وغیرہ ۔
+:::

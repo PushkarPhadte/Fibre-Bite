@@ -92,3 +92,39 @@ prepTimeEstimated: true
 3. दूध आणि अंडी फेटून ओट्सच्या मिश्रणावर ओता; उरलेले अक्रोड वरून पेरा.
 4. मिश्रण सेट होऊन सोनेरी होईपर्यंत 30 मिनिटे बेक करा; नंतर 5 मिनिटे ठेवून चार भागांत कापा.
 :::
+
+:::lang en
+# Apple Cinnamon Baked Oatmeal
+
+A tray-baked oatmeal with grated apple, walnuts and cinnamon, sweetened only by the fruit.
+
+## Instructions
+1. Heat the oven to 180 °C and grease a 20 cm baking dish.
+2. Mix the oats, cinnamon, grated apple and half of the walnuts in the dish.
+3. Whisk the milk and eggs and pour over the oat mixture; scatter the remaining walnuts on top.
+4. Bake for 30 minutes until set and golden, then rest for 5 minutes before cutting into four.
+:::
+
+:::lang bn
+# Apple Savanadetmal
+
+একটি ট্রে-বেকেদার অম্যাল্যাল, এননান্স আর কানোন এর সাথে এননামন, যা কেবল ফল দিয়ে তৈরি।
+
+## Instructions
+1. ২০ সেন্টিমিটার ওজনের খাবার দিয়েভেন থেকে ১৮০ ডিগ্রি সেলসিয়াস পর্যন্ত গরম করা।
+2. এই খাবারগুলো খুবই সুস্বাদু ।
+3. দুধ, ডিম, ডিম, ওটপতঙ্গের উপরে ঢেলে দাও; বাকি হাতগুলো উপরে ছড়িয়ে দাও।
+4. ৩০ মিনিটের জন্য কেক, সেট আর গোল্ডেন পর্যন্ত, তারপর ৪ মিনিটের জন্য ৫ মিনিট বাকি।
+:::
+
+:::lang ur
+# ایپل Cinnamon Bayed Oat Conside Oat Benous -
+
+ایک ٹرائے-بکیڈ اوات جن میں گرڈ سیب، چاول اور سیننممون کے ساتھ، صرف پھلوں سے خوشبودار خوشبودار ہے۔
+
+## Instructions
+1. اِس کی ایک اَور وجہ تو یہ ہے کہ اِن میں سے ہر ایک کا وزن تقریباً ۲۰ سینٹی‌میٹر ہے ۔
+2. چاول ، سین‌مون ، کھانے میں موجود سیب اور نصف چاول ۔
+3. دودھ اور انڈے کو اُوپر سے اُوپر اُوپر اُتار کر رکھ دیں ۔
+4. 30 منٹ تک مقررہ اور سونے تک، پھر چار میں کاٹنے سے پہلے 5 منٹ آرام کریں۔
+:::

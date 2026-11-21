@@ -93,3 +93,39 @@ prepTimeSource: 'https://minimalistbaker.com/1-pot-red-lentil-soup/'
 3. धुतलेली लाल मसूर डाळ आणि भाजीचा रस्सा घाला. उकळी आणा, नंतर 20 मिनिटे मंद आचेवर शिजवा.
 4. चवीनुसार मीठ घाला आणि गरम वाढा.
 :::
+
+:::lang en
+# Turmeric Ginger Red Lentil Soup
+
+A comforting golden soup made with split red lentils, fresh turmeric root, ginger, garlic, and vegetable broth.
+
+## Instructions
+1. Heat olive oil in a soup pot and sauté chopped onion until soft.
+2. Add minced garlic, ginger, and turmeric; cook for 1 minute until fragrant.
+3. Add rinsed red lentils and vegetable broth. Bring to a boil, then simmer for 20 minutes.
+4. Season with salt to taste and serve warm.
+:::
+
+:::lang bn
+# টরমেরিক জিঞ্জার রেড লুনসিল সোর
+
+একটা চমৎকার সোনার সুপ তৈরি করা হয়েছে লাল ডাল, তাজা টারমিকার মূল, মদ, রসুন এবং সবজি।
+
+## Instructions
+1. একটা স্যুপের দোকানে হেট জিতবৃক্ষের তেল আর সসট্ট কেটে নরম না হওয়া পর্যন্ত।
+2. রসুন, ভ্রম এবং টরমেরিক যোগ করুন; ফ্রিগ্রান্টের জন্য ১ মিনিট রান্না করুন।
+3. লাল ডাল এবং সবজি ব্রোথ যোগ করো। একটু সিদ্ধ হও, তারপর ২০ মিনিটের জন্য সাইমন।
+4. লবণের সাথে লবণের স্বাদ এবং উষ্ণ সেবা।
+:::
+
+:::lang ur
+# Turmeric Ginger Red Lentil Soup
+
+ایک تسلی‌بخش سنہری صابن جس میں سرخ مونگ‌پھلی ، تازہ ترکی جڑی‌بوٹی ، آمیزش ، لہسن اور سبزیوں کا امتزاج پایا جاتا تھا ۔
+
+## Instructions
+1. زیتون کے تیل کو صابن کے برتن میں اور نرم‌مزاج تک اُبال دیا جاتا ہے ۔
+2. اِس کے علاوہ اِس میں لہسن ، بُت‌پرستی ، بُت‌پرستی اور سگریٹ‌نوشی شامل کرنا شامل ہے ۔
+3. اِس میں سرخ مونگ‌پھلی اور سبزیاں بھی شامل تھیں ۔ ایک جلانے کے لئے لاؤ، پھر 20 منٹ کے لئے.
+4. اِس کے علاوہ اِس میں نمک بھی شامل ہوتا ہے ۔
+:::

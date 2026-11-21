@@ -88,3 +88,39 @@ prepTimeSource: 'https://minimalistbaker.com/roasted-carrot-ginger-soup/'
 3. भांड्यात भाजलेले गाजर आणि भाज्यांचा स्टॉक घाला; 10 मिनिटे मंद आचेवर शिजवा।
 4. रेशमी आणि एकजीव होईपर्यंत ब्लेंड करा, चवीनुसार मसाला समायोजित करा आणि गरम सर्व्ह करा।
 :::
+
+:::lang en
+# Roasted Carrot and Ginger Soup
+
+A warming blended soup featuring oven-roasted carrots, fresh ginger, garlic, and vegetable broth.
+
+## Instructions
+1. Toss carrot chunks with olive oil and salt; roast at 200°C (400°F) for 30 minutes.
+2. Sauté chopped onion, garlic, and ginger in a soup pot until soft.
+3. Add roasted carrots and vegetable broth to the pot; simmer for 10 minutes.
+4. Blend until silky and smooth, adjust seasoning, and serve warm.
+:::
+
+:::lang bn
+# কুমিং কাররট এবং Gিংগার সোর
+
+একটি উষ্ণ সুপে র‌্যাপিং করা হয়, যার মধ্যে দিয়ে চুল্লী, তাজা গন্ধ, রসুন, এবং সবজি।
+
+## Instructions
+1. তেল ও লবণ দিয়ে টরেন্ট মটকে ৩০ মিনিট ধরে ২০০ পাউন্ড (৪০০ মার্কিন ডলার) রান্না করা হয় ।
+2. সউতে কোদাল, রসুন... ...আর নরম হওয়ার আগ পর্যন্ত.
+3. বরদাস্তী এবং সবজি ভট যোগ করো; ১০ মিনিটের জন্য সিমমার।
+4. রেশমি ও মসৃণ না হওয়া, ঋতুর সঙ্গে মানিয়ে নেওয়া এবং উষ্ণ হওয়া পর্যন্ত সাঁতার কাটতে হবে ।
+:::
+
+:::lang ur
+# داخلی کاربٹ اور گنجر سوپ
+
+ایک خوشبودار صابن کو ملا کر تیار کِیا جاتا تھا جس میں اوکاڑہ ، تازہ ذائقہ ، لہسن اور سبزیوں کے کیڑے ہوتے تھے ۔
+
+## Instructions
+1. زیتون کے تیل اور نمک میں ۳۰ منٹ تک تیل ڈالا جاتا ہے ۔
+2. صابن تیار کرنے کے لئے استعمال کِیا جاتا ہے ۔
+3. اِس کے بعد اُس نے اِس کھانے کو تیار کِیا ۔
+4. یہاں تک کہ ریشمی دھاگے کو نرم اور نرم کرنا ، صاف‌گوئی کرنا اور پُرتپاک خدمت کرنا ۔
+:::

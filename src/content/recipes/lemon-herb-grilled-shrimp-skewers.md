@@ -85,3 +85,39 @@ prepTimeSource: 'https://www.spendwithpennies.com/grilled-lemon-herb-shrimp-skew
 3. कोळंबी लाकडी किंवा धातूच्या सळ्यांवर ओवा.
 4. मध्यम-ते-जास्त आचेवर प्रत्येक बाजू 2–3 मिनिटे ग्रिल करा; कोळंबी गुलाबी आणि अपारदर्शक होईपर्यंत शिजवा.
 :::
+
+:::lang en
+# Lemon Herb Grilled Shrimp Skewers
+
+Juicy shrimp marinated in zesty lemon juice, garlic, and mixed herbs, threaded onto skewers and grilled.
+
+## Instructions
+1. In a bowl, combine lemon juice, olive oil, minced garlic, oregano, salt, and pepper.
+2. Add shrimp and toss to coat; let marinate for 10 minutes.
+3. Thread shrimp onto wooden or metal skewers.
+4. Grill over medium-high heat for 2-3 minutes per side until pink and opaque.
+:::
+
+:::lang bn
+# হলদে হার্বস শ্রিম্পস্‌
+
+জিয়ে লেবু, রসুন এবং মিশ্র ভেষজ নির্যাসের মধ্যে দিয়ে জুসি চিংড়ি ধরা হতো ।
+
+## Instructions
+1. এক বাটি বাটি, লেবুর রস, জলপাই তেল, হালকা রসুন, বাগানো, লবণ এবং মরিচের রসকে একত্রিত করে ।
+2. চিংড়ি আর কোট যোগ করো; ১০ মিনিটের জন্য দেরি করো।
+3. কাঠের উপর চিংড়ি বা ধাতু সিকারের উপর.
+4. গোলাপি আর বেদুইন হবার আগ পর্যন্ত ২-৩ মিনিটের জন্য প্রবল গরম।
+:::
+
+:::lang ur
+# لیمون ہرب گلڈ شرمپ سکور
+
+جسکی وجہ سے لہسن ، لہسن اور آمیزش‌شُدہ جڑی‌بوٹیوں سے پیدا ہوتا ہے ۔
+
+## Instructions
+1. ایک پیالے میں ٹماٹر کا رس ، زیتون کا تیل ، مونگ‌پھلی ، نمک اور پنیر ملا کر رکھا جاتا ہے ۔
+2. کپڑوں کو ملا کر رکھ دیں ۔
+3. لکڑی یا لوہے کے کام کرنے والے شیشے پر دستک دیں ۔
+4. گلابی اور اوپیک تک اوسط درجہ حرارت 2-3 منٹ تک بڑھ جاتا ہے۔
+:::

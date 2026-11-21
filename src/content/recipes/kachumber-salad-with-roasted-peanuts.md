@@ -90,3 +90,36 @@ prepTimeEstimated: true
 2. लिंबाचा रस, जिरे आणि मीठ घालून सलाडला चव द्या.
 3. वाढण्याच्या अगदी आधी वरून शेंगदाणे घाला.
 :::
+
+:::lang en
+# Kachumber Salad with Roasted Peanuts
+
+A crunchy Indian cucumber, tomato and onion salad topped with roasted peanuts.
+
+## Instructions
+1. Combine the cucumber, tomato, onion, chilli and coriander in a bowl.
+2. Dress with lemon juice, cumin and salt.
+3. Top with peanuts just before serving.
+:::
+
+:::lang bn
+# কাঁটাদানাযুক্ত বাদামের সঙ্গে কাউস সালাদ
+
+বাদামের সঙ্গে বাদামের তালের রস, টমেটো এবং ডালের সঙ্গে পরিচিত ।
+
+## Instructions
+1. মাল, টমেটো, পিঁয়াজ, ঠাণ্ডা, এবং কোরিয়ান্ডারের মধ্যে।
+2. লেবুর রস দিয়ে তৈরি পোশাক।
+3. কাজের আগে বাদামের উপরে।
+:::
+
+:::lang ur
+# کیچمبر Salad کے ساتھ غسل شدہ پکوانوں کے ساتھ
+
+ایک صلیبی ہندوستانی کیک‌مبر ، ٹماٹر اور اون‌سن کے ذریعے مونگ‌پھلی کے تیل کو جلا دیا جاتا تھا ۔
+
+## Instructions
+1. ایک پیالے میں کیک‌کیم ، ٹماٹر ، اونین ، سرین اور کوری‌ڈر کو ملا دیں ۔
+2. مونگ‌پھلی کا رس ، سُرخ اور نمکین ہوتا ہے ۔
+3. خدمت کرنے سے پہلے مونگ‌پھلی کے ساتھ اوپر جائیں ۔
+:::

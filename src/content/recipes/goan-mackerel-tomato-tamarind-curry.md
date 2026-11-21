@@ -103,3 +103,39 @@ prepTimeEstimated: true
 3. चिंच, मीठ आणि पाणी घालून मिश्रणाला मंद उकळी आणा.
 4. माशाचे तुकडे अलगद सोडा आणि न ढवळता 8 मिनिटे मंद आचेवर शिजवा.
 :::
+
+:::lang en
+# Goan Mackerel Tomato Tamarind Curry
+
+A tangy Goan-style fish curry with tomato, tamarind and a little coconut.
+
+## Instructions
+1. Grind the coconut, garlic, ginger and spices with a little water to a paste.
+2. Heat the oil and cook the onion until soft, then add the paste and tomato and cook for 5 minutes.
+3. Add the tamarind, salt and water and bring to a simmer.
+4. Slide in the fish and simmer gently for 8 minutes without stirring.
+:::
+
+:::lang bn
+# Goancerres Tomaso Trandi কারি
+
+একটি টাংই গোয়ান-এর মত মাছ টমেটো, টামারিন আর একটু নারিকেল নিয়ে।
+
+## Instructions
+1. নারিকেল, রসুন, ভোদড় এবং মসলা দিয়ে একটা পেস্টের জন্য সামান্য পানি নিয়ে আসে ।
+2. নরম না হওয়া পর্যন্ত তেল আর রান্না করে, তারপর পেস্ট ও টমেটো যোগ করে ৫ মিনিট ধরে রান্না করে।
+3. টিমারিন, লবণ আর পানি যোগ করো আর একটা সিমমের সাথে নিয়ে এসো।
+4. মাছ আর সিমমারের কাছে গিয়ে ৮ মিনিটের জন্য আস্তে আস্তে আস্তে আস্তে আস্তে কথা বলো।
+:::
+
+:::lang ur
+# گین میکرل توماتو تھرمینڈ کریری
+
+ایک ٹانگی گون-ستیل مچھلی جس میں ٹماٹر، تامارینڈ اور تھوڑا ناریل ہیں۔
+
+## Instructions
+1. ناریل ، مونگ‌پھلی ، آمیزش اور خوشبودار خوشبودار خوشبودار پانی کی وجہ سے اُس کے سامنے پانی بھر جاتا تھا ۔
+2. تیل کو ٹھنڈا کرکے اون کو نرم تک پکاتے ہیں، پھر پیشاب اور ٹماٹر ملا کر 5 منٹ تک پکایا جاتا ہے۔
+3. تلمبہ، نمک اور پانی کو ملا کر ایک تالاب تک پہنچا دیتا ہے۔
+4. اِس کے بعد وہ اِس بات پر راضی ہو جاتے ہیں کہ اُن کے بچے اُن سے بات کریں ۔
+:::

@@ -103,3 +103,39 @@ prepTimeEstimated: true
 3. मॅश केलेली डाळ मिसळून आणखी 5 मिनिटे मंद आचेवर शिजवा.
 4. तेल गरम करून मोहरी तडतडू द्या. कढीपत्ता आणि हिंग घालून ही फोडणी रसमवर ओता; शेवटी कोथिंबीर घाला.
 :::
+
+:::lang en
+# Tomato Pepper Rasam
+
+A South Indian thin soup of tomato, tamarind, pepper and cumin, tempered with mustard and curry leaves.
+
+## Instructions
+1. Cook the dal in 200 ml of the water until very soft and mash it.
+2. Simmer the tomatoes, tamarind, crushed pepper, cumin, garlic, salt and remaining water for 10 minutes.
+3. Stir in the mashed dal and simmer for 5 minutes.
+4. Heat the oil, splutter the mustard seeds, curry leaves and asafoetida and pour over the rasam; finish with coriander.
+:::
+
+:::lang bn
+# টমেটো পেপার রাসাম
+
+এক দক্ষিণ ভারতীয় পাতলা টমেটো, টামারিড, মরিচ এবং জিমারী।
+
+## Instructions
+1. অল্প নরম এবং mash পর্যন্ত ২০০ মিটার পানি রান্না করুন।
+2. টমেটো, টামারি, মরিচ, হরন, রসুন, লবণ এবং অবশিষ্ট পানি ১০ মিনিট ধরে।
+3. পাঁচ মিনিটের জন্য নষ্ট হয়ে যাওয়া ডিজিট আর সিমমার।
+4. তেল, শস্যের বীজ, শুকনো পাতা এবং আস ফিফতেদা এবং ভেরামের ওপর ঢালতে শুরু করে; কোরিয়ান্ডার দিয়ে শেষ হয়।
+:::
+
+:::lang ur
+# توماتو پپر رسم
+
+ایک جنوبی ہندوستانی پکوان ، تامارین ، پنیر اور کپاس کے پتوں سے تیار کئے جاتے ہیں ۔
+
+## Instructions
+1. پانی کے 200 ملی میٹر میں ڈیم کو انتہائی نرم اور مس کرتی ہے۔
+2. اِس کے بعد اُس نے اِس بات کا ذکر کِیا کہ اُس نے اِس بات کو تسلیم کِیا ہے کہ اُس نے اِس کے بارے میں کیا کہا ۔
+3. مریخ کے مدار میں اور 5 منٹ کے لئے.
+4. تیل کو صاف کرنے کے لئے رائی کے بیج ، پتوں اور اسکوفی‌ٹی‌ڈی کے پتوں اور ریشم کے پتوں کو اُتار کر اُس پر رکھ دیا جاتا ہے ۔
+:::

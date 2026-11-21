@@ -76,3 +76,36 @@ prepTimeEstimated: true
 2. लसूण आणि आले घालून 30 सेकंद परता; मग बोक चॉय आणि थोडे पाणी घाला.
 3. 3 मिनिटे शिजवा, तमारी मिसळा आणि वाढा.
 :::
+
+:::lang en
+# Garlic Bok Choy and Mushroom Stir-Fry
+
+A quick vegan side of bok choy and mushrooms in garlic and a splash of tamari.
+
+## Instructions
+1. Stir-fry the mushrooms in the oil for 4 minutes until browned.
+2. Add the garlic and ginger for 30 seconds, then the bok choy and a splash of water.
+3. Cook for 3 minutes, add the tamari and serve.
+:::
+
+:::lang bn
+# গ্রামিক বোক চোই এবং মাসশরুম স্টিয়ার-ফি
+
+রসুনের চুড়ি আর মাশরুমের সাথে দ্রুত একঘেঁয়ে।
+
+## Instructions
+1. তেলে 4 মিনিট পর্যন্ত মাশরুম তৈরি হয়.
+2. ৩০ সেকেন্ডের জন্য রসুন আর ডোরা, তারপর চুড়ি আর পানি।
+3. কুক ৩ মিনিট, বিয়ে আর সেবা করুন।
+:::
+
+:::lang ur
+# Garlic Bok Choy and Mushomous-Fry -
+
+مونگ‌پھلی میں بوکو گائے اور مونگ‌پھلی کا ایک تیز سا حصہ ۔
+
+## Instructions
+1. تیل میں سوراخ 4 منٹ تک زہریلے رہے۔
+2. لہسن اور آمیزش 30 سیکنڈ تک شامل کر لیں، پھر بوکو کیو اور پانی کی ایک خاص مقدار ۔
+3. 3 منٹ کے لیے کک، تامری اور خدمت میں شامل کرنا۔
+:::

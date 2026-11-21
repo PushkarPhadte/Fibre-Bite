@@ -99,3 +99,39 @@ prepTimeEstimated: true
 3. भांड्यात हाताने फाडलेली रेडिकिओची पाने, पातळ चिरलेली बडीशेप, सोललेल्या ल्युपिनी बीन्स आणि चिरलेली पार्सली घालून ड्रेसिंगमध्ये हलकेच मिसळा.
 4. वर गरम भाजलेली आर्टिचोक हार्ट्स ठेवा आणि लगेच वाढा.
 :::
+
+:::lang en
+# Roasted Artichoke, Lupini Bean, and Radicchio Salad
+
+Plant-protein powerhouse Italian salad pairing golden roasted artichoke hearts and tender lupini beans with crisp radicchio, shaved fennel, and bright lemon dressing.
+
+## Instructions
+1. Preheat the oven to 215°C, pat the quartered artichoke hearts dry, toss with 8 ml of olive oil, and roast on a baking sheet for 18 minutes until golden and crisp at the tips.
+2. Whisk the remaining 10 ml of olive oil, fresh lemon juice, and grated garlic in a wide salad bowl.
+3. Add the torn radicchio leaves, shaved fennel, peeled lupini beans, and chopped parsley to the bowl and toss lightly in the dressing.
+4. Top with the warm roasted artichoke hearts and serve immediately.
+:::
+
+:::lang bn
+# পুডিং আর্টিচক, লুনি বেনান এবং র্যাডিকচিও সালভাড
+
+উদ্ভিদের বিদ্যুতের সালাদ ইতালির সালাদের সাথে সোনার রোচকির হৃদয় এবং কোমল মাংসের শিম, চুনপাঁটি চুন, চুনপা চুন এবং উজ্জ্বল লেবুর পোষাক।
+
+## Instructions
+1. প্রত্নতা ২১৫ পাউন্ড থেকে ২১৫ পাউন্ড পর্যন্তভেন, চতুর্থাংশের পাতা শুকনা দিয়ে শুকানো, ৮ মিলিটার তেল দিয়ে মচম করে, এবং ১৮ মিনিট পর্যন্ত সোনালী ও কাঁকঁস দিয়ে মচিয়ে দেয়।
+2. প্রচুর পরিমাণে রঞ্জকযুক্ত রসুন দিয়ে তৈরি ।
+3. আর এর মধ্যে রয়েছে চুনপোকার পাতা, হাত কাটা, চুনপানি বিন, এবং পাত্রের টুকরো টুকরো, এবং বাটিলা এবং পোষাকে হালকা হালকা ভাবে কাটা।
+4. প্রত্নতত্ত্ব হৃদয়ের উপরে এবং দ্রুত সেবা করে।
+:::
+
+:::lang ur
+# تسلیم شدہ Artichoke, Lupini Ben, and Radicchio Salad
+
+پودوں کے بجلی گھر اطالوی رنگوں کے جوہرنے سنہرے ہوئے آرٹشیوک کے دل اور نرم لوپینی دانوں کے ساتھ کریسپ ریڈیکیو، پکائے اور چمکدار ٹماٹر پہنتے ہیں۔
+
+## Instructions
+1. زیتون کے تیل کے ۸ میٹر کے تیل سے تیل حاصل کِیا جاتا ہے اور ۱۸ منٹ تک سونے اور سرے پر سونے کے پتے ہوتے ہیں ۔
+2. زیتون کے تیل کے باقی ۱۰ ملی‌میٹر ، تازہ لہسن اور لہسن کو ایک وسیع پیالے میں پکایا جاتا تھا ۔
+3. اِن پتوں کو ملا کر اُس کے پتوں کو ملا دیں ، اُس کی کھال کو اُبال دیں ، اُس کے پُرانے دانوں ، لوپینی دانوں اور اُس کے کپڑوں کو صاف کریں ۔
+4. اِس لئے اُنہوں نے اُن کی مدد کی ۔
+:::

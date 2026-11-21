@@ -93,3 +93,39 @@ prepTimeEstimated: true
 3. तमारी आणि लिंबाचा रस एकत्र फेटून घ्या.
 4. वाट्यांमध्ये भात, एडामामे, काकडी, गाजर आणि सॅल्मन मांडून घ्या. वरून ड्रेसिंग घाला आणि तीळ भुरभुरा.
 :::
+
+:::lang en
+# Seared Salmon Edamame Rice Bowl
+
+Seared salmon over brown rice with edamame, cucumber, carrot and a sesame-lime dressing.
+
+## Instructions
+1. Cook the rice as directed.
+2. Sear the salmon in the oil, skin-side down, for 4 minutes, flip and cook for 2 minutes more; flake into chunks.
+3. Whisk the tamari and lime juice.
+4. Assemble bowls with rice, edamame, cucumber, carrot and salmon; drizzle with the dressing and scatter with sesame.
+:::
+
+:::lang bn
+# লোহিত রক্তকণিকা
+
+বাদামি রঙের ভাত, পেডিয়াম, ধান, চাকার পাত্র, এবং একটি সিক্‌ম কাপড় পরে।
+
+## Instructions
+1. চালের তুলনা করুন।
+2. তেল, ত্বকের পাশে, চার মিনিটের জন্য, আর ২ মিনিট ধরে রান্না করা; পাথরের টুকরো টুকরো করা।
+3. টামারি আর লাইম জুস নিয়ে এসো।
+4. চাল, ইডামামা, পীতলা, চাকার বাগান, কারুণ এবং সালমন; কাপড়ের টুকরোর সাথে মিশে যায়।
+:::
+
+:::lang ur
+# بحری بیڑے Edamome Rice Boll
+
+بھورے ریچھوں کے ساتھ زیادہ بھورے چاول، کیکمبر، کیچم اور ایک سیمی میلنگ کے ساتھ.
+
+## Instructions
+1. چاول کو بطور ہدایت کیا.
+2. تیل میں تیل، کھال سے نیچے، 4 منٹ، کھانے اور پکانے کے لئے مزید 2 منٹ کے لئے.
+3. اِس کی کیا وجہ ہے ؟
+4. اِس کے بعد اُس کے کپڑوں میں ریشم کے برتن ہوتے ہیں ۔
+:::

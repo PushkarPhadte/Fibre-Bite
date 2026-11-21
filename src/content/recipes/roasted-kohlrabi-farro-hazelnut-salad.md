@@ -102,3 +102,39 @@ prepTimeEstimated: true
 3. मोठ्या वाढण्याच्या भांड्यात उरलेले 10 मिली ऑलिव्ह ऑइल, सफरचंदाचा व्हिनेगर, अख्ख्या दाण्यांची मोहरी आणि बारीक चिरलेला शॅलट एकत्र फेटून घ्या.
 4. गरम फारो आणि भाजलेला नवलकोल बेबी केल व ड्रेसिंगसोबत हलक्या हाताने मिसळा, म्हणजे पानं किंचित मऊ होतील. वरून भाजलेले, चिरलेले हेझलनट घाला.
 :::
+
+:::lang en
+# Roasted Kohlrabi, Farro, and Hazelnut Warm Salad
+
+Hearty whole-grain salad pairing caramelized roasted kohlrabi wedges with nutty farro, baby kale, toasted hazelnuts, and a tangy whole-grain mustard dressing.
+
+## Instructions
+1. Preheat the oven to 210°C, toss the kohlrabi wedges with 10 ml of olive oil and thyme leaves, and roast for 25 minutes until golden at the edges.
+2. Meanwhile, simmer the farro in plenty of water for 22 to 25 minutes until chewy-tender, then drain thoroughly.
+3. Whisk the remaining 10 ml of olive oil, apple cider vinegar, whole-grain mustard, and minced shallot in a large serving bowl.
+4. Toss the warm farro and roasted kohlrabi with the baby kale and dressing so the greens gently soften, then finish with toasted chopped hazelnuts.
+:::
+
+:::lang bn
+# কাল্লারবি, ফাররো এবং হেইজেল নিউম ওয়ারিম সাল্ম
+
+মন-আয়-গ্রাইন সালাদের সাথে জোড়া বানানো কল্লার কলোরবি সিরো, শিশু কালে, টোস্টকৃত কুয়াশালুট, এবং একটি টাং-গ্রাইন শাবানের শাড়ী।
+
+## Instructions
+1. ২১০ পাউন্ড পর্যন্ত চুলা, কোলাওয়ারাবি আমরা ১০ মিটার তেল এবং আপনার গাছ পাতা সাথে মিলে ২৫ মিনিটের জন্য রান্না করি।
+2. ইতোমধ্যে, ২০ থেকে ২৫ মিনিটের মধ্যে সিমমেরো পানিতে ডুবে গেছে।
+3. ঐ ১০ মিটার তেল, আপেল সিঙ্গার, পুরো সর্ষী, আর মিক্‌ড একটা বড় বাটি বাটি।
+4. উষ্ণ দূরের দিকে এবং বর্হিভূত কোল্লারবি শিশুর সাথে নাচানাচি করে।
+:::
+
+:::lang ur
+# داخلی کوہلوبی، فارو اور ہیزلنوت ورم سالاد شامل ہیں۔
+
+دل کا سارا جگر جوتا کرامنگ کارامیلبی وگ جس میں پاننی دورو، بچی کلے، ٹواسڈ ہیزلنوت اور ایک ٹانگی سب سے زیادہ گندمی دھاگے پہنتے ہیں۔
+
+## Instructions
+1. پریفیکچر 210°C تک کوہلوبی وے کو 10 میل زیتون کے تیل اور تیرم پتوں سے ٹکراتا ہے اور 25 منٹ تک سونے تک پکاتا ہے۔
+2. اس دوران میں، پانی میں کافی مقدار میں 22 سے 25 منٹ تک پانی بھر، جب تک کہ ہضم نہ ہو جائے، پھر پوری طرح حل کریں۔
+3. زیتون کے تیل کی باقی 10 ملی میٹر، سیب کی کُل‌وقتی مِلّیّے ، پورے گندم کے دانے اور مِلّیّے بڑے برتن میں ۔
+4. گرمرو کو جلا کر بچے کیلے کے ساتھ کوہلبی کو جلا کر اس طرح سبز رنگ کا نرم لباس پہنتا ہے، اس کے بعد اس کا ختم ہو جاتا ہے۔
+:::

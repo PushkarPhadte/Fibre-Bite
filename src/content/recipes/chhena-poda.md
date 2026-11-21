@@ -91,3 +91,39 @@ prepTimeEstimated: true
 3. मिश्रण तुपाने ग्रीस केलेल्या बेकिंग डिशमध्ये किंवा केकच्या साच्यात घाला.
 4. 180°C तापमानावर 30–35 मिनिटे बेक करा; वरचा भाग सोनेरी तपकिरी होऊन कॅरमेलाइझ होईपर्यंत भाजा.
 :::
+
+:::lang en
+# Chhena Poda (Light Baked Cottage Cheese Dessert)
+
+A healthy version of Odisha's famous baked cottage cheese dessert made with low-fat paneer, jaggery, and cardamom.
+
+## Instructions
+1. Knead crumbled chhena with jaggery powder, semolina, and cardamom powder until soft.
+2. Mix in crushed cashews and raisins.
+3. Transfer mixture into a ghee-greased baking dish or cake tin.
+4. Bake at 180°C for 30–35 minutes until the top turns golden brown and caramelized.
+:::
+
+:::lang bn
+# চোনা পোটা (লোকেট কটিয়ানের মাংসের দেশ)
+
+ওডিশা'র একটি সুস্থ সংস্করণ, যার মধ্যে রয়েছে কম-ফাঁটি পেইন্টার, জাগিরি এবং কার্ডম।
+
+## Instructions
+1. কেনেদ, জোগিরি পাউডার, সেমোলিনা আর তাসম পাউডারের টুকরো টুকরো করে দিয়েছে।
+2. ধূমপায়ী টাকা আর ইঁদুর।
+3. জিহি-গেরেদের খাবার বা কেকের টিনে মিশ্রণ নিয়ে আয়।
+4. ১৮০ পাউন্ডের কেক ৩০ মিনিট পর্যন্ত সোনার বাদামি আর চাকায় পরিণত হয়।
+:::
+
+:::lang ur
+# چینا پاڈا (انگریزی: Chenna Poda) (چینی: Light;
+
+اودیشا کے مشہور پکوان کا ایک صحت مند نسخہ کم عمری، جگجیت اور کارڈم کے ساتھ بنایا گیا۔
+
+## Instructions
+1. Knead Boaking Chhena جس میں جگری پاوڈر، سیمولنا اور کارڈامم پاوڈر کے ساتھ نرم ہونے تک ہوتا ہے۔
+2. گندھک کے برتنوں اور ریشموں میں Mex.
+3. ایک گیے سے بنے ہوئے برتن یا کیک ٹین میں آمیزش آمیزش۔
+4. 180°C پر 30–35 منٹ تک بیک وقت سنہری بھورے رنگ اور کرامیل بناتا ہے۔
+:::

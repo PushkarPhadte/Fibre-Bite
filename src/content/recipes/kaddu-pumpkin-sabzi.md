@@ -93,3 +93,36 @@ prepTimeEstimated: true
 2. भोपळा, हळद, मिरची, मीठ आणि 50 मिली पाणी घाला. झाकण ठेवून मंद आचेवर 15 मिनिटे, भोपळा मऊ होईपर्यंत शिजवा.
 3. शेवटी लिंबाचा रस आणि कोथिंबीर घाला.
 :::
+
+:::lang en
+# Kaddu Pumpkin Sabzi
+
+A sweet-sour Indian pumpkin dry curry tempered with fenugreek, mustard and fennel seeds.
+
+## Instructions
+1. Heat the oil and splutter the mustard, fenugreek and fennel seeds; add the onion and cook until soft.
+2. Add the pumpkin, turmeric, chilli, salt and 50 ml water, cover and cook on low for 15 minutes until tender.
+3. Finish with lemon juice and coriander.
+:::
+
+:::lang bn
+# কাডু পুম্পকিন সাবজ
+
+একটি মিষ্টি মিষ্টি কুমড়া শুকনা শুকানো স্নিগ্ধ, সরীসৃপ এবং প্লাঁতেল বীজ।
+
+## Instructions
+1. তেল ও তেলে ভরা তেল, প্লাঁতেঁ এবং প্লাঁতেঁ বীজ; ততক্ষণ পর্যন্ত রান্না ও রান্না করা উচিত ।
+2. এরপর কুমড়া, টুরমারিক, ঠাণ্ডা, লবণ এবং ৫০ মিটার জল দিন ।
+3. লেবুর রস দিয়ে শেষ।
+:::
+
+:::lang ur
+# کُڈُو پَمَکین سَزِی
+
+ایک میٹھا سا ہندوستانی پمپک خشک کنڈ کے ساتھ فینوگریک، جام اور فیول بیج کے بیج۔
+
+## Instructions
+1. اِس کے علاوہ اِن بیجوں کو بھی اِستعمال کِیا جاتا ہے ۔
+2. یہاں تک کہ 15 منٹ تک نیچے والے پمپکین ، ٹرمیر ، نمک ، نمک اور 50 میل پانی شامل کریں ۔
+3. مونگ‌پھلی کے جوس اور کریانڈر سے حاصل کئے جاتے ہیں ۔
+:::

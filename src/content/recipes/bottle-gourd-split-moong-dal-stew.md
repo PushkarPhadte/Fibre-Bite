@@ -105,3 +105,39 @@ prepTimeEstimated: true
 3. एका छोट्या पातेल्यात तेल गरम करा. मोहरी तडतडू द्या आणि त्यानंतर कढीपत्ता घालून 20 सेकंद परता.
 4. फोडणी स्ट्यूमध्ये ओता, हलक्या हाताने मिसळा आणि गरम वाढा.
 :::
+
+:::lang en
+# Bottle Gourd and Split Moong Dal Stew
+
+Hydrating, light Indian stew of tender bottle gourd (lauki), yellow lentils, curry leaves, and mild spices.
+
+## Instructions
+1. Simmer split moong dal and turmeric in water for 12 minutes until partially softened.
+2. Add cubed bottle gourd and chopped tomato, cooking another 10 minutes until tender.
+3. In a small pan, warm oil and pop mustard seeds followed by curry leaves for 20 seconds.
+4. Pour the tempering into the stew, stir gently, and serve warm.
+:::
+
+:::lang bn
+# Bolot God এবং বিভক্ত মুনগ ডাল স্টেক
+
+Hyanging, হালকা ভিনে বোতলের সুর (লাকিকি), হলুদ ডাল, পাতা এবং হালকা মসলা।
+
+## Instructions
+1. কিন্তু, এটা এত সহজ ছিল না ।
+2. কিউবের বোতল যোগ করুন এবং টমেটো কাটা করুন, আর আরো ১০ মিনিট রান্না করুন।
+3. অল্প কথায়, গরম তেল আর তেলের বীজ ২০ সেকেন্ডের জন্য ছেড়ে যায়।
+4. সুরঙ্গের মধ্যে রঙ্গম তৈরি করুন, কোমল হাসি দিয়ে এবং উষ্ণ সেবা করুন ।
+:::
+
+:::lang ur
+# گیورڈ اور سپلٹ موہن دگل ستیہ ہیں۔
+
+حیدری، ہلکے ہندوستانی نژاد نرم بوتل کے درخت (لاکی)، زرد مونگ پھلی، لوہے کے پتوں اور نرم خوشبوؤں کے پھول۔
+
+## Instructions
+1. سمر نے چاندوں کو پانی میں بارہ منٹ تک تقسیم کیا یہاں تک کہ جزوی طور پر نرم ہو گیا۔
+2. اِس کے علاوہ اِس کے ساتھ‌ساتھ اُن کے کھانے پینے کے 10 منٹ بھی ہوتے ہیں ۔
+3. ایک چھوٹے سے پین میں گرم تیل اور پاپ رائی کے بیج ہوتے ہیں جن کے بعد ۲۰ سیکنڈ تک پتے ہوتے ہیں ۔
+4. اِس لئے اُس کے اندر نرمی سے بات کریں اور اُس کی خدمت کریں ۔
+:::

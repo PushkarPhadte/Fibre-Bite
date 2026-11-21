@@ -95,3 +95,36 @@ prepTimeEstimated: true
 2. ताहिनी, लिंबाचा रस आणि 20 मिली कोमट पाणी फेटून गुळगुळीत सॉस तयार करा.
 3. शिजवलेली ज्वारी चार वाडग्यांत विभागा. वर भाजलेली झुकिनी आणि हरभरे घालून ताहिनीचा सॉस ओता.
 :::
+
+:::lang en
+# Roasted Zucchini and Chickpea Grain Bowl
+
+Oven-roasted zucchini coins and crispy chickpeas served over cooked sorghum with tahini-lemon drizzle.
+
+## Instructions
+1. Toss zucchini rounds and chickpeas with olive oil and roast at 205 C for 18 minutes until browned.
+2. Whisk tahini, lemon juice, and 20 ml warm water into a smooth drizzle.
+3. Divide cooked sorghum among four bowls, top with roasted zucchini and chickpeas, and drizzle with tahini sauce.
+:::
+
+:::lang bn
+# কুচিনিনি এবং মুরগী গ্রাসা গ্রাসা
+
+ওভেন-রোক্রয়নি মুদ্রা এবং কুঁচিপোকারা তাহিনি-এল-লিমোনের সাথে রান্না করা টেম্পু পরিবেশন করেছে।
+
+## Instructions
+1. চিনির তেল দিয়ে টকেনি এবং মুরগিগুলো ১৮৫ মিনিটের জন্য রান্না করে।
+2. হুইস্কি থাহনি, লেবুর জুস এবং ২০ মিটার গরম পানি একটি মসৃণ বৃষ্টিপাতে।
+3. চার বাটি বাটি বাটির মধ্যে ভাগ করা হয়েছে, যার মধ্যে রয়েছে কুমিচুনি এবং কুচানি, আর তাহিনি সস।
+:::
+
+:::lang ur
+# جون ۸ ، ۲۰۰۰
+
+اِس کی وجہ یہ تھی کہ اِن میں سے زیادہ‌تر کو پکایا جاتا تھا ۔
+
+## Instructions
+1. جب تک بھورے رنگ کا ہوتا ہے تب تک ۵. ۱۸ منٹ تک زیتون کا تیل اور اسے جلا دیا جاتا ہے ۔
+2. وِسک تاہنی ، ٹماٹر جوتا اور ۲۰ ملی‌میٹر گرم پانی کو ایک ہموار تالاب میں تبدیل کر دیتا ہے ۔
+3. اِس کے بعد اُس نے اُس کے ساتھ مل کر کھانا کھایا ۔
+:::

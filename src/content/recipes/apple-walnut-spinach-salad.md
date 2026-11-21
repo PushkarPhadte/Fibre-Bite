@@ -87,3 +87,36 @@ prepTimeEstimated: true
 2. पालक आणि सफरचंद ड्रेसिंगसोबत हलवून एकत्र करा.
 3. वरून अक्रोड घाला आणि वाढा.
 :::
+
+:::lang en
+# Apple Walnut Spinach Salad
+
+Baby spinach with crisp apple and walnuts in a light lemon-yogurt dressing.
+
+## Instructions
+1. Whisk the yogurt, lemon juice, olive oil, salt and pepper into a dressing.
+2. Toss the spinach and apple with the dressing.
+3. Top with walnuts and serve.
+:::
+
+:::lang bn
+# Apple Unatina আনমেষ
+
+হালকা লেবুর জামা পড়া আপেল আর বাদামের সাথে বেবি কাচা।
+
+## Instructions
+1. আর তাই এতে অবাক হওয়ার কিছু নেই!
+2. আপেল আর আপেল ড্রেসের উপরে।
+3. পেয়াজ আর সেবা করার উপরে।
+:::
+
+:::lang ur
+# ایپل والنوت اسپینخ سالود
+
+Baby pinach with crisp Peak اور walnuts کے ساتھ ہلکے ٹائیگر-ygurt پہنتے ہیں۔
+
+## Instructions
+1. اِس کا مطلب ہے کہ اِس کا تیل ، تیل ، نمک اور پنیر کو کپڑے میں ملا دیا جاتا ہے ۔
+2. کپڑے کے ساتھ ریڑھ کی ہڈی اور سیب کو دبا دیتا ہے۔
+3. سب سے اوپر چاول اور خدمت.
+:::

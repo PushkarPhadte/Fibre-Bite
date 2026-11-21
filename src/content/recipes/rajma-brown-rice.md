@@ -124,3 +124,42 @@ prepTimeEstimated: true
 4. टोमॅटोची प्युरी घालून घट्ट होईपर्यंत शिजवा. शिजलेला राजमा आणि घट्ट आमटी होण्यासाठी पुरेसे शिजवणीचे पाणी घाला; 15 मिनिटे मंद आचेवर उकळू द्या आणि चवीनुसार मीठ घाला.
 5. ब्राउन राइसवर राजमा वाढा आणि वरून कोथिंबीर घाला.
 :::
+
+:::lang en
+# Rajma with Brown Rice
+
+A balanced North Indian kidney bean curry served with fiber-rich brown rice and fresh cilantro.
+
+## Instructions
+1. Soak the kidney beans overnight, then drain. Pressure-cook in fresh water until completely tender, or simmer in a covered pot until soft.
+2. Rinse the brown rice and cook in water according to the package directions until tender.
+3. Heat oil in a pot. Cook the onion until golden, add ginger-garlic paste, then stir in cumin, coriander, turmeric, and garam masala.
+4. Add the tomato puree and cook until thickened. Stir in the cooked beans and enough cooking liquid for a thick curry; simmer for 15 minutes and season to taste.
+5. Serve the rajma over brown rice and finish with cilantro.
+:::
+
+:::lang bn
+# ব্রাউন রাইসের সাথে রাজমা
+
+উত্তর ভারতের এক ভারসাম্যপূর্ণ স্বাস্থ্য কেন্দ্র। ফাইবারের মতো বাদামী রঙের ভাত এবং তাজা সিলান্রো সরবরাহ করেছে।
+
+## Instructions
+1. রাতের বেলা কিক-বিনের মালিক হও, তারপর ড্রেনে। যতক্ষণ না হালকাভাবে নরম হয় ততক্ষণ পর্যন্ত হালকা পানিতে চাপ প্রয়োগ করা হয়।
+2. কোমল না হওয়া পর্যন্ত বাদামি ভাত এবং পানিতে রান্না করে।
+3. পাত্রের উপর তাপ তেল। সোনালী রঙের পেস্ট যোগ করার আগে পর্যন্ত অন্ত্যেষ্টিক্রিয়ার রান্না করে, তারপর তা হরেরে, হরেরেরিক, আর কামারমা মাসালা।
+4. টমেটোর বিশুদ্ধি যোগ করো এবং ঘন না হওয়া পর্যন্ত রান্না করো। রান্না করা শিমগুলো এবং ঘন পরিমাণে রান্না করার জন্য যথেষ্ট রান্না করার তরল পদার্থ; ১৫ মিনিট ও সময়ের জন্য সহজ ।
+5. বাদামি চালের উপররাজীর কাজ কর এবং সিল্র দিয়ে শেষ কর।
+:::
+
+:::lang ur
+# براؤن رائس کیساتھ راجما
+
+ایک متوازن شمالی ہندوستانی سنیما بیراج کے ساتھ جڑی بوٹیوں کے ساتھ ساتھ بھورے رنگ کے بھورے رنگ اور تازہ سیلترو بھی کام کرتے تھے۔
+
+## Instructions
+1. رات کے وقت کیک، پھر واپس. تازہ پانی میں جب تک مکمل طور پر نرم نہ ہو جائے، یا پھر ایک ڈھالے ہوئے برتن میں جب تک نرم نہ ہو۔
+2. بھورے رنگ کے چاول کو صاف کریں اور پیکج کی سمتوں کے مطابق پانی میں پکا دیں ۔
+3. ایک برتن میں تیل. سونے تک اونون کو کک، آمیزش-جرلک پَر کو ملا کر، پھر کوریانڈر، ترامیم اور گراہم ماسالا میں ہل چلا جاتا ہے۔
+4. ٹماٹر کو صاف کرنے اور پکانے تک پکایا جاتا ہے ۔ اِس کے بعد اُس نے اِس بات کا تجربہ کِیا کہ اُس نے اُس کے لئے کھانا تیار کِیا ہے ۔
+5. بھورے ریچھ سے زیادہ راجا کی خدمت کرنا اور سیل‌ٹرو کیساتھ ختم ہونا ۔
+:::

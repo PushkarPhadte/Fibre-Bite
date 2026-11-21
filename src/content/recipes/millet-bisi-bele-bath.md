@@ -110,3 +110,39 @@ prepTimeEstimated: true
 3. भाज्यांचे मिश्रण तांदूळ-डाळीत मिसळून 10 मिनिटे मंद आचेवर शिजवा; पेजेसारखा घट्टपणा येण्यासाठी गरजेनुसार पाणी घाला.
 4. तेल गरम करून त्यात मोहरी तडतडू द्या, कढीपत्ता घाला आणि ही फोडणी मिश्रणात मिसळा.
 :::
+
+:::lang en
+# Millet Bisi Bele Bath
+
+A Karnataka one-pot of brown rice, toor dal and vegetables in a spiced tamarind base.
+
+## Instructions
+1. Cook the rice and dal together in 600 ml of the water until very soft, about 30 minutes, and mash lightly.
+2. Simmer the vegetables with the tamarind, spices, salt and the remaining water for 10 minutes.
+3. Combine with the rice-dal mixture and simmer for 10 minutes, adding water to a porridge-like consistency.
+4. Heat the oil, splutter the mustard seeds and curry leaves and stir in.
+:::
+
+:::lang bn
+# মিলেট বিসিসি
+
+একটি বাদামি চাল, টবা ডিলা আর সবজি।
+
+## Instructions
+1. ধানের রান্না এবং জলের ৬০০ মিটার গভীর জলের মধ্যে দিয়ে
+2. সবজি, মসিনা, লবণ আর বাকি পানি ১০ মিনিট ধরে।
+3. চালের মিশ্রণ আর সিমমের সাথে ১০ মিনিট ধরে, পানি যোগ করে।
+4. তেল ঢালে, সরিষার বীজ আর ফলের পাতা শুকিয়ে যায়।
+:::
+
+:::lang ur
+# میل‌جول بُت
+
+ایک Karnataka a-pt of Black Rio, toor Dal and سبزیوں کی ایک simpleed Tamarind بیس میں.
+
+## Instructions
+1. پانی کے 600 ملی میٹر تک ، تقریباً 30 منٹ اور موم‌بتیاں ایک ساتھ کِیا کریں ۔
+2. دمدار پودوں کے ساتھ بنے ہوئے سبزیوں کے ساتھ 10 منٹ کے لیے چاول، چاول اور باقی پانی کے ساتھ تیار کیا جاتا ہے۔
+3. چاول کے بنے ہوئے آمیزے سے ملا کر 10 منٹ تک پانی جمع کرتے ہیں، جس سے پانی کی طرح کی نالیوں میں اضافہ ہوتا ہے۔
+4. تیل کو صاف کرنے ، رائی کے دانے اور اُس کے پتوں کو پکڑ کر اندر جذب کرنے کی کوشش کرتے ہیں ۔
+:::

@@ -131,3 +131,42 @@ prepTimeEstimated: true
 4. तांदूळ, मटार, मासे आणि पोच करण्यासाठी वापरलेले दूध हलक्या हाताने मिसळून 5 मिनिटे गरम करा.
 5. वरून अंड्याच्या चतुर्थांश फोडी, लिंबाचा रस आणि कोथिंबीर घाला.
 :::
+
+:::lang en
+# Light Kedgeree with White Fish and Brown Rice
+
+A lightened version of the Anglo-Indian breakfast classic: poached white fish, brown rice, peas and boiled egg in gentle curry spices.
+
+## Instructions
+1. Cook the rice in 500 ml of water with a pinch of salt for 35 to 40 minutes until tender.
+2. Poach the fish in the milk for 6 minutes until it flakes, then lift out and break into chunks. Keep the milk.
+3. Heat the ghee, cook the onion, ginger and chilli for 5 minutes, then add the spices and stir for 1 minute.
+4. Fold in the rice, peas, fish and poaching milk and warm through for 5 minutes.
+5. Top with quartered eggs, lemon juice and coriander.
+:::
+
+:::lang bn
+# সাদা মাছ এবং ব্রাউন রাইসের হালকা কজ।
+
+অ্যাংলো-ভারতের সকালের নাস্তার একটি হালকা সংস্করণ: পচন সাদা মাছ, বাদামি চাল, মটরশুঁটি আর ডিম দিয়ে তৈরি ডিম।
+
+## Instructions
+1. কোমল না হওয়া পর্যন্ত ৩৫ থেকে ৪০ মিনিট লবণ দিয়ে ভাতকে রান্না করুন।
+2. ৬ মিনিটের জন্য দুধে মাছ ধরতে হবে, তারপর তুলে নিতে হবে এবং টুকরো টুকরো করতে হবে। দুধ রাখো.
+3. মাংস রান্না, রান্না করা, মদ খাওয়া আর পাঁচ মিনিটের জন্য ঠাণ্ডা করা হয়, তারপর এক মিনিটের জন্য মসলা যোগ করে।
+4. চাল, মটরশুঁটি, মাছ ও পিঁয়াজে ভরে পাঁচ মিনিটের জন্য গরম ।
+5. সেরা ডিম, লেবু জুস আর কোরিয়ান্ডার।
+:::
+
+:::lang ur
+# سفید مچھلی اور براؤن رائس کے ساتھ ہلکے کیفرس
+
+اینگلو انڈین بونے کلاسیکی کا ایک ہلکا ورژن: پوکیڈ سفید مچھلی، بھورے چاول، پائیس اور پکائے ہوئے انڈے کو نرم چاولوں میں پکایا جاتا ہے۔
+
+## Instructions
+1. نمک کو ۵۰۰ ملی‌میٹر پانی میں صاف کریں ۔
+2. دودھ میں 6 منٹ تک مچھلیوں کو اُٹھا کر اُوپر اُٹھا لیا جاتا ہے ۔ دودھ رکھنا.
+3. گیٹ، اونون کو پکا، پگھلنے اور گلے کو 5 منٹ تک پکایا، پھر خوشبوؤں کو ملا کر 1 منٹ تک ہلائیں۔
+4. چاول، پائیس، مچھلیوں اور پوکینگ دودھ اور 5 منٹ تک پکایا جاتا ہے۔
+5. اُوپر کے انڈوں ، ٹماٹر جوس اور کریانڈر کے انڈے ہوتے ہیں ۔
+:::

@@ -87,3 +87,39 @@ prepTimeEstimated: true
 3. टर्कीभोवती ताज्या क्रॅनबेरी पसरवा आणि आतील तापमान 74°C होईपर्यंत 25 ते 30 मिनिटे बेक करा.
 4. 5 मिनिटे तसेच ठेवून मग कापा आणि मऊ झालेल्या क्रॅनबेरीसोबत वाढा.
 :::
+
+:::lang en
+# Baked Turkey Tenderloin with Sage and Cranberries
+
+Lean turkey tenderloin roasted with fresh sage and tart whole cranberries for a savory, low-fat main.
+
+## Instructions
+1. Preheat the oven to 190 C and lightly oil a roasting dish.
+2. Rub turkey tenderloin with olive oil, minced garlic, chopped sage, and black pepper, then place in the dish.
+3. Scatter fresh cranberries around the turkey and bake for 25 to 30 minutes until internal temperature reaches 74 C.
+4. Rest for 5 minutes, slice, and serve with the softened cranberries.
+:::
+
+:::lang bn
+# ঘুম এবং ক্র্যাকবি বেরির সঙ্গে তুরস্কের মিত্রতা
+
+লেঁন টেন্ডার টেন্ডারোয়েন তাজা সসেজ আর টরেন্ট লিবানি বের করে... ...আর কমফাট প্রধান.
+
+## Instructions
+1. প্রত্নতা ১৯০ C থেকে ১৯০ সি পর্যন্ত এবং হালকা ভাবে রান্নার খাবার।
+2. মুরগির তেল, পচন, কালো মরিচ, তারপর খাবারে ছড়িয়ে পড়ে।
+3. ৭৪ সি তে অভ্যন্তরীণ তাপমাত্রা না পাওয়া পর্যন্ত ২৫ থেকে ৩০ মিনিট ৩০ মিনিট পর্যন্ত।
+4. ৫ মিনিটের জন্য বিশ্রাম নাও, টুকরো টুকরো করো, আর নরম কানবেরির সাথে কাজ করো।
+:::
+
+:::lang ur
+# ترکی ہمدردین نے سیج اور کرنسیوں کے ساتھ ہمدردی کی۔
+
+لَن تَرْكَ سَفَلُون نے تازہ سَج اور تَطْرَنَّرُونَ کے ساتھ ایک سُر، کم پاٹھ مین کے لیے جلا دیا۔
+
+## Instructions
+1. اِس کی ایک وجہ یہ ہے کہ اِن میں سے ایک تیل ہے ۔
+2. اِس کے بعد اُس کے کھانے میں زیتون کا تیل ، لہسن ، اُس کی چھال اور کالے رنگ کا تیل لگا دیا جاتا ہے ۔
+3. جب تک اندرونی درجہ حرارت 74 سی تک نہیں پہنچ جاتا ۔
+4. پانچ منٹ تک آرام کرتے رہے اور نرم‌مزاجی سے کام لیتے رہے ۔
+:::

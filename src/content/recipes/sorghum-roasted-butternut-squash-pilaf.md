@@ -98,3 +98,39 @@ prepTimeEstimated: true
 3. दरम्यान, उरलेले ऑलिव्ह तेल सॉसपॅनमध्ये गरम करा. धुऊन घेतलेली ज्वारी आणि शोरबा घाला, उकळी आणा आणि झाकण ठेवून मंद आचेवर 35 ते 40 मिनिटे शिजवा, ज्वारी मऊ होईपर्यंत.
 4. वाढण्यापूर्वी भाजलेला स्क्वॅश आणि कांद्याची पात शिजलेल्या ज्वारीत हलक्या हाताने मिसळा.
 :::
+
+:::lang en
+# Sorghum and Roasted Butternut Squash Pilaf
+
+Nutty whole-grain sorghum paired with caramelized butternut squash cubes, scallions, and sage.
+
+## Instructions
+1. Preheat the oven to 200 C and toss butternut squash cubes with half the olive oil and sage on a baking sheet.
+2. Roast the squash for 25 minutes until tender and lightly browned.
+3. Meanwhile, heat the remaining olive oil in a saucepan, add rinsed sorghum and broth, bring to a boil, and simmer covered for 35 to 40 minutes until tender.
+4. Fold the roasted squash and scallions into the cooked sorghum before serving.
+:::
+
+:::lang bn
+# সর্গম এবং পুডনিটান মরণাফ পিলাফ
+
+নাটিটি-গ্রাগিম, যার সাথে রসালো মাখনের সসটলেট, স্কলা এবং শুট।
+
+## Instructions
+1. শ্যাম্পু করার জন্য ২০০ C থেকে ২০০ পাউন্ড পর্যন্ত স্টোভ এবং মাখনের সয়াবিন, অর্ধেক জলপাই তেল এবং ঝরানো পাতা।
+2. ২৫ মিনিটের জন্য স্কুইশ শুকায়, কোমল আর হালকা বাদামি।
+3. এর মধ্যে সসেজপানের অবশিষ্ট জলপাই তেলকে গরম করে, এতে সসেজুম এবং ব্রোথ যুক্ত করা হয়, এক সিদ্ধ সিদ্ধ অবস্থায় ৩৫ থেকে ৪০ মিনিট পর্যন্ত ঢেকে থাকে।
+4. রান্নার আগে রান্না করা স্কুইশ এবং রান্না করা শিগগের উপর ঝাঁপিয়ে পড়ে ।
+:::
+
+:::lang ur
+# سرگودھا اور بٹترنوت ساگر پلاف میں داخل ہوئے۔
+
+نیوٹریہ مکمل طور پر جگر سے ملا کرامالائزڈ مکھن کوب، سکیل اور سیج سے ملاتی ہے۔
+
+## Instructions
+1. زیتون کے تیل کے نصف حصے میں زیتون کے تیل اور اسکے پانی کے قطرے پائے جاتے ہیں ۔
+2. 25 منٹ تک اس وقت تک داخل کرو جب تک نرم اور ہلکا بھورے رنگ نہ ہو جائے۔
+3. اس دوران ، باقی زیتون کے تیل کو صابن میں گرم کرنا ، زہریلے اور بُرتھ کو ملا کر راکھ میں ڈال دیا جاتا ہے اور جب تک نرم‌مزاج 35 سے ۴۰ منٹ تک چھا جاتا ہے ۔
+4. اِس سے پہلے کہ اِسے پکایا جاتا تھا ، اِس میں کچھ خاص تبدیلیاں ہوتی تھیں ۔
+:::

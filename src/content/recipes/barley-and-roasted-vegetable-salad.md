@@ -99,3 +99,36 @@ prepTimeEstimated: true
 2. जव भरपूर पाण्यात 30 मिनिटे मऊ होईपर्यंत उकळा; पाणी निथळून थोडे थंड होऊ द्या.
 3. जव, भाज्या, पार्सली, लिंबाचा रस, उरलेले तेल, मीठ आणि काळी मिरी एकत्र करा आणि वरून अक्रोड घाला.
 :::
+
+:::lang en
+# Barley and Roasted Vegetable Salad
+
+Chewy pearl barley with oven-roasted zucchini, pepper and red onion, lemon and walnuts.
+
+## Instructions
+1. Heat the oven to 220 °C. Toss the zucchini, pepper and onion with half the oil and roast for 25 minutes.
+2. Boil the barley in plenty of water for 30 minutes until tender; drain and cool slightly.
+3. Combine barley, vegetables, parsley, lemon juice, remaining oil, salt and pepper and top with walnuts.
+:::
+
+:::lang bn
+# বারলি এবং ঝক্‌জা
+
+টরিগনি, মরিচ, মরিচ, লেবু আর নখ দিয়ে তৈরি রুটি।
+
+## Instructions
+1. গ্যাস থেকে ২০ ডিগ্রি সেলসিয়াস পর্যন্ত ছড়িয়ে আছে। জিকেনি, মরিচ এবং সয়া দিয়ে ২৫ মিনিট নাস্তা করা হয়।
+2. জলকে ৩০ মিনিট জল সরবরাহ করুন ।
+3. শস্য, সবজি, লেবু, লেবু, লেবুর জুস, অবশিষ্ট তেল, লবণ এবং মরিচ এবং ডালের ওপরের টুকরো ।
+:::
+
+:::lang ur
+# بارلی اور غسل شدہ وفود ہیں۔
+
+چوئی موتی جَو جس کے ساتھ اوون-گُو نُکْکِنِیْنِی، پَر اور سرخ اونی اُون، مکئی اور چاول وغیرہ ہیں۔
+
+## Instructions
+1. ہیپاٹائٹس بی سے 220 °C تک. ٹونکنی، پیپ اور اون کے ساتھ تیل اور 25 منٹ تک پکاتا ہے۔
+2. جوار 30 منٹ تک نرم اور ٹھنڈا ہوتا ہے ۔
+3. جوار، سبزی، چاول، ٹماٹر جوتا، باقی تیل، نمک اور چاول وغیرہ کے ساتھ ملانے والا جوہر، سبزی، آلو وغیرہ۔
+:::

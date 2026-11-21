@@ -107,3 +107,39 @@ prepTimeEstimated: true
 3. कोंबू दाशीचा रस्सा आणि कमी-सोडियम तामारी घाला, उकळी आणा आणि मध्यम-कमी आचेवर झाकण न ठेवता 12 मिनिटे शिजवा, जोपर्यंत बहुतेक द्रव शोषला जात नाही.
 4. शेवटच्या 2 मिनिटांसाठी सोललेले एडामामे मिसळून गरम होऊ द्या; वाढण्यापूर्वी वरून भाजलेले तीळ घाला.
 :::
+
+:::lang en
+# Japanese Arame Seaweed, Edamame, and Daikon Simmer
+
+Mineral-rich Japanese home-style side or light main of mild rehydrated arame sea vegetables braised with julienned daikon, carrots, shelled edamame, and firm tofu.
+
+## Instructions
+1. Drain the soaked arame thoroughly after rinsing in two changes of fresh water to remove excess natural sodium.
+2. Heat the toasted sesame oil in a medium skillet over medium heat and stir-fry the arame, daikon matchsticks, carrot matchsticks, and tofu strips for 3 minutes.
+3. Pour in the kombu dashi broth and low-sodium tamari, bring to a simmer, and cook uncovered over medium-low heat for 12 minutes until most of the liquid is absorbed.
+4. Fold in the shelled edamame for the final 2 minutes to warm through, then top with toasted sesame seeds before serving.
+:::
+
+:::lang bn
+# জাপানি আর্মে সিয়েদ, এডমেম এবং দাকটন সিমমের
+
+মিনারেল-চরী জাপানী হোম স্টাইলের দিক বা হালকা গন্ধের মূল উৎস হচ্ছে কোমল আব্রাহামের তেল দিয়ে তৈরি মিষ্টি মিষ্টি বানানো।
+
+## Instructions
+1. তাই, এতে অবাক হওয়ার কিছু নেই যে, অতিরিক্ত প্রাকৃতিক পদার্থের পরিমাণ কমিয়ে আনার জন্য দুটো নতুন জল দরকার ।
+2. মাঝারি মানের গরম এবং আরাম, দাইকনিক ম্যাচস্টিক, কারটস্টিক এবং টফু স্ট্রিপের উপর তৈরি।
+3. কোমবু ব্বাই বোথ এবং নিম্ন-সোডিয়াম টিমারিতে ঢাল, একটা সিমমের সাথে নিয়ে এসো এবং ১২ মিনিট ধরে পানি খাওয়া শুরু করো।
+4. শেষ ২ মিনিট গরমের সময় শেলফায় ভরে যায়, তারপর তা পরিবেশন করার আগে টোটাড সেলের বীজের ওপর দিয়ে।
+:::
+
+:::lang ur
+# جاپانی اروم جھیل، ایڈالامے اور دایکون سیمیر ہیں۔
+
+Mineral-rich Japan home-style side یا ہلکے بنیادی طور پر نرم رد عمل والے بحری سبزیوں کے ساتھ جولیند دایکون، کولکات، شیلڈ ایڈمامے اور ٹھوس توفو سے جڑے ہوئے ہیں۔
+
+## Instructions
+1. زیادہ‌تر قدرتی سوڈیئم کو دور کرنے کے لئے تازہ پانی کی دو تبدیلیوں کے بعد پانی کو اچھی طرح تبدیل کِیا جاتا ہے ۔
+2. گرم گرمیوں کے دوران درمیانے درجے کے تیل میں حرارت کے اوپر ایک درمیانے درجے کے تیل کو گرم کرنے اور عطارد، ڈاکون میچ سیریز، میچ سیریز، اور 3 منٹ تک پٹیاں۔
+3. کومبو پرساد بریتھ اور کم سومئم تیماری میں پلانٹس، ایک گیس میں لاتا ہے اور 12 منٹ تک اوسط درجہ حرارت پر پکایا جاتا ہے یہاں تک کہ مائع کا زیادہ تر حصہ جذب ہو جاتا ہے۔
+4. اِس کے بعد پہل‌کار کے طور پر خدمت کرنے سے پہلے اُس کے بیج اُس کے ساتھ مل جاتے ہیں ۔
+:::

@@ -56,7 +56,7 @@
 
 <svelte:head>
 	<title>{t('grocery.title')} | Fibre-Bite</title>
-	<meta name="description" content="Combine saved recipes into one smart grocery list." />
+	<meta name="description" content={t('meta.groceryDescription')} />
 </svelte:head>
 
 <div class="mx-auto max-w-6xl px-6 py-10">

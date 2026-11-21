@@ -132,3 +132,42 @@ prepTimeEstimated: true
 4. तुकडे केलेले संपूर्ण गव्हाचे नूडल्स घालून आणखी 8 ते 10 मिनिटे मंद आचेवर शिजवा; नूडल्स मऊ होऊन सूप नैसर्गिकरीत्या घट्ट होईपर्यंत शिजवा.
 5. उरलेले 6 मिली ऑलिव्ह तेल गॅस बंद करून वाळलेल्या पुदिन्यासह 20 सेकंद गरम करा. सूप वाट्यांमध्ये वाढा आणि वर दह्याच्या रेषा व पुदिन्याचे तेल घाला.
 :::
+
+:::lang en
+# Persian Ash Reshteh (Thick Herb, Bean, and Noodle Soup)
+
+Nourishing Iranian celebration soup packed with spinach, fresh parsley, cilantro, scallions, lentils, kidney beans, chickpeas, and whole-wheat noodles swirled with tangy yogurt.
+
+## Instructions
+1. Heat 14 ml of olive oil in a large soup pot, sauté the sliced onion and garlic for 6 minutes until golden, then stir in the turmeric.
+2. Add the rinsed brown lentils, unsalted vegetable broth, and salt; bring to a boil and simmer covered for 20 minutes until the lentils are tender.
+3. Stir in the cooked chickpeas, kidney beans, chopped spinach, parsley, cilantro, and scallions, simmering 10 minutes until vibrant green.
+4. Add the broken whole-wheat noodles and simmer 8 to 10 minutes more until the noodles are tender and naturally thicken the broth.
+5. Warm the remaining 6 ml of olive oil with dried mint for 20 seconds off the heat, then ladle the soup into bowls topped with swirls of yogurt and mint oil.
+:::
+
+:::lang bn
+# পার্সিয়ান আশতেহ (তাহিক হার্ব, বেন এবং নুডল সোপ)
+
+ইরানের উৎসব উদযাপনের সুপ হাতে ভরা, নতুন প্যারোলে, সিলেক্টো, সিলেট, ডাল, কোচিন, মুরগীর শিম, এবং সব কিছু টিংইতে ভরা।
+
+## Instructions
+1. একটা বড় সুপের পাত্রের উপর হেট ১৪ মিলি তেল, সামুটে চুন ও রসুনের টুকরো ছয় মিনিট ধরে কেটে ফেলা হয়।
+2. কিন্তু, এলার্জির ক্ষেত্রে এমনটা হয়নি ।
+3. রান্না করা মুরগি, কিয়োটো বিন, মসলা, মসলা, পারলি, সিলান্‌রো এবং স্কুইডিং থেকে শুরু করে ১০ মিনিট পর্যন্ত।
+4. ভাঙ্গা নুডলস আর সিমমের ৮ মিনিট বাকি আছে যতক্ষণ না নুডুলস কোমল আর স্বাভাবিকভাবে নরম হয়।
+5. গরমের কারণে ২০ সেকেন্ড শুকিয়ে যাওয়া জলপাই তেল দিয়ে অবশিষ্ট ছয় মিলিটারের তেল গরম হয়ে যায়।
+:::
+
+:::lang ur
+# فارسی آشا راشٹریہ (Thik Herb, Ben, and Noodle Soup)۔
+
+ایران کے جشن سپہ سالاروں میں رینچ، تازہ کنٹل، سیلانٹرو، کنڑ، کانسی کے دانوں، کیلے کے دانوں اور پوری کیوبیک نوودز سے بھرے ہوئے تھے۔
+
+## Instructions
+1. زیتون کے تیل کے ۱۴ ملی‌میٹر بڑے صابن میں پائے جاتے ہیں ۔
+2. اِس کے علاوہ اِس میں گندم کے کیڑے ، کیڑے اور نمک بھی شامل کئے جاتے ہیں ۔
+3. اِس کے بعد اِن میں سے دس منٹ کے اندر اندر اُس کی کھال اُڑ جاتی ہے ۔
+4. ٹوٹنے والے پورے سوراخوں کو شامل کریں اور 8 سے 10 منٹ زیادہ یہاں تک کہ نیووڈز نرم اور قدرتی طور پر گھنی ہوتے ہیں۔
+5. زیتون کے باقی ۶ ملی گرام کو گرم کرکے ۲۰ سیکنڈ تک خشک منٹ پر پکایا جاتا ہے ۔
+:::

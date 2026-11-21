@@ -104,3 +104,39 @@ prepTimeEstimated: true
 3. उरलेल्या तेलात कांदा परता. मसूर, थाइम आणि स्टॉक घालून मसूर मऊ होईपर्यंत 22 मिनिटे मंद आचेवर शिजवा.
 4. वाडग्यांत मसूर आणि भाजलेल्या वांग्याचे थर लावा आणि वरून बटाट्याचा कीस घाला.
 :::
+
+:::lang en
+# Roasted Eggplant and Lentil Shepherd Bowl
+
+Savory brown lentils simmered with herbs and topped with velvety roasted eggplant and garlic mash.
+
+## Instructions
+1. Toss cubed eggplant with half the olive oil and roast at 205 C for 20 minutes until tender.
+2. Boil potatoes until fork-tender, drain, and mash with a splash of water and 4 ml olive oil.
+3. Saute onion in remaining oil, add lentils, thyme, and broth, and simmer 22 minutes until lentils are tender.
+4. Layer lentils and roasted eggplant in bowls and spoon potato mash over top.
+:::
+
+:::lang bn
+# কা. পূ.
+
+চিনা বাদামি রঙের রসুনের সাথে পান করার পর মাংসের ঝোঁক ও রসুনের সাথে মিশে যায়।
+
+## Instructions
+1. টরেন্ট ঘন ঘন তেল দিয়ে ২০৫টি সি থেকে ২০ মিনিট পর্যন্ত রোপন করে।
+2. যতক্ষণ না পানি আর ৪ মিলি জলপাই তেল দিয়ে পানি শেষ হয় ততক্ষণ আলু আলু।
+3. অবশিষ্ট তেলে শ্রান্ততা, musm, এবং Samtht ২২ মিনিট পর্যন্ত প্রসারিত।
+4. স্তর অফ ডার্ট আর আখের উপর পচন এবং চামচের আলু মশশ।
+:::
+
+:::lang ur
+# اِن میں سے ایک چرواہا اور ایک بھیڑ بکری
+
+اِس کے بعد اُس نے اُن سے کہا : ” مَیں نے اِس بات پر غور کِیا ہے کہ اِس میں کیا کچھ شامل ہے ۔ “
+
+## Instructions
+1. بعض‌اوقات تو زیتون کے تیل کے نصف حصے کو کاٹ دیا جاتا ہے ۔
+2. یہاں تک کہ پانی اور 4 ملی زیتون کے تیل سے حاصل ہونے والے تیل کے ساتھ پگھلے ہوئے برتنوں کے ساتھ بوئے جاتے ہیں۔
+3. اِس کے علاوہ اُس وقت تک اِن میں سے 22 منٹ کے اندر اندر اُس وقت تک چربی پیدا ہوتی ہے جب تک کہ لہسن نرم نہ ہو ۔
+4. اِس کے بعد اُس نے اُن سے کہا : ” تُم . . .
+:::

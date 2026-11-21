@@ -108,3 +108,39 @@ prepTimeEstimated: true
 3. नारळाचे दूध, चिंच, मीठ आणि 100 मिली पाणी घालून 5 मिनिटे मंद आचेवर शिजवा.
 4. कोळंबी घालून गुलाबी होईपर्यंत 4 मिनिटे शिजवा; कोथिंबीर घालून सजवा.
 :::
+
+:::lang en
+# Goan Prawn Curry with Tomato and Coconut
+
+A light Goan prawn curry with tomato, a little coconut milk and tamarind.
+
+## Instructions
+1. Heat the oil and cook the onion, garlic and ginger until soft.
+2. Add the spices and tomato and cook for 6 minutes.
+3. Add the coconut milk, tamarind, salt and 100 ml water and simmer for 5 minutes.
+4. Add the prawns and cook for 4 minutes until pink; garnish with coriander.
+:::
+
+:::lang bn
+# তোন প্রিন কারি টমেটো আর কোকোনুট এর সাথে
+
+হালকা গগনওন টমেটো, ছোট্ট নারিকেলের দুধ আর টামাড।
+
+## Instructions
+1. তেল আর লন্ড্রি রান্না করে নরম হওয়ার আগ পর্যন্ত।
+2. মসলা এবং টমেটো যোগ করুন ৬ মিনিট ধরে।
+3. নারিকেলের দুধ, তামাদি, লবণ এবং ১০০ মাইল জল এবং ৫ মিনিট ধরে সিমমের সঙ্গে যোগ করুন ।
+4. গোলাপি না হওয়া পর্যন্ত চেরনোবিল আর ৪ মিনিট রান্না করুন।
+:::
+
+:::lang ur
+# توماتو اور کوان کے ساتھ
+
+ایک ہلکے گین پراچہ جس میں ٹماٹر تھا ، ناریل کا دودھ اور تامارین شامل تھے ۔
+
+## Instructions
+1. تیل کو صاف کریں اور تیل ، لہسن اور چربی کو اچھی طرح پکا لیں ۔
+2. ٹماٹر اور ٹماٹر شامل کرکے 6 منٹ تک پکایا جاتا ہے۔
+3. ناریل کا دودھ ، موم‌دانی ، نمک اور ۱۰۰ ملی‌میٹر پانی شامل کریں اور ۵ منٹ تک اُس کی خوراک کھائیں ۔
+4. جب تک گلابی رنگ کا نہیں ہوتا ، اِس میں اُن کا رنگ نہیں ہوتا ۔
+:::

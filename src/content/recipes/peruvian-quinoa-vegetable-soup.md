@@ -95,3 +95,39 @@ prepTimeEstimated: true
 3. उकळी आल्यावर आच कमी करा आणि १५ मिनिटे मंद आचेवर शिजू द्या.
 4. झुकिनी घालून आणखी ५ मिनिटे शिजवा; क्विनोआ आणि भाज्या मऊ झाल्या पाहिजेत.
 :::
+
+:::lang en
+# Peruvian Quinoa Vegetable Soup
+
+An Andean whole-grain soup loaded with quinoa, potatoes, carrots, zucchini, and traditional South American spices.
+
+## Instructions
+1. Heat olive oil in a pot and sauté onion and carrot for 4 minutes.
+2. Add potatoes, rinsed quinoa, cumin, salt, and vegetable broth.
+3. Bring to a boil, reduce heat, and simmer for 15 minutes.
+4. Add zucchini and cook for another 5 minutes until quinoa and veggies are soft.
+:::
+
+:::lang bn
+# পেরুভিয়ান কুইনো ভেজেবল স্যু
+
+আরিয়ানিয়ান-গ্রাইন সুপেয় মাংস, আলু, গাজর, জুকুচিনি আর ঐতিহ্যবাহী দক্ষিণ আমেরিকার মসলা।
+
+## Instructions
+1. তা হলে, কীভাবে আমরা তা করতে পারি?
+2. আলু যোগ করুন, বীজ বোনা, হৃৎপিণ্ড, লবণ ও সবজি।
+3. একটু সিদ্ধ হও, তাপ কমিয়ে আনো, আর সহজ করে ১৫ মিনিটের জন্য।
+4. zchiki যোগ করো এবং আরো ৫ মিনিটের জন্য রান্না করো, যতক্ষণ না টেকনোনো এবং vegs নরম হয় ।
+:::
+
+:::lang ur
+# پروین کوینوا وجیانگ سوپ -
+
+ایک اینڈین بھر میں پکایا، کینوا، کیوبیک، خوچینی، اور روایتی جنوبی امریکا کے پکوانوں سے بھرا ہوا تھا۔
+
+## Instructions
+1. زیتون کا تیل ۴ منٹ تک ایک برتن میں اور صابن پر مشتمل ہوتا ہے ۔
+2. اِس کے علاوہ اِس میں اَور بھی بہت سی چیزیں شامل ہیں ۔
+3. آگ بجھانے ، حرارت کو کم کرنے اور ۱۵ منٹ تک آگ بجھانے کی کوشش کریں ۔
+4. اضافی ذوقی اور دوسری 5 منٹ کے لیے پکائے یہاں تک کہ قینہ اور حجاج نرم ہیں۔
+:::

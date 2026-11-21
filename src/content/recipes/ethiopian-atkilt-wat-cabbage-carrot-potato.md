@@ -110,3 +110,39 @@ prepTimeEstimated: true
 3. कोबी आणि काळी मिरी घाला, पुन्हा झाकण ठेवून सर्व भाज्या मऊ होईपर्यंत 15 मिनिटे शिजवा.
 4. झाकण काढून रस्सा घट्ट होण्यासाठी 3 मिनिटे शिजवा. ब्राउन राइस किंवा इंजेरा-शैलीच्या नाचणीच्या पोळीसोबत वाढा.
 :::
+
+:::lang en
+# Atkilt Wat (Ethiopian Cabbage, Carrot and Potato Stew)
+
+Mild, turmeric-gold Ethiopian vegetable stew of cabbage, carrots and potatoes with ginger and garlic.
+
+## Instructions
+1. Cook the onion in a dry pot for 3 minutes, then add the oil, garlic, ginger, turmeric and chilli and stir for 1 minute.
+2. Add the potatoes and carrots with the water and salt, cover and cook for 10 minutes.
+3. Add the cabbage and pepper, cover again and cook for 15 minutes until all the vegetables are tender.
+4. Uncover and cook for 3 minutes to thicken the sauce. Serve with brown rice or injera-style ragi roti.
+:::
+
+:::lang bn
+# আতকিট ওয়াট (ইথি কাব্বাগ, কারারোট এবং পটাতো স্টেউ)
+
+মিলেট, টারমরিচ, কবজ, গাজর আর আলু।
+
+## Instructions
+1. তিন মিনিটের জন্য শুকনো পাত্রের জন্য রান্না করুন ।
+2. আলু এবং গাজর যোগ করুন পানি আর লবণ দিয়ে, কভার আর রান্না করুন ১০ মিনিটের জন্য।
+3. তবে সব সবজি যেন কোমল না হয়, তা দিয়ে আবার ১৫ মিনিট করে রান্না করে।
+4. সসকে শক্ত করার জন্য ৩ মিনিট রান্না আর রান্না করো। বাদামি ভাত অথবা জেজেরা স্টাইল পুনি।
+:::
+
+:::lang ur
+# اکیلٹ وٹ (انگریزی: Atkilt Wat) (پرتگیزی: Cabbage, Carrot and Poto Stew) ہے۔
+
+نرم، ٹرمیر سبز حبشی سبزیوں کی سبزیوں کی سبزیوں کی سبزیوں، چاولوں اور چاولوں سے بنی ہوئی تھی۔
+
+## Instructions
+1. اِس کے بعد تیل ، لہسن ، مشروبات ، ترشے اور اِس میں تیل شامل کریں اور ۱ منٹ کے لئے ہل چلیں ۔
+2. پانی اور نمک ، کپڑے اور 10 منٹ تک پکایا جاتا ہے ۔
+3. جب تک تمام سبزیاں نرم نہ ہوں ۔
+4. 3 منٹ تک غسل‌خانے کو دبا کر رکھیں ۔ بھورے ریچھ یا انجرا-ستیلے راجا راکی کے ساتھ خدمت کرنا۔
+:::

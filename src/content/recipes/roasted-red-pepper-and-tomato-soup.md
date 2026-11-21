@@ -82,3 +82,36 @@ prepTimeEstimated: true
 2. भाजलेले साहित्य पाप्रिका, मीठ आणि पाण्यासोबत गुळगुळीत होईपर्यंत वाटा.
 3. सूप मंद आचेवर पुन्हा गरम करून वाढा.
 :::
+
+:::lang en
+# Roasted Red Pepper and Tomato Soup
+
+Oven-roasted red peppers and tomatoes blended with garlic into a sweet, smoky soup.
+
+## Instructions
+1. Toss the peppers, tomatoes, onion and garlic with the oil and roast at 220 °C for 30 minutes.
+2. Blend with the paprika, salt and water until smooth.
+3. Reheat gently and serve.
+:::
+
+:::lang bn
+# পুডিং লাল পেপার এবং টমেটো সোয়েটো
+
+ওভেন-রোক্রেট লাল মরিচ আর টমেটোর সাথে রসুন মিষ্টি, স্মোকি সুপের সাথে মিলে যায়।
+
+## Instructions
+1. মরিচ, টমেটো, মরিচ এবং রসুন তেল এবং ৩০ মিনিট ধরে ২০ ডিগ্রি সেলসিয়াসে রোপিত।
+2. পম্পিকা, লবণ আর পানির সাথে শুয়ে পড়ো যতক্ষণ না মসৃণ থাকে.
+3. কোমলভাবে এবং সেবা করে।
+:::
+
+:::lang ur
+# لال پپر اور توماتو سوپ داخل ہوا۔
+
+مونگ‌پھلی کے سُرخ پکوانوں اور ٹماٹروں کو ایک میٹھا ، آلوکی صابن میں ملا دیا جاتا ہے ۔
+
+## Instructions
+1. ٹماٹر ، ٹماٹر ، اونین اور لہسن کے ساتھ تیل اور ۳۰ منٹ تک جلایا جاتا ہے ۔
+2. یہاں تک کہ اُس نے اُسے پانی دیا ۔
+3. نرمی سے بات کریں اور خدمت کریں ۔
+:::

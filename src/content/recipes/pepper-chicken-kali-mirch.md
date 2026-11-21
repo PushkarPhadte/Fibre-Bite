@@ -100,3 +100,39 @@ prepTimeEstimated: true
 3. चिकन घालून झाकण ठेवून 15 मिनिटे शिजवा. नंतर झाकण काढून रस आटेपर्यंत आणखी 8 मिनिटे शिजवा.
 4. उरलेली काळी मिरी घालून पूर्ण करा.
 :::
+
+:::lang en
+# Pepper Chicken Kali Mirch
+
+Chicken thigh cooked dry with freshly cracked black pepper, onion and curry leaves.
+
+## Instructions
+1. Marinate the chicken with the curd, half the pepper, turmeric and salt for 15 minutes.
+2. Heat the oil, splutter the fennel seeds and curry leaves, then cook the onion, ginger and garlic until golden.
+3. Add the chicken and cook covered for 15 minutes, then uncovered for 8 minutes until dry.
+4. Finish with the remaining pepper.
+:::
+
+:::lang bn
+# পেপার মুরগীর ডিম
+
+মুরগির মাংস শুকনো শুকনা দিয়ে রান্না করা হতো ।
+
+## Instructions
+1. এই মুরগিটা মাংসের মাংস দিয়ে তৈরি, গোল মরিচ, টামারিক আর লবণ ১৫ মিনিট ধরে।
+2. তাই, এতে অবাক হওয়ার কিছু নেই যে, তেলে ভরা প্রচুর পরিমাণে রয়েছে ।
+3. মুরগি ও রান্নার কাজ
+4. বাকি মরিচ দিয়ে শেষ।
+:::
+
+:::lang ur
+# Peper Chicken Kali Mirch
+
+اِس کے بعد اِن پتوں کو خشک کر دیا جاتا ہے ۔
+
+## Instructions
+1. اُس مرغی کو اُبال کر 15 منٹ تک اُس پر بھروسا کریں ۔
+2. تیل کو صاف کرنے کے بعد اُس کے بیج اور پتے اُس وقت تک اُس کے تیل کو پکاتے ہیں جب تک سونا نہیں ہوتا ۔
+3. مرغی کو ملا کر ۱۵ منٹ تک پکایا جاتا ہے اور پھر آٹھ منٹ تک خشک رہتی ہے ۔
+4. باقی ماندہ برتنوں کے ساتھ.
+:::

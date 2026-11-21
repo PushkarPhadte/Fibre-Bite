@@ -84,3 +84,36 @@ prepTimeEstimated: true
 2. फुटाणे, गाजर, मीठ आणि पाणी घाला; फुटाणे पूर्ण मऊ होईपर्यंत 40 मिनिटे मंद आचेवर शिजवा.
 3. सूप घट्टसर होण्यासाठी त्यातील काही भाग कुस्करा किंवा ब्लेंड करा आणि गरम सर्व्ह करा.
 :::
+
+:::lang en
+# Green Split Pea and Carrot Soup
+
+A thick, high-fibre soup of dried green split peas and carrot with toasted cumin.
+
+## Instructions
+1. Heat the oil, toast the cumin, then cook the onion and garlic for 4 minutes.
+2. Add the peas, carrots, salt and water and simmer for 40 minutes until the peas collapse.
+3. Mash or blend part of the soup for a thick texture and serve hot.
+:::
+
+:::lang bn
+# সবুজ বিভক্ত পেয়া এবং কারোরুট
+
+একটি ঘন, ঘন-চু-ফিব্রে, ঘন সবুজ ডালের সুপ এবং টোটাউডের চাকা।
+
+## Instructions
+1. তেল, টোস্টিং, তারপর চার মিনিট রসুন রান্না করে।
+2. শ্যাম্পু, স্টর, লবণ এবং জল ও গরমের জন্য ৪০ মিনিট সময় দিন ।
+3. ম্যাশ অথবা সুপের অংশ একটি মোটা বের করার এবং গরম পরিবেশন করার জন্য।
+:::
+
+:::lang ur
+# گرین سپلٹی پے اور کرکٹ سوپ ہیں۔
+
+اُس نے اُن سے کہا : ” مَیں نے اُن سے پوچھا کہ ” کیا مَیں اُن کے ساتھ ہوں ؟ “
+
+## Instructions
+1. تیل کو صاف کریں ، تیل کو ختم کریں ۔
+2. یہاں تک کہ اُس نے ۴۰ منٹ تک پکائے ۔
+3. اسکے علاوہ ، اسپنج کا حصہ بھی گرم ہوتا ہے ۔
+:::

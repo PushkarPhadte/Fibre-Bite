@@ -100,3 +100,39 @@ prepTimeEstimated: true
 3. पीठ चार पातळ गोलाकार करून, पालक-चीझ भरून पसरवा, घट्ट गुंडाळा आणि पिनव्हील्समध्ये तुकडे करा.
 4. उरलेल्या तेलात 3 ते 4 मिनिटे सोनेरी होईपर्यंत पॅन-सीअर पिनव्हील हलके करा.
 :::
+
+:::lang en
+# Whole-Wheat Spinach and Cottage Cheese Pinwheels
+
+Rolled whole-wheat flatbreads filled with seasoned low-fat cottage cheese, chopped spinach, and garlic.
+
+## Instructions
+1. Knead whole-wheat flour with half the olive oil and warm water into a soft dough; rest 15 minutes.
+2. Mix crumbled cottage cheese, drained spinach, and garlic powder.
+3. Roll dough into four thin rounds, spread with the spinach-cheese filling, roll up tightly, and slice into pinwheels.
+4. Pan-sear pinwheels lightly in remaining oil for 3 to 4 minutes per side until golden.
+:::
+
+:::lang bn
+# সমগ্র-Wotat Spincach এবং কোটিজ পিন্রেস
+
+পুরো ফ্লাট ফ্ল্যাটে ভরা পনির দিয়ে ভর্তি হয়ে গিয়েছিল.
+
+## Instructions
+1. লেনিদ পুরো আটা, জলপাই তেল আর গরম পানি এক নরম ডোরে; বাকি ১৫ মিনিট।
+2. ডিমের টুকরো টুকরো টুকরো হয়ে গিয়েছিল, টুকরো টুকরো টুকরো হয়ে গিয়েছিল আর রসুন পাউডার.
+3. চার গোল গোল গোলের মধ্যে রোল গিজ, স্পিন-চিং দিয়ে ছড়িয়ে পড়ে, শক্ত করে টানে এবং পিনের তালে টুকরো করে।
+4. গোল্ডেন না হওয়া পর্যন্ত তেলে ৩ থেকে ৪ মিনিট তেল ঢালছে।
+:::
+
+:::lang ur
+# انتہائی گرم-Wheat Spinach اور Cotage Chiee Pinwhels
+
+راولپنڈی بھر کے پلیٹ فارمز سے بھرے ہوئے سوکھے ہوئے کم پائی جانے والی پنیر کانسی، سرسوتی اور لہسن سے بھرا ہوا تھا۔
+
+## Instructions
+1. Knead پورے آٹے کے ساتھ نصف زیتون کے تیل اور گرم پانی کو نرم برتن میں ملا کر 15 منٹ آرام کرتے ہیں۔
+2. اِس کی وجہ یہ ہے کہ اِن میں سے زیادہ‌تر لوگ اِس کا ذائقہ استعمال کرتے ہیں ۔
+3. رول گرلز کو چار باریک چکروں میں، ریڑھ کی ہڈی بھر کر پھیلے ہوئے، ایک دوسرے کے ساتھ جڑے ہوئے،
+4. پین-سر-پنس-پریکلس نے سونے تک 3 سے 4 منٹ تک تیل میں معمولی سی کمیت کی۔
+:::

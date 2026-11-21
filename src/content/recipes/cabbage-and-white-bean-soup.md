@@ -92,3 +92,36 @@ prepTimeEstimated: true
 2. कोबी, टोमॅटो पासाटा, ओरेगॅनो, मीठ आणि पाणी घालून 15 मिनिटे मंद आचेवर शिजवा.
 3. बीन्स घालून आणखी 8 मिनिटे मंद आचेवर शिजवा.
 :::
+
+:::lang en
+# Cabbage and White Bean Soup
+
+A filling, fibre-rich soup of cabbage, cannellini beans, carrot and celery in a light tomato broth.
+
+## Instructions
+1. Cook the onion, carrot, celery and garlic in the oil for 6 minutes.
+2. Add the cabbage, passata, oregano, salt and water and simmer for 15 minutes.
+3. Add the beans and simmer for 8 minutes.
+:::
+
+:::lang bn
+# কুব্বাত এবং হোয়াইট বেইন সোপ
+
+একটা ফুলদানি, ট্যাক্সিবোজ, ক্যানেলিনি শিম, কারিট আর সেলারি।
+
+## Instructions
+1. আর ছয় মিনিটের জন্য তেলে লন্ড্রি, কার্রী আর রসুনের দাগ।
+2. ১৫ মিনিটের জন্য ট্যাক্সি ভাড়া, পাসতা, বাগানো, লবণ, লবণ এবং সিমমের সাথে যোগ করুন।
+3. শিম আর সিমমের সাথে ৮ মিনিটের জন্য যোগ করো।
+:::
+
+:::lang ur
+# کیباگ اور سفید سیم سوپ
+
+ایک بھرنے والا، کین‌لین کے دانوں کا بھرا ہوا، ایک ہلکے ٹماٹر میں
+
+## Instructions
+1. اِس تیل میں اِن کی مقدار ۶ منٹ ہے ۔
+2. اِس میں نمک اور پانی شامل کِیا جاتا ہے ۔
+3. 8 منٹ تک بیج اور کپاس شامل کریں ۔
+:::

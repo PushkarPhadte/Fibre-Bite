@@ -98,3 +98,39 @@ prepTimeEstimated: true
 3. तेलात चिरलेले मशरूम ५ मिनिटे परता, उरलेला रस्सा घाला आणि २ मिनिटे मंद आचेवर उकळू द्या.
 4. गरम मशरूम आणि रस्सा वाफवलेल्या अंड्यांवर घाला आणि वरून पातीचा कांदा भुरभुरा.
 :::
+
+:::lang en
+# Steamed Egg and Mushroom Savory Bowl
+
+Silky steamed eggs topped with sauteed shiitake and button mushrooms, scallions, and light dashi-style broth.
+
+## Instructions
+1. Whisk eggs gently with half the broth and pour into heatproof bowls.
+2. Steam covered over gently simmering water for 10 to 12 minutes until just set.
+3. Saute sliced mushrooms in oil for 5 minutes, add remaining broth, and simmer 2 minutes.
+4. Spoon warm mushrooms and broth over steamed eggs and garnish with scallions.
+:::
+
+:::lang bn
+# স্টেমড এগ এবং মাসুশরুম সাভোরি
+
+রেশমি রঙের ডিমগুলো সসেজ এবং বোতাম মাশরুম দিয়ে ঢেকে দেওয়া হয়েছে।
+
+## Instructions
+1. হুইস্কি ডিমগুলো অর্ধেক ব্রোথ দিয়ে গরমপ্রুফ বায় ঢেলে দাও।
+2. গরম জল দিয়ে ঢেকে রাখা
+3. ৫ মিনিট তেলে মাশরুম, বাকি ব্রোথ আর সিমমের ২ মিনিট।
+4. গরম মাশরুম এবং ব্রোথ ডিম এবং ঘষা ঝরানো দাগ দিয়ে ঢাকা।
+:::
+
+:::lang ur
+# سٹیمرڈ ایگ اور مس‌مس‌مس‌مس‌وَو بُول
+
+ریشمی انڈے پھینکتے تھے جن میں ساوتری رشی اور بٹن، سکیل، اور ہلکے پریبل برہمن تھے۔
+
+## Instructions
+1. وِسک انڈے نصف برتھ کے ساتھ نرم ہوکر گرم کپڑے میں ڈال دیتے ہیں ۔
+2. سٹیم نے پانی کو صاف کرنے کے لئے 10 سے 12 منٹ تک چھپا رکھا یہاں تک کہ صرف مقررہ وقت تک ۔
+3. تیل میں ۵ منٹ ، باقی بُری چیزیں اور ۲ منٹ کے بعد دو منٹ آرام کریں ۔
+4. اِس کے بعد اُس نے اِنڈوں کو اُوپر اُٹھایا اور اِن میں سے ہرنوں کو اُن کے انڈے دیے ۔
+:::

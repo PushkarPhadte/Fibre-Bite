@@ -91,3 +91,36 @@ prepTimeEstimated: true
 2. दही, लिंबाचा रस आणि उरलेले मीठ एकत्र फेटा.
 3. प्लेटमध्ये लेट्यूस, काकडी, टोमॅटो आणि अॅव्होकॅडो मांडून घ्या. वर चिकन ठेवा आणि ड्रेसिंग घाला.
 :::
+
+:::lang en
+# Smoked Paprika Chicken Avocado Salad
+
+Grilled smoked paprika chicken over greens with avocado, cucumber and a yogurt-lemon dressing.
+
+## Instructions
+1. Rub the chicken with the paprika, oil and half the salt and grill or pan-cook for 6 minutes per side until cooked through; rest and slice.
+2. Whisk the yogurt, lemon juice and remaining salt.
+3. Arrange the lettuce, cucumber, tomato and avocado on plates, top with the chicken and drizzle with dressing.
+:::
+
+:::lang bn
+# ধোঁয়ায় লালা মুরগি।
+
+ভোদকাডোতে সবুজ রঙের মুরগির সাথে খেতে খেতে খেতে খেতে খেতে খেতে খেতে খেতে খেতে খাওয়া হারাম।
+
+## Instructions
+1. মুরগিটা পাকপিকা, তেল আর লবণের অর্ধেক লবণ আর প্যানকেক দিয়ে পরিষ্কার করুন।
+2. লেমন জুস আর বাকি লবণ।
+3. জলস্রোত, পোদাল, টমেটো এবং ভসকাডোর ব্যবস্থা করুন।
+:::
+
+:::lang ur
+# پاکپتن پاپیریکا چیکن ایوکاڈو سالاد
+
+ہرے رنگ کے پتوں پرے، کوکمبر کے ساتھ اور ایک بیلے بال پہنتے ہیں۔
+
+## Instructions
+1. اُس پرندے کو اُس وقت تک پکایا جاتا ہے جب تک اُسے پکا نہ لیا جائے ۔
+2. اِس کے بعد اُس کا ذائقہ ختم ہو جاتا ہے ۔
+3. اِس کے بعد اُس نے اِس بات کا ذکر کِیا کہ اُس نے اُس سے کہا : ” مَیں اُس کے ساتھ کتنا اچھا سلوک کروں گا ۔ “
+:::

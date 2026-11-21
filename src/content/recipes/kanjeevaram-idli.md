@@ -95,3 +95,39 @@ prepTimeEstimated: true
 3. पीठ तेल लावलेल्या इडलीच्या साच्यांत किंवा पानांचे अस्तर घातलेल्या भांड्यांत ओता.
 4. पूर्ण सेट होईपर्यंत 15 मिनिटे वाफवा आणि टोमॅटोच्या चटणीसोबत वाढा.
 :::
+
+:::lang en
+# Kanjeevaram Idli (Spiced Steamed Rice Cakes)
+
+A fragrant South Indian steamed cake spiced with black pepper, cumin, ginger, and curry leaves.
+
+## Instructions
+1. Mix ground rice and urad dal batter; ferment overnight.
+2. Add crushed black pepper, cumin seeds, chopped ginger, sesame oil, curry leaves, and salt.
+3. Pour batter into greased idli molds or leaf lined containers.
+4. Steam for 15 minutes until fully set and serve with tomato chutney.
+:::
+
+:::lang bn
+# কানজিভারেম ইদ্রিলি (সুমিত ধান কেক)
+
+দক্ষিণ ভারতের এক অভিবাসী কেক দিয়ে তৈরি, যার সাথে কালো মরিচ, হরিৎপিণ্ড, হরিৎপিণ্ড এবং পাতা রয়েছে।
+
+## Instructions
+1. মিক্স ভূমি চাল আর মর্দডাল নির্যাতন; রাতারাতি।
+2. ঘন কালো মরিচ, বীজ, মচমচে তেল, পাতা পাতা এবং লবণ যোগ করুন ।
+3. পিঁয়াজের ডোরাকাটা দাগ
+4. ১৫ মিনিটের জন্য স্টেম সম্পূর্ণ সেট এবং টমেটো চুটনির সঙ্গে কাজ করে ।
+:::
+
+:::lang ur
+# کانجیوارام یدلی (انگریزی:
+
+جنوبی ہندوستان کے ایک خوبصورت پس‌منظر نے کیک کو سیاہ رنگ کے پتوں ، جِلد ، شراب‌نوشی اور گیس کے پتوں سے سجایا ۔
+
+## Instructions
+1. اِس سے ظاہر ہوتا ہے کہ اُن کی عمر تقریباً ۳۰ سال ہے ۔
+2. اِس کے علاوہ اِس کے ساتھ ساتھ اُس کے بیج ، اُس کے بیج ، اُس کا تیل ، اُس کے پتوں اور نمک کو بھی شامل کِیا جاتا ہے ۔
+3. اِس کے بعد اُس پر حملہ کِیا جاتا ہے ۔
+4. اسٹین 15 منٹ تک مکمل طور پر تیار اور ٹماٹر کے ساتھ خدمت کرتے ہیں۔
+:::

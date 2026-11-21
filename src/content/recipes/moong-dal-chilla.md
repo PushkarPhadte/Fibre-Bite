@@ -105,3 +105,39 @@ prepTimeEstimated: true
 3. नॉन-स्टिक किंवा चांगला तयार केलेला तवा मध्यम आचेवर गरम करून त्याला हलके तेल लावा. पिठाचा एक-चतुर्थांश भाग ओतून पातळ गोल धिरडे पसरवा.
 4. कडा सुटू लागेपर्यंत आणि खालची बाजू सोनेरी होईपर्यंत, साधारण 2–3 मिनिटे शिजवा. उलटून दुसरी बाजू शिजवा; उरलेल्या पिठाचीही अशीच धिरडी करा.
 :::
+
+:::lang en
+# Moong Dal Chilla
+
+Savory North Indian split-moong pancakes with ginger, cumin, and cilantro for a protein-rich breakfast.
+
+## Instructions
+1. Rinse the moong dal and soak in plenty of water for at least 4 hours. Drain.
+2. Blend the dal with the measured water, ginger, turmeric, and salt into a smooth, pourable batter. Stir in onion, chilli, cumin, and cilantro.
+3. Heat a nonstick or seasoned skillet over medium heat and lightly oil it. Pour in a quarter of the batter and spread into a thin circle.
+4. Cook until the edges release and the underside is golden, about 2 to 3 minutes. Flip and cook the other side; repeat with the remaining batter.
+:::
+
+:::lang bn
+# মুনগ ডাল খালিক
+
+সাভোরির উত্তর ভারতীয় আলাদা আলাদা প্যানকেক সাথে সান্দ্রো প্যানকেক, সাসমিন, আর প্রোটিন সমৃদ্ধ সকালের জন্য সিলান্রো।
+
+## Instructions
+1. অন্তত ৪ ঘন্টার জন্য চাঁদ তন্ন তন্ন তন্ন তন্ন তন্ন তন্ন তন্ন তন্ন তন্ন তন্ন তন্ন তন্ন তন্ন তন্ন করে পানি পান। অস্থির।
+2. আপনি হয়তো জানেন না যে, আপনি কী বলতে চান । ঠাণ্ডা, ঠান্ডা, জিন্দা, জিমিন আর সিলানরো।
+3. বায়ু ছাড়া আর কিছু নয়। নির্যাতনস্থলের এক চতুর্থাংশে পুড়তে শুরু করে।
+4. কুক যতক্ষণ না কার্গো মুক্তি পায় আর নিচের অংশ সোনার মত হয়, প্রায় ২ থেকে ৩ মিনিট। হাগু এবং রান্না করুন; অবশিষ্ট নির্যাতন আবার শুরু করুন ।
+:::
+
+:::lang ur
+# موہن داس چولا
+
+سبک شمالی ہندوستانی تقسیم-موونگ نانک جن میں ایک پروٹین کے کھانے کے لیے آمیزش، قے، اور سیلانترو کے ساتھ شامل ہیں۔
+
+## Instructions
+1. چاند کی دُل اور پانی میں کم‌ازکم ۴ گھنٹے اضافہ ہوتا ہے ۔ Drain.
+2. پانی کی پیمائش ، آمیزش ، ٹرمک اور نمک کو ایک ہموار اور قابلِ‌استعمال تعدد میں تبدیل کریں ۔ اِس کی وجہ یہ ہے کہ اُن کی عمر تقریباً ۳۰ سال ہے ۔
+3. اسے گرم کرنے اور اسے معمولی تیل دینے کی صلاحیت نہیں رکھتا ۔ حملہ‌آوروں کے ایک چوتھائی حصے میں پانی ڈالا جاتا ہے اور ایک باریک دائرے میں پھیل جاتا ہے ۔
+4. کک یہاں تک کہ کنارے سے رخصت ہو جاتے ہیں اور اِن میں سونے کی مقدار تقریباً 2 سے 3 منٹ ہوتی ہے ۔ دوسری طرف کھانا تیار کرنا ؛ باقی ماندہ حملہ‌آوروں کیساتھ دوبارہ کھانا ۔
+:::

@@ -88,3 +88,39 @@ prepTimeSource: 'https://www.ambitiouskitchen.com/healthy-baked-falafel-wraps/'
 3. प्रत्येक टॉर्टिलामध्ये चिरलेली लेट्यूसची पाने, चिरलेले टोमॅटो आणि बेक्ड फलाफेल पॅटीजचे थर लावा.
 4. भरावणावर ताहिनी-दह्याचा सॉस घाला, घट्ट गुंडाळा आणि सर्व्ह करा.
 :::
+
+:::lang en
+# Baked Falafel Wrap with Tahini Yogurt
+
+Whole wheat wrap filled with crispy oven-baked falafel, fresh lettuce, tomatoes, and a tangy tahini yogurt sauce.
+
+## Instructions
+1. Mix tahini, Greek yogurt, lemon juice, and salt to create the sauce.
+2. Warm whole wheat tortillas slightly on a skillet.
+3. Layer shredded lettuce, diced tomatoes, and baked falafel patties inside each tortilla.
+4. Drizzle tahini yogurt sauce over the filling, roll up tightly, and serve.
+:::
+
+:::lang bn
+# তাহিনি ইয়োগুরের সাথে বাম
+
+পুরো গম দিয়ে ভরা চুলা চুলা চুলা, তাজা লেটুস, টমেটো, আর একটা টাংই টিয়ানি তে সস।
+
+## Instructions
+1. মিক্স তাহিনি, গ্রিক দের, লেবুর জুস আর লবণ সস তৈরি করতে।
+2. সব গমের টরটিলা দক্ষতায় একটু বেশি।
+3. বাড়ির সামনের সারির মধ্যে দিয়ে উড়ে যায় ।
+4. হালকা পানি দিয়ে পানি ভরে, শক্ত করে কাজ করে।
+:::
+
+:::lang ur
+# تاہنی یوگورٹ کے ساتھ بھوپال فالفل وارپ۔
+
+گندم کی لپیٹ میں کریسپی اوور-کاڈ فالفل، تازہ لطیفے، ٹماٹر اور ایک ٹانگی تاہنی میدے سے بھرا ہوا تھا۔
+
+## Instructions
+1. مِس تاہنی ، یونانی ربڑ ، ٹماٹر جوس اور نمک پیدا کرنے کے لیے استعمال ہوتا ہے ۔
+2. پورے گندم کے دانے ایک مہارت پر تھوڑا سا گرم کرتے ہیں۔
+3. اِس کی وجہ یہ تھی کہ اُس نے اِس بات کو تسلیم کِیا کہ اِس میں کوئی شک نہیں ہے ۔
+4. اِس کے علاوہ اُس نے اُن کی مدد کی ۔
+:::

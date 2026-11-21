@@ -103,3 +103,39 @@ prepTimeEstimated: true
 3. जव, थाइम, मीठ आणि पाणी घालून मंद आचेवर 35 मिनिटे शिजवा, जव मऊ होईपर्यंत.
 4. बाजूला ठेवलेले मशरूम परत घाला, काळी मिरी घालून चवीनुसार मसाला करा आणि वाढा.
 :::
+
+:::lang en
+# Mushroom Barley Soup
+
+A hearty soup of mushrooms, pearl barley, carrot and celery with thyme.
+
+## Instructions
+1. Heat the oil and brown the mushrooms for 6 minutes, then remove half and set aside.
+2. Add the onion, carrot, celery and garlic to the pan and cook for 5 minutes.
+3. Add the barley, thyme, salt and water and simmer for 35 minutes until the barley is tender.
+4. Return the reserved mushrooms, season with pepper and serve.
+:::
+
+:::lang bn
+# মাসরুম বারলি সোপ
+
+মাশরুম, মুক্তা, গাজর আর ডিমের সুপ।
+
+## Instructions
+1. তেল আর বাদামী মাশরুম ৬ মিনিট পর পর অর্ধেক সরিয়ে ফেলে।
+2. আর তাই আমরা রান্না করে ৫ মিনিট রান্না করি ।
+3. যব, লবণ, লবণ এবং জল দিন ।
+4. সংরক্ষিত মাশরুম ফেরত দিন, মরিচ ও সেবা দিয়ে।
+:::
+
+:::lang ur
+# سمندری طوفان
+
+ایک دلدادہ پکوان، موتی جَو، کُل اور آپ کے ساتھ ایک گلی۔
+
+## Instructions
+1. تیل اور بھورے رنگ کے برتنوں کو 6 منٹ تک صاف کریں پھر آدھا ہٹا کر رکھ دیں ۔
+2. اِس کے علاوہ اِن میں پان ، پنیر اور لہسن بھی شامل کئے جاتے ہیں ۔
+3. جَو، آپَم، نمک اور پانی وغیرہ شامل کریں اور 35 منٹ کے لیے جب تک جوار نرم نہ ہو۔
+4. اِس کے علاوہ ، اُس وقت کے ساتھ ساتھ اُن کی خدمت بھی کریں ۔
+:::

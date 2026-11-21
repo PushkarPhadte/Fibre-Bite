@@ -86,3 +86,36 @@ prepTimeEstimated: true
 2. भाजलेले रताळे हरभरे, कांदा, टोमॅटो आणि पुदिन्यासोबत एकत्र करा.
 3. लिंबाचा रस, जिरे, मिरची आणि मीठ घालून चवीनुसार मसाला लावा आणि गरम वाढा.
 :::
+
+:::lang en
+# Roasted Sweet Potato Chickpea Chaat
+
+Oven-roasted sweet potato tossed with chickpeas, onion, tomato, mint and lime.
+
+## Instructions
+1. Toss the sweet potato with the oil and roast at 200 °C for 25 minutes until tender and browned.
+2. Combine with the chickpeas, onion, tomato and mint.
+3. Season with lime juice, cumin, chilli and salt and serve warm.
+:::
+
+:::lang bn
+# ♪ মিষ্টি পটেটো মুরগী চাঁবি ♪
+
+অভেন-রো-টোটোটোর মিষ্টি আলু।
+
+## Instructions
+1. তেল দিয়ে তেল ও রোষ্টের সাথে ২০০ ডিগ্রি সেলসিয়াস পর্যন্ত রোপন করা হয়।
+2. মুরগি, পেয়াজ, টমেটো আর মট দিয়ে।
+3. লবণ, ঠাণ্ডা এবং লবণ পরিবেশন করা ।
+:::
+
+:::lang ur
+# کھانے پینے کے سوتے پوٹاتو چیکپا کھاٹ
+
+کھانے کے لیے میٹھا میٹھا پکوان، اونون، ٹماٹر، منٹ اور آلو کے ساتھ تیار کیا جاتا ہے۔
+
+## Instructions
+1. تیل کے ساتھ میٹھا کھانا اور 200 °C میں جلا کر 25 منٹ تک نرم اور بھورے رنگ کے ہوتے ہیں۔
+2. اِس کے علاوہ اِس میں بھی بہت سی چیزیں پائی جاتی ہیں ۔
+3. اِس کے علاوہ اِس میں بھی بہت سی چیزیں شامل ہیں ۔
+:::

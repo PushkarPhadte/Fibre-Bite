@@ -91,3 +91,39 @@ prepTimeEstimated: true
 3. हलके नारळाचे दूध, मिरचीची पेस्ट आणि सोया सॉस मिसळा; 2 मिनिटे मंद आचेवर शिजू द्या.
 4. गॅसवरून उतरवा, ताज्या लिंबाचा रस मिसळा आणि गरम वाढा.
 :::
+
+:::lang en
+# Thai Coconut Tom Yum Vegetable Soup
+
+A fragrant Thai hot-and-sour soup simmered with lemongrass, galangal, kaffir lime, mushrooms, and a touch of coconut milk.
+
+## Instructions
+1. Bring vegetable broth to a boil with lemongrass, galangal, and kaffir lime leaves; simmer for 5 minutes.
+2. Add mushrooms and cook for 3 minutes.
+3. Stir in light coconut milk, chilli paste, and soy sauce; simmer gently for 2 minutes.
+4. Remove from heat, stir in fresh lime juice, and serve warm.
+:::
+
+:::lang bn
+# থাই কন্সট টম ইয়ুম ভেজেবল সোম
+
+থাই হট আর চাঁবি স্যুপের সাথে লেবু, গাঞ্জাল, কাফির চুড়ি, মাশরুম আর নারিকেলের দুধ।
+
+## Instructions
+1. সবজির সাথে লেবু, গাঙ্গুলা, গাঙ্গুলা পাতা আর কাটা পাতা নিয়ে আসে ৫ মিনিট ধরে।
+2. মাশরুম এবং ৩ মিনিট রান্না করুন।
+3. হালকা নারিকেল দুধ, ঠান্ডা সস এবং সস; সহজ করে ২ মিনিট কোমলভাবে ।
+4. গরম থেকে মুক্ত হওয়া, তাজা সবুজ রসে উদ্দীপিত হয়ে এবং উষ্ণ খাবার পরিবেশন করুন ।
+:::
+
+:::lang ur
+# تھائی کوکین ٹام یوم ویگیٹبل سوپ -
+
+ایک خوشبودار تیل گرم اور اسور پیپرز کے ساتھ مونگ پھلیس، گیلنگال، کیفئر پستان، کائفر اور ناریل کے دودھ سے لیس تھا۔
+
+## Instructions
+1. اِس کے علاوہ اِن پتوں کو بھی اُبال دیا جاتا ہے ۔
+2. برتن شامل کریں اور 3 منٹ تک پکا لیں۔
+3. اِس کے علاوہ اُن کے جسم میں کوئی نقص نہیں تھا ۔
+4. گرمی سے چھٹکارا حاصل کریں ، تازہ کھانوں کے رس میں اضافہ کریں اور گرمیوں میں خدمت کریں ۔
+:::

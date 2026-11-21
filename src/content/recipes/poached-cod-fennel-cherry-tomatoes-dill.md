@@ -109,3 +109,39 @@ prepTimeEstimated: true
 3. कॉडचे तुकडे उकळत्या द्रवात अलगद ठेवा, पॅन झाकून 6 ते 8 मिनिटे मंद आचेवर शिजवा; मासा अपारदर्शक होऊन सहज पाकळ्यांसारखा सुटेपर्यंत शिजवा.
 4. वाढण्यापूर्वी लिंबाचा रस, चिरलेली डिल आणि जाडसर कुटलेली काळी मिरी घाला.
 :::
+
+:::lang en
+# Poached Cod with Fennel, Cherry Tomatoes, and Dill
+
+Delicate Atlantic cod gently poached in an aromatic tomato, shaved fennel, garlic, and herb broth.
+
+## Instructions
+1. Warm olive oil in a wide skillet over medium heat; add sliced fennel and garlic and saute for 4 minutes.
+2. Add cherry tomatoes and broth, bringing to a gentle simmer for 5 minutes.
+3. Nestle cod fillets into the simmering liquid, cover, and poach gently for 6 to 8 minutes until opaque and flaky.
+4. Finish with lemon juice, chopped dill, and cracked black pepper before serving.
+:::
+
+:::lang bn
+# ফেইনেল, চেরি টমেটো এবং দিলির সাথে পোচড কোড
+
+আটলান্টিকের মুদ্রাযুক্ত টমেটো, চুনপা, রসুন এবং হরিৎপিঠের মধ্যে কোমলভাবে লেগে থাকে ।
+
+## Instructions
+1. গরমের সময় প্রচুর পরিমাণে জলপাই তেল; এর মধ্যে তেল এবং রসুন ও রসুন যোগ করুন ।
+2. চেরি টমেটো আর ব্রোথ, ৫ মিনিটের জন্য একটু শান্ত সরল সরল হাসি নিয়ে আসেন।
+3. নাস্তাল তরলে ভর্তি, ঢেকে রাখা, আর চড়ুই পাখিকে ৮ থেকে ৮ মিনিট পর্যন্ত কোমল করে তোলে।
+4. লেবুর রস দিয়ে শেষ হয়, টুকরো টুকরো করে কেটে, কালো মরিচের মতো কাজ করার আগে।
+:::
+
+:::lang ur
+# پوکیڈ کوڈ کے ساتھ فینل، چیری توماتوس اور دیل شامل ہیں۔
+
+اِس سے ظاہر ہوتا ہے کہ اِن میں سے زیادہ‌تر لوگ اِس بات پر یقین رکھتے ہیں کہ اُن کے دل میں اُن کے لئے محبت ہے ۔
+
+## Instructions
+1. زیتون کا تیل درمیانے گرم درجۂ‌حرارت پر وسیع مہارت کے ساتھ گرم ہوتا ہے ۔
+2. ٹماٹر اور برتھ کو ملا کر 5 منٹ تک نرم‌و ملا دیتے ہیں ۔
+3. جب تک اُوپر اور نیچے نہ اُوپر نہ اُوپر نہ اُٹھا لیں ۔
+4. اِس کے علاوہ اِس کے ساتھ ساتھ اُس کے لیے کھانا بھی تیار کِیا جاتا ہے ۔
+:::

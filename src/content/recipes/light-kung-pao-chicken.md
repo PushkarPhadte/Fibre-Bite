@@ -101,3 +101,39 @@ prepTimeEstimated: true
 3. चिकन पुन्हा घाला. तमारी, व्हिनेगर आणि 2 मोठे चमचे पाणी घालून 2 मिनिटे एकत्र परता.
 4. वरून पात कांदा घाला.
 :::
+
+:::lang en
+# Light Kung Pao Chicken
+
+Chicken stir-fried with peppers, a few cashews and dried chilli in a tangy tamari sauce.
+
+## Instructions
+1. Stir-fry the chicken in half the oil for 5 minutes until cooked and set aside.
+2. Add the remaining oil, garlic, ginger and chilli, then the peppers and cashews for 3 minutes.
+3. Return the chicken, add the tamari, vinegar and 2 tablespoons of water and toss for 2 minutes.
+4. Top with spring onions.
+:::
+
+:::lang bn
+# হালকা Kung পিয়ো মুরগী
+
+মরিচের টুকরো দিয়ে মুরগির মাংস বোনা, অল্প কিছু নগদ খাবার এবং টাংওয়াই টারি সস দিয়ে শুকানো।
+
+## Instructions
+1. মুরগিটা রান্না করা ও আলাদা করা পর্যন্ত ৫ মিনিট তেলে ভরা।
+2. অবশিষ্ট তেল, রসুন, ভোদড় আর ঠাণ্ডা করো, তারপর মরিচ আর ৩ মিনিট টাকা দিয়ে দাও।
+3. মুরগির কাছে ফিরে যাও, তামা, ভিনেগার এবং ২টা টেবিল এবং ২ মিনিট পানি যোগ করো ।
+4. বসন্তের উপরে।
+:::
+
+:::lang ur
+# نور کونگ پاو چیکن
+
+چِکَن پَرَرْنَا، چندر گپت اور خشک تھَمَیْنَا ایک تَنگی تَمْرِی میں۔
+
+## Instructions
+1. جب تک اسے پکا نہ لیا جائے تب تک گوشت کو پکا نہ جائے۔
+2. اِس کے بعد اِس کے بعد اُس کے معدے اور پیسے 3 منٹ کے لیے ہوتے ہیں ۔
+3. مرغی کو واپس کرو، تاماری، تالاب اور 2 میزوں پر پانی اور دو منٹ کے لیے.
+4. اُوپر کی طرف ۔
+:::

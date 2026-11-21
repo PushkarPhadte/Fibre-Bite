@@ -110,3 +110,39 @@ prepTimeEstimated: true
 3. तेल गरम करून मोहरी तडतडू द्या; मग आले, मिरची आणि कढीपत्ता घालून 20 सेकंद शिजवा आणि दहीभातात मिसळा.
 4. किसलेले गाजर आणि कोथिंबीर मिसळा, 15 मिनिटे थंड करा आणि वरून डाळिंबाचे दाणे घाला.
 :::
+
+:::lang en
+# Millet Curd Rice with Pomegranate
+
+South Indian curd rice made with soft-cooked millet instead of white rice, cooled with ginger, curry leaves and juicy pomegranate seeds.
+
+## Instructions
+1. Rinse the millet and cook it in 400 ml water for 15 to 18 minutes until very soft. Mash lightly and cool completely.
+2. Whisk the curd until smooth and mix it into the millet with the salt, adding a little cold water if it is too thick.
+3. Heat the oil, crackle the mustard seeds, then add the ginger, chilli and curry leaves for 20 seconds and stir into the curd rice.
+4. Fold in the carrot and coriander, chill for 15 minutes and top with pomegranate seeds.
+:::
+
+:::lang bn
+# পোমগ্রামের সঙ্গে মিল
+
+দক্ষিণ ভারতীয় চালের সাথে সাদা ভাতের বদলে নরম চাল তৈরি করা হয়েছে।
+
+## Instructions
+1. ফলে প্রচুর পরিমাণে চিনি উৎপাদন করা হয় । মাশালি আর ঠান্ডায় ভরা।
+2. এটা যদি ঘন হয়ে থাকে, তা হলে এটাকে লবণ দিয়ে তৈরি করা ও সেইসঙ্গে অল্প ঠাণ্ডা জল যোগ করে ।
+3. তেল ঢাললে, সরীসৃপ বীজ যোগ করে ২০ সেকেন্ডের জন্য ঠাণ্ডা, ঠাণ্ডা পাতা আর চালের মধ্যে ছড়িয়ে পড়ে।
+4. ১৫ মিনিটের জন্য শান্ত হৃৎপিণ্ড বীজ নিয়ে।
+:::
+
+:::lang ur
+# مِلّیّہ (Millet Curd Rice) کے ساتھ ساتھ Pomegranate -
+
+جنوبی ہندوستانی کورواد چاول سفید چاول کی بجائے نرم چاول کے ساتھ تیار کیا گیا تھا، جس میں پگھلے ہوئے ہوئے پتوں سے ٹھنڈے ہوئے، سرسوں کے پتوں اور غیر شادی شدہ بیج شامل ہیں۔
+
+## Instructions
+1. اِس کے بعد اِسے 15 سے 18 منٹ تک صاف کریں ۔ معمولی اور ٹھنڈا بالکل.
+2. اگر یہ بہت موٹی ہو تو ٹھنڈا پانی بھی شامل ہو جاتا ہے ۔
+3. تیل کو صاف کریں ، رائی کے بیج کو توڑ دیں ، پھر ۲۰ سیکنڈ تک اُس کے پتوں کو ملا دیں اور اُس کی مرمت کریں ۔
+4. اِس کے بعد اُس نے اُن سے پوچھا : ” کیا مَیں اِس بات سے خوش ہوں ؟ “
+:::

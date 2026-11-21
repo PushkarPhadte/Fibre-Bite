@@ -90,3 +90,39 @@ prepTimeEstimated: true
 3. पालेभाज्या आणि मीठ घाला; झाकण न ठेवता 5–7 मिनिटे मऊ होईपर्यंत मंद आचेवर शिजवा.
 4. पौष्टिक, पातळ रस्स्यासारखे अगदी गरम वाढा.
 :::
+
+:::lang en
+# Kangshoi (Manipuri Oil-Free Vegetable Stew)
+
+An oil-free Manipuri stew cooked with seasonal vegetables, fermented fish or beans, maroi leaves, and ginger.
+
+## Instructions
+1. Boil 3 cups of water in a deep pot with sliced ginger, slit chillies, and fermented soybean.
+2. Add green peas/beans and cook for 8 minutes.
+3. Add leafy greens and salt; simmer uncovered for 5–7 minutes until tender.
+4. Serve piping hot as a clear nutritious broth.
+:::
+
+:::lang bn
+# ক্যাংশোই (মান্পিরি তেল-মুক্ত স্ট্রেইটেইউ)
+
+একটি তেল মুক্ত মণিপুরী চেরী যাতে মৌসুমি সবজি, মাছ বা শিম দিয়ে রান্না করা হয়।
+
+## Instructions
+1. স্যাঁতসেঁতে তিন কাপ পানির পাত্রের মধ্যে এক গভীর ডোরাকাটা ডোরাকাটা, চুন ও সুব্বান ।
+2. সবুজ মটরশুঁটি এবং ৮ মিনিটের জন্য রান্না করুন।
+3. পাতা পাতা সবুজ এবং লবণ যোগ করুন; সহজ ভাবে দেখা যায় ৫-৭ মিনিট পর্যন্ত।
+4. একদম পরিষ্কার নয়.
+:::
+
+:::lang ur
+# کانگشوئی (Manipuri Oil-Free Vegtable Stew) (انگریزی:
+
+ایک تیل سے آزاد منی پورائی چاول جس میں موسمیاتی سبزیوں، مچھلیوں یا دانوں، ماروی پتوں اور آمیزش کے ساتھ پکایا جاتا تھا۔
+
+## Instructions
+1. ایک گہرے برتن میں پانی کے ۳ پیالے ہیں جن میں گندھک ، گندھک اور گندھک کے برتن ہیں ۔
+2. سبز پکوان/بینے کو شامل کرکے 8 منٹ تک پکایا۔
+3. اِس کی وجہ یہ ہے کہ اِن میں سے 5–7 منٹ کے اندر اندر اندر اِس کا ذائقہ کم ہو جاتا ہے ۔
+4. اِس لئے اُنہوں نے اُن کی مدد کی ۔
+:::

@@ -122,3 +122,39 @@ prepTimeEstimated: true
 3. कुस्करलेली डाळ भाज्यांमध्ये मिसळा. कालवणासारखा दाटपणा येण्यासाठी पाणी घाला आणि मंद आचेवर 8 मिनिटे शिजवा.
 4. छोट्या पॅनमध्ये तेल गरम करा. मोहरी, सुक्या लाल मिरची आणि कढीपत्त्याची पाने घाला; सुगंध आल्यावर ही फोडणी सांबारवर ओता आणि वाढा.
 :::
+
+:::lang en
+# Vegetable Sambar
+
+A tangy South Indian lentil stew with toor dal, drumstick, pumpkin, tomato, and tamarind.
+
+## Instructions
+1. Rinse the toor dal. Pressure-cook or simmer it with 500 ml water until very soft, then mash until creamy.
+2. In a pot, simmer the drumstick, pumpkin, tomatoes, shallots, sambar powder, tamarind, salt, and remaining water until the vegetables are tender.
+3. Stir the mashed dal into the vegetables. Add water to reach a stew-like consistency and simmer gently for 8 minutes.
+4. Heat oil in a small pan. Add mustard seeds, dried chilli, and curry leaves; when fragrant, pour the tempering over the sambar and serve.
+:::
+
+:::lang bn
+# স্ক্যানযোগ্য সাম্বাName
+
+দক্ষিণ ভারতের একটা চেরনোবিল চুড়ি, ড্রামস্টিক, কুমড়া, টমেটো আর টামাণ্ড।
+
+## Instructions
+1. দন্ড দিয়ে দাও. চাপ-কড়া বা সিমমের সাথে ৫০০ মাইল পানি আছে।
+2. তা হলে, কীভাবে আমরা আমাদের ভাইবোনদের প্রতি প্রেম দেখাতে পারি?
+3. সবজির উপর ডিম্বিত ডিপোজিট করা. এখানে পানি যোগ করো, সুরঙ্গের মত কাজ করতে থাকো আর ৮ মিনিটের জন্য সহজ করে দাও।
+4. ছোট প্যানের উপর তাপ ঢাল। তাই, এতে অবাক হওয়ার কিছু নেই!
+:::
+
+:::lang ur
+# موسمِ‌بہار
+
+ایک ٹانگی جنوبی ہندوستانی سنیما جس میں ٹور ڈُل ، بمبئی ، پمپکین ، ٹماٹر اور تامارینڈ شامل ہیں ۔
+
+## Instructions
+1. ٹوور ڈُل کو۔ دباؤ-کوک یا انتہائی نرم تک 500 ملی میٹر پانی کے ساتھ، پھر کریمی تک مس.
+2. ایک برتن میں سبزیوں کی نرم‌مزاجی ، پمپ‌کین ، ٹماٹر ، ویلوٹس ، سیمبار پاوڈر ، نمک اور باقی پانی جب تک نرم‌مزاج نہ ہو ۔
+3. مٹی کے برتن کو سبزیوں میں منتقل. پانی شامل کریں جیسے پانی کی نالیوں تک پہنچ جائے اور 8 منٹ تک نرم ہو جائے۔
+4. چھوٹے پن میں تیل۔ اِس میں رائی کے دانے ، خشک زہریلے پتے بھی شامل کئے جاتے ہیں ؛ جب خوشبو آتی ہے تو یہ سمبار اور خدمت کرنے کے لئے استعمال ہوتا ہے ۔
+:::

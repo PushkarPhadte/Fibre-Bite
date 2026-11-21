@@ -90,3 +90,39 @@ prepTimeEstimated: true
 3. पाणी निथळलेल्या काकडीवर व्हिनेगरचे मिश्रण ओता.
 4. भाजलेल्या तिळाने सजवा आणि थंड वाढा.
 :::
+
+:::lang en
+# Japanese Sesame Cucumber Salad (Sunomono)
+
+Crisp Japanese cucumber ribbons pickled gently in rice vinegar, soy sauce, and toasted sesame seeds.
+
+## Instructions
+1. Toss sliced cucumbers with a pinch of salt and let sit for 10 minutes; squeeze out excess water.
+2. Whisk rice vinegar, soy sauce, and maple syrup in a small bowl.
+3. Pour vinegar dressing over drained cucumbers.
+4. Garnish with toasted sesame seeds and serve chilled.
+:::
+
+:::lang bn
+# জাপানী সাব্‌সে সাব্‌সা (সুনো)
+
+জাপানী সমার্থক ফিতাগুলো ধান ফলার, সয়া সস এবং টোস্টের বীজের মধ্যে কোমলভাবে ঘুরে বেড়ায়।
+
+## Instructions
+1. প্রচুর পরিমাণে জল বের করা
+2. একটা বাটি বাটি বাটি বাটির উপর সস এবং ম্যাপ সিরাপ।
+3. নোংরা কাপড় পরে আছে.
+4. টোস্টিং সিটার বীজ পরা আর ঠান্ডা করা।
+:::
+
+:::lang ur
+# جاپانی سیما کوکومبر سالاد (Sunomono)
+
+جاپان کے کریسپ کیک‌ن‌بُنوں نے چاول کے چاول ، سوئی کے آٹے اور سُم کے بیج میں نرم‌مزاجی سے کام لیا ۔
+
+## Instructions
+1. اِس کے بعد اُس نے اِس بات پر غور کِیا کہ اُس نے کیا کِیا ۔
+2. ایک چھوٹے سے برتن میں وِسک چاول ، سوئے چاول اور نقشہ‌جات ۔
+3. اِس کے بعد اُس نے اُس سے کہا : ” اَے [ یہوواہ ] !
+4. اِس لئے اُس نے اُن کی مدد کی ۔
+:::

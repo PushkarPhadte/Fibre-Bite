@@ -93,3 +93,36 @@ prepTimeEstimated: true
 2. कोबी, हळद आणि मीठ घालून 6 मिनिटे परतत राहा.
 3. कोबी पॅनच्या एका बाजूला सरकवा, त्याच पॅनमध्ये अंडी भुर्जी करा आणि सर्व साहित्य एकत्र मिसळा.
 :::
+
+:::lang en
+# Anda Patta Gobi Egg and Cabbage Stir-Fry
+
+An Indian-style quick stir-fry of cabbage and scrambled eggs with turmeric and mustard seeds.
+
+## Instructions
+1. Heat the oil, splutter the mustard seeds and cook the onion and chilli for 3 minutes.
+2. Add the cabbage, turmeric and salt and stir-fry for 6 minutes.
+3. Push the cabbage aside, scramble the eggs in the pan and mix everything together.
+:::
+
+:::lang bn
+# এবং পাট্টা গোবি এগ এবং কাব্বা শরি-এফরি
+
+একজন ভারতীয় স্টাইলে দ্রুত ট্যাক্সিজ আর ডিম নিয়ে টুরমেরিক আর কষ্মের বীজ নিয়ে।
+
+## Instructions
+1. তেল ঢালে, সরিষার বীজ আর রান্না করে ৩ মিনিট ঠান্ডা।
+2. ট্যাক্সিজ, টরমেরিক আর লবণ যোগ করো ৬ মিনিটের জন্য।
+3. গাড়ি ধাক্কা দাও, ডিমগুলোকে প্যানের মধ্যে গুঁজে দাও আর সব কিছু একসাথে একত্র করো।
+:::
+
+:::lang ur
+# اندّا پٹّا گوبی ایگ اور کیباگ کشی-فری -
+
+ایک ہندوستانی سکہ تیزی سے بہہ رہا ہوتا ہے اور انڈوں کو تراشا جاتا ہے جن میں تھرلر اور رائی کے دانے ہوتے ہیں۔
+
+## Instructions
+1. تیل کو صاف کریں ، رائی کے بیج کو دبا دیں اور ۳ منٹ تک اون اور تیل کو پکائیں ۔
+2. چاول، ٹرمیر اور نمک کو شامل کریں اور 6 منٹ تک حرکت کریں۔
+3. اِس کے بعد اِنڈوں کو اِستعمال کِیا جاتا ہے ۔
+:::

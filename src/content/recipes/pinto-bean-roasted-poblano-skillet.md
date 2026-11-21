@@ -92,3 +92,39 @@ prepTimeEstimated: true
 3. जिरे, चिरलेल्या पोब्लानो मिरच्या, टोमॅटो आणि पिंटो बीन्स मिसळा. मिश्रण किंचित घट्ट होईपर्यंत 12 मिनिटे मंद आचेवर शिजवा.
 4. गॅसवरून उतरवा आणि वाढण्यापूर्वी ताजी कोथिंबीर मिसळा.
 :::
+
+:::lang en
+# Pinto Bean and Roasted Poblano Skillet
+
+Savory pinto beans simmered with roasted poblano peppers, red onion, cumin, and fresh cilantro.
+
+## Instructions
+1. Char poblano peppers under a broiler or over an open flame, peel and seed them, and dice.
+2. Heat olive oil in a skillet over medium heat and cook red onion for 5 minutes until softened.
+3. Stir in cumin, diced poblanos, tomatoes, and pinto beans; simmer for 12 minutes until slightly thickened.
+4. Remove from heat and fold in fresh cilantro before serving.
+:::
+
+:::lang bn
+# পিনটো বেয়ান এবং পুব্লানো দক্ষতার পোশাক
+
+সাভোরি পিনেটো শিমের সাথে রোস্ট, মরিচের মরিচ, লাল রং, সারমিন এবং তাজা সিলানরো।
+
+## Instructions
+1. কব্জারের নিচে লাল মরিচ অথবা খোলা আগুন, এগুলোকে ও পাশার মধ্যে দিয়ে ঢেকে দেওয়া হয় ।
+2. ( মথি ২৪: ৪৫ - ৪৭; লূক ১: ১ - ৩) এটা ছিল সা.
+3. ফলের রসালো টুকরো, টমেটো, এবং পিনটো বিন; ১২ মিনিট লাগবে না ।
+4. গরম থেকে গরম অপসারণ করুন এবং কাজ শুরুর আগে তাজা সাইক্লোন্টোর ভাঁজ করুন।
+:::
+
+:::lang ur
+# پنٹو بانی اور اندراج شدہ پوبلانو سکیل ہیں۔
+
+اِس کے بعد اُس نے اُن سے پوچھا : ” کیا مَیں اِس بات کی قدر کرتا ہوں کہ مَیں اُن کے ساتھ کیسے رہ سکتا ہوں ؟ “
+
+## Instructions
+1. اِس کی وجہ یہ ہے کہ اُس نے اُن سے کہا : ” مَیں اُن کے ساتھ نہیں جاؤں گا ۔ “
+2. زیتون کے تیل کو درمیانے گرم درجۂ‌حرارت پر مہارت سے استعمال کرتے ہوئے ۵ منٹ تک سرخ کر دیا جاتا ہے ۔
+3. اِس کی ایک وجہ یہ ہے کہ اِن میں سے بارہ منٹ تک اِس کا وزن بڑھ جاتا ہے ۔
+4. اِس سے پہلے کہ اِسے گرم کرنے اور اُس کی خدمت کرنے سے پہلے تازہ سیل‌نٹرو میں رکھا جائے ۔
+:::

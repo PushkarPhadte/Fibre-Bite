@@ -96,3 +96,39 @@ prepTimeEstimated: true
 3. फुलकोबीचे तुरे आणि हरभरे मसाल्याच्या मिश्रणात नीट घोळवा, मग बेकिंग डिशमध्ये पसरवा.
 4. 28 ते 32 मिनिटे भाजा, फुलकोबी मऊ होईपर्यंत आणि कडा किंचित करपून सोनेरी होईपर्यंत.
 :::
+
+:::lang en
+# Cauliflower and Chickpea Tikka Bake
+
+Cauliflower florets and chickpeas marinated in spiced plain yogurt and crushed tomatoes, baked until golden.
+
+## Instructions
+1. Preheat the oven to 205 C and lightly oil a large baking dish.
+2. Whisk plain yogurt, crushed tomatoes, garam masala, cumin, garlic, and olive oil in a bowl.
+3. Toss cauliflower florets and chickpeas in the spiced mixture until evenly coated, then spread in the baking dish.
+4. Bake for 28 to 32 minutes until cauliflower is tender and lightly charred at the edges.
+:::
+
+:::lang bn
+# ফুল ফুল আর মুরগী তিক্কা বাক
+
+ফুল ফুল ফোটানো এবং মুরগির মুকাঁগুলো সুঁত ও শুষ্ক টমেটোতে ভরা ছিল, যতক্ষণ না সোনার পাতা পর্যন্ত শুকায় ।
+
+## Instructions
+1. ২০৫ সি থেকে চুলা চুলায় তেল হালকা করুন।
+2. চুনপোকা, ছাঁটা টমেটো, কোদাল মাসালা, হর, রসুন এবং জলপাই তেল।
+3. মসলি ফুল ফুল এবং মুরগির মুকাদানা যতক্ষণ পর্যন্ত না হালকা কোটের তৈরি হয়, ততক্ষণ পর্যন্ত সেটা বেকিং খাবারে ছড়িয়ে পড়ে ।
+4. বেলা ২৮ থেকে ৩২ মিনিট পর্যন্ত ফুলমুখী ফুলটি কোমল এবং হালকা ভাবে ঘষা।
+:::
+
+:::lang ur
+# کاؤلف اوبلاست اور چیکپے ٹیککا بیک ہیں۔
+
+یہاں تک کہ سونے تک پکایا جاتا ہے ۔
+
+## Instructions
+1. اِس سے ظاہر ہوتا ہے کہ اِن میں سے زیادہ‌تر تیل اِستعمال نہیں کِیا جاتا ۔
+2. اِس کے علاوہ اُنہوں نے اِس بات کا بھی ذکر کِیا کہ اُن کے کھانے کے بعد اُن کے ساتھ کیا واقع ہوا ۔
+3. اسکے بعد ، اسپنج میں مختلف قسم کے اجزا پائے جاتے ہیں ۔
+4. 28 سے 32 منٹ کے لیے جب تک کہ کیلیف کے نیچے کی سطح نرم اور معمولی سی تہ نہیں ہے۔
+:::

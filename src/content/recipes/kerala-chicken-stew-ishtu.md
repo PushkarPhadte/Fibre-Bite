@@ -112,3 +112,39 @@ prepTimeEstimated: true
 3. नारळाचे दूध ओता आणि उकळी न आणता 5 मिनिटे हळूवार गरम करा.
 4. अप्पम किंवा ब्राउन राइससोबत वाढा.
 :::
+
+:::lang en
+# Kerala Chicken Stew (Ishtu)
+
+A mild, aromatic Kerala stew of chicken and vegetables in a light coconut milk broth with ginger, black pepper and whole spices.
+
+## Instructions
+1. Heat the oil, add the whole spices and curry leaves, then the onion, ginger, garlic and chilli and cook for 4 minutes without browning.
+2. Add the chicken, potatoes, carrots, pepper, salt and water, cover and simmer for 20 minutes.
+3. Pour in the coconut milk and warm gently for 5 minutes without boiling.
+4. Serve with appam or brown rice.
+:::
+
+:::lang bn
+# কেরালা
+
+হালকা নারিকেল, কালো মরিচ এবং সমস্ত মসলা দিয়ে তৈরি মুরগি ও শাকসবজির পাপড়ি ।
+
+## Instructions
+1. তেলে ভরা তেল, ফলে পুরো মসলা এবং মিষ্টি পাতা যোগ করে, তারপর পেখিয়ে, রসুন এবং ঠাণ্ডায় ৪ মিনিট রান্না করে।
+2. মুরগি, আলু, গাজর, মরিচ, লবণ, পানি, ২০ মিনিট ধরে ঢেকে রাখুন।
+3. নারিকেল দুধে পিঁয়াজ এবং ফুটন্ত না খেয়ে ৫ মিনিট উষ্ণ কোমল ভাবে।
+4. অ্যাপাম অথবা বাদামী ভাত নিয়ে কাজ করুন।
+:::
+
+:::lang ur
+# کیرالا چیکن اسٹو (Ishtu)
+
+ہلکے ناریل کا دودھ بُرتھ ، کالا پنیر اور پوری خوشبوؤں سے تیار کِیا جاتا ہے ۔
+
+## Instructions
+1. تیل کو صاف کرنے کے لئے اُس کے پتوں میں خوشبودار پتوں کو شامل کِیا جاتا ہے ۔
+2. اِس میں مرغی ، مکھن ، مکھن ، چاول ، نمک اور پانی ، کپڑے اور چھلے شامل کئے جاتے ہیں ۔
+3. ناریل کے دودھ میں سانس لیں اور 5 منٹ تک گرم رکھیں ۔
+4. اِس سلسلے میں ایک مثال پر غور کریں ۔
+:::

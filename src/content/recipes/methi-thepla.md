@@ -93,3 +93,36 @@ prepTimeEstimated: true
 2. पिठाचे 8 गोळे करून पातळ लाटा.
 3. गरम तव्यावर उरलेले तेल हलके लावत दोन्ही बाजूंनी सोनेरी होईपर्यंत भाजा.
 :::
+
+:::lang en
+# Methi Thepla
+
+Gujarati whole wheat flatbreads flavoured with fresh fenugreek, cooked on a dry griddle.
+
+## Instructions
+1. Mix the flour, methi, curd, spices, salt and half the oil and knead with water into a soft dough; rest for 15 minutes.
+2. Divide into 8 balls and roll thin.
+3. Cook on a hot griddle, brushing lightly with the remaining oil, until browned on both sides.
+:::
+
+:::lang bn
+# মেলা
+
+এর ফলে, গমের তৈরি শস্যের তৈরি রুটিগুলো শুকিয়ে গিয়েছিল ।
+
+## Instructions
+1. এই সুগন্ধি, মৃগী, রসা, মসলা, লবণ, লবণ, লবণ এবং শস্য এক নরম ডোদা দিয়ে তৈরি করুন; ১৫ মিনিট বিশ্রাম নিন ।
+2. ৮ বলয় ভাগ আর রোলিং।
+3. একটি হট গ্রিডেল এর কুক, অবশিষ্ট তেল দিয়ে হালকা করে দেয়, যতক্ষণ না দুই দিকে বাদামী হয়।
+:::
+
+:::lang ur
+# چیتی تھیلا
+
+گجراتی مکمل گندم پلیٹ‌فارم پر تیار کی جانے والی تازہ فن‌لینڈ سے تیار کی گئی تھی ۔
+
+## Instructions
+1. اِس کے بعد اُس نے اِس بات کا ذکر کِیا کہ اُس نے اُس سے کہا : ” مَیں اِس بات کی قدر کرتا ہوں کہ مَیں اُس کے ساتھ ہوں ۔ “
+2. اِس کے ساتھ ساتھ اُس کی کھال بھی مضبوط ہو جاتی ہے ۔
+3. اِس کے بعد اُس نے اُن سے پوچھا : ” کیا مَیں اُن کی بات مانتا ہوں ؟ “
+:::

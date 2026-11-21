@@ -92,3 +92,39 @@ prepTimeEstimated: true
 3. ताहिनी, लिंबाचा रस आणि कोमट पाणी एकजीव व गुळगुळीत होईपर्यंत फेटा.
 4. भाजलेल्या फुलकोबीवर ताहिनीचा सॉस घाला.
 :::
+
+:::lang en
+# North African Spiced Roasted Cauliflower
+
+Whole cauliflower florets roasted with ras el hanout spice blend, olive oil, and served with a lemon-tahini drizzle.
+
+## Instructions
+1. Toss cauliflower florets with olive oil, ras el hanout, and salt.
+2. Roast at 200°C (400°F) for 25 minutes until edges are browned.
+3. Whisk tahini, lemon juice, and warm water until smooth.
+4. Drizzle tahini sauce over roasted cauliflower.
+:::
+
+:::lang bn
+# উত্তর আফ্রিকার গোয়েন্দা সংস্থা কাউলি ফুল
+
+পুরো ফুলফুল ফুলদানি এল আহসানের মসলা, জলপাই তেল, এবং লেবু-তালি-তানি বৃষ্টিপাতের সাথে মিশিয়েছে।
+
+## Instructions
+1. ফুল ফুল ফুল, তেল, রাসুল এল হান্ট এবং লবণ ।
+2. ২০০ ডিগ্রি সেলসিয়াস (৪০০ ডিগ্রি ফারেনহাইট) পর্যন্ত আচন করা হয়েছে।
+3. হুইক্ক টাহনি, লেবুর জুস আর গরম পানি যতক্ষণ না মসৃণ থাকে।
+4. ফুল ফোটার জন্য তাহিনি সস।
+:::
+
+:::lang ur
+# شمالی افریقہ کے سفیر نے کیلیف‌فُس کو آگ لگا دی
+
+اِس کے بعد اُس نے زیتون کے تیل کو ملا کر اُس کے تیل کو جلا دیا ۔
+
+## Instructions
+1. زیتون کے تیل ، ریشم اور نمک کے ساتھ کُلسّے کیول‌فُول‌فُوٹ ۔
+2. 200°C (400°F) پر داخلے کے لیے 25 منٹ تک جب تک کنارے بھورے ہوتے ہیں۔
+3. وِسَقَ تَحِینِیْنِیْنِیْنَاهُمُونَ اور گرم پانی جب تک نرم نہ ہو ۔
+4. ڈرزلے ٹائی‌نینی کو جلانے والے کیلیف کے اوپر کھایا جاتا ہے ۔
+:::

@@ -89,3 +89,39 @@ prepTimeSource: 'https://www.ambitiouskitchen.com/mediterranean-baked-white-bean
 3. बेबी पालक घालून तो कोमेजेपर्यंत हलक्या हाताने मिसळा.
 4. वरून चुरलेले फेटा चीज घालून गरम सर्व्ह करा.
 :::
+
+:::lang en
+# Mediterranean White Bean Skillet
+
+Creamy cannellini beans simmered with crushed tomatoes, garlic, spinach, and topped with crumbled feta cheese.
+
+## Instructions
+1. Heat olive oil in a skillet over medium heat and sauté garlic until fragrant.
+2. Stir in crushed tomatoes and cannellini beans, simmering for 8 minutes.
+3. Fold in baby spinach until wilted.
+4. Top with crumbled feta cheese and serve warm.
+:::
+
+:::lang bn
+# ভূমধ্যসাগরীয় হোয়াইট বেনান দক্ষতার সঙ্গে
+
+ক্রিমি সুইনি শিমের মতো উজ্জ্বল টমেটো, রসুন, চুড়া, চুড়া, পনিরের সাথে মিশে গেছে।
+
+## Instructions
+1. মাঝারি তাপমাত্রায় হেট জলপাই তেল... ...আর পবিত্রস রসুন.
+2. ছটফট টমেটো আর ক্যানেলিনি বিনে ভরা ৮ মিনিট ধরে।
+3. শিশুর স্পিনে শুয়ে থাকা উচিৎ.
+4. উপর থেকে ডিটারটা পনিরের টুকরো টুকরো টুকরো হয়ে গরম হয়ে যায়।
+:::
+
+:::lang ur
+# بحیرۂروم کے سفید بُرج
+
+اِس کی وجہ یہ تھی کہ اِس کے بعد اُس نے اُن کے لئے کھانا تیار کِیا ۔
+
+## Instructions
+1. زیتون کے تیل کو درمیان میں گرم گرم اور صابن بنانے تک استعمال کِیا جاتا ہے ۔
+2. اِس کے بعد اُس نے اِس بات پر زور دیا کہ اُس نے اُن کے لئے کھانا تیار کِیا ۔
+3. جب تک بچے کی پیدائش نہیں ہوئی ۔
+4. اِس کے بعد اُن کی عمر تقریباً ۳۰ سال ہے ۔
+:::

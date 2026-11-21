@@ -77,3 +77,36 @@ prepTimeEstimated: true
 2. लिंबाचा रस, जिरे आणि मिरपूड घालून हलक्या हाताने मिसळा.
 3. पुदिन्याने सजवा आणि लगेच सर्व्ह करा.
 :::
+
+:::lang en
+# Guava Papaya Fruit Chaat
+
+A spiced fruit chaat of guava, papaya and pomegranate with lime and roasted cumin, no added sugar.
+
+## Instructions
+1. Combine the guava, papaya and pomegranate in a bowl.
+2. Add lime juice, cumin and pepper and toss gently.
+3. Garnish with mint and serve immediately.
+:::
+
+:::lang bn
+# পেয়ারা পাপায়া ফল কাটা
+
+প্রচুর পরিমাণে চিনি পাওয়া যায়
+
+## Instructions
+1. পেয়ারা, পাপায়া আর মদে বাটি।
+2. লাইম জুস যোগ করো।
+3. মিনিট খানেকের সাথে কাজ করা এবং অবিলম্বে সেবা করা।
+:::
+
+:::lang ur
+# پپویا پھل چت
+
+اِس کے بعد اُس نے اِس بات پر زور دیا کہ اُس نے اُس کا شکر ادا کِیا ۔
+
+## Instructions
+1. ایک پیالے میں گووا ، پاوا اور شادی‌شُدہ جوڑے ملا دیں ۔
+2. اِس کے علاوہ اِس کے ساتھ‌ساتھ اُس کا جوتا بھی ہوتا ہے ، اُس میں اِس کا ذائقہ بھی شامل ہوتا ہے ۔
+3. گارنیش منتر کے ساتھ اور فوری طور پر خدمت کرتا ہے۔
+:::

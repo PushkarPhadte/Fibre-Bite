@@ -86,3 +86,36 @@ prepTimeEstimated: true
 2. नॉन-स्टिक पॅनला तेल लावून हलके ग्रीस करा. मध्यम-मंद आचेवर पळीने थोडे थोडे मिश्रण घालून प्रत्येक बाजू 2 मिनिटे शिजवा.
 3. पॅनकेकवर ब्लूबेरी घालून वाढा.
 :::
+
+:::lang en
+# Banana Oat Egg Pancakes
+
+Flourless pancakes made from blended oats, ripe banana and egg, served with fresh berries.
+
+## Instructions
+1. Blend the banana, oats, eggs and cinnamon into a thick batter and rest for 5 minutes.
+2. Lightly grease a non-stick pan with the oil and cook small ladlefuls over medium-low heat for 2 minutes per side.
+3. Serve the pancakes topped with the blueberries.
+:::
+
+:::lang bn
+# কলা ওট ইউগ প্যানকেক
+
+তাই, এতে অবাক হওয়ার কিছু নেই যে, এই পানীয়গুলো সা.
+
+## Instructions
+1. কলা, ওট, ডিম, ডিম, ডিম এবং দন্তের ওপর শুয়ে ৫ মিনিট বিশ্রাম নিন ।
+2. তেল আর ছোট ছোট ছোট ছোট ছোট রান্নার গরম প্রতি দুই মিনিটের জন্য গরম।
+3. প্যানকেকসকে সেবা করো নীল বেরির সাথে.
+:::
+
+:::lang ur
+# یو . ایس .
+
+اِس کے بعد اُس نے اُن سے کہا : ” مَیں اُن کے ساتھ کھانا پکاتا ہوں ۔ “
+
+## Instructions
+1. اِس کی وجہ یہ ہے کہ اُس نے اُن سے کہا : ” مَیں اِس بات پر خوش ہوں کہ مَیں اُن کی بات مانوں ۔ “
+2. ہلکے سے تیل کے ساتھ ایک غیر زہریلے پن کو پکایا جاتا ہے اور درمیانے درجہ حرارت پر 2 منٹ تک چھوٹی چھوٹی چھوٹی چھوٹی گولیاں پکاتا ہے۔
+3. اِس کے بعد اُنہوں نے اُن سے پوچھا : ” کیا مَیں اُن کی بات مانتا ہوں ؟ “
+:::

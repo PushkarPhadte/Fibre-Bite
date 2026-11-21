@@ -88,3 +88,39 @@ prepTimeEstimated: true
 3. डंपलिंग्ज 1 चमचा तेलात प्रत्येक बाजूला 3 मिनिटे खरपूस होईपर्यंत पॅनमध्ये भाजा.
 4. सोया डिपिंग सॉससोबत गरम वाढा.
 :::
+
+:::lang en
+# Tofu and Vegetable Rice Paper Dumplings
+
+Crispy pan-seared rice paper rolls packed with shredded cabbage, carrots, mushrooms, and firm tofu.
+
+## Instructions
+1. Sauté crumbled tofu, cabbage, carrots, and mushrooms with soy sauce for 5 minutes.
+2. Soak rice paper wrapper in warm water; place filling in center and fold into a square packet.
+3. Pan-sear dumplings in 1 tsp oil for 3 minutes per side until crispy.
+4. Serve hot with soy dipping sauce.
+:::
+
+:::lang bn
+# টফু এবং নিরেটযোগ্য চালের কাগজ ডাম্পলিং
+
+ক্রিসপি প্যান-সপারানো চালের কাগজের রোলে ময়লা বাঁধা, গাজর, মাশরুম, এবং টফু।
+
+## Instructions
+1. সাউতে টফু, ট্যাক্সিজ, গাজর আর মাশরুম ৫ মিনিট সস দিয়ে ভেঙ্গে যায়।
+2. দুর্বল চালের কাগজ গরম পানিতে কাটা হয়; মাঝে মাঝে ময়লা পরিষ্কার করা হয় এবং একটি বর্গ প্যাকেটে ভরে যায়।
+3. তিন মিনিটের জন্য প্যান-শপ তেল ঢালে।
+4. সয়া সস দিয়ে গরম খাবার খাও।
+:::
+
+:::lang ur
+# توفو اور Vegateble Rice Paper Dumlings
+
+کریسپی پانڈے چاول کے کاغذی کرنسیوں کے ڈھیروں سے بھرے ہوئے ہوتے ہیں جن میں قے، قے، قے اور ٹھوس توفو شامل ہوتے ہیں۔
+
+## Instructions
+1. لیکن اِس میں کوئی شک نہیں کہ اِس بیماری کی وجہ سے اُن کا وزن کم ہو جاتا ہے ۔
+2. سوک رس کاغذ گرم پانی میں لپیٹا جاتا ہے ؛ مرکزی حصے میں بھر کر ایک مربع فٹ میں رکھ دیں ۔
+3. پین-سر دھنلنگ 1 ٹسپ تیل میں 3 منٹ فی پہلوی تک۔
+4. سوئے ڈویزن کے ساتھ گرم خدمت.
+:::

@@ -124,3 +124,42 @@ prepTimeEstimated: true
 4. पाणी आणि मीठ घालून उकळी आणा. झाकण ठेवून अतिशय मंद आचेवर 35 मिनिटे, तांदूळ मऊ होईपर्यंत शिजवा.
 5. 5 मिनिटे तसेच ठेवा आणि काट्याने भात मोकळा करा.
 :::
+
+:::lang en
+# Light Prawn Pulao with Brown Rice
+
+Fragrant one-pot pulao of prawns, peas and whole spices with brown rice, mint and coriander.
+
+## Instructions
+1. Rinse the rice and soak in water for 30 minutes, then drain.
+2. Heat the oil, add the whole spices, then the onion, ginger, garlic and chilli and cook for 6 minutes until golden.
+3. Add the tomato, turmeric, garam masala and prawns and cook for 3 minutes. Stir in the mint, coriander, peas and rice.
+4. Pour in the water, add the salt, bring to a boil, then cover and cook on very low heat for 35 minutes until the rice is tender.
+5. Rest for 5 minutes and fluff with a fork.
+:::
+
+:::lang bn
+# ব্রাউন রাইস এর লাইট প্রিও পুলাও
+
+থ্রাপোগ্রান্ট নামে এক চেরনো, মটরশুঁটি আর পুরো মসলা বাদামি চাল, মিন্ট আর কোরিয়ান্ডার।
+
+## Instructions
+1. ৩০ মিনিটের জন্য ধান আর সয়া দিয়ে, তারপর ড্রেনে নামবে।
+2. তেলে ভরা তেল, তারপর মাংস, ভোদড়, রসুন আর ঠাণ্ডায় ছয় মিনিট রান্না করে।
+3. টমেটো, টরমেরিক, টিগারম মাসালা এবং Poons এবং ৩ মিনিট রান্না করুন। মিন্ট, কোরিয়ান্ডার, ডাল আর ভাতের স্টিয়ারিং।
+4. তাই, এতে অবাক হওয়ার কিছু নেই যে, শস্যের জন্য প্রচুর পরিমাণে জল সরবরাহ করতে হয় ।
+5. ৫ মিনিট বিশ্রাম নাও।
+:::
+
+:::lang ur
+# براؤن رائس کے ساتھ ہلکے پروڈیو
+
+فرنچائز ایک پُوٹ پُل پرگنس، پَس اور پوری خوشبوؤں کے ساتھ بھورے چاول، منٹ اور کریانڈر کے ساتھ۔
+
+## Instructions
+1. اِس کے بعد چاول اور پانی میں 30 منٹ تک نمی جذب کریں ۔
+2. تیل کو صاف کرنے کے بعد پورے چاول کو ملا کر پھر اونن، آمیزش، لہسن اور آلو وغیرہ ملا کر سونے تک 6 منٹ تک پکایا جاتا ہے۔
+3. ٹماٹر ، ٹرمیر ، گیرام ماسالا اور پروں کو ملا کر 3 منٹ تک پکایا جاتا ہے۔ مَیں نے اُن سے کہا : ” مَیں آپ سے بہت پیار کرتی ہوں ۔ “
+4. پانی میں ملا کر نمک کو ملا کر گرم کر لے آتے ہیں اور پھر 35 منٹ تک بہت کم گرمی پر پکاتے ہیں یہاں تک کہ چاول نرم ہو جاتا ہے۔
+5. 5 منٹ تک آرام کریں اور ایک چوک کے ساتھ.
+:::

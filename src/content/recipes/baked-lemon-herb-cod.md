@@ -76,3 +76,36 @@ prepTimeSource: 'https://www.delish.com/cooking/recipe-ideas/a26084048/baked-cod
 2. लिंबाचा रस, लसूण, डिल, जैतुनाचे तेल आणि मीठ एकत्र फेटा; माशावर ओता.
 3. १२-१५ मिनिटे बेक करा, मासा अपारदर्शक होईपर्यंत आणि काट्याने सहज पाकळ्यांसारखा वेगळा होईपर्यंत.
 :::
+
+:::lang en
+# Baked Lemon Herb Cod
+
+Delicate cod fillets baked with fresh lemon slices, dill, garlic, and extra virgin olive oil.
+
+## Instructions
+1. Preheat oven to 200°C (400°F) and place cod fillets in a baking dish.
+2. Whisk lemon juice, garlic, dill, olive oil, and salt together; pour over the fish.
+3. Bake for 12-15 minutes until fish is opaque and flakes easily with a fork.
+:::
+
+:::lang bn
+# বাক্কি হলদে হার্ব কর্ড
+
+এটা দিয়ে তৈরি লেবু, রসুন, রসুন এবং অতিরিক্ত কুমারী জলপাই তেল দিয়ে তৈরি করা হতো ।
+
+## Instructions
+1. প্রেটাট চুলে ২০০ ডিগ্রি সেলসিয়াস (৪০০ ডিগ্রিF) এবং ব্রেকিং খাবারে পাত্র ভর্তি এলাকা।
+2. উলক্কি লেবুর জুস, রসুন, রসুন, তেল এবং লবণ একসঙ্গে; মাছের উপরে ঢেলে দাও ।
+3. ১২-১৫ মিনিটের জন্য বেক, যতক্ষণ না মাছ আর লাঠির সাথে খুব সহজে কাপিয়ে যায়।
+:::
+
+:::lang ur
+# سیمن ہیرب کوڈ
+
+اِس کے بعد اُس نے زیتون کا تیل تیار کِیا ۔
+
+## Instructions
+1. پروہت اوون سے 200°C (400°F) تک اور کوہِ‌مُقدس کو ایک مُنہ میں رکھیں ۔
+2. اِس کا مطلب ہے کہ مچھلیوں کا رس ، لہسن ، دال ، زیتون کا تیل اور نمک ۔
+3. بارہ-15 منٹ تک جب تک مچھلی کو اپاک نہیں کیا جاتا اور آسانی سے اسکور کے ساتھ کھایا جاتا ہے۔
+:::

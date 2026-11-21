@@ -107,3 +107,39 @@ prepTimeEstimated: true
 3. भाज्यांमध्ये हे वाटण आणि काकडी घालून 3 मिनिटे शिजवा.
 4. गॅस बंद करून दही मिसळा आणि वरून तेल व कढीपत्ता घाला.
 :::
+
+:::lang en
+# Avial Kerala Mixed Vegetable in Coconut Curd
+
+Mixed vegetables simmered in a light coconut and curd sauce with curry leaves.
+
+## Instructions
+1. Simmer the pumpkin, carrot, beans and salt in the water for 12 minutes until just tender.
+2. Grind the coconut, green chillies and cumin to a coarse paste with a splash of water.
+3. Add the paste and cucumber to the vegetables and cook for 3 minutes.
+4. Off the heat, stir in the curd and drizzle with the oil and curry leaves.
+:::
+
+:::lang bn
+# কন্সট কুর্টের কাছে অভিমানী কেরালা ভেলা
+
+হালকা নারিকেল ও সস তৈরি করা সস গাছের পাতা দিয়ে তৈরি মিশ্র শাকসবজি ।
+
+## Instructions
+1. শুধু কোমল না হওয়া পর্যন্ত ১২ মিনিট পানির মধ্যে কুমড়া, গাজর, শিম আর লবন।
+2. নারিকেল, সবুজ ঠাণ্ডা এবং ঠাণ্ডা জল দিয়ে পেস্টি করা হয় ।
+3. সবজি আর রান্না করুন ৩ মিনিট ধরে।
+4. তাপ বন্ধ করে তেল আর ফলের পাতাগুলো শুকিয়ে যায়।
+:::
+
+:::lang ur
+# کوکو کیورڈ میں ایک پُراسرار کیرالا نے
+
+ایک ہلکے ناریل میں اُگنے والی سبزیوں کو اُبال دیا جاتا تھا ۔
+
+## Instructions
+1. پانی میں ۱۲ منٹ تک پمپ‌کین ، کپاس ، بیج اور نمک استعمال ہوتا ہے ۔
+2. ناریل ، سبزہ‌زاروں اور گردوں سے پانی بھرتا ہے ۔
+3. اِس کے علاوہ اِن سبزیوں کو بھی پکایا جاتا ہے ۔
+4. گرمیوں کو ہٹاتے ہوئے ، پانی میں جذب ہو جاتا ہے اور تیل اور تیل کے پتوں سے خارج ہو جاتا ہے ۔
+:::

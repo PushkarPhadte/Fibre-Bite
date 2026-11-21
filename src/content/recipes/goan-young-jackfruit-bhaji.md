@@ -111,3 +111,42 @@ prepTimeEstimated: true
 4. मऊ फणस, कोकमाच्या पाकळ्या, उरलेले मीठ आणि 40 मिली पाणी घाला. झाकण ठेवून मंद आचेवर 8 मिनिटे शिजवा, म्हणजे फणस मसाल्यांची चव शोषून घेईल.
 5. ताजा किसलेला नारळ मिसळा, झाकण न ठेवता 2 मिनिटे परता आणि वाढा.
 :::
+
+:::lang en
+# Goan Phanasachi Bhaji (Young Green Jackfruit Stir-Fry)
+
+Fiber-packed Goan dry curry of tender young green jackfruit simmered with garlic, roasted spices, kokum, and freshly grated coconut.
+
+## Instructions
+1. Steam or boil the diced green jackfruit in lightly salted water for 12 minutes until fork-tender, then drain well.
+2. Heat the sunflower oil in a wide skillet over medium heat and crackle the mustard seeds and curry leaves for 20 seconds.
+3. Sauté the minced garlic and chopped onion for 4 minutes until golden, then stir in the coriander-cumin-chili spice blend.
+4. Add the tender jackfruit, kokum petals, remaining salt, and 40 ml of water; cover and cook on low heat for 8 minutes so the jackfruit absorbs the spices.
+5. Fold in the freshly grated coconut, toss uncovered for 2 minutes, and serve.
+:::
+
+:::lang bn
+# গোন পানাশাচি ভাজি (যুবক গ্রীন জ্যাক মুলি সেন্টি)
+
+ফুবের-পেস্ট গোয়ান শুকনো সবুজ রঙের টুকরো যা রসুন দিয়ে তৈরি করা হয়েছে।
+
+## Instructions
+1. সিয়াম অথবা স্যু্টে সবুজ রঙের লেবুর টুকরো ১২ মিনিটের জন্য হালকা লবণাক্ত পানি দিয়ে সিদ্ধ করা হবে যতক্ষণ না টরেন্টের পানি কমে যায়, ততক্ষণ পর্যন্ত তা শুকিয়ে যায়।
+2. প্রচুর পরিমাণে গরমের মধ্যে সূর্যমুখী তেল এবং সরিষাদানার বীজকে ২০ সেকেন্ডের জন্য শুকিয়ে যায় ।
+3. সাউতে রসুন আর ৪ মিনিটের জন্য কেটে দেয়া হয়, এরপর সে অস্ট্রেলিয়ার সিন্ডার-কুইমিনি আচারের সাথে মিশে যায়।
+4. এরা এদের কানিগুলো দিয়ে তৈরি ।
+5. তাজা নারিকেলে ভরে যায়
+:::
+
+:::lang ur
+# گان پھاناساچی بھاجی (انگریزی: Young Green Jack food-Fry) بھارت کا ایک رہائشی علاقہ جو آندھرا پردیش میں واقع ہے۔
+
+اِس کے بعد اُس نے اِن پھلوں کو اِستعمال کِیا ۔
+
+## Instructions
+1. سٹیم یا آتش فشاں ہرے رنگ کے پھولوں کو معمولی نمک کے پانی میں 12 منٹ تک پکایا جاتا ہے یہاں تک کہ پھر اچھی طرح صاف کر دیتا ہے۔
+2. سورج‌مکھی کے تیل کو درمیان میں گرم گرم کرنے اور رائی کے دانے کو توڑ کر ۲۰ سیکنڈ تک پتوں کو کاٹ دیتا ہے ۔
+3. Sautésed accid and onion 4 منٹ تک سونے تک، اس کے بعد کوریانڈر-کیمین-چیلی ملائم میں منتقل ہوتا ہے۔
+4. اِس کے علاوہ اِن پھلوں میں سے تازہ‌دم پھل ، کوکوم پترال ، نمک اور ۴۰ ملی‌میٹر پانی شامل کریں ؛ اِن کو ڈھانپ کر 8 منٹ تک کم گرمی پر پکایا جاتا ہے ۔
+5. ناریل کے تازہ‌ترین ناریل میں نشوونما ۲ منٹ تک ہوتی ہے اور خدمت انجام دیتی ہے ۔
+:::

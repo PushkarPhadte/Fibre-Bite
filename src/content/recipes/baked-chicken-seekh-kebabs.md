@@ -122,3 +122,42 @@ prepTimeEstimated: true
 4. 12 मिनिटे भाजा, उलटा आणि आणखी 8 ते 10 मिनिटे भाजा; कबाब पूर्ण शिजून थोडेसे करपल्यासारखे होईपर्यंत.
 5. पुदिन्याची चटणी, चिरलेला कांदा आणि लिंबासह वाढा.
 :::
+
+:::lang en
+# Baked Chicken Seekh Kebabs
+
+Juicy minced chicken kebabs with ginger, garlic, mint and warm spices, shaped on skewers and baked rather than fried.
+
+## Instructions
+1. Combine the chicken with all the ingredients except the oil and knead for 3 minutes until sticky. Chill for 30 minutes.
+2. Heat the oven to 220 C. Divide into 12 portions and mould each around a skewer into a 12 cm sausage.
+3. Place on a rack over a tray and brush with the oil.
+4. Bake for 12 minutes, turn and bake for another 8 to 10 minutes until cooked through and lightly charred.
+5. Serve with mint chutney, sliced onion and lemon.
+:::
+
+:::lang bn
+# মুরগির বাচ্চা
+
+জুইক মাছ ধরে মুরগির বাচ্চারা ভাটা, রসুন, রসুন আর গরম মসলা দিয়ে তৈরি ডিমের চেয়ে শুকনো আর রান্না করে।
+
+## Instructions
+1. মুরগির মাংসের সমস্ত উপাদান দিয়ে তৈরি, তেল এবং কানাদ ছাড়া তিন মিনিট অপেক্ষা করে। ৩০ মিনিট শান্ত হও।
+2. ২০ থেকে ২০ সেন্ট পর্যন্ত চুল কাটা ।
+3. একটি ট্রেতে রাখুন এবং তেল দিয়ে ব্রাশ করুন।
+4. ১২ মিনিটের জন্য কেক, আরেকটা ৮ মিনিটের জন্য ঘুরে ১০ মিনিটের জন্য চলে যায় যতক্ষণ না রান্না আর হালকা করে।
+5. মিন্টচুনির সাথে কাজ করো, লন্ড্রি আর লেবুর টুকরো হয়ে গেছে।
+:::
+
+:::lang ur
+# بیدِل چِکَن شَخ کَبَبَّسَّ
+
+اِس کی بجائے اُس نے اِن چیزوں کو تیار کِیا ۔
+
+## Instructions
+1. مرغی کو تمام اجزاء کے ساتھ ملا کر رکھیں سوائے تیل اور کنڈ کے 3 منٹ تک ۔ کل 30 منٹ کے لئے.
+2. اِن میں سے ہر ایک کو ۱۲ سینٹی‌میٹر [ ۱۲ سینٹی‌میٹر ] کے فاصلے پر بنایا جاتا ہے ۔
+3. اِس کے بعد اُس نے اُس سے کہا : ” اَے [ یہوواہ ] !
+4. ۱۲ منٹ تک ، بار بار ، ۸ سے ۱۰ منٹ تک دوبارہ کھانا پکایا اور اسے معمولی سا کر دیا ۔
+5. اِس لئے اُنہوں نے اُن کی مدد کی ۔
+:::

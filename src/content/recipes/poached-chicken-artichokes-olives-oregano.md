@@ -94,3 +94,36 @@ prepTimeEstimated: true
 2. ठेचलेले टोमॅटो, आर्टिचोकची हृदये, ऑलिव्ह आणि ओरिगॅनो घाला.
 3. झाकण ठेवून 12 ते 15 मिनिटे मंद आचेवर हलके उकळा, चिकन पूर्ण शिजून मऊ होईपर्यंत.
 :::
+
+:::lang en
+# Poached Chicken with Artichokes, Olives, and Oregano
+
+Lean chicken breast gently simmered with artichoke hearts, Kalamata olives, crushed tomatoes, and oregano.
+
+## Instructions
+1. Heat olive oil in a skillet over medium heat and lightly sear chicken breast slices for 3 minutes per side.
+2. Add crushed tomatoes, artichoke hearts, olives, and oregano.
+3. Cover and simmer gently for 12 to 15 minutes until chicken is cooked through and tender.
+:::
+
+:::lang bn
+# আরিচিক, অলিভ আর ওগানোর সাথে পচিং মুরগি
+
+লেন মুরগির বুকগুলো কোমলভাবে শিল্পোকে হৃদয়, সালামিয়া জলপাই, ঘন টমেটো এবং ইগানোর হৃদয় দিয়ে তৈরি ।
+
+## Instructions
+1. প্রচুর পরিমাণে গরম ও হালকা সামুদ্রিক মুরগির বুকের টুকরো প্রতি তিন মিনিটের জন্য হালকাভাবে বেড়ে যায় ।
+2. চূর্ণ টমেটো, শিল্পচক হৃদয়, জলপাই এবং ওরেনো যোগ করুন।
+3. কভার আর সিমমার কোমলভাবে ১২ থেকে ১৫ মিনিটের মধ্যে মুরগির রান্না করা হয়।
+:::
+
+:::lang ur
+# پوکیڈ چیکن کے ساتھ ارتریاکوس، کوان اور اوریگانو کے ساتھ
+
+لیان مرغی کے سینے میں آرٹ‌کُن ، کالاماتا زیتون ، ٹوٹی ہوئی ٹماٹروں اور ای‌گانو کے دل‌ودماغ کو نرم کر دیا گیا ۔
+
+## Instructions
+1. زیتون کے تیل کو درمیان میں گرم گرم کرنے اور چھوٹے چھوٹے چھوٹے ممالیہ مرغی کے سینے کو ہر طرف ۳ منٹ تک پکایا جاتا ہے ۔
+2. ٹماٹر ، آرٹک‌کی دل ، زیتون اور یاگانو شامل کریں ۔
+3. جب تک مرغی کو پکا اور پُرسکون نہیں کِیا جاتا ، اُس وقت تک اُس کا وزن 12 سے 15 منٹ تک کم ہو جاتا ہے ۔
+:::

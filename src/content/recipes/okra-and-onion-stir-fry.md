@@ -91,3 +91,39 @@ prepTimeEstimated: true
 3. टोमॅटो, हळद, धणेपूड आणि मीठ घाला. भेंडी मऊ होईपर्यंत 5 मिनिटे शिजवा.
 4. शेवटी लिंबाचा रस घाला.
 :::
+
+:::lang en
+# Okra and Onion Stir-Fry
+
+A dry Indian-style bhindi sabzi cooked with onion and ground spices until tender and not slimy.
+
+## Instructions
+1. Heat the oil, splutter the cumin, and cook the onion until golden.
+2. Add the okra and cook uncovered over medium heat for 10 minutes, stirring occasionally.
+3. Add the tomato, turmeric, coriander powder and salt and cook for 5 minutes until the okra is tender.
+4. Finish with lemon juice.
+:::
+
+:::lang bn
+# ওক্র এবং পেন স্টেক
+
+একটি শুকনো ভারতীয় স্টাইল বিচিনি সিবজি, যিনি পেয়াজ এবং মাটির মসলা দিয়ে রান্না করতেন, যতক্ষণ না টেন্ডার আর হালকা না থাকে।
+
+## Instructions
+1. তেল, ধূমপায়ী আর সোনার আগ পর্যন্ত রান্না করে।
+2. ভালরা আর রান্না করুন ১০ মিনিটের জন্য মিডিয়ার গরমের উপরে।
+3. টমেটো, টারমরিচ, কোরিয়ান্ডার পাউডার এবং রান্না করুন ।
+4. লেবু জুস দিয়ে শেষ।
+:::
+
+:::lang ur
+# اوکرا اور اونیون اوبلاست-فری -
+
+ایک خشک ہندوستانی سنیما بھابی سازی نے اونون اور مٹی کے برتنوں کے ساتھ پکایا یہاں تک کہ نرم اور بے رحمی نہ ہو۔
+
+## Instructions
+1. تیل کو گرم کرنا ، چاول کو دبا دینا اور سونے تک اون کو پکانا ۔
+2. اِن میں سے بعض نے اِس بات پر غور کِیا ہے کہ اِس میں کیا کچھ شامل ہے ۔
+3. ٹماٹر ، ٹرمیر ، کوریاندر پاوڈر اور نمک وغیرہ کو شامل کریں اور 5 منٹ تک پکایا کریں یہاں تک کہ اُس کا ذائقہ نرم ہو جاتا ہے۔
+4. اور اس کے پینے کے جوتے ہیں
+:::

@@ -90,3 +90,36 @@ prepTimeSource: 'https://www.bbcgoodfood.com/recipes/overnight-oats'
 2. ओट्स मऊ होऊन त्यातले द्रव शोषले जावेत म्हणून रात्रभर फ्रिजमध्ये ठेवा.
 3. सकाळी वरून बेरी घाला आणि थंड वाढा.
 :::
+
+:::lang en
+# Overnight Oats
+
+Creamy oats with chia, berries, and vanilla for a quick fiber-rich breakfast.
+
+## Instructions
+1. Stir the oats, milk, chia seeds, yogurt, vanilla, and honey together.
+2. Refrigerate overnight so the oats soften and absorb the liquid.
+3. Top with berries in the morning and serve chilled.
+:::
+
+:::lang bn
+# সারা রাত উপরে
+
+চা, বেরি আর টমেটোর সাথে দ্রুত ফাইবারের নাস্তার জন্য।
+
+## Instructions
+1. পাকা ওট, দুধ, চিকিজ বীজ, ইওকুর, টমেটো এবং মধু ।
+2. রাতের বেলা বিশ্রাম নেওয়া, যাতে ওত পেতে না পারে এবং তরল বের করে ।
+3. সকালে বেরি দিয়ে ঠান্ডায় কাজ করবে।
+:::
+
+:::lang ur
+# رات کے اندھیرے سے زیادہ
+
+کریمی اون کے ساتھ چنیا، پھول اور ونیلا کے ساتھ تیز رفتار رنگ کے کھانے کے لئے.
+
+## Instructions
+1. آلو ، دودھ ، چیا کے بیج ، آلو ، ونیلا اور شہد کو ملا کر رکھیں ۔
+2. رات کو اِس طرح اُڑ کر پانی جذب ہو جاتا ہے ۔
+3. صبح‌سویرے اُوپر کی طرف اُڑ کر اُن کی خدمت کی ۔
+:::

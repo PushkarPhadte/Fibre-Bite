@@ -91,3 +91,39 @@ prepTimeSource: 'https://www.skinnytaste.com/greek-chicken-tzatziki-bowls/'
 3. वरून गरम, कापलेले ग्रिल केलेले चिकन ब्रेस्ट ठेवा.
 4. वाढण्यापूर्वी एक्स्ट्रा व्हर्जिन ऑलिव्ह ऑइल वरून शिंपडा आणि अतिरिक्त डिलने सजवा.
 :::
+
+:::lang en
+# Greek Cucumber Yogurt Tzatziki Bowl
+
+A refreshing low-carb bowl combining shredded cucumber, Greek yogurt, garlic, dill, and grilled chicken breast.
+
+## Instructions
+1. In a bowl, mix Greek yogurt, grated cucumber, minced garlic, fresh dill, lemon juice, and a pinch of salt to form tzatziki.
+2. Spoon the tzatziki into serving bowls as the base.
+3. Top with warm sliced grilled chicken breast.
+4. Drizzle with extra virgin olive oil and garnish with extra dill before serving.
+:::
+
+:::lang bn
+# গ্রীক কিকুম্বারু
+
+একটি সতেজ মুকুলের বাটির সাথে সংযুক্ত হয়।
+
+## Instructions
+1. এক বাটি ডালে গ্রিক ইয়োগুরা, রসালো রসুন, তাজা রসুন, লেবুর রস এবং টজাজিকি গঠন করার জন্য এক প্যাকেট লবণ ।
+2. টজাজিকিকে বেস হিসেবে পরিবেশন করতে হবে।
+3. গরম টুকরো টুকরো টুকরো করা মুরগির বুকের ওপরে
+4. আরো অনেক কুমারী জলপাই তেল আর মদ পরিবেশনের আগে।
+:::
+
+:::lang ur
+# یونانکمبر یوگورٹ تزوتزیکی باؤل
+
+ایک تازگی‌بخش کم‌تر کیرب کیک‌بر ، یونانی پکوان ، لہسن ، دیول اور مرغی کے سینے کو ملانے والا تازہ‌ترین پیالہ ۔
+
+## Instructions
+1. ایک پیالے میں ، یونانی ربر ، گندھک ، مونگ‌پھلی ، تازہ‌دم ، آلو اور نمک کو ملا کر رکھ دیا جاتا ہے ۔
+2. اُس نے کہا : ” مَیں نے اِس بات کو تسلیم نہیں کِیا کہ مَیں اُس کی خدمت کر رہا ہوں ۔ “
+3. اُوپر کی جانب سے بہت سے مرغیاں سینے سے بھر جاتی ہیں ۔
+4. اِس کے علاوہ اُن کے پاس زیتون کا تیل اور جِلد کے تیل کی زیادہ مقدار ہوتی ہے ۔
+:::

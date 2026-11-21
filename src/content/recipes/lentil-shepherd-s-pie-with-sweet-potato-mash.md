@@ -105,3 +105,39 @@ prepTimeEstimated: true
 3. रताळे 15 मिनिटे उकळा, पाणी काढून टाका आणि उरलेले तेल व मीठ घालून कुस्करा.
 4. बेकिंग डिशमध्ये मसुरांवर कुस्करलेले रताळे पसरवा आणि 200 °C ला 20 मिनिटे भाजा.
 :::
+
+:::lang en
+# Lentil Shepherd's Pie with Sweet Potato Mash
+
+Brown lentils, carrot and peas under a sweet potato mash, baked until golden.
+
+## Instructions
+1. Simmer the lentils in the water for 20 minutes until tender.
+2. Cook the onion, carrot and garlic in half the oil, add the thyme, passata, lentils and peas and cook for 10 minutes with half the salt.
+3. Boil the sweet potato for 15 minutes, drain and mash with the remaining oil and salt.
+4. Spread the mash over the lentils in a dish and bake at 200 °C for 20 minutes.
+:::
+
+:::lang bn
+# মিষ্টি পটিটো ম্যাশ এর পনির
+
+ব্রাউন ড্যারেন, গাজর আর মটরশুঁটি... ...একটা মিষ্টি আলু মিশ দিয়ে তৈরি, যতক্ষণ না স্বর্ণের তৈরি হয়।
+
+## Instructions
+1. কোমল না হওয়া পর্যন্ত ২০ মিনিট পানির মধ্যে ঘটিকা।
+2. রান্না করলে তেল, র্‌যাট এবং রসুনের অর্ধেক তেল, আপনার বেমি, পাসতা, ডাল, ডাল আর রান্না হবে অর্ধেক লবণ দিয়ে।
+3. ১৫ মিনিটের জন্য মিষ্টি আলু রান্না করুন, ড্রেন আর অবশিষ্ট তেল আর লবণ দিয়ে।
+4. ২০ মিনিটের জন্য খাবার আর ২০০ ডিগ্রি সেলসিয়াসের মধ্য দিয়ে গরম পানি ছড়িয়ে দিন।
+:::
+
+:::lang ur
+# لنتیل چوپڑا کا پئی سا تھتو ماس کے ساتھ
+
+اسکے علاوہ وہ سونے تک پکایا کرتے تھے ۔
+
+## Instructions
+1. پانی میں موجود چربی 20 منٹ تک نرم‌مزاج رہتی ہے ۔
+2. تیل کے نصف حصوں میں اونن ، آلو اور لہسن کو کُل‌وقتی طور پر استعمال کِیا جاتا ہے ۔
+3. اِس کا ذائقہ 15 منٹ تک پکا رہتا ہے ۔
+4. مونگ‌پھلی کو ایک کھانے میں اور 200 ° س .
+:::

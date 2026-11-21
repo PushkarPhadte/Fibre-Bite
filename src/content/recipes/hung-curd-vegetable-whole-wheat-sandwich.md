@@ -100,3 +100,39 @@ prepTimeEstimated: true
 3. उरलेल्या ब्रेड स्लाइसने झाका, हलकेच दाबा आणि गरम हवे असल्यास कोरड्या तव्यावर प्रत्येक बाजू 2 मिनिटे भाजा.
 4. तिरपे कापून वाढा.
 :::
+
+:::lang en
+# Hung Curd and Vegetable Whole-Wheat Sandwich
+
+A crunchy cold sandwich with thick strained curd, cucumber, carrot and mint on whole-wheat bread, with no butter or mayonnaise.
+
+## Instructions
+1. Mix the hung curd with the carrot, capsicum, onion, mint, coriander, pepper and salt.
+2. Spread the mixture over two slices of bread and layer with cucumber.
+3. Top with the remaining bread, press gently and toast on a dry pan for 2 minutes per side if you prefer it warm.
+4. Cut diagonally and serve.
+:::
+
+:::lang bn
+# হাং কারড এবং নিরামিষভোজ
+
+ঘন স্যাঁতসেঁতে ঘন স্যাঁতসেঁতে ঠাণ্ডা স্যান্ডউইচ, ফলের বাগান, গাজর আর মিট রুটি, কোন মাখন বা ক্যান দিয়ে।
+
+## Instructions
+1. এদের মধ্যে কয়েকটার মধ্যে একটা হল, “শীতল । ”
+2. ফলের দুই টুকরো রুটি ও স্তর ছড়িয়ে দিন ।
+3. অবশিষ্ট রুটির উপরে, কোমলভাবে এবং টোস্ট করুন, দুই মিনিটের জন্য শুকনো প্যানে।
+4. ভিগোগলি কেটে দাও.
+:::
+
+:::lang ur
+# Hung Card اور Vegat Wheat Sandwich-
+
+ایک صلیبی سردی کا سکہ جس میں موٹی چوٹ لگی ہوئی تھی، کیکمبر، کاکڑ اور منٹ بھر کی روٹی پر مشتمل تھا، جس میں کوئی مکھن یا مکھن نہیں ہوتا۔
+
+## Instructions
+1. اِس کی ایک وجہ تو یہ ہے کہ اُس نے اِس کا استعمال کِیا ۔
+2. روٹی اور چھت کے دو حصوں پر مشتمل آمیزش کو کِیا جاتا ہے ۔
+3. اگر آپ اسے پسند کریں گے تو باقی روٹی کے ساتھ ، پریس نرمی سے اور کسی خشک پین پر بیٹھ کر 2 منٹ تک بیٹھ جائیں گے ۔
+4. کاٹ کر خدمت کریں۔
+:::

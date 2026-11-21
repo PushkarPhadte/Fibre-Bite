@@ -102,3 +102,39 @@ prepTimeEstimated: true
 3. गरम पॅन काळजीपूर्वक बाहेर काढा, उरलेले 12 ml ऑलिव्ह ऑईल त्यात फिरवून पसरवा आणि लगेच मुरलेले पीठ ओता.
 4. 15 ते 18 मिनिटे भाजा, पीठ सेट होऊन कडा फुगलेल्या आणि सोनेरी-तपकिरी होईपर्यंत. वरून उरलेली काळी मिरी पेरा आणि गरम असतानाच काप करून वाढा.
 :::
+
+:::lang en
+# Niçoise Socca (Oven-Baked Rosemary Chickpea Flatbread)
+
+Naturally gluten-free, protein-rich Provençal chickpea flour flatbread baked in a sizzling cast-iron skillet with extra-virgin olive oil, fresh rosemary, and cracked black pepper.
+
+## Instructions
+1. Whisk the sifted chickpea flour, water, 16 ml of olive oil, chopped rosemary, half the black pepper, and salt into a smooth crepe-like batter; rest at room temperature for 30 minutes.
+2. Place a 28 cm ovenproof cast-iron skillet inside the oven and preheat to 230°C for 10 minutes until thoroughly hot.
+3. Carefully remove the hot skillet, swirl in the remaining 12 ml of olive oil, and immediately pour in the rested batter.
+4. Bake for 15 to 18 minutes until set and blistered golden-brown at the edges, scatter with the remaining black pepper, and slice into warm wedges.
+:::
+
+:::lang bn
+# নিকুসে সোক্কা (ওভেন-বার্মা মুরগির মাংসের মাংস)
+
+স্বাভাবিকভাবে হাসি-মুক্ত, প্রোটিন-চেঞ্জনচাঁচাঁচাঁচাচাঁড় দিয়ে তৈরি আঙ্গুরের তৈরি মুকাদানি, তাজা গোলাপ, আর কালো মরিচ।
+
+## Instructions
+1. আখড়ার আটা, পানি, ১৬ মিলিটারী, গোলাপের টুকরো, কালো মরিচের অর্ধেক, এবং লবণকে মসৃণ শর্করার মতো মসৃণ করা হয়েছে; রুম তাপমাত্রা ৩০ মিনিট পর্যন্ত।
+2. এক ২৮ সেন্টিমিটার চুলা প্রোমোশনের মধ্যে দিয়ে দাও,ভেনের ভেতর থেকে ২৩০ পাউন্ড পর্যন্ত গরম না হওয়া পর্যন্ত।
+3. তাই, এতে অবাক হওয়ার কিছু নেই যে, আপনি হয়তো ভাবতে পারেন: “আমি কী করতে পারি? ”
+4. কেক ১৫ থেকে ১৮ মিনিট পর্যন্ত নির্ধারিত এবং ক্ষতের প্রান্তে সোনালী-বর্জন, অবশিষ্ট গোল কালো মরিচের সাথে ছড়িয়ে পড়ে এবং টুকরো টুকরো করে গরম হয়ে যায়।
+:::
+
+:::lang ur
+# Niçoise سوکا (Oven-Baked Rosemary Chickpea Flat Markey)۔
+
+قدرتی طور پر بے چینی، پروٹین-کرن-چر پرونکے پروینچا پانڈے کے آٹے کے آٹے میں پکایا جاتا ہے جس میں مزید تیل کے تیل، تازہ تیل اور گیلے کالے رنگ کے تیل سے پکایا جاتا ہے۔
+
+## Instructions
+1. وِسَوَّكَ قَوْمَةَ عَلَيْهُمْ عَلَيْهُمْ عَلَيْهُمَى عَلَيْهُمْ عَلَيْهُمْ أَلَيْهُمُونَ سانچہ:قرآن-سورہ 25 آیت 30۔۔
+2. ایک 28 سم کے اوون دار الحکومت کوپر اور پہلے سے 230°C تک 10 منٹ تک گرم کرنے کے بعد اس میں سوراخ کریں ۔
+3. زیتون کے تیل کے باقی ۱۲ ملی‌میٹر میں گرم مہارت کو ہٹا کر فوراً آرام‌دہ حملہ‌آوروں میں پھینک دیں ۔
+4. 15 سے 18 منٹ تک، جب تک سیٹ اور کناروں پر سنہری گنبد نصب نہیں کیا گیا، باقی سیاہ رنگوں کے ساتھ بکھرے ہوئے، اور گیلے گرم رنگوں میں.
+:::

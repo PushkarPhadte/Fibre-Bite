@@ -101,3 +101,39 @@ prepTimeEstimated: true
 3. ताहिनी, लिंबाचा रस, पाणी आणि उरलेले मीठ फेटून एकत्र करा.
 4. वाडग्यांत सर्व पदार्थ मांडून वरून ड्रेसिंग घाला.
 :::
+
+:::lang en
+# Roasted Vegetable Chickpea Buddha Bowl
+
+Roasted sweet potato and broccoli with chickpeas and quinoa, finished with lemon-tahini dressing.
+
+## Instructions
+1. Toss the sweet potato, broccoli and chickpeas with the oil, paprika and half the salt and roast at 210 °C for 25 minutes.
+2. Cook the quinoa in 180 ml water for 14 minutes and fluff.
+3. Whisk the tahini, lemon juice, water and remaining salt.
+4. Assemble the bowls and drizzle with the dressing.
+:::
+
+:::lang bn
+# মাংসের মাংসের মাংস
+
+মিষ্টি আলু এবং ব্রোকোলি নামক মিষ্টি এবং মিষ্টির মত মিষ্টি, আর তানিয়া দিয়ে তৈরি।
+
+## Instructions
+1. মিষ্টি আলু, ব্রোচিলি আর মুরগীর জন্য তেল, পম্পিকা আর অর্ধেক লবণ আর ২৫ মিনিট ধরে রান্না।
+2. ১৮ মিনিট পানি আর ফ্লুর জন্য কোঙ্কার রান্না করো।
+3. হুইস্কি টহনি, লেবুর জুস, পানি আর লবণ বাকি।
+4. বাটি নিয়ে আসো আর ড্রেসিং এর সাথে মিশিয়ে নাও.
+:::
+
+:::lang ur
+# داخلے کے عملے میں Chickpea Budavl شامل ہیں۔
+
+شہد کی مکھیوں اور برکلے کے ساتھ غسل کیا جاتا ہے، جنکو کھانے پینے کے کپڑے سے ختم کیا جاتا ہے۔
+
+## Instructions
+1. تیل ، پُرکیکا اور آدھا نمک اور اُس میں ۲۵ منٹ تک پکایا جاتا ہے ۔
+2. کوکو 180 میل کے پانی میں 14 منٹ اور اِس سے نیچے پانی ڈالا جاتا ہے ۔
+3. اِس میں نمک اور نمک شامل ہیں ۔
+4. برتنوں اور برتنوں کو پہن کر جمع کریں۔
+:::

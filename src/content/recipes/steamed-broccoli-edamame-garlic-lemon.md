@@ -93,3 +93,36 @@ prepTimeEstimated: true
 2. ब्रोकोली ४ मिनिटे वाफवा, नंतर सोललेले एडामामे घाला आणि दोन्ही भाज्या मऊ पण किंचित कुरकुरीत होईपर्यंत आणखी ३ ते ४ मिनिटे वाफवा.
 3. भाज्या एका भांड्यात काढा आणि ऑलिव्ह ऑइल, लिंबाचा रस व बारीक चिरलेला लसूण घालून हलवा.
 :::
+
+:::lang en
+# Steamed Broccoli and Edamame with Garlic Lemon
+
+Vibrant steamed broccoli florets and shelled edamame tossed with minced garlic, fresh lemon juice, and olive oil.
+
+## Instructions
+1. Bring water to a simmer in a steamer pot and place broccoli florets in the steamer basket.
+2. Steam broccoli for 4 minutes, add shelled edamame, and steam for another 3 to 4 minutes until tender-crisp.
+3. Transfer to a bowl and toss with olive oil, lemon juice, and minced garlic.
+:::
+
+:::lang bn
+# কনস্টেবল ব্রোক্লোলি এবং এডামিয়াম
+
+ভিব্রেট ব্রোক্রলি ফুলদানি, রসুন, তাজা লেবুর জুস ও জলপাই তেল দিয়ে তৈরি করা হতো ।
+
+## Instructions
+1. গরম জল নিয়ে আসুন ।
+2. ৪ মিনিটের জন্য স্টেম ব্রোকোলি, যুক্ত করা হয়েছে ডোম এবং আরো ৪ থেকে ৪ মিনিটের জন্য স্টীম।
+3. একটা বাটি এবং তরুসার সাথে জলপাই, লেবুর জুস এবং পচনযুক্ত রসুন নিয়ে যায় ।
+:::
+
+:::lang ur
+# استامال براککولی اور ایڈمنٹن گارکل لیمون کے ساتھ ہیں۔
+
+اِس کے بعد اُس نے لہسن ، تازہ لہسن اور زیتون کے تیل کو ملا کر اِس کی تہ میں ڈال دیا ۔
+
+## Instructions
+1. پانی کو ایک برتن میں ڈال کر برکلے کے فرش پر پانی ڈالیں ۔
+2. سٹیم برکلے 4 منٹ تک، شڈڈ ادمے اور دیگر 3 سے 4 منٹ کے لیے جب تک مہربانہ-کریسپ تک.
+3. ایک پیالے اور زیتون کے تیل ، ٹماٹر کے جوس اور مونگ‌پھلی میں منتقل ہو جاتے ہیں ۔
+:::

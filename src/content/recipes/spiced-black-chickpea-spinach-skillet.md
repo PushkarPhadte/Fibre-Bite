@@ -108,3 +108,39 @@ prepTimeEstimated: true
 3. शिजवलेले काळे हरभरे, ठेचलेले टोमॅटो आणि पाणी मिसळा; मिश्रण घट्ट होण्यासाठी झाकण न ठेवता १२ मिनिटे मंद आचेवर शिजवा.
 4. बेबी पालक थोडा-थोडा घालून तो नुकताच कोमेजेपर्यंत मिसळा; गरमागरम वाढा.
 :::
+
+:::lang en
+# Spiced Black Chickpea and Spinach Skillet
+
+Hearty kala chana simmered with crushed tomatoes, toasted coriander, cumin, and fresh baby spinach.
+
+## Instructions
+1. Heat olive oil in a skillet over medium heat and cook chopped onion for 5 minutes until translucent.
+2. Add garlic, cumin, and coriander, stirring for 30 seconds until aromatic.
+3. Stir in cooked black chickpeas, crushed tomatoes, and water; simmer uncovered for 12 minutes to thicken.
+4. Fold in baby spinach in batches until just wilted, then serve warm.
+:::
+
+:::lang bn
+# wited ব্ল্যাক মুরগী এবং স্পিনকা দক্ষতার খেলা
+
+হৃৎপিণ্ড টমেটো, টোস্ট টিয়ান্ডার, সার্মামিন এবং তাজা শিশু স্পিনে সজ্জিত হৃৎপিণ্ড।
+
+## Instructions
+1. প্রচুর পরিমাণে গরম ও রান্না করার সময় গরমের পরিমাণ বৃদ্ধি পায় ।
+2. রসুন, হরেল আর কোষ্ঠার, ৩০ সেকেন্ডের জন্য প্রেরণা দেয়...
+3. রান্না করা কালো মুরগি, চূর্ণ টমেটো এবং জল; সহজ - সরলভাবে ১২ মিনিট পুরু হতে পারে ।
+4. কিছুক্ষণের মধ্যেই সব ঠিক হয়ে যাবে.
+:::
+
+:::lang ur
+# اسپیسڈ بلیک چیکپا اور اسپینک اسکیللیٹ ہیں۔
+
+دل‌وجان سے خدا کی خدمت کرنے والے لوگوں کی تعداد بڑھتی گئی ۔
+
+## Instructions
+1. زیتون کے تیل کو درمیانے گرم درجۂ‌حرارت سے زیادہ درجہ‌حرارت پر رکھ کر ۵ منٹ تک اُبالنے کی صلاحیت رکھتا ہے ۔
+2. اِس میں لہسن ، آلو اور کوریاندر شامل کِیا جاتا ہے ۔
+3. اِس کے بعد اُس نے اِسے دوبارہ پکایا ۔
+4. اِس کے بعد اُس کی خدمت کریں ۔
+:::

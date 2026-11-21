@@ -132,7 +132,7 @@
 
 <svelte:head>
 	<title>{t('browse.title')} | Fibre-Bite</title>
-	<meta name="description" content="Find recipes by ingredient, dietary tag, or nutrition and scale servings to fit your table." />
+	<meta name="description" content={t('meta.recipesDescription')} />
 </svelte:head>
 
 <main class="page-enter mx-auto max-w-7xl space-y-8 px-5 py-8 sm:px-8 md:py-12">

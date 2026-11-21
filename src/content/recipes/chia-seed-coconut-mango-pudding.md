@@ -80,3 +80,39 @@ prepTimeSource: 'https://runningonrealfood.com/mango-chia-seed-pudding/'
 3. वाढण्याच्या ग्लासमध्ये थंड चिया पुडिंग आणि ताज्या आंब्याच्या प्युरीचे थर लावा.
 4. थंडच वाढा.
 :::
+
+:::lang en
+# Chia Seed Coconut Mango Pudding
+
+A creamy tropical pudding made by soaking chia seeds in coconut milk, topped with fresh mango puree.
+
+## Instructions
+1. Whisk together chia seeds, coconut milk, maple syrup, and vanilla extract in a jar.
+2. Let sit for 10 minutes, stir again to prevent clumping, and refrigerate for at least 4 hours.
+3. Layer chilled chia pudding with fresh mango puree in serving glasses.
+4. Serve cold.
+:::
+
+:::lang bn
+# চিয়া বীজ বোনু মঙ্গো পুডিং
+
+নারিকেলের দুধে শুকানোর ফলে এক ক্রিমের পুডিং বীজ তৈরি হয়।
+
+## Instructions
+1. চিনা বীজ, নারিকেল দুধ, ম্যাপ সিরাপ এবং টমেটো এক কলেরা সংগ্রহ করে ।
+2. ১০ মিনিটের জন্য বসে থাকুন, আবার উত্তেজিত হবেন, আর কমপক্ষে ৪ ঘন্টা কাজ করবেন।
+3. স্তরটা ঠাণ্ডা হয়ে গেলো, তাজা আমের সাথে চশমার বদলে।
+4. ঠান্ডায় কাজ করো।
+:::
+
+:::lang ur
+# چیہ سیّد کِن‌گو پُونگ
+
+ناریل کے دودھ میں چیا کے بیج تیار کئے جانے سے ایک کریمی‌فی‌فیکُن روایتی پکوان تیار کِیا جاتا ہے ۔
+
+## Instructions
+1. وِسک نے چییا بیج ، ناریل کا دودھ ، میپل سروپ اور ونیلا کو ایک برتن میں ملا کر نکال دیا ۔
+2. 10 منٹ کے لئے بیٹھ جائیں، دوبارہ شروع کریں، اور کم از کم 4 گھنٹے تک اس کی مرمت کریں۔
+3. شیشے کی خدمت کرنے میں انہیں تازہ‌دم کر دیا گیا ۔
+4. سرد خدمت.
+:::

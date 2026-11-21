@@ -85,3 +85,39 @@ prepTimeSource: 'https://www.whollytasteful.com/polish-beet-salad-buraczki/'
 3. ऑलिव्ह तेल, मीठ आणि मिरी घाला.
 4. चांगले एकत्र करा आणि वाढण्यापूर्वी १५ मिनिटे तसेच ठेवा.
 :::
+
+:::lang en
+# Polish Beetroot and Apple Salad
+
+A crisp, colorful Polish salad combining shredded cooked beets, tart apples, lemon juice, and cold-pressed oil.
+
+## Instructions
+1. Grate cooked beets and tart green apple into a bowl.
+2. Drizzle immediately with lemon juice to keep apple bright.
+3. Add olive oil, salt, and pepper.
+4. Toss well and let sit for 15 minutes before serving.
+:::
+
+:::lang bn
+# পোলিশ বিটেটইউ এবং আপেল সালাদ
+
+একটি উজ্জ্বল পোলিশ সালাদের মিশ্রণের সাথে মিলে রান্না করা হয়।
+
+## Instructions
+1. মদ রান্না করা আর সবুজ আপেলকে এক বাটি বাটি হাতে তুলে দেয়া হয়।
+2. সাথে লেবুর রস দিয়ে হালকা বৃষ্টি হবে।
+3. জলপাই তেল, লবণ এবং মরিচ দিয়ে দাও।
+4. ভাল এবং কাজ করার আগে ১৫ মিনিট বসতে দাও।
+:::
+
+:::lang ur
+# پولش بیورو اور ایپل سالاد
+
+ایک کریسپ ، رنگین پولینڈ کے کیمیائی مرکبات کو ملانے کے بعد اسے پکایا جاتا ہے ۔
+
+## Instructions
+1. گرے ہوئے برتنوں اور تار سبز سیب کو ایک پیالے میں پکایا جاتا ہے۔
+2. سیب کو روشن رکھنے کے لئے ٹماٹر کے جوس کے ساتھ فوری طور پر زہریلا ہوتا ہے ۔
+3. زیتون کا تیل ، نمک اور پنیر شامل کریں ۔
+4. اچھی طرح خدمت کرنے سے پہلے 15 منٹ تک بیٹھ جائیں ۔
+:::

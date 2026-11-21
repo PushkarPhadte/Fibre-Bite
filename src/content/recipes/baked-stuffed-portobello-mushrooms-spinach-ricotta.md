@@ -90,3 +90,39 @@ prepTimeEstimated: true
 3. पोर्टोबेलोच्या छत्र्यांना उरलेले ऑलिव्ह तेल लावा. गिल्सची बाजू वर करून बेकिंग शीटवर ठेवा आणि पालक-रिकोटाचे सारण चमच्याने भरा.
 4. मशरूम मऊ आणि सारण गरम होईपर्यंत 18 ते 20 मिनिटे बेक करा.
 :::
+
+:::lang en
+# Baked Stuffed Portobello Mushrooms with Spinach and Ricotta
+
+Meaty portobello mushroom caps filled with wilted spinach, part-skim ricotta, garlic, and herbs, baked until tender.
+
+## Instructions
+1. Preheat the oven to 195 C and lightly oil a baking sheet.
+2. Warm half the olive oil in a skillet and cook garlic and chopped spinach for 3 minutes until wilted, then mix with ricotta and dried basil.
+3. Brush portobello caps with remaining olive oil, place gill-side up on the baking sheet, and spoon in the spinach ricotta filling.
+4. Bake for 18 to 20 minutes until mushrooms are tender and filling is hot.
+:::
+
+:::lang bn
+# স্পিনচ এবং রিকোটা দিয়ে সাজানো পোর্টোবেলো মুশরুম
+
+মেটলি পোর্টবোলো মাশরুম ভর্তি হয়ে গেছে।
+
+## Instructions
+1. প্রত্নতা ১৯৫ C থেকে ১৯৫ টা পর্যন্ত ও হালকা ভাবে তেল পাতা.
+2. এরপর রসুনের শূককীট ও শুকনো বেঙ্গলের সঙ্গে মিশতে শুরু করে ।
+3. অর্কিড বন্দরবোলোতে অবশিষ্ট জলপাই তেল, বেকিং পেপারের পাশে, আর চামচের চামড়ায় ভরা।
+4. ১৮ থেকে ২০ মিনিটের জন্য কেক যতক্ষণ না মাশরুম কোমল আর পূর্ণ হয় ততক্ষণ পর্যন্ত।
+:::
+
+:::lang ur
+# Baeded Stafed Portobello Mushomes with Spinach اور Ricota
+
+میاٹی پورتوبلو کیپلوں سے بھرے ہوئے رسیوں، حصہ رستم ریکٹا، لہسن اور جڑی بوٹیوں سے بھرے ہوئے تھے۔
+
+## Instructions
+1. اِس کی ایک وجہ تو یہ ہے کہ اُس نے اِس کے بارے میں کہا تھا کہ ” مَیں اُس کا شکر ادا کروں گا ۔ “
+2. اِس کے بعد زیتون کے تیل کو اچھی طرح سے پکایا جاتا ہے ۔
+3. زیتون کے تیل کے باقی بچ جانے کے ساتھ ساتھ ، گلی پروں کے فرش پر رکھیں اور ریڑھ کی ہڈی بھر میں سوراخ کریں.
+4. 18 سے 20 منٹ تک بینکوں میں نرم اور بھرنا گرم رہتا ہے۔
+:::

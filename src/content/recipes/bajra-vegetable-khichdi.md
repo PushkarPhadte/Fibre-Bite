@@ -103,3 +103,39 @@ prepTimeEstimated: true
 3. गाजर, वाटाणे, हळद, मीठ, बाजरी, डाळ आणि पाणी घाला.
 4. 5 शिट्ट्या होईपर्यंत प्रेशर कुकरमध्ये शिजवा (किंवा झाकण ठेवून मंद आचेवर 40 मिनिटे शिजवा), मिश्रण मऊ होऊन पेजेसारखे होईपर्यंत; खूप घट्ट झाल्यास पाणी घाला.
 :::
+
+:::lang en
+# Bajra Vegetable Khichdi
+
+Whole pearl millet and yellow moong dal cooked with vegetables in one pot.
+
+## Instructions
+1. Drain the soaked bajra and rinse the moong dal.
+2. Heat the oil, splutter the cumin, then cook the onion and ginger for 3 minutes.
+3. Add the carrot, peas, turmeric, salt, bajra, dal and water.
+4. Pressure cook for 5 whistles (or simmer covered for 40 minutes) until soft and porridge-like; add water if too thick.
+:::
+
+:::lang bn
+# বাজরা ভেজেতিচি
+
+পুরো মুক্তা মিল এবং হলুদ চাঁদা লড এক পাত্রের মধ্যে সবজি দিয়ে রান্না করা হয়েছে ।
+
+## Instructions
+1. কা. পূ.
+2. তেল ঢালে, ধূমপায়ী করে তারপর তিন মিনিট পর রান্না করে।
+3. চাকা, মটরশুঁটি, টুরিচ, লবণ, ব্রারা এবং জল যোগ করুন ।
+4. ৫ হুইসেলের জন্য বায়ু রান্না (বা স্মারকে ঢেকে রাখা হয়েছে ৪০ মিনিট পর্যন্ত) যতক্ষণ না নরম আর চালের মত পানি আসে, ততক্ষণ পর্যন্ত পানি যোগ করা যাবে।
+:::
+
+:::lang ur
+# باجرہ واجد مخدوئی۔
+
+موتیوں کی بہتات ہوتی ہیں اور زرد رنگ کے چاند کو ایک برتن میں سبزیوں سے پکایا جاتا ہے ۔
+
+## Instructions
+1. Drain the Suaked Bajra and rung Dal.
+2. تیل کو صاف کرنے کے بعد اُس کو اِس طرح پکایا جاتا ہے کہ اُس نے اُس کا کھانا پکایا ۔
+3. اس میں چاول، پائیس، ٹرمیر، نمک، باجرہ، دال اور پانی شامل کیا جاتا ہے۔
+4. اگر بہت زیادہ موٹی ہو تو پانی جمع کریں ۔
+:::

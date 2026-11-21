@@ -115,3 +115,39 @@ prepTimeEstimated: true
 3. लोखंडी पनियारम (ऐबलस्किव्हर) पात्र मध्यम-कमी आचेवर आधी गरम करा आणि प्रत्येक कप्प्याला उरलेले 10 मिलीलीटर सूर्यफूल तेल हलके लावा.
 4. प्रत्येक कप्प्यात तीन-चतुर्थांश पीठ भरा आणि झाकण ठेवून 3 मिनिटे शिजवा, खालची बाजू सोनेरी होईपर्यंत. मग लाकडी सळीने उलटून बाहेरून कुरकुरीत आणि आतून हलके व मऊ होईपर्यंत आणखी 2 ते 3 मिनिटे शिजवा.
 :::
+
+:::lang en
+# Kuzhi Paniyaram (South Indian Fermented Rice and Lentil Dumplings)
+
+Crisp-edged, fluffy South Indian savory dumplings cooked in a cast-iron paniyaram pan using naturally fermented brown rice and black gram batter studded with carrots and onions.
+
+## Instructions
+1. Heat 6 ml of sunflower oil in a small pan, splutter the mustard seeds and chopped curry leaves, sauté the onion and green chili for 2 minutes, and cool slightly.
+2. Fold the tempered aromatics, grated carrot, chopped cilantro, and salt into the fermented brown rice and urad dal batter until evenly distributed.
+3. Preheat a cast-iron paniyaram (aebleskiver) pan over medium-low heat and brush each cavity lightly with the remaining 10 ml of sunflower oil.
+4. Fill each cavity three-quarters full with batter, cover for 3 minutes until the undersides turn golden brown, then flip with a wooden skewer and cook 2 to 3 minutes more until crisp outside and airy inside.
+:::
+
+:::lang bn
+# কুঝই পানিয়ারাম (দক্ষিণ ভারতীয় ফুটবল সংস্থা)
+
+ক্যারিসপেড, ফ্লুফরি দক্ষিণ ভারতীয় টরন প্যানিয়ারাম প্যানরামের রান্নায় রান্না করা হয়েছে।
+
+## Instructions
+1. অল্প সময়ের মধ্যে সূর্যমুখী তেল, সরিষাদানার বীজ এবং সসেজ পাতা, শূককীট এবং সবুজ চিলিকে ২ মিনিট শান্ত করে ।
+2. তাই, এটা পরিষ্কার যে, আপনি আপনার চোখের জল আটকে রাখতে পারেন ।
+3. মাঝারি তাপের উপর প্যানিয়ারাম (এলাওনস্কিভার) প্যানকেটে প্রতিটি ক্যাভিটি সূর্যমুখী তেল দিয়ে হালকাভাবে ফুটে উঠেছে।
+4. প্রতিটি ক্যাটাগরিতে তিন মিনিট পূর্ণ থাকে, তিন মিনিটের জন্য তার নীচে সোনার বাদামি বদলে দুই মিনিট ঢেকে যায়, এরপর একটি কাঠের সিকির এবং রান্নার জন্য ২ থেকে ৩ মিনিট বাকী থাকে।
+:::
+
+:::lang ur
+# کوژی پنیارام (South Indian Fermented Rice and Lentil Dumplings)۔
+
+Crisp-eded, voley South Indian somery bollings a Caston-ron-niyaram Pan میں پکایا جاتا ہے جو قدرتی طور پر بھورے رنگ کے چاول اور کالے گرام پر تشدد سے بھرا ہوتا ہے۔
+
+## Instructions
+1. چھوٹے پن میں سورج کے تیل کی ۶ ملی گرام مقدار ، رائی کے بیج اور اُس کے پتوں کو ملا کر رکھ دیا جاتا ہے ۔
+2. جب تک تقسیم نہ ہو جائے حلیم‌دار خوشبودار خوشبودار ، زہریلے پھول ، سُرخ چاول اور نمک میں تبدیل نہیں ہوتا ۔
+3. پروہت ایک کاسٹ پنیارام (Aebleskiver) اوسط درجہ حرارت کے ساتھ پندرہ گنا زیادہ اور ہر چاول کو سورج کے تیل کے باقی 10 میل کے ساتھ تراشتا ہے۔
+4. ہر تین مربعز سے بھرپور بھرتے ہیں، 3 منٹ تک اس وقت تک چھپا رہتا ہے جب تک کہ تیندوے سنہری بھورے رنگ کا رخ کرتے ہیں، پھر لکڑی کے سکہ سے بھر کر 2 سے 3 منٹ تک کھانا پکاتے ہیں یہاں تک کہ باہر اور ہوا کے اندر بھی کر دیتا ہے۔
+:::

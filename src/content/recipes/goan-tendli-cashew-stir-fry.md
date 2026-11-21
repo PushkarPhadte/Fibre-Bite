@@ -116,3 +116,42 @@ prepTimeEstimated: true
 4. झाकण ठेवून मध्यम-मंद आचेवर 14 ते 16 मिनिटे शिजवा. मध्ये मध्ये ढवळा; तोंडली नरम-कुरकुरीत होईपर्यंत आणि ओलावा आटेपर्यंत शिजवा.
 5. ताजा किसलेला नारळ मिसळा, झाकण न ठेवता 2 मिनिटे शिजवा आणि गरम वाढा.
 :::
+
+:::lang en
+# Goan Tendli Cashew Bhaji (Ivy Gourd Stir-Fry)
+
+Crisp coastal Goan stir-fry of sliced ivy gourd and tender soaked cashews seasoned with mustard seeds, kokum, and freshly grated coconut.
+
+## Instructions
+1. Heat the sunflower oil in a wide skillet over medium heat and temper the mustard seeds, curry leaves, and slit green chili for 30 seconds.
+2. Add the sliced onion and sauté for 3 minutes until softened, then stir in the turmeric and coriander powder.
+3. Toss in the quartered ivy gourd, drained cashews, kokum petals, salt, and 50 ml of water.
+4. Cover and cook over medium-low heat for 14 to 16 minutes, stirring occasionally, until the ivy gourd is tender-crisp and moisture has evaporated.
+5. Fold in the freshly grated coconut, cook uncovered for 2 minutes, and serve warm.
+:::
+
+:::lang bn
+# Gondi Chuli ভাইজি (ইভি গোর-ফী)
+
+ক্রিসপ উপকূলীয় গোনন-এর মাংসের টুকরোর টুকরো, আর টরেন্টের তেল, কুকুম আর তাজা নারিকেল দিয়ে তৈরি।
+
+## Instructions
+1. কিন্তু, সূর্যের ওপর প্রচুর প্রভাব রয়েছে ।
+2. এরপর নরম করার আগে পর্যন্ত তিন মিনিট কেটে যায়, এরপর টরমেরিক ও কোরিয়ান্ডার পাউডারে ছড়িয়ে পড়ে ।
+3. প্রায় ৫০ মিটার পানির মধ্যে অবস্থিত আইভি গাছ, যা নগদ টাকা, কুকুম পাপড়ি, লবণ এবং ৫০ মিটার পানির মধ্যে ফেলে দেয়।
+4. পরিমাপ এবং রান্নার পরিমাণ ১৪ থেকে ১৬ মিনিট পর্যন্ত বেড়ে ১৬ মিনিট পর্যন্ত বৃদ্ধি পায়, মাঝে মাঝে কেঁপে ওঠে, যতক্ষণ না আইভি নামক গাছ কোমল-চাপ হয়ে যায় এবং শ্বাসরুদ্ধ হয়ে যায়।
+5. গরম নারিকেলে ভরে যায়, ২ মিনিটের জন্য রান্না করা ও গরম পরিবেশন করা হয় ।
+:::
+
+:::lang ur
+# گوان تندلی کیشو بھاجی (Ivy Gourd Fry)
+
+کریسپ ساحلی گین کو حرکت دیتے ہوئے انفنٹری کے درخت اور نرم نرم و نازک کرنسیوں کو تیار کیا جاتا تھا جس میں رائی کے دانے، کوکوم اور تازہ نازک ناریل کے دانے ہوتے تھے۔
+
+## Instructions
+1. سورج‌مکھی کے تیل کو درمیان میں گرم گرم کرنے اور رائی کے دانے ، پتوں کے پتوں اور ۳۰ سیکنڈ تک ہرے پتوں کو آلودہ کرنے میں مدد دیتے ہیں ۔
+2. اِس کے بعد اِن میں سے تین منٹ تک اِن میں سے تین منٹ کے لیے اِستعمال ہوتے ہیں ۔
+3. اِس درخت کے قطرے میں توزے ، پیسوں ، کوکوم پترال ، نمک اور 50 ملی‌میٹر پانی شامل ہیں ۔
+4. 14 سے 16 منٹ تک اوسط درجہ حرارت کو ڈھانپ کر رکھ دیں، وقتاً فوقتاً آگے بڑھ جاتا ہے، یہاں تک کہ اُس درخت کو نرم کر دیا جاتا ہے اور اُس کا ذائقہ ٹھنڈا ہو جاتا ہے۔
+5. ناریل کے تازہ‌ترین ناریل میں نشوونما پانے ، ۲ منٹ تک پکانے اور گرم ہونے کی وجہ سے اُس کی خدمت کرنے کے قابل ہوئے ۔
+:::

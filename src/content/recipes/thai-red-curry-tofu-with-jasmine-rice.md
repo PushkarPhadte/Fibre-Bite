@@ -90,3 +90,39 @@ prepTimeSource: 'https://minimalistbaker.com/1-pot-thai-red-curry/'
 3. हलके नारळाचे दूध आणि सोया सॉस घालून उकळी आणा; मग कापलेली ढोबळी मिरची आणि झुकिनी घाला.
 4. टोफू पुन्हा करीमध्ये घाला, 5 मिनिटे मंद आचेवर शिजवा आणि जॅस्मिन भातावर गरम वाढा.
 :::
+
+:::lang en
+# Thai Red Curry Tofu with Jasmine Rice
+
+Crispy tofu and mixed vegetables simmered in aromatic Thai red curry paste and coconut milk, served over jasmine rice.
+
+## Instructions
+1. Heat coconut oil in a pan and sear tofu cubes until golden on all sides; set aside.
+2. In the same pan, fry Thai red curry paste for 1 minute until fragrant.
+3. Pour in light coconut milk and soy sauce, bring to a simmer, then add sliced bell pepper and zucchini.
+4. Return tofu to the curry, simmer for 5 minutes, and serve hot over jasmine rice.
+:::
+
+:::lang bn
+# থাই রেড কারি টফু জেসমিন রাইস এর সাথে
+
+এর ফলে প্রচুর পরিমাণে চিনি উৎপাদন করা হয় ।
+
+## Instructions
+1. নারিকেলের তেল প্যান এবং সমুদ্রতট টফু কিউবের তেল সবদিক থেকে সোনার তাল পর্যন্ত রাখুন ।
+2. একই প্যানে থাই লাল পেস্টি এক মিনিটের জন্য আমদানি করা হয়, যতক্ষণ না ফ্রান্টিয়ানরা তাদের সাহায্য করে।
+3. হালকা নারিকেল দুধ এবং সয়া সস, এক সাধারণ সস, এরপর মরিচ এবং জকুনি যোগ করে।
+4. পাঁচ মিনিটের জন্য টফুতে ফিরে আসুন, সিমমের কাছে, আর গরম সাসমিন চালের জন্য।
+:::
+
+:::lang ur
+# جسمین رائس کے ساتھ تھائی ریڈ کیوری توفو
+
+خوشبودار تیل اور ناریل کے دودھ سے بنے ہوئے سبزیوں کو ملا کر جیسمین چاول کی خدمت انجام دی ۔
+
+## Instructions
+1. ناریل کا تیل ہر طرف سونے کے تیل کے برابر ہوتا ہے ۔
+2. اسی نان میں فری تھائی سرخ رنگ کی گیند 1 منٹ تک خوشبو آتی ہے۔
+3. اِس کے بعد اِس میں بال اور ناک کا رس شامل ہوتا ہے ۔
+4. اِس کے بعد اُس نے اپنے شوہر سے کہا : ” مَیں اِس بات کی قدر کرتا ہوں کہ مَیں اُس کی خدمت کر رہا ہوں ۔ “
+:::

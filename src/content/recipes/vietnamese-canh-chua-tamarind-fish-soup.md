@@ -124,3 +124,42 @@ prepTimeEstimated: true
 4. पांढऱ्या माशांचे तुकडे आणि भेंडीचे तुकडे हलक्या हाताने खाली करा, मध्यम-मंद आचेवर 5 मिनिटे मासे अपारदर्शक होईपर्यंत आणि भेंडी कोमल-कुरकुरीत होईपर्यंत शिकार करा.
 5. गॅस बंद करा, कुरकुरीत मूग स्प्राउट्समध्ये हलवा आणि वर चिरलेली कोथिंबीर आणि स्कॅलियन्स सह उदारपणे हलवा.
 :::
+
+:::lang en
+# Vietnamese Canh Chua (Sweet-and-Sour Tamarind Pineapple Fish Soup)
+
+Bright Mekong Delta soup balancing tangy tamarind, juicy fresh pineapple, tomatoes, okra, crisp mung bean sprouts, and tender white fish finished with fresh herbs.
+
+## Instructions
+1. Heat the sunflower oil in a soup pot over medium heat and sauté the minced shallots and sliced garlic for 1 minute until fragrant.
+2. Pour in 900 ml of water, the strained tamarind liquid, and reduced-sodium fish sauce, bringing the broth to a lively simmer.
+3. Add the pineapple wedges and tomato wedges and simmer for 4 minutes so their natural sweetness infuses the tangy broth.
+4. Gently lower in the white fish chunks and sliced okra, poaching on medium-low heat for 5 minutes until the fish turns opaque and okra is tender-crisp.
+5. Turn off the heat, stir in the crisp mung bean sprouts, and top generously with chopped cilantro and scallions.
+:::
+
+:::lang bn
+# ভিয়েতনামের কান চুয়া (সুয়েট-এবং সার্ডিন পিনেইন মাছ সোয়েপ)
+
+ব্রাইড বদ্বীপের সুপ টিংরিমান্দ, রসিক তাজা আনার পিন, টমেটো, ওয়রা, সিঁপু গাছ অঙ্কুরিত হয় আর কোমল সাদা রঙের মাছ তাজা ভেষজ দিয়ে শেষ হয়।
+
+## Instructions
+1. একটি স্যুপের উপর সূর্যমুখী তেল গরমের উপরে ঢালতে থাকে এবং মচমচে গাছ থেকে সসকুটি বের হয়।
+2. ৯০০ মিলিটার পানি, কোদাল টামারিড তরল, এবং কমসিয়াম মাছ সসকে কমিয়ে, যা কিনা ব্রোথকে উষ্ণ রস এনে দেয়।
+3. আনারস এবং টমেটো স্যাঁতসেঁতে ৪ মিনিট এবং সিমমের সাথে যুক্ত করুন যাতে তাদের স্বাভাবিক মিষ্টিগুলো টিংগি ব্রোথের মধ্যে ছড়িয়ে পড়ে।
+4. সাদা মাছগুলোকে ছোট করা হয় এবং টুকরো টুকরো করা হয়, পাঁচ মিনিটের জন্য মাঝারি গরমে, যতক্ষণ না মাছ আর ওনারা কোমল হয়।
+5. গরম বন্ধ করে, নিরানন্দমুঁশ হয়ে ওঠে এবং কাঁটাচামচের মতো কাঁটাগাছ হয়ে ওঠে ।
+:::
+
+:::lang ur
+# ویتنام کینہ چوآ (Sweet-and-Sour Thomind Pinap Fis Soup) (سویت-اور-Sour Tur Thomind Pinep Penaple sex -
+
+اِس کی ایک وجہ تو یہ تھی کہ اِن میں سے زیادہ‌تر لوگ اِس بات پر یقین رکھتے تھے کہ اُن کے بچے اُن سے پیار کرتے ہیں ۔
+
+## Instructions
+1. سورج‌مکھی کے تیل کو درمیان میں گرم گرم کِیا جاتا ہے اور خوشبودار وِلوٹس اور ۱ منٹ تک لہسن پکاتا ہے ۔
+2. پانی کے 900 ملی میٹر میں پانی کے ذخائر، دباؤ کی وجہ سے ٹمومنگ کا پانی کم ہو جاتا ہے اور سوڈیئم مچھلیوں کا رس کم ہو جاتا ہے، جس سے بارش کی وجہ سے پانی ایک پُرکشش لہر بن جاتا ہے۔
+3. پنجاب کے موسمِ‌گرما کو بھی شامل کِیا جاتا ہے ۔
+4. جنٹلی میں سفید مچھلیوں کے پست ہونے اور ان کی مدد سے چلنے والی حرارت پر 5 منٹ کے لیے پوکینگ کی وجہ سے جب تک مچھلی اپوایک تبدیل نہیں کر دیتی ہے اور اپرا مہربانہ کراسپ ہوتی ہے۔
+5. گرمیوں کا موسم ختم ہو جاتا ہے ، کریسپ مُونگ بن جاتی ہے اور سب سے اوپر کی جانب بہتے ہوتے ہیں ۔
+:::

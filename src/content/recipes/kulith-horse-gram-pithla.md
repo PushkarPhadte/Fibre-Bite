@@ -112,3 +112,42 @@ prepTimeEstimated: true
 4. उरलेले 250 मिली पाणी आणि मीठ घालून हलकी उकळी आणा. सतत फेटत राहून कुळथाच्या पिठाचे मिश्रण हळूहळू धार धरून ओता.
 5. झाकण ठेवून मंद आचेवर 10 मिनिटे शिजवा. मिश्रण घट्ट आणि चमकदार होईपर्यंत अधूनमधून ढवळा; वाढण्यापूर्वी ताजी कोथिंबीर मिसळा.
 :::
+
+:::lang en
+# Kulith Pithla (Maharashtrian Horse Gram Savory Porridge)
+
+Iron-rich traditional Maharashtrian comfort dish made by simmering roasted horse gram flour with crushed garlic, onions, and turmeric.
+
+## Instructions
+1. Whisk the horse gram flour with 350 ml of room-temperature water in a bowl until completely smooth with no lumps.
+2. Heat the sunflower oil in a heavy saucepan over medium heat, add the mustard seeds and curry leaves, and let them splutter for 20 seconds.
+3. Sauté the crushed garlic, green chili, and diced onion for 4 minutes until translucent, then stir in the cumin and turmeric blend.
+4. Pour in the remaining 250 ml of water and salt, bring to a gentle simmer, then slowly stream in the horse gram slurry while whisking continuously.
+5. Cover and simmer on low heat for 10 minutes, stirring occasionally until thickened and glossy, then fold in fresh cilantro before serving.
+:::
+
+:::lang bn
+# কুলিথ পিথলা (মাহারশৃন ঘোড়া, সাবোরি পোরিজ)
+
+আয়রন-চরিচ ঐতিহ্যবাহী মহারাষ্ট্রীয় সঙ্গীতের খাবার তৈরি করেছে :
+
+## Instructions
+1. একটা বাটি বাটি বাটি ভর্তি পাথরের মধ্যে ৩৫০ মিটার পানির সাথে ঘোড়ার আটা।
+2. প্রচুর সসফলে সূর্যমুখী তেলকে গরমের দিকে ঠেলে, শস্যের বীজ ও ফল যোগ করে ২০ সেকেন্ডের জন্য শ্বাসরুদ্ধ করে ।
+3. শূয়োপোকার রসুন, সবুজ চিলি আর চার মিনিট ধরে চলতে থাকে যতক্ষণ না ট্রান্সলোসেন্টের জন্য।
+4. অবশিষ্ট ২৫০ মিটার জল ও লবণের ঢালে, একটি কোমল সরল সরল সরলক নিয়ে আসুন, তারপর ঘোড়ায় আস্তে আস্তে ঘোড়ায় চড়ে ঘোড়ায় চড়ে যান, যেখানে তিমিরা থাকে ।
+5. কিন্তু, সেই সময়ের কথা চিন্তা করুন, যে - সময়ে আপনি হয়তো অসুস্থ হয়ে পড়েছেন ।
+:::
+
+:::lang ur
+# کولیتھ پتھیلا (Maharastarian گھوڑے گراہم ساہیوال پوٹھوہاری)۔
+
+لوہے کے روایتی مہاراشٹر کے آرام دہ کھانے سے جلتے ہوئے گھوڑے کے آٹے کے آٹے کو اُبالنے سے تیار کِیا جاتا ہے جس سے لہسن ، پیاز اور ٹرمیرک تیار ہوتا ہے ۔
+
+## Instructions
+1. وِسْکِکِک گرام آٹے کے ساتھ ایک برتن میں 350 ملی میٹر کمرے کے پانی کو مکمل طور پر ہموار کرنے تک.
+2. سورج‌مکھی کے تیل کو درمیان میں گرم گرم کرنے ، رائی کے بیج اور اُس کے پتوں کو ملا کر اُنہیں ۲۰ سیکنڈ تک گرم کرنے دیں ۔
+3. اِس کے بعد اُس کے معدے میں اِس کی مقدار بڑھ جاتی ہے ۔
+4. باقی 250 ملی‌میٹر پانی اور نمک میں ملا کر آہستہ آہستہ گھوڑے کے گِر جاتے ہیں ۔
+5. اِس کے بعد اُس کی خدمت کرنے سے پہلے اُسے تازہ‌دم کر دیا جاتا ہے ۔
+:::

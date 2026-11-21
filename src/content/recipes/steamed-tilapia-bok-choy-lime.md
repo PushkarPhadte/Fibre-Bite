@@ -89,3 +89,39 @@ prepTimeEstimated: true
 3. झाकण लावून 9 ते 11 मिनिटे वाफवा; टिलापिया अपारदर्शक होईपर्यंत आणि बोक चॉयचे देठ मऊ होईपर्यंत शिजवा.
 4. वरून लिंबाचा रस आणि ऑलिव्ह तेल घाला व कोथिंबिरीने सजवा.
 :::
+
+:::lang en
+# Steamed Tilapia with Bok Choy and Lime
+
+Lightly steamed tilapia fillets nestled over baby bok choy with fresh lime juice, ginger, and cilantro.
+
+## Instructions
+1. Bring water to a simmer in a steamer pot.
+2. Arrange baby bok choy on the steamer rack, place tilapia fillets on top, and scatter grated ginger over the fish.
+3. Cover and steam for 9 to 11 minutes until tilapia is opaque and bok choy stems are tender.
+4. Drizzle with lime juice and olive oil and garnish with cilantro.
+:::
+
+:::lang bn
+# বক চ এবং লাইমের সাথে স্টেম টিলাপিয়া
+
+কিন্তু, এটা খুবই সাধারণ বিষয় ।
+
+## Instructions
+1. একটি স্টিমারের কাছে পানি নিয়ে এসো।
+2. পেখম শিশু বিয়ারের কল, টিলাপিয়া উপরের দিকে ভর্তি হয়, আর মাছটার উপর দিয়ে ছড়িয়ে পড়ে।
+3. সকাল ৯টা থেকে ১১ মিনিট পর্যন্ত কভার আর স্টিম থাকবে।
+4. লাইম জুস আর জলপাই তেল আর কুড়াল দিয়ে অগ্নিসংযোগ।
+:::
+
+:::lang ur
+# استامد ٹیپیا بوکے اور لیم کے ساتھ
+
+اسکے علاوہ ، اُس نے اپنے بچوں کو کھانے پینے کی چیزیں بھی دیں ۔
+
+## Instructions
+1. ایک برتن میں پانی لاتے ہیں ۔
+2. اِس وجہ سے اُن کے بچے کو اُوپر سے اُٹھا کر اُوپر سے اُوپر رکھ دیا جاتا ہے ۔
+3. 9 سے 11 منٹ تک پردہ اور نیچے رکھوا دیتا ہے یہاں تک کہ ٹیپیا اوپیک ہو جاتی ہے اور بوکو چیک کے خلیات نرم ہوتے ہیں۔
+4. زیتون کے تیل اور زیتون کے تیل اور جِن‌کو سے حاصل ہونے والے تیل سے بھرپور فائدہ اُٹھاتے ہیں ۔
+:::

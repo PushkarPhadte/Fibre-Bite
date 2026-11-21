@@ -86,3 +86,36 @@ prepTimeEstimated: true
 2. तेल, लिंबाचा रस, ओरेगॅनो आणि मीठ फेटून घ्या.
 3. चणे, भाज्या, अजमोदा (ओवा) आणि ड्रेसिंगसह पास्ता टॉस करा.
 :::
+
+:::lang en
+# Whole Wheat Pasta Salad with Chickpeas and Cucumber
+
+A cold pasta salad with chickpeas, cucumber, tomato and a lemon-oregano dressing.
+
+## Instructions
+1. Cook the pasta until al dente, drain and rinse under cold water.
+2. Whisk the oil, lemon juice, oregano and salt.
+3. Toss the pasta with the chickpeas, vegetables, parsley and dressing.
+:::
+
+:::lang bn
+# মুরগির মাংস এবং কাউস দিয়ে সম্পূর্ণ ওয়াশটা সালাদ
+
+একটি শীতল পা কাটা সালাদ, পলা, চিনি, টমেটো আর লেবুর পোশাক।
+
+## Instructions
+1. জলস্রোতের জল কমে না আসা পর্যন্ত পাস্তাকে রান্না করুন ।
+2. তেল, লেবুর জুস আর লবণ।
+3. মৌমাছিরা, সবজি, পার্লে আর পোষাক পরে।
+:::
+
+:::lang ur
+# اِس کے علاوہ اُنہوں نے اپنی زندگی میں تبدیلیاں کیں ۔
+
+ایک سرد پس منظر جس کے ساتھ ہیپیپاس، کیکمبر، ٹماٹر اور ایک ٹماٹر-ورگانو پہنتے ہیں۔
+
+## Instructions
+1. سردی کے پانی کے نیچے اپنے مُنہ کو صاف کریں ۔
+2. تیل ، مکئی کا رس اور نمک ۔
+3. ٹوبہ، سبزیوں، ریشمی اور کپڑے کے ساتھ ساتھ بھی۔
+:::

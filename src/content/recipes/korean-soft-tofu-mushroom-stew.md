@@ -91,3 +91,36 @@ prepTimeEstimated: true
 2. टोफूचे मोठे तुकडे चमच्याने घाला आणि 5 मिनिटे मंद आचेवर शिजवा.
 3. स्ट्यूमध्ये अंडी फोडून घाला, झाकण ठेवून 3 मिनिटे शिजवा; वरून पातीचा कांदा घाला.
 :::
+
+:::lang en
+# Korean Soft Tofu Mushroom Stew
+
+A spicy, brothy stew of soft tofu, mushrooms and zucchini with a poached egg.
+
+## Instructions
+1. Cook the garlic and chilli in the oil for 30 seconds, then add the water, tamari, mushrooms and zucchini and simmer for 8 minutes.
+2. Spoon in the tofu in large chunks and simmer for 5 minutes.
+3. Crack the eggs into the stew, cover and cook for 3 minutes; top with spring onion.
+:::
+
+:::lang bn
+# কোরিয়ান সহজ টফু মশরুম
+
+একটা ডিমের সাথে নরম টফু, মাশরুম আর জুচিনি।
+
+## Instructions
+1. ৩০ সেকেন্ড তেলে রসুন আর ঠান্ডা পান, তারপর পানি, তামা, মাশরুম আর জুকচি যুক্ত করেন ৮ মিনিট ধরে।
+2. বড় মিফুতে স্পৃষ্ট এবং ৫ মিনিটের জন্য সহজ।
+3. ডিমটা চুষে, তিন মিনিটের জন্য ঢেকে এবং রান্না করে; উপরে বসন্তে।
+:::
+
+:::lang ur
+# کوریا کے سوفٹ توفو میوزیم سٹی‌وے
+
+اِس کے علاوہ اِن میں سے بہت سے لوگ اِس بات پر یقین رکھتے ہیں کہ اُن کے بچے بھی اُن سے پیار کرتے ہیں ۔
+
+## Instructions
+1. 30 سیکنڈ تک تیل میں لہسن اور چربی کو پکایا جاتا ہے جس کے بعد پانی ، دمری ، گیس اور میکینی اور 8 منٹ تک شامل ہوتا ہے ۔
+2. بڑے تالابوں میں استون اور 5 منٹ تک سوراخ کرتے رہے۔
+3. اِنڈوں کو اُوپر کی طرف رکھیں ۔
+:::

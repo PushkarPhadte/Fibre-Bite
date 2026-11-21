@@ -91,3 +91,39 @@ prepTimeEstimated: true
 3. अंड्याचा पांढरा भाग सेट होईपर्यंत 14 ते 16 मिनिटे बेक करा.
 4. वरून मिरची आणि पार्सली घाला.
 :::
+
+:::lang en
+# Avocado Baked Egg Cups
+
+Avocado halves baked with an egg in the centre and finished with pepper and chilli.
+
+## Instructions
+1. Heat the oven to 200 °C and scoop out a little extra flesh to make the hollows larger.
+2. Place the avocado halves in a small dish, crack an egg into each and season with salt and pepper.
+3. Bake for 14 to 16 minutes until the egg whites are set.
+4. Top with chilli and parsley.
+:::
+
+:::lang bn
+# এগি কাপ
+
+এটি একটি ডিম দিয়ে তৈরি একটি ডিম দিয়ে তৈরি।
+
+## Instructions
+1. চুলে জল ২০০ ডিগ্রি সেলসিয়াসে ছড়িয়ে পড়ে এবং আরেকটু অতিরিক্ত মাংস বের করে, যা কিনা বিশাল আকারের।
+2. একটা ছোট খাবারে আককাডো শিফট স্থাপন করুন।
+3. ১২ থেকে ১৬ মিনিট পর্যন্ত কেক।
+4. একদম পেচি আর পার্ললির উপরে।
+:::
+
+:::lang ur
+# ایکوکاڈو بیک اپنگ کپ
+
+اُوکادو کیول مرکزے میں انڈے کے ساتھ پکایا جاتا ہے اور اُس کے معدے اور سرسوتی سے ختم ہو جاتا ہے ۔
+
+## Instructions
+1. اِس کی وجہ یہ ہے کہ اِن میں سے زیادہ‌تر لوگ اِس کی وجہ جان جاتے ہیں ۔
+2. اِس کے بعد اُس کے انڈے کو ایک چھوٹے سے برتن میں ڈال دیں ۔
+3. 14 سے 16 منٹ تک جب تک انڈے کے سفیدے مقرر نہ ہوں۔
+4. اُوپر کو سُن کر اور اُوپر سے اُوپر کی طرف ۔
+:::

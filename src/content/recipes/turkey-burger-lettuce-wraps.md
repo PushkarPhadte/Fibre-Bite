@@ -91,3 +91,36 @@ prepTimeEstimated: true
 2. मध्यम आचेवर तेलात प्रत्येक बाजू ४ ते ५ मिनिटे शिजवा, पॅटीज पूर्ण शिजेपर्यंत.
 3. लेट्यूसच्या पानांत टोमॅटो आणि अवोकॅडोसह वाढा.
 :::
+
+:::lang en
+# Turkey Burger Lettuce Wraps
+
+Herbed lean turkey patties served in lettuce leaves with tomato and avocado.
+
+## Instructions
+1. Mix the turkey, onion, garlic, parsley, spices and salt and shape into 8 small patties.
+2. Cook in the oil over medium heat for 4 to 5 minutes per side until cooked through.
+3. Serve in lettuce leaves with tomato and avocado.
+:::
+
+:::lang bn
+# তুরস্কের বার্গার লেটুস
+
+হেরোকি পাটাতস পাতা থেকে টমেটো আর ভভোকাডো দিয়ে পরিবেশন করা হয়।
+
+## Instructions
+1. টরকি, রসুন, প্যারোলে, মসলা, মসলা আর লবণকে ৮টি ছোট পাটাতীতে একত্র করো।
+2. রান্না না হওয়া পর্যন্ত তেলে কুক ৪ থেকে ৫ মিনিটের মধ্যে তেল গরম করে।
+3. লেটুস পাতাতে সেবা করুন টমেটো আর আভোকাডো দিয়ে।
+:::
+
+:::lang ur
+# ترکی برگر لیٹس ڈرپس
+
+اُس نے ٹماٹر اور اوکادو کے پتوں میں کام کِیا ۔
+
+## Instructions
+1. چاول، اونون، لہسن، چاول، چاول اور نمک اور شکل میں 8 چھوٹے برتنوں میں۔
+2. تیل میں کوکو 4 سے 5 منٹ تک پکایا جاتا ہے۔
+3. ٹماٹر اور اُوکادو کے پتوں میں خدمت کریں ۔
+:::

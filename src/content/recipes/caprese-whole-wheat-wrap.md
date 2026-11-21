@@ -87,3 +87,39 @@ prepTimeSource: 'https://weelicious.com/caprese-wrap/'
 3. एक्स्ट्रा व्हर्जिन ऑलिव्ह तेल आणि बाल्सॅमिक ग्लेझ वरून घाला; मीठ आणि मिरी भुरभुरा.
 4. रॅप घट्ट गुंडाळा, तिरपे कापा आणि लगेच वाढा.
 :::
+
+:::lang en
+# Caprese Whole Wheat Wrap
+
+A fresh Italian wrap packed with fresh mozzarella, ripe sliced tomatoes, basil leaves, and a touch of balsamic glaze.
+
+## Instructions
+1. Lay whole wheat tortillas flat on a clean board.
+2. Arrange fresh mozzarella slices, tomato slices, and fresh basil leaves down the center.
+3. Drizzle with extra virgin olive oil and balsamic glaze; sprinkle salt and pepper.
+4. Roll wraps tightly, slice diagonally, and serve immediately.
+:::
+
+:::lang bn
+# র‍্যাকেল ওয়ালোথাল
+
+এক নতুন ইতালীয় ছাতা, পাকা পাকা টমেটো, বেসিল পাতা এবং এক গ্লাস ভেষজ নির্যাস ।
+
+## Instructions
+1. সব গমের টরটিলা একটি পরিষ্কার বোর্ডে রাখা আছে.
+2. বাছাই করুন ।
+3. অতিরিক্ত কুমারী জলপাই তেল এবং ভেষজ নির্যাস দিয়ে হালকা পানি পান করা।
+4. ধীরে ধীরে কেটে যায় ।
+:::
+
+:::lang ur
+# آتش‌فشاں پہاڑ
+
+اِس کے بعد اُنہوں نے ایک خوبصورت منظر دیکھا ۔
+
+## Instructions
+1. صاف بورڈ پر پورے گندم کے دانے رکھنا.
+2. اِس کی ایک وجہ یہ ہے کہ اِس کے بعد اُس کے ذہن میں تازہ‌دم ہو جاتی ہے ۔
+3. اِس کے علاوہ اِس میں نمک اور شکر وغیرہ شامل ہیں ۔
+4. اِس کے علاوہ اُس نے اُن کی مدد کی ۔
+:::

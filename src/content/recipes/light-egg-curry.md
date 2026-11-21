@@ -100,3 +100,36 @@ prepTimeEstimated: true
 2. मसाले आणि टोमॅटो घालून घट्ट होईपर्यंत, सुमारे 8 मिनिटे, शिजवा.
 3. पाणी आणि मीठ घालून 5 मिनिटे मंद आचेवर शिजवा. मग अंडी घालून 3 मिनिटे गरम करा.
 :::
+
+:::lang en
+# Light Egg Curry
+
+Boiled eggs simmered in a spiced tomato-onion gravy made with minimal oil.
+
+## Instructions
+1. Heat the oil and cook the onion until golden, then add the ginger and garlic.
+2. Add the spices and tomato and cook until thick, about 8 minutes.
+3. Add the water and salt, simmer for 5 minutes, then add the eggs and warm through for 3 minutes.
+:::
+
+:::lang bn
+# হালকা ডিম কারি
+
+সামান্য তেল দিয়ে বানানো টমেটোর মাংসের ঝোলায় ডিম।
+
+## Instructions
+1. তেল আর পিঁয়াজ রান্না করে সোনার আগ পর্যন্ত, তারপরে মদ আর রসুন যোগ করে।
+2. মসলা এবং টমেটো যোগ করুন ঘন না হওয়া পর্যন্ত, ৮ মিনিট পর্যন্ত।
+3. জল ও লবণ যোগ করুন, ৫ মিনিটের জন্য সিমমের মধ্যে, এরপর ডিম এবং ৩ মিনিট গরম করুন ।
+:::
+
+:::lang ur
+# روشنی کی آگ
+
+خوشبودار انڈے کم تیل سے بنے ہوئے ایک زہریلے آٹے میں پھنس گئے۔
+
+## Instructions
+1. تیل کو گرم کرکے سونے تک اون کو پکاتے ہیں، اس کے بعد گندھک اور لہسن ملا دیتے ہیں۔
+2. ٹماٹروں اور ٹماٹروں کو ملا کر گرم تک پکا کر تقریباً 8 منٹ تک پکایا جاتا ہے۔
+3. پانی اور نمک کو شامل کریں ، 5 منٹ تک اِس میں انڈے شامل کریں اور 3 منٹ تک گرم کریں ۔
+:::

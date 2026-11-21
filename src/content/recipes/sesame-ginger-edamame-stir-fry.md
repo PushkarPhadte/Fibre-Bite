@@ -82,3 +82,39 @@ prepTimeSource: 'https://cookieandkate.com/ginger-sesame-edamame-recipe/'
 3. सोललेले एडामामे आणि बेबी बोक चॉय घाला; भाज्या शिजून मऊ होतील पण थोड्या कुरकुरीत राहतील इतपत शिजवा.
 4. भाज्यांवर तमारी घालून नीट एकत्र करा आणि गरमागरम वाढा.
 :::
+
+:::lang en
+# Sesame Ginger Edamame Stir-Fry
+
+Tender shelled edamame stir-fried with bok choy, carrots, snap peas, and tossed in a sesame-tamari sauce.
+
+## Instructions
+1. Heat sesame oil in a large wok over medium-high heat.
+2. Add minced ginger, carrots, and sugar snap peas; stir-fry for 3 minutes.
+3. Add shelled edamame and baby bok choy, cooking until tender-crisp.
+4. Pour tamari over the vegetables, toss to coat, and serve hot.
+:::
+
+:::lang bn
+# সেঙ্গিংকার এডমেম স্টের-ফিরি
+
+সসেজের সসেজের সাথে কোমলভাবে শূক-ক্কো চই, কাররোট, চপ্পল মটরশুঁটি এবং সিটা-টামারি সস দিয়ে আঘাত করা।
+
+## Instructions
+1. মাঝারি তাপমাত্রার চেয়েও বেশি গরম।
+2. এই ধরনের খাবারগুলো খুব সুস্বাদু ।
+3. শোষন এবং শিশু চোচ, কোমল-ক্রিপ পর্যন্ত রান্না।
+4. শাকসবজি, কোট, গরম কাপড় এবং গরম পরিবেশন করুন ।
+:::
+
+:::lang ur
+# سیماس گنجر ایڈاماماما ریز-فری-
+
+ہمدرد رہنماؤں نے بھک چوئی، کتھا، کتھا پاز اور سامراری کے ساتھ مل کر
+
+## Instructions
+1. گرم گرمیوں کے اوپر ایک بڑے ووکٹ میں ہیٹ سیلسیس کا تیل۔
+2. مِنِّکِڈ بُک، سُر اور شوگر کے مشروبات کو شامل کریں؛ 3 منٹ کے لیے حرکت کریں۔
+3. settleed edamame and نژاد Bok Choy, Put-crisp تک پکایا جاتا ہے۔
+4. اِس کے علاوہ اُس نے اپنے گھر والوں سے کہا : ” اَے میرے بیٹے !
+:::

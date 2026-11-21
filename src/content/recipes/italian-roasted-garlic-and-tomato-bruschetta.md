@@ -92,3 +92,39 @@ prepTimeSource: 'https://www.thespruceeats.com/how-to-make-bruschetta-2020459'
 3. चिरलेले टोमॅटो, बारीक चिरलेला लसूण, तुळस, ऑलिव्ह ऑइल, मीठ आणि मिरी एकत्र करा.
 4. टोमॅटोचे मिश्रण चमच्याने टोस्ट केलेल्या ब्रेडवर ठेवा आणि वरून बाल्सॅमिक ग्लेझची धार घाला.
 :::
+
+:::lang en
+# Italian Roasted Garlic and Tomato Bruschetta
+
+Toasted whole grain bread rubbed with garlic and topped with fresh diced tomatoes, basil, and extra virgin olive oil.
+
+## Instructions
+1. Toast whole grain bread slices until crisp.
+2. Rub one side of toasted bread with halved garlic clove.
+3. Mix diced tomatoes, minced garlic, basil, olive oil, salt, and pepper.
+4. Spoon tomato mixture onto toasted bread and drizzle with balsamic glaze.
+:::
+
+:::lang bn
+# ইতালির সচেতন থাক!
+
+রসুন দিয়ে পুরো শস্য কাটা হতো এবং নতুন রঙের টমেটো, বেসিল এবং অতিরিক্ত কুমারী জিতবৃক্ষের তেল দিয়ে ঢাকা হতো ।
+
+## Instructions
+1. সম্পূর্ণ শস্য টুকরো টুকরো টুকরো হয়ে যায় যতক্ষণ না পর্যন্ত না পর্যন্ত।
+2. র‍্যাপিড করা রুটির একপাশে রসুনের দাগ আছে।
+3. হালকা টমেটো, রসুন, বিসিল, জলপাই তেল, লবণ এবং মরিচের টুকরো।
+4. সসেজের সসেজ জাতীয় পানীয়।
+:::
+
+:::lang ur
+# اطالوی گالک اور توماتو برسسچیتا
+
+اِس کے بعد اُس نے اِس بات کا ذکر کِیا کہ اُس نے اِس کے لئے اناج تیار کِیا ہے ۔
+
+## Instructions
+1. اِس لئے اُس نے اُس سے کہا : ” اَے میرے بیٹے !
+2. اُن میں سے ایک طرف لہسن کے دانے تھے ۔
+3. مونگ‌پھلی ، لہسن ، بانس ، زیتون کا تیل ، نمک اور ٹماٹر ۔
+4. اِس کے علاوہ اِس میں بھی بہت سی چیزیں شامل ہیں ۔
+:::

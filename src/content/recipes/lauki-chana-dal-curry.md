@@ -104,3 +104,39 @@ prepTimeEstimated: true
 3. हरभरा डाळ, दुधी भोपळा, मीठ आणि पाणी घाला. झाकण ठेवून मंद आचेवर 25 मिनिटे शिजवा, डाळ आणि भोपळा दोन्ही मऊ होईपर्यंत.
 4. कोथिंबिरीने सजवा.
 :::
+
+:::lang en
+# Lauki Chana Dal Curry
+
+Bottle gourd cooked with split chickpeas in a light tomato-ginger gravy.
+
+## Instructions
+1. Heat the oil, splutter the cumin and cook the onion and ginger until soft.
+2. Add the tomato and spices and cook until pulpy.
+3. Add the chana dal, bottle gourd, salt and water, cover and simmer for 25 minutes until both are tender.
+4. Garnish with coriander.
+:::
+
+:::lang bn
+# লাকি চানা ডাল কারী
+
+বয়েল টারগনিটা হালকা টমেটোর মাংস দিয়ে রান্না হয়েছিল।
+
+## Instructions
+1. তেলের উপরে ঢালুন, ধূমপায়ী আর রান্না করেন নরম না হওয়া পর্যন্ত।
+2. টমেটো এবং মসলা যোগ করুন।
+3. এরপর চানা ডিলা, বোতলের গাছ, লবণ এবং পানি, ২৫ মিনিটের জন্য ঢেকে দিন ।
+4. কোরিয়ান্ডারের সাথে গারসন।
+:::
+
+:::lang ur
+# لَكَّيْنَا دَلْرَةٍ
+
+ایک ہلکے ٹماٹر میں پھوٹنے والی جھاڑیوں سے کھائی ۔
+
+## Instructions
+1. تیل کو صاف کریں اور نرم ہونے تک اُس کے معدے کو صاف کریں ۔
+2. ٹماٹر اور مکھن کو ملا کر پکانے کا عمل بھی کریں ۔
+3. یہاں تک کہ اِن دونوں میں 25 منٹ کے لیے شانا ڈیل بھی شامل ہوتا ہے ۔
+4. گارنیش کوریانڈر کے ساتھ.
+:::

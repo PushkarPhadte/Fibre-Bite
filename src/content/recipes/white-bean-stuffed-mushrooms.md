@@ -92,3 +92,39 @@ prepTimeEstimated: true
 3. टोप्या भरा, उरलेल्या तेलाने रिमझिम करा आणि वापरत असल्यास परमेसन शिंपडा.
 4. 200 °C वर 20 मिनिटे बेक करावे.
 :::
+
+:::lang en
+# White Bean Stuffed Mushrooms
+
+Large mushroom caps filled with a garlicky white bean, spinach and herb stuffing and baked.
+
+## Instructions
+1. Remove the mushroom stems and chop them finely.
+2. Cook the stems, garlic and spinach in half the oil, then mash in the beans with the lemon juice, parsley and salt.
+3. Fill the caps, drizzle with the remaining oil and sprinkle with parmesan if using.
+4. Bake at 200 °C for 20 minutes.
+:::
+
+:::lang bn
+# সাদা বেঁছে মশরুম
+
+বড় মাশরুমে ভরা রসুন সাদা রসুন, চুড়া আর কাপড় ভরা।
+
+## Instructions
+1. মাশরুম বের করে সুন্দর করে কেটে ফেলো।
+2. তেলের অর্ধেক তেল, রসুন আর বালিচকে রান্না করে, তারপর লেবুর জুস, পার্লি আর লবণ দিয়ে।
+3. পালগুলো খালি করুন, অবশিষ্ট তেল আর প্যানেমের সাথে পানি দিন।
+4. ২০ মিনিট লাগবে।
+:::
+
+:::lang ur
+# سفید بیان سٹیف مُشّروں
+
+اِس کے بعد اُس نے اُن سے پوچھا : ” کیا مَیں اُن کے ساتھ کھانا پکاتا ہوں ؟ “
+
+## Instructions
+1. اِس کے بعد اُس کی کھال صاف ہو جاتی ہے ۔
+2. اِس کے بعد اِن دانوں میں چربی ، لہسن اور نمک شامل ہوتا ہے ۔
+3. اِس کے بعد اُس کے معدے میں تیل بھر دیا جاتا ہے ۔
+4. Bake at 200 °C 20 منٹ.
+:::

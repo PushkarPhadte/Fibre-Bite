@@ -86,3 +86,36 @@ prepTimeEstimated: true
 2. लिंबाचा रस, भाजलेले जिरे, काळे मीठ, पुदिना आणि मिरची मिसळा.
 3. बर्फ घालून लगेच वाढा, कारण ठेवल्यावर सत्तू खाली बसतो.
 :::
+
+:::lang en
+# Sattu Sharbat with Roasted Cumin and Lemon
+
+A cooling, savoury Bihari drink of roasted chickpea flour, lemon, mint and roasted cumin that keeps you full for hours.
+
+## Instructions
+1. Put the sattu in a jug and add the water gradually, whisking so no lumps form.
+2. Stir in the lemon juice, roasted cumin, black salt, mint and chilli.
+3. Serve immediately over ice, as the sattu settles on standing.
+:::
+
+:::lang bn
+# সোয়িং কুমিন এবং লেবুর সাথে সাতারবা
+
+গরম আবহাওয়ায় বেশ ঠাণ্ডা।
+
+## Instructions
+1. জলকে জগের মধ্যে রাখুন এবং ধীরে ধীরে জল যোগ করুন, যাতে কোন নির্দিষ্ট আকার না হয় ।
+2. লেবুর জুসে গরম, কালো লবণ, মিনিট আর ঠান্ডা।
+3. বরফের উপর অবিলম্বে সেবা করুন, যখন ওয়ারটু দাঁড়িয়ে থাকে ।
+:::
+
+:::lang ur
+# ساتو شراط نے غسل کنین اور لیمون کے ساتھ مل کر
+
+ایک ٹھنڈے، ساووری بوہری پینے کے پینے سے جلانے والی بوتلوں کے آٹے، ٹماٹر، منت اور پکایا جاتا ہے جو آپ کو گھنٹوں تک برقرار رکھتا رہتا ہے۔
+
+## Instructions
+1. سیٹو کو ایک جوگ میں رکھ کر آہستہ آہستہ پانی ملا دیتا ہے، وِشکنگ کی شکل اتنی نہیں ہوتی۔
+2. مونگ‌پھلی کے جوس میں پکایا جاتا ہے ، اُسے پکایا جاتا ہے ، کالا نمک ، من‌دار اور زہریلا ہوتا ہے ۔
+3. اُنہوں نے کہا : ” مَیں نے اِس بات پر غور کِیا کہ مَیں اُن سے کیا سیکھ سکتا ہوں ۔
+:::

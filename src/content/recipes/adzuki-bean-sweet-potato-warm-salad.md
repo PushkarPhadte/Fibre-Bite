@@ -85,3 +85,36 @@ prepTimeEstimated: true
 2. मोठ्या भांड्यात उरलेले ऑलिव्ह तेल, लिंबाचा रस आणि जिरेपूड फेटून घ्या.
 3. भांड्यात गरम अडझुकी बीन्स, भाजलेले रताळे आणि चिरलेला पातीचा कांदा घालून ड्रेसिंगचा थर बसेल असे हलकेच मिसळा.
 :::
+
+:::lang en
+# Adzuki Bean and Sweet Potato Warm Salad
+
+Earth-sweet adzuki beans paired with roasted sweet potato cubes, scallions, and a tangy lime cumin dressing.
+
+## Instructions
+1. Preheat the oven to 200 C; toss sweet potato cubes with half the olive oil and roast for 25 minutes until tender.
+2. Whisk remaining olive oil, lime juice, and ground cumin in a large bowl.
+3. Add warm adzuki beans, roasted sweet potatoes, and sliced scallions to the bowl and toss gently to coat.
+:::
+
+:::lang bn
+# আদুকি বেদান এবং মিষ্টি পোতো ওয়ারিম সালাদ
+
+জলহস্তী দিয়ে তৈরি মিষ্টি আলু কিউব, সিক্‌স এবং একটি তুয়াং চুন কাপড়।
+
+## Instructions
+1. টরেন্টাল থেকে ২০০ সি; মিষ্টি আলু কিউবকে অর্ধেক জলপাই তেল দিয়ে রান্না করা হয় আর কোমল না হওয়া পর্যন্ত ২৫ মিনিট পর্যন্ত রান্না করা হয়।
+2. একটা বাটি বাটি বাটি বাটিপোকা ।
+3. আলু বিন, মিষ্টি আলু রান্না করে এবং বাটি কেটে টুকরো টুকরো টুকরো টুকরো করে এবং কোটের সাথে আস্তে আস্তে জামাতে যায়।
+:::
+
+:::lang ur
+# آڈزوکی بانی اور سوئیٹ پوٹاتو ورم سالود ہیں۔
+
+زمین-مریخی دانوں کے ساتھ مل کر خوشبودار شہد کی مکھیوں، سکیلوں اور ایک ٹانگی رنگ کا کپڑا ملا.
+
+## Instructions
+1. زیتون کے تیل کو صاف کرنے کے لئے استعمال کئے جاتے ہیں ۔
+2. زیتون کا تیل ، آلو کے جوس اور زمین کو ایک بڑے برتن میں رکھتے ہیں ۔
+3. اِس کے علاوہ اَور بھی بہت سے بیج ہیں ۔
+:::

@@ -121,3 +121,42 @@ prepTimeEstimated: true
 4. मोठे चौकोनी तुकडे केलेले बटाटे घालून आणखी 12 मिनिटे मंद आचेवर शिजवा; ते मऊ होतील पण अख्खे राहतील. मग तंतू केलेले चिकन परत घालून गरम करा.
 5. गरम वाट्यांमध्ये सूप वाढा आणि ताजी कोथिंबीर, कापलेले अवोकॅडो व धुऊन घेतलेले केपर्स घालून सजवा.
 :::
+
+:::lang en
+# Colombian Ajiaco (Chicken, Potato, Corn, and Herb Soup)
+
+Hearty Andean chicken soup naturally thickened by simmering tender yellow potatoes with sweet corn, shredded chicken breast, scallions, cilantro, avocado, and rinsed capers.
+
+## Instructions
+1. Place the chicken breast, low-sodium chicken broth, 250 ml of water, sliced scallions, smashed garlic, half the cilantro-guascas herbs, and salt into a Dutch oven and bring to a gentle simmer.
+2. Poach the chicken gently for 15 minutes until cooked through (74°C internally), transfer to a plate to shred with two forks, and cover to keep warm.
+3. Add the small-diced potatoes and corn to the simmering broth and cook 15 minutes until the small potatoes break down to naturally thicken the soup.
+4. Add the larger cubed potatoes and simmer 12 minutes more until tender yet intact, then return the shredded chicken to warm through.
+5. Ladle into warm bowls and garnish with fresh cilantro, sliced avocado, and rinsed capers.
+:::
+
+:::lang bn
+# কলম্বিয়ান আজিকো (চিকেন, পটাটো, করন এবং হার্ব সোয়েপ)
+
+হৃদয়ের মুরগির সুপ প্রাকৃতিকভাবে ঘন ঘন হয়ে যায় মিষ্টি আলু দিয়ে।
+
+## Instructions
+1. মুরগির বুকের উপরে, কম-সোডিয়াম মুরগির মাংস, ২৫০ মাইল জল, কাটা পাথর, রসুন, দালিঠো রসুন, অর্ধেক সিলানো-গাকাসের ভেষজ, আর লবণ ডাচের চুলে নিয়ে আসে।
+2. মুরগির মাংসটা ১৫ মিনিটের জন্য কোমলভাবে রান্না করে (৭৪.৪ ডিগ্রি সেলসিয়াসের) মধ্যে রান্না করা না হওয়া পর্যন্ত, দু - টুকরো টুকরো টুকরো করে নিয়ে গিয়ে গরম রাখার জন্য একটা প্লেটে চলে যায় ।
+3. ছোট ছোট আলু এবং ভূট্টার সাথে রসালো ব্রোথ এবং রান্না করে ১৫ মিনিট পর্যন্ত রান্না করুন।
+4. ঘন ঘন ঘন ঘন ঘন ঘন ঘন কিউব আলু এবং সিমমার ১২ মিনিট আরো বেশি স্থির না হওয়া পর্যন্ত, তারপর মুরগিগুলোকে গরম করে ফেরত দিন।
+5. গরম বাটি বাটিপোকার মধ্যে লাডল এবং তাজা সিলেক্টো দিয়ে কাটা, যা ভোদকাডোকে টুকরো করে ।
+:::
+
+:::lang ur
+# کولمبیائی ایاکو (Chicken, Poto, Corn, and Herb Soup)
+
+دلدلی انڈین مرغیاں قدرتی طور پر خوشبودار مکئی سے پیلے پیلے رنگ کے پکوان کو ملانے سے ، مرغی کے سینے ، سکیل‌ن‌ننس ، اسکیل‌نرو ، اُکوکوڈو اور اُن کے کُپروں کو صاف کرنے سے پیدا ہوتی ہیں ۔
+
+## Instructions
+1. مرغی کے سینے کو نرم کرنے، کم مقدار میں سوڈیئم مرغی بُرتھ، 250 ملی میٹر پانی، گندھک کی نالیوں، لہسن کو خراب کرنے والے لہسن، نیم سیلانرو-گاسکاس کی جڑی بوٹیاں اور نمک کو ڈچ اوون میں ڈال کر نرم پانی میں لاتا ہے۔
+2. اِس کے بعد اُس نے ایک پلیٹ‌فارم پر رکھ دیا جس پر اُسے گرم رکھنے کے لئے اُس پرندے کا سایہ ہوتا ہے ۔
+3. چھوٹے چھوٹے چھوٹے برتنوں اور مکئی میں شامل کرکے 15 منٹ تک پکاتے ہیں یہاں تک کہ چھوٹا سا پودا قدرتی طور پر پکایا جاتا ہے۔
+4. اِس کے بعد اُس مرغی کو دوبارہ گرم کرنے کی کوشش کریں ۔
+5. لا‌ڈی کو گرم برتنوں اور گلی‌نی‌کوچوں میں رکھا جاتا ہے جن میں تازہ سیلانرو ، اُکوکادو اور اُس کیپروں کے ساتھ تھا ۔
+:::

@@ -94,3 +94,39 @@ prepTimeSource: >-
 3. ग्रिल किंवा ग्रिल पॅन मध्यम-ते-उच्च आचेवर आधी गरम करा.
 4. सॅल्मन प्रत्येक बाजूला 4–5 मिनिटे ग्रिल करा; पूर्ण शिजून काट्याने सहज सुटेपर्यंत शिजवा.
 :::
+
+:::lang en
+# Lemon Garlic Grilled Salmon
+
+Fresh salmon fillets marinated in lemon juice, garlic, and herbs, then grilled to flaky perfection.
+
+## Instructions
+1. Whisk together lemon juice, minced garlic, olive oil, dill, salt, and pepper in a shallow dish.
+2. Add salmon fillets and marinate for 15 minutes.
+3. Preheat grill or grill pan over medium-high heat.
+4. Grill salmon for 4-5 minutes per side until cooked through and easily flaked with a fork.
+:::
+
+:::lang bn
+# মেসোপটেলি গ্রিন্‌ড স্যালমন
+
+তাই, প্রচুর পরিমাণে লাল দ্রাক্ষারস তৈরি করা হয় ।
+
+## Instructions
+1. লেবুর রস, রসুন, জলপাই তেল, তেল, লবণ এবং মরিচের সসেজ।
+2. ১৫ মিনিটের জন্য সালমন পূরণ করে।
+3. মাঝারি তাপমাত্রায় গরমের জন্য প্রেথিল অথবা গ্রিল প্যান.
+4. একপাশে ৪-৫ মিনিটের জন্য গ্রল সেলুন, যতক্ষণ না রান্নার প্রক্রিয়া শেষ হয়... ...আর সহজ ভাবে fork করা হয়।
+:::
+
+:::lang ur
+# لیمن گارکل‌لینڈ
+
+اِس کے بعد اُس نے اِس بات پر غور کِیا کہ اِس میں کیا کچھ شامل ہے ۔
+
+## Instructions
+1. اِس کے علاوہ اِس میں لہسن ، لہسن ، زیتون کا تیل ، تیل ، نمک اور شکر شامل ہیں ۔
+2. 15 منٹ کے لئے ڈاکٹریٹ اور مریخ کو شامل کریں.
+3. زیادہ بلند درجہ حرارت پر زیادہ سے زیادہ پرے یا spermill.
+4. جب تک 4.5 منٹ تک پکا نہ لیا جائے اور آسانی سے ایک مارک کے ساتھ پکایا جائے۔
+:::

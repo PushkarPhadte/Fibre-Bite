@@ -92,3 +92,39 @@ prepTimeEstimated: true
 3. पनीरचे तुकडे घाला आणि मध्यम आचेवर 5 मिनिटे हलक्या हाताने परता.
 4. ठेचलेली काळी मिरी घालून पूर्ण करा आणि गरम वाढा.
 :::
+
+:::lang en
+# Kadi Patta Paneer Sauté (Curry Leaf Cottage Cheese)
+
+Cubes of low-fat cottage cheese tossed with fresh curry leaves, turmeric, and cracked black pepper.
+
+## Instructions
+1. Heat sesame oil in a skillet and add fresh curry leaves until fragrant and crisp.
+2. Stir in green chilli paste, turmeric powder, and salt.
+3. Add paneer cubes and sauté gently on medium heat for 5 minutes.
+4. Finish with crushed black pepper and serve hot.
+:::
+
+:::lang bn
+# কাডি পাত্তা পেনার সাতু (করি লিফ কুটিজ)
+
+অল্প পরিমাণে পনিরের টুকরো দিয়ে তৈরি পনিরের টুকরো।
+
+## Instructions
+1. এতে প্রচুর পরিমাণে তেল পাওয়া যায় এবং তেল পাওয়া যায় ।
+2. সবুজ ঠাণ্ডা পেস্ট, টুরমেরিক পাউডার আর লবণ।
+3. প্যানার কিউব যোগ করুন এবং পাঁচ মিনিটের জন্য মাধ্যম গরমের মধ্যে কোমলভাবে সংযুক্ত করুন।
+4. চূর্ণ করে কালো মরিচ দিয়ে গরম করে দাও।
+:::
+
+:::lang ur
+# کادی پٹہ پنجابی ساوترے (Curry Leaf Cotage Cheese) کا ایک رہائشی علاقہ ہے۔
+
+کم مقدار میں پائی جانے والی پنیر کے قطرے تازہ پتوں، ٹرمیر اور گیس کے ساتھ بنے ہوئے سفید رنگ کے ہوتے ہیں۔
+
+## Instructions
+1. اگر آپ اِس کی وجہ سے اُس کی مدد کریں گے تو آپ اُس کا شکر ادا کریں گے ۔
+2. اِس کی ایک وجہ یہ ہے کہ اِن میں سے زیادہ‌تر لوگ اُس کے بارے میں سوچتے ہیں ۔
+3. 5 منٹ کے لیے درمیانے گرم گرمیوں کے دوران بھی ٹُطف کو ملا دیں ۔
+4. اِس کے بعد اُنہیں سخت گرمی ہوتی ہے ۔
+:::

@@ -100,3 +100,39 @@ prepTimeEstimated: true
 3. हळद, धणेपूड, मीठ आणि उकडलेले हरभरे घाला.
 4. रस्सा घट्ट आणि सुगंधी होईपर्यंत मंद आचेवर 15 मिनिटे शिजवा.
 :::
+
+:::lang en
+# Madra / Himachali Chickpea Yogurt Curry
+
+A rich Himachali slow-cooked chickpea curry prepared in fresh curd and tempered with whole aromatic spices.
+
+## Instructions
+1. Heat ghee in a pan and add cumin seeds, cloves, cardamom, and cinnamon.
+2. Add whisked curd on low flame, stirring continuously in one direction to prevent curdling.
+3. Add turmeric, coriander powder, salt, and boiled chickpeas.
+4. Simmer on low heat for 15 minutes until gravy turns thick and aromatic.
+:::
+
+:::lang bn
+# মাদ্রা
+
+একটি সমৃদ্ধ হিমচলি ধীরগতিসম্পন্ন মুরগির শূককীষক তৈরি করা হয়।
+
+## Instructions
+1. একটা প্যানের মধ্যে হৃৎপিণ্ড এবং এর সাথে মেমিন বীজ, পয়:নিষ্কাশন, কার্ডম এবং কানের মিল যোগ করুন।
+2. কিন্তু, কীভাবে আমরা তা করতে পারি?
+3. টরমেরিক, কোরিয়ান্ডার পাউডার, লবণ এবং সিদ্ধ মুরগি ।
+4. ঘুমের তাপমাত্রা ১৫ মিনিটের জন্য কমে যায় ।
+:::
+
+:::lang ur
+# مدرا / ہماچلی چیکپا یوگورٹ کرشن (انگریزی:
+
+ایک امیر ہیاچلئی سستے برتنوں میں تیار کیے گئے تازہ خشکی میں تیار کیے گئے اور پورے خوشبودار خوشبوؤں سے سیراب ہوئے۔
+
+## Instructions
+1. ایک پن میں ہیت گِر کر اُس کے بیج ، کپاسم ، کارڈم اور سینممون شامل کرتے ہیں ۔
+2. اِس کے علاوہ اِس میں آگ بھی شامل ہے ۔
+3. اِس کے علاوہ اِس میں نمک ، نمک اور پکائے جانے والے تیل شامل ہیں ۔
+4. کم درجہ حرارت پر 15 منٹ تک کم گرم رہتا ہے یہاں تک کہ گریٹ خراب اور خوشبودار ہو جاتی ہے۔
+:::

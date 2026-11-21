@@ -89,3 +89,36 @@ prepTimeEstimated: true
 2. झाकण ठेवून मंद आचेवर 30 मिनिटे शिजवा.
 3. बीन्स आणि पातीचा कांदा मिसळा, झाकण ठेवून आणखी 10 मिनिटे शिजवा आणि नंतर भात मोकळा करा.
 :::
+
+:::lang en
+# Jamaican Coconut Red Beans and Brown Rice
+
+Red kidney beans and brown rice simmered with thyme, ginger and a little coconut milk.
+
+## Instructions
+1. Combine the rice, coconut milk, water, onion, garlic, ginger, thyme and salt in a pot and bring to a boil.
+2. Cover and simmer on low for 30 minutes.
+3. Stir in the beans and spring onions, cover and cook for 10 minutes, then fluff.
+:::
+
+:::lang bn
+# জামাইকার কন্সটন রেড বিন্স এবং ব্রাউন রাইস
+
+লাল কিপের শিম আর বাদামী ভাতের সিম দিয়ে ফুটে উঠেছে তোমার সাথে, ভাটা আর একটা নারিকেল দুধ।
+
+## Instructions
+1. চাল, নারিকেলের দুধ, জল, রসুন, রসুন, বেটি এবং লবণ নিয়ে আসে ।
+2. ৩০ মিনিটের জন্য কভার আর সিমমার।
+3. শিম এবং বসন্তে বিয়ার, কভার করে ১০ মিনিটের জন্য রান্না করা আর রান্না করা, তারপর ফ্লু।
+:::
+
+:::lang ur
+# جمیکا کیمین ریڈ بینز اور براؤن رائس
+
+سرخ رنگ کے دانوں اور بھورے رنگ کے چاول آپکا معدے ، بجو اور ناریل کا دودھ ملا ہوا تھا ۔
+
+## Instructions
+1. چاول ، ناریل کا دودھ ، پانی ، اُون ، لہسن ، مشروبات ، مشروبات اور نمک کو ایک برتن میں ملا کر پکایا جاتا ہے ۔
+2. اِس کے بعد اُس نے اِس بات پر زور دیا کہ اُس کا وزن 30 منٹ تک کم ہو جائے ۔
+3. اِس کے بعد اُس نے اِن بیجوں کو پکایا ۔
+:::

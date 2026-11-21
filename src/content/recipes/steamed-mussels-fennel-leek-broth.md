@@ -102,3 +102,39 @@ prepTimeEstimated: true
 3. घासून स्वच्छ केलेले जिवंत मसल्स घाला, लगेच झाकण ठेवा आणि मोठ्या आचेवर ५ मिनिटे वाफवा. मध्ये एकदा भांडे हलवा; सर्व शिंपले उघडले पाहिजेत.
 4. न उघडलेले मसल्स फेकून द्या, भांड्यात ताजी चिरलेली पार्सली पेरा आणि मसल्स व सुगंधी रस्सा गरम वाट्यांमध्ये वाढा.
 :::
+
+:::lang en
+# Steamed Blue Mussels in Fennel and Leek Broth
+
+Lean, mineral-packed French-style steamed blue mussels cooked in a light aromatic broth of shaved fennel, leeks, garlic, thyme, and lemon.
+
+## Instructions
+1. Heat the olive oil in a large lidded pot over medium heat and sweat the shaved fennel, sliced leek, and garlic for 5 minutes until softened without browning.
+2. Pour in the vegetable broth, lemon juice, and thyme sprigs, bringing the liquid to a brisk simmer.
+3. Add the scrubbed live mussels, cover immediately, and steam over high heat for 5 minutes, shaking the pot once halfway through, until all shells pop open.
+4. Discard any unopened mussels, scatter fresh chopped parsley over the pot, and ladle mussels and aromatic broth into warm bowls.
+:::
+
+:::lang bn
+# ফিনায়েল এবং লিক ব্রোথের ব্লু মিউসেল
+
+লেন, খনিজ পদার্থ দিয়ে তৈরি ফ্রেঞ্চ স্টাইলে নীল রঙের মুসেলরা কোতল রান্না করে কোতল, চুন, রসুন, রসুন আর লেবু।
+
+## Instructions
+1. প্রচুর পরিমাণে গরম ও ঘামের কারণে প্রচুর পরিমাণে গরমের মধ্যে জিতবৃক্ষের তেল ঢালতে শুরু করে ।
+2. সবজি, লেবু, লেবুর জুস এবং আপনার স্পেকট্রামের মধ্যে থেকে তরল পদার্থ নিয়ে আসা হয় ।
+3. পাঁচ মিনিটের বেশি গরমের মধ্যে গরমের জন্য জলাবদ্ধতা যোগ করুন।
+4. এরপর তারা একে অপরের দিকে তাকিয়ে থাকে ।
+:::
+
+:::lang ur
+# Fennel اور Lek Broth میں استامد بلیو میزائل ہیں۔
+
+لیان، میرین-کرین فرانسیسی-سیٹل نے نیلے رنگ کے مریخ کو ایک ہلکے خوشبودار برتن میں پکایا جس میں خوشبودار کیڑے، پنسل، لہسن، تیرم اور آلو شامل ہیں۔
+
+## Instructions
+1. زیتون کے تیل کو درمیان میں گرم گرم کِیا جاتا ہے ۔
+2. اِس کے علاوہ اِس میں پانی بھی شامل ہوتا ہے ۔
+3. اِس کے علاوہ اُس نے 5 منٹ تک اِس برتن کو ہلا ڈالا ۔
+4. کسی بھی کھلے ہوئے مُنہ کو اُوپر رکھ کر تازہ‌دم ہو جاتے ہیں ۔
+:::

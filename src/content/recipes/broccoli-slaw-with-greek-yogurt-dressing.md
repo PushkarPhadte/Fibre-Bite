@@ -85,3 +85,36 @@ prepTimeEstimated: true
 2. भाज्या ड्रेसिंगमध्ये मिसळा आणि 10 मिनिटे मुरू द्या.
 3. वरून भोपळ्याच्या बिया घाला.
 :::
+
+:::lang en
+# Broccoli Slaw with Greek Yogurt Dressing
+
+Raw broccoli and carrot shredded and tossed in a tangy yogurt dressing with sunflower-style crunch from pumpkin seeds.
+
+## Instructions
+1. Whisk the yogurt, lemon juice, garlic, salt and pepper.
+2. Toss the vegetables with the dressing and rest for 10 minutes.
+3. Top with the pumpkin seeds.
+:::
+
+:::lang bn
+# গ্রিক ইয়োগুরের জামা পরা ব্রোকোলি সাহেব
+
+র‍্যাডি ব্রোকোলি এবং কারুচিলি এক তুয়াং-এর গাঁধাতে পড়ে, যা কুমড়া বীজ থেকে সূর্যমুখীর ধরন দিয়ে তৈরি করা হয়েছে।
+
+## Instructions
+1. মাংসের জুস, রসুন, লবণ আর মরিচ।
+2. কাপড় পরে আর ১০ মিনিট বিশ্রাম নেয়।
+3. কুমড়া বীজের উপরে।
+:::
+
+:::lang ur
+# بریکولکولی سلور کے ساتھ یونانی یوگورٹ پہنتے ہیں۔
+
+Raw Broccoli and Construdeed and sifeed a Tangy college in a sundious-style Crench by Pumkin کے بیج۔
+
+## Instructions
+1. اِس کی ایک وجہ یہ ہے کہ اُس نے اِس کا استعمال کِیا ۔
+2. سبزیوں کو کپڑے پہننے اور 10 منٹ آرام کرنے کے ساتھ آرام کرنے کے ساتھ ساتھ رکھ دیتا ہے۔
+3. پمپن بیج کے ساتھ اوپر.
+:::

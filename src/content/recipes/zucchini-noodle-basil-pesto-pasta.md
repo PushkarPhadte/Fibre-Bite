@@ -96,3 +96,39 @@ prepTimeSource: 'https://www.ambitiouskitchen.com/zucchini-pesto-pasta/'
 3. गॅसवरून पॅन उतरवा आणि झुकिनी नूडल्स ताज्या तुळशीच्या पेस्टोसोबत मिसळा.
 4. गरम असतानाच लगेच वाढा.
 :::
+
+:::lang en
+# Zucchini Noodle Basil Pesto Pasta
+
+Spiralized zucchini noodles tossed in a vibrant homemade fresh basil and pine nut pesto.
+
+## Instructions
+1. In a food processor, blend fresh basil, pine nuts, parmesan cheese, garlic, extra virgin olive oil, and salt until smooth.
+2. Lightly sauté spiralized zucchini noodles in a pan for 2 minutes just to warm through.
+3. Remove from heat and toss zucchini noodles with the fresh basil pesto.
+4. Serve immediately while warm.
+:::
+
+:::lang bn
+# জুসিচিনি নুডল বেসিল পসিতো পাস্তা
+
+এক মনোরম বাড়ির তৈরি তাজা বেসিল এবং পাইন গাছের পাতাকল দিয়ে বানানো দ্রাক্ষা রসালো।
+
+## Instructions
+1. একটা খাদ্য প্রসেসরে, তাজা বাসিল, আনারস, পেরসান পনির, রসুন, অতিরিক্ত কুমারী জলপাই তেল এবং লবণকে মসৃণ করা হয় ।
+2. শুধু মাত্র ২ মিনিট গরমের জন্য একটি প্যানের মধ্যে হালকা পাথরের মধ্যে সাঁতরে গলালো।
+3. গরম থেকে জকুইনি নুডলস বের করুন, তাজা বেসিল পেসো দিয়ে।
+4. একটু গরম থাকতে দাও।
+:::
+
+:::lang ur
+# Zucchini Noodle Basil Pesto Pasta –
+
+اِس کی وجہ یہ تھی کہ اُس نے اِس درخت کو اِستعمال کِیا ۔
+
+## Instructions
+1. کھانا کھانے کے عمل میں تازہ‌دم ، شہد ، پنیر ، لہسن ، لہسن ، اضافی کنواری زیتون کا تیل اور نمک شامل ہیں ۔
+2. ہلکے ساوتری نے ایک نان میں دو منٹ تک گرم رہنے کے لئے دو منٹ تک ایک نان میں سوراخ کئے ۔
+3. گرمیوں اور تودوں سے نکل کر تازہ بیسل پَستو کے ساتھ زُک‌کینی نُودز کو ختم کر دیتا ہے ۔
+4. فوراً گرم وقت میں خدمت کریں ۔
+:::

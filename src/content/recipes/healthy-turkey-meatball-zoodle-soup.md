@@ -85,3 +85,39 @@ prepTimeSource: 'https://www.skinnytaste.com/turkey-meatball-zoodle-soup/'
 3. टर्की मीटबॉल मंद उकळणाऱ्या रस्स्यात सोडा आणि 10 मिनिटे शिजवा.
 4. झुकीनी नूडल्स घाला आणि गरमागरम वाढण्यापूर्वी 2 मिनिटे शिजवा.
 :::
+
+:::lang en
+# Healthy Turkey Meatball Zoodle Soup
+
+A light Italian soup featuring lean turkey meatballs and spiralized zucchini noodles in savory broth.
+
+## Instructions
+1. Mix ground turkey with garlic, Italian seasoning, and salt; roll into small meatballs.
+2. In a pot, bring chicken broth to a simmer with sliced carrots and celery.
+3. Drop turkey meatballs into the simmering broth and cook for 10 minutes.
+4. Add zucchini noodles and cook for 2 minutes before serving hot.
+:::
+
+:::lang bn
+# স্বাস্থ্যসম্মত তুরস্ক
+
+একটা হালকা ইতালিয়ান সুপের মধ্যে রয়েছে থার্মোকি মাংসের মাংস আর বেকানি নুডলস।
+
+## Instructions
+1. রসুন, ইতালীয় ঋতু এবং লবণ; ছোট মাংসের বলয় চলে যায় ।
+2. একটা পাত্রের মধ্যে মুরগির মাংসকে টুকরো টুকরো টুকরো কুড়াল দিয়ে নিয়ে এসো ।
+3. ১০ মিনিটের জন্য রান্না করে রান্না করে রান্না করে নাও।
+4. গরম করার আগে zchini নুডলস ও রান্না করুন।
+:::
+
+:::lang ur
+# صحت‌بخش ترکی مے‌بال سُوپ
+
+اِٹلی کے ایک ہلکے اُونٹ نے اپنے گھر کے اندر گائے ہوئے گوشت کے جھنڈوں کو اُتار دیا ۔
+
+## Instructions
+1. مونگ‌پھلی ، اطالوی ٹماٹر اور نمک ؛ چھوٹے گوشت میں منتقل ہو جاتے ہیں ۔
+2. ایک برتن میں ، مرغی بُرّت کو اُوپر کی طرف لے جاتی ہے جس میں کُل‌وقتی خدمت کرنے والے لوگ رہتے ہیں ۔
+3. ٹرکی گوشت کی نالیوں میں پھینک کر 10 منٹ تک پکایا جاتا ہے۔
+4. گرمیوں میں خدمت کرنے سے پہلے اُس نے ۲ منٹ آرام کِیا ۔
+:::

@@ -99,3 +99,39 @@ prepTimeEstimated: true
 3. टोफू, तमारी, मीठ आणि तिखटाचे फ्लेक्स घालून 3 मिनिटे मंद आचेवर उकळू द्या.
 4. उरलेला पातीचा कांदा मिसळा, वरून तीळ तेल घाला आणि गरम वाढा.
 :::
+
+:::lang en
+# Korean Bean Sprout Soup (Kongnamul Guk)
+
+A clear, restorative Korean soup of bean sprouts, garlic and spring onion with soft tofu, finished with a touch of sesame oil.
+
+## Instructions
+1. Rinse the sprouts and bring the water to a boil in a pot with the garlic and half the spring onion.
+2. Add the sprouts, cover and cook for 8 minutes without lifting the lid, to avoid a raw bean smell.
+3. Add the tofu, tamari, salt and chilli flakes and simmer for 3 minutes.
+4. Stir in the remaining spring onion, drizzle with sesame oil and serve hot.
+:::
+
+:::lang bn
+# কোরিয়ান Benout Suloup Samusup (বেনামনামুল গুক)
+
+পরিষ্কার, পুন:নির্মান কোরিয়ার সুপ, রসুন আর বসন্তের সুপ নরম টফু দিয়ে শেষ হয়।
+
+## Instructions
+1. রসুনের সাথে রসুন এবং অর্ধেক বসন্তে পাত্র দিয়ে পানির পাত্র নিয়ে আসে।
+2. ডিমের গন্ধ এড়িয়ে চলতে হবে ।
+3. টফু, টামারি, লবণ আর ঠান্ডা কাপর তিন মিনিটের জন্য।
+4. অবশিষ্ট বসন্তে শরীর গরম ছিল।
+:::
+
+:::lang ur
+# کورناممل گوک (Kongnamul Guk)
+
+اِس کے بعد اُس کا تیل ختم ہو گیا ۔
+
+## Instructions
+1. اِس کے بعد اُسے لہسن اور آدھا چشمہ پر مشتمل ایک تالاب میں ڈال دیا جاتا ہے ۔
+2. انڈے کو اُٹھانے کے بغیر آٹھ منٹ تک اُبال کر رکھ دیں ۔
+3. اِس کے علاوہ اِن میں سے تین منٹ کے لئے اِس کی تیاری کریں ۔
+4. باقی موسمِ‌بہار میں تیل کے تیل کے ساتھ تیل اور گرم‌سالی سے کام لیا جاتا ہے ۔
+:::

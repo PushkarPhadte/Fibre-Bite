@@ -10,7 +10,8 @@
 	import { initializeFavorites } from '$lib/preferences.svelte';
 	import { initializeRecipeSwaps } from '$lib/recipe-swaps.svelte';
 	import { initializeRecipeServings } from '$lib/recipe-servings.svelte';
-	import { initializeLanguage, language, setLanguage, t, type Language } from '$lib/locale.svelte';
+	import { initializeLanguage, language, setLanguage, t } from '$lib/locale.svelte';
+	import { languageOptions } from '$lib/i18n/languages';
 
 	let { children } = $props();
 	onMount(() => {
@@ -26,9 +27,9 @@
 </script>
 
 <svelte:head><link rel="icon" href={favicon} /></svelte:head>
-<a href="#main-content" class="sr-only focus:fixed focus:left-4 focus:top-4 focus:z-50 focus:not-sr-only focus:rounded-md focus:bg-white focus:px-4 focus:py-3 focus:font-semibold focus:text-emerald-950 focus:shadow-lg">Skip to content</a>
+<a href="#main-content" class="sr-only focus:fixed focus:left-4 focus:top-4 focus:z-50 focus:not-sr-only focus:rounded-md focus:bg-white focus:px-4 focus:py-3 focus:font-semibold focus:text-emerald-950 focus:shadow-lg">{t('accessibility.skipToContent')}</a>
 <header class="sticky top-0 z-40 border-b border-emerald-950/10 bg-[#f6f7f1]/90 backdrop-blur-md">
-	<nav class="mx-auto flex max-w-7xl flex-wrap items-center justify-between gap-2 px-5 py-3 sm:flex-nowrap sm:gap-4 sm:px-8" aria-label="Main navigation">
+	<nav class="mx-auto flex max-w-7xl flex-wrap items-center justify-between gap-2 px-5 py-3 sm:flex-nowrap sm:gap-4 sm:px-8" aria-label={t('accessibility.mainNavigation')}>
 		<a href="/" class="flex shrink-0 items-center gap-2 whitespace-nowrap font-display text-2xl font-semibold text-emerald-950">
 			<Sprout size={24} strokeWidth={1.8} />
 			<span>Fibre-Bite</span>
@@ -55,10 +56,10 @@
 				<span class="sr-only sm:not-sr-only">{t('nav.saved')}</span>
 			</a>
 			<label class="sr-only" for="language">{t('language')}</label>
-			<select id="language" class="h-10 rounded-md border border-emerald-950/15 bg-white px-2 text-xs font-semibold text-emerald-950" value={language.current} onchange={(event) => setLanguage(event.currentTarget.value as Language)}>
-				<option value="en">{t('english')}</option>
-				<option value="hi">{t('hindi')}</option>
-				<option value="mr">{t('marathi')}</option>
+			<select id="language" class="h-10 rounded-md border border-emerald-950/15 bg-white px-2 text-xs font-semibold text-emerald-950" value={language.current} onchange={(event) => setLanguage(event.currentTarget.value)}>
+				{#each languageOptions as option (option.code)}
+					<option value={option.code}>{option.name}</option>
+				{/each}
 			</select>
 		</div>
 	</nav>

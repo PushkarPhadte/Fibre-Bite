@@ -97,3 +97,39 @@ prepTimeEstimated: true
 3. सूप ओव्हनमध्ये ठेवता येतील अशा वाट्यांमध्ये ओता. प्रत्येक वाटीवर बॅगेटचा एक तुकडा आणि चीज ठेवा.
 4. चीज वितळून बुडबुडे येईपर्यंत ओव्हनच्या ग्रिलरखाली तीन मिनिटे ठेवा.
 :::
+
+:::lang en
+# Classic French Onion Soup (Light Version)
+
+Rich, deeply caramelized onions simmered in savory broth, topped with a whole wheat crostini and melted Swiss cheese.
+
+## Instructions
+1. Cook sliced onions in olive oil on low heat for 30 minutes until deep golden brown.
+2. Add garlic and broth; simmer for 15 minutes and season with salt and pepper.
+3. Ladle soup into oven-safe bowls; top each with a baguette slice and cheese.
+4. Broil in oven for 3 minutes until cheese is melted and bubbling.
+:::
+
+:::lang bn
+# ক্লাসিক ফ্রেঞ্চ অয়ন সোপ (হালকা সংস্করণ)
+
+ধনী, গভীর রসালো বেথ দিয়ে তৈরি, পুরো গমের খেঁজে গেছে আর সুইস পনিরটালো।
+
+## Instructions
+1. রান্নার তেলে ৩০ মিনিট গরমের জন্য তেলে মচম করে।
+2. রসুন এবং ব্রোথ; ১৫ মিনিটের জন্য সিমমার এবং লবণ ও মরিচের সঙ্গে।
+3. লাডল স্যুপ, চুলা বাটি বাটি বাটিতে; প্রত্যেকটার উপরে ব্যাগের টুকরো আর পনির।
+4. ৩ মিনিটের জন্য চুলে বাঁধো, যতক্ষণ না পনির গলে যাচ্ছে।
+:::
+
+:::lang ur
+# کلاسیکی فرانسیسی اونیون سوپ (انگریزی:
+
+اِس کے بعد اُس نے اُس کا تیل اُتار دیا ۔
+
+## Instructions
+1. کک نے ۳۰ منٹ تک زیتون کے تیل میں سرایت کِیا ۔
+2. اِس میں لہسن اور بُت شامل کرنا شامل ہے ؛ 15 منٹ اور اِس میں نمک اور مکھن شامل ہوتے ہیں ۔
+3. Ladle Peak in Owave-fe محفوظ برتنوں میں ؛ ہر ایک سے اوپر ایک بیگویٹ کانسی اور پنیر۔
+4. اس وقت تک کانسی کو پکایا جاتا ہے ۔
+:::

@@ -128,3 +128,42 @@ prepTimeEstimated: true
 4. ऑलिव्ह आणि लिंबाचा रस घालून झाकण न ठेवता 8 मिनिटे शिजवा, रस घट्ट होईपर्यंत.
 5. कोथिंबीर आणि पार्सली घालून पूर्ण करा आणि तपकिरी तांदूळ किंवा संपूर्ण गव्हाच्या कुसकुससोबत वाढा.
 :::
+
+:::lang en
+# Moroccan Chicken Tagine with Olives and Lemon
+
+Chicken slowly simmered with onion, carrot, green olives, lemon and warm spices in a fragrant, golden sauce.
+
+## Instructions
+1. Season the chicken with the garlic, ginger, spices and salt and rest for 20 minutes.
+2. Brown the chicken in the oil for 5 minutes, then remove and soften the onion in the same pot for 5 minutes.
+3. Return the chicken with the carrots and water, cover and simmer for 25 minutes.
+4. Add the olives and lemon juice and cook uncovered for 8 minutes until the sauce thickens.
+5. Finish with coriander and parsley and serve with brown rice or whole-wheat couscous.
+:::
+
+:::lang bn
+# মরোক্কোন মুরগির টাইন অলিভ আর লেবুর সাথে
+
+মুরগির মাংসের রস, সবুজ জলপাই, লেবু, লেবু, মিষ্টি সসায় গরম মসলা দিয়ে তৈরি ।
+
+## Instructions
+1. মুরগিটা রসুন, ভাটা, মসলা আর লবণের সাথে মিশিয়ে ২০ মিনিট বিশ্রাম নাও।
+2. পাঁচ মিনিটের জন্য মুরগির তেলে ব্রাউন, তারপর সেই একই টব থেকে পাঁচ মিনিটের জন্য কেটে বের করে।
+3. মুরগিটা সাথে নিয়ে যাও, আর পানি নিয়ে, ২৫ মিনিটের জন্য ঢেকে রাখো আর সিমমারকে নিয়ে যাও।
+4. জলপাই আর লেবুর রস যোগ করুন আর সসফলের আগে থেকে আট মিনিট পর্যন্ত খুলে দিন।
+5. কোরিয়ান্ডার আর প্যারলির সাথে শেষ হয়ে যায় আর বাদামি চালের সাথে কাজ করে।
+:::
+
+:::lang ur
+# موروککن چیکن ٹائی انجن کے ساتھ مل کر لیمون
+
+اِس کے بعد اُس نے اُن سے پوچھا : ” کیا مَیں اِس بات کی قدر کرتا ہوں کہ مَیں اُن کے ساتھ کیسے رہ سکتا ہوں ؟ “
+
+## Instructions
+1. مونگ‌پھلی ، آمیزش ، آلو اور نمک اور ۲۰ منٹ آرام کریں ۔
+2. 5 منٹ کے لیے تیل میں براؤن مرغی، پھر ہٹا کر 5 منٹ تک ایک ہی برتن میں اونون کو نرم کر دیتا ہے۔
+3. مرغی کو 25 منٹ تک پانی اور پانی کے ساتھ واپس بھیج دیں ۔
+4. زیتون اور ٹماٹر کو ملا کر 8 منٹ تک پکایا جاتا ہے ۔
+5. کوریاندر اور کوسولی کے ساتھ مل کر بھورے چاول یا پوری کیوکوس سے خدمت کرتے ہیں۔
+:::

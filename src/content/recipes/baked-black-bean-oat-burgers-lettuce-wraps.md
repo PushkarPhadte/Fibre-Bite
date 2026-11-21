@@ -116,3 +116,42 @@ prepTimeEstimated: true
 4. 200 C वर प्रत्येक बाजू 12 मिनिटे भाजा; टिक्की घट्ट होऊन कडा तपकिरी होईपर्यंत शिजवा.
 5. प्रत्येक टिक्की टोमॅटो आणि अवोकॅडोसह लेट्युसच्या पानात गुंडाळून वाढा.
 :::
+
+:::lang en
+# Baked Black Bean and Oat Burgers in Lettuce Wraps
+
+Smoky black bean patties with oats and chickpea flour, baked and served in crisp lettuce leaves with tomato and avocado.
+
+## Instructions
+1. Soak the beans overnight and boil for 50 minutes until very tender. Drain and cool.
+2. Mash roughly with the oats, besan, onion, capsicum, garlic, cumin, paprika, coriander and salt until the mixture holds together.
+3. Shape into 4 patties, place on an oiled tray and brush with the oil.
+4. Bake at 200 C for 12 minutes per side until firm and browned at the edges.
+5. Serve each patty wrapped in lettuce with tomato and avocado.
+:::
+
+:::lang bn
+# Leted কালো বিনন এবং অসটে বার্গার
+
+ডিমের পাতা দিয়ে বানানো সাপের পাতা, পনিরের পাতা তৈরি করা এবং টমেটো এবং আকাকাডো দিয়ে পরিবেশন করা হয়।
+
+## Instructions
+1. রাতের বেলা শিম আর সিদ্ধ করে ৫০ মিনিটের জন্য সিদ্ধ করো. ঠান্ডা আর শান্ত।
+2. ওটস, বেসন, পিনোস্‌, রসুন, রসুন, পাম্পিকা, কোরিয়ান্ডার আর লবণের সাথে মেশে।
+3. ৪ পাটাতনে আঁকা একটা ট্রেতে আকার দেয়া হয়েছে আর তেল দিয়ে ব্রাশ করা হয়েছে।
+4. ২০০ C তে ব্রেক, যতক্ষণ না শক্ত আর বাদামি রঙের হয়।
+5. প্রত্যেক পাটাতট টেট দিয়ে টমেটো আর আভোকাডো পান।
+:::
+
+:::lang ur
+# لیٹس ڈرپس میں بلیک بیان اور اوت برگس ہیں۔
+
+اِس کے بعد اُس نے اُن پتوں کی مدد کی جو اُن کے ساتھ تھیں ۔
+
+## Instructions
+1. اِس لئے اُس نے پچاس منٹ تک اُن سے بات‌چیت کی ۔ ہار اور ٹھنڈا.
+2. جب تک یہ آمیزش ایک دوسرے کے ساتھ نہیں ہو جاتی اُس وقت تک اِس میں موجود نہ ہو ۔
+3. ۴ پیٹ میں رکھیں ، ایک برتن پر رکھیں اور تیل سے پنسلیں لگائیں ۔
+4. اُس وقت تک تقریباً ۲۰۰ س . ع .
+5. ہر پَٹ کی خدمت ٹماٹر اور اُکوکادو سے کی جاتی ہے ۔
+:::

@@ -112,3 +112,39 @@ prepTimeEstimated: true
 3. उकळी आल्यावर आच कमी करा आणि १५ मिनिटे मंद आचेवर शिजू द्या.
 4. होल-व्हीट पास्ता घाला आणि पास्ता अल देंटे होईपर्यंत आणखी १० मिनिटे शिजवा.
 :::
+
+:::lang en
+# Classic Italian Minestrone Soup
+
+A hearty Tuscan vegetable soup packed with kidney beans, zucchini, tomatoes, and whole wheat pasta simmered in an aromatic herb broth.
+
+## Instructions
+1. Heat olive oil in a deep pot and sauté onion, carrots, celery, and garlic for 5 minutes.
+2. Add zucchini, diced tomatoes, kidney beans, vegetable broth, and herbs.
+3. Bring to a boil, reduce heat, and simmer for 15 minutes.
+4. Add whole wheat pasta and cook for another 10 minutes until pasta is al dente.
+:::
+
+:::lang bn
+# ক্লাসিক ইতালিয়ান মাইন্ট্রোন সোName
+
+একটা চিরকুট টুকান সবজির সুপের তৈরি, যার মধ্যে কিকচিনি, টমেটো এবং পুরো গম পাস্তামকটি রয়েছে।
+
+## Instructions
+1. প্রচুর পরিমাণে জলপাই তেল ও সসেজের তেল পাঁচ মিনিট ধরে চলতে থাকে ।
+2. chuchi, পাশার টমেটো, কিটি বিন, সবজি ও ভেষজ দ্রব্য যোগ করুন ।
+3. একটু সিদ্ধ হও, তাপ কমিয়ে আনো, আর সহজ করে ১৫ মিনিটের জন্য।
+4. গম পাস্তা আর আরো ১০ মিনিটের জন্য রান্না করো ।
+:::
+
+:::lang ur
+# کلاسیکی اطالوی مینسترون سوپ
+
+اِس کے بعد اُس نے اُن سے پوچھا : ” کیا مَیں اِس بات کی قدر کرتا ہوں کہ مَیں اُن کے ساتھ ہوں ؟ “
+
+## Instructions
+1. زیتون کا تیل ایک گہرے برتن میں اور صابن پر مشتمل تیل ، آلو ، قالین اور لہسن میں ۵ منٹ کے لئے استعمال ہوتا ہے ۔
+2. اِس کے علاوہ اِس میں بھی بہت سی سبزیاں ہیں ۔
+3. آگ بجھانے ، حرارت کو کم کرنے اور ۱۵ منٹ تک آگ بجھانے کی کوشش کریں ۔
+4. پورے گندمی پکوان میں شامل کر کے دوسری 10 منٹ تک پکایا یہاں تک کہ پَعَعَ النَّت ہو جاتا ہے۔
+:::

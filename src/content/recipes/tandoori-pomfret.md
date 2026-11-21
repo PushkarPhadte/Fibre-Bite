@@ -108,3 +108,42 @@ prepTimeEstimated: true
 4. प्रत्येक बाजूला 5–7 मिनिटे ग्रिल किंवा शिजवा, मासा पूर्ण शिजेपर्यंत आणि त्यावर किंचित भाजल्याच्या खुणा दिसेपर्यंत.
 5. लिंबाच्या फोडी आणि कांद्याच्या चकत्यांसह गरम वाढा.
 :::
+
+:::lang en
+# Tandoori Pomfret
+
+Whole pomfret fish marinated in a blend of yogurt, mustard oil, lemon juice, and aromatic Indian spices, then grilled.
+
+## Instructions
+1. Mix yogurt, spices, lemon juice, ginger-garlic paste, and mustard oil to make a marinade.
+2. Coat the scored pomfret evenly and marinate for 30 minutes.
+3. Preheat oven/grill or pan-sear on a lightly greased skillet.
+4. Grill/cook for 5-7 minutes on each side until cooked through and slightly charred.
+5. Serve hot with lemon wedges and onion rings.
+:::
+
+:::lang bn
+# ভূতত্ত্ব
+
+তাই, এতে অবাক হওয়ার কিছু নেই যে, এদের মধ্যে অল্প কয়েক জন মারা গিয়েছিল ।
+
+## Instructions
+1. ডিম, লেবু, লেবুর জুস, নোংরা পেস্ট, এবং সরিষা তেলের তেল, যাতে মারিনেদানি তৈরি হয়।
+2. এমনকি ৩০ মিনিটের জন্য অতিরিক্ত পরিমাণে বাজি ধরে।
+3. প্রিলাট চুলা বা প্যান-শরীর জন্য একটি হালকা নরম দক্ষতা।
+4. ৫-৭ মিনিটের জন্য গ্রিল/কুক, যতক্ষণ না রান্না করা হয় ততক্ষণ পর্যন্ত একে অপরের সাথে ৫-৭ মিনিটের জন্য।
+5. লেমন সসেজ আর রিং এর সাথে গরম ব্যবহার করো।
+:::
+
+:::lang ur
+# ٹنڈوری پومفرٹ
+
+اِس کے بعد اُس نے اِن چیزوں کو اِستعمال کِیا ۔
+
+## Instructions
+1. مکئی بنانے کے لیے مکئی کا تیل، مکئی کا رس، مکھن کا رس، آمیزے کا رس اور شیشے کا تیل۔
+2. کوئٹہ نے پومفرٹ مساوی اور مریخ کو 30 منٹ تک بنایا۔
+3. پروہت اوون/گریل یا پنر ایک معمولی سی مہارت پر۔
+4. گرِل/کوک ہر طرف 5-7 منٹ تک پکاتا رہتا ہے یہاں تک کہ تھوڑا سا سرکہ پکاتا ہے۔
+5. اِس لئے اُس نے کہا : ” مَیں اِس کام میں حصہ نہیں لیتا ۔
+:::

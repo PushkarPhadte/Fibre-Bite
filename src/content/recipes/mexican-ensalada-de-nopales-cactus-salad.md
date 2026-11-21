@@ -121,3 +121,39 @@ prepTimeEstimated: true
 3. एका मोठ्या सलाडच्या भांड्यात उरलेले 10 मिलीलीटर ऑलिव्ह तेल, ताजा लिंबाचा रस, वाळवलेले मेक्सिकन ओरिगॅनो आणि मीठ एकत्र फेटा.
 4. चिरलेले नोपाल्स, टोमॅटो, लाल कांदा, बारीक चिरलेली जलापेन्यो मिरची आणि चिरलेली कोथिंबीर लिंबाच्या ड्रेसिंगमध्ये मिसळा; मग चिरलेला अवोकॅडो अलगद एकत्र करून वरून चुरलेले केसरी फ्रेस्को चीज घाला.
 :::
+
+:::lang en
+# Mexican Ensalada de Nopales (Grilled Cactus Paddle and Tomato Salad)
+
+Refreshing Oaxacan-style salad of tender charred cactus paddles diced with ripe tomatoes, crisp red onion, fresh cilantro, lime juice, and lightly crumbled queso fresco.
+
+## Instructions
+1. Brush the cleaned cactus paddles lightly with 5 ml of olive oil and grill or sear on a hot cast-iron griddle for 4 minutes per side until lightly charred and tender (grilling minimizes mucilage).
+2. Cool the grilled nopales slightly and dice them into neat 1 cm squares.
+3. Whisk the remaining 10 ml of olive oil, fresh lime juice, dried Mexican oregano, and salt in a large salad bowl.
+4. Toss the diced nopales, tomatoes, red onion, minced jalapeño, and chopped cilantro with the lime dressing, then gently fold in the diced avocado and top with crumbled queso fresco.
+:::
+
+:::lang bn
+# মেক্সিকান এনসালডা দে নপালস (গিরিদ ক্যাকটাস প্যাডেল এবং টমেটো সালডা)
+
+কোমল রঙের নুডলস, পাকা টমেটো, লাল রঙের মরিচ, তাজা সিলানো, হালকা রস এবং হালকা ডোরাকোর স্বাদের টুকরো।
+
+## Instructions
+1. ক্লিনস প্যাডেলটি হালকা ভাবে তৈরি করা হয়েছে, যার মধ্যে ৫ মিটার তেল এবং সামুদ্রিক ঢেউ রয়েছে।
+2. শান্ত হও... ...অল্পনা নেই, আর পাশা পরিষ্কার করে দাও... ...১ সেন্টিমিটার উপরে.
+3. প্রচুর পরিমাণে আখ কাটা হতো ।
+4. টাকোনো, টমেটো, লাল, লাল, লাল, নিরাল পাইনো আর কাটা কাটা চুন দিয়ে কাটা কাটা কাটা কাটা কাটা চুড়ি দিয়ে, তারপর গুটিকোকোকোকো আর উঁচু টুকরো টুকরো টুকরো হয়ে যায়।
+:::
+
+:::lang ur
+# میکسیکو انسادا دے نوپلاس (انگریزی: Grilled Cactus Paddle and Tomato Salad) ہے۔
+
+خوش‌کُن اوکسیکن-سی‌ٹی‌منگ سے تیار کئے گئے نرم ٹماٹروں ، کریسپ سرخ اونن ، تازہ سیل‌انرو ، آلو اور چھوٹی چھوٹی سی بوکی‌کوس‌کو کے ٹکڑے ۔
+
+## Instructions
+1. صفائی‌ستھرائی کے برتنوں میں زیتون کے تیل اور تیل کی ۵ ملی‌میٹر کے تیل اور اُس کے پگھلنے پر 4 منٹ تک ہلکی‌چھوٹی اور نرم‌مزاج ( کم‌ازکم کم‌ازکم کم ہو جاتی ہے ) ہوتے ہیں ۔
+2. اِس کے بعد اُس نے اُنہیں صاف‌وصاف ۱ سینٹی‌میٹر [ ۱ سینٹی‌میٹر ] تک پہنچایا ۔
+3. زیتون کے تیل کے باقی ۱۰ ملی‌میٹر ، تازہ تیل کا رس ، خشک میکسیکو یایگانو اور نمک کے بڑے برتنوں میں استعمال ہوتا ہے ۔
+4. اسکے بعد اسکو کے کپڑوں میں نرم‌مزاجی اور ٹوٹنے کی وجہ سے اُس کے جسم میں شکر کی مقدار کم ہو جاتی ہے ۔
+:::

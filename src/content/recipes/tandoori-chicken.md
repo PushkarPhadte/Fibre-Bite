@@ -106,3 +106,42 @@ prepTimeEstimated: true
 4. आधीच गरम केलेल्या 200°C (400°F) ओव्हनमध्ये 25–30 मिनिटे बेक करा. मध्ये एकदा उलटून चिकन मऊ होईपर्यंत शिजवा.
 5. ताज्या कोथिंबिरीने सजवा आणि वरून लिंबाचा रस घाला.
 :::
+
+:::lang en
+# Tandoori Chicken
+
+Chicken pieces coated in a spiced yogurt marinade, seasoned with garlic, ginger, lemon, and warm spices, baked or roasted.
+
+## Instructions
+1. Make deep slashes on chicken pieces.
+2. Combine yogurt, ginger-garlic, lemon juice, spices, salt, and oil into a smooth marinade.
+3. Marinate chicken for at least 2 hours (or overnight in the fridge).
+4. Bake in a preheated oven at 200°C (400°F) for 25-30 minutes, turning once until tender.
+5. Garnish with fresh cilantro and lemon juice.
+:::
+
+:::lang bn
+# তানলি মুরগি
+
+মুরগির মাংসের রসের রস দিয়ে তৈরি মুরগি, রসুন, লেবু, গরম মসলা, গরম মসলা, গরম মসলা, গরম মসলা, গরম মসলা, গরম মসলা ও আগুন ।
+
+## Instructions
+1. মুরগির টুকরোর মাঝে গভীর রাখুন
+2. লেবিতে, ভাটার, লেবু, লেবুর জুস, মসলা, লবণ এবং তেল এক মসৃণ মারদে।
+3. মারিনাতে অন্তত ২ ঘন্টা ধরে মুরগির মাংস (বা রাতের খাবার)।
+4. ২৪-৩০ মিনিটের মধ্যে ২০০ পাউন্ড (৪০০ ডিগ্রি সেলসিয়াস) এর প্রবাল প্রাচীরে ব্রেক এক সময় চলে যায়।
+5. তাজা সিলেলিন আর লেবুর জুস দিয়ে গারসন।
+:::
+
+:::lang ur
+# ٹنڈوری چیکن
+
+اِس کے بعد اُس نے اِن چیزوں کو اِستعمال کِیا ۔
+
+## Instructions
+1. مرغی کے ٹکڑوں پر گہری گولیاں بنائیں۔
+2. آمیزش کانسی، آمیزش-جرلک، ٹماٹر جوس، چاول، نمک اور تیل کو ایک ہموار مرکب میں ملا کر بنایا جاتا ہے۔
+3. مارینٹی مرغی کم از کم 2 گھنٹے ( یا پھر فرج میں رات کو)۔
+4. 25-30 منٹ کے لیے ایک پری اون میں بیک وقت 200°C (400°F) پر بیک وقت ایک بار پھر نرمی کے یہاں تبدیل ہو جاتا ہے۔
+5. جس میں تازہ سیلانرو اور ٹماٹر کا رس شامل ہے ۔
+:::

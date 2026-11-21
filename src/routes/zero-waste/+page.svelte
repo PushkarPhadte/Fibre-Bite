@@ -23,8 +23,8 @@
 </script>
 
 <svelte:head>
-	<title>Zero-waste recipe finder | Fibre-Bite</title>
-	<meta name="description" content="Find recipes that use ingredients you already have on hand." />
+	<title>{t('zero.title')} | Fibre-Bite</title>
+	<meta name="description" content={t('meta.zeroDescription')} />
 </svelte:head>
 
 <main class="page-enter mx-auto max-w-7xl space-y-8 px-5 py-8 sm:px-8 md:py-12">
@@ -57,7 +57,7 @@
 							{#each pantry.ingredients as ingredient (ingredient)}
 								<li class="inline-flex items-center gap-1 rounded-md border border-emerald-900/15 bg-emerald-50 px-2.5 py-1.5 text-sm text-emerald-950">
 									{ingredient}
-									<button type="button" aria-label={`Remove ${ingredient}`} class="rounded p-0.5 text-emerald-800 hover:bg-emerald-100" onclick={() => removePantryIngredient(ingredient)}><X size={14} /></button>
+									<button type="button" aria-label={t('zero.removeIngredient', { ingredient })} class="rounded p-0.5 text-emerald-800 hover:bg-emerald-100" onclick={() => removePantryIngredient(ingredient)}><X size={14} /></button>
 								</li>
 							{/each}
 						</ul>

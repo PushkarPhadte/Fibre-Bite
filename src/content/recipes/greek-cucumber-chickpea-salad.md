@@ -92,3 +92,39 @@ prepTimeSource: 'https://www.themediterraneandish.com/chickpea-salad-recipe/'
 3. सॅलडच्या मिश्रणावर ड्रेसिंग ओता आणि सर्व घटक नीट एकत्र होईपर्यंत हलवा.
 4. चव एकमेकांत मुरण्यासाठी वाढण्यापूर्वी 10 मिनिटे तसेच ठेवा.
 :::
+
+:::lang en
+# Greek Cucumber Chickpea Salad
+
+Crunchy cucumbers, ripe tomatoes, red onion, and protein-packed chickpeas tossed in a light lemon-oregano vinaigrette.
+
+## Instructions
+1. In a large bowl, combine chickpeas, diced cucumbers, halved cherry tomatoes, and sliced red onion.
+2. In a small bowl, whisk together olive oil, lemon juice, and dried oregano.
+3. Pour the dressing over the salad mixture and toss thoroughly to combine.
+4. Let rest for 10 minutes before serving to allow flavors to meld.
+:::
+
+:::lang bn
+# গ্রীক কিকুম্বা মুরগির শাদ
+
+ক্রাঞ্চি সিঞ্চ, পাকা টমেটো, লাল, এবং প্রোটিনে পিঁয়াজ, হালকা লেবু-রোগানো-পরীতি।
+
+## Instructions
+1. একটা বড় বাটি বাটিকলের মধ্যে একটা বড় বাটিপোকার সঙ্গে মিলে যায় ।
+2. এক বাটি বাটি বাটিতে একসঙ্গে জলপাই, লেবুর জুস, শুকনো ও শুকানো থাকে ।
+3. সালাদের মিশ্রণের ওপর কাপড় ঢালুন এবং প্রচুর পরিমাণে মিলিত হন ।
+4. দশ মিনিট বিশ্রাম নাও... ...নিজেদের স্বাদ দেয়ার আগে.
+:::
+
+:::lang ur
+# یونانی قونصل خانہ سالار
+
+چیرکسی گاو، پکتے ہوئے ٹماٹر، سرخ اونی اور پروٹین-کرین-کرگینو وغیرہ کی ایک ہلکے ٹماٹر میں۔
+
+## Instructions
+1. ایک بڑے پیالے میں ، پابلوس کو ملا کر ، کُل‌وقتی طور پر گائے ، کُل‌وقتیکہی ٹماٹر اور سُرخ اون کو ملا دیا جاتا ہے ۔
+2. ایک چھوٹے سے پیالے میں وِسک زیتون کا تیل ، ٹماٹر جوس اور خشکی کے بعد اُس کے تیل کو ملا دیتا ہے ۔
+3. اِس آمیزے کو ملا کر رکھیں ۔
+4. کھانے پینے سے پہلے ۱۰ منٹ آرام کریں ۔
+:::

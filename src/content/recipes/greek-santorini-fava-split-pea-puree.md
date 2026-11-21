@@ -117,3 +117,39 @@ prepTimeEstimated: true
 3. मीठ, लिंबाचा रस आणि 8 मिलीलीटर ऑलिव्ह ऑइल मिसळा, नंतर हँड ब्लेंडरने अगदी गुळगुळीत आणि मखमली होईपर्यंत वाटा.
 4. हे मिश्रण उथळ सर्व्हिंग डिशमध्ये पसरवा आणि वर चिरलेला लाल कांदा, धुतलेले केपर्स, उरलेले 10 मिलीलीटर ऑलिव्ह ऑइल, ग्रीक ओरिगॅनो आणि चिरलेली पार्सली घाला.
 :::
+
+:::lang en
+# Greek Santorini Fava (Yellow Split Pea Puree with Capers and Red Onion)
+
+Silky Cycladic legume puree of yellow split peas slowly simmered with sweet onion, garlic, and bay, served warm or chilled with extra-virgin olive oil, red onion, lemon, and capers.
+
+## Instructions
+1. Warm 10 ml of olive oil in a heavy saucepan, sauté the chopped yellow onion and garlic for 4 minutes until translucent, then stir in the rinsed yellow split peas.
+2. Pour in 750 ml of water, bring to a boil while skimming any surface foam, then reduce to low heat and simmer partially covered for 35 to 40 minutes until the peas break down completely.
+3. Stir in the salt, lemon juice, and 8 ml of olive oil, then puree with an immersion blender until satin-smooth.
+4. Spread onto a shallow serving dish and top with the diced red onion, rinsed capers, remaining 10 ml of olive oil, Greek oregano, and chopped parsley.
+:::
+
+:::lang bn
+# গ্রীক সান্টোরিনি ফাভা (হলুদের সাথে পয়লাকে বিভক্ত কর)
+
+রেশমি সাইক্লোক্‌ম দিয়ে হলুদের টুকরো টুকরো তৈরি হয় ধীরে ধীরে মিষ্টি, রসুন, রসুন এবং বে-এর মিষ্টি দিয়ে, যা আরো উষ্ণ অথবা শীতল হয়, লাল, লেবু, লেবু এবং টুপির রসালো।
+
+## Instructions
+1. প্রচুর সস্যাপে জলপাই তেল, সসেজ এবং রসুন দিয়ে তৈরি হলুদ ও রসুন কয়েক মিনিট পর্যন্ত কেটে ফেলা হয়, এরপর তারা হলুদ টুকরো টুকরো টুকরোর মধ্যে ছড়িয়ে পড়ে।
+2. ৭৫০ মিটার পানির পিঁয়াজে গরমের সময় তাপমাত্রা বেড়ে যায় ।
+3. লবণ, লেবুর জুস, আর আট মিটার জলপাই তেল, তারপর জলাবদ্ধতার সাথে... ...শরীর সাথে...
+4. কিন্তু, বেশির ভাগ সময়ই এই ধরনের খাবার ব্যবহার করা হয় ।
+:::
+
+:::lang ur
+# یونانی سنتورینی فاوا (Yellow Split Peale with Capers and Red Onion)۔
+
+پیلے رنگ کے پیلے رنگ کے پکوانوں کو آہستہ آہستہ خوشبودار اون ، لہسن اور بجو سے پکایا جاتا تھا ۔
+
+## Instructions
+1. زیتون کے تیل کا ۱۰ ملی گرام بھاری پکوان میں گرم ہوتا ہے ۔
+2. پانی کے 750 ملی‌میٹر میں پانی بھرتا ہے اور کسی بھی سطح کی گولیوں کی سکی‌انگ کرتے ہوئے پگھلتا ہے اور پھر اُسے کم گرم اور کم‌ازکم 35 سے 40 منٹ تک ڈھانپ دیا جاتا ہے ۔
+3. نمک ، مکئی کے جوس اور ۸ ملی‌میٹر زیتون کے تیل میں پکایا جاتا ہے ۔
+4. زیتون کے تیل ، یونانی یانی‌سی‌سی‌سی‌سینو کے تیل کے ۱۰ میٹر کے فاصلے پر زیتون کے تیل ، اُن کے تیل اور اُن کے تیل کے ٹکڑے اُوپر اُوپر اُتر آتے ہیں ۔
+:::

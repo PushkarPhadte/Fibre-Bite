@@ -85,3 +85,36 @@ prepTimeEstimated: true
 2. तेल गरम करून मोहरी तडतडू द्या; मग शेंगदाणे, मिरच्या, कढीपत्ता आणि हळद घाला.
 3. भातात फोडणी, मीठ आणि लिंबाचा रस मिसळा.
 :::
+
+:::lang en
+# Lemon Brown Rice with Peanuts
+
+South Indian-style lemon rice made with brown rice, peanuts, mustard and curry leaves.
+
+## Instructions
+1. Cook the brown rice, spread on a plate and let it cool.
+2. Heat the oil, splutter the mustard seeds, then add the peanuts, chillies, curry leaves and turmeric.
+3. Toss the rice with the tempering, salt and lemon juice.
+:::
+
+:::lang bn
+# পিনাটের সাথে লেবু ব্রাউন ভাত
+
+দক্ষিণ ভারতীয় স্টাইলের লেবু চালের সাথে বাদামী ভাত, বাদাম, সরীসৃপ এবং পাতা দিয়ে তৈরি।
+
+## Instructions
+1. বাদামি ভাত রান্না কর, প্লেটে ছড়িয়ে পর এবং এটাকে শান্ত করো।
+2. তেলে ভরা তেল, সরিষাদানার বীজ, তারপর বাদাম, ঠাণ্ডা পাতা এবং টার্মি যোগ করুন ।
+3. লবণ আর লেবুর রস দিয়ে ভাতের কথা বলে।
+:::
+
+:::lang ur
+# مونگ‌پھلی سے لیس براؤن رائس
+
+جنوبی ہندوستانی سنیما چاول کی بنی جو بھورے چاول، مونگ پھلی، گنا اور چاول کے پتوں سے بنی تھی۔
+
+## Instructions
+1. کوکو بھورے رنگ کی راکھ کو ایک پلیٹ پر پھیلا کر ٹھنڈا ہونے دیں ۔
+2. تیل کو صاف کرنے ، رائی کے بیج کو دبا دینے ، پھر مونگ‌پھلی ، اُبالنے ، پتوں اور ترشے شامل کریں ۔
+3. چاول کو نرم کرنے ، نمک اور ٹماٹر کے جوس سے حاصل کِیا جاتا ہے ۔
+:::

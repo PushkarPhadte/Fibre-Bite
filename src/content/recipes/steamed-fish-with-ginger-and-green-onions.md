@@ -80,3 +80,39 @@ prepTimeEstimated: true
 3. तमारी, तिळाचे तेल आणि पाणी एकत्र करून शिजलेल्या मासळीवर ओता.
 4. ताज्या हिरव्या कांद्याच्या बारीक लांब कापांनी सजवा.
 :::
+
+:::lang en
+# Steamed Fish with Ginger and Green Onions
+
+Tender white fish fillet steamed with julienned ginger, green onions, and light soy sauce in traditional Cantonese style.
+
+## Instructions
+1. Place fish fillet on a heatproof plate; top generously with julienned ginger.
+2. Steam over boiling water for 8–10 minutes until fish flakes easily.
+3. Mix tamari, sesame oil, and water; pour over cooked fish.
+4. Garnish with fresh julienned spring onions.
+:::
+
+:::lang bn
+# Ginger এবং সবুজ পেয়াজের স্টেম মাছ
+
+মিষ্টি সাদা মাছ রস দিয়ে ভরা।
+
+## Instructions
+1. মাছ গরমপ্রুফ প্লেটে রাখা হতো; সবচেয়ে বেশি পাকা হতো ।
+2. ৮-১০ মিনিটের জন্য ফুটন্ত পানির উপর ফুটবে যতক্ষণ না মাছগুলো সহজে কাপতে পারে।
+3. মিক্স টামারি, সিমার তেল এবং জল; রান্নার মাছে ঢেলে দাও।
+4. তাজা রসালো বসন্ত নিয়ে খেলা।
+:::
+
+:::lang ur
+# گینگر اور گرین اونس کے ساتھ مچھلی
+
+سفید مچھلیاں روایتی کینٹن طرزِتعمیر میں جولین‌نجن ، سبز پیاز اور روشنی کا سکہ بھرتی تھیں ۔
+
+## Instructions
+1. مچھلیوں کو ایک گرم پلیٹ پر بھر دیں ؛ سب سے زیادہ فراخ‌دلی سے جولین‌ن‌ڈ آمیزے کے ساتھ ۔
+2. جب تک مچھلیوں کا پانی آسانی سے نہیں بہایا جاتا ۔
+3. مچھلیوں کو زیادہ پکایا جاتا ہے ۔
+4. اُس نے کہا : ” مَیں اِس بات کا یقین نہیں کر سکتا کہ مَیں اُس کے ساتھ ہوں ۔ “
+:::

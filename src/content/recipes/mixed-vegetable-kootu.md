@@ -100,3 +100,39 @@ prepTimeEstimated: true
 3. नारळ, जिरे आणि हिरव्या मिरच्या थोड्या पाण्यासह वाटून घ्या, मिश्रणात मिसळा आणि 3 मिनिटे मंद आचेवर शिजवा.
 4. तेल गरम करून मोहरी तडतडू द्या आणि कढीपत्ता घाला; ही फोडणी वरून ओता.
 :::
+
+:::lang en
+# Mixed Vegetable Kootu
+
+A South Indian stew of moong dal and vegetables finished with a coconut-cumin paste.
+
+## Instructions
+1. Cook the dal with the turmeric and water until soft, about 20 minutes.
+2. Add the vegetables and salt and cook for 12 minutes until tender.
+3. Grind the coconut, cumin and green chillies with a little water and stir in; simmer for 3 minutes.
+4. Heat the oil, splutter the mustard seeds and curry leaves and pour over.
+:::
+
+:::lang bn
+# স্ফূটনাঙ্ক
+
+নারিকেলের পেস্ট দিয়ে একটি দক্ষিণ ভারতীয় চৈতন্য এবং সবজি পরিবেশন করা হয়েছে।
+
+## Instructions
+1. রাতভরচী আর পানিকে রান্না করে ২০ মিনিট পর্যন্ত।
+2. কোমল না হওয়া পর্যন্ত সবজি এবং লবণ ও রান্না করুন।
+3. নারিকেল, জল ও সবুজ ঠাণ্ডার সঙ্গে তুলনা করুন; ৩ মিনিটের জন্য সহজ ।
+4. তেল ঢালে, সরিষাদানার বীজ, ফলের পাতা এবং তেল ঢালে।
+:::
+
+:::lang ur
+# یو . ایس .
+
+ایک جنوبی ہندو تقویم چاند دَل اور سبزیوں کا ختم ہو گیا تھا جس میں ناریل-کومین پَر تھا۔
+
+## Instructions
+1. دول کو نرم تک نرم اور تقریباً 20 منٹ تک نرم اور پانی کے ساتھ رکھیں۔
+2. سبزیاں اور نمک شامل کریں اور ۱۲ منٹ تک نرم‌مزاج رہیں ۔
+3. ناریل ، گردے اور ہرے رنگ کے پتوں میں پانی کم ہوتا ہے اور ۳ منٹ تک اِس میں اضافہ ہوتا ہے ۔
+4. تیل کو صاف کرنے ، رائی کے دانے اور اُس کے پتے صاف کرنے اور اُوپر سے پھینکنے کی کوشش کرتے ہیں ۔
+:::

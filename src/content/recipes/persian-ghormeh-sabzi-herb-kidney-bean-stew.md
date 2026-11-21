@@ -109,3 +109,39 @@ prepTimeEstimated: true
 3. राजमा शिजवलेल्या पाण्यासह घाला (एकूण द्रव 700 मिलीलीटर करा), मीठ आणि काळी मिरी घालून 30 मिनिटे मंद आचेवर शिजवा.
 4. लिंबाचा रस मिसळा, आणखी 5 मिनिटे शिजवा आणि ब्राउन राईसबरोबर वाढा.
 :::
+
+:::lang en
+# Ghormeh Sabzi (Persian Herb and Kidney Bean Stew)
+
+Deep green Persian stew of parsley, coriander, fenugreek and spring onion with kidney beans and lime, served with brown rice.
+
+## Instructions
+1. Soak the kidney beans overnight, drain, then boil in fresh water for 45 minutes until nearly tender.
+2. Fry the onion in the oil until golden, add the turmeric, then all the chopped herbs and spring onion and sauté on low heat for 15 minutes until dark and fragrant.
+3. Add the beans with their cooking water (make up to 700 ml), the salt and pepper and simmer for 30 minutes.
+4. Stir in the lime juice, simmer 5 more minutes and serve with brown rice.
+:::
+
+:::lang bn
+# গিমেহ সাবজি (ফার্সী হার্ব এবং কিনি বেইন স্টেই)
+
+পারদারিক সবুজ ফার্সী রঙের পাপড়ি, কোরিয়ান্ডার, মাননুর এবং বসন্তে, যার মধ্যে রয়েছে শ্বাসকষ্টের শিম এবং চুড়ি।
+
+## Instructions
+1. কিছুক্ষণের মধ্যে ইলেকট্রিসিটির শিম, ড্রেনিং, তারপর পানিতে ৪৫ মিনিটের জন্য সিদ্ধ হয়।
+2. তেলের উপর তেল ঢালুন, তেল যোগ করে, তারপর সব ভেষজ ও বসন্তে ১৫ মিনিট কম গরমের পর।
+3. তাদের রান্নার পানি দিয়ে শিমগুলো যোগ করুন ( ৭০০ মিলি), লবণ এবং মরিচ ৩০ মিনিটের জন্য।
+4. লাইম জুসে স্টিয়ারিং, সিমমার ৫ মিনিট এবং বাদামি চালের সাথে কাজ করে।
+:::
+
+:::lang ur
+# گورمیہ سبزی (فارسی ہرب اور کdی بانی اسٹو )
+
+اِس کے علاوہ اِن میں سے ہر ایک کے لئے گندم کے دانوں کا استعمال بھی کِیا جاتا ہے ۔
+
+## Instructions
+1. اِس کے بعد 45 منٹ تک تازہ پانی میں پکایا جاتا ہے ۔
+2. سونے تک تیل میں موجود اونی ذرات کو ملا کر اس کے بعد تمام جڑی بوٹیاں اور موسم گرما میں 15 منٹ تک کم گرمیوں اور خوشبوؤں پر مشتمل ہوتا ہے۔
+3. اِس کے علاوہ اِس میں نمک اور مکھن بھی شامل کئے جاتے ہیں ۔
+4. اِس کی ایک وجہ یہ ہے کہ اِن میں سے 5 منٹ کے اندر اندر اندر اِس کا ذائقہ بڑھ جاتا ہے ۔
+:::

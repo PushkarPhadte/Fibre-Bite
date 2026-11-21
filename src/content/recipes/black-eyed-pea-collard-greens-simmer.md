@@ -89,3 +89,36 @@ prepTimeEstimated: true
 2. कोलार्ड पालेभाजी आणि पाणी घाला, झाकण ठेवून 12 मिनिटे मऊ होईपर्यंत मंद आचेवर शिजवा.
 3. चवळी आणि चिरलेले टोमॅटो मिसळा. चवी एकत्र येईपर्यंत झाकण न ठेवता 10 मिनिटे शिजवा.
 :::
+
+:::lang en
+# Black-Eyed Pea and Collard Greens Simmer
+
+Hearty black-eyed peas simmered with chopped collard greens, garlic, smoked paprika, and tomato.
+
+## Instructions
+1. Heat olive oil in a pot over medium heat and sauté garlic and smoked paprika for 1 minute.
+2. Add collard greens and water, cover, and simmer for 12 minutes until tender.
+3. Stir in black-eyed peas and diced tomatoes and simmer uncovered for 10 minutes until flavors meld.
+:::
+
+:::lang bn
+# কালো-ইদ পেয়া এবং কর্ড গ্রিন সিমমের
+
+হৃদয়ে কালো-কালো মটরশুঁটি দিয়ে ঢাকা সবুজ, রসুন, ধূমপান করা পাক্কা এবং টমেটো।
+
+## Instructions
+1. গরম গরমের মধ্যে হেট জিতবৃক্ষের তেল এবং সসেজ রসুন এবং ১ মিনিটের জন্য ধূমপান করা পাস্তা।
+2. কোমল না হওয়া পর্যন্ত ১২ মিনিট ধরে কলারে সবুজ ও জল যোগ করুন ।
+3. কালো ডাল আর স্যাঁতসেঁতে সসেজ আর স্যাঁতসেঁতেনো টমেটো... ... ১০ মিনিট ধরে খোলা আছে...
+:::
+
+:::lang ur
+# کالا-اے-اے-پے اور Colard Greens Simer ہے۔
+
+دل کی سیاہ آنکھوں والے پُراسرار سبز رنگ ، لہسن ، لہسن اور مونگ‌پھلی سے پُر تھے ۔
+
+## Instructions
+1. زیتون کے تیل کو درمیان میں گرم گرم اور صابن اور صابن‌سازی کیلئے ۱ منٹ تک استعمال کِیا جاتا ہے ۔
+2. اِس میں سبز رنگ اور پانی ، چادر اور اُس وقت تک 12 منٹ تک نرم‌مزاج رہنے کی گنجائش تھی ۔
+3. یہاں تک کہ مے تیار کی جاتی ہے ۔
+:::

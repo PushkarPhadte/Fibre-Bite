@@ -98,3 +98,39 @@ prepTimeSource: 'https://www.themediterraneandish.com/mediterranean-lentil-salad
 3. डाळीच्या मिश्रणावर ड्रेसिंग ओता.
 4. हळुवारपणे एकत्र करून थंड किंवा खोलीच्या तापमानाला सर्व्ह करा.
 :::
+
+:::lang en
+# Mediterranean Lentil Salad
+
+Nutritious brown lentils tossed with crisp cucumbers, cherry tomatoes, feta cheese, and lemon vinaigrette.
+
+## Instructions
+1. In a large bowl, combine cooked lentils, diced cucumber, halved cherry tomatoes, and crumbled feta cheese.
+2. In a small jar, whisk together extra virgin olive oil, lemon juice, dried oregano, and salt.
+3. Pour the dressing over the lentil mixture.
+4. Toss gently to combine and serve chilled or at room temperature.
+:::
+
+:::lang bn
+# এশিয়া মাইনর
+
+নিউ সায়েনটিস্ট মনোমুগ্ধকর বাদামি ফল, চেরি টমেটো, পেটা পনির এবং লেবুর রস দিয়ে আঘাত করে ।
+
+## Instructions
+1. এক বড় বাটি বাটি, রান্না করা হাঁড়ি, গুবরেপোকা, কাটা চেরি টমেটো এবং পনির টুকরো টুকরো করে ।
+2. একটা ছোট্ট কলায়, একসঙ্গে কুমারী জিতবৃক্ষ, লেবুর জুস, শুকনো অথবা লবণ ।
+3. লোহার মিশ্রণের উপর কাপড় ঢালো।
+4. কোমলভাবে মিলিত হতে এবং ঘরের তাপমাত্রায় ঠাণ্ডা থাকতে সাহায্য করে ।
+:::
+
+:::lang ur
+# بحیرۂروم
+
+بھورے رنگ کے مونگ‌پھلی سے حاصل ہونے والے گندم ، مکئی ، پنیر ، پنیر کانسی اور مونگ‌پھلی وغیرہ حاصل کئے جاتے ہیں ۔
+
+## Instructions
+1. ایک بڑے پیالے میں ، مونگ‌پھلی ، کیک‌کیم‌بر ، شکر‌کُن ٹماٹر اور چربی کا پنیر ملا کر کھایا جاتا ہے ۔
+2. ایک چھوٹے سے برتن میں ، وِسک زیتون کے تیل ، مکئی کا رس ، خشک اور نمک ملا کر رکھتا ہے ۔
+3. اسپنج کے آمیزے پر کپڑا لگائیں ۔
+4. اِس کے علاوہ اُس نے اِس بات کا بھی خیال رکھا کہ اُس نے اُن سے پوچھا : ” کیا مَیں اِس بات کا یقین کر سکتا ہوں کہ مَیں اُن سے بات کر رہا ہوں ؟ “
+:::

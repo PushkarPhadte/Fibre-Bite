@@ -83,3 +83,39 @@ prepTimeSource: 'https://cookieandkate.com/roasted-sweet-potato-kale-salad/'
 3. ड्रेसिंग बनवण्यासाठी ऑलिव्ह ऑइल, ॲपल सायडर व्हिनेगर आणि मेपल सिरप फेटून एकत्र करा।
 4. मऊ केलेली केल, भाजलेले रताळे आणि भोपळ्याच्या बिया एकत्र करा; ड्रेसिंग घालून मिसळा।
 :::
+
+:::lang en
+# Roasted Sweet Potato and Kale Salad
+
+Massaged raw kale tossed with roasted sweet potato cubes, pumpkin seeds, and tangy apple cider vinaigrette.
+
+## Instructions
+1. Roast sweet potato cubes at 200°C (400°F) for 25 minutes.
+2. Place chopped kale in a bowl with a few drops of olive oil and salt; massage with hands until tender.
+3. Whisk olive oil, apple cider vinegar, and maple syrup to make dressing.
+4. Combine massaged kale, roasted sweet potatoes, and pumpkin seeds; toss with dressing.
+:::
+
+:::lang bn
+# মিষ্টি পটেটো এবং কাল সালাদ
+
+কুমড়া মিষ্টি আলু কিউব, কুমড়া বীজ, এবং টিংগি আপেল সিডারিয়েতে ভরা।
+
+## Instructions
+1. ২৫ মিনিটের জন্য মিষ্টি আলু কিউবকে ২০০ ডিগ্রি সেলসিয়াস (৪০০ মার্কিন ডলার)।
+2. এক বাটি ডালে কাটা কাটা কাটা কাটা, যার কয়েক ফোঁটা জলপাই তেল এবং লবণ; যতক্ষণ না কোমল হাত দিয়ে ফুটতে থাকে ।
+3. ঘন জলপাই তেল, আপেল সিডারার আর ম্যাপযুক্ত সিরাপ পোশাক তৈরি করার জন্য।
+4. কমবিন ম্যাটারড কেলে, হালকা আলু এবং কুমড়া বীজ; পোশাক পরে।
+:::
+
+:::lang ur
+# سوئیٹتاتو اور کلے سالاد داخل ہوئے۔
+
+اِس کی وجہ یہ ہے کہ اِن میں سے کچھ بیج ہیں ۔
+
+## Instructions
+1. شہد کی مکھیوں کو 200°C (400°F) میں 25 منٹ تک داخل کریں.
+2. ایک پیالے میں زیتون کے تیل اور نمک کے چند قطرے ؛ نرم‌مزاجی تک ہاتھ ملا کر رکھیں ۔
+3. زیتون کا تیل ، سیب کی سیڈر اور کپڑے بنانے کیلئے نقشہ‌جات ۔
+4. اِس کی وجہ یہ ہے کہ اُن کے کپڑوں کو صاف کرنے کے لئے اُن کے کپڑے صاف کئے جاتے ہیں ۔
+:::

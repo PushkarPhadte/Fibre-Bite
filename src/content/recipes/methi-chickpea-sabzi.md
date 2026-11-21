@@ -85,3 +85,36 @@ prepTimeEstimated: true
 2. टोमॅटो आणि हळद घालून 3 मिनिटे शिजवा.
 3. मेथी, हरभरे आणि मीठ घालून झाकण न ठेवता 8 मिनिटे पाने मऊ होईपर्यंत शिजवा.
 :::
+
+:::lang en
+# Methi Chickpea Sabzi
+
+Fresh fenugreek leaves tossed with chickpeas, garlic and tomato.
+
+## Instructions
+1. Heat the oil, splutter the cumin and cook the onion and garlic until golden.
+2. Add the tomato and turmeric and cook for 3 minutes.
+3. Add the methi, chickpeas and salt and cook uncovered for 8 minutes until the leaves are tender.
+:::
+
+:::lang bn
+# মেথি মুরগিশা সাবজ
+
+নতুন ফুলদানা মুরগি, রসুন এবং টমেটো দিয়ে গঠিত হয় ।
+
+## Instructions
+1. তেল ঢালে, ধূমপায়ী করে আর কোদাল আর রসুন রান্না করে।
+2. টমেটো আর টরমেরিক যোগ করো আর ৩ মিনিট রান্না করো।
+3. যদি পাতাগুলো কোমল না হয়, তা হলে মৌমাছিরা ও লবণে পরিণত হয় ।
+:::
+
+:::lang ur
+# مِتَّی چَکَپَا سَبَبِّی
+
+اِس کی ایک وجہ یہ ہے کہ اِس میں لہسن ، لہسن اور ٹماٹر شامل ہیں ۔
+
+## Instructions
+1. تیل کو صاف کریں اور سونے تک اون اور لہسن کو پکا لیں ۔
+2. ٹماٹر اور ترشے کو ملا کر 3 منٹ تک پکایا جاتا ہے۔
+3. جب تک پتے نرم نہیں ہوتے اِس لئے اُن کے پتوں کو صاف نہیں کِیا جاتا ۔
+:::

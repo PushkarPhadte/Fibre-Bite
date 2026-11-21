@@ -114,3 +114,39 @@ prepTimeEstimated: true
 3. चिरलेली काकडी आणि टोमॅटो, कापलेला पातीचा कांदा, चिरलेली पार्सली आणि ताजी पुदिन्याची पाने हलक्या हाताने मिसळा.
 4. किसिर कुरकुरीत रोमेन लेट्यूसच्या पानांत भरून वाढा किंवा थंड करून त्या पानांसोबत वाढा.
 :::
+
+:::lang en
+# Turkish Kisir (Fine Bulgur and Pomegranate Herb Salad)
+
+Zesty Anatolian whole-grain salad of fine bulgur hydrated with tomato paste, tangy pomegranate molasses, crisp cucumber, scallions, and abundant fresh herbs.
+
+## Instructions
+1. Place the fine bulgur in a heatproof bowl, pour 220 ml of boiling water over it, cover tightly, and let stand for 15 minutes until tender.
+2. Fluff the bulgur with a fork and work in the tomato paste, olive oil, pomegranate molasses, lemon juice, cumin-pepper blend, and salt until evenly tinted red.
+3. Fold in the diced cucumber, tomatoes, sliced scallions, chopped parsley, and fresh mint.
+4. Spoon the kisir into crisp romaine lettuce leaves or serve chilled alongside them.
+:::
+
+:::lang bn
+# তুর্কি কিসির (ফাইন বুলগুর এবং পোমমগ্রাথ হার্ব সালাদ)
+
+জেটি আনাতোলিয়ান পুরো চিনির সালাদের সাথে টমেটো পেস্ট, টিয়াংসি মোলাস, সিক্‌লা, সিক্‌লা, সিক্‌লা, শাল আর প্রচুর তাজা ভেষজ পান করেছে।
+
+## Instructions
+1. গরমপ্রুফ বাষণ্ডের মধ্যে উত্তম মল স্থাপন করুন, ২০২০ মিটার জলকে ওপরের ওপর ফুটতে দিন, শক্ত করে ঢেকে রাখুন এবং ১৫ মিনিট অপেক্ষা করুন ।
+2. টমেটো পেস্ট, জলপাই তেল, লেবু, লেবুর জুস, লেবুর জুস, চাঁবি, চাঁন-দানা আর লবণের সস্যতি পর্যন্ত ছড়িয়ে দিন।
+3. গুটিপোকার সারি, টমেটো, স্ল্যাপস্‌, অনুচক্রিকা, প্যালা কেটে, আর নতুন মিনিট ।
+4. পাপড়ির সাথে মিশে যাওয়া লেটুচে পাতা বা এদের পাশে ঠান্ডায় কাজ করে।
+:::
+
+:::lang ur
+# ترکی کیسر (Fine Bulgur اور Pomegranate Herb Salad) ہے۔
+
+زَستِی عَنَوْلَيْنَ مکمل طور پر عمدہ بُلْغَر ہِدُودُونَ سانچہ:قرآن-سورہ 56 آیت 22۔۔
+
+## Instructions
+1. اِس کی بجائے وہ اِس بات پر غور کرتے ہیں کہ اُن کے ساتھ کیا ہوگا ۔
+2. اِس سے ظاہر ہوتا ہے کہ اِس کا ذائقہ اُس وقت تک قائم رہتا ہے جب تک کہ اُس کا رنگ سرخ نہیں ہوتا ۔
+3. اِس کی ایک وجہ یہ ہے کہ اُس نے اِس بات کی تصدیق کی کہ اُس نے اُس کے دل کو چُھو لیا ہے ۔
+4. اِس کے بعد اِن پتوں کو اُس کی جگہ لے لیا جاتا ہے ۔
+:::

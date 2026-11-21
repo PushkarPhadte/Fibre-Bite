@@ -85,3 +85,36 @@ prepTimeEstimated: true
 2. हिरवा व लाल कोबी आणि गाजर कोथिंबिरीसह ड्रेसिंगमध्ये एकत्र करा.
 3. कोबी किंचित मऊ होण्यासाठी 10 मिनिटे तसेच ठेवा, मग वाढा.
 :::
+
+:::lang en
+# Peanut Lime Cabbage Slaw
+
+Shredded green and red cabbage with carrot in a ginger-peanut-lime dressing.
+
+## Instructions
+1. Whisk the peanut butter, lime juice, tamari, ginger and chilli with 2 tablespoons of warm water until smooth.
+2. Toss the cabbages, carrot and coriander with the dressing.
+3. Rest for 10 minutes so the cabbage softens slightly, then serve.
+:::
+
+:::lang bn
+# পিনাট কাটা কাব্বাগ শাল
+
+সাদা রঙের সবুজ আর লাল রঙের ক্যাবেজের পোশাক পরে।
+
+## Instructions
+1. বাদামের মাখন, লাইম জুস, টারি, ভোদড় এবং ঠাণ্ডা পানীয় ।
+2. ট্যাক্সিব্যাগ, কারিট আর রিয়ান্ডারকে ড্রেসিং এ নিয়ে।
+3. ১০ মিনিটের জন্য বিশ্রাম নাও, তো একটু নরম হয়ে যাচ্ছে, তাহলে কাজ করো।
+:::
+
+:::lang ur
+# مونگ‌پھلی کے شیر کاک‌بُو
+
+شرد سبز اور سرخ رنگ کے رنگوں کے ساتھ ایک آمیزش-پنج پہنتے ہوئے
+
+## Instructions
+1. مونگ‌پھلی کے مونگ‌پھلی کے مونگ‌پھلی ، مونگ‌پھلی ، تامری ، آمیزش اور پانی کے ۲ تختوں پر مشتمل ہے ۔
+2. توپیں، کتھا اور کریانڈر پہنتے ہیں۔
+3. 10 منٹ تک آرام کرنا اتنا آسان ہوتا ہے، پھر خدمت کرنا.
+:::

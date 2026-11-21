@@ -94,3 +94,36 @@ prepTimeEstimated: true
 2. 195 C वर 16 ते 18 मिनिटे भाजा; अर्धा वेळ झाल्यावर एकदा हलवा, भाज्या मऊ होईपर्यंत.
 3. वाढण्याच्या अगदी आधी कापलेले बदाम आणि ताजा पुदिना मिसळा.
 :::
+
+:::lang en
+# Baked Cauli-Rice and Green Pea Pilaf
+
+Oven-baked riced cauliflower with sweet green peas, toasted almonds, cardamom, and fresh mint.
+
+## Instructions
+1. Toss riced cauliflower, green peas, olive oil, and ground cardamom in a baking dish.
+2. Bake at 195 C for 16 to 18 minutes, stirring once halfway through until tender.
+3. Fold in sliced almonds and fresh mint right before serving.
+:::
+
+:::lang bn
+# বাক্কেড কাউলি-রোস এবং গ্রীন পেয়া পিলাফ
+
+ওভেন-বাক্‌ড চাল ফুল, মিষ্টি মটরশুঁটি, টোস্টেড আলমন্ডস, কার্ডমুম আর তাজা মিনিট।
+
+## Instructions
+1. চালের ফুল, সবুজ মটরশুঁটি, জলপাই তেল এবং বেকিং খাবারে মাটির কার্ডুম ।
+2. ১৯৫ সি থেকে ১৬ মিনিট পর্যন্ত বেক, কোমল না হওয়া পর্যন্ত একবারের মতো কাঁপিয়ে দেয়।
+3. কাজের আগে ক্ল্যারড আলমন্ড এবং তাজা রংধনু ।
+:::
+
+:::lang ur
+# Baded Cauli-Rice and Green Pelaf
+
+چاولوں سے تیار کردہ چاول کیولف کو خوشبودار سبز پائی جاتی ہے، ٹماٹر، کارڈم اور تازہ منٹ کے ساتھ۔
+
+## Instructions
+1. اِس سے ظاہر ہوتا ہے کہ اُس نے اِس کھانے کو تیار کِیا ہے ۔
+2. اِس لئے اُس نے اُن سے کہا : ” اَے [ یہوواہ ] !
+3. مونگ‌پھلی میں اُگنے والے مونگ‌پھلی اور اُس کی خدمت سے پہلے تازہ‌دم ہو جاتے ہیں ۔
+:::

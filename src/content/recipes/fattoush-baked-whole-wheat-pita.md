@@ -110,3 +110,39 @@ prepTimeEstimated: true
 3. मोठ्या भांड्यात लेट्युस, टोमॅटो, काकडी, मुळा, पातीचा कांदा, पार्सली आणि पुदिना एकत्र करा.
 4. सलाडवर ड्रेसिंग घाला; वाढण्याच्या अगदी आधी पिटाचे तुकडे घालून हलक्या हाताने मिसळा.
 :::
+
+:::lang en
+# Fattoush with Baked Whole-Wheat Pita
+
+Levantine bread salad with crisp romaine, tomato, cucumber, radish and herbs, dressed with lemon and sumac and topped with oven-baked pita.
+
+## Instructions
+1. Heat the oven to 200 C. Tear the pita into bite-size pieces, toss with a third of the oil and bake for 8 minutes until crisp.
+2. Whisk the remaining oil with the lemon juice, garlic, sumac and salt.
+3. Combine the lettuce, tomato, cucumber, radish, spring onion, parsley and mint in a large bowl.
+4. Dress the salad, add the pita pieces just before serving and toss lightly.
+:::
+
+:::lang bn
+# সমগ্র-ওয়াট পিটের সাথে ফ্যাটোতুশ
+
+লেভান্টাইন রুটি সালাদের সাথে কাসিপ, টমেটো, চাবাজার, র‌্যাচ আর ভেষজের তৈরি, লেবু আর সুঁই দিয়ে তৈরি, আর চুলা-বাকী দিয়ে তৈরি।
+
+## Instructions
+1. চুলাটা ২০০ সি.
+2. লেবুর রস, রসুন আর লবণের অবশিষ্ট তেল।
+3. লেটিস, টমেটো, বনরস, রোবার, মদি, বসন্তে বসন্তের আগমন, প্যাসলি এবং একটি বড় বাটিলাতে।
+4. সালাদের পোশাক পরুন, একটু হালকা ভাবে পরিবেশন করুন।
+:::
+
+:::lang ur
+# فاطمہ جناح کے ساتھ
+
+Levantine روٹی کے برتنوں میں کریسپ رمینے، ٹماٹر، کیکمبر، ریشمی اور جڑی بوٹیاں، ٹماٹر اور کپاس سے پہنے ہوئے اور اوون بکڈ برانڈا کے ساتھ لپیٹے۔
+
+## Instructions
+1. ہیپاٹائٹس سے 200 سی تک بخارات کو کاٹنے والے ٹکڑوں میں تبدیل کر دیتا ہے، جس میں تیل کا تیسرا حصہ ہوتا ہے اور 8 منٹ تک پکایا جاتا ہے۔
+2. باقی تیل کو جوتا ، لہسن ، مکئی اور نمک ملا کر پکایا جاتا ہے ۔
+3. ایک بڑے برتن میں آلو ، ٹماٹر ، کیک‌مبر ، ریتس ، چشمہ اونون ، کیلے اور منٹ کو ملا دیں ۔
+4. اِس کی بجائے اِس میں کچھ چیزیں شامل کریں ۔
+:::

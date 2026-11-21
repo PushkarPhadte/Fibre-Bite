@@ -117,3 +117,39 @@ prepTimeEstimated: true
 3. चिरलेले बटाटे, गाजर, हिरव्या शेंगा, मीठ आणि 240 मिली पाणी मिसळा. झाकण ठेवून 12 मिनिटे मंद आचेवर शिजवा, भाज्या मऊ होईपर्यंत.
 4. हिरवे मटार आणि हलके नारळाचे दूध घाला. जोराची उकळी न आणता मंद आचेवर 4 मिनिटे हळू गरम करा; शेवटी उरलेला ताजा कढीपत्ता घाला.
 :::
+
+:::lang en
+# Kerala Vegetable Ishtu (Gentle Spiced Coconut Milk Stew)
+
+Soothing, mildly spiced Kerala vegetable stew of carrots, green beans, potatoes, and sweet green peas simmered in light coconut milk with whole cardamom, cloves, and curry leaves.
+
+## Instructions
+1. Warm the sunflower oil in a heavy pot over medium-low heat and infuse the whole cardamom, cloves, cinnamon, peppercorns, and half the curry leaves for 30 seconds.
+2. Add the sliced onion and julienned ginger and sweat gently for 4 minutes until translucent without browning.
+3. Stir in the diced potatoes, carrots, green beans, salt, and 240 ml of water; cover and simmer for 12 minutes until the vegetables are tender.
+4. Add the green peas and light coconut milk, warming gently over low heat for 4 minutes without boiling vigorously, then finish with the remaining fresh curry leaves.
+:::
+
+:::lang bn
+# কেরালার ভেজেটেবল ইলশটু (গিরল ম্যাকেটেড দুধ স্টেই)
+
+ফলে কেরালার শৈবাল, সবুজ শিম, আলু এবং মিষ্টি মটরশুঁটি হালকা নারিকেলের দুধে ভরা হয়, যা সব তাসের দুধ দিয়ে তৈরি হয় এবং পাতা শুকিয়ে যায় ।
+
+## Instructions
+1. মাঝারি উচ্চতায় সূর্যমুখী তেল গরমের মধ্যে দিয়ে প্রবাহিত হয় এবং পুরো কার্ডিয়াম, সিনিমন, মরিচের পাতা ৩০ সেকেন্ডের জন্য চলে যায়।
+2. এই টুকরো টুকরো টুকরো টুকরো করে আর জলিনটি ডোয়ার দিয়ে ৪ মিনিটের জন্য ঘাম ঝরিয়ে দেয়, যতক্ষণ না ছটফট করা হয়।
+3. সিচুয়ান আলু, গাজর, সবুজ শিম, লবণ এবং ২৪০ মিটার জল; সবজিগুলো কোমল না হওয়া পর্যন্ত ১২ মিনিট ধরে ঢেকে রাখুন ।
+4. পর্যাপ্ত পরিমাণে গরম জল সরবরাহ করুন ।
+:::
+
+:::lang ur
+# کیرالا ویگیٹو اشکتو (Gentle Spiced colection Male Stew)
+
+اِس کے علاوہ اُس نے اُن کے دودھ کو بھی پکایا ۔
+
+## Instructions
+1. سورج گرہن کے تیل کو درمیانے درجہ حرارت کے اوپر ایک بھاری برتن میں گرم کر کے پورے کارڈم، سیزن، سینممون اور نصف قطر 30 سیکنڈ تک گرم کرتا ہے۔
+2. اِس کے علاوہ اُس وقت تک اِن میں سے 4 منٹ کے لیے جب تک بھورے رنگ نہ اِستعمال نہ ہو ۔
+3. جب تک سبزی نرم نہ ہو ۔
+4. اِس کے بعد تازہ تازہ پتوں اور ناریل کا دودھ بھی ختم ہو جاتا ہے ۔
+:::

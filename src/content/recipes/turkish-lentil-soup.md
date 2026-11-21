@@ -100,3 +100,39 @@ prepTimeEstimated: true
 3. धुतलेली लाल मसूर डाळ आणि भाजीचा साठा घाला; उकळी आणा.
 4. डाळ आणि भाज्या मऊ होईपर्यंत 20 मिनिटे मंद आचेवर शिजवा; नंतर अगदी गुळगुळीत होईपर्यंत ब्लेंड करा.
 :::
+
+:::lang en
+# Turkish Lentil Soup (Mercimek Çorbası)
+
+A silky, smooth red lentil soup infused with cumin, paprika, and a touch of lemon, popular across Anatolia.
+
+## Instructions
+1. Heat olive oil in a pot and sauté onion, carrot, and potato for 5 minutes.
+2. Stir in tomato paste and cumin powder, cooking for 1 minute.
+3. Add rinsed red lentils and vegetable broth; bring to a boil.
+4. Simmer for 20 minutes until lentils and veggies are soft, then blend until silky smooth.
+:::
+
+:::lang bn
+# তুর্কি লিটলিল সোপি (মেক্কাল সেবা)
+
+একটা রেশমি, মসৃণ লালা সুপ আর আনাতোলিয়া জুড়ে জনপ্রিয় লেবুর সুপ ।
+
+## Instructions
+1. একটা পাত্রের উপর হেট জলপাই তেল এবং স্যাঁতসেঁতে পাঁচ মিনিট সময় লাগে।
+2. টমেটো পেস্ট এবং minmin পাউডার, 1 মিনিটের জন্য রান্না।
+3. অতিরিক্ত মদ পরিবেশন করুন ।
+4. শর্করাগুলো নরম না হওয়া পর্যন্ত ২০ মিনিট ধরে নরম থাকে ।
+:::
+
+:::lang ur
+# ترکی لنتیل سوپ (انگریزی: Mercimek Çorbası) ہے۔
+
+اناطولیہ میں مقبول ایک ریشمی ، ہموار سرخ رنگ کا سُرخ ٹماٹر ، پُرکیکا اور ٹماٹر کی ایک چُھو ۔
+
+## Instructions
+1. زیتون کے تیل کو ایک برتن میں اور صابن پر مشتمل تیل میں ۵ منٹ تک استعمال کِیا جاتا ہے ۔
+2. مونگ‌پھلی کے پُرانے اور پگھلے ہوئے پاوڈر میں ۱ منٹ تک کھانا کھائیں ۔
+3. اِس کے علاوہ اِس میں سرخ گندم اور سبزیاں بھی شامل ہیں ۔
+4. اِس کے بعد ریشم کے پھول کھل جاتے ہیں ۔
+:::

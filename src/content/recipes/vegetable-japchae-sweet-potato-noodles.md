@@ -120,3 +120,42 @@ prepTimeEstimated: true
 4. एका मोठ्या कढईत उरलेली तामरी, तिळाचे तेल, गूळ आणि मिरपूड घालून सर्वकाही एकत्र करा आणि 2 मिनिटे फेटून घ्या.
 5. वर तीळ घाला आणि गरम किंवा खोलीच्या तपमानावर सर्व्ह करा.
 :::
+
+:::lang en
+# Vegetable Japchae (Korean Sweet Potato Noodle Stir-Fry)
+
+Chewy glass noodles stir-fried with spinach, mushrooms, carrot and peppers in a light tamari-sesame dressing.
+
+## Instructions
+1. Boil the noodles for 6 minutes until soft and chewy, drain, rinse in cold water and cut into shorter lengths. Toss with half the tamari and half the sesame oil.
+2. Blanch the spinach for 30 seconds, squeeze dry and season with a little garlic.
+3. Stir-fry the onion, carrot, capsicum and mushrooms separately or in sequence in the sunflower oil, each for 2 to 3 minutes, so they stay crisp.
+4. Combine everything in a large pan with the remaining tamari, sesame oil, jaggery and pepper and toss for 2 minutes.
+5. Top with sesame seeds and serve warm or at room temperature.
+:::
+
+:::lang bn
+# নির্বুদ্ধি জাপচা (কোর মিষ্টি পটেটো নুডল স্টের-ফরি)
+
+কতিপয় গ্লাস নুডলস কুড়াল, মাশরুম, কারিট আর মরিচের মতো কালো পোশাক পরে।
+
+## Instructions
+1. জলস্রোতগুলো নরম ও চিবো পর্যন্ত ৬ মিনিটের জন্য নুডুলস তৈরি করে । অর্ধেক টামারি আর অর্ধেক জুতার সাথে।
+2. ৩০ সেকেন্ডের জন্য শুকনা, শুকনা আর মৌসুমের মধ্যে একটু রসুন আছে।
+3. পেখম, কার্রোট, পাকিম আর মাশরুম আলাদা করে অথবা সূর্যমুখী তেলের মধ্যে দিয়ে তৈরি হয়, প্রতি ২ থেকে ৩ মিনিট পর্যন্ত।
+4. অবশিষ্ট টামারি, সিমার তেল, জগরি, মরিচ আর মরিচ দিয়ে দুই মিনিট।
+5. উপরের দিকে গড় বীজ পরে এবং গরম অথবা রুম তাপমাত্রায় পরিবেশন করা হয়।
+:::
+
+:::lang ur
+# Vegetable Japchae (Korean Sweet Potato Noodle Crefecture-Fry)۔
+
+چوئی جام نودلس کو ایک ہلکے دمدار لباس میں رینچ، قے، قے، قے اور قے کے ساتھ حرکت میں لایا گیا۔
+
+## Instructions
+1. اِس کی وجہ یہ ہے کہ اِن میں سے چھ منٹ کے لیے جب تک کہ نرم اور ٹھنڈا پانی صاف نہ ہو جائے ، اِس کا ذائقہ ٹھنڈا ہو جائے اور اِس کی تھوڑی دیر میں کاٹ دیا جائے ۔ آدھا دمدار تیل اور آدھا سیل کے تیل کے ساتھ توس۔
+2. ۳۰ سیکنڈ تک ریڑھ کی ہڈی کو خشک اور تھوڑی سی لہسن سے خشک کر دیا جاتا ہے ۔
+3. سورج کے تیل میں الگ یا ترتیب میں، ہر 2 سے 3 منٹ کے لئے، تو وہ کریسپ رہیں.
+4. باقی دمدار تیل، جاج اور بانس اور دو منٹ کے لیے ایک بڑے پن کے ساتھ ایک بڑے پن میں سب کچھ تقسیم کریں۔
+5. اُوپر والے بیج ہوتے ہیں اور گرم یا کمرے کے درجۂ‌حرارت پر خدمت کرتے ہیں ۔
+:::

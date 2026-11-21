@@ -122,3 +122,42 @@ prepTimeEstimated: true
 4. उरलेले 180 ग्रॅम नाचणीचे पीठ वरून समान पसरवा; ढवळू नका. झाकण ठेवून मंद आचेवर 4 मिनिटे वाफेवर शिजवा. नंतर मजबूत लाकडी दांड्याने जोरात ढवळा, जोपर्यंत मिश्रण गुळगुळीत आणि चमकदार होत नाही.
 5. हात थंड पाण्याने ओले करून गरम पिठाचे चार गुळगुळीत गोळे वळा आणि गरम पालेभाजीच्या रस्स्यासोबत लगेच वाढा.
 :::
+
+:::lang en
+# Karnataka Ragi Mudde with Spiced Greens Broth
+
+Calcium-packed rural Karnataka staple of steamed finger millet dumplings served alongside a garlicky, pepper-scented toor dal and amaranth greens broth (bassaru).
+
+## Instructions
+1. Simmer the toor dal and chopped amaranth greens in 750 ml of water with 1.5 g of salt for 20 minutes until tender; strain the flavorful cooking broth and blend one-quarter of the cooked dal with the tomato and cumin-pepper blend.
+2. Heat the sunflower oil in a saucepan, crackle the mustard seeds, curry leaves, and crushed garlic, then pour in the strained greens broth and pureed dal mixture and simmer 5 minutes.
+3. For the ragi mudde, whisk 20 g of ragi flour into 450 ml of water with the remaining 1 g of salt in a heavy pot and bring to a rolling boil.
+4. Sprinkle the remaining 180 g of ragi flour over the surface without stirring, cover and steam on low heat for 4 minutes, then vigorously stir with a sturdy wooden handle until smooth and glossy.
+5. Moisten your hands with cold water, shape the warm dough into four smooth balls, and serve immediately with the hot greens broth.
+:::
+
+:::lang bn
+# কারনাত্তাকা রাগি মাড গ্রিন ব্রাথের সাথে
+
+ক্যালকুলিয়াম-এর কাছে অবস্থিত গ্রাম্য কার্ণাটকা নামক এলাকা, যার মধ্যে রয়েছে রসুনকি, মরিচের শাল এবং ঘন ঘন ঘন সবুজ শপ (বাসের)।
+
+## Instructions
+1. সন্ধ্যা ৭৫০ মিটার পানি দিয়ে ধান চাষ করা আর কাটা সবুজগুলো প্রায় ১.
+2. এরপর হালকা সবুজ ঘাস ও চিরসবুজ মৃগীকের ওপর ঢালতে শুরু করে ।
+3. কিন্তু, এই ধরনের গরম গরমের সময় জলকে হালকাভাবে নেওয়া হতো ।
+4. এরপর গরম গরমের মধ্যে দিয়ে ভরা কাঠের তৈরি কাঠের সঙ্গে দৃঢ়ভাবে জড়িয়ে পড়ে ।
+5. ঠাণ্ডা পানি দিয়ে হাত বাড়িয়ে, গরম ডোরাকাটা চার বলকে আকার দেয় এবং সাথে সাথে গরম সবুজ কাপড়ের সাথে কাজ করে।
+:::
+
+:::lang ur
+# کارناتاکا راجا مدھیہ پردیش کے ساتھ اسپیکیڈ سبھاش برہمن تھے۔
+
+Calcium-depest area Karnataka spapered struming strum a kowky, kious-conous Toor Dal اور Amarantth Greens Broth (basaru) کے ساتھ کام کیا۔
+
+## Instructions
+1. سیممر دی تھیل اور مومینتھ ہرن 750 میل میں پانی کے 1.5 گرام نمک کے ساتھ 20 منٹ تک ملا دیتا ہے، یہاں تک کہ خوشبودار پکانے والے برتنوں میں اضافہ کرتا ہے اور پکائے ہوئے دانوں کے ایک مربع میٹر کے ساتھ ملا دیتا ہے۔
+2. سورج‌مکھی کے تیل کو سُن کر ، رائی کے بیج ، اُس کے پتوں اور لہسن کے پتوں کو پھاڑ دیا جاتا ہے ۔
+3. اِس کی وجہ یہ ہے کہ اِس میں نمک کے باقی حصوں میں نمک شامل ہے ۔
+4. اِس کے بعد اُس نے چار منٹ تک کم درجۂ‌حرارت کے ساتھ لکڑی کے ایک طرف رکھ دیا ۔
+5. اپنے ہاتھوں کو ٹھنڈے پانی سے ملا کر گرم سوراخوں کو چار ہموار گیندوں میں ملا کر فوراً گرم سبزیوں سے خدمت کرتے ہیں۔
+:::

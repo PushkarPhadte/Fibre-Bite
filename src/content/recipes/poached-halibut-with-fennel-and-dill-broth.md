@@ -87,3 +87,36 @@ prepTimeEstimated: true
 2. भाज्यांचा रस्सा ओता आणि हलकी उकळी आणा; नंतर हॅलिबट फिलेट्स अलगद द्रवात ठेवा.
 3. झाकण ठेवून मंद आचेवर 7 ते 9 मिनिटे शिजवा, मासा सहज पाकळ्यांसारखा सुटेपर्यंत. वरून ताजी डिल पेरा.
 :::
+
+:::lang en
+# Poached Halibut with Fennel and Dill Broth
+
+Delicate halibut fillets gently poached in an aromatic fennel, garlic, and dill vegetable broth.
+
+## Instructions
+1. Warm olive oil in a shallow pot over medium heat and saute sliced fennel and minced garlic for 4 minutes.
+2. Pour in vegetable broth and bring to a gentle simmer, then nestle the halibut fillets into the liquid.
+3. Cover and poach on low heat for 7 to 9 minutes until the fish flakes easily, then scatter fresh dill over the top.
+:::
+
+:::lang bn
+# ফেনেল আর দিলাল ব্রোথের সাথে পচন্দ ছিল
+
+প্রচুর পরিমাণে মিষ্টি রসাদানা তৈরি করে
+
+## Instructions
+1. প্রচুর পরিমাণে গরম ও স্যাঁতসেঁতে শূককীট দিয়ে ঘন জলপাই তেল তৈরি করা হয় ।
+2. প্রচুর পরিমাণে খাদ্য উৎপাদন করা হয়
+3. ঢেকে রাখা এবং অল্প সময়ের জন্য ৭ থেকে ৯ মিনিটের জন্য পানি গরম করা হয় যতক্ষণ না মাছগুলোকে খুব সহজে কাপে দেয়, তারপর উপরের দিকে নতুন করে ক্ষয় পায়।
+:::
+
+:::lang ur
+# پوکیڈ حلیبٹ فلنل اور دیل بوتھ کے ساتھ
+
+اِس کی ایک وجہ تو یہ ہے کہ اُس نے اِس کی تھوڑی بہت مقدار اِس لئے بتائی کہ وہ اُس کی خوشبو میں شامل ہو گیا ۔
+
+## Instructions
+1. زیتون کے تیل کو درمیان میں گرم کرنے کے لئے گرم کِیا جاتا ہے ۔
+2. پودوں کے پودوں میں ملا کر ایک نرم‌دار برتن لایا جاتا ہے ۔
+3. جب تک مچھلی آسانی سے اُوپر نہیں اُترتی اور پھر اُوپر کی طرف تازہ دی جاتی ہے ۔
+:::

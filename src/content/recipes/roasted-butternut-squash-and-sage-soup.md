@@ -86,3 +86,39 @@ prepTimeEstimated: true
 3. भाजलेला स्क्वॅश आणि भाज्यांचा स्टॉक घाला; 10 मिनिटे मंद आचेवर शिजवा।
 4. मखमली आणि एकजीव होईपर्यंत ब्लेंड करा; जायफळ, मीठ आणि मिरपूड घालून चवीनुसार मसाला करा।
 :::
+
+:::lang en
+# Roasted Butternut Squash and Sage Soup
+
+Velvety smooth autumn soup prepared from oven-roasted butternut squash, garlic, onion, and fresh sage.
+
+## Instructions
+1. Toss squash cubes with olive oil; roast at 200°C for 30 minutes.
+2. Sauté onion, garlic, and sage in a pot for 4 minutes.
+3. Add roasted squash and vegetable broth; simmer for 10 minutes.
+4. Blend until velvety smooth and season with nutmeg, salt, and pepper.
+:::
+
+:::lang bn
+# অবশ ্ যই আমি আবিষ্কার করলাম যে, কেন?
+
+ভেভেলি মসৃণ শ্যাম্পেইন সুপ তৈরি করেছে চুলা, রসুন, এবং তাজা ঘুম।
+
+## Instructions
+1. তেল দিয়ে টকেশ কিউব; ৩০ মিনিট ধরে ২০০ পাউন্ডের রোপন।
+2. সিয়ন, রসুন এবং সসেজ ৪ মিনিটের জন্য পাবে।
+3. বরদাশত এবং সবজি, ১০ মিনিটের জন্য সহজ।
+4. লবণ, লবণ এবং মরিচের সঙ্গে মসৃণ ও মসৃণ ঋতু পর্যন্ত শুয়ে থাকে ।
+:::
+
+:::lang ur
+# Butternut Squash اور Sage Soup داخل کیا جاتا ہے۔
+
+ویلوسٹی ہموار موسمیاتی صابن اوون-کوینوت مکھنوت، لہسن، اونیون اور تازہ سیج سے تیار کیا جاتا تھا۔
+
+## Instructions
+1. زیتون کے تیل سے تیارکردہ تیل ؛ ۳۰ منٹ کے لئے ۲۰۰°C میں جلایا جاتا ہے ۔
+2. ۴ منٹ کے لئے ایک برتن میں ساوتری اون ، لہسن اور سگا ۔
+3. آگ بجھانے اور سبزیوں کے بُرے حصے شامل کریں ۔
+4. یہاں تک کہ اُس کے معدے میں نمک ، نمک اور مکھن بھی شامل ہو جاتے ہیں ۔
+:::

@@ -85,3 +85,39 @@ prepTimeEstimated: true
 3. टोफूभोवती साचलेले जास्तीचे पाणी काळजीपूर्वक काढून टाका.
 4. तमारी, तिळाचे तेल, लसूण आणि आले एकत्र मिसळा. हे मिश्रण गरम टोफूवर ओता आणि पातीच्या कांद्याने सजवा.
 :::
+
+:::lang en
+# Chinese Steamed Tofu with Garlic Soy Dressing
+
+Silken tofu steamed to warm perfection and dressed with minced garlic, ginger, low-sodium soy sauce, and sesame oil.
+
+## Instructions
+1. Place block of silken tofu on a heatproof plate.
+2. Steam over boiling water in a steamer for 8 minutes until warm.
+3. Carefully drain off excess water surrounding tofu.
+4. Mix tamari, sesame oil, garlic, and ginger; pour over warm tofu and garnish with spring onions.
+:::
+
+:::lang bn
+# চৈনিক স্টেমড টফু সোরির পোশাক পরিহিত।
+
+রেশমি গরম করার জন্য গরম কাপড় এবং রসুন, বেড রসুন, কম সয়া সস এবং সসিয়াম তেল পরে।
+
+## Instructions
+1. গরমপ্রুফ প্লেটে রেশমেন টফু ব্লক করে দাও।
+2. গরম না হওয়া পর্যন্ত গরম জলের উপরিভাগের দিকে ভেসে যায় ।
+3. টফু-এর চারপাশে অতিরিক্ত পানি পাওয়া যায়।
+4. মৃগী, সিরাম, রসুন এবং ভোদড়; গরম গরম করে গরম করে এবং বসন্তে পরিবেশন করে ।
+:::
+
+:::lang ur
+# گارلک سوئی کپڑانگ کے ساتھ چینی سٹیمرڈ توفو
+
+سلکن توفو نے بڑے بڑے کام انجام دئے اور مونگ‌پھلی ، آمیزش ، کم سوم‌م‌مُو اور تیل سے پہنے ۔
+
+## Instructions
+1. ایک گرم پلیٹ پر ریشم کا بلاک رکھیں ۔
+2. گرم ہونے تک 8 منٹ تک گرم پانی پر پگھلے ہوئے پانی کے اوپر گرم ہونا ۔
+3. اِس لئے پانی کی مقدار کم ہو جاتی ہے ۔
+4. اِس کے بعد اُس نے اِس بات پر زور دیا کہ اُس کا تیل ، لہسن اور اِس کے علاوہ اَور بھی بہت سے بیج ہیں ۔
+:::

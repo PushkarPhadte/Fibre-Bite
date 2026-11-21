@@ -93,3 +93,36 @@ prepTimeEstimated: true
 2. टोफू, तामारी, व्हिनेगर आणि मिरपूड घालून 4 मिनिटे मंद आचेवर शिजवा.
 3. वरून पातीचा कांदा घाला आणि चवीनुसार व्हिनेगर व मिरपूड समायोजित करा.
 :::
+
+:::lang en
+# Hot and Sour Tofu Mushroom Soup
+
+A peppery, tangy soup with tofu, mushrooms and cabbage.
+
+## Instructions
+1. Cook the ginger and garlic in the oil for 30 seconds, then add the water, mushrooms, carrot and cabbage and simmer for 8 minutes.
+2. Add the tofu, tamari, vinegar and pepper and simmer for 4 minutes.
+3. Top with spring onion and adjust the vinegar and pepper to taste.
+:::
+
+:::lang bn
+# গরম এবং সোউর টোফু মশরুম সো
+
+টফু, মাশরুম এবং বাঁধাই সহ একটি মরিচের সুপ।
+
+## Instructions
+1. ৩০ সেকেন্ডের তেলে ডোরাকাটা আর রসুন রান্না করে, তারপর পানি, মাশরুম, চাকা আর ট্যাক্সির সাথে যুক্ত হয় ৮ মিনিট ধরে।
+2. টফু, টামারি, ভিনেগার এবং মরিচ আর ৪ মিনিটের জন্য।
+3. বসন্তে বের হয়ে ভিনেগার আর মরিচের স্বাদ নিতে হবে।
+:::
+
+:::lang ur
+# گرم اور سوور توفو میوزیم سوپ
+
+اُس نے کہا : ” مَیں نے اِس بات کو تسلیم نہیں کِیا ۔
+
+## Instructions
+1. 30 سیکنڈ تک تیل میں موجود آمیزش اور لہسن کو کُل‌وقتی طور پر استعمال کریں ۔
+2. 4 منٹ کے لیے توفو، تامری، ربڑ اور سرسوتی شامل کریں۔
+3. اُوپر کی طرف نیچے کی طرف مڑ کر اُوپر کی طرف مڑ جاتا ہے ۔
+:::

@@ -109,3 +109,39 @@ prepTimeEstimated: true
 3. नॉन-स्टिक तवा मध्यम-उच्च आचेवर गरम करा आणि थोडे तेल लावून पुसून घ्या. पळीभर पीठ तव्याच्या बाहेरच्या बाजूपासून मध्यभागाकडे ओता; डोसा कुरकुरीत होण्यासाठी काही लहान छिद्रे मोकळी ठेवा.
 4. कडेने थोडे तेल सोडा आणि खालची बाजू कुरकुरीत व सोनेरी होईपर्यंत शिजवा. डोसा दुमडून गरम वाढा; उरलेल्या पिठाचे डोसेही अशाच प्रकारे करा.
 :::
+
+:::lang en
+# Ragi Dosa
+
+Crisp, naturally gluten-free finger-millet dosas with yogurt-free batter and a gentle cumin tempering.
+
+## Instructions
+1. Whisk the ragi flour, rice flour, salt, and water until smooth. The batter should be thin and pourable; rest it for 15 minutes.
+2. Stir in onion, cumin, chilli, and cilantro. Mix again before each dosa because the flour settles.
+3. Heat a nonstick skillet over medium-high heat and wipe with a little oil. Pour a ladle of batter from the outside toward the center, leaving small holes for crisping.
+4. Drizzle a little oil around the edge and cook until crisp and browned underneath. Fold and serve hot; repeat with the remaining batter.
+:::
+
+:::lang bn
+# রাগি ডোসা
+
+ক্রিস্‌প, স্বাভাবিকভাবে ইঁট-মুক্ত ডোলিটি ডোরাসি-মুক্ত নির্যাতন আর মৃদু রাগের কারনে।
+
+## Instructions
+1. জল গরম না হওয়া পর্যন্ত গরম, ধান, লবণ এবং জল । নির্যাতনকে হালকা ও ঢাল দেওয়া উচিত; ১৫ মিনিটের জন্য বিশ্রাম নিন ।
+2. ঘুমের ব্যথা, চাখাম, ঠান্ডা, আর সিলান্রো। কিন্তু, সা.
+3. উচ্চ তাপমাত্রার উপরে স্যাঁতসেঁট করে... ...আর অল্প তেল দিয়ে মুছে যায়. ছোট ছোট ছোট ছোট গর্তগুলো মাঝে মাঝে ছোট ছোট গর্ত রেখে যায় ।
+4. মাটির নিচ থেকে একটু তেল আর রান্নার ব্যবস্থা করো যতক্ষণ না নোংরা আর নোংরা হয়ে যায়। হাল ছেড়ে দেবেন না; অবশিষ্ট নির্যাতন আবার শুরু হবে ।
+:::
+
+:::lang ur
+# راجا دوسا
+
+کریسپ، قدرتی طور پر خالی انگلیوں سے آزاد انگلیوں کے ساتھ ساتھ بے رحمی اور نرم تناؤ سے کام لیتا ہے۔
+
+## Instructions
+1. یہاں تک کہ ہموار ہو جاتی ہے ۔ اِس لئے اُسے 15 منٹ تک آرام کرنا چاہئے ۔
+2. اِس لئے اُس نے کہا : ” تُم . . . ہر دوسہ سے پہلے ایک بار پھر ایک بار پھر، کیونکہ آٹے کے آٹے کا ٹکڑا.
+3. درمیانے درجہ حرارت کے اوپر غیر معمولی مہارت حاصل کرکے تھوڑا سا تیل ختم کریں۔ باہر سے باہر کی طرف حملہ‌آوروں کے ایک بچے کو مرکزی سمت میں لے جانے کیلئے چھوٹے چھوٹے سوراخ چھوڑ دیتے ہیں ۔
+4. اُس وقت تک اُس کے پاؤں میں کچھ تیل تھا ۔ گرم اور گرم خدمت کرنا ؛ باقی اذیتوں کیساتھ دوبارہ اٹھانا ۔
+:::

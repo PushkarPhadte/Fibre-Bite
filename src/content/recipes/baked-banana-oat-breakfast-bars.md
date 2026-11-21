@@ -78,3 +78,39 @@ prepTimeEstimated: true
 3. मिश्रण टिनमध्ये दाबून पसरवा आणि घट्ट व सोनेरी होईपर्यंत 25 मिनिटे भाजा.
 4. थंड होऊ द्या, मग सहा बारमध्ये कापा.
 :::
+
+:::lang en
+# Baked Banana Oat Breakfast Bars
+
+Soft baked bars of oats, banana and peanut butter with no added sugar.
+
+## Instructions
+1. Heat the oven to 180 °C and line a 20 cm square tin.
+2. Mix the banana, peanut butter and egg, then stir in the oats, chia and cinnamon.
+3. Press into the tin and bake for 25 minutes until firm and golden.
+4. Cool, then cut into six bars.
+:::
+
+:::lang bn
+# কলা ওতট সকালের বার
+
+চিনি দিয়ে তৈরি আখ, কলা এবং বাদামের মাখন দিয়ে তৈরি চিনিও পাওয়া যায় না ।
+
+## Instructions
+1. 180 ডিগ্রি সেলসিয়াস পর্যন্ত চুলা.
+2. কলা, বাদামের মাখন ও ডিমের মিশ্রণের পর পেঁচিয়ে যায়, ফলে পেকে, কিনিয়া এবং সিনিমোনের মধ্যে ছড়িয়ে পড়ে ।
+3. টিন আর কেকের মধ্যে চাপ দিন।
+4. চমৎকার, তারপর ছয় বার কাটা.
+:::
+
+:::lang ur
+# بُت‌پرستوں کا انجام
+
+اِس کے علاوہ اِن میں شکر بھی شامل نہیں ہوتا ۔
+
+## Instructions
+1. اوون سے 180 °C تک اور 20 سم مربع ٹین پر مشتمل ہے ۔
+2. مونگ‌پھلی ، مونگ‌پھلی اور انڈے ، پھر آلو ، چیا اور سینم‌مون میں اضافہ ہوتا ہے ۔
+3. سونے اور سونے تک 25 منٹ تک ٹین اور کرایہ میں دبا دیں۔
+4. کوکو ، پھر چھ کمروں میں کاٹ دیا گیا ۔
+:::

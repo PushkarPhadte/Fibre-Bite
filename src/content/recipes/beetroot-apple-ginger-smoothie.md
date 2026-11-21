@@ -80,3 +80,33 @@ prepTimeEstimated: true
 1. सर्व साहित्य ब्लेंडरमध्ये घाला.
 2. पूर्णपणे गुळगुळीत होईपर्यंत ब्लेंड करा आणि लगेच वाढा.
 :::
+
+:::lang en
+# Beetroot Apple Ginger Smoothie
+
+A vivid, naturally sweet smoothie of cooked beetroot, apple and ginger with Greek yogurt.
+
+## Instructions
+1. Add everything to a blender.
+2. Blend until completely smooth and serve at once.
+:::
+
+:::lang bn
+# Beet root Apple Gingeries
+
+খুব স্পষ্ট, প্রাকৃতিকভাবে রান্নার মিষ্টি বেটমূল, আপেল আর গ্রীক দের সাথে প্রতারণা।
+
+## Instructions
+1. Shutderr এ সবকিছু যোগ করুন।
+2. ধীরে ধীরে শুয়ে থেকো।
+:::
+
+:::lang ur
+# بیوتوت ایپل گنجر کیمرا
+
+ایک قابلِ‌غور ، قدرتی طور پر میٹھی میٹھی ، سیب اور یونانی ربڑ کے ساتھ پکایا جاتا ہے ۔
+
+## Instructions
+1. ہر چیز کو ملانے والے میں شامل کریں ۔
+2. اِس لئے اُس نے اُن سے کہا : ” مَیں اُن کی بات نہیں مانتا ۔ “
+:::

@@ -120,3 +120,39 @@ prepTimeEstimated: true
 3. काजूची पेस्ट मिसळून 3 मिनिटे शिजवा.
 4. गॅस बंद करून दही मिसळा आणि वाढा.
 :::
+
+:::lang en
+# Mixed Vegetable Korma with Cashew and Curd
+
+A mild vegetable curry in a cashew and curd sauce scented with cardamom and cinnamon.
+
+## Instructions
+1. Heat the oil and cook the onion, ginger and garlic until soft, then add the spices and cook for 1 minute.
+2. Add the vegetables, salt and water, cover and simmer for 15 minutes.
+3. Stir in the cashew paste and cook for 3 minutes.
+4. Take off the heat, stir in the curd and serve.
+:::
+
+:::lang bn
+# মোড়ক এবং কার্রলা
+
+এক কোমল সবজির সস, তাসম এবং সিনেমনের গন্ধ।
+
+## Instructions
+1. তিনি তেল ও রসুন রান্না করেন যতক্ষণ পর্যন্ত না নরম হয় ততক্ষণ পর্যন্ত না মদ ও রসুন দেন ।
+2. শাকসবজি, লবণ এবং জল দিন, ১৫ মিনিট ধরে ঢেকে রাখুন।
+3. ৩ মিনিট ধরে নগদ ডেম পেস্ট আর রান্নার যন্ত্র।
+4. গরমটা খুলে ফেলো, রসালো আর সেবা করবে।
+:::
+
+:::lang ur
+# کاس‌وے اور کور کے ساتھ
+
+اِس کے بعد اُس نے کارڈم اور سی‌این‌مون کے ساتھ کھانا پکایا ۔
+
+## Instructions
+1. تیل کو صاف کریں اور اِس کے ساتھ ساتھ اُن کو پکایا کریں ۔
+2. سبزیوں ، نمک اور پانی ، چادر اور ۱۵ منٹ تک اُبالیں ۔
+3. پیسوں کے رس میں پکایا اور 3 منٹ تک پکایا۔
+4. گرمیوں کو دور کریں ، گردوں میں ہل چلیں اور خدمت کریں ۔
+:::

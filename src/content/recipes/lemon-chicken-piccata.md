@@ -97,3 +97,39 @@ prepTimeEstimated: true
 3. त्याच पॅनमध्ये लसूण 30 सेकंद शिजवा, लिंबाचा रस आणि पाणी घालून 3 मिनिटे मंद उकळी द्या.
 4. चिकन पुन्हा पॅनमध्ये घाला, त्यावर सॉस चमच्याने घाला आणि पार्सलीने सजवा.
 :::
+
+:::lang en
+# Lemon Chicken Piccata
+
+Pan-seared chicken breast cutlets in a lemon-parsley pan sauce with no capers or cream.
+
+## Instructions
+1. Season the cutlets with salt and pepper and dust lightly with flour.
+2. Sear in the oil for 3 minutes per side until cooked through; remove.
+3. Cook the garlic for 30 seconds in the pan, add the lemon juice and water and simmer for 3 minutes.
+4. Return the chicken, spoon over the sauce and top with parsley.
+:::
+
+:::lang bn
+# হলদে চিকেন পিককা
+
+প্যান-সেন্সরিত মুরগির বুকের টুকরো, লেবুর প্যানের সস, যার কোন ক্যাপার বা ক্রিম নেই।
+
+## Instructions
+1. লবণ ও মরিচের সঙ্গে কাটা পাত্রের পরিমাপ করুন ।
+2. তিন মিনিটের জন্য তেলে চড়ি।
+3. প্যানে ৩০ সেকেন্ডের জন্য রসুন রান্না করুন, সাথে লেবুর জুস আর পানি আর ৩ মিনিট লাগবে।
+4. মুরগিটা ফেরত দাও, সসের উপর সস আর প্যারলির উপরে।
+:::
+
+:::lang ur
+# لیمن چیکن پیکاٹا
+
+پان جھیلوں والے مرغیوں کے سینے کو ایک ٹماٹر پرسلے پانڈے میں کاٹ دیا جاتا ہے جس میں کوئی کپاس یا کریم نہیں ہوتا۔
+
+## Instructions
+1. اِس کے بعد اُس نے اُن کو تیل اور آٹے سے بھر دیا ۔
+2. تیل میں ۳ منٹ تک تیل میں موجود پانی کو اُس وقت تک ختم کر دیا جاتا ہے جب تک کہ اُسے پکا نہ کر لیا جائے ۔
+3. پنین میں ۳۰ سیکنڈ تک لہسن کو پکا کر ٹماٹر کا رس اور پانی ملا کر ۳ منٹ تک پکایا جاتا ہے ۔
+4. مرغی کو واپس کر دیں، مرغی اوپر کو اور اوپر کو کو کو کوٹلی کے ساتھ.
+:::

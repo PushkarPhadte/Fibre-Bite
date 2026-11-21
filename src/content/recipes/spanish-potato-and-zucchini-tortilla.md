@@ -88,3 +88,36 @@ prepTimeEstimated: true
 2. अंडी मीठ आणि पार्सलीसोबत फेटून भाज्यांवर ओता.
 3. 3 मिनिटे शिजवा, मग 200°C तापमानाला ओव्हनमध्ये 12 मिनिटे बेक करा, मिश्रण सेट होईपर्यंत. त्रिकोणी फोडी करून वाढा.
 :::
+
+:::lang en
+# Spanish Potato and Zucchini Tortilla
+
+An oven-finished Spanish omelette with thin potato, zucchini and onion.
+
+## Instructions
+1. Cook the potato, zucchini and onion in the oil in an ovenproof pan, covered, for 15 minutes until soft.
+2. Beat the eggs with salt and parsley and pour over the vegetables.
+3. Cook for 3 minutes, then bake at 200 °C for 12 minutes until set; cut into wedges.
+:::
+
+:::lang bn
+# স্প্যানিশ পটেটো এবং জুচিনি টরটিলা
+
+ছোট আলু, জুকনি আর পেমের মধ্যে দিয়ে একটা চুলার চুল।
+
+## Instructions
+1. আলু, জুকচিনি আর তেলে ভরা, ঢাকা, ১৫ মিনিট নরম না হওয়া পর্যন্ত।
+2. লবণ এবং পার্লে আর সবজির উপর ঢালুন।
+3. তিন মিনিটের জন্য কুক, তারপর ১২ মিনিটের জন্য ২০০ ডিগ্রি সেলসিয়াস পর্যন্ত, সেট করার আগে পর্যন্ত।
+:::
+
+:::lang ur
+# ہسپانوی پوٹاتو اور زوکینی توریلا
+
+ایک اوون-کین-کینال ہسپانوی omelette جس میں تلہ گنگ، ذوقی اور اونیون ہیں۔
+
+## Instructions
+1. کوکو کوکو کوکو ، ذوقین اور تیل میں ایک وان‌کوپن پن میں لپیٹ کر ۱۵ منٹ تک نرم‌مزاجی سے کام لیتے ہیں ۔
+2. انڈوں کو نمک اور چاول کے ساتھ ملا کر سبزیوں پر رکھ دیں ۔
+3. کوکو 3 منٹ تک 200 °C کو مقررہ وقت تک اُس وقت تک کاٹتا رہتا ہے جب تک کہ مقررہ وقت تک ۱۲ منٹ کے لئے صرف نہ ہو ۔
+:::

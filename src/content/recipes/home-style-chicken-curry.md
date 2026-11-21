@@ -112,3 +112,39 @@ prepTimeEstimated: true
 3. चिकन, दही, मीठ आणि पाणी घाला, झाकण ठेवून चिकन पूर्ण शिजेपर्यंत 20 मिनिटे मंद आचेवर शिजवा.
 4. गरम मसाला आणि कोथिंबीर मिसळा.
 :::
+
+:::lang en
+# Home-Style Chicken Curry
+
+A light Indian chicken curry with a tomato-onion base, a little curd and no cream.
+
+## Instructions
+1. Heat the oil and cook the onion until deep golden, then add the ginger and garlic for 1 minute.
+2. Add the spices (except garam masala) and the tomato and cook until the oil separates.
+3. Add the chicken, curd, salt and water, cover and simmer for 20 minutes until cooked through.
+4. Stir in the garam masala and coriander.
+:::
+
+:::lang bn
+# হোম-স্টাইল মুরগির কারি
+
+হালকা ভারতীয় মুরগির মাংস টমেটো দিয়ে তৈরি, সামান্য রসালো আর কোন ক্রিম নয়।
+
+## Instructions
+1. তেল আর রান্না করে গভীর সোনার আগ পর্যন্ত, তারপর এক মিনিটের জন্য মদ ও রসুন যোগ করে।
+2. মসলা যোগ করুন (গাম মাসালা ছাড়া) এবং তেল পৃথক না হওয়া পর্যন্ত টমেটো ও রান্না করুন।
+3. মুরগি, রসদানা, লবণ ও জল যোগ করুন ।
+4. কাগারম মাসালা এবং কোরিয়ান্ডারে।
+:::
+
+:::lang ur
+# ہوم-سیل چیکن کیوری
+
+ایک ہلکے ہندوستانی پکوان جس میں ٹماٹروں کی بنیاد، تھوڑی سی کرنسی اور کوئی کریم۔
+
+## Instructions
+1. تیل کو صاف کریں اور گہرے سنہرے تک اون کو پکائیں، پھر 1 منٹ کے لیے گندھک اور لہسن شامل کریں۔
+2. خوشبو (جرم مسالا کے علاوہ) اور ٹماٹر اور پکائے یہاں تک کہ تیل الگ ہو جاتا ہے۔
+3. اُس وقت تک مرغی کو اُس وقت بھی شامل کِیا جاتا ہے جب تک اُسے پکا نہ لیا جائے ۔
+4. جہرم مسلا اور کریندر میں شمولیت۔
+:::

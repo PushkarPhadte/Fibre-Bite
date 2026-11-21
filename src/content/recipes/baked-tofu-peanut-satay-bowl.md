@@ -88,3 +88,39 @@ prepTimeSource: 'https://minimalistbaker.com/crispy-peanut-tofu-bowls/'
 3. बाउलमध्ये शिजवलेला क्विनोआ आणि चिरलेली जांभळी कोबी यांचा तळाचा थर तयार करा.
 4. वर बेक्ड टोफू ठेवा आणि शेंगदाण्याचा साते सॉस भरपूर प्रमाणात घाला.
 :::
+
+:::lang en
+# Baked Tofu Peanut Satay Bowl
+
+Crispy baked tofu served over quinoa and shredded cabbage with a rich homemade peanut satay sauce.
+
+## Instructions
+1. Bake cubed tofu at 200°C (400°F) for 20 minutes until crispy.
+2. Whisk peanut butter, soy sauce, lime juice, maple syrup, and warm water until smooth to create satay sauce.
+3. Assemble bowls with a base of cooked quinoa and shredded purple cabbage.
+4. Top with baked tofu and drizzle generously with peanut satay sauce.
+:::
+
+:::lang bn
+# টফু পিনাট সাতাও
+
+ফলে প্রচুর পরিমাণে চিনাবাদাম উৎপন্ন হতো ।
+
+## Instructions
+1. বিকে কিউব ২০০ ডিগ্রি সেলসিয়াস (৪০০ মার্কিন ডলার) পর্যন্ত ২০ মিনিটের জন্য টফুতে পরিণত হয়েছে।
+2. বাদামের মাখন, সয়া সস, হালকা সস, ম্যাপ সিরাপ এবং সস তৈরি না হওয়া পর্যন্ত গরম জল ।
+3. রান্না করার এক ভিত্তি দিয়ে কোকুন বাটি, যেটা দিয়ে রান্না করা বেগুনি বাঁধানো ও টুকরো টুকরো করা হয় ।
+4. টফু দিয়ে বানানো টফু আর বাদামের সস।
+:::
+
+:::lang ur
+# کُل‌وقتی خدمت
+
+اِس کے بعد اُس نے اُسے کھانے پینے کی چیزیں دیں ۔
+
+## Instructions
+1. Bake codeed tofu at 200°C (400°F) 20 منٹ تک کریسپی تک.
+2. یہاں تک کہ سی‌وی‌ڈی‌کا مونگ‌پھلی ، سوی‌فی‌ہن ، آلو جوس ، میپل سُورپ اور گرم پانی بھی پیدا کرتے ہیں ۔
+3. اِس کے بعد اُس نے اُن سے پوچھا : ” کیا مَیں اُن کے ساتھ ہوں ؟ “
+4. مونگ‌پھلی کے ساتھ اُوپر کی طرف سے ہوا اور مونگ‌پھلی کے ساتھ بڑی فیاضی سے کھانا کھایا ۔
+:::

@@ -98,3 +98,39 @@ prepTimeEstimated: true
 3. भाताने सर्व चवी शोषून घेईपर्यंत 4 मिनिटे परता.
 4. भात वाट्यांमध्ये वाढा आणि प्रत्येक वाटीवर तळलेले अंडे, पातीचा कांदा आणि तीळ घाला.
 :::
+
+:::lang en
+# Korean Kimchi Fried Brown Rice
+
+A flavorful Korean bowl featuring gut-healthy fermented kimchi stir-fried with brown rice, sesame oil, and a fried egg.
+
+## Instructions
+1. Heat sesame oil in a skillet; sauté garlic and chopped kimchi for 3 minutes.
+2. Add cold brown rice, kimchi juice, and soy sauce, breaking up rice clumps over high heat.
+3. Stir-fry for 4 minutes until rice absorbs flavors.
+4. Divide into bowls, top each with a pan-fried egg, spring onions, and sesame seeds.
+:::
+
+:::lang bn
+# কোরিয়ান কিমচি ফ্রিড ব্রাউন রাইস
+
+এটি একটি সুস্বাদু কোরিয়ান বাটি, যার মধ্যে রয়েছে হাঁট-চা-চালি-চাঁট-চাঁটি কাইচি, যার সাথে রয়েছে বাদামি চাল, সিকির তেল, এবং একটি নোংরা ডিম।
+
+## Instructions
+1. এক দক্ষতায় তাপের সসেজ তেল; সাট্টাতে রসুন আর ৩ মিনিট ধরে কাটা কিমিচি।
+2. ঠাণ্ডা বাদামি চাল, কিমিচি জুস এবং সস, উচ্চ তাপমাত্রা কমিয়ে আনার জন্য চালের সস।
+3. চালের স্বাদ কমে না আসা পর্যন্ত চার মিনিট ধরে স্ট্রেচার।
+4. একটি প্যান-ফ্রিড ডিম, পমিং পেয়াজ এবং কেকের বীজের উপর ভাগ।
+:::
+
+:::lang ur
+# کوریائی کیمچی فرائڈ براؤن رائس
+
+ایک خوشبودار کوریائی پیالے جس میں بٹے ہوئے kmchi کی آمیزش کی جاتی ہے اس سے بھورے چاول، شیشے کا تیل، اور ایک فریدہ انڈے کے ساتھ جڑ جاتی ہے۔
+
+## Instructions
+1. اِس کے بعد اُس نے اِس بات کا ذکر کِیا کہ اُس نے اُس سے پوچھا : ” کیا مَیں اِس بات کا یقین کر سکتا ہوں کہ مَیں اُس کا شکر ادا کروں گا ؟ “
+2. سردیوں میں بھورے رنگ کا رس ، کیمچی جوتا اور سوی بھی شامل ہو جاتے ہیں ۔
+3. جب تک چاول خوشبو جذب نہ ہو جائے 4 منٹ تک.
+4. برتنوں میں ملا کر، ہر ایک کو اوپر ایک پا نژاد انڈے، چشمے کا پیاز اور سیم کے بیج۔
+:::

@@ -96,3 +96,39 @@ prepTimeEstimated: true
 3. हरभरे, ऑलिव्ह ऑइल, स्मोक्ड पाप्रिका आणि लसूण पावडर एकत्र करून मसाल्याचे मिश्रण त्यांना सर्व बाजूंनी समान लागेपर्यंत मिसळा.
 4. कुरकुरीत होईपर्यंत 25 ते 30 मिनिटे भाजा. मध्ये एकदा ट्रे हलवा, नंतर वरून लिंबाचा रस घाला.
 :::
+
+:::lang en
+# Roasted Chickpeas
+
+Crispy oven-roasted chickpeas tossed with smoked paprika, garlic, and fresh lemon juice.
+
+## Instructions
+1. Preheat the oven to 200 C and line a baking sheet with parchment paper.
+2. Pat the drained chickpeas completely dry with a clean towel.
+3. Toss the chickpeas with olive oil, smoked paprika, and garlic powder until evenly coated.
+4. Roast for 25 to 30 minutes until crisp, shaking the tray halfway through, then drizzle with lemon juice.
+:::
+
+:::lang bn
+# চিরুকী মুরগি
+
+কৃমি চুলা-রো-রোটা ফলা ফলা ফলা ধোঁয়া, রসুন এবং তাজা লেবু রস দিয়ে ঢেকে রেখেছে।
+
+## Instructions
+1. এক টুকরো কাগজ দিয়ে ২০০ C থেকে ২০০ সেন্টিমিটার লম্বা কাগজ দাও।
+2. রেশমিগুলো পরিষ্কার গামছা দিয়ে শুকিয়ে যায় ।
+3. মুরগিগুলো জলপাই, ধূমপান করা পম্পিকা এবং রসুন পাউডার পর্যন্ত ছড়িয়ে পড়ে ।
+4. ২৫ থেকে ৩০ মিনিট পর্যন্ত কুমড়া, ট্রেতে কাঁপছে অর্ধেক, তারপর লেবুর রস নিয়ে।
+:::
+
+:::lang ur
+# چین میں داخل
+
+کریسی اوون-سوون-کریپپس کے ساتھ انتہائی پُرکیکا ، لہسن اور تازہ ٹماٹر جوس کے ساتھ مل کر کھایا جاتا ہے ۔
+
+## Instructions
+1. اوون 200 ق م تک پھیلا ہوا کاغذی کاغذ سے لیس ہے ۔
+2. فٹ‌بال کے پتوں کو صاف کرنے سے صاف خشک ہو جاتا ہے ۔
+3. زیتون کے تیل ، پُرکیکا اور لہسن کے آٹے کو اُس وقت تک صاف کِیا جاتا ہے جب تک کہ اُس کا وزن کم نہ ہو ۔
+4. 25 سے 30 منٹ تک جب تک کریسپ میں داخل نہ ہو جائے ، ٹرے کو تیز کر دیا جاتا ہے ، اس کے بعد اُس کے معدے کے جوس سے ٹکرا جاتے ہیں ۔
+:::

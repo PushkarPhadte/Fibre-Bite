@@ -93,3 +93,36 @@ prepTimeEstimated: true
 2. अरुगुला, पातळ चिरलेली बडीशेप आणि संत्र्याच्या फोडी उरलेल्या ऑलिव्ह ऑइल व लिंबाच्या रसासह एकत्र करा.
 3. सिट्रस फळे आणि हिरव्या पानांचे मिश्रण ताटात ठेवा आणि वर गरम ग्रिल्ड सार्डिन ठेवा.
 :::
+
+:::lang en
+# Grilled Sardine and Fennel Citrus Salad
+
+Omega-3-rich grilled sardines paired with crisp shaved fennel, orange segments, arugula, and olive oil.
+
+## Instructions
+1. Brush sardines lightly with half the olive oil and grill over medium-high heat for 2 to 3 minutes per side until charred and cooked through.
+2. Toss arugula, shaved fennel, and orange segments with remaining olive oil and lemon juice.
+3. Plate the citrus greens and top with the warm grilled sardines.
+:::
+
+:::lang bn
+# শোক ও শোক
+
+ওমেগা-চিরী সার্ডিনের সাথে চাঁবিপা চুড়ি, কমলা অংশ, আরুগুলা আর জলপাই তেল।
+
+## Instructions
+1. প্রায় অর্ধেক জলপাই তেল এবং মাঝারি তাপমাত্রার উপর দিয়ে তেল এবং মাঝারি তাপমাত্রার পরিমাণ তিন থেকে ৩ মিনিট পর্যন্ত বৃদ্ধি পায়।
+2. প্রচুর পরিমাণে তেল এবং লেবুর রস দিয়ে আখ কাটা হতো ।
+3. সবুজ রংধনুগুলো বাড়িয়ে দাও... ...আর গরম সার্ডিনের উপরে.
+:::
+
+:::lang ur
+# گلئیڈن سردین اور فینل سیترس سالالد
+
+اومیگا-3-رچ کے تیل سے بننے والی سرنگیں ملاتی ہیں جن میں سرسوں کی چھال، نارنجی چکی، ارغولا اور زیتون کا تیل شامل ہوتا ہے۔
+
+## Instructions
+1. برصغیر شمسی ذرات جس میں نصف زیتون کے تیل اور درمیانے درجہ حرارت سے زیادہ درجہ حرارت 2 سے 3 منٹ تک رہتا ہے، جب تک کہ گردے اور پکایا جاتا ہے۔
+2. زیتون کے تیل اور مکئی کے جوس باقی رہ جاتے ہیں ۔
+3. اِس لئے اُس نے اُن سے کہا : ” مَیں اُن کی بات نہیں مان سکتا ۔ “
+:::

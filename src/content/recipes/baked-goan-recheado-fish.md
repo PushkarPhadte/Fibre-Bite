@@ -122,3 +122,42 @@ prepTimeEstimated: true
 4. वरून तेल घाला आणि १५ ते १८ मिनिटे बेक करा; मध्ये एकदा उलटा, मासा सहज पाकळ्यांसारखा सुटेपर्यंत आणि मसाल्याची पेस्ट गडद होईपर्यंत.
 5. कोथिंबिरीने सजवा आणि लिंबाच्या फोडींसह वाढा.
 :::
+
+:::lang en
+# Baked Goan Recheado Fish
+
+Firm fish steaks coated in Goa's tangy red recheado masala and baked instead of shallow-fried, with onion rings and tomato.
+
+## Instructions
+1. Blend the chilli, vinegar, garlic, ginger, cumin, pepper, turmeric, tamarind and salt into a thick red paste.
+2. Coat the fish steaks well on both sides and marinate in the fridge for 30 minutes.
+3. Heat the oven to 200 C. Scatter the onion and tomato on an oiled tray and place the fish on top.
+4. Drizzle with the oil and bake for 15 to 18 minutes, turning once, until the fish flakes and the paste darkens.
+5. Garnish with coriander and serve with lemon wedges.
+:::
+
+:::lang bn
+# বাড গোন রেচেদো মাছ
+
+গোয়া'র টিংগে লাল র‍্যাহেডো মাসালাতে শক্ত মাছের মাংস লাগানো হয়েছে এবং অগভীর পদ্ধতিতে রিং আর টমেটোর পরিবর্তে।
+
+## Instructions
+1. ঘন ঘন শর্করা, ভিনা, রসুন, হরিৎপিণ্ড, মরিচ, টরমেরিক আর লবণ ঘন লাল রঙের পেস্টে।
+2. মাছ মাংসের মাংস দুই দিকে ভালো থাকে এবং ৩০ মিনিটের জন্য ফ্রিজে রাখা হয়।
+3. জলকে ২০০ সি.
+4. তেল আর কেক দিয়ে বৃষ্টি হবে ১৫ থেকে ১৮ মিনিটের মধ্যে, একবার ঘুরে যাবে, যতক্ষণ না মাছ কাপ আর পেস্টার বিশ্রী হয়।
+5. গারসন কোরিয়ান্ডার এবং লেবু সসেজের সাথে কাজ করে।
+:::
+
+:::lang ur
+# گائے کی مچھلیاں
+
+ٹھوس مچھلیوں کو گوا کے ٹانگی سرخ ریڈ ریڈ ہیڈو ماسالا میں پکایا گیا تھا اور اس کی جگہ پر موجود رسیوں اور ٹماٹروں کو پکایا جاتا تھا۔
+
+## Instructions
+1. اِس کی ایک وجہ تو یہ ہے کہ اِس میں بہت سی چیزیں پائی جاتی ہیں ۔
+2. مچھلیوں کا پانی 30 منٹ تک فریج میں دونوں طرف اور مریخ پر اچھی طرح لگتا ہے۔
+3. اِس کی ایک وجہ تو یہ ہے کہ اِن میں سے کوئی بھی نہیں ہے ۔
+4. اِس سے ظاہر ہوتا ہے کہ مچھلیوں کے اِردگِرد کی مچھلیوں اور اِن پر اندھیرا چھا جاتا ہے ۔
+5. گیریِش کو کریانڈر کے ساتھ خدمت کرتے ہیں ۔
+:::

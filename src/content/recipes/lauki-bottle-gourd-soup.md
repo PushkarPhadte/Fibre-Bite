@@ -81,3 +81,36 @@ prepTimeEstimated: true
 2. दुधी भोपळा, मीठ आणि पाणी घालून 15 मिनिटे मंद आचेवर शिजवा.
 3. पुदिना आणि मिरी घालून मिश्रण एकजीव होईपर्यंत वाटा, मग पुन्हा गरम करा.
 :::
+
+:::lang en
+# Lauki Bottle Gourd Soup
+
+A light Indian bottle gourd soup with cumin, garlic, pepper and mint.
+
+## Instructions
+1. Heat the oil, toast the cumin and cook the onion and garlic until soft.
+2. Add the bottle gourd, salt and water and simmer for 15 minutes.
+3. Add the mint and pepper, blend until smooth and reheat.
+:::
+
+:::lang bn
+# কিুকি বোয়ল গোরুরদু
+
+আগুন, রসুন, মরিচ, মরিচের সুপ।
+
+## Instructions
+1. তেলের উপরে, আটা, মদ খাওয়া আর রান্না করা যতক্ষণ না নরম হয়।
+2. বোতলের আঙ্গুর, লবণ আর পানি দিন ১৫ মিনিট।
+3. পোট আর মরিচ যোগ করো যতক্ষণ না মসৃণ আর রিলাপ করো।
+:::
+
+:::lang ur
+# Lauki God Soup
+
+ایک ہلکے ہندوستانی بوتل کا درخت جس میں لہسن ، لہسن ، مکھن اور منٹ ہوتا ہے ۔
+
+## Instructions
+1. تیل کو صاف کریں ، اُس کو صاف کریں ۔
+2. بوتل کے درخت ، نمک اور پانی کو بھی شامل کریں اور ۱۵ منٹ تک صاف کریں ۔
+3. اِس کے بعد اِسے آہستہ آہستہ صاف کریں ۔
+:::

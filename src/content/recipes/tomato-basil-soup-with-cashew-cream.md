@@ -86,3 +86,39 @@ prepTimeEstimated: true
 3. बेसिलची पाने घालून अगदी गुळगुळीत होईपर्यंत ब्लेंड करा आणि पुन्हा मंद आचेवर हलके गरम करा.
 4. काळी मिरी घालून चव जुळवा आणि वाढा.
 :::
+
+:::lang en
+# Tomato Basil Soup with Cashew Cream
+
+A velvety tomato soup with no dairy cream, made creamy with blended cashews.
+
+## Instructions
+1. Heat the oil and cook the onion and garlic until soft.
+2. Add the tomatoes, cashews, salt and water and simmer for 20 minutes.
+3. Add the basil, blend until completely smooth and reheat gently.
+4. Season with black pepper and serve.
+:::
+
+:::lang bn
+# কশিউ ক্রিমের টমেটো বয়েল
+
+একটি ভভেলি টমেটো সুপ, কোন দুগ্ধজাত ক্রিম না দিয়ে ক্রিম দিয়ে বানানো।
+
+## Instructions
+1. তেল আর রসুন রান্না করা যতক্ষণ না নরম হয়.
+2. টমেটো, টাকা, লবণ আর পানি দিন ২০ মিনিট।
+3. বেসেল যোগ করো, শুয়ে পড়ো যতক্ষণ না সবকিছু মসৃণ হয়ে যায়.
+4. কালো মরিচের সাথে সিঙ্গেল।
+:::
+
+:::lang ur
+# کیشو کریم کے ساتھ توماتو بسل سوپ
+
+اِس کے بعد اُس نے کریم سے کہا : ” مَیں نے اِس بات کا یقین کر لیا ہے کہ مَیں اُس کا شکر ادا کروں گا ۔ “
+
+## Instructions
+1. تیل کو صاف کریں اور نرم ہونے تک اون اور لہسن پکا لیں۔
+2. ٹماٹروں، پیسوں، نمک اور پانی اور 20 منٹ کے لیے بھی شامل کریں۔
+3. اِس کے ساتھ ساتھ اِس بات کو بھی شامل کریں کہ آپ اُس وقت تک ایک دوسرے کے ساتھ میل‌جول رکھیں جب تک آپ اُس کے ساتھ نرمی سے پیش آئیں ۔
+4. سیاہ فاموں اور خدمت کے ساتھ ساتھ.
+:::

@@ -86,3 +86,39 @@ prepTimeEstimated: true
 3. पाणी, मीठ आणि मटार घालून झाकण ठेवा व मंद आचेवर 14 मिनिटे शिजवा.
 4. मशरूम मिसळा आणि 5 मिनिटे झाकून तसेच ठेवा.
 :::
+
+:::lang en
+# Quinoa Mushroom Pilaf with Peas
+
+A fluffy quinoa pilaf with browned mushrooms, peas and thyme.
+
+## Instructions
+1. Brown the mushrooms in half the oil for 6 minutes and set aside.
+2. Cook the onion and garlic in the remaining oil, add the quinoa and thyme and toast for 1 minute.
+3. Add the water, salt and peas, cover and simmer for 14 minutes.
+4. Fold in the mushrooms and rest for 5 minutes.
+:::
+
+:::lang bn
+# পেসের সঙ্গে কুইনোমা মাসশরুম পিলাফ
+
+বাদামি রঙের মাশরুম, মটরশুঁটি আর তোমার সাথে।
+
+## Instructions
+1. ব্রাউন ছয় মিনিট তেলে মাশরুম তৈরি করে।
+2. অবশিষ্ট তেলে থ্রোন আর রসুন রান্না করুন, সাথে কলমে, আর তোমার আর আমার আর ১ মিনিটের জন্য টোস্ট দাও।
+3. পানি, লবণ এবং মটরশুঁটি দিন ১৪ মিনিট ধরে।
+4. মাশরুম আর ৫ মিনিট বিশ্রাম নাও।
+:::
+
+:::lang ur
+# کوینوا مُشورم پِلاف کیساتھ پَس
+
+اِس کی وجہ یہ ہے کہ اُس نے اِس بات پر زور دیا کہ اُس نے اُس کی مدد کی ہے ۔
+
+## Instructions
+1. براؤن کے ڈبے 6 منٹ کے لیے تیل میں 6 منٹ کے لیے رکھے اور الگ کر دیے۔
+2. باقی تیل میں موجود اون اور لہسن کو کِیا جاتا ہے ۔
+3. پانی ، نمک اور پائیس ، چادر اور ۱۴ منٹ تک صاف کریں ۔
+4. گلابوں میں پھول اور 5 منٹ آرام.
+:::

@@ -113,3 +113,36 @@ prepTimeEstimated: true
 2. चिकन, मसूर, गाजर, सफरचंद, मीठ आणि पाणी घालून 25 मिनिटे मंद आचेवर शिजवा.
 3. नारळाचे दूध मिसळा, घट्टसर पोतासाठी सूपचा अर्धा भाग ब्लेंड करा आणि वाढा.
 :::
+
+:::lang en
+# Chicken Mulligatawny Soup
+
+A mildly spiced Anglo-Indian lentil and chicken soup with apple and a little coconut milk.
+
+## Instructions
+1. Cook the onion, garlic and ginger in the oil for 5 minutes, then add the spices for 1 minute.
+2. Add the chicken, lentils, carrot, apple, salt and water and simmer for 25 minutes.
+3. Stir in the coconut milk, blend half of the soup for a thicker texture and serve.
+:::
+
+:::lang bn
+# চিকেন Muligatowa সো
+
+কোমলভাবে মসলা করা অ্যাংলো- ভারতীয় মুদ্রা এবং মুরগীর সুপ আপেল এবং সামান্য নারিকেল দুধ।
+
+## Instructions
+1. আর পাঁচ মিনিটের জন্য তেলে রসুন, রসুন আর ভাটা, তারপর ১ মিনিটের জন্য মসলা যোগ করো।
+2. মুরগি, ডাল,rot, আপেল, লবণ, লবণ এবং সিমমের সাথে ২৫ মিনিট ধরে রাখুন ।
+3. নারিকেল দুধে স্টর্সের অর্ধেক সুপ থাকে আর এগুলো পরিবেশন করে ।
+:::
+
+:::lang ur
+# چِک‌ن Mulligatawny Soup
+
+خوش قسمتی سے اینگلو انڈین کینال اور مرغی پپل اور تھوڑا ناریل کے دودھ کے ساتھ پکایا۔
+
+## Instructions
+1. اِس کے بعد اِس کے بعد اِن چیزوں کو ۱ منٹ تک پکایا جاتا ہے ۔
+2. مونگ‌پھلی ، مونگ‌پھلی ، سیب ، نمک اور پانی اور ۲۵ منٹ تک خوراک شامل کریں ۔
+3. ناریل کے دودھ میں حصہ لینے سے آدھی رات کو اُس کا آدھا حصہ موٹا اور خدمت انجام دے رہا ہے ۔
+:::

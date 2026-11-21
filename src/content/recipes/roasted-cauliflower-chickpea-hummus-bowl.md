@@ -88,3 +88,36 @@ prepTimeEstimated: true
 2. अर्धे हरभरे, ताहिनी, लिंबाचा रस आणि 30 मिली पाणी गुळगुळीत होईपर्यंत मिक्सरमध्ये फिरवा; यापासून हुमस तयार होईल.
 3. वाडग्यांत हुमस पसरवा आणि त्यावर भाजलेली फुलकोबी, उरलेले हरभरे, चिरलेली काकडी आणि पार्सली घाला.
 :::
+
+:::lang en
+# Roasted Cauliflower and Chickpea Hummus Bowl
+
+Roasted cauliflower florets and warm chickpeas served over smooth homemade hummus with cucumber and parsley.
+
+## Instructions
+1. Preheat the oven to 200 C; toss cauliflower florets with olive oil and roast for 22 minutes until browned.
+2. Blend half the chickpeas with tahini, lemon juice, and 30 ml water until smooth to make hummus.
+3. Spread hummus in bowls and top with roasted cauliflower, remaining chickpeas, diced cucumber, and parsley.
+:::
+
+:::lang bn
+# কুমিং কুলি ফুল আর মুরগী হামুমাস
+
+তাই, মৌমাছিরা সহজেই বাসা তৈরি করতে পারে ।
+
+## Instructions
+1. ফুলদানিগুলো প্রায় ২০০ সি থেকে ২০০ সেন্ট পর্যন্ত তৈরি ।
+2. চিনি, লেবুর রস এবং ৩০ মিলিলি পানিকে হাম্মুস বানানোর আগ পর্যন্ত মসৃণ করো।
+3. আখের মধ্যে হরমুস ছড়িয়ে দিন এবং সেখান থেকে নুড়ির ফুল ছড়িয়ে দিন।
+:::
+
+:::lang ur
+# اس میں داخل ہونے والے کیلیف اوبلاست اور چیکپا ہیمموس بول شامل ہیں۔
+
+اِس کے علاوہ اُنہوں نے اپنے گھر والوں کے ساتھ کام کِیا ۔
+
+## Instructions
+1. زیتون کے تیل سے تیار کئے جانے والے تیل کو دو منٹ تک پکایا جاتا ہے ۔
+2. اُس وقت تک اِن میں سے آدھی زمینیں اُس وقت تک نرم ہوتی ہیں جب تک اِس کا پانی صاف نہیں ہوتا ۔
+3. اِس کے علاوہ اُس نے اِس بات کا بھی ذکر کِیا کہ اُس نے اُس کی مدد کی ہے ۔
+:::

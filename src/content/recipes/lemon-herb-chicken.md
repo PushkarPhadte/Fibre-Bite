@@ -96,3 +96,39 @@ prepTimeEstimated: true
 3. चिकन सोनेरी होईपर्यंत आणि त्याच्या सर्वात जाड भागाचे तापमान 74°C होईपर्यंत ओव्हनमध्ये भाजा किंवा पॅनमध्ये शॅलो-फ्राय करा.
 4. शेवटी वरून थोडी अधिक लिंबाची साल किसून घाला आणि लगेच वाढा.
 :::
+
+:::lang en
+# Lemon Herb Chicken
+
+Bright, protein-rich chicken with herbs and lemon for an easy weeknight meal.
+
+## Instructions
+1. Season the chicken with lemon juice, olive oil, garlic, oregano, and herbs.
+2. Marinate for 15 minutes while the oven preheats to 220 degrees Celsius.
+3. Roast or pan-sear until golden and the thickest part reaches 74 degrees Celsius.
+4. Finish with extra lemon zest and serve immediately.
+:::
+
+:::lang bn
+# হলদে হার্ব মুরগি
+
+উজ্জ্বল, প্রোটিন সমৃদ্ধ মুরগির মাংস আর লেবু দিয়ে এক সহজ সপ্তাহের খাবারের জন্য।
+
+## Instructions
+1. মুরগির রস, জলপাই তেল, রসুন, ওগানো ।
+2. ১৫ মিনিটের জন্য মারিনা, যখন চুল্লী ২২০ ডিগ্রী সেলসিয়াসে যায়।
+3. মোমবাতি বা প্যান-শরী পর্যন্ত এবং ঘনতম অংশ ৭৪ ডিগ্রি সেলসিয়াস পর্যন্ত পৌঁছে যায়।
+4. অতিরিক্ত লেবু দিয়ে শেষ করো আর তাড়াতাড়ি কাজ করো।
+:::
+
+:::lang ur
+# لیمون ہرب چیکن
+
+بتدریج، پروٹین-رچ مرغی کے ساتھ جڑی بوٹیوں اور ٹماٹروں کے ساتھ آسانی سے رات کے کھانے کے لئے.
+
+## Instructions
+1. مونگ‌پھلی ، زیتون کے تیل ، لہسن ، لہسن اور جڑی‌بوٹیوں سے مونگ‌پھلی کا رس لیں ۔
+2. 15 منٹ جبکہ اوون پریفیکچر سے 220 ڈگری سیلسیس تک واقع ہے۔
+3. جہلم یا پنوار یہاں تک کہ سونا اور گھنے ترین حصہ 74 ڈگری سیلسیس تک پہنچ جاتا ہے۔
+4. اِس کی وجہ یہ ہے کہ اِس بیماری کی وجہ سے اُن کی صحت خراب ہو جاتی ہے ۔
+:::

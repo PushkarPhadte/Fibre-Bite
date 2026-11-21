@@ -121,3 +121,39 @@ prepTimeEstimated: true
 3. उरलेले 6 मिली ऑलिव्ह ऑइल आणि मुरवणीतून निथळलेला कांदा भांड्यात घाला. मध्यम आचेवर 12 मिनिटे शिजवा, कांदा गोडसर आणि सोनेरी-तपकिरी होईपर्यंत.
 4. राखून ठेवलेली मुरवण, चिकनचा स्टॉक, धुतलेले ऑलिव्ह आणि छिद्र पाडलेली मिरची घाला. चिकनचे तुकडे पुन्हा भांड्यात ठेवा, झाकण लावा आणि मंद आचेवर 20 मिनिटे शिजवा, चिकन मऊ व रसाळ होईपर्यंत.
 :::
+
+:::lang en
+# Senegalese Chicken Yassa (Braised Citrus, Onion, and Mustard Chicken)
+
+Iconic West African braised skinless chicken thighs marinated overnight in fresh lemon juice, whole-grain mustard, garlic, and sweet caramelized onions with rinsed green olives.
+
+## Instructions
+1. Whisk the lemon juice, whole-grain mustard, minced garlic, thyme, and salt in a bowl; toss the chicken thighs and sliced onions in the marinade and refrigerate for 2 to 4 hours.
+2. Remove the chicken from the marinade, pat dry, and sear in 10 ml of olive oil in a Dutch oven for 4 minutes per side until golden; transfer to a plate.
+3. Add the remaining 6 ml of olive oil and the drained marinated onions to the pot, cooking over medium heat for 12 minutes until sweet and golden-brown.
+4. Pour in the reserved marinade, chicken broth, rinsed olives, and pierced chili; nestle the chicken thighs back in, cover, and braise on low heat for 20 minutes until tender and saucy.
+:::
+
+:::lang bn
+# সেনেগালের মুরগির মাংস ইয়াসা (কুতোরাস, প্রিটিস, পেশন এবং মাস্টার্ড মুরগী)
+
+পশ্চিম আফ্রিকার চামড়াহীন মুরগির মাংস রাতে তাজা লেবুর রসে, সরসৃপ, রসুন, এবং মিষ্টি মাংস দিয়ে তৈরি সবুজ জলপাই।
+
+## Instructions
+1. লেবুর জুস, সরীসৃপ, পোদাল, misd রসুন, আপনার sm, এবং লবন; মুরগির মাংসের ঝোঁক এবং মাংসের টুকরোর টুকরো এবং ২ থেকে ৪ ঘন্টা রেস্তোরা।
+2. মুরগির মাংস, পাট্‌ম, পাট, পাট, পাট্‌ম তেল এবং ১০ মিটার গরম জল থেকে মুক্ত করুন ।
+3. অবশিষ্ট ৬ মিলিটার তেল আর পাত্রের উপর ড্রাই করা পিঁয়াজ যোগ করে ১২ মিনিট পর্যন্ত মিষ্টি আর গোল্ডেনব্রাইনের জন্য মাঝারি গরম দিয়ে রান্না করা।
+4. মুরগির মাংসের রস, মুরগির মাংসের শূককীট, মচমচে ও কোকুন দিয়ে; মুরগির চামড়াকে পিছনে ফেলে রাখা, ঢেকে রাখা এবং ২০ মিনিট পর অল্প গরম গরম করে ।
+:::
+
+:::lang ur
+# سینیگال فہرست سینیگال کے شہر انگریزی ویکیپیڈیا کے مشارکین
+
+قابل ذکر مغربی افریقی بکریوں کی کھال کے بغیر مرغیوں کے گوشت کو تازہ ٹماٹر کے جوس میں رات کو پکایا جاتا ہے، پورے گندم ، لہسن اور شہدائے کرام کی خوشبو سبز زیتون سے بھر جاتی ہے۔
+
+## Instructions
+1. وِسِکِکُن جوس، پورے گندم کے دانے، منقّد لہسن، تیرم اور نمک وغیرہ کو ایک برتن میں شامل کرتے ہیں ؛ مریخ میں موجود مرغیوں اور چاولوں کو پیس کر 2 سے 4 گھنٹے تک پکایا جاتا ہے۔
+2. مریخ ، پتوں اور زیتون کے تیل کے ۱۰ میلے میں سونا تک ۴ منٹ کے لئے ؛ پلیٹ‌فارم پر منتقل کریں ۔
+3. زیتون کے تیل کے باقی 6 میل اور ختم ہونے والے آٹے کو بھی شامل کریں، جس میں درمیانے درجے کی گرمی 12 منٹ تک میٹھی اور سنہری ہوتی ہے۔
+4. اِس کے بعد اُس مرغی کو اُس وقت تک گرم کِیا جاتا ہے جب تک اُس کی کھال نرم نہ ہو ۔
+:::

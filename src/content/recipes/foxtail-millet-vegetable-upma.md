@@ -122,3 +122,39 @@ prepTimeSource: 'https://www.chhayasfood.com/home/foxtail-millet-upma-recipe'
 3. गाजर, फरसबी, मटार, पाणी आणि मीठ घाला. उकळी आल्यावर कांगणी मिसळा.
 4. झाकण ठेवून मंद आचेवर सुमारे 15 ते 20 मिनिटे शिजवा, कांगणी मऊ होऊन पाणी शोषेपर्यंत. 5 मिनिटे तसेच ठेवा, मग हलक्या हाताने मोकळी करा आणि शेवटी लिंबाचा रस घाला.
 :::
+
+:::lang en
+# Foxtail Millet Vegetable Upma
+
+A savory South Indian millet breakfast with vegetables, ginger, curry leaves, and toasted cashews.
+
+## Instructions
+1. Rinse the millet and drain. Dry-toast it in a pan for 3 minutes, stirring, then set aside.
+2. Heat oil in the pan. Add mustard seeds and cashews; when the seeds pop and cashews turn golden, add curry leaves, ginger, and onion.
+3. Add carrot, beans, peas, water, and salt. Bring to a boil, then stir in the millet.
+4. Cover and cook on low until the millet is tender and liquid is absorbed, about 15 to 20 minutes. Rest for 5 minutes, fluff, and finish with lemon juice.
+:::
+
+:::lang bn
+# ফক্সটেল মিলেট ভিটেমা
+
+দক্ষিণ ভারতের কলেরা সবজি, ভোদড়, শুকনো পাতা এবং টোটাকলের নাস্তা।
+
+## Instructions
+1. পানি আর ড্রাই করে। ড্রি-টট ৩ মিনিটের জন্য প্যানে করে, কাঁপিয়ে পরেন।
+2. প্যানের তেল. ( মথি ২৪: ১৪; ২৮: ১৯, ২০; লূক ১২: ৩২; ১ করিন্থীয় ১৫: ৩৩; ১ তীমথিয় ২: ৩, ৪; ১ তীমথিয় ২: ৩, ৪; ১ তীমথিয় ২: ৩, ৪; ২ তীমথিয় ৩: ১ - ৫.
+3. চাকা, শিম, জল, এবং লবণ যোগ করুন। একটু সিদ্ধ হও, তারপর মিলেটের মধ্যে ছড়িয়ে পড়ে।
+4. কলেরা ও রান্না কম করে । ৫ মিনিট বিশ্রাম নাও, ফ্লুফ আর লেবু জুস শেষ করো।
+:::
+
+:::lang ur
+# Foxtail Millet Vegetable Upma ہے۔
+
+جنوبی ہندوستان کے ایک کُل‌وقتی مُلک میں سبزیوں ، جِلد ، پتوں اور کُل‌دار پتوں سے کھانا کھایا جاتا ہے ۔
+
+## Instructions
+1. اِس کا مطلب ہے کہ آپ اِس بیماری میں مبتلا ہیں ۔ اسے ایک پین میں 3 منٹ، حوصلہ افزا، پھر الگ.
+2. پان میں تیل۔ اِس میں رائی کے بیج اور چاندی کے بیج بھی شامل کئے جاتے ہیں ؛ جب بیج پوپ اور چاندی سونے کا کام کرتے ہیں تو اِس کے پتوں کو ملا دیتے ہیں ، اِس کے علاوہ اُن کے پتے ، بُت‌پرستی اور جمع ہوتے ہیں ۔
+3. اِس کے علاوہ اِس میں اُن کا پانی ، پانی اور نمک شامل ہوتا ہے ۔ اسے آگ میں ڈال دو پھر آگ میں ڈال دو۔
+4. اُس وقت تک اُس کا وزن کم ہو جاتا ہے جب تک کہ اُس کا پانی نرم نہ ہو اور وہ 15 سے 20 منٹ تک جم نہ جائے ۔ 5 منٹ تک آرام کریں ، اِس کے بعد اُس کا جوتا ختم ہو جائے ۔
+:::

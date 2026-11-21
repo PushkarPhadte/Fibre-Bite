@@ -102,3 +102,39 @@ prepTimeEstimated: true
 3. आंबलेल्या पिठाचे गोळे चपटे करा, त्यात खसखशीचे सारण भरा, अर्धचंद्राच्या आकारात दुमडा आणि कडा घट्ट बंद करा.
 4. स्टीमरमध्ये 15–20 मिनिटे वाफवून डाळ किंवा चटणीसोबत गरम वाढा.
 :::
+
+:::lang en
+# Himachali Siddu (Steamed Whole Wheat Stuffed Bun)
+
+A traditional Himachali steamed bread made from whole wheat dough stuffed with a spiced poppy seed and walnut filling.
+
+## Instructions
+1. Knead wheat flour with warm water, yeast, and salt into a soft dough; leave to ferment for 2 hours.
+2. Prepare stuffing by mixing ground poppy seeds, walnuts, chillies, ginger, and salt.
+3. Flatten fermented dough portions, fill with poppy seed mixture, fold into half-moon shapes, and seal edges.
+4. Steam in a steamer for 15–20 minutes and serve warm with dal or chutney.
+:::
+
+:::lang bn
+# হিমচালি সিউডদু (স্ট্রি অফ ওয়ালড বা পাতা)
+
+একটা ঐতিহ্যবাহী হিমচলি রুটি পুরো গমের তৈরি তৈরি করা পাপড়ি দিয়ে তৈরি।
+
+## Instructions
+1. ( লেবীয়.
+2. মাটির পাত্র, পাতা, ঠাণ্ডা, মদ এবং লবণ মিশিয়ে তৈরি করুন ।
+3. রসালো রসের অংশ, পপপি বীজ দিয়ে পূর্ণ, অর্ধ-মুনের আকার, এবং সীলের প্রান্ত।
+4. ১৫-২০ মিনিটের মধ্যে স্টেম এবং দ্রাক্ষা বা চিরনি দিয়ে উষ্ণ পরিবেশন করে।
+:::
+
+:::lang ur
+# Himachali Siddu (Steamed Whead Staffed Bun)۔
+
+اِس کے بعد اُس نے اُس سے کہا : ” مَیں نے اِس بات کا یقین کر لیا ہے کہ مَیں اُس کے ساتھ ہوں ۔ “
+
+## Instructions
+1. گندم کے آٹے کو گرم پانی ، خمیر اور نمک کو نرم برتن میں رکھ کر ۲ گھنٹے تک پکایا جاتا ہے ۔
+2. زمین پر پیپ کے بیج ملا کر تیار کِیا جاتا ہے ۔
+3. پلیٹ‌فارمنس کے اجزا ، پوپی بیج کے آمیزے ، آدھا حصہ اور مہروں میں ملا ہوا ہے ۔
+4. سٹیم 15–20 منٹ تک ایک سپرنگ میں کام کرتا ہے اور دِل یا چُتنے سے گرم خدمت کرتا ہے۔
+:::

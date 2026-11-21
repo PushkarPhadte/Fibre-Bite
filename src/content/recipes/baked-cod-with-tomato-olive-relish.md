@@ -90,3 +90,39 @@ prepTimeSource: 'https://www.skinnytaste.com/baked-cod-with-tomato-olive-relish/
 3. टोमॅटो-जैतुनाची रिलिश प्रत्येक कॉड फिलेवर भरपूर प्रमाणात चमच्याने पसरवा.
 4. १२-१५ मिनिटे बेक करा, मासा अपारदर्शक होईपर्यंत आणि सहजपणे पाकळ्यांसारखा वेगळा होईपर्यंत.
 :::
+
+:::lang en
+# Baked Cod with Tomato Olive Relish
+
+Flaky baked cod fillets topped with a savory Mediterranean relish of cherry tomatoes, Kalamata olives, and capers.
+
+## Instructions
+1. Preheat oven to 200°C (400°F) and place cod fillets in a baking dish.
+2. In a bowl, mix diced cherry tomatoes, chopped Kalamata olives, capers, minced garlic, olive oil, and salt.
+3. Spoon the tomato olive relish generously over the top of each cod fillet.
+4. Bake for 12-15 minutes until fish is opaque and flakes easily.
+:::
+
+:::lang bn
+# টমেটো অলিভ রেশ দিয়ে আক্কেল
+
+ফুকি দিয়ে বানানো কোদাল, যা চেরি টমেটো, কালসাটা জলপাই এবং ক্যাপার দিয়ে তৈরি।
+
+## Instructions
+1. প্রেটাট চুলে ২০০ ডিগ্রি সেলসিয়াস (৪০০ ডিগ্রিF) এবং ব্রেকিং খাবারে পাত্র ভর্তি এলাকা।
+2. এক বাটি বাটি বাটি ফলা টমেটো, টাকোটা জলপাই, টুপি, রসুন, জলপাই তেল এবং লবণের মিশ্রণ।
+3. টমেটোর জিতবৃক্ষের রসগুলো প্রত্যেকটা পাত্রের ওপর দিয়ে প্রসারিত হয় ।
+4. ১২-১৫ মিনিটের জন্য কেক, যতক্ষণ না মাছ ধরা হয় আর ধরা হয়।
+:::
+
+:::lang ur
+# زیتون کے تیل سے پاک
+
+اِس کے بعد اُس نے اِس بات پر زور دیا کہ اُس نے اُسے کھانے کے لئے تیار کِیا ہے ۔
+
+## Instructions
+1. پروہت اوون سے 200°C (400°F) تک اور کوہِ‌مُقدس کو ایک مُنہ میں رکھیں ۔
+2. ایک پیالے میں ملا جلا کر ٹماٹروں کو ملا دیا جاتا ہے ، مثلاً کالاماتا زیتون ، کپاس ، لہسن ، زیتون کا تیل اور نمک ۔
+3. ہر کوڈ کے اُوپر زیتون کے زیتون کا ذائقہ بڑی کثرت سے ملتا ہے ۔
+4. 12-15 منٹ کے لیے جب تک مچھلی کو اُبال نہ دیا جائے اور اِسے آسانی سے پکایا جائے۔
+:::

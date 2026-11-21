@@ -88,3 +88,39 @@ prepTimeEstimated: true
 3. भाज्यांच्या वर कोळंबीचे 4 अर्धे तुकडे नारिंगी बाजू खाली येईल असे ठेवा.
 4. दोन्ही बाजू आत दुमडा, खालचा भाग सारणावर घट्ट आणून गुंडाळा आणि रोल घट्ट वेटोळा करा.
 :::
+
+:::lang en
+# Vietnamese Fresh Spring Rolls (Goi Cuon)
+
+Translucent rice paper wraps stuffed with steamed shrimp, rice vermicelli, fresh mint, cilantro, and crisp lettuce.
+
+## Instructions
+1. Dip a rice paper wrapper in warm water for 5 seconds until pliable.
+2. Lay wrapper flat; place lettuce, vermicelli, cucumber, carrot, mint, and cilantro on lower third.
+3. Place 4 shrimp halves orange-side down above veggies.
+4. Fold sides in, roll bottom firmly over filling, and roll up tightly.
+:::
+
+:::lang bn
+# ভিয়েতনামের ফ্রেশ স্প্রিং রোল (গু কুন)
+
+চালের চালের টুকরো, চালের সিরিচি, তাজা মিমলিন, সিলান্‌রো এবং সিসকুসে ভরে।
+
+## Instructions
+1. ৫ সেকেন্ডের জন্য ভাতের কাগজের প্যাকেট দিয়ে দাও যতক্ষণ না সম্ভব হয়.
+2. লেপ্যাপার ফ্ল্যাট; লেটুস, সিরিচেলি, সিজন্‌, কার্‌ট, মিন্ট এবং সিলান্রোতে অবস্থিত ।
+3. ৪টা চিংড়ি দাও.
+4. এতে করে নিচের দিকে চলে যান এবং শক্ত করে উঠে যান ।
+:::
+
+:::lang ur
+# ویت نام سپرنگ رول (Goi Cuon)
+
+اِس کی وجہ سے اُن کے چہرے پر چاول کا رس ، چاول ، تازہ منٹ ، سیل‌نٹر اور کریس‌اپ کا ڈھیر لگ رہا تھا ۔
+
+## Instructions
+1. ایک چاول کا کاغذ 5 سیکنڈ تک گرم پانی میں لپیٹا جاتا ہے ۔
+2. اِس کے علاوہ اِس میں کوئی شک نہیں کہ اِن میں سے زیادہ‌تر لوگ اِس بات پر یقین رکھتے ہیں ۔
+3. 4 شریفپورنوں کے اوپر نارنجی سطح مرتفع کریں۔
+4. اِس لئے اُس نے اُن سے کہا : ” اَے میرے بیٹے !
+:::

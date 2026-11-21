@@ -98,3 +98,39 @@ prepTimeEstimated: true
 3. उकळी आणा, मग आच कमी करून झाकण ठेवा आणि 20 मिनिटे मंद आचेवर शिजवा, स्क्वॅश आणि डाळ अगदी मऊ होईपर्यंत.
 4. सूप पूर्ण गुळगुळीत होईपर्यंत ब्लेंड करा आणि गरम सर्व्ह करा.
 :::
+
+:::lang en
+# Simmered Red Lentil and Butternut Squash Soup
+
+Velvety orange soup blending split red lentils, sweet butternut squash, ginger, and warm cumin.
+
+## Instructions
+1. Warm olive oil in a soup pot over medium heat and saute grated ginger and cumin for 30 seconds.
+2. Add cubed butternut squash, red lentils, and vegetable broth.
+3. Bring to a boil, reduce heat, and simmer covered for 20 minutes until squash and lentils are very tender.
+4. Blend until smooth and serve warm.
+:::
+
+:::lang bn
+# সিমারড রেড লেন্তিল এবং বুটটাট রেস্‌শ
+
+ভেভেলি কমলা স্যুপকে আলাদা করে লাল ডাল, মিষ্টি মাখন, ভোদড় এবং গরম জল পরিবেশন করা হয়।
+
+## Instructions
+1. একটা স্যুপের ওপর সুপের তেল গরমের জন্য গরম, সাঁতরে গরম এবং ৩০ সেকেন্ড সময় লাগে।
+2. ঘনিষ্ট মাখন, লাল ডাল এবং সবজি ব্রোথ যোগ করুন।
+3. এরপর গরমের সময় আসে ।
+4. মসৃণ এবং উষ্ণ না হওয়া পর্যন্ত শুয়ে থাকো।
+:::
+
+:::lang ur
+# سمرقند لال لینٹل اور بٹنوت سکواش سوپ -
+
+اِس کے علاوہ اِس میں بھی بہت سی چیزیں پائی جاتی ہیں ۔
+
+## Instructions
+1. صابن میں زیتون کے تیل کو درمیان میں گرم گرم گرم گرم گرم اور صابن ملا کر ۳۰ سیکنڈ تک پکایا جاتا ہے ۔
+2. مونگ‌پھلی ، سُرخ مونگ‌پھلی اور سبزیوں کی افزائش ۔
+3. اُس وقت تک اُس کی کھال صاف ہو جاتی ہے جب تک کہ اُس میں چربی اور چربی بہت نرم ہوتی ہے ۔
+4. یہاں تک کہ اُس کے ساتھ کام کرنا اور اُس کی خدمت کرنا ۔
+:::

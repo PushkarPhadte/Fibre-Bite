@@ -34,7 +34,7 @@
 
 	<div class="group relative overflow-hidden rounded-lg border border-slate-200 bg-white shadow-sm transition hover:-translate-y-0.5 hover:shadow-md">
 	<a href={`/recipes/${recipe.slug}`} class="block">
-		<img src={recipe.image ?? 'https://images.unsplash.com/photo-1490645935967-10de6ba17061?auto=format&fit=crop&w=900&q=80'} alt={recipe.title} loading="lazy" decoding="async" class="h-48 w-full object-cover" />
+		<img src={recipe.image ?? 'https://images.unsplash.com/photo-1490645935967-10de6ba17061?auto=format&fit=crop&w=900&q=80'} alt={localized.title} loading="lazy" decoding="async" class="h-48 w-full object-cover" />
 		<div class="space-y-3 p-5">
 			<div class="flex items-center justify-between gap-3">
 				<span class="rounded-full bg-emerald-50 px-2.5 py-1 text-xs font-semibold text-emerald-800">{recipe.baseServings} {t('recipe.servings')}</span>
@@ -60,8 +60,8 @@
 	</a>
 	{#if recipe.imageAttribution}
 		<p class="border-t border-slate-100 px-5 py-2 text-xs text-slate-500">
-			Photo: <a class="underline hover:text-slate-800" href={recipe.imageAttribution.sourceUrl} target="_blank" rel="noreferrer">{recipe.imageAttribution.title}</a>
-			by <a class="underline hover:text-slate-800" href={recipe.imageAttribution.creatorUrl} target="_blank" rel="noreferrer">{recipe.imageAttribution.creator}</a>,
+			{t('attribution.photo')} <a class="underline hover:text-slate-800" href={recipe.imageAttribution.sourceUrl} target="_blank" rel="noreferrer">{recipe.imageAttribution.title}</a>
+			{t('attribution.by')} <a class="underline hover:text-slate-800" href={recipe.imageAttribution.creatorUrl} target="_blank" rel="noreferrer">{recipe.imageAttribution.creator}</a>,
 			<a class="underline hover:text-slate-800" href={recipe.imageAttribution.licenseUrl} target="_blank" rel="noreferrer">{recipe.imageAttribution.license}</a>.
 		</p>
 	{/if}

@@ -85,3 +85,36 @@ prepTimeEstimated: true
 2. काकडी, कांदा, पुदिना, कोथिंबीर, मिरची, लिंबाचा रस आणि मीठ एकत्र करून हलकेच मिसळा.
 3. कोळंबी घालून वरून शेंगदाणे पेरा.
 :::
+
+:::lang en
+# Shrimp Cucumber Mint Lime Salad
+
+Poached shrimp with crisp cucumber, mint, coriander and a lime dressing.
+
+## Instructions
+1. Poach the shrimp in simmering water for 2 to 3 minutes until pink, then drain and cool.
+2. Toss the cucumber, onion, herbs, chilli, lime juice and salt.
+3. Add the shrimp and top with peanuts.
+:::
+
+:::lang bn
+# শ্রিম্পু কাউম্বার মিনট সালাদ
+
+পচিং চিংড়ি, মিন্ট, কোরিয়ান্ডার আর লাইম ড্রেস পরে.
+
+## Instructions
+1. গোলাপি আর ঠান্ডার আগে ২ থেকে ৩ মিনিট পানির মধ্যে চিংড়ি রান্না করে।
+2. ভেষজ নির্যাস, ভেষজ নির্যাস, ঠাণ্ডা পানীয়, লাইম জুস এবং লবণ ।
+3. চিংড়ির সাথে বাদামের উপরে রাখো।
+:::
+
+:::lang ur
+# شمیمپ کوکمبر منٹ لیم سالود
+
+پولش شرما جس میں کریس‌کومبر ، منٹ ، کوریاندر اور ایک کانسی لباس تھا ۔
+
+## Instructions
+1. جب تک گلابی رنگ نہ ہو ، پانی صاف کریں اور ٹھنڈا کریں ۔
+2. اِس کے علاوہ اِس میں بھی بہت سی چیزیں شامل ہیں ۔
+3. شراپ کو اور سب سے اوپر کو پنجاب کے ساتھ شامل کریں۔
+:::

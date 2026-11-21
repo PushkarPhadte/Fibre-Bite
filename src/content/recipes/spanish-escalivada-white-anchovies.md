@@ -100,3 +100,39 @@ prepTimeEstimated: true
 3. उरलेले 15 ml ऑलिव्ह तेल, शेरी व्हिनेगर आणि बारीक चिरलेला लसूण एकत्र फेटून हलकी ड्रेसिंग तयार करा.
 4. कोमट किंवा खोलीच्या तापमानाला आलेल्या भाज्यांच्या पट्ट्या ताटात मांडा. त्यावर ड्रेसिंग घाला, पांढऱ्या अँचोव्हीज ठेवा आणि ताजी पार्सली भुरभुरा.
 :::
+
+:::lang en
+# Spanish Escalivada with White Anchovies
+
+Smoky Catalan oven-roasted red peppers, eggplant, and sweet onions dressed in sherry vinegar and olive oil, finished with omega-3-rich white anchovies.
+
+## Instructions
+1. Preheat the oven to 220°C, prick the eggplant with a fork, rub the peppers, eggplant, and onion halves with 5 ml of olive oil, and roast on a baking tray for 40 to 45 minutes until deeply charred and collapsed.
+2. Transfer the roasted vegetables to a covered bowl for 10 minutes to steam, then slip off the skins and seeds and tear the flesh into long ribbons.
+3. Whisk the remaining 15 ml of olive oil, sherry vinegar, and minced garlic into a light dressing.
+4. Arrange the warm or room-temperature vegetable ribbons on a platter, drizzle with the dressing, drape the white anchovies across the top, and scatter with fresh parsley.
+:::
+
+:::lang bn
+# হোয়াইট আনচোভির সাথে স্প্যানিশ সম্রাজ্য
+
+সুমোকা ক্যাটালানে লাল মরিচ, ডিমপেরপলা এবং জলপাই তেল পরে লাল মরিচের টুকরো।
+
+## Instructions
+1. ২২০ ডিগ্রি সেলসিয়াস পর্যন্ত চুল কাটা, ডিমদানি, মরিচের টুকরো, পিঁয়াজ, এবং শ্যাম্পু তেল দিয়ে ঝরানো, এবং ৪০ থেকে ৪৫ মিনিট পর্যন্ত চলতে থাকে।
+2. গরমের সময় দন্তচিকিৎসকে পরিষ্কার করা হতো ।
+3. আর রসুনের রসুন হালকা পোশাকে।
+4. গরম অথবা রুম-ঘরের ফিতার ফিতার সাথে খাপ খাওয়ানোর ব্যবস্থা করুন, পোষাকের সাথে মিশিয়ে নিন।
+:::
+
+:::lang ur
+# سفید اینچویس کے ساتھ سپینش ایسکلواڈا
+
+سُوکی کاتالن اوون-دوم سرخ رنگ کے پکوانوں، انڈے کے رس اور زیتون کے تیل میں بنے ہوئے خوشبودار سیبوں کے ساتھ ہومگا-3-ریچ سفید اینچوی سے ختم ہو گیا۔
+
+## Instructions
+1. اِس کے بعد اُس نے زیتون کے تیل کو اُس وقت تک پکایا جب تک ۴۰ سے ۴۵ منٹ تک اُس کے جسم میں سوراخ نہ ہو جائے ۔
+2. اِس کے بعد کھال اور بیج اُڑ کر گوشت کو دیر تک خشک کر دیں ۔
+3. زیتون کے تیل کے باقی ۱۵ ملی‌میٹر ، مکئی اور لہسن کو ہلکے کپڑے میں تبدیل کِیا گیا ۔
+4. گرم یا کمرے میں موجود سبزیوں کو ایک پَر پر پکا کر رکھیں، کپڑے پہن کر، سفید ناک کو اوپر سے اُوپر پھینک دیں اور تازہ رنگوں سے بکھیر دیں۔
+:::

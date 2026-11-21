@@ -81,3 +81,36 @@ prepTimeSource: 'https://cookieandkate.com/avocado-green-smoothie-recipe/'
 2. मिश्रण पूर्णपणे गुळगुळीत आणि क्रीमसारखे होईपर्यंत ६० सेकंद उच्च गतीने ब्लेंड करा.
 3. ग्लासमध्ये ओता आणि लगेच सर्व्ह करा.
 :::
+
+:::lang en
+# Avocado Berry Green Smoothie
+
+A creamy, nutrient-dense smoothie blending creamy avocado, mixed berries, baby spinach, and unsweetened almond milk.
+
+## Instructions
+1. Add almond milk, baby spinach, avocado, mixed berries, and chia seeds to a high-speed blender.
+2. Blend on high speed for 60 seconds until completely smooth and creamy.
+3. Pour into a glass and serve immediately.
+:::
+
+:::lang bn
+# আইভোকাদো বেরি
+
+ক্রিমি, বাদামি, বাদামি সয়াক্কো, মিশ্র বেরি, বাচ্চা কাচা, এবং অমলেটের দুধ।
+
+## Instructions
+1. আলমন্ড দুধ, বেবি স্পিনচ, আভোকাডো, মিশ্র বেরি, এবং চিরা বীজকে উচ্চগতির সাথে সংযুক্ত করো।
+2. ৬০ সেকেন্ডের জন্য ব্লেন্ড, সম্পূর্ণ মসৃণ আর ক্রিমি।
+3. একটি কাঁচের মধ্যে ঢাল এবং অবিলম্বে সেবা।
+:::
+
+:::lang ur
+# ایکوکادو بیری گرین بورو کا علاقہ
+
+ایک کریمی، نوشیروانی-دنسی کو ملانے والی کریمی ادو، مخلوط پھول، بچے کی ریڑھ کی ہڈی اور غیر زہریلی بادام دودھ۔
+
+## Instructions
+1. مونگ پھلی دودھ شامل کریں، بچہ ریڑھ کی ہڈی، اواکوڈو، مخلوط پھول اور چییا بیج ایک اعلیٰ قسم کے ملانے والے کو ملانے والا۔
+2. پوری طرح ہموار اور کریمی تک 60 سیکنڈ کے لئے تیز رفتار پر گزارا۔
+3. ایک گلاس میں ڈال کر فوراً خدمت کرتے ہیں۔
+:::

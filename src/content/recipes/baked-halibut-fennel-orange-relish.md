@@ -89,3 +89,39 @@ prepTimeEstimated: true
 3. एका भांड्यात पातळ कापलेली बडीशेप, संत्र्याच्या फोडी, पुदिना आणि उरलेले जैतुनाचे तेल एकत्र करा.
 4. वाढण्यापूर्वी बेक केलेल्या हॅलिबटवर लिंबूवर्गीय फळे आणि बडीशेप यांचे रिलिश चमच्याने घाला.
 :::
+
+:::lang en
+# Baked Halibut with Fennel and Orange Relish
+
+Lean Pacific halibut baked until moist and topped with crisp shaved fennel, fresh orange segments, and mint.
+
+## Instructions
+1. Preheat the oven to 190 C and line a baking sheet with parchment paper.
+2. Brush halibut fillets with half the olive oil, season with black pepper, and bake for 12 to 15 minutes until just cooked through.
+3. In a bowl, toss shaved fennel, orange segments, mint, and remaining olive oil.
+4. Spoon the citrus fennel relish over the baked halibut before serving.
+:::
+
+:::lang bn
+# ফেনেল এবং অরেঞ্জ রিজলির কাছ থেকে ধরা
+
+লেয়ান প্রশান্ত মহাসাগরে যতক্ষণ না মোচিং করা হয় ততক্ষণ পর্যন্ত র‌্যাঙ্কিং করা হয় আর এর সাথে হাতাহাতি চুন, তাজা কমলার পাত্র, আর মিন্টে ভরা থাকে।
+
+## Instructions
+1. এটা একটা কাগজ দিয়ে তৈরি করা হয়েছে ।
+2. এতে প্রায় অর্ধেক জলপাই, কালো মরিচ এবং ১২ থেকে ১৫ মিনিট সময় লাগে।
+3. এক বাটি বাটি, চুনপোকা, কমলার টুকরো, মিন্ট এবং অবশিষ্ট জলপাই তেল।
+4. রান্নার আগে শুকানোর জন্য মশার মাংস ব্যবহার করুন।
+:::
+
+:::lang ur
+# خوشینل اور اور اورنج ریلش کے ساتھ بیک‌وقت
+
+لان پیسیفک ہیل‌لیٹ نے یہاں تک پکایا اور اُس پر تازہ‌دم ، تازہ نارنجی اور مِن‌دار جھاڑیوں سے بھر دیا ۔
+
+## Instructions
+1. اِس کے بعد اُس نے اِس کاغذ کو کاغذ کے ٹکڑے میں ڈال دیا ۔
+2. اُس وقت تک زیتون کے نصف حصے کو پورا کِیا جاتا ہے ۔
+3. ایک پیالے میں شہد کی مکھیوں ، نارنجی تیل ، منتی اور زیتون کے تیل کو پکایا جاتا ہے ۔
+4. اِس کا مطلب ہے کہ اُن کے کھانے کے بعد اُن کا کھانا زیادہ پکا ہوتا ہے ۔
+:::

@@ -83,3 +83,39 @@ prepTimeSource: 'https://www.bbcgoodfood.com/recipes/warm-lentil-goat-s-cheese-s
 3. मसूरडाळीवर कुस्करलेले शेळीचे चीज भुरभुरा.
 4. वरून एक्स्ट्रा व्हर्जिन ऑलिव्ह तेल आणि बाल्सॅमिक व्हिनेगर घाला, मिठाने चवीनुसार करा आणि वाढा.
 :::
+
+:::lang en
+# Warm Lentil and Goat Cheese Salad
+
+Earthy warm brown lentils served over fresh arugula with creamy goat cheese and balsamic vinaigrette.
+
+## Instructions
+1. Arrange fresh arugula on serving plates.
+2. Spoon warm cooked brown lentils directly over the arugula so greens wilt slightly.
+3. Sprinkle crumbled goat cheese over the lentils.
+4. Drizzle with extra virgin olive oil and balsamic vinegar, season with salt, and serve.
+:::
+
+:::lang bn
+# উষ্ণ লুণ্ঠন এবং গোত চি সালাদ
+
+সুন্দর বাদামি বাদামি ছাগল পনির এবং ভেষজ নির্যাসের সঙ্গে তাজা মদ পরিবেশন করে ।
+
+## Instructions
+1. প্লেটের মধ্যে পরিষ্কার করুন.
+2. স্পেকশনের মাধ্যমে বাদামি গামলাকে সরাসরিই রান্না করা হয়েছে।
+3. শূয়োরের ওপর ছাগলের পনির ভেঙ্গে গিয়েছিল ।
+4. ( খ) কীভাবে আমরা দেখাতে পারি যে, আমরা যিহোবাকে ভালোবাসি?
+:::
+
+:::lang ur
+# گرم لِتِل اور بکری چَوَیَسُود
+
+اِس کی وجہ یہ تھی کہ اِن میں سے زیادہ‌تر لوگ اِس بات کی قدر کرتے تھے کہ اُن میں سے زیادہ‌تر اُن کے ساتھ کھانا کھاتے تھے ۔
+
+## Instructions
+1. گلّہ‌بانی کے پلیٹ‌فارم پر تازہ ارغولا رکھیں ۔
+2. اِس طرح سبز سبز سبز رنگ کا ہوتا ہے ۔
+3. مونگ‌پھلی پر بکری کا پنیر ۔
+4. زیتون کے تیل اور زیتون کے تیل ، نمک اور خدمت کا وقت ہوتا ہے ۔
+:::

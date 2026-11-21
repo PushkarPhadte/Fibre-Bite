@@ -86,3 +86,36 @@ prepTimeEstimated: true
 2. कागद अंथरलेल्या बेकिंग शीटवर हिरव्या शेंगा आणि कॉडचे तुकडे मांडा; हिरव्या शेंगांना उरलेले ऑलिव्ह तेल लावा.
 3. हर्बचा चुरा कॉडच्या तुकड्यांवर दाबून लावा आणि मासा अपारदर्शक होऊन सहज पाकळ्यांसारखा सुटेपर्यंत 195 C वर 14 ते 16 मिनिटे भाजा.
 :::
+
+:::lang en
+# Baked Cod with Lemon Herb Crust and Green Beans
+
+Flaky cod fillets topped with a crisp whole-grain herb crumb and baked beside tender green beans.
+
+## Instructions
+1. Mix whole-wheat breadcrumbs, chopped parsley, lemon zest, and half the olive oil in a small bowl.
+2. Arrange green beans and cod fillets on a lined baking sheet, brushing the green beans with remaining olive oil.
+3. Press the herb crumb onto the cod fillets and bake at 195 C for 14 to 16 minutes until fish is opaque and flakes easily.
+:::
+
+:::lang bn
+# "কড কোক্রল হার্ব ক্রুস্ট এবং গ্রিন বিন্স"
+
+ফাইকি কোদাল দিয়ে ভরা... ...এক টুকরো চুলে ভরা... ...আর কোমল সবুজ শিমের পাশে.
+
+## Instructions
+1. মিক্স রুটির টুকরো, প্যাসলি, লেবুর টুকরো, এবং একটি বাটি বাটি বাটির মধ্যে অর্ধেক জলপাই তেল।
+2. সবুজ শিমগুলো তৈরি করুন এবং একটা লাইন বাকিং শীকিং শীটে রাখুন, যেখানে অবশিষ্ট জলপাই তেল দিয়ে সবুজ শিমগুলো পরিষ্কার করুন ।
+3. পাত্রটি উপরে তোলপাড় করে ১৪ থেকে ১৬ মিনিটের মধ্যে ৩০ মিনিটের মধ্যে মাছ আর মাছগুলো খুব সহজে ধরায়।
+:::
+
+:::lang ur
+# لیمون ہرب کروسٹ اور گرین بینز کے ساتھ کام کیا۔
+
+خوبصورت سبز دانوں کے علاوہ فصلوں کو بھر دیا جاتا ہے ۔
+
+## Instructions
+1. مِک مکمل طور پر نانکمبس، کِن‌بُل‌وَوَلَیس‌لی ، لائم زِسٹ اور آدھی زیتون کا تیل ایک چھوٹے برتن میں ۔
+2. سبز دانوں اور کُل‌وقتی طور پر ہرے رنگ کے پتوں کو ملا کر زیتون کے تیل سے جڑے ہوئے سبز دانوں کو صاف کریں ۔
+3. جب تک مچھلیوں کو اُبال کر اُوپر نہیں اُٹھایا جاتا ، اِس میں اُن کی تعداد کم ہو جاتی ہے ۔
+:::

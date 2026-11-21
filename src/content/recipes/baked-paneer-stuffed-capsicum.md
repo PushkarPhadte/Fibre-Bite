@@ -119,3 +119,39 @@ prepTimeEstimated: true
 3. प्रत्येक ढोबळी मिरचीत हे मिश्रण भरा आणि बेकिंग डिशमध्ये उभी ठेवा; डिशच्या तळाशी ५० मिली पाणी घाला.
 4. फॉइल सैल झाकून २० मिनिटे बेक करा; मग फॉइल काढून आणखी १० मिनिटे बेक करा, मिरच्या मऊ आणि किंचित भाजलेल्या होईपर्यंत.
 :::
+
+:::lang en
+# Baked Paneer-Stuffed Capsicum
+
+Whole bell peppers filled with crumbled paneer, peas, tomato and warm spices and baked until the peppers are tender.
+
+## Instructions
+1. Heat the oven to 190 C. Heat the oil, crackle the cumin, then cook the onion, ginger and chilli for 4 minutes.
+2. Add the tomato, turmeric and peas and cook for 4 minutes until dry, then mix in the paneer, garam masala, salt, lemon juice and coriander.
+3. Fill each capsicum with the mixture and place upright in a baking dish with 50 ml of water in the base.
+4. Cover loosely with foil and bake for 20 minutes, then uncover and bake for 10 minutes more until the peppers are tender and lightly charred.
+:::
+
+:::lang bn
+# পার্শ্ববর্তী পেইনের অবস্থান
+
+মরিচের টুকরো টুকরো টুকরো হয়ে গিয়েছিল ।
+
+## Instructions
+1. চুল্লীগুলো ১৯০ C-এ রূপান্তর করা। তেল ঢালে, মর্দ্দন ভেঙ্গে দেয়, তারপর রান্না করে ৪ মিনিটের জন্য।
+2. টমেটো, টরমেরিক এবং মটরশুঁটি যোগ করুন ।
+3. প্রত্যেকটা পচন পাত্রের মধ্যে বেসের ৫০ মিটার জল রয়েছে ।
+4. ২০ মিনিটের জন্য ফুয়েল আর কেক দিয়ে ঢাকা, তারপর আরও ১০ মিনিট লাগবে যতক্ষণ না মরিচ কোমল আর হালকা হয়ে যায়।
+:::
+
+:::lang ur
+# Baded Panneer-Stufed Capsium -
+
+اِس کے بعد اُس نے اُن سے پوچھا : ” کیا مَیں اِس بات کا یقین کر سکتا ہوں کہ مَیں اُن کے ساتھ ہوں ؟ “
+
+## Instructions
+1. ہیپاٹائٹس بی 190 سی . اِس کے بعد اُس کا تیل پکا لیا جاتا ہے ، اُس کا ذائقہ پکاتا ہے ، اُس کے معدے کو پکایا جاتا ہے ، اُس کا ذائقہ خراب ہو جاتا ہے اور اِس میں چار منٹ لگ جاتے ہیں ۔
+2. ٹماٹر ، ٹرمیر اور پکاس کو خشک ہونے تک 4 منٹ تک ملا کر رکھ دیں ، اس کے بعد ترامیم ، گراہم ماسالا ، نمک ، ٹماٹر جوس اور کوریان میں ملاتی ہیں۔
+3. اِس کی ایک وجہ تو یہ ہے کہ اِس میں پانی کی مقدار ۵۰ ملی ہے ۔
+4. اِس کے بعد دس منٹ کے اندر اندر اندر اُس وقت تک نیچے گِر جاتے ہیں جب تک کہ پَر نرم اور ہلکا نہیں ہوتا ۔
+:::

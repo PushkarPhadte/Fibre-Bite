@@ -123,3 +123,42 @@ prepTimeEstimated: true
 4. हिरवा टोमाटिलो-पेपिटा सॉस आणि पाणी काढलेली होमिनी भांड्यात मिसळा; भरदार आणि सुगंधित होईपर्यंत 15 मिनिटे मंद आचेवर उकळू द्या.
 5. वाट्यांत वाढा आणि वरून चिरलेला कोबी, चकत्या केलेला मुळा आणि ताज्या लिंबाचा रस घाला.
 :::
+
+:::lang en
+# Mexican Chicken and Hominy Pozole Verde
+
+Bright Mexican green stew of shredded chicken breast and tender hominy in a roasted tomatillo, poblano, and toasted pumpkin seed broth topped with crisp radish and cabbage.
+
+## Instructions
+1. Roast the tomatillos, poblano halves, onion quarters, and unpeeled garlic at 220°C for 15 minutes until lightly blistered; dry-toast the pepitas in a skillet for 2 minutes.
+2. Blend the roasted vegetables (peeling the garlic), toasted pepitas, cilantro, oregano-cumin blend, and 200 ml of chicken broth into a vivid green salsa.
+3. Poach the chicken breast in the remaining 600 ml of chicken broth for 14 minutes until cooked through, remove to shred with two forks, and return to the pot.
+4. Stir the green tomatillo-pepita sauce and drained hominy into the pot and simmer gently for 15 minutes until rich and fragrant.
+5. Ladle into bowls and top with shredded cabbage, sliced radishes, and a squeeze of fresh lime juice.
+:::
+
+:::lang bn
+# মেক্সিকান মুরগী এবং হোমিনি পোজলো ভার্দে
+
+মেক্সিকোর উজ্জ্বল সবুজ চিরকুট মুরগির বুক এবং কোমল শূককীলোতে পোড়ানো, পোব্লানো, এবং টোস্টিং বীজের মতো উজ্জ্বল হয়ে উঠেছে।
+
+## Instructions
+1. প্যাটলোলো, পোব্লানো নুভেস, দোজখে, আর ১৫ মিনিটের জন্য রসুনের গন্ধ না ঝরছে।
+2. ভোদড়যুক্ত সবজিগুলো (রোষের সাথে মিশিয়ে নিন), টোস্টিং পিজ্জা, সিলেঞ্জারো বাগানো-কুমিন, এবং ২০০ মিলিথ একটি সবুজ সালালে পরিণত হয়।
+3. মুরগির বুকের অবশিষ্ট ৬০০ মিটার পর্যন্ত মুরগির ডিমকে রান্না করে ১৪ মিনিট পর্যন্ত রান্না করা হয় ।
+4. সাদা সবুজ সবুজ সস এবং প্যাপ্টের সস এবং পনিরের মধ্যে ঝোঁক দিয়ে পরিষ্কার করা হয়েছে।
+5. হালকা বাটিপোকার ওপর বাটিপোকা, কাটা বাঁধা বাঁধা, কোদাল রঞ্জ, আর ঘন ঘন সবুজ রসের রস।
+:::
+
+:::lang ur
+# میکسیکو چیکن اور ایچ‌آئی‌وی پوزے ورڈی ورڈی
+
+میکسیکو کے وسیع‌وعریض سبزی مائل مرغی کے سینے اور نرم‌و ملاکی کو ایک بھڑکتی ہوئی تلمود ، پوبلانو میں اور پمپ‌کین بیج بُرتھ میں لپیٹ دیا گیا ۔
+
+## Instructions
+1. جب تک 15 منٹ تک معمولی مقدار میں استعمال نہ ہو جائے تب سے 15 منٹ کے لیے ٹماٹروں کو خشک کرنا؛ 2 منٹ کے لئے ایک کیفیت میں پیک کی سطح میں خشک کرنا۔
+2. سبزیوں کو پکا کر رکھیں ( لہسن کو صاف کرنے کے لیے ) ، پیپپس ، سیلانترو ، اوریگانو کوکمن آمیزے اور 200 ملی میٹر مرغیوں کا ایک شاندار سبز سکہ میں تبدیل کریں ۔
+3. مرغی کے باقی 600 ملی گرام مرغیوں کے سینے کو اُس وقت تک 14 منٹ کے لیے کھولا جاتا ہے جب تک کہ اُسے پکا نہ کر لیا جائے ، اُسے دو بیگوں سے الگ کر دیا جائے اور اُس کے پاس لوٹ لیا جائے ۔
+4. ہرے رنگ کے پتوں کو ملا کر اس برتن میں سوراخ کر کے 15 منٹ تک نرم اور گرم کر دیا جب تک کہ امیر اور خوشبو نہ ہو۔
+5. اِس کے علاوہ اُس نے اِس کا ذائقہ بھی تیار کِیا ۔
+:::

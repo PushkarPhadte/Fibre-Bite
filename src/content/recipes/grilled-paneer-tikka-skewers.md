@@ -106,3 +106,36 @@ prepTimeEstimated: true
 2. साहित्य सळ्यांवर ओवून घ्या.
 3. 220 °C तापमानावर 12 ते 15 मिनिटे ग्रिल करा किंवा बेक करा. एकदा उलटून हलके करपलेपर्यंत शिजवा.
 :::
+
+:::lang en
+# Grilled Paneer Tikka Skewers
+
+Marinated paneer, peppers and onion grilled on skewers with a curd-spice marinade.
+
+## Instructions
+1. Mix the curd, ginger, garlic, spices, lemon juice, oil and salt and coat the paneer and vegetables; marinate for 20 minutes.
+2. Thread onto skewers.
+3. Grill or bake at 220 °C for 12 to 15 minutes, turning once, until lightly charred.
+:::
+
+:::lang bn
+# কা. পূ.
+
+এর মধ্যে রয়েছে ছোট ছোট ছোট খাবার ।
+
+## Instructions
+1. রস, রসুন, রসুন, লেবু, লেবুর জুস, তেল এবং লবণ; ২০ মিনিট ধরে রাখা হয় ।
+2. স্পেকয়ারে যাও।
+3. ১২ থেকে ১৫ মিনিট পর্যন্ত ২০ ডিগ্রি সেলসিয়াস পর্যন্ত গ্রিল বা বাকস।
+:::
+
+:::lang ur
+# گلئیڈ پانیر ٹیککا سکھر -
+
+مریخی تزئین، پیپرز اور آنوسین کی مدد سے کی جانے والی ایک مریخ کے ساتھ چلنے والی سرنگوں پر مشتمل تھی۔
+
+## Instructions
+1. اِس کے علاوہ اِس میں اُن کا تیل ، تیل اور نمک اور اِس کی سبزیوں اور سبزیوں کو بھی شامل کِیا جاتا ہے ۔
+2. سکھوں میں گر.
+3. ایک بار پھر، جب تک کہ معمولی سی سی.
+:::

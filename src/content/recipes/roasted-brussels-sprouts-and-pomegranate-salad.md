@@ -81,3 +81,39 @@ prepTimeSource: 'https://cookieandkate.com/roasted-brussels-sprouts-salad-recipe
 3. भाजलेले स्प्राउट्स एका भांड्यात काढून थोडे थंड होऊ द्या।
 4. त्यात डाळिंबाचे दाणे, चिरलेले अक्रोड आणि थोडे बाल्सॅमिक व्हिनेगर घालून मिसळा।
 :::
+
+:::lang en
+# Roasted Brussels Sprouts and Pomegranate Salad
+
+Charred roasted Brussels sprouts tossed with sweet pomegranate arils, walnuts, and balsamic dressing.
+
+## Instructions
+1. Toss halved Brussels sprouts with olive oil and salt.
+2. Roast at 200°C (400°F) for 20-25 minutes until golden brown and crispy.
+3. Transfer roasted sprouts to a bowl and let cool slightly.
+4. Toss with pomegranate arils, chopped walnuts, and a drizzle of balsamic vinegar.
+:::
+
+:::lang bn
+# রাসেল স্প্রাউট এবং পোমগ্রাম সালভাড
+
+পোশাক - আশাক পড়া ব্রাসেলসের মাংসের অঙ্কুরিত ফল উৎপন্ন করে
+
+## Instructions
+1. বনজঙ্গল তেল ও লবণ উৎপন্ন করে ।
+2. ২০০ ডিগ্রি সেলসিয়াস (৪০০ ডিগ্রি ফারেনহাইট) থেকে ২০-২৫ মিনিটের মধ্যে কুমীরের মাংস।
+3. একটি বাটি বাটিতে রূপান্তরিত হয় এবং সামান্য শীতল হতে দেয়।
+4. টরিল, কাটাগাছ, আর ভেষজ নিরামিষারের এক গন্ধ।
+:::
+
+:::lang ur
+# داخلی برصغیر پاک و ہند اور پامگریٹ سالاد -
+
+اُنہوں نے اُن سے کہا : ” مَیں اِس بات پر خوش ہوں کہ مَیں اُن کے ساتھ ہوں ۔ “
+
+## Instructions
+1. توس‌مُردار کے تیل اور نمک سے حاصل کئے جاتے ہیں ۔
+2. 200°C (400°F) پر گولڈن بھورے اور کریسپی تک 20-25 منٹ کے لیے داخلہ لیا۔
+3. ایک پیالے میں پکایا اور ٹھنڈا ہونے دیں ۔
+4. اِس کی وجہ یہ تھی کہ اُس نے اُن سے کہا : ” مَیں اُن کی بات نہیں مان سکتا ۔ “
+:::

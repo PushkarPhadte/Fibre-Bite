@@ -81,3 +81,39 @@ nutrition:
 3. चिरलेला टोमॅटो, मीठ आणि मिरी घाला; भाजी मऊ होईपर्यंत 3 मिनिटे शिजवा.
 4. हलकी साइड डिश म्हणून गरम वाढा.
 :::
+
+:::lang en
+# Mexican Zucchini and Corn Sauté (Calabacitas)
+
+A traditional Mexican vegetable side dish of sautéed zucchini, corn, tomatoes, garlic, and fresh herbs.
+
+## Instructions
+1. Heat olive oil in a skillet and sauté onion and garlic for 3 minutes.
+2. Add diced zucchini and sweet corn, stir-frying for 5 minutes.
+3. Add chopped tomato, salt, and pepper; cook for 3 minutes until tender.
+4. Serve warm as a light side dish.
+:::
+
+:::lang bn
+# মেক্সিকান জুসিচিনি এবং কর্নি সাউতে (কালাবেসে)
+
+মেক্সিকোর ঐতিহ্যবাহী সবজির একটি অংশ সাসটেটেড জুচিনি, ভূট্টা, টমেটো, রসুন এবং তাজা ভেষজ খাবার।
+
+## Instructions
+1. তিন মিনিটের জন্য হেট জিতবৃক্ষের তেল আর লবণের তেল।
+2. chuchchini এবং মিষ্টি ভূট্টা যোগ করুন, পাঁচ মিনিটের জন্য উত্তেজিত হবেন।
+3. টমেটো, লবণ এবং মরিচ যোগ করুন; কোমল হওয়া পর্যন্ত ৩ মিনিট রান্না করুন ।
+4. হালকা পাশের খাবার হিসেবে সেবা করুন।
+:::
+
+:::lang ur
+# میکسیکو زوکینی اور کارن ساوتے (Calabacitas)
+
+ایک روایتی میکسیکو کے سبزیوں کا ایک سلسلہ‌وار کھانا ، مکئی ، ٹماٹر ، لہسن اور تازہ سبزیوں کا تھا ۔
+
+## Instructions
+1. زیتون کا تیل ۳ منٹ کے لئے استعمال ہوتا ہے ۔
+2. اِس کے علاوہ اِس میں 5 منٹ کے لیے اِستعمال کی جاتی ہے ۔
+3. ٹماٹر ، نمک اور پنیر شامل کریں ؛ ۳ منٹ تک پُرتپاک کھانا کھائیں ۔
+4. ایک ہلکے پہلو کے طور پر خدمت کریں ۔
+:::

@@ -87,3 +87,39 @@ prepTimeEstimated: true
 3. ब्रोकोली 4 मिनिटे वाफवून शिजवा.
 4. सॅल्मन ब्रोकोलीसोबत वाढा आणि वरून तीळ भुरभुरा.
 :::
+
+:::lang en
+# Ginger Tamari Glazed Salmon
+
+Baked salmon fillets glazed with ginger, garlic, lime and reduced-sodium tamari.
+
+## Instructions
+1. Mix the tamari, ginger, garlic and lime juice and coat the salmon; rest for 10 minutes.
+2. Bake at 200 °C for 12 minutes until just cooked through.
+3. Steam the broccoli for 4 minutes.
+4. Serve the salmon with broccoli, sprinkled with sesame.
+:::
+
+:::lang bn
+# জিঞ্জার তামারী গ্লেজ স্যালমন
+
+কোদাল সেলমোন, রসুন, চুন, চুড়ি আর কোদাল টামারিকে ছোট করো।
+
+## Instructions
+1. টামারি, ডোরা, রসুন, চাঁবি আর লবণের রস দিয়ে দিন; ১০ মিনিটের জন্য বিশ্রাম নিন।
+2. ১২ মিনিট লাগবে।
+3. 4 মিনিটের জন্য ব্রোকোলি.
+4. ব্রোকোলির সাথে সালমোনের সেবা কর, স্নিগ্ধ.
+:::
+
+:::lang ur
+# گن‌ر تھری‌منگ کے پھول
+
+جڑی‌بوٹیوں میں گندھک ، لہسن ، آلو اور کم‌ازکم سُرخ تامری شامل ہیں ۔
+
+## Instructions
+1. اِس کی بجائے اُس نے اِس بات کو تسلیم کِیا کہ اُس نے اُس کے لئے اچھی مثال قائم کی ہے ۔
+2. Bake at 200 °C 12 منٹ تک جب تک صرف پکا نہ جائے۔
+3. سٹیم برکلے 4 منٹ تک.
+4. بریکولی کے ساتھ مل کر، سیسم کی خدمت.
+:::

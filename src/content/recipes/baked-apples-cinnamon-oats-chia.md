@@ -81,3 +81,36 @@ prepTimeEstimated: true
 2. एका छोट्या भांड्यात रोल्ड ओट्स, चिया बिया आणि दालचिनीची पूड मिसळा; हे मिश्रण सफरचंदांच्या मधल्या पोकळीत भरा आणि डिशच्या तळाशी पाणी ओता.
 3. सफरचंदे मऊ होईपर्यंत 30 ते 35 मिनिटे भाजा.
 :::
+
+:::lang en
+# Baked Apples with Cinnamon, Oats, and Chia
+
+Core-filled apples baked with rolled oats, chia seeds, and ground cinnamon for a naturally sweet, fiber-rich treat.
+
+## Instructions
+1. Preheat the oven to 190 C and place cored apples upright in a small baking dish.
+2. Mix rolled oats, chia seeds, and ground cinnamon in a small bowl, spoon into the apple centers, and pour water into the bottom of the dish.
+3. Bake for 30 to 35 minutes until apples are soft and tender.
+:::
+
+:::lang bn
+# সিন্নামন, ওতস এবং চিয়া'র সাথে নগ্ন আপেল
+
+কোরে-পোরিত আপেল দিয়ে তৈরি হয়ে থাকে। ফলের বীজ তৈরি হয়।
+
+## Instructions
+1. এটা দিয়ে তৈরি স্টিলের চুলা তৈরি করা হয় ।
+2. ছোট্ট এক বাটি বাটি ডালের মধ্যে মিশিগানের মাংস এবং মাটির পাত্র, চামচের মধ্যে, এবং খাবারের নীচে জল ঢালে।
+3. আপেলগুলো কোমল ও কোমল না হওয়া পর্যন্ত ৩০ মিনিটের জন্য কেক।
+:::
+
+:::lang ur
+# بیک اپسمن، اواتس اور چیا کے ساتھ
+
+کورے سے بھرے ہوئے کیلے، چیا بیج اور مٹی کے سیننممون قدرتی طور پر میٹھا، پلاسٹک سے چلنے والا علاج۔
+
+## Instructions
+1. اِس کے بعد اُس نے اُسے ایک چھوٹے سے برتن میں رکھا ۔
+2. ایک چھوٹے سے برتن میں مکئی کے دانے ، چیا بیج اور مٹی کے سین‌نمن‌منے اور سیب کے مرکزوں میں پانی ڈالا جاتا ہے ۔
+3. 30 سے 35 منٹ تک بینکر نرم اور نرم و ملائم ہوتا ہے۔
+:::

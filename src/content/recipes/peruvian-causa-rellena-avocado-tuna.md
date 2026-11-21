@@ -120,3 +120,39 @@ prepTimeEstimated: true
 3. एका भांड्यात कुस्करलेली ट्यूना, साधे दही, उरलेले 15 मिली लिंबाचा रस, बारीक चिरलेला लाल कांदा, अतिशय बारीक चिरलेली सेलरी, कोथिंबीर आणि उरलेले मीठ एकत्र करा.
 4. आतून अस्तर लावलेल्या 18 सेंमी डिशमध्ये किंवा रिंग मोल्डमध्ये मसालेदार बटाट्याच्या मिश्रणाचा अर्धा भाग दाबून पसरवा. त्यावर अवोकॅडोचे काप आणि ट्यूना सलाडाचा थर द्या; उरलेल्या बटाट्याच्या मॅशने झाका. कापण्यापूर्वी 30 मिनिटे थंड करा.
 :::
+
+:::lang en
+# Peruvian Causa Rellena (Layered Yellow Potato, Avocado, and Tuna Terrine)
+
+Vibrant chilled Peruvian dish layering lime- and turmeric-brightened whipped yellow potatoes with creamy avocado slices and a yogurt-dressed lean tuna and celery filling.
+
+## Instructions
+1. Boil or steam the yellow potatoes for 16 minutes until completely tender, drain thoroughly, and pass through a ricer or mash until completely smooth while warm.
+2. Fold 35 ml of lime juice, the olive oil, aji amarillo-turmeric seasoning, and 1 g of salt into the warm potato mash and cool to room temperature.
+3. Combine the flaked tuna, plain yogurt, remaining 15 ml of lime juice, minced red onion, diced celery, cilantro, and remaining salt in a bowl.
+4. Press half the seasoned potato mixture into a lined 18 cm dish or ring molds, layer with sliced avocado and the tuna salad, cap with the remaining potato mash, and chill 30 minutes before slicing.
+:::
+
+:::lang bn
+# পেরুভিয়ান কাসাসা রিলানা (লান্দ্রো হলুদ পটাতো, আভোকাডো, এবং তুনা তেরেরা তেরারিয়া)
+
+ভির্ব্রেট পেরুভীয় খাবারকে হালকা করে দিয়েছে এবং টরিচ-এর মত হলুদ আলুকে লালা দিয়ে ঢেকে দিয়েছে।
+
+## Instructions
+1. এটা ঠিক যে, এই ধরনের গরমের ফলে প্রচুর পরিমাণে জল পাওয়া যায় ।
+2. এতে ৩৫ মিটার লাইম জুস, জলপাই তেল, আজি তুমুর্তি ঋতু এবং গরম আলু মশ ও ঠাণ্ডা ঘরে লবিতে লবন।
+3. রসালো রসের রসের রস, রসালো লাল লাল রং, স্যাঁতসেঁতে লাল হয়ে থাকে ।
+4. আলু দিয়ে তৈরিকৃত আলুযুক্তিগুলো ১৮ সেন্টিমিটারের একটি রসালো যোক্‌মাংশে চাপ সৃষ্টি করে ।
+:::
+
+:::lang ur
+# پروویان کایا رلینا (Layered Yellow Poto, Avocado اور Tuna Terrine) ہے۔
+
+Vabrant نے Peruvian use settlement and turmeric-right special-redium زرد رنگ کے پیلے رنگ کو کریمی عواکودو اور ایک پریفیکچر ٹونا اور کری پُل بھر دیا۔
+
+## Instructions
+1. اِس کے بعد اُس نے اِس بات پر زور دیا کہ اُس نے اُس سے کہا : ” مَیں اُس کی بات مانتا ہوں ۔ “
+2. فولاد 35 ملی گرام کا تیل، زیتون کا تیل، Aji Amarillo-turmeric acquile اور 1 G نمک گرم مائعات میں اور کمرے کے درجہ حرارت پر ٹھنڈا۔
+3. اِس کے علاوہ اِن میں سے 15 ملی‌سی‌میٹر کا رس ، سُرخ اون ، سُرخ اونس ، سُرخ مٹی ، سیل‌انرو اور ایک پیالے میں نمک رکھا جاتا ہے ۔
+4. اِس کے بعد اُس نے اِس کی چھت کو اِس طرح بنایا کہ اُس نے اِسے اِستعمال کِیا ۔
+:::

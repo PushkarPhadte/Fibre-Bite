@@ -98,3 +98,42 @@ prepTimeSource: 'https://www.sanjeevkapoor.com/Recipe/Dal-Khichdi---SK-Khazana.h
 4. चार ते पाच शिट्ट्या होईपर्यंत प्रेशर कुकरमध्ये शिजवा, खिचडी मऊ होऊन पेजेसारखी होईपर्यंत.
 5. गरम वाढण्यापूर्वी वरून एक छोटा चमचा तूप घाला.
 :::
+
+:::lang en
+# Dal Khichdi
+
+A comfort dish cooked by simmering yellow moong dal and rice together with mild spices, turmeric, and ghee.
+
+## Instructions
+1. Wash moong dal and rice together thoroughly.
+2. Heat ghee in a pressure cooker; add cumin seeds and asafoetida.
+3. Add washed dal, rice, turmeric, salt, and water.
+4. Pressure cook for 4-5 whistles until soft and porridge-like.
+5. Drizzle a small spoonful of ghee before serving hot.
+:::
+
+:::lang bn
+# ডাল ডিংকি
+
+হালকা হলুদ চাঁদা ডিলা এবং ভাতের রান্নার এক চমৎকার খাবার।
+
+## Instructions
+1. পরিষ্কার করুন ।
+2. চাপ প্রয়োগের সময় হেট জিহি; এর সাথে বীজ ও আস ফিদা যোগ করা যায়।
+3. পানি, চাল, লবণ এবং পানি যোগ করুন।
+4. নরম আর চালের মতো চাপ ৪-৫ হুইসেলের জন্য রান্না।
+5. গরম খাওয়ার আগে গ্লিকে হালকা ভাবে হালকা করে দাও।
+:::
+
+:::lang ur
+# دلشادی
+
+اِس کے علاوہ اُس نے ایک تازہ‌دم تیار کِیا ۔
+
+## Instructions
+1. چاول اور چاول کو اچھی طرح سے دھوئیں ۔
+2. اِس کے علاوہ اِس میں بیج اور اِس سے حاصل ہونے والے بیج بھی شامل ہوتے ہیں ۔
+3. دھول ، چاول ، ٹرمیر ، نمک اور پانی وغیرہ ۔
+4. دباؤ 4–5 کوپروں کے لئے پکائے یہاں تک کہ نرم اور ہضم کی طرح.
+5. گرمیوں میں خدمت کرنے سے پہلے گیس کا ایک چھوٹا سا چھوٹا سا چھوٹا سا حصہ تیار کرتا ہے ۔
+:::

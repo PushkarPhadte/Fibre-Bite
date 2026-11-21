@@ -100,3 +100,39 @@ prepTimeEstimated: true
 3. आच कमी करा, फेटलेले आंबट दही मिसळा आणि मिश्रण घट्ट होईपर्यंत हलके शिजवा.
 4. नारळाच्या तेलात मोहरी, मेथीदाणे आणि कढीपत्त्याची फोडणी करा.
 :::
+
+:::lang en
+# Kalan (Kerala Yoghurt Plantain Curry)
+
+A traditional Kerala Sadya dish featuring raw plantain cooked in thick yoghurt, coconut, and fenugreek tempering.
+
+## Instructions
+1. Boil raw plantain cubes with turmeric powder, salt, and water until tender.
+2. Add ground coconut-cumin paste and simmer for 5 minutes.
+3. Lower heat, stir in whisked sour curd, and simmer gently until thickened.
+4. Temper with mustard seeds, fenugreek seeds, and curry leaves in coconut oil.
+:::
+
+:::lang bn
+# কালান (কারালা ইয়োগুরাট প্ল্যান কারি)
+
+কেরালার ঐতিহ্যবাহী এক খাবার, যা ঘন যোগা, নারিকেল এবং তুমুল মেজাজে রান্না করে।
+
+## Instructions
+1. টরমেরিক পাউডার, লবণ এবং জল দিয়ে ঘন ঘন ঘন ঘন পাপ.
+2. নারিকেল-চুইন পেস্ট এবং ৫ মিনিটের জন্য সিমমার যোগ করো।
+3. একটু গরম, ধীর গতিতে গরম হয়ে ওঠে আর ঘন হওয়া পর্যন্ত সহজ করে তোলে ।
+4. শস্যের বীজ, বীজ এবং নারিকেলের তেল দিয়ে সচেতন থাক!
+:::
+
+:::lang ur
+# کیلان (Kerala Yugent Planain Curry)
+
+ایک روایتی کیرالا سعدیہ کھانے کے کھانے میں گھاس کے پودے کو پکایا جاتا تھا ۔
+
+## Instructions
+1. یہاں تک کہ نرم بونے والے پودوں میں پانی ، نمک اور پانی ہوتا ہے ۔
+2. 5 منٹ کے لئے زمین کے ناریل کے ماضی کو شامل کریں اور 5 منٹ کے لئے.
+3. نیچے دی گئی گرمیوں کی وجہ سے سورج کی روشنی تیز ہو جاتی ہے ۔
+4. ناریل کے تیل میں رائی کے دانے ، فی‌ناگریک بیج اور ناریل کے پتے ۔
+:::

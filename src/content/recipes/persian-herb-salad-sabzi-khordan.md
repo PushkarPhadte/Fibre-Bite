@@ -83,3 +83,39 @@ prepTimeSource: 'https://www.proportionalplate.com/sabzi-khordan/'
 3. वरून कुस्करलेले फेटा चीज आणि अक्रोडाचे अर्धे तुकडे घाला.
 4. संपूर्ण धान्याच्या ब्रेडसोबत ताजे वाढा.
 :::
+
+:::lang en
+# Persian Herb Salad (Sabzi Khordan)
+
+A traditional Iranian platter of fresh mint, tarragon, radishes, walnuts, and feta cheese eaten as a light starter.
+
+## Instructions
+1. Wash and thoroughly dry all fresh herbs.
+2. Arrange fresh herbs, sliced radishes, and spring onions on a platter.
+3. Add crumbled feta cheese and walnut halves.
+4. Serve fresh alongside whole grain bread.
+:::
+
+:::lang bn
+# পারস্য হারব সালাদ (সাবাজি খোরদাদ)
+
+একটি ঐতিহ্যবাহী ইরানী মৃগীজ, টারগন, রশীমুজ, বাদামি, এবং টাটা পনির খাওয়া এক আলোর সূচনার মতো।
+
+## Instructions
+1. তাজা ভেষজগুলো পরিষ্কার করুন ।
+2. নতুন ভেষজগুলো তৈরি করুন ।
+3. ডিম্বাণু পনির আর বাদামি পাল.
+4. [ অধ্যয়ন প্রশ্নাবলি]
+:::
+
+:::lang ur
+# فارسی ہرب صالح (Sabzi Khordan)
+
+ایک روایتی ایرانی پکوان تازہ منٹ، تراگون، ریڈار، چاول اور چیتا پنیر بطور ہلکی سیریز کھایا جاتا تھا۔
+
+## Instructions
+1. صاف کریں اور ہر قسم کی تازہ بوٹیوں کو اچھی طرح صاف کریں ۔
+2. اِس کے بعد اُس نے اُن سے پوچھا : ” کیا مَیں اِس بات کی قدر کرتا ہوں کہ مَیں اُن سے کتنی محبت کرتا ہوں ؟ “
+3. گندھک میں گندھک کا پنیر اور لونوت کانسی شامل کرنا۔
+4. پورے اناج کی روٹی کیساتھ تازہ‌دم خدمت کریں ۔
+:::

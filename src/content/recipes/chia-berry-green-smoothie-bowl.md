@@ -86,3 +86,39 @@ prepTimeSource: 'https://minimalistbaker.com/berry-green-smoothie-bowl/'
 3. मिश्रण एका बाउलमध्ये ओता.
 4. वाढण्यापूर्वी वरून ताज्या बेरी आणि थोड्या अधिक चिया बिया घाला.
 :::
+
+:::lang en
+# Chia Berry Green Smoothie Bowl
+
+A thick blended smoothie bowl made from spinach, frozen berries, almond milk, and chia seeds.
+
+## Instructions
+1. Add frozen berries, baby spinach, almond milk, chia seeds, and protein powder into a blender.
+2. Blend on high speed until thick and completely smooth.
+3. Pour into a bowl.
+4. Top with fresh berries and additional chia seeds before serving.
+:::
+
+:::lang bn
+# চিয়া বেরি গ্রীনফি বাচি
+
+একটা মোটা মসৃণ বোল, মসৃণ বেরি, আল্‌মন্ড দুধ এবং চিরকুট বীজ দিয়ে তৈরি ।
+
+## Instructions
+1. হিমোগ্লোবিন, বেবি স্পিন, আল্‌মন্ড দুধ, চিতা বীজ এবং প্রোটিনের টুকরোকে অন্তর্ভুক্ত করুন ।
+2. ঘন আর মসৃণ না হওয়া পর্যন্ত শুয়ে থাকো.
+3. একটি বাটি মধ্যে ঢালো।
+4. কাজের আগে তাজা বেরি এবং আরও ফলা বীজ।
+:::
+
+:::lang ur
+# چیا بیری گرین بال
+
+اِس کے بعد اُس نے اُن سے پوچھا : ” کیا مَیں اِس بات کی قدر کرتا ہوں کہ مَیں اُن کے ساتھ کیسے رہ سکتا ہوں ؟ “
+
+## Instructions
+1. اِس کے علاوہ اِس میں اُن کا ذائقہ بھی شامل ہوتا ہے ۔
+2. اِس لئے اُس کی رفتار تیز ہو جاتی ہے ۔
+3. ایک پیالہ میں ڈالیں۔
+4. خدمت کرنے سے پہلے تازہ پھلوں اور اضافی چیا کے بیج اُوپر کی طرف اشارہ کرتے ہیں ۔
+:::

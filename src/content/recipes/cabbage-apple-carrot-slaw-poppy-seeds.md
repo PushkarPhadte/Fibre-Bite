@@ -81,3 +81,36 @@ prepTimeEstimated: true
 2. बारीक चिरलेली हिरवी कोबी, पातळ कापलेल्या सफरचंदाच्या काड्या आणि किसलेले गाजर घाला.
 3. ड्रेसिंग सर्वत्र सारखे लागेपर्यंत नीट मिसळा आणि कुरकुरीत असतानाच वाढा.
 :::
+
+:::lang en
+# Cabbage, Apple, and Carrot Slaw with Poppy Seeds
+
+Crisp shredded green cabbage, tart apple matchsticks, and grated carrot in a light cider poppy seed dressing.
+
+## Instructions
+1. In a large bowl, whisk olive oil, apple cider vinegar, and poppy seeds until combined.
+2. Add shredded green cabbage, julienned apple, and grated carrot.
+3. Toss thoroughly until evenly coated and serve crisp.
+:::
+
+:::lang bn
+# [ অধ্যয়ন প্রশ্নাবলি]
+
+কৃমি সবুজ ক্যাবেজ, সাদা আপেলের ম্যাচ এবং হালকা রঙের কারুকাজের পোশাকে সজ্জিত।
+
+## Instructions
+1. একটা বড় বাটি বাটি, হুইস্কি জলপাই তেল, আপেল সিরাগার এবং পপপি বীজ ।
+2. চুড়ি চুড়া সবুজ ক্যাবেজ, জলিটেড আপেল এবং পেরেট।
+3. যতক্ষণ পর্যন্ত না শক্ত জামা পরে আর কাজ না হয় ।
+:::
+
+:::lang ur
+# کیباگ، ایپل اور کرکٹ سلور کے ساتھ پوپپی بیج ہیں۔
+
+اِس کی وجہ یہ تھی کہ اِن میں سے ہر ایک کے ساتھ میل‌جول رکھتا تھا ۔
+
+## Instructions
+1. ایک بڑے پیالے میں ، وِشق زیتون کا تیل ، سیب کیڈر اور پوپ کے بیج جمع ہوتے ہیں ۔
+2. اِس میں سبز رنگ کا سبز رنگ ، جولی‌ناک سیب اور اِس کی تہہ بھی شامل تھی ۔
+3. اُس وقت تک اُس کی خدمت کرنا آسان نہیں ہوتا ۔
+:::

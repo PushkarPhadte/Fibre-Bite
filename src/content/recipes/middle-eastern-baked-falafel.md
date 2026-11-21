@@ -107,3 +107,39 @@ prepTimeEstimated: true
 3. मिश्रणाचे छोटे, चपटे टिक्के करा आणि बेकिंग पेपर अंथरलेल्या ट्रेवर ठेवा.
 4. टिक्क्यांना हलकेच ऑलिव्ह तेल लावा आणि 200°C (400°F) तापमानावर 20–25 मिनिटे सोनेरी तपकिरी होईपर्यंत बेक करा.
 :::
+
+:::lang en
+# Middle Eastern Baked Falafel
+
+Crispy baked patties made from ground chickpeas, fresh parsley, cilantro, and warm Middle Eastern spices.
+
+## Instructions
+1. Pulse soaked chickpeas, herbs, onion, garlic, cumin, coriander, salt, and pepper in a food processor into a coarse mixture.
+2. Stir in baking soda and chill in the refrigerator for 30 minutes.
+3. Form into small flattened patties and place on a parchment-lined baking tray.
+4. Brush lightly with olive oil and bake at 200°C (400°F) for 20–25 minutes until golden brown.
+:::
+
+:::lang bn
+# মধ্য প্রাচ্যName
+
+কবচ দিয়ে তৈরি মুরগি, তাজা প্যাঁচা, সিলি, সিলান্‌রো এবং গরম মধ্যপ্রাচ্যের পানীয়।
+
+## Instructions
+1. এলকোহল, রসুন, রসুন, রসুন, হর্‌যান্ড, লবণ এবং মরিচের মতো ফল ।
+2. বেকিং সোডা আর ফ্রিজে ৩০ মিনিট ঠান্ডা।
+3. ছোট পাটাতপ থেকে শুরু করে একটি কাগজের ছাপ দিয়ে ট্রেতে।
+4. সোনার বাদামি তেল আর কেক দিয়ে ২০০ পাউন্ড (৪০০ পাউন্ড) পাউন্ড (প্রায় ২৫ মিনিট পর্যন্ত)।
+:::
+
+:::lang ur
+# مشرقِ‌وسطیٰ میں پانی کی کمی
+
+اِس کی وجہ یہ تھی کہ اُس نے اُنہیں کھانے پینے کی چیزیں دیں ۔
+
+## Instructions
+1. اِس کی ایک وجہ تو یہ ہے کہ اُس نے اِس کھانے کی چیزوں کو اِستعمال کِیا ہے ۔
+2. اِس کی وجہ یہ ہے کہ اُس نے اُن سے پوچھا : ” کیا مَیں اِس بات کا یقین کر سکتا ہوں کہ مَیں اُن سے بات کر رہا ہوں ؟ “
+3. فارم کو چھوٹی موٹی پٹیوں میں اور ایک کاغذی پٹی پر جگہ.
+4. زیتون کا تیل اور تیل 200°C (400°F) پر 20–25 منٹ کے بعد سونے کے بھورے رنگ تک پھیلا ہوا ہے۔
+:::

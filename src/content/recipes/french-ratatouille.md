@@ -95,3 +95,39 @@ prepTimeEstimated: true
 3. कुस्करलेले टोमॅटो आणि हर्ब्स द प्रोव्हॉन्स मिसळा; मीठ घालून चवीनुसार करा.
 4. झाकण ठेवून मंद आचेवर 20 मिनिटे शिजवा, भाज्या अगदी मऊ होईपर्यंत.
 :::
+
+:::lang en
+# French Ratatouille
+
+A classic Provençal vegetable stew made of layered zucchini, eggplant, bell peppers, tomatoes, garlic, and fresh herbs.
+
+## Instructions
+1. Heat olive oil in a heavy pot; sauté onion and garlic for 3 minutes.
+2. Add bell peppers, eggplant, and zucchini; cook for 8 minutes.
+3. Stir in crushed tomatoes and Herbes de Provence; season with salt.
+4. Simmer covered on low heat for 20 minutes until vegetables are meltingly tender.
+:::
+
+:::lang bn
+# ফ্রেঞ্চ রাত্তালুলি
+
+কোকেনচি্যাল শূককীচি, ডিম পেকেনি, মরিচ, টমেটো, রসুন এবং তাজা ভেষজ দ্রব্য দিয়ে তৈরি।
+
+## Instructions
+1. প্রচুর পরিমাণে জলপাই তেল; সসেজ ও রসুন তিন মিনিট পর্যন্ত।
+2. বেলের মরিচ, ডিমপ্লট এবং জুচিনি যোগ করুন; ৮ মিনিট ধরে রান্না করুন ।
+3. ঘন টমেটো এবং হার্বস দেওয়া; লবণের সঙ্গে ঋতু ।
+4. শাকসবজিগুলো কোমলভাবে গলিয়ে থাকে ।
+:::
+
+:::lang ur
+# فرانسیسی رباط
+
+ایک کلاسیکی پروِن‌سن‌سن‌سل سبزی جس کی تہہ سے تیار کی گئی تھی ۔
+
+## Instructions
+1. زیتون کے تیل کو بھاری برتن میں رکھنا ؛ ۳ منٹ کے لئے صابن اور لہسن ۔
+2. اِس کے علاوہ اِس میں اُن کی خوراک بھی شامل ہوتی ہے ۔
+3. ٹماٹروں اور ہربیس ڈی پرونسی میں نمک کی مقدار کم ہو جاتی ہے ۔
+4. سمر کم درجہ حرارت پر 20 منٹ تک چھاتا رہتا ہے یہاں تک کہ سبزیوں کو نرم کر دیا جاتا ہے۔
+:::

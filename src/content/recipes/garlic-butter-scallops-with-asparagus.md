@@ -93,3 +93,39 @@ prepTimeSource: >-
 3. त्याच कढईत बटर, बारीक चिरलेला लसूण आणि अॅस्परॅगसच्या काड्या घाला; 4–5 मिनिटे हलके कुरकुरीत पण मऊ होईपर्यंत परता.
 4. वरून लिंबाचा रस घाला आणि अॅस्परॅगसवर स्कॅलप्स ठेवून वाढा.
 :::
+
+:::lang en
+# Garlic Butter Scallops with Asparagus
+
+Tender sea scallops pan-seared in garlic butter, served alongside crisp-tender asparagus spears.
+
+## Instructions
+1. Pat scallops completely dry with paper towels and season with salt and pepper.
+2. Heat olive oil in a skillet over high heat and sear scallops for 2 minutes per side until golden crust forms; remove.
+3. In the same skillet, add butter, minced garlic, and asparagus spears; sauté for 4-5 minutes until tender-crisp.
+4. Drizzle with lemon juice and serve scallops over the asparagus.
+:::
+
+:::lang bn
+# আস্পগেজের সাথে Grecks
+
+রসুনের মাখনে মিষ্টি সামুদ্রিক ছোট ছোট ছোট ছোট ছোট ছোট ছোট ছোট ছোট ছোট ছোট ছোট ছোট সামুদ্রিক প্রাণী।
+
+## Instructions
+1. পাতা স্যাকস্প কাগজের তোয়ালে আর লবণ আর মরিচ দিয়ে ভরা।
+2. প্রচুর তাপ ও সমুদ্রের জলস্রোতের ওপর দিয়ে গরম ও সমুদ্রসৈকতের তেল প্রতি দুই মিনিট প্রতি মিনিট অপেক্ষা করে রাখুন ।
+3. একই দক্ষতায়, মাখন যোগ করা রসুন, রসুন এবং আস্পের বড় বড় বড়শা; কোমল-৫ মিনিট পর্যন্ত।
+4. লেবুর রস নিয়ে হালকা বৃষ্টি আর আমড়ার সাথে কথা বলে।
+:::
+
+:::lang ur
+# اسپاراگوس کے ساتھ گارکل بٹتر سکلاپس
+
+مونگ‌پھلی کے مونگ‌پھلی میں موجود پانی کی وجہ سے اُس نے بہت زیادہ پانی حاصل کِیا ۔
+
+## Instructions
+1. پت‌رُو سے پوری طرح خشک ہو جاتی ہے جس میں نمک اور سرسوں کا موسم ہوتا ہے ۔
+2. زیتون کے تیل کو اُونچی گرمیوں میں صاف کِیا جاتا ہے ۔
+3. اسی مہارت میں مونگ پھلی، مونگ پھلی اور اسپراگوس کے سینگ شامل کیے جاتے ہیں؛ 4-5 منٹ تک نرم کریسپ تک ساگ۔
+4. اِس کی وجہ یہ ہے کہ اِن میں سے زیادہ‌تر لوگ اِس بات کی قدر کرتے ہیں کہ اُن کے بچے بھی اُن کی مدد کرتے ہیں ۔
+:::

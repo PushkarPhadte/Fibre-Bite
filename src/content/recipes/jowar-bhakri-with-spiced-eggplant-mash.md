@@ -110,3 +110,39 @@ prepTimeEstimated: true
 3. ज्वारीच्या पिठात कोमट पाणी घालून मळून लवचिक गोळा करा, थापून दोन गोल भाकऱ्या बनवा आणि गरम लोखंडी तव्यावर तपकिरी डाग येईपर्यंत भाजा.
 4. वांग्याच्या भरीतावर ताजी कोथिंबीर घाला आणि ज्वारीच्या भाकरीसोबत गरम वाढा.
 :::
+
+:::lang en
+# Jowar Bhakri with Spiced Eggplant Mash
+
+Traditional Maharashtrian sorghum flatbread paired with fire-roasted eggplant mashed with garlic, green chilies, and fresh coriander.
+
+## Instructions
+1. Roast the whole eggplant directly over an open flame or under a hot grill until the skin is charred and the flesh is soft, then peel and mash.
+2. Heat groundnut oil in a pan, sauté minced garlic and red onion until translucent, then stir in chopped tomatoes and mashed eggplant for 5 minutes.
+3. Knead jowar flour with warm water into a pliable dough, pat into two flat rounds, and cook on a hot iron griddle until brown spots appear.
+4. Garnish the eggplant mash with fresh coriander and serve warm alongside the jowar bhakris.
+:::
+
+:::lang bn
+# স্পাইপিড এগট ম্যাশ এর সাথে Jowar Baki
+
+ঐতিহ্যবাহী মহারাষ্ট্রের ফ্লাটগের ফ্লাট ফ্লাওয়ার-এর সাথে অগ্নিকান্ড করা ডিম, রসুন, সবুজ চাঁছানি এবং তাজা কোরিয়ান্ডার লাগানো।
+
+## Instructions
+1. তাই, এতে অবাক হওয়ার কিছু নেই যে, একটা ডিমের মাংসের চেয়ে বেশি কোমল ।
+2. প্রচুর পরিমাণে তেল পাওয়া যায় ।
+3. গরম জল দিয়ে তৈরি জোওয়ার আটা, গরম কাপড়ের পাত্র, টুপি দুটো ফ্লাট করে এবং গরম লোহার গ্রিডডেল পর্যন্ত রান্না করে ।
+4. শূককীট মিশকে কাপড় দিয়ে তাজা কোরান্ডার দেওয়া হয়েছে এবং জোওয়ার হুইরার পাশে উষ্ণ পরিবেশন করা হয়েছে।
+:::
+
+:::lang ur
+# جوار بھاکری کے ساتھ اسپیکسیڈ ایگل ماس
+
+روایتی طور پر مہاراشٹر سرنگوں کے پلیٹ‌فارم کے ساتھ ساتھ لہسن ، ہرے اور تازہ کوریندر کے ساتھ ساتھ آگ سے بنے ہوئے انڈے کے ساتھ ملاتی ہے ۔
+
+## Instructions
+1. اِس کے بعد اُس کا جسم نرم ہو جاتا ہے اور اِس کے بعد اُس کا جسم صاف ہو جاتا ہے ۔
+2. اِس کے بعد اُس نے ٹماٹروں اور اِس میں انڈے ڈالنے کے لئے ۵ منٹ تک اِستعمال کئے ۔
+3. اِس کے بعد اُس نے اپنے شاگردوں سے پوچھا : ” کیا مَیں اِس بات کی قدر کرتا ہوں کہ مَیں اُن کے ساتھ ہوں ؟ “
+4. اِس کی وجہ یہ ہے کہ اِن میں سے ہر ایک کو اِس بات کی فکر ہے کہ اِس میں کیا کچھ شامل ہے ۔
+:::

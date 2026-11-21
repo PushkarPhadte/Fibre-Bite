@@ -112,3 +112,42 @@ prepTimeEstimated: true
 4. तेल गरम करून मोहरी तडतडू द्या. मग कांद्याच्या छोट्या पाकळ्या, उरलेला लसूण आणि कढीपत्ता सोनेरी होईपर्यंत परता आणि ही फोडणी पदार्थावर ओता.
 5. ब्राउन राइस किंवा नाचणीच्या भाकरीसोबत वाढा.
 :::
+
+:::lang en
+# Keerai Masiyal (Tamil Spinach and Moong Dal Mash)
+
+A rustic Tamil dish of spinach and moong dal mashed with garlic and cumin, tempered with mustard and curry leaves.
+
+## Instructions
+1. Pressure-cook or simmer the moong dal with 250 ml water until completely soft, about 12 minutes.
+2. Add the spinach, chilli, half the garlic and the salt and cook for 5 minutes until the leaves wilt.
+3. Mash with a wooden masher, then stir in the coconut and cumin.
+4. Heat the oil, crackle the mustard seeds, then fry the shallot, remaining garlic and curry leaves until golden and pour over the dish.
+5. Serve with brown rice or ragi roti.
+:::
+
+:::lang bn
+# কিরাইয়া মাসিয়াল (তামিল স্পিনাক এবং মুনগ ডাল মাখছে)
+
+আখড়া আর চাঁদাযুক্ত তামিল খাবার... ...খালির সাথে রসুন আর চাঁবি দিয়ে, সরষা আর চাঁছা পাতা।
+
+## Instructions
+1. চাপ-কূষ বা সিমমারের সাথে প্রায় ২৫০ মাইল পানি মিলে গেছে।
+2. স্পিন, ঠান্ডায়, রসুন আর লবন আর ৫ মিনিট রান্না করো পাতা না হওয়া পর্যন্ত।
+3. একটি কাঠের মাসারের সাথে ম্যাশ, তারপর নারিকেল আর মরন।
+4. তেল ঢালে, সরিষার বীজ, তারপর চুষে, অবশিষ্ট রসুন এবং ঝরানো পাতা, যতক্ষণ না সোনার তেল এবং শস্যের উপর ঢেলে দেয়।
+5. বাদামি চাল বা চুড়ির সাথে কাজ করুন।
+:::
+
+:::lang ur
+# کیرای مسیال (Tamil Spinach and Moong Dal Mash)۔
+
+اِس کے بعد اُس نے اِس بات پر زور دیا کہ اُس نے اُس کی مدد کی ہے ۔
+
+## Instructions
+1. دباؤ-کوک یا مہنگ ڈل کو 250 ملی پانی کے ساتھ مکمل طور پر نرم، تقریباً 12 منٹ.
+2. اِس میں اُس وقت تک نمک اور نمک شامل کِیا جاتا ہے جب تک اِس کے پتوں کو صاف نہ کِیا جائے ۔
+3. پھر ناریل اور کندھے میں حرکت ہوتی ہے ۔
+4. تیل کو صاف کریں ، رائی کے دانے کو توڑ دیں ، اس کے بعد ویلوٹ ، لہسن اور لہسن کے پتوں کو جب تک سونا نہ مل جائے اور اُس پر رکھ کر رکھ دیا جائے ۔
+5. بھورے چاول یا راجا راکی کے ساتھ خدمت کرنا۔
+:::

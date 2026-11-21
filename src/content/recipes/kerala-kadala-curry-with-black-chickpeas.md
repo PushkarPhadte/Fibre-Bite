@@ -113,3 +113,39 @@ prepTimeEstimated: true
 3. तेल गरम करा, मोहरी आणि कढीपत्ता तडतडू द्या, कांदा व टोमॅटो शिजवा आणि मग नारळाची पेस्ट घाला.
 4. हरभरे त्यांच्या शिजवलेल्या पाण्यासह घाला आणि 10 मिनिटे मंद आचेवर उकळू द्या.
 :::
+
+:::lang en
+# Kerala Kadala Curry with Black Chickpeas
+
+Black chickpeas simmered in a roasted-coconut gravy with fennel and curry leaves.
+
+## Instructions
+1. Pressure cook the chickpeas with salt and the water until very tender, about 6 whistles.
+2. Dry roast the coconut with the fennel, chilli, coriander and turmeric until fragrant, then grind with a little water.
+3. Heat the oil, splutter the mustard seeds and curry leaves, cook the onion and tomato, then add the coconut paste.
+4. Add the chickpeas with their cooking water and simmer for 10 minutes.
+:::
+
+:::lang bn
+# কেরালা কাদিলা কারি ব্ল্যাক মুরগীর সাথে
+
+একটি রোস্টের মাংসের ঝোঁক দিয়ে কালো মুরগি বানানো হয়।
+
+## Instructions
+1. চাপ লবণ এবং পানিকে লবণে পরিণত করে, যতক্ষণ না খুব কোমল ভাবে ৬টি হুইসেল।
+2. নারিকেলের তেলে ভরা নারিকেল, ঠাণ্ডা, কোরান্ডার এবং টরেরিক শুকানোর পর একটু পানি নিয়ে আসে ।
+3. এরপর নারিকেলের পেস্টি যোগ করুন ।
+4. তারা রান্নার পানি এবং ১০ মিনিটের জন্য সিমমার যোগ করে।
+:::
+
+:::lang ur
+# کیرالا کڈالا کری جس میں بلیک چیکپس تھے۔
+
+کالے رنگ کے پتوں کے ساتھ ایک پگھلے ہوئے کوانوت گرا میں سوراخ کیا.
+
+## Instructions
+1. دباؤ میں آنے والے پانی میں نمک اور پانی بہت زیادہ نرم اور تقریباً ۶ کلو میٹر تک پکایا جاتا ہے ۔
+2. ناریل کو اُس وقت تک پکایا جاتا ہے جب تک اُس کا پانی ٹھنڈا نہیں ہوتا ۔
+3. اِس کے بعد ناریل کے بیج اور اُس کے پتوں کو ملا کر اُس کا تیل تیار کِیا جاتا ہے ۔
+4. اِس کے علاوہ اِس میں پانی بھی شامل ہوتا ہے ۔
+:::

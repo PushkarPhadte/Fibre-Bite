@@ -76,3 +76,36 @@ prepTimeEstimated: true
 2. या पेस्टमध्ये ओट्स, पीनट बटर, चिया आणि दालचिनी मिसळा. मिश्रण एकत्र धरून राहील इतके चांगले मिसळा.
 3. मिश्रणाचे 8 गोळे वळा आणि 20 मिनिटे थंड करा.
 :::
+
+:::lang en
+# Peanut Butter Oat Energy Balls
+
+No-bake bites of oats, peanut butter, dates and chia, sweetened only with a little date.
+
+## Instructions
+1. Blend the dates with the water to a paste.
+2. Mix with the oats, peanut butter, chia and cinnamon until the mixture holds together.
+3. Roll into eight balls and chill for 20 minutes.
+:::
+
+:::lang bn
+# চিনাবাদামের মাত্রা ওট পাওয়ার বল বল
+
+কোন বেকনা, বাদামের মাখন, তারিখ আর চিকির কামড় দেয় না।
+
+## Instructions
+1. পানি পেস্ট করার সাথে তারিখগুলো শুয়ে নাও।
+2. এই মিশ্রণকে একসঙ্গে রাখা উচিত ।
+3. ৮টা বল আর ২০ মিনিটের জন্য ঠান্ডা করো।
+:::
+
+:::lang ur
+# مونگ‌پھلی کی کاشت
+
+نو آبادیاتی پکوان، مونگ پھلی، تاریخ اور چیا، میٹھا صرف تھوڑی سی تاریخ کے ساتھ ہی پکایا جاتا ہے۔
+
+## Instructions
+1. ماضی کی تاریخوں کو پانی سے لیکر ایک مریخ تک منتقل کریں۔
+2. یہاں تک کہ یہ آمیزش جمع ہو جاتی ہے ۔
+3. راول آٹھ گیندوں میں اور 20 منٹ تک گیندوں میں۔
+:::

@@ -92,3 +92,39 @@ prepTimeSource: 'https://www.connoisseurusveg.com/mexican-stuffed-tomatoes/'
 3. क्विनोआचे मिश्रण प्रत्येक पोकळ टोमॅटोमध्ये घट्ट भरा.
 4. टोमॅटो मऊ होईपर्यंत आणि सारण गरम होईपर्यंत 190°C (375°F) वर 20 मिनिटे बेक करा.
 :::
+
+:::lang en
+# Mexican Black Bean and Quinoa Stuffed Tomatoes
+
+Large ripe tomatoes hollowed and stuffed with a savory mixture of quinoa, black beans, corn, and taco spices.
+
+## Instructions
+1. Cut tops off tomatoes and carefully scoop out seeds and pulp.
+2. In a bowl, mix cooked quinoa, black beans, corn, taco seasoning, chopped cilantro, and salt.
+3. Stuff the quinoa mixture firmly into each hollowed tomato.
+4. Bake at 190°C (375°F) for 20 minutes until tomatoes are tender and filling is hot.
+:::
+
+:::lang bn
+# মেক্সিকোর ব্ল্যাক বেয়ান এবং কুইনোডা টমেটোর টুকরা
+
+বড় পাকা টমেটোর মধ্যে রয়েছে মাংস, কালো শিম, ঘাস এবং টাকো মসলা ।
+
+## Instructions
+1. টমেটোর উপরের অংশ কেটে, বীজ এবং মাজা দিয়ে সাবধানে কাটা।
+2. এক বাটি বাটিপোকার মধ্যে রান্না করা মিষ্টি, কালো শিম, ঘাস, টাকো, কাটা কাটা কাটা সিলিলান আর লবণ ।
+3. প্লাঁতেঁতে ভরা তরল পদার্থগুলো প্রত্যেকটা পেয়ে যায় ।
+4. ১৯০ ডিগ্রি সেলসিয়াস (৩৭০ ডিগ্রি ফারেনহাইট) পর্যন্ত কেক, যতক্ষণ না টমেটো কোমল এবং পূর্ণ হয় ততক্ষণ পর্যন্ত।
+:::
+
+:::lang ur
+# میکسیکو بلیک بین اور کوینوا اسٹوفیڈ توماتوس
+
+اِس سے ظاہر ہوتا ہے کہ اُس نے اِس بات کا خیال رکھا کہ اِس میں کوئی شک نہیں ہے ۔
+
+## Instructions
+1. ٹماٹروں کو کاٹ کر بڑی احتیاط سے بیج اور آلو نکال دیں ۔
+2. ایک پیالے میں آمیزش کے دوران ، مکئی ، مکئی ، تیل اور نمک ملا کر پکایا جاتا ہے ۔
+3. اسکے علاوہ ، اس سے بھی زیادہ پانی حاصل ہوتا ہے ۔
+4. Bake at 190°C (375°F) 20 منٹ تک جب تک ٹماٹر نرم اور بھرنا گرم ہوتا ہے۔
+:::

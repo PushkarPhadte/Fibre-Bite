@@ -130,3 +130,42 @@ prepTimeEstimated: true
 4. मुड्ड्यांसाठी 600 मिली पाणी आणि 1 ग्रॅम मीठ उकळवा. नाचणीचे पीठ हळूहळू घाला, मंद आचेवर 3 मिनिटे शिजवा आणि नंतर लाकडी चमच्याने 5 मिनिटे जोरात ढवळून गुळगुळीत गोळा तयार करा.
 5. हात ओले करून पिठाचे चार गोळे वळा आणि सारूसोबत वाढा.
 :::
+
+:::lang en
+# Ragi Mudde with Spinach Saaru
+
+Karnataka's finger millet balls served with a thin, tangy toor dal and spinach saaru: a calcium-rich, satisfying meal.
+
+## Instructions
+1. Boil the toor dal in 900 ml of water with the turmeric until soft, about 20 minutes, then mash lightly.
+2. Add the tomato, onion, spinach, tamarind, chilli and 2 g of the salt and simmer for 10 minutes.
+3. Heat the oil, crackle the mustard and cumin, add the garlic and curry leaves and pour over the saaru. Add the coriander.
+4. For the mudde, bring 600 ml water and 1 g of salt to a boil, sprinkle in the ragi flour, cook on low heat for 3 minutes and stir vigorously with a wooden spoon for 5 minutes to a smooth dough.
+5. Wet your hands, shape into four balls and serve with the saaru.
+:::
+
+:::lang bn
+# স্পিনাখ সাকারুর সাথে রাগি মাডড
+
+কর্নাকা'র আঙ্গুলের খুলি পাতলা, ট্যাংয়ের ডিলা আর চেচাচায়া দিয়ে পরিবেশন করা হয়েছে: একটি ক্যালসিয়াম সমৃদ্ধ খাবার।
+
+## Instructions
+1. নরম হওয়ার আগে পর্যন্ত ৯০০ মিটার জল দিয়ে টরেল সিদ্ধ করুন, তারপর ২০ মিনিট হালকা করে দিন ।
+2. টমেটোর সাথে যোগ করো, কাটোচ, টামারি, ঠাণ্ডা আর ১০ মিনিট লবণ আর সিমমের।
+3. তেল ঢালে, সরীসৃপ এবং সারস, রসুন পাতা যোগ করে... কোয়ারিয়ান্ডার যোগ করো.
+4. কাদার জন্য ৬০০ মিটার জল নিয়ে আসে আর এক মিটার লবণকে রান্না করে ।
+5. আপনার হাত, আকৃতি চার বল মধ্যে এবং Saaru সঙ্গে কাজ.
+:::
+
+:::lang ur
+# راجا مدھیہ پردیش سارو کے ساتھ
+
+کارناتکا کی انگلیوں کے بلے بازوں نے ایک باریک، ٹانگی تھیور ڈل اور ریزچ سارو کے ساتھ کام کیا: ایک فرماں روا، آرام دہ کھائی۔
+
+## Instructions
+1. گرم پانی کے ساتھ 900 ملی میٹر پانی کے ساتھ ملا کر تقریباً 20 منٹ، پھر ماسٹ.
+2. ٹماٹر ، اونین ، رینچ ، دمینڈ اور نمک کا ۲ گُنا اور ۱۰ منٹ تک تیار کِیا جاتا ہے ۔
+3. تیل کو صاف کریں ، رائی کے دانے اور اُڑ جائیں ۔ کریندر کو شامل کریں۔
+4. سنگِ‌مُردار کے لئے 600 ملی‌میٹر پانی اور 1 گرام نمک کو خشک کرنے کے لئے اُڑ کر اُڑ جاتے ہیں ۔
+5. ہاتھ دھونا، چار گیندوں میں بنا کر سارو کے ساتھ خدمت کرنا۔
+:::

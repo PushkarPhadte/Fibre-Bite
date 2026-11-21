@@ -99,3 +99,39 @@ prepTimeEstimated: true
 3. ठेचलेले टोमॅटो घाला, झाकण ठेवा आणि मंद आचेवर 18 ते 20 मिनिटे शिजवा, वांगी अगदी मऊ होईपर्यंत.
 4. वरून हाताने फाडलेली ताजी तुळशीची पाने घाला आणि गरम वाढा.
 :::
+
+:::lang en
+# Charred Eggplant and Tomato Shakshuka-Style Stew
+
+Smoky diced eggplant simmered with crushed tomatoes, smoked cumin, garlic, and fresh basil.
+
+## Instructions
+1. Heat olive oil in a wide skillet over medium-high heat and cook eggplant cubes and onion for 8 minutes until browned.
+2. Add garlic and cumin and stir for 1 minute.
+3. Pour in crushed tomatoes, cover, and simmer over low heat for 18 to 20 minutes until eggplant is very soft.
+4. Top with torn fresh basil leaves and serve warm.
+:::
+
+:::lang bn
+# Chad Eglput এবং Tomasoushushua Sut-schua
+
+সুমোকি সক্কেট স্যাঁতসেঁতে, শুকনো টমেটো, ধোঁয়ায় লালা, রসুন এবং তাজা বাসিল দিয়ে ঢেকে গিয়েছিল ।
+
+## Instructions
+1. মাঝারি তাপমাত্রা এবং ডিমপুল কিউব এবং সাড়ে আট মিনিট গরম হলে প্রচুর পরিমাণে জলপাই তেল।
+2. রসুন আর হরনকে ১ মিনিটের জন্য নাড়া দাও।
+3. পিঁয়াজের ওপরিভাগ
+4. উপরের দিকে রয়েছে তাজা বাসিল পাতা এবং গরম পানি।
+:::
+
+:::lang ur
+# Charred Egg Rounds and Tomato Shakshuka-Style Stew
+
+اِس سے ظاہر ہوتا ہے کہ اِس کے بعد اُس نے اِس بات کا ذکر کِیا کہ اِس میں اُس کا ذکر نہیں ملتا ۔
+
+## Instructions
+1. زیتون کا تیل درمیانے درجہ حرارت پر وسیع پیمانے پر زیادہ مقدار میں موجود ہوتا ہے اور انڈوں کو پکاتا ہے اور 8 منٹ تک بھورے رنگ کا ہوتا ہے۔
+2. لہسن اور لہسن کو ملا کر ۱ منٹ تک ہلنے لگیں ۔
+3. اُس وقت تک اِن میں سے بعض کو اِس بات کا احساس نہیں ہوتا کہ اُن کے بچے اُن کے ساتھ کتنی سختی سے پیش آتے ہیں ۔
+4. اُوپر سے تازہ بِل پتوں کے پتے اُٹھ کر گرم ہو جاتے ہیں ۔
+:::

@@ -86,3 +86,36 @@ prepTimeEstimated: true
 2. मासा ग्रिल करा किंवा पॅनमध्ये प्रत्येक बाजूने ४ मिनिटे खरपूस शिजवा.
 3. काकडी आणि टोमॅटोच्या कापांसोबत वाढा आणि उरलेला लिंबाचा रस वरून घाला.
 :::
+
+:::lang en
+# Spiced Grilled Mackerel with Lemon
+
+Mackerel fillets rubbed with turmeric, chilli and cumin and grilled with lemon.
+
+## Instructions
+1. Mix the spices, garlic, half the lemon juice, oil and salt and rub over the fish; rest for 15 minutes.
+2. Grill or pan-sear for 4 minutes per side.
+3. Serve with the cucumber and tomato and the remaining lemon juice.
+:::
+
+:::lang bn
+# লেবুর সাথে সংযোগ করা
+
+ম্যাকারেল টরমেরিক, ঠাণ্ডা আর মর্চ্চন দিয়ে ভরা লেবু দিয়ে ভর্তি ।
+
+## Instructions
+1. মসিনা, রসুন, অর্ধেক লেবুর জুস, তেল ও লবণ এবং মাছের উপরে; বাকি ১৫ মিনিট।
+2. ৪ মিনিটের জন্য গ্রিল বা প্যানেরিয়ার।
+3. মাল আর টমেটো আর বাকি লেবুর জুসের সাথে কাজ করো।
+:::
+
+:::lang ur
+# لیسن کے ساتھ سپیسڈ گِرائل
+
+میکر‌سل نے برتنوں کی مدد سے زہریلے ، زہریلے اور زہریلے ہوتے ہیں ۔
+
+## Instructions
+1. مکئی ، لہسن ، آدھا ٹماٹر ، تیل اور نمک وغیرہ مچھلیوں پر جم جاتے ہیں ؛ ۱۵ منٹ آرام کرتے ہیں ۔
+2. گریل یا پنر 4 منٹ کی طرف۔
+3. اِس کے بعد اُس نے اِس بات پر زور دیا کہ اُس نے اُس کی مدد کی ہے ۔
+:::

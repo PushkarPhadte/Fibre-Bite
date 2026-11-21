@@ -81,3 +81,36 @@ prepTimeEstimated: true
 2. पिठाचे 6 गोळे करा आणि ओल्या कापडावर किंवा तेल लावलेल्या प्लास्टिकवर थापून पातळ भाकऱ्या तयार करा.
 3. गरम तव्यावर थोडे तेल घालून प्रत्येक भाकरी दोन्ही बाजूंनी प्रत्येकी 2 मिनिटे शिजवा.
 :::
+
+:::lang en
+# Ragi Roti with Carrot and Coriander
+
+Finger millet flatbreads with grated carrot, onion and coriander, cooked on a griddle.
+
+## Instructions
+1. Mix the flour, carrot, onion, coriander, cumin and salt and knead with the warm water into a soft dough.
+2. Divide into 6 balls and pat out thin on a damp cloth or oiled plastic.
+3. Cook on a hot griddle with a little of the oil for 2 minutes per side.
+:::
+
+:::lang bn
+# কাররোট এবং করিয়ানদের সাথে রাজি রোটি
+
+ফলে প্রচুর পরিমাণে আখ কাটা হতো ।
+
+## Instructions
+1. তাই, এতে অবাক হওয়ার কিছু নেই যে, এই ধরনের কাজ করার জন্য সময় ও প্রচেষ্টার প্রয়োজন ।
+2. ৬ বলতে বিভক্ত হয়ে যায় আর কাপড়ের উপর পাতলা কাপড় বা তেল দিয়ে তৈরি প্লাস্টিক।
+3. দুই মিনিটের জন্য তেল নিয়ে একটি গরম গ্রিডে কুক।
+:::
+
+:::lang ur
+# راجا رتی نے کاربٹ اور کوریندر کے ساتھ
+
+اِس کے بعد اِن میں سے بعض نے اِس بات پر غور کِیا کہ اِس میں کیا کچھ شامل ہے ۔
+
+## Instructions
+1. اِس کے بعد اُس کا پانی ٹھنڈا ہو جاتا ہے ۔
+2. ۶ بیلوں اور برتنوں پر رکھ کر اُس کے کپڑوں یا پلاسٹک کو دبا دیں ۔
+3. دو منٹ کے لئے تیل کی تھوڑی سی مقدار کے ساتھ کوک
+:::

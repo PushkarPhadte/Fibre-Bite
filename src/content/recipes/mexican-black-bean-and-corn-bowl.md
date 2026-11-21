@@ -90,3 +90,39 @@ nutrition:
 3. ड्रेसिंग बीन्सच्या मिश्रणावर ओता आणि हलक्या हाताने मिसळा.
 4. वाढण्याच्या अगदी आधी चिरलेला अॅव्होकॅडो अलगद मिसळा.
 :::
+
+:::lang en
+# Mexican Black Bean and Corn Bowl
+
+A vibrant Southwestern bowl filled with black beans, sweet corn, diced avocado, cilantro, and lime dressing.
+
+## Instructions
+1. In a large bowl, combine drained black beans, sweet corn, diced bell pepper, red onion, and cilantro.
+2. Whisk lime juice, olive oil, cumin, and salt.
+3. Pour dressing over bean mixture and toss gently.
+4. Fold in diced avocado just before serving.
+:::
+
+:::lang bn
+# মেক্সিকোর ব্ল্যাক বিনন এবং কর্ন বাকা
+
+দক্ষিণ-পশ্চিমাঞ্চলীয় বিনে ভরা কালো শিম, মিষ্টি আখ, আভোকাডো, সিলান্‌রো এবং লাইম ড্রেস।
+
+## Instructions
+1. একটা বড় বাটি বাটি, কালো শিম, মিষ্টি আখ, রং করা মরিচ, লাল রঙের মরিচ এবং সিলান্‌রো ।
+2. চুক চুন, জলপাই তেল, জিমিন আর লবণ।
+3. জলস্রোতের ওপর ভিজিয়ে এবং কোমলভাবে যত্ন করে ।
+4. সেবা করার ঠিক আগে পাশাকাডোতে খেলা।
+:::
+
+:::lang ur
+# میکسیکو بلیک بیون اور کارن بوہل
+
+اِس کے بعد اُس نے اپنے کپڑے دھوئے ۔
+
+## Instructions
+1. ایک بڑے پیالے میں سیاہ دانوں کو ملا کر ، خوشبودار مکئی ، سُرخ برتن ، سُرخ اون اور سیل‌انرو کو ملا دیا جاتا ہے ۔
+2. اِس کے علاوہ اِس کا تیل ، زیتون کا تیل ، تیل اور نمک ۔
+3. شہد کی مکھیوں کو ملانے کے لئے استعمال کریں ۔
+4. اُنہوں نے کہا : ” مَیں نے اِس کام میں حصہ لیا ۔
+:::

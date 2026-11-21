@@ -75,3 +75,36 @@ prepTimeEstimated: true
 2. दोन ग्लासांमध्ये योगर्ट, बेरी आणि जवसाचे थर लावा.
 3. वरून अक्रोड घाला आणि लगेच सर्व्ह करा.
 :::
+
+:::lang en
+# Greek Yogurt Berry Flax Parfait
+
+Layers of Greek yogurt, fresh berries, ground flax and walnuts with no added sugar.
+
+## Instructions
+1. Mix the cinnamon into the yogurt.
+2. Layer yogurt, berries and flaxseed in two glasses.
+3. Top with the walnuts and serve immediately.
+:::
+
+:::lang bn
+# গ্রীক ইয়োগুর বেরিক্স পারফাট
+
+তাই, এতে অবাক হওয়ার কিছু নেই!
+
+## Instructions
+1. কনিমোন দের সাথে মিল রাখো।
+2. টেবিলের স্তর, বেরি আর প্লাজমা দুই গ্লাসে।
+3. হাত-পাড়া দিয়ে তাড়াতাড়ি কাজ করো।
+:::
+
+:::lang ur
+# یونانی یورٹ بیری فلکس پیرش (انگریزی:
+
+اِس کی وجہ یہ ہے کہ اِن میں شکر نہیں ہوتا ۔
+
+## Instructions
+1. سینممون کے اندر
+2. اِس کے بعد اُس نے اُن سے کہا : ” اَے [ یہوواہ ] !
+3. سب سے اوپر چاول کے ساتھ اور فوراً خدمت کرتے ہیں۔
+:::

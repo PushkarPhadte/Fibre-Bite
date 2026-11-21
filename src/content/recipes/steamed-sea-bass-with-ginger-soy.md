@@ -83,3 +83,39 @@ prepTimeSource: 'https://www.seriouseats.com/cantonese-steamed-fish-recipe'
 3. ताट वाफेच्या भांड्यातून बाहेर काढा आणि साचलेला द्रव फेकून द्या.
 4. उरलेले ताजे आले आणि पातीचा कांदा वरून घाला; मग सोया सॉस आणि गरम केलेले तीळतेल शिंपडा.
 :::
+
+:::lang en
+# Steamed Sea Bass with Ginger Soy
+
+Delicate sea bass fillets steamed with julienned ginger, scallions, and light soy sauce.
+
+## Instructions
+1. Place sea bass fillets on a heatproof plate and top with half of the ginger and scallions.
+2. Set plate in a steamer over boiling water, cover, and steam for 8-10 minutes until fish is cooked through.
+3. Remove from steamer and discard any accumulated liquid.
+4. Top with remaining fresh ginger and scallions, then drizzle with soy sauce and hot sesame oil.
+:::
+
+:::lang bn
+# Giner Syy এর স্টেমড সি বাস
+
+তাই, সা. কা.
+
+## Instructions
+1. সামুদ্রিক মাছ গরমপ্রুফ প্লেটে ভরা, আর সবচেয়ে প্রথমে ডোরাকাটা ও স্কলার দিয়ে ভরা ।
+2. পানির উপর স্টীম প্লেট সেট করুন, কভার করুন এবং ৮-১০ মিনিট ধরে মাছ রান্না না হওয়া পর্যন্ত স্টীম।
+3. স্টীমার থেকে সরান এবং যেকোন তরল পদার্থ ফেলে দিন।
+4. উপরের দিকে তাজা মদ আর চিৎকার, তারপর সয়া সস আর গরম সস।
+:::
+
+:::lang ur
+# گانجر سوئی کے ساتھ ستمید دریا بسیں
+
+اِس کی وجہ یہ تھی کہ اُس نے اِن تمام چیزوں کو دریافت کِیا ۔
+
+## Instructions
+1. جھیل بسوں کو گرم کرنے والی پلیٹ پر بھر کر اوپر رکھ دیں اور آدھی برف اور سکیل کے ساتھ اوپر کریں۔
+2. 8-10 منٹ تک مچھلیوں کو پکایا جاتا ہے۔
+3. اُس ہٹانے والے پانی کے قطرے اور پھیر
+4. اِس کے بعد اُوپر سے تازہ بُو اور سُرخ رنگ کے تیل کو ملا کر اُوپر رکھ دیا جاتا ہے ۔
+:::

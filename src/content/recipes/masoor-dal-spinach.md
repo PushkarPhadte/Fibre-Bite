@@ -115,3 +115,39 @@ prepTimeSource: 'https://mayuris-jikoni.com/2012/01/12/spinach-masoor-dal/'
 3. पालक घालून तो कोमेजेपर्यंत शिजवा. एका छोट्या पातेल्यात तेल गरम करा, जिरे आणि कापलेला लसूण घाला; सुगंध येईपर्यंत आणि लसूण किंचित सोनेरी होईपर्यंत परता.
 4. लसणाची फोडणी डाळीत ओता. लिंबाचा रस मिसळा, मिठाची चव समायोजित करा आणि भात किंवा बाजरीसोबत वाढा.
 :::
+
+:::lang en
+# Masoor Dal with Spinach
+
+A weeknight red lentil dal with spinach, tomato, cumin, and a fragrant garlic tempering.
+
+## Instructions
+1. Rinse lentils until the water runs mostly clear. Add them to a pot with water, turmeric, tomatoes, and salt.
+2. Bring to a boil, skim any foam, then simmer partly covered until the lentils are soft, about 20 minutes. Add water if needed.
+3. Stir in spinach and cook until wilted. In a small pan, heat oil, add cumin seeds and sliced garlic, and cook until fragrant and just golden.
+4. Pour the garlic tempering into the dal. Stir in lemon juice, adjust salt, and serve with rice or millet.
+:::
+
+:::lang bn
+# বাজপাখির ডাল
+
+এক সপ্তাহ ধরে লাল রঙের লবলা, টমেটো, হৃৎপিণ্ড এবং একটি রেস্তরাঁ রসুন রসুন।
+
+## Instructions
+1. যতক্ষণ না পানির উপর দিয়ে বয়ে যায় ততক্ষণ পর্যন্ত রেইনকে চাবুক মারা হয়। তাদেরকে পানি, টরমেরিক, টমেটো এবং লবণ দিয়ে টব যোগ করুন ।
+2. গরমের সময় গরমের জন্য গরম জল দরকার । প্রয়োজন হলে পানি যোগ করুন।
+3. কাটিং আর রান্নার যন্ত্র. ছোট ছোট ছোট ছোট প্যানে, গরম তেল, বীজ ও কাটা রসুন যোগ করুন এবং ফ্রু ও কেবল সোনার আগ পর্যন্ত রান্না করুন ।
+4. রসুনটা ডিলে ছড়িয়ে পর. লেমন জুসে স্টর, লবণের সমন্বয় এবং চাল অথবা চিনির সঙ্গে সেবা করে ।
+:::
+
+:::lang ur
+# سپینش کے ساتھ میسور ڈیل
+
+ایک ہفتے میں ایک رات لال رنگ کا سُرخ رنگ کا ہوتا ہے جس میں چاول ، ٹماٹر ، آلو اور خوشبودار لہسن شامل ہوتے ہیں ۔
+
+## Instructions
+1. یہاں تک کہ پانی زیادہ صاف نہیں ہوتا ۔ ان میں پانی ، ٹرمر ، ٹماٹر اور نمک شامل ہے ۔
+2. اِس کے بعد اُس نے اُس وقت تک اُس پر سایہ کِیا جب تک لہسن نرم نہ ہو ۔ اگر ضرورت پڑے تو پانی شامل کریں۔
+3. اُس وقت تک اُس کا کھانا پکایا جاتا تھا ۔ ایک چھوٹے سے پین میں گرم تیل ، آلو کے بیج اور لہسن کو ملا کر پکایا جاتا ہے ۔
+4. لہسن کو دال میں دبا دیں ۔ مونگ‌پھلی کے جوس ، نمک کو تبدیل کرنے ، چاول یا چاول کے ساتھ کام کرنے کی کوشش کریں ۔
+:::

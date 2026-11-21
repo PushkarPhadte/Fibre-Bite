@@ -95,3 +95,39 @@ prepTimeEstimated: true
 3. भोपळ्याचे तुकडे, राजमा, ठेचलेले टोमॅटो आणि पाणी घालून उकळी आणा.
 4. आच मंद करा, पातेल्यावर झाकण ठेवा आणि भोपळा व राजमा मऊ होईपर्यंत 25 मिनिटे शिजवा.
 :::
+
+:::lang en
+# Spiced Pumpkin and Red Kidney Bean Stew
+
+Warming stew of fresh pumpkin cubes, red kidney beans, garlic, coriander, and cinnamon in a tomato base.
+
+## Instructions
+1. Heat olive oil in a large pot over medium heat and sauté diced onion for 5 minutes.
+2. Add ground coriander and cinnamon and stir for 30 seconds until aromatic.
+3. Stir in pumpkin cubes, red kidney beans, crushed tomatoes, and water; bring to a boil.
+4. Reduce heat to low, cover, and simmer for 25 minutes until pumpkin and beans are tender.
+:::
+
+:::lang bn
+# স্পাইপিম্পকিন এবং রেড কিনি বেইন স্টেই
+
+টমেটোর বেসে নতুন কুমড়া, লাল কিলো বিন, রসুন, রসুন, কোঙ্কারা এবং সিনেমনের উষ্ণ চঞ্চু।
+
+## Instructions
+1. প্রচুর পরিমাণে গরমের কারণে প্রচুর পরিমাণে গরমের মধ্যে হেট জিতবৃক্ষের তেল এবং সয়াতা পাঁচ মিনিটের জন্য থোড়ায়।
+2. বিভিন্ন ধরনের নকশা তৈরি করুন ।
+3. কুমড়া কিউব, লাল কিনি বিন, চূর্ণ টমেটো এবং জল নিয়ে আসা হচ্ছে।
+4. গরমের পরিমাণ হ্রাস, ঢেকে রাখা, ২৫ মিনিটের জন্য সিমমের গতি হ্রাস করা, কুমড়া এবং শিমগুলো কোমল না হওয়া পর্যন্ত।
+:::
+
+:::lang ur
+# اسپیسڈ پمپکین اور ریڈ کیڈنی بیان اسٹوو ہیں۔
+
+ٹماٹروں کی ایک ذیلی بنیاد میں تازہ پمپ‌کین کی چھال ، سرخ رنگ کے دانوں ، لہسن ، کوریان اور زن‌سون کو گرم کرنا ۔
+
+## Instructions
+1. زیتون کے تیل کو درمیان میں گرم گرم کِیا جاتا تھا اور صابن پر ۵ منٹ تک مشتمل تھا ۔
+2. اِس کے علاوہ اِس کی وجہ سے اُن کی صحت پر بھی بُرا اثر پڑتا ہے ۔
+3. پمپ‌کین کوب ، سُرخ رنگ کے دانوں ، شکستہ ٹماٹروں اور پانی میں سوراخ کئے جاتے ہیں ۔
+4. جب تک پمپ‌کین اور بیج نرم نہ ہوں ۔
+:::

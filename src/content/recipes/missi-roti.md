@@ -90,3 +90,39 @@ prepTimeEstimated: true
 3. पिठाचे गोळे लाटून गोल पोळ्या करा आणि आधी गरम केलेल्या तव्यावर शिजवा.
 4. पोळी उलटून दोन्ही बाजूंना हलके तपकिरी ठिपके येईपर्यंत भाजा.
 :::
+
+:::lang en
+# Missi Roti (North Indian Spiced Chickpea Flatbread)
+
+A nutrient-rich North Indian flatbread prepared by blending whole wheat flour and chickpea flour with aromatic spices.
+
+## Instructions
+1. Combine wheat flour, besan, minced onion, ajwain, coriander seeds, spices, and salt.
+2. Knead into a firm dough adding water gradually.
+3. Roll portions into round flatbreads and cook on a preheated tawa.
+4. Flip and toast until lightly speckled brown on both sides.
+:::
+
+:::lang bn
+# মিসি রোটি (উত্তর ভারতীয়রা মুরগির মাংস)
+
+এরা সবাই গমের আটা আর চিনি দিয়ে তৈরি।
+
+## Instructions
+1. গমের আটা, বীজ, মসিনা, মসিনা ও লবণে ঢাকা ।
+2. এক দৃঢ় কোরে বসে পানি যোগ করে ধীরে ধীরে।
+3. একটি পূর্বসূরী টিওয়াতে এক গোল ফ্ল্যাট রুটি এবং রান্না করুন।
+4. যতক্ষণ না দুই দিক থেকে ছোট বাদামি বাদামি রঙের ছবি তোলা হয়, ততক্ষণ তা আর নয়।
+:::
+
+:::lang ur
+# مسی رتی (North Indian Spicked Chickpea Flatpay)۔
+
+شمالی ہندوستانی پلیٹ‌فارم کے ذریعے تیار کی جانے والی ایک سبزیوں کے آٹے کو خوشبودار خوشبوؤں سے ملا کر تیار کِیا جاتا ہے ۔
+
+## Instructions
+1. گندم کے آٹے ، بیلوں ، مون‌کی‌کین ، کیفین ، کریانڈر بیج ، خوشبودار اور نمک ۔
+2. پانی آہستہ آہستہ بڑھنے لگتا ہے ۔
+3. اِس کے بعد اُس نے اُن سے پوچھا : ” کیا مَیں اِس بات کی قدر کرتا ہوں کہ مَیں اُن کے ساتھ کیسے رہ سکتا ہوں ؟ “
+4. اُس وقت تک دونوں اطراف میں بھورے رنگ کے بھورے رنگ کے تھے ۔
+:::

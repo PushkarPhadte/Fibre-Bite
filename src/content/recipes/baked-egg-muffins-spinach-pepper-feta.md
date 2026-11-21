@@ -94,3 +94,39 @@ prepTimeEstimated: true
 3. हे मिश्रण सहा मफिन कपांमध्ये समान वाटून घाला.
 4. मध्यभाग घट्ट होईपर्यंत आणि वरून हलके सोनेरी होईपर्यंत १८ ते २२ मिनिटे बेक करा.
 :::
+
+:::lang en
+# Baked Egg Muffins with Spinach, Red Pepper, and Feta
+
+Portable savory egg cups packed with baby spinach, diced red bell pepper, and crumbled feta cheese.
+
+## Instructions
+1. Preheat the oven to 180 C and lightly oil six cups of a standard muffin tin.
+2. Whisk eggs with black pepper in a bowl, then stir in chopped spinach, diced red bell pepper, and feta.
+3. Divide the mixture evenly among the six muffin cups.
+4. Bake for 18 to 22 minutes until set in the center and lightly golden on top.
+:::
+
+:::lang bn
+# স্পিনিং, রেড পেপার এবং ফিটা দিয়ে আক্‌স
+
+ছোট ছোট ডিমের কাপে বাচ্চা ঘুরে ঘুরে বেড়াত, লাল মরিচের টুকরো হয়ে গিয়েছিল এবং পনিরের টুকরো টুকরো টুকরো হয়ে গিয়েছিল ।
+
+## Instructions
+1. ১৮০ সি থেকে ১৮০ পাউন্ড পর্যন্ত চুল্লী এবং একটি প্রমিত স্যাঁতসেঁতে ছয় কাপ তেল।
+2. একটা বাটির মধ্যে কালো মরিচের ডিম রয়েছে, এরপর হাত কাটা, লাল মরিচের মরিচ এবং পেটা।
+3. প্রায় ছয় মিলিটার কাপের মিশ্রণের ভাগ।
+4. ১৮ থেকে ২২ মিনিট পর্যন্ত বেক কেন্দ্রে সেট করা এবং উপরের দিকে হালকা সোনার তাল।
+:::
+
+:::lang ur
+# Baed Egg Muffins with Spinach, Red Peper, and Feta
+
+اِس کے علاوہ اُس نے اُن کا دودھ بھی پکایا ۔
+
+## Instructions
+1. اِس کا مطلب ہے کہ اِن میں سے ایک کا نام ” مینارِنگہبانی “ ہے ۔
+2. اِس کے بعد اِنڈوں کو اُبال دیا جاتا ہے ۔
+3. اِس سلسلے میں ایک مثال پر غور کریں ۔
+4. 18 سے 22 منٹ تک یہاں تک کہ مرکز میں اور اوپر پر سونے کے ذرات مقرر ہوئے۔
+:::

@@ -101,3 +101,39 @@ prepTimeEstimated: true
 3. हरभरे, सुक्या जर्दाळू आणि भाजीचा स्टॉक घाला; झाकून 25 मिनिटे मंद आचेवर शिजवा.
 4. झुकिनी मिसळा आणि सर्व भाज्या मऊ होईपर्यंत आणखी 10 मिनिटे शिजवा.
 :::
+
+:::lang en
+# Moroccan Vegetable Tagine
+
+A fragrant North African slow-cooked stew of chickpeas, sweet potatoes, carrots, zucchini, dried apricots, and warm spices.
+
+## Instructions
+1. Heat olive oil in a deep pot or tagine and sauté onion for 3 minutes.
+2. Add sweet potatoes, carrots, spices, and stir for 2 minutes to release aromatics.
+3. Add chickpeas, dried apricots, and vegetable broth; cover and simmer for 25 minutes.
+4. Stir in zucchini and cook for another 10 minutes until all vegetables are tender.
+:::
+
+:::lang bn
+# মরোক্কোন ভেজেস্টি ট্যাগ
+
+উত্তর আফ্রিকার ধীর গতিতে চলা বাচ্চা, মিষ্টি আলু, কারু, জুকচিনি, শুকনা পাতা এবং গরম মসলা।
+
+## Instructions
+1. এক গভীর মৃগী বা ট্যাগিনে হৃৎপিণ্ড তেল তিন মিনিট অন্তর পরত ।
+2. মিষ্টি আলু, জারট, মসলা, এবং সুগন্ধি ছাড়া ২ মিনিট লাগে।
+3. মৌমাছিরা মুরগি, পাকস্থলী এবং সবজি, ২৫ মিনিট ধরে ঢেকে রাখে ।
+4. জুচিচিনিতে স্টর এবং সব সবজি কোমল না হওয়া পর্যন্ত ১০ মিনিটের জন্য রান্না করে।
+:::
+
+:::lang ur
+# مُلک‌نما تیل
+
+شمالی افریقہ کے سستے برتنوں کی خوشبو، میٹھا پکوانوں، چاولوں، ہاتھوں کینی، خشک چاولوں اور گرم خوشبوؤں کی خوشبو۔
+
+## Instructions
+1. زیتون کے تیل کو گہرے برتن یا ٹائی‌نن اور صابن میں ۳ منٹ کے لئے استعمال کِیا جاتا ہے ۔
+2. شہد کی مکھیوں کو ملا کر دو منٹ تک خوشبودار مشروبات خارج کرتے ہیں ۔
+3. اِس کے علاوہ اِس میں 25 منٹ کے لئے اِس کا رنگ بھی ہوتا ہے ۔
+4. یہاں تک کہ تمام سبزیوں کو نرم‌مزاجی سے استعمال کِیا جاتا ہے ۔
+:::

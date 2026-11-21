@@ -111,3 +111,39 @@ prepTimeEstimated: true
 3. भाज्या जवळच्या कडेवर मांडून चटईच्या मदतीने घट्ट रोल करा; पाण्याचा हलका थेंब लावून कडा बंद करा.
 4. प्रत्येक रोल ओल्या धारदार सुरीने 8 तुकड्यांत कापा आणि तमारीसोबत वाढा.
 :::
+
+:::lang en
+# Brown Rice Vegetable Sushi Rolls (Maki)
+
+Nori rolls of seasoned brown rice, avocado, cucumber, carrot and red pepper, served with a little tamari.
+
+## Instructions
+1. Rinse the rice and cook it in 500 ml water for 40 minutes until soft and sticky. Fold in the vinegar, jaggery and salt while still warm and cool to room temperature.
+2. Lay a nori sheet shiny side down on a bamboo mat and press a thin layer of rice over it, leaving 2 cm bare at the far edge. Sprinkle with sesame seeds.
+3. Arrange the vegetables across the near edge and roll up tightly using the mat, sealing with a dab of water.
+4. Slice each roll into 8 pieces with a wet sharp knife and serve with the tamari.
+:::
+
+:::lang bn
+# ব্রাউন চালিবল সুশি রোলস (মাকি)
+
+তাই এতে অবাক হওয়ার কিছু নেই যে, তারা খুব অল্প পরিমাণ মদ খায় ।
+
+## Instructions
+1. ধান পান করে আর ৫০০ মিটার পানিতে রান্না করে। দ্রাক্ষালতার ভিতরে, জৈন ও লবণে ভরে যায়, যেখানে এখনও গরম ও ঠাণ্ডা থাকে ।
+2. একটা উলকি আঁকা কাগজের পাশ দিয়ে উড়ে যায় আর এর ওপর দিয়ে ধানের পাতলা স্তর চাপ দিন । সাধারণ বীজের সাথে পান করুন।
+3. নিকটে থাকা শাকসবজির ব্যবস্থা করুন এবং শক্ত করে মাজ ব্যবহার করুন, যাতে জলের ডাব দিয়ে আটকানো হয় ।
+4. প্রত্যেক টুকরো টুকরো করে ধারালো ছুরি দিয়ে আর তামারির সাথে কাজ করে।
+:::
+
+:::lang ur
+# براؤن رائس ویگیٹبل سوشی رولز (مکی)
+
+اِس کے علاوہ اُنہوں نے اپنے کام میں بہت سی تبدیلیاں کیں ۔
+
+## Instructions
+1. چاول صاف کریں اور اسے 500 ملی میٹر پانی میں 40 منٹ تک نرم اور چربی تک پکا لیں۔ گرمیوں کے موسم میں خوب‌صورت ، جاگر اور نمک جبکہ کمرے کے درجۂ‌حرارت کو ٹھنڈا کِیا جاتا ہے ۔
+2. اِس لئے اُس پر چاول کی چھوٹی موٹی تہہ رکھ دیں ۔ سیم کے بیج سے لیس.
+3. اِن سبزیوں کو اُوپر سے اُوپر رکھ کر پانی کی دُم پر بند کر دیں ۔
+4. ہر رول کو 8 ٹکڑوں میں ملا کر اُڑ کر ٹائیمار کے ساتھ خدمت کرتے ہیں ۔
+:::

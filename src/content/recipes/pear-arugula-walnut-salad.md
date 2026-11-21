@@ -79,3 +79,36 @@ prepTimeEstimated: true
 2. अरुगुला आणि नाशपाती ड्रेसिंगमध्ये हलक्या हाताने मिसळा.
 3. वरून अक्रोड घाला.
 :::
+
+:::lang en
+# Pear Arugula Walnut Salad
+
+Peppery arugula with sliced pear, walnuts and a light lemon-yogurt dressing.
+
+## Instructions
+1. Whisk the yogurt, lemon juice, oil, salt and pepper.
+2. Toss the arugula and pear with the dressing.
+3. Top with the walnuts.
+:::
+
+:::lang bn
+# পিপার আরগুলা ওয়ানানা সালাদ
+
+পেপারি আরুগুলা, খিচুড়ি আর হালকা লেবুর কাপড়।
+
+## Instructions
+1. মাংসের জুস, তেল, লবণ আর মরিচ।
+2. "রুগুলা" আর ড্রেসিং এর উপরে।
+3. হাত দিয়ে উপরে.
+:::
+
+:::lang ur
+# پیر اروجولہ والنوت سالود
+
+Pepery arugula with spered Pear, walnuts, and light lymon-ygurt پہنتے ہیں۔
+
+## Instructions
+1. اِس کی ایک وجہ یہ ہے کہ اِس کا ذائقہ اِس بات کی طرف اشارہ کرتا ہے کہ اِس میں نمک ، نمک اور شکر شامل ہے ۔
+2. تنقیح کے ساتھ ارغلا اور پَر بھی کرتا ہے۔
+3. اس سے اوپر لودھیوں سے۔
+:::

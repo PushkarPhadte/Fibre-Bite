@@ -86,3 +86,39 @@ prepTimeEstimated: true
 3. पालक मिसळा आणि तो कोमेजेपर्यंत 5 मिनिटे शिजवा.
 4. शेवटी शेपू, लिंबाचा रस आणि मिरी घाला.
 :::
+
+:::lang en
+# Spanakorizo Greek Spinach Rice
+
+A lemony Greek one-pot of spinach, brown rice, dill and spring onion.
+
+## Instructions
+1. Cook the spring onions in the oil for 2 minutes, add the rice and toast for 1 minute.
+2. Add the water and salt, cover and simmer for 25 minutes.
+3. Stir in the spinach and cook for 5 minutes until wilted.
+4. Finish with the dill, lemon juice and pepper.
+:::
+
+:::lang bn
+# স্পারাঙ্গারিজো গ্রীক স্পিনিচ
+
+লেবুর মাংসের এক ঝলক, বাদামি ভাত, ডাইল এবং বসন্ত।
+
+## Instructions
+1. দুই মিনিটের জন্য তেলে বসন্ত রান্না করুন, ভাত আর টোস্ট ১ মিনিটের জন্য।
+2. পানি আর লবণ যোগ করে ২৫ মিনিটের জন্য ঢেকে দাও।
+3. বেলচা আর রান্নার যন্ত্র।
+4. ডাইল, লেবু জুস আর মরিচ দিয়ে শেষ।
+:::
+
+:::lang ur
+# سپینکورویزو یونانی سپینش رائس
+
+ایک پونڈی یونانی ریاضی دانوں میں سے ایک رینچ، بھورے چاول، دیول اور چشمہ اونیون کا تھا۔
+
+## Instructions
+1. 2 منٹ کے لیے تیل میں سرکہ، چاول اور مشرق میں 1 منٹ تک رکھیں۔
+2. پانی اور نمک کو ملا کر 25 منٹ تک صاف کریں ۔
+3. اِس کے بعد ۵ منٹ تک سانس لیں ۔
+4. اِس کی ایک وجہ یہ ہے کہ اِس میں کوئی شک نہیں ہے ۔
+:::

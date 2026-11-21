@@ -82,3 +82,36 @@ prepTimeEstimated: true
 2. गाजर 4 मिनिटे वाफवा, नंतर अर्धचंद्राकार झुकिनी घाला आणि भाज्या किंचित मऊ होईपर्यंत आणखी 4 ते 5 मिनिटे वाफवा.
 3. भाज्या वाढण्याच्या भांड्यात काढा आणि ऑलिव्ह तेल, लिंबाचा रस व ताजी शेपू घालून अलगद मिसळा.
 :::
+
+:::lang en
+# Steamed Zucchini and Carrot Medley with Dill
+
+Tender-crisp steamed zucchini half-moons and carrot coins tossed with fresh dill and lemon zest.
+
+## Instructions
+1. Bring water to a simmer in a steamer pot and place carrot coins in the steamer basket.
+2. Steam carrots for 4 minutes, add zucchini half-moons, and steam for another 4 to 5 minutes until just tender.
+3. Transfer to a serving bowl and toss gently with olive oil, lemon juice, and fresh dill.
+:::
+
+:::lang bn
+# ডিল এর সাথে স্টেমড জুচিনি এবং কারোট মেডলি
+
+এগুলো বেশ জনপ্রিয়।
+
+## Instructions
+1. আপনি কি মনে করতে পারেন?
+2. ৪ মিনিটের জন্য স্টেম জারট, জুকচিনি অর্ধ-মুন যোগ করো, আর আরো ৪ থেকে ৪ মিনিট চলবে।
+3. একটা বাটি এবং জলপাই, লেবুর জুস এবং তাজা ফল দিয়ে ধীরে ধীরে হালকাভাবে ঘুরে বেড়ায় ।
+:::
+
+:::lang ur
+# سٹیمد زوکینی اور کاربٹ میڈلی کے ساتھ دہلی میں واقع ہے۔
+
+دردمندی-کریسپ نے ذوقی نیم مُتَوَّل اور کُلّے کے سکوں کو تازہ ڈِل اور لائم زِسٹ سے پُر کر دیا۔
+
+## Instructions
+1. ایک برتن میں پانی ڈال کر اُس برتن میں رکھ دیں ۔
+2. اسٹیئم 4 منٹ کے لیے استعمال ہوتا ہے، اس میں ذوقی نیم مونس بھی شامل ہوتا ہے اور ایک اور 4 سے 5 منٹ تک صرف نرمی سے کام لیتا ہے۔
+3. اِس کے علاوہ اِس میں زیتون کا تیل ، ٹماٹر کا رس اور تازہ‌دم شامل ہیں ۔
+:::

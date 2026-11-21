@@ -121,3 +121,39 @@ prepTimeEstimated: true
 3. चिरलेले रोमेन लेट्यूस, काकडी, टोमॅटो, मुळा, पातीचा कांदा, पार्सली आणि पुदिना एका रुंद सलाडच्या भांड्यात एकत्र करा.
 4. वाढण्याच्या अगदी आधी भाज्यांमध्ये सुमाक व्हिनिग्रेट मिसळा आणि भाजलेले संपूर्ण गव्हाचे पिटा चिप्स हलक्या हाताने मिसळा, म्हणजे ते कुरकुरीत राहतील.
 :::
+
+:::lang en
+# Lebanese Fattoush Salad with Baked Whole-Wheat Pita
+
+Crisp Levantine garden salad of romaine, radishes, cucumbers, heirloom tomatoes, and fresh mint tossed in a tangy sumac-pomegranate vinaigrette with oven-toasted whole-wheat pita chips.
+
+## Instructions
+1. Preheat the oven to 190°C, toss the torn whole-wheat pita pieces with 6 ml of olive oil and 2 g of sumac, and bake for 8 to 10 minutes until crisp and golden.
+2. Whisk the remaining 18 ml of olive oil, fresh lemon juice, pomegranate molasses, remaining sumac, minced garlic, and salt in a small jar.
+3. Combine the chopped romaine, cucumber, tomatoes, radishes, scallions, parsley, and mint in a wide salad bowl.
+4. Toss the vegetables with the sumac vinaigrette right before serving and fold in the baked whole-wheat pita chips so they stay crunchy.
+:::
+
+:::lang bn
+# লেবাননের ফাত্তাশ সালাদকে পরাজিত করেছে সম্পূর্ণ-ওয়াট পিটার সাথে
+
+রিসName র‌্যালিন বাগান, র‍্যাচ, র‍্যাচ, সিরাশী, উত্তরাধিকারীলুম টমেটো এবং টিয়াং-এ নতুন পয়:নিষ্কাশনের সুপেয়, যা দিয়ে পূর্ণ-টো-টো-আতয়া চিপে ভরা।
+
+## Instructions
+1. ১৯০ ডিগ্রি সেলসিয়াস পর্যন্ত চুলা ফুটতে হবে, পুরো ধানের টুকরোতে ৬টি জলপাই তেল আর ২টা যোক আছে।
+2. ফলে, প্রচুর পরিমাণে তেল উৎপন্ন হতো ।
+3. একটা বড় সালাদের বাটিকলের বাটিকল, চিনি, টমেটো, র‌্যাপস, পারসিলি এবং মিমলেট।
+4. সব্জির সাথে সবজি বিক্রির ঠিক আগে।
+:::
+
+:::lang ur
+# لبنانی فاطوتوش سالالد کے ساتھ بالواسطہ طور پر سفید فاموں کے ساتھ
+
+کروسپ Levantine Garden of Ramaine, Radcine, golden, Tayous ac-Pomegranate Vinagette with Ouwan-toast-toast Break-pomegraneate Vinegette.
+
+## Instructions
+1. پروہت اوون کو 190°C تک، ٹوٹنے والے پورے پتوں کو کاٹ دیتا ہے جس میں زیتون کے تیل کی 6 ملی میٹر اور 2 جی کمیک کے ساتھ اور 8 سے 10 منٹ تک کریسپ اور سونے تک پھیلتی ہے۔
+2. زیتون کے تیل کے باقی ۱۸ ملی‌میٹر ، تازہ ٹماٹر ، شادی‌شُدہ مُلک ، باقی کیمیائی ، لہسن اور نمک کو چھوٹے برتنوں میں محفوظ رکھا جاتا ہے ۔
+3. اِن میں سے ایک کا نام بھی ہے ۔
+4. وہ سبزیوں کے ساتھ مل کر کھانا تیار کرتے ہیں اور اسے پکاتے ہیں
+:::

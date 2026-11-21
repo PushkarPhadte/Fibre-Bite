@@ -117,3 +117,42 @@ prepTimeEstimated: true
 4. कापलेले चिकन परतवून गॅसवरून लिंबाचा रस ढवळून घ्या.
 5. वाट्यामध्ये लाडू करा आणि वर ॲव्होकॅडो आणि कोथिंबीर घाला.
 :::
+
+:::lang en
+# Sopa de Lima (Yucatan Chicken and Lime Soup)
+
+Bright Mexican chicken soup with tomato, peppers and plenty of lime, topped with creamy avocado and fresh coriander.
+
+## Instructions
+1. Poach the chicken in the water with a pinch of the salt for 15 minutes until cooked, then lift out and shred. Keep the broth.
+2. In a pot, soften the onion, garlic, chilli and capsicum in the oil for 5 minutes, then add the tomato, oregano and cumin and cook for 3 minutes.
+3. Pour in the chicken broth, add the remaining salt and simmer for 10 minutes.
+4. Return the shredded chicken and stir in the lime juice off the heat.
+5. Ladle into bowls and top with avocado and coriander.
+:::
+
+:::lang bn
+# সোপা দে লিমা (ইকুতায়ান মুরগি এবং লাইম সোউ)
+
+মেক্সিকান মুরগির সুপের সাথে টমেটো, মরিচ এবং প্রচুর চুড়ি, যা ক্রিমি আভোকাডো এবং তাজা কোরিয়ান্ডার দিয়ে তৈরি।
+
+## Instructions
+1. মুরগির মাংসকে জলে জমা দিন ব্রোথ রাখুন.
+2. তাই, এতে অবাক হওয়ার কিছু নেই যে, এতে প্রচুর পরিবর্তন হয়েছে ।
+3. মুরগির পাপড়ি, বাকি লবণ আর সিমমের সাথে ১০ মিনিটের জন্য।
+4. শুকিয়ে যাওয়া মুরগিটা ফেরত দাও আর গরমের সুপে নাড়া দাও।
+5. বাটি বাটি এবং উপরের দিকে আভোকাডো এবং কোরিয়ান্ডার।
+:::
+
+:::lang ur
+# سوپا دے لیما (Yucatan Chicken اور Lime Soup)
+
+اِس کے علاوہ میکسیکو کے شیروں کی تعداد بھی کم ہو جاتی ہے ۔
+
+## Instructions
+1. پانی میں موجود مرغی کو 15 منٹ تک نمک کے ساتھ پکایا جاتا ہے ۔ بریٹ رکھیں.
+2. ایک برتن میں اُون ، لہسن ، اُبالنا اور اُس کے تیل میں ۵ منٹ کے لئے پکایا جاتا ہے ۔
+3. مرغی کے آٹے میں پانی ملا کر باقی نمک اور دس منٹ تک ملا دیں ۔
+4. اِس کے بعد اُس نے اُس پر بھروسا کِیا ۔
+5. Ladle کو ڈبوں میں اور اوپر سے ادو اور کوریندر کے ساتھ۔
+:::

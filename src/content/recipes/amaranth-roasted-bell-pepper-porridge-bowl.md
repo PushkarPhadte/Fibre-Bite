@@ -86,3 +86,39 @@ prepTimeEstimated: true
 3. आच मंद करा, झाकण ठेवून 22 ते 25 मिनिटे शिजवा; राजगिरा मऊसर होऊन द्रव शोषला जाईपर्यंत शिजू द्या.
 4. वाढण्यापूर्वी भाजलेली ढोबळी मिरची आणि थाइम मिसळा.
 :::
+
+:::lang en
+# Amaranth and Roasted Bell Pepper Porridge Bowl
+
+Savory whole-grain amaranth simmered until creamy and folded with roasted red bell peppers and thyme.
+
+## Instructions
+1. Warm half the olive oil in a skillet over medium-high heat and roast diced red bell pepper for 6 minutes until softened and lightly charred.
+2. In a saucepan, warm remaining olive oil, add rinsed amaranth and vegetable broth, and bring to a boil.
+3. Reduce heat to low, cover, and simmer for 22 to 25 minutes until amaranth is creamy and liquid is absorbed.
+4. Fold in roasted bell peppers and thyme before serving.
+:::
+
+:::lang bn
+# আমেরন ও কোদাল বেল পেপার পেডিজ
+
+সাভোরির সব দোষ আছে... ...আর ক্রিমি আর লাল মরিচের টুকরোয় ঢাকা ছিল.
+
+## Instructions
+1. মাঝারি তাপমাত্রায় জলপাই তেল এবং সাড়ে ছয় মিনিটের জন্য লাল মরিচের মরিচের সসেজ দিয়ে তৈরি।
+2. সসপানে, গরম জলপাই তেলে, আমারান ও সবজির সাথে যোগ করা হয়, আর তা এক কাপ গরম পানি নিয়ে আসে।
+3. কম তাপমাত্রা হ্রাস, ঢেকে ২২ থেকে ২৫ মিনিট পর্যন্ত সিমমের ব্যবহার কমে যায়, যতক্ষণ না মেমার ক্রিম আর তরল হয়।
+4. পরিবেশনের আগে বমির মরিচ এবং তোর গামলা।
+:::
+
+:::lang ur
+# امرانتھ اور جہلم بیلے پیپپر پوٹھوہاری باؤل
+
+ساہیوال بھر میں امرتسر گیا یہاں تک کہ کریمیا نے سرخ بیلوں اور تیرنے والے تیروں سے لپیٹ لیا۔
+
+## Instructions
+1. نصف زیتون کے تیل کو درمیانے گرم گرم گرم کر کے 6 منٹ تک نرم اور معمولی سی باریک سرخ رنگ کے سُرخ برتن میں گرم کیا۔
+2. زیتون کے تیل کو گرم رکھنے ، اُس میں عامر اور پودوں کی افزائش اور جلانے کے کام آتے تھے ۔
+3. گرمیوں میں کم‌ازکم ۲۲ سے ۲۵ منٹ تک گرمی ہوتی ہے ۔
+4. اس سے پہلے کہ خدمت کرنے کے لئے آپ اور آپ کے کمرے میں آگ لگ جائے.
+:::

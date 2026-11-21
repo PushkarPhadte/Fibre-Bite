@@ -88,3 +88,39 @@ prepTimeEstimated: true
 3. कारले आणि मसाले घालून झाकण न ठेवता 12 मिनिटे, कारले मऊ होईपर्यंत शिजवा.
 4. शेवटी लिंबाचा रस घाला.
 :::
+
+:::lang en
+# Karela Bitter Gourd Stir-Fry
+
+A well-spiced bitter gourd and onion stir-fry cooked until tender with lemon to balance the bitterness.
+
+## Instructions
+1. Toss the bitter gourd with half the salt and rest for 15 minutes; squeeze out the liquid.
+2. Heat the oil, splutter the cumin and cook the onion until golden.
+3. Add the bitter gourd and spices and cook uncovered for 12 minutes until tender.
+4. Finish with the lemon juice.
+:::
+
+:::lang bn
+# কারলা Bersa Berd God স্ট্রি
+
+এটি একটি সুবিশাল আটা, আটা দিয়ে রান্না করা হয়েছে যতক্ষণ না লেকের সাথে লেমন দিয়ে লেকের সাথে ভারসাম্য বজায় রাখা যায়।
+
+## Instructions
+1. আধা লবণ এবং ১৫ মিনিট বিশ্রামের জন্য তিক্ত লাঠিগুলো বের করে; তরল পদার্থ বের করে ।
+2. তেল ঢালে, ধূমপায়ী আর সোনার আগ পর্যন্ত রান্না করে।
+3. আর কোমল না হওয়া পর্যন্ত ১২ মিনিটের জন্য রান্না করে.
+4. লেবুর জুস দিয়ে শেষ।
+:::
+
+:::lang ur
+# Karela Bitter Gourd county-Fry -
+
+ایک اچھی طرح سے تلخ درخت اور اونی پھونکنے کی وجہ سے اس وقت تک پکایا جاتا ہے جب تک کہ ٹماٹروں کے ساتھ نرمی سے اس تلخی کا توازن قائم نہ رکھا جائے۔
+
+## Instructions
+1. اِس درخت کو اُس درخت کے آدھا نمک اور 15 منٹ تک آرام دیا جاتا ہے ۔
+2. تیل کو صاف کریں اور سونے تک اون کو پکائیں ۔
+3. اِس کے بعد اُس درخت کو اُس وقت تک پکا کر رکھیں جب تک کہ اُس کا کھانا 12 منٹ تک پکا نہ جائے ۔
+4. مونگ‌پھلی کا رس
+:::

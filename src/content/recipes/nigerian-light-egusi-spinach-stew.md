@@ -124,3 +124,42 @@ prepTimeEstimated: true
 4. भाज्यांचा रस्सा आणि उरलेले मीठ घाला. मंद उकळी येत असलेल्या मिश्रणाच्या पृष्ठभागावर एगुसी पेस्टचे प्रत्येकी एक मोठा चमचा असे भाग सोडा. न ढवळता झाकण ठेवून 10 मिनिटे शिजवा, म्हणजे मऊ गुठळ्या सेट होतील.
 5. गुठळ्या हलक्या हाताने घासाएवढ्या तुकड्यांत मोडा, चिरलेला पालक मिसळा आणि पालक गडद हिरवा व कोमेजेपर्यंत 3 मिनिटे शिजवा.
 :::
+
+:::lang en
+# Nigerian Light Egusi and Spinach Stew
+
+Protein- and mineral-rich West African stew of toasted ground melon seeds simmered into fluffy curds inside a roasted red bell pepper, tomato, and spinach base.
+
+## Instructions
+1. Blend the red bell peppers, tomatoes, half the onion, garlic, and ginger into a smooth red puree; dice the remaining onion finely.
+2. Mix the ground egusi seeds with 90 ml of water and a pinch of salt to form a thick, scoopable paste.
+3. Heat the sunflower oil in a Dutch oven, sauté the diced onion for 3 minutes, pour in the pepper-tomato puree and spices, and simmer uncovered for 12 minutes until reduced.
+4. Add the vegetable broth and remaining salt, then drop tablespoonfuls of the egusi paste onto the simmering surface; cover without stirring for 10 minutes so tender curds set.
+5. Gently break the curds into bite-sized pieces, fold in the chopped spinach, and simmer 3 minutes until bright green and wilted.
+:::
+
+:::lang bn
+# নাইজেরিয়া
+
+পোর্ট ইন-ইন এবং ওয়েস্ট আফ্রিকান চেরনোবিলের খনির মধ্য দিয়ে তৈরি তরমুজের বীজ পচন করা হয়।
+
+## Instructions
+1. লাল মরিচ, টমেটো, রসুন এবং হালকা লাল রঙের ঝোঁক দিয়ে লাল মরিচ তৈরি করুন ।
+2. মাটির বীজকে ৯০ মিটার জল এবং একটি ঘন, ঘন পেস্ট পেস্ট করার জন্য লবণ ও লবণ দিয়ে তৈরি করা হয় ।
+3. ডাচ চুলার উপর সূর্যমুখী তেল, সোটিয়ে তিন মিনিট ধরে কাটা, মরিচের জীপ এবং মসলাতে ঢেলে ১২ মিনিট পর্যন্ত উন্মুক্ত হয়ে যায়।
+4. সবজি ও অবশিষ্ট লবণ যোগ করুন, তারপর টেবিলের টুকরোগুলো মাটিতে পেস্ট করে রাখুন; ১০ মিনিট পর পর পর পর পর পর পর খালি করে রাখুন ।
+5. ধীরে ধীরে কোকুন ভেঙ্গে ফেলা হবে, টুকরো টুকরো টুকরো করে ফেলা হবে। আর উজ্জ্বল সবুজ আর মসৃণ তিন মিনিট লাগবে।
+:::
+
+:::lang ur
+# نائجیریا نور اگوسی اور اسپینیچ اسٹوی ہیں۔
+
+پرتین- اور معدنی مغربی افریقہ کی مغربی زمین کے ذرّوں کی وجہ سے پگھلے ہوئے سرخ بیل کے پیٹ ، ٹماٹر اور رینچ بیس کے اندر کیچڑ کے ڈھیروں میں تبدیل ہو گئے۔
+
+## Instructions
+1. سرخ رنگ کے برتنوں ، ٹماٹروں ، نصف اون ، لہسن اور آمیزش کو ایک ہموار سرخ رنگ میں ملا کر رکھ دیں ؛ باقی حصہ کو اچھی طرح صاف کریں ۔
+2. مٹی کے بیج 90 ملی میٹر پانی اور نمک کی ایک تہ‌دار تہ سے حاصل کئے جاتے ہیں ۔
+3. نیدرلینڈز میں سورج‌مکھی کے تیل کو صاف کرنے کے لئے ۳ منٹ تک استعمال کِیا جاتا ہے ۔
+4. اِس کی وجہ یہ ہے کہ اِس کے بعد اُس کی میزیں اِس سطح پر رکھ دیں ۔
+5. جینیاتی طور پر کوارکوں کو کاٹنے والے ٹکڑوں میں توڑ دیتے ہیں، اس کے ٹوٹنے میں سوراخ کر دیتے ہیں اور 3 منٹ لگتے ہیں جب تک سبز رنگ نہ ہو جائے اور دوبارہ نہ جائے۔
+:::

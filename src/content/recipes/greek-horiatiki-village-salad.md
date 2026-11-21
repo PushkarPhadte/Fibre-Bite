@@ -102,3 +102,39 @@ prepTimeEstimated: true
 3. फेटाचा पूर्ण तुकडा वर ठेवा, नंतर ऑलिव्ह तेल आणि व्हिनेगर शिंपडा.
 4. ओरिगॅनो भुरभुरा आणि खोलीच्या तापमानाला वाढा.
 :::
+
+:::lang en
+# Horiatiki (Greek Village Salad)
+
+Ripe tomato, cucumber, pepper and red onion with olives, a slab of feta and good olive oil, with no lettuce.
+
+## Instructions
+1. Combine the tomato, cucumber, onion, capsicum and olives in a wide bowl.
+2. Season lightly with the salt (the feta and olives are already salty) and toss gently.
+3. Lay the feta on top in one piece, then drizzle with the olive oil and vinegar.
+4. Sprinkle with oregano and serve at room temperature.
+:::
+
+:::lang bn
+# হোরিয়াটাকি (গ্রিক গ্রাম সালাডা)
+
+টমেটো, রসালোর, মরিচ, মরিচ এবং লাল হয়ে যায়, যা পেটা এবং সুন্দর জলপাই তেল দিয়ে তৈরি।
+
+## Instructions
+1. টমেটো, প্লুমেষ, পেখম, পেকেম এবং জলপাই এক বিরাট বাটি ডালে ।
+2. লবণকে হালকাভাবে ব্যবহার করুন (ম্যাসা ও জলপাই ইতিমধ্যেই লবণ) এবং কোমলভাবে ।
+3. এক টুকরোতে লেটিকে উপরে রাখো, তারপর জলপাই তেল আর দ্রাক্ষালতার সাথে মিশিয়ে ফেলো।
+4. লাঠি দিয়ে পান করুন এবং রুম তাপমাত্রায় সেবা করুন ।
+:::
+
+:::lang ur
+# ہوریاتیکی (یونانی بلدیہ Salad)۔
+
+اِس کے علاوہ زیتون اور زیتون کا تیل بھی تیار کِیا جاتا ہے ۔
+
+## Instructions
+1. ٹماٹر ، کیک‌مبر ، اونین ، کیپسم اور زیتون کو ایک وسیع پیالے میں ملا دیں ۔
+2. اِس میں نمک اور زیتون کا نمک شامل ہے ۔
+3. اِس کے بعد زیتون اور زیتون کے تیل سے تیل حاصل کریں ۔
+4. اِس کی وجہ یہ ہے کہ اُس نے اِس بات کو تسلیم کِیا کہ اُس نے اِس کام میں حصہ لیا ہے ۔
+:::

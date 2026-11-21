@@ -105,3 +105,39 @@ prepTimeEstimated: true
 3. सोया सॉस, तिळाचे तेल आणि तांदळाचा व्हिनेगर एकत्र फेटून घ्या.
 4. वाफवलेल्या माशावर हलके मिश्रण चमच्याने घाला आणि उरलेले ताजे आले व पातीचा कांदा वरून पेरा.
 :::
+
+:::lang en
+# Steamed Sea Bass with Ginger, Scallions, and Sesame
+
+Tender white sea bass steamed over julienned ginger and scallions with a light soy-sesame drizzle.
+
+## Instructions
+1. Arrange sea bass fillets on a heatproof steaming plate and scatter half the ginger and scallions on top.
+2. Bring steaming water to a boil in a steamer or wok, place the fish inside, cover, and steam for 8 to 10 minutes until cooked through.
+3. Whisk together soy sauce, sesame oil, and rice vinegar.
+4. Spoon the light dressing over the steamed fish and top with remaining fresh ginger and scallions.
+:::
+
+:::lang bn
+# স্মুর্ণা
+
+হালকা সাদা ঢেউে ভরা সাদা ঢেউ।
+
+## Instructions
+1. সামুদ্রিক মাছ গরম গরম গরম গরম গরম প্লেটে ভরে যায় এবং ভাস্করের অর্ধেক অংশ উপরে ছড়িয়ে দেয়।
+2. তাই, এতে অবাক হওয়ার কিছু নেই যে, এই মাছটার গতি কমে গিয়েছিল ।
+3. একসাথে সস, সস, সস, সস তেল আর চালের ভিনা।
+4. গরম মাছ এবং উপরের আলো যাতে তাজা গন্ধ ও শব্দ দিয়ে ঢেকে যায়।
+:::
+
+:::lang ur
+# سٹیمرڈ جھیل گنجر، سیcall اور سیموس کے ساتھ واقع ہے۔
+
+معاف کرنے والا سفید دریا جولینڈ آمیزے اور اسکیل کے اوپر ایک ہلکے سویم کے ساتھ ٹکراتا تھا۔
+
+## Instructions
+1. اِس کے بعد اُس نے اِس پر پانی ڈالا ۔
+2. جب تک اسے پکا نہ کر لیں ۔
+3. اِس کے علاوہ اِس میں تیل اور چاول کا تیل بھی شامل ہے ۔
+4. اِس کی وجہ یہ ہے کہ اِن میں سے زیادہ‌تر لوگ تازہ‌دم ہو جاتے ہیں ۔
+:::

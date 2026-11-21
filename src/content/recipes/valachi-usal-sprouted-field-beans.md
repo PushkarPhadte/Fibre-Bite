@@ -113,3 +113,42 @@ prepTimeEstimated: true
 4. कोकमच्या पाकळ्या, किसलेला गूळ, आणि ताजे किसलेले खोबरे घालून, 5 मिनिटे न उघडता उकळत ठेवा जेणेकरून चव मंद होईल.
 5. चिरलेली ताजी कोथिंबीर घालून संपवा आणि गरमागरम सर्व्ह करा.
 :::
+
+:::lang en
+# Konkani Valachi Usal (Sprouted Field Beans Curry)
+
+Protein- and fiber-rich Konkani curry of peeled sprouted field beans gently simmered with roasted coconut spices and tangy kokum.
+
+## Instructions
+1. Heat the sunflower oil in a deep pan over medium heat and crackle the mustard seeds and curry leaves for 20 seconds.
+2. Sauté the chopped onion for 4 minutes until golden, then add the diced tomato and goda masala-turmeric blend and cook 3 minutes.
+3. Fold in the hulled sprouted field beans, 300 ml of warm water, and salt, and simmer covered over low heat for 18 minutes until tender.
+4. Add the kokum petals, grated jaggery, and freshly grated coconut, simmering uncovered for 5 minutes to meld the flavors.
+5. Finish with chopped fresh cilantro and serve hot.
+:::
+
+:::lang bn
+# কঙ্কানি ভালচানি উসাল (সীম ফিল্ড বিন্স কারেজ)
+
+পেংকুম এবং ফাইবারী কনকানির মত উদবিড়াল মাঠের শিমগুলো কোমলভাবে নারিকেলের মসলা এবং টিয়াং কাকুম দিয়ে তৈরি।
+
+## Instructions
+1. সূর্যমুখী তৈলের ওপর প্রচুর পরিমাণে গরম এবং সরিষাদানার বীজ এবং ২০ সেকেন্ডের জন্য শুকিয়ে যায় ।
+2. সবুজ পর্যন্ত সাউতে চার মিনিট পর্যন্ত কাটা কাটছে, তারপর হাতে টমেটো আর দেবতা মাসালা-তুরিচ যোগ করে ৩ মিনিট রান্না করে।
+3. স্টর্স গাছের ডালে ভরে গিয়েছিল, ৩০০ মিটার গরম জল ও লবণের টুকরোয় ভরা গরম গরমের কারণে ১৮ মিনিটেরও বেশি গরম ছিল ।
+4. নারিকেলের স্বাদের সঙ্গে কীটপতঙ্গ যুক্ত করা হয়েছে?
+5. তাজা সিলিন্টো দিয়ে শেষ করে গরম করে দাও।
+:::
+
+:::lang ur
+# کنکانی ویلاچی واسال (Sproted Field Bens Curry)
+
+پرتین- اور پلاسٹک سے چلنے والا کونکانی کاؤن کے میدان کے دانوں نے نرم کر دیا تھا جس میں گرم ناریل کی خوشبواں اور ٹانگی کوکوم سے بھرا ہوا تھا۔
+
+## Instructions
+1. سورج‌مکھی کے تیل کو درمیان میں گرم گرم کِیا جاتا ہے ۔
+2. Sauté the onion ony 4 منٹ تک سونے کے سکے تک، اس کے بعد انفنٹری ٹماٹر اور دیوتا ماسالا-تورمی ملا کر 3 منٹ تک پکایا جاتا ہے۔
+3. اِس کی وجہ یہ تھی کہ اِن میں سے زیادہ‌تر لوگ اِس علاقے میں رہتے تھے ۔
+4. کوکوم پترال میں شامل کرتے ہیں ، اُن کی خوب‌صورت ناریل اور ناریل کو ملا دیتے ہیں ۔
+5. اِس کی وجہ یہ ہے کہ اُس نے اُن کی مدد کی ۔
+:::

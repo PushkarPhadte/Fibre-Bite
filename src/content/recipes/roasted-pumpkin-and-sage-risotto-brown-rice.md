@@ -92,3 +92,39 @@ prepTimeSource: 'https://www.bbcgoodfood.com/recipes/pumpkin-sage-risotto'
 3. गरम भाज्यांचा स्टॉक हळूहळू, प्रत्येक वेळी एक कप घालत राहा; स्टॉक शोषला जाईपर्यंत आणि तांदूळ मऊ होईपर्यंत सतत ढवळा (सुमारे 40 मिनिटे)।
 4. भोपळ्याची प्युरी आणि परमेसन चीज घालून क्रीमी होईपर्यंत ढवळा; मीठ घालून चव आणा आणि सर्व्ह करा।
 :::
+
+:::lang en
+# Roasted Pumpkin and Sage Risotto (Brown Rice)
+
+A wholesome whole-grain risotto made with brown rice, roasted pumpkin puree, fresh sage, and parmesan.
+
+## Instructions
+1. Heat olive oil in a pot and sauté onion, garlic, and chopped sage until fragrant.
+2. Add brown rice and stir for 2 minutes.
+3. Gradually add warm vegetable broth one cup at a time, stirring constantly until absorbed and rice is tender (about 40 minutes).
+4. Stir in pumpkin puree and parmesan cheese until creamy; season with salt and serve.
+:::
+
+:::lang bn
+# পুমকিন এবং সেজ রিসটটো (বৌন চাল)
+
+বাদামি ভাত, কুমড়া বিশুদ্ধি, তাজা শামুক, আর প্যােসান।
+
+## Instructions
+1. একটা পাত্রের উপর হেট জিতবৃক্ষের তেল, রসুন ও শূককীট দিয়ে কাটা হতো ।
+2. বাদামি ভাত যোগ করো আর ২ মিনিট জেগে উঠবে।
+3. ধীরে ধীরে উষ্ণ সবজির সঙ্গে এক কাপ খেতে খেতে খেতে খেতে খেতে খেতে খেতে শুরু করে ।
+4. কুমীরে বিশুদ্ধি এবং পারসেন পনির যতক্ষণ না ক্রিমি হয়; লবণ ও পরিবেশনের সময় হয় ।
+:::
+
+:::lang ur
+# داخلی پمپکین اور سیج ریستو (Brown Rice)
+
+بھورے چاول سے بنے ہوئے ایک صحتمند مکمل جگر، گرم پمپین خالصہ، تازہ سیج اور پرمسان سے بنے ہوئے ہیں۔
+
+## Instructions
+1. یہاں تک کہ خوشبودار زیتون کے تیل میں زیتون کا تیل اور صابن بھی تیار کِیا جاتا ہے ۔
+2. بھورے چاول شامل کریں اور 2 منٹ تک حرکت کریں۔
+3. آہستہ آہستہ ایک زمانے میں گرم پودوں کے ایک کپ کو شامل کِیا جاتا ہے ، یہاں تک کہ وہ باقاعدگی سے ورزش کرتے ہیں ۔
+4. یہاں تک کہ کریمیّی تک پمپ‌کین خالص اور پَروں کا ذائقہ ؛ نمک اور خدمت کا موسم ہوتا ہے ۔
+:::

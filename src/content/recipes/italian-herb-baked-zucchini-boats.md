@@ -92,3 +92,39 @@ prepTimeEstimated: true
 3. त्यात मरीनारा सॉस मिसळा आणि हे मिश्रण चमच्याने झुकिनीच्या बोटींमध्ये परत भरा.
 4. वर परमेजान चीज घाला आणि 190°C (375°F) तापमानावर 20 मिनिटे बेक करा.
 :::
+
+:::lang en
+# Italian Herb Baked Zucchini Boats
+
+Halved zucchini hollowed and stuffed with diced vegetables, marinara sauce, and baked with a sprinkle of parmesan.
+
+## Instructions
+1. Scoop out flesh from halved zucchini to create hollow boats.
+2. Chop scooped flesh and sauté with bell peppers, Italian seasoning, and olive oil.
+3. Mix in marinara sauce and spoon back into zucchini boats.
+4. Top with parmesan cheese and bake at 190°C (375°F) for 20 minutes.
+:::
+
+:::lang bn
+# ইতালির হার্বড জুচিনি নৌকা
+
+হ্যালভড জুচিনিকে ফাঁপা করা হয়েছে আর হাতে সস, মারিনারা সস, আর সে প্যারেসান দিয়ে তৈরি।
+
+## Instructions
+1. নকল মাংস থেকে মাংস বের করো.
+2. মাংসে ঝোঁক দিয়ে মরিচ, ইতালীয় মৌসুম এবং জলপাই তেল।
+3. মারিনারা সস আর চামচের সস।
+4. পেরমসান পনির আর কেকের উপরে ২০ মিনিট ধরে।
+:::
+
+:::lang ur
+# اطالوی ہرب زکینی بھٹ
+
+اِس لئے اُس نے اُن سے کہا : ” اَے [ یہوواہ ] !
+
+## Instructions
+1. اِس لئے اُس نے اُن کی مدد کی ۔
+2. اِس کے بعد اُن کا گوشت ، زیتون کا تیل اور زیتون کا تیل تیار کِیا گیا ۔
+3. مارینرا پستانوں میں ٹیکس واپس بحری جہازوں میں چلا جاتا ہے ۔
+4. سب سے اوپر پیرمسن پنیر کے ساتھ اور 190°C (375°F) پر 20 منٹ کے لیے۔
+:::

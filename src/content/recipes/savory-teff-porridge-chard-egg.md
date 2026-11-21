@@ -101,3 +101,39 @@ prepTimeEstimated: true
 3. चिरलेले स्विस चार्डचे देठ आणि कापलेला लसूण ऑलिव्ह तेलात 3 मिनिटे परता. नंतर चार्डची पाने आणि लिंबाचा रस घालून पाने कोमेजेपर्यंत 2 मिनिटे शिजवा.
 4. गरम टेफची लापशी वाट्यांमध्ये वाढा, वर लसूण घालून परतलेला स्विस चार्ड ठेवा आणि प्रत्येक वाटीत अर्धे उकडलेले अंडे घालून सजवा.
 :::
+
+:::lang en
+# Savory Ethiopian Teff Porridge with Swiss Chard and Soft-Boiled Egg
+
+Calcium- and iron-rich whole-grain teff breakfast bowl topped with garlicky sautéed Swiss chard, toasted cumin, and a jammy soft-boiled egg.
+
+## Instructions
+1. Dry-toast the teff grains in a saucepan over medium heat for 2 minutes until nutty, add the vegetable broth and cumin-pepper blend, and simmer covered on low heat for 15 minutes until creamy.
+2. Lower the eggs into gently boiling water for 6.5 minutes for jammy yolks, transfer immediately to cold water, and peel.
+3. Sauté the diced Swiss chard stems and sliced garlic in olive oil for 3 minutes, then add the chard leaves and lemon juice and cook 2 minutes until wilted.
+4. Divide the warm teff porridge into bowls, pile the garlicky Swiss chard on top, and finish each bowl with a halved soft-boiled egg.
+:::
+
+:::lang bn
+# সাভোরির ইথিওপিয়া তেফ রিজ সুইস রড আর নরম গগ দিয়ে
+
+ক্যালসিয়াম- আর আয়রন টেংফ নাস্তার কাপের সাথে মিলে রসুনকি সৌতড, টোটামিন আর একটা নরম ডিম।
+
+## Instructions
+1. ড্রি-ট আলু থেকে দুই মিনিটের বেশি গরমের জন্য সসিয়ামের ট্রোপ ব্যবহার করা হয়।
+2. ডিমগুলো কোমলভাবে ৬.৫ মিনিটের জন্য ফুটন্ত জলে ফুটতে নেমে পড়ে, দ্রুত ঠাণ্ডা জলের দিকে চলে যায় এবং ঠাণ্ডা জল নিয়ে যায় ।
+3. সউউতে সউদি সুইজারল্যান্ডের লালিত তেল তেল তেলে তিন মিনিট তেলে লাল রসুনের তেলে এবং এর সাথে পাতা পাতা এবং লেবুর রস যোগ করেন।
+4. এই উষ্ণ টেফ পরছে বাটি, রসুনকি সুইস বুলেটকে উপরে বেঁধে, আর প্রত্যেকটা বাটি দিয়ে শেষ করা হবে নরম ডিম দিয়ে।
+:::
+
+:::lang ur
+# ساہیوال ایتھوپیائی طیف پوٹھوہاری کے ساتھ سوئز کارڈ اور سوفٹ-بلائڈ ایج کے ساتھ
+
+کیلشیئم- اور لوہے بھر میں پکائے جانے والے ٹائیف کھانے کے کھانے کے پیالے کو جنہیں لہسنکی ساوتائڈ سویس کی شکل دی جاتی ہے، توسطین اور ایک جممی نرم بوائل انڈے سے لپیٹا جاتا ہے۔
+
+## Instructions
+1. دو منٹ تک درمیانے درجہ حرارت کے حساب سے دو منٹ کے لیے ڈریک کے دانے، سبزیوں کے بُرّت اور ریشمی ذرات ملا کر 15 منٹ تک کم درجہ حرارت پر چھا جاتا ہے۔
+2. اِنڈوں کو آسانی سے گرم پانی میں رکھیں ۔
+3. اسکے بعد اُس کے پتوں اور ٹماٹروں کو اُس وقت تک پکایا جاتا ہے جب تک کہ اُس کا ذائقہ ۲ منٹ تک تبدیل نہ ہو جائے ۔
+4. اسکے بعد ، لہسن کی سوئیوں کو اوپر سے گِرا دیا جاتا ہے ۔
+:::

@@ -80,3 +80,36 @@ prepTimeEstimated: true
 2. शेवटच्या 3 मिनिटांसाठी बदाम घाला.
 3. वरून लिंबाचा रस पिळा आणि वाढा.
 :::
+
+:::lang en
+# Roasted Broccoli with Almonds and Lemon
+
+A simple side of high-heat roasted broccoli with toasted almonds, garlic and lemon.
+
+## Instructions
+1. Toss the broccoli, garlic, oil, chilli and salt on a tray and roast at 220 °C for 15 minutes.
+2. Add the almonds for the last 3 minutes.
+3. Squeeze over the lemon juice and serve.
+:::
+
+:::lang bn
+# আল্‌মন্ড ও লেবুর সাথে ঝক্‌লি
+
+উচ্চ-শিক্ষিত ব্রোকোলির একটি সহজ দিক, যেখানে টোস্ট করা আলমন্ড, রসুন এবং লেবু।
+
+## Instructions
+1. রসুন, তেল এবং লবণকে আগুনের মধ্যে ১৫ মিনিটের জন্য ২২০ কিলোতে রান্না করা হয়।
+2. শেষ ৩ মিনিটের জন্য আলমন্ডল যোগ করো ।
+3. লেবুর জুস আর সেবা নিয়ে যাও।
+:::
+
+:::lang ur
+# المنڈس اور لیمون کے ساتھ براکلولی داخل ہوا۔
+
+اونچی چوٹی کے ایک سادہ سا پہلو میں مونگ پھلی، لہسن اور لہسن کے ساتھ پکایا گیا۔
+
+## Instructions
+1. اِس کی وجہ یہ ہے کہ اُس نے اِس بات کا ذکر کِیا کہ اُس نے اُس کی مدد کی ہے ۔
+2. گزشتہ 3 منٹ کے لیے بادام شامل کریں۔
+3. مونگ‌پھلی کے جوس پر چوٹ لگی اور اُس کی خدمت کی ۔
+:::

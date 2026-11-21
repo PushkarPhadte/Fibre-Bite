@@ -104,3 +104,39 @@ prepTimeEstimated: true
 3. एका भांड्यात बेबी पालक, आर्टिचोक हार्ट्स, ऑलिव्ह, ऑलिव्ह तेल आणि लिंबाचा रस एकत्र करून पालक किंचित कोमेजेपर्यंत हलक्या हाताने मिसळा.
 4. शिजवलेले चिकन ब्रेस्ट कापून आर्टिचोक-पालकाच्या मिश्रणावर वाढा.
 :::
+
+:::lang en
+# Poached Chicken Breast with Artichokes and Olives
+
+Gentle herb-poached chicken breast served over marinated artichoke hearts, Kalamata olives, and baby spinach.
+
+## Instructions
+1. Place chicken breasts in a shallow skillet with smashed garlic and enough water to barely cover.
+2. Bring to a gentle simmer over medium-low heat, cover, and poach for 12 to 15 minutes until internal temperature reaches 74 C.
+3. In a bowl, toss baby spinach, artichoke hearts, olives, olive oil, and lemon juice until spinach slightly wilts.
+4. Slice the poached chicken and serve over the artichoke and spinach mixture.
+:::
+
+:::lang bn
+# আর্তকিস ও অলিভের সাথে পচিং মুরগির ব্রেট
+
+কোমলভাবে বলা যায়, মুরগির বুকের বুক মারকাজের জন্য হৃৎপিণ্ড হৃদয়, সালামা জলপাই আর শিশু ঘুরে বেড়ায়।
+
+## Instructions
+1. মুরগির বুকটা একটা অগভীর দক্ষতায় ভরে গেছে, রসুনের সাথে... ...আর যথেষ্ট পানিও নেই।
+2. মাঝারি-লো গরম, কভার আর পলিকে ১২ থেকে ১৫ মিনিটের জন্য নিয়ে এসো যতক্ষণ না অভ্যন্তরীণ তাপমাত্রা ৭৪ সিতে পৌঁছায়।
+3. এক বাটি বাটি বাটিপোকার বাটি, বাচ্চার বুকের হাড়, জলপাই, জলপাই এবং লেবুর জুসে, যতক্ষণ না সামান্য পরিমাণ পানি আসে ততক্ষণ পর্যন্ত তা বের হয় ।
+4. মুরগির মাংস টুকরো করে আর অপেশাদার সাথে কাজ করে.
+:::
+
+:::lang ur
+# اِن میں سے ایک کا نام ہے ۔
+
+مہربانہ جڑی بوٹیوں والے مرغیوں کا سینہ مریخی آرٹشیوک دل، کالامتا زیتون اور بچہ رینچ کی خدمت کرتا تھا۔
+
+## Instructions
+1. مونگ‌پھلی کے اندر مرغی کے سینے کو خراب کرنے والے لہسن اور کافی پانی فراہم کریں ۔
+2. درمیانے درجہ حرارت، غلاف اور پوکی 12 سے 15 منٹ تک نرم رفتار تک لانا یہاں تک کہ اندرونی درجہ حرارت 74 سی تک پہنچ جاتا ہے۔
+3. ایک پیالے میں بچے کی ریڑھ کی ہڈی ، آرٹکیک دل ، زیتون ، زیتون کا تیل اور پروٹین کا رس اس وقت تک قائم رہتا ہے جب تک اس میں تھوڑی مقدار میں ردوبدل نہ ہو ۔
+4. پُرکی پرندے کو ملا کر اِس میں پائی جانے والی آمیزش کی خدمت کرتے ہیں ۔
+:::

@@ -113,3 +113,42 @@ prepTimeEstimated: true
 4. प्रत्येक खळगा दोन-तृतीयांश पिठाने भरा, झाकण ठेवून मध्यम-कमी आचेवर 3 मिनिटे शिजवा; मग उलटून सर्व बाजूंनी सोनेरी होईपर्यंत शिजवा.
 5. टोमॅटो किंवा नारळाच्या चटणीसोबत गरम वाढा.
 :::
+
+:::lang en
+# Mixed Millet Kuzhi Paniyaram
+
+Fermented millet and urad dumplings cooked in a paniyaram pan with very little oil, with onion, carrot and curry leaves.
+
+## Instructions
+1. Soak the millet and urad dal separately for 4 hours, then grind together with the water to a smooth, slightly thick batter. Ferment overnight.
+2. Stir in the salt, onion, carrot, chilli, ginger, curry leaves and coriander.
+3. Heat a paniyaram pan, add a few drops of oil to each hollow and crackle a few mustard seeds in the pan.
+4. Fill each hollow two-thirds with batter, cover and cook on medium-low heat for 3 minutes, then turn and cook until golden all over.
+5. Serve warm with tomato or coconut chutney.
+:::
+
+:::lang bn
+# আয়োতজি
+
+ফলে প্রচুর পরিমাণে তেল, শূককীট এবং শূককীট পাতা রান্না করা হয়।
+
+## Instructions
+1. সা. কা. রাতে বিনোদন।
+2. লবণ, লণ্ঠন,rttt, sypy, sysyse, পাতা পাতা এবং রিয়ান্ডার।
+3. একটি প্যানিয়ারাম প্যান, যা প্যানের কয়েকটি বীজের প্রত্যেকটা ফাঁতে কয়েক ফোঁটা তেল যোগ করে।
+4. প্রতিটি ফাঁপা অংশে তিন- তৃতীয়াংশ করে নির্যাতন, পরিমাপ করা এবং তিন মিনিটের জন্য রান্না করা হয়, তারপর সব শেষ হয়ে যায় এবং রান্না করে।
+5. টমেটো বা নারিকেল চুটনির সাথে খেতে খাও।
+:::
+
+:::lang ur
+# مسقط کوژی پنیارام
+
+اِس کے علاوہ اِن میں تیل بھی شامل ہوتا ہے ۔
+
+## Instructions
+1. چار گھنٹے الگ، پھر پانی کے ساتھ مل کر ایک ہموار، تھوڑی سی موٹی چوٹوں تک. رات کی تاریکی ۔
+2. نمک ، اونین ، سُرخ ، سُرخ ، سُرخ ، جِلد ، سُرخ پتوں اور کوریان میں نمک کی مقدار زیادہ ہوتی ہے ۔
+3. ایک پنجابی پین میں تیل کے چند قطرے شامل ہوتے ہیں ۔
+4. ہر ایک دو تہائی حصے میں مارپیٹ، کپڑے اور رکھ کر 3 منٹ تک درمیانے درجہ حرارت پر پکایا، پھر واپس مڑ کر سونے تک پکایا۔
+5. ٹماٹروں یا ناریل کے چیتوں سے پُر ہوکر خدمت انجام دیں ۔
+:::

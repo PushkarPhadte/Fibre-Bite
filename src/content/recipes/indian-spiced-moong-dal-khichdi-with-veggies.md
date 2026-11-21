@@ -94,3 +94,39 @@ prepTimeSource: 'https://www.vegrecipesofindia.com/moong-dal-khichdi-recipe/'
 3. धुतलेली डाळ, तांदूळ, मिश्र भाज्या, हळद, मीठ आणि पाणी घाला.
 4. झाकण ठेवून 25 मिनिटे मंद आचेवर शिजवा; मध्ये मध्ये ढवळत राहा, खिचडी लापशीसारखी होऊन मऊ शिजेपर्यंत.
 :::
+
+:::lang en
+# Indian Spiced Moong Dal Khichdi with Veggies
+
+A comforting Ayurvedic one-pot meal made of yellow moong dal, rice, mixed vegetables, and gentle spices.
+
+## Instructions
+1. Rinse moong dal and rice together until water runs clear.
+2. Heat ghee in a pot and splutter cumin seeds.
+3. Add rinsed dal, rice, mixed vegetables, turmeric, salt, and water.
+4. Simmer covered for 25 minutes, stirring occasionally until porridge-like and tender.
+:::
+
+:::lang bn
+# ভেগ সহ ভারতীয় Speclickchi এর সঙ্গে ভারতীয় VNC
+
+একটি সান্ত্বনাদায়ক খাবার, যা হলুদ চাঁদা ডিলা, চাল, মিশ্র সবজি, এবং কোমল মসলা দিয়ে তৈরি।
+
+## Instructions
+1. পানি শেষ না হওয়া পর্যন্ত সে মুনগ ডিলা আর ভাত একসঙ্গে চাল দেয়।
+2. একটি পাত্রের মধ্যে হেট জুটি এবং চিতাবাঘ বীজ।
+3. আপনি কি মনে করতে পারেন?
+4. সমর ২৫ মিনিট ধরে ঢাকা ছিল, মাঝে মাঝে গাঁথারের মত আর কোমল না হওয়া পর্যন্ত।
+:::
+
+:::lang ur
+# ویجیز کے ساتھ ہندوستانی اسپائزڈ موہن دُل کِچیڈی
+
+ایک تسلی بخش Ayurvedic یک کھانے جو پیلے چاند ڈل، چاول، مخلوط سبزیوں اور لطیفوں سے بنا تھا۔
+
+## Instructions
+1. رینسے چاند ڈل اور چاول مل کر جب تک پانی صاف نہ ہو جائے۔
+2. ایک برتن میں ہیٹ گِر اور پھولدار بیج ۔
+3. اس میں دال، چاول، مخلوط سبزی، ٹرمیر، نمک اور پانی شامل ہیں۔
+4. سمر نے 25 منٹ تک چھپا رکھا، وقتاً فوقتاً جب تک کہ اس کی شکل میں اور نرم ہو۔
+:::

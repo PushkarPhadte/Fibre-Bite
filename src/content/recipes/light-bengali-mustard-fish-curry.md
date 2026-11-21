@@ -96,3 +96,36 @@ prepTimeEstimated: true
 2. तेल मंद आचेवर गरम करा. पेस्ट, हळद, मीठ आणि उरलेले पाणी घालून उकळी येऊ द्या.
 3. मासे घालून 8 मिनिटे शिजवा आणि वरून चमच्याने रस्सा घालत राहा; कोथिंबिरीने सजवा.
 :::
+
+:::lang en
+# Light Bengali Mustard Fish Curry
+
+Tilapia simmered in a sharp ground-mustard and green chilli sauce, Bengali style.
+
+## Instructions
+1. Grind the mustard seeds with the chillies and 60 ml water to a smooth paste.
+2. Heat the oil gently, add the paste, turmeric, salt and the remaining water and bring to a simmer.
+3. Add the fish and cook for 8 minutes, spooning the sauce over; garnish with coriander.
+:::
+
+:::lang bn
+# হালকা বাংলা অক্ষর কারী
+
+বাংলার স্টাইলে টিলাপিয়া সিমরির উজ্জ্বল স্থলের দিকে যাওয়া উচিত।
+
+## Instructions
+1. এক সহজ পেস্ট পেস্টের সাথে সরিষার বীজের সাথে মিশিয়ে দাও।
+2. তেল হালকাভাবে, পেস্টি, লবণ এবং অবশিষ্ট পানি যোগ করে এবং একটি চিরকুট নিয়ে আসে।
+3. মাছ আর রান্না করুন ৮ মিনিটের জন্য, সস দিয়ে; কোরিয়ান্ডারের সাথে।
+:::
+
+:::lang ur
+# روشنی بنگالی متون مچھلی کیوری
+
+تِلپّا نے ایک تیز رفتار زمیندار اور ہرے رنگ کے سبز رنگ کے برتن، بنگالی انداز میں قدم رکھا۔
+
+## Instructions
+1. اِس کے بعد اُس نے اِن بیجوں کو اِستعمال کِیا ۔
+2. تیل کو نرم کرنے کے لئے پہلے ، پانی ، نمک اور باقی پانی کو شامل کرنا اور اسے صاف کرنا شامل ہے ۔
+3. مچھلیوں کو ملا کر 8 منٹ تک پکایا جاتا ہے ۔
+:::

@@ -99,3 +99,42 @@ prepTimeEstimated: true
 4. झाकणाच्या भांड्यात जाळी ठेवून वाट्या 45 मिनिटे वाफेवर शिजवा; मध्यभाग घट्ट होईपर्यंत शिजू द्या.
 5. 5 मिनिटे तसेच ठेवून मग गरमागरम वाढा.
 :::
+
+:::lang en
+# Moi Moi (Nigerian Steamed Black-Eyed Pea Pudding)
+
+Soft, savoury steamed pudding of blended black-eyed peas, red pepper and onion: a protein-rich West African classic that needs no frying.
+
+## Instructions
+1. Soak the peas for 2 hours, rub off the skins in a bowl of water and drain.
+2. Blend the peas, capsicum, onion, tomato, chilli and warm water to a smooth, thick batter. Stir in the oil and salt.
+3. Pour into 4 greased ramekins or small heatproof bowls, filling three-quarters and cover each with foil.
+4. Steam in a covered pot with a rack for 45 minutes until firm in the centre.
+5. Rest for 5 minutes and serve warm.
+:::
+
+:::lang bn
+# মো মো মোই (নাইজেরিয়ান স্টেমড ব্লাক-ইড পিং)
+
+কোমল, রক্তশর্করা কালো নখ, লাল মরিচ এবং শ্যাম্পিয়ান ব্যবহার করে: একটি প্রোটিন সমৃদ্ধ ওয়েস্ট আফ্রিকান ক্লাসিক, যার কোন ফুরানোর দরকার নেই।
+
+## Instructions
+1. সক্কেয় ২ ঘন্টা ধরে মটরশুঁটি করে জল ও জলে ফুটতে থাকে ।
+2. তাই, এতে অবাক হওয়ার কিছু নেই যে, এদের মধ্যে বেশির ভাগ লোকই আখ খেতে পারে । তেল আর লবণে সাদা।
+3. ৪ টন ভেড়ার চামড়া বা ছোট গরমপ্রুফ বা ছোট ছোট ছোট বড় বড় বায়ক বা পাত্রের মধ্যে ঢালে।
+4. মৃগী বা পাত্রের মধ্যে মাটির পাত্র ৪৫ মিনিটের জন্য বাঁধা থাকে।
+5. ৫ মিনিট বিশ্রাম নাও আর গরম করো।
+:::
+
+:::lang ur
+# موئی موئی (انگریزی: Nigerian Stemed Black-Eyed Pea Puding) ہے۔
+
+Soft، Savoury نے ملانے والے سیاہ آنکھوں والی پیپس، سرخ رنگ اور اونی : ایک پروٹین- رچ مغربی افریقی کلاسیکی جس کی ضرورت نہیں ہوتی۔
+
+## Instructions
+1. اِس کے بعد اُس کی کھال صاف ہو جاتی ہے ۔
+2. اِس کی وجہ یہ ہے کہ اُس نے اِس پر حملہ کِیا ۔ تیل اور نمک میں پکایا جاتا ہے۔
+3. 4 زہریلے رمکینز یا چھوٹے حرارتی پٹیوں میں اُٹھا کر تین مربعوں کو بھر دیا اور ہر ایک کو اُوپر سے ڈھانپ دیا۔
+4. مرکزے میں 45 منٹ تک ایک ڈھالا ہوا برتن میں رکھا جائے گا.
+5. 5 منٹ آرام کرتے ہیں اور گرم خدمت کرتے ہیں۔
+:::

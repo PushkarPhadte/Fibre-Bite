@@ -82,3 +82,36 @@ prepTimeSource: 'https://www.cookinglight.com/recipes/citrus-herb-grilled-chicke
 2. चिकन ब्रेस्ट घालून किमान ३० मिनिटे मुरू द्या.
 3. ग्रिल मध्यम-उच्च आचेवर गरम करा. चिकन प्रत्येक बाजूने ६–७ मिनिटे ग्रिल करा, ते पूर्ण शिजेपर्यंत.
 :::
+
+:::lang en
+# Citrus Herb Grilled Chicken Breast
+
+Juicy chicken breast marinated in orange juice, lemon zest, rosemary, and thyme, then grilled to perfection.
+
+## Instructions
+1. Whisk orange juice, lemon juice, olive oil, rosemary, and thyme in a bowl.
+2. Add chicken breasts and marinate for at least 30 minutes.
+3. Preheat grill to medium-high heat and grill chicken for 6-7 minutes per side until fully cooked.
+:::
+
+:::lang bn
+# কা. পূ.
+
+রসালো মুরগির বুক কমলার রসে, লেবুর রস, গোলাপ, গোলাপ, গোলাপ এবং আপনার রসালো, এরপর সিদ্ধতায় ভরে যায় ।
+
+## Instructions
+1. কমলার জুস, লেবুর জুস, জলপাই, গোলাপ, এবং তোমার বেটি।
+2. মুরগির বুক যোগ করো আর অন্তত ৩০ মিনিট লাগবে।
+3. মাঝারি তাপ এবং গ্রিল মুরগির মাংস সম্পূর্ণ রান্না না হওয়া পর্যন্ত প্রতি মিনিটে ৬-৭ মিনিট করে।
+:::
+
+:::lang ur
+# Citrus Herb Gilled Chicken space –
+
+اِس کے بعد اُس نے اِس بات پر زور دیا کہ اُس کے جسم میں کوئی نقص نہیں ہے ۔
+
+## Instructions
+1. اِس کا مطلب ہے کہ اِس کا ذائقہ اِس بات پر اثرانداز ہوتا ہے کہ اُس نے اُن کے ساتھ کھانا کھایا ۔
+2. کم‌ازکم ۳۰ منٹ تک مرغی کے سینے اور مرکب کو شامل کریں ۔
+3. جب تک مکمل طور پر پکا نہ لیا جائے۔
+:::

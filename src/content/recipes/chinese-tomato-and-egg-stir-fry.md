@@ -113,3 +113,39 @@ prepTimeEstimated: true
 3. उरलेले 4 मिली सूर्यफूल तेल घाला. पातीच्या कांद्याचा पांढरा भाग, चिरलेला लसूण आणि आले 30 सेकंद परता; मग टोमॅटोच्या फोडी आणि उरलेले मीठ घालून 4 मिनिटे परता, टोमॅटो रसाळ होऊन सॉस तयार होईपर्यंत.
 4. मऊ अंडी पुन्हा वोकमध्ये घालून टोमॅटोच्या सॉसमध्ये 30 सेकंद हलक्या हाताने मिसळा. वरून भाजलेल्या तिळाचे तेल घाला आणि पातीच्या कांद्याची हिरवी पाने पेरा.
 :::
+
+:::lang en
+# Chinese Tomato and Soft Egg Stir-Fry (Fanqie Chao Dan)
+
+Beloved everyday Chinese home-cooked dish folding tender, velvety softly scrambled eggs into a juicy, lightly garlicky stir-fried ripe tomato and scallion sauce.
+
+## Instructions
+1. Beat the eggs with 0.5 g of salt and 15 ml of water so they stay extra fluffy and tender.
+2. Heat 8 ml of sunflower oil in a wok or nonstick skillet over medium-high heat, pour in the eggs, push gently into soft curds for 45 seconds until 80% set, and immediately slide onto a plate.
+3. Add the remaining 4 ml of sunflower oil, sauté the scallion whites, sliced garlic, and ginger for 30 seconds, then stir-fry the tomato wedges and remaining salt for 4 minutes until juicy and saucy.
+4. Return the soft eggs to the wok, fold gently into the tomato sauce for 30 seconds, drizzle with toasted sesame oil, and scatter with scallion greens.
+:::
+
+:::lang bn
+# চীনা টমেটো এবং নরম Egsir-Fri (ফানকি চাও)
+
+প্রিয় প্রতিদিনের চীনারা কোমল ভাবে রান্না করে, নিরামিষভোজী করে ডিম বের করে এক নিরামিষভোজী ডিম বের করে।
+
+## Instructions
+1. ডিমগুলো 16.5 লবণ ও ১৫ মিটার জল দিয়ে আঘাত করে, যাতে তারা অতিরিক্ত জ্বর ও কোমল থাকে ।
+2. ৮ মিটার উচ্চতায় সূর্যমুখী তেলের তেল, মাঝারি তাপমাত্রার উপরে, ডিমের উপর ঢালতে হবে, ৮০% পর্যন্ত কোমলভাবে সংরক্ষিত ৪৫ সেকেন্ডের জন্য কোমলভাবে সংরক্ষিত অবস্থায় নিয়ে আসতে হবে, এবং দ্রুত একটা প্লেটের মধ্যে স্লাইড করতে হবে।
+3. ৪ মিটার ফুলের তেল, সসেজ সাদা রসুন এবং ৩০ সেকেন্ডের জন্য ডোরাকাটা, তারপর টমেটো ভেজানো আর ৪ মিনিট লবণে ভরা।
+4. নরম ডিমটি ফেরত দাও, ৩০ সেকেন্ড টমেটো সস দিয়ে নিয়ে যাও, টোকেড সস তেল দিয়ে,
+:::
+
+:::lang ur
+# چین توماتو اور سوفٹ ایگگ اوبلاست-فری (Fanqie Chao Dan) (چینی:  Dan) ہے۔
+
+عام طور پر چین کے گھر کے کھانے کے لیے کھانا تیار کرتے ہیں، آہستہ آہستہ انڈوں کو ایک برتن میں تبدیل کر دیا جاتا ہے، تھوڑا سا لہسن پکا کر پکایا جاتا ہے تازہ ٹماٹروں کو پکایا جاتا ہے
+
+## Instructions
+1. انڈوں کے انڈے 0.5 گرام نمک اور 15 ملی میٹر پانی کے ساتھ اس طرح وہ غیر معمولی اور نرم رہتے ہیں۔
+2. سورج کے تیل کی 8 ملی میٹر سطح پر ایک ووک یا غیر معمولی مقدار میں درمیانے درجہ حرارت کے اوپر، انڈوں میں ڈال کر نرمی سے 45 سیکنڈ تک نرم گردوں میں پہنچ جاتے ہیں یہاں تک کہ 80% سیٹ تک، اور فوری طور پر ایک پلیٹ پر انڈے دیتے ہیں۔
+3. سورج کے تیل کے باقی 4 ملی گرام میں شامل کریں، Saute the Stallion Whites, vood and spined 30 سیکنڈ کے لیے، اس کے بعد ٹماٹروں کو منتقل کیا جائے اور 4 منٹ تک نمک میں محفوظ رہے۔
+4. اِس کے بعد اِنڈوں کو اُبال کر ۳۰ سیکنڈ کے لئے ٹماٹر کے آٹے میں ڈال دیں ۔
+:::

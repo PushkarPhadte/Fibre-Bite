@@ -127,3 +127,42 @@ prepTimeEstimated: true
 4. हरभरे, आमचूर, मीठ आणि घट्ट करी होण्यासाठी पुरेसे राखून ठेवलेले पाणी घाला. 15 मिनिटे मंद आचेवर शिजवा; घट्टपणा येण्यासाठी काही हरभरे हलकेच कुस्करून घ्या.
 5. शेवटी लिंबाचा रस आणि कोथिंबीर घाला. भात किंवा संपूर्ण धान्याच्या पोळीसोबत गरम वाढा.
 :::
+
+:::lang en
+# Chana Masala
+
+A homestyle Punjabi chickpea curry simmered with tomatoes, ginger, amchur, and warming spices.
+
+## Instructions
+1. Soak chickpeas overnight, drain, and pressure-cook in fresh water until tender. Reserve some cooking liquid.
+2. Heat oil in a pan and cook the onion until golden. Add ginger and garlic and stir for 1 minute.
+3. Add cumin, coriander, and chana masala powder. Stir briefly, then add tomatoes and cook until they break down into a thick masala.
+4. Add chickpeas, amchur, salt, and enough reserved liquid to make a thick curry. Simmer for 15 minutes, lightly mashing a few chickpeas to thicken.
+5. Finish with lemon juice and cilantro. Serve hot with rice or whole-grain flatbread.
+:::
+
+:::lang bn
+# চানা মাসলা
+
+একটা বাড়ির স্টাইল, পাঞ্জাবী মুরগিরা টমেটো, ভোদড়, আঙ্গুর আর গরম মসলা দিয়ে তৈরি ।
+
+## Instructions
+1. একরাতে রাতের বেলা, ড্রেনিং আর চাপ আরো বেড়ে যায় যতক্ষণ না কোমল পানি। রান্না করার জন্য কিছু রান্না করো.
+2. একটি প্যানের উপর তাপ উৎপাদন এবং সোনার আগ পর্যন্ত রান্না। ডোরাকাটা আর রসুন আর ১ মিনিটের জন্য উত্তেজিত হবে।
+3. ডিম্বন, কোরিয়ান্ডার এবং চাওয়ালা পাউডার যোগ করো। একটু একটু করে, এরপর টমেটো আর রান্না করুন, যতক্ষণ না তারা মোটা মাসালা ভেঙ্গে ফেলে ।
+4. মৌমাছিরা, আচুর, লবণ এবং ঘন পরিমাণে জল তৈরি করার জন্য যথেষ্ট পরিমাণে রান্না করে । ১৫ মিনিটের জন্য সিমমার, হালকা করে কিছু মুরগিকে মোটা করে দেয়।
+5. লেবু জুস আর সিলেক্টোর সাথে শেষ। ভাত অথবা পুরো ফ্লাট রুটির সাথে খেতে থাকো।
+:::
+
+:::lang ur
+# چنا ماسلا
+
+اِس کے علاوہ اِس میں ٹماٹر ، آمیزش ، ایمچور اور خوشبودار خوشبوئیں بھی شامل ہیں ۔
+
+## Instructions
+1. جب تک نرم پانی میں سوک اوورپس رات، سرمایا کاری اور دباؤ کا شکار ہو جاتا ہے۔ کچھ کھانے کو پکانے کا پانی واپس بھیجیں ۔
+2. ایک پن میں ہیٹ کا تیل اور سونے تک اون کو پکایا۔ آمیزش اور لہسن کو ملا کر ۱ منٹ تک منتقل ہو جاتے ہیں ۔
+3. اِس کے علاوہ اِس میں اَور بھی بہت سے لوگ شامل ہیں ۔ تھوڑی دیر بعد ٹماٹروں کو ملا کر پکا کر رکھ دیں جب تک وہ ایک موٹی ماسا میں نہ پڑیں ۔
+4. اِس کے علاوہ اِس میں کافی نمک بھی شامل ہوتا ہے ۔ 15 منٹ تک چھوٹی چھوٹی چھوٹی اینٹوں کو گھنی جھاڑیوں میں ڈال دیا جاتا ہے ۔
+5. مونگ‌پھلی کے جوس اور سیل‌انرو سے پیدا ہوتا ہے ۔ چاول یا پوری مونگ پھلی کے پلیٹ فارم کی خدمت.
+:::

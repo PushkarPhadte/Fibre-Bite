@@ -95,3 +95,36 @@ prepTimeEstimated: true
 2. तेल गरम करा, मोहरी फोडा, कांदा आणि टोमॅटो शिजवा, नंतर हळद आणि पेस्ट घाला.
 3. वांगी, मीठ आणि 150 मिली पाणी घालून झाकून ठेवा आणि मऊ होईपर्यंत 20 मिनिटे उकळवा.
 :::
+
+:::lang en
+# Vangi Bhaji Peanut Eggplant Curry
+
+Small eggplants simmered in a Maharashtrian peanut-coconut masala.
+
+## Instructions
+1. Grind the peanuts, coconut, chilli and coriander powder with a little water to a paste.
+2. Heat the oil, splutter the mustard seeds, cook the onion and tomato, then add the turmeric and paste.
+3. Add the eggplants, salt and 150 ml water, cover and simmer for 20 minutes until tender.
+:::
+
+:::lang bn
+# ভ্যানগি ভাই পিনাট এগি কারি
+
+মহারাষ্ট্রীয় পিনাটাট-কোকোনাটার ছোট ডিম।
+
+## Instructions
+1. চিনাবাদাম, নারিকেল, ঠাণ্ডানি এবং কোরান্ডার পাউডারের সঙ্গে অল্প পরিমাণে পানি নিয়ে আসে ।
+2. তেলের ওপর সুড়সুড়ি, সরিষাদানার বীজ, রান্না করা ও টমেটো রান্না করা, এরপর টরমেরিক যোগ করে এবং পেস্ট করা হয় ।
+3. এরপর ডিমের পাত্র, লবণ এবং ১৫০ মিটার জল যোগ করুন ।
+:::
+
+:::lang ur
+# وانگی بھوجائی مونگ پھلی کیوری
+
+چھوٹے انڈے کو ایک مہاراشٹر مونگ‌پھلی میں تبدیل کِیا گیا تھا ۔
+
+## Instructions
+1. مونگ‌پھلی ، ناریل ، زہریلی اور کریانڈر پاوڈر میں تھوڑی مقدار میں پانی ڈالا جاتا تھا ۔
+2. تیل کو صاف کرنے، رائی کے بیج کو گرم کرنے، اون اور ٹماٹر پکانے، پھر ترشے اور پسے کو ملا کر رکھ دیں۔
+3. انڈے میں شکر ، نمک اور 150 ملی‌میٹر پانی شامل کریں ، کپڑے اور ریشم کے ۲۰ منٹ تک محفوظ رہیں ۔
+:::

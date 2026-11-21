@@ -91,3 +91,36 @@ prepTimeEstimated: true
 2. दही, लिंबाचा रस, लसूण, परमेसन चीज आणि मिरी एकत्र फेटून ड्रेसिंग तयार करा.
 3. उरलेल्या तेलाने केलची पाने 1 मिनिट हाताने चोळून मऊ करा. ड्रेसिंगसोबत मिसळा आणि वरून छोले घाला.
 :::
+
+:::lang en
+# Kale Chickpea Yogurt Caesar Salad
+
+Massaged kale with oven-crisped chickpeas and a garlicky Greek yogurt dressing.
+
+## Instructions
+1. Heat the oven to 200 °C. Toss the chickpeas with half the oil and the paprika and roast for 20 minutes until crisp.
+2. Whisk the yogurt, lemon juice, garlic, parmesan and pepper into a dressing.
+3. Massage the kale with the remaining oil for 1 minute, toss with the dressing and top with the chickpeas.
+:::
+
+:::lang bn
+# কা.
+
+লাল রঙের লোমে ভরা কাঁটি, আর রসুনকি গ্রীকের পোশাক।
+
+## Instructions
+1. গ্যাসের গতি ২০০ ডিগ্রি সেলসিয়াস। প্রায় অর্ধেক তেল এবং পাম্পিকা দিয়ে মুরগিগুলো রান্না করে।
+2. কফি, লেবুর জুস, রসুন, পেনান আর মরিচের পোশাক পরে।
+3. ১ মিনিটের জন্য অবশিষ্ট তেলে ভর দিয়ে কাটা হয়, আর পেখম আর পেখম দিয়ে উপরের দিকে।
+:::
+
+:::lang ur
+# کیلے چیکپا یوگورٹ قیصر سالود
+
+مسعود کلے جس میں اوون-کریسپپپس اور ایک لہسنکی یونانی کانسی پہنتے ہیں۔
+
+## Instructions
+1. ہاٹ ٹوبہ 200 °C. اِس کے بعد اُس نے اِس بات پر غور کِیا کہ اِس میں کیا کچھ شامل ہے ۔
+2. اِس کی ایک وجہ یہ ہے کہ اُس نے اِسے کپڑے میں تبدیل کر دیا ۔
+3. کلے کو 1 منٹ کے لیے باقی تیل کے ساتھ ملا کر رکھیں، کپڑے کے ساتھ اور اوپر سے اوپر کے ساتھ.
+:::

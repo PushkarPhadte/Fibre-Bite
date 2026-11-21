@@ -121,3 +121,42 @@ prepTimeEstimated: true
 4. नूडल्स, टोफू, तामरी, व्हिनेगर आणि मिरपूड घाला आणि 2 मिनिटे फेटा.
 5. स्प्रिंग कांदा आणि तिळाच्या तेलाने समाप्त करा आणि सर्व्ह करा.
 :::
+
+:::lang en
+# Whole-Wheat Vegetable Chow Mein with Tofu
+
+A quick stir-fry of whole-wheat noodles, crunchy vegetables and golden tofu in a garlicky tamari sauce, with far less oil than takeaway.
+
+## Instructions
+1. Cook the noodles in boiling water for 5 minutes until just tender, drain and rinse in cold water.
+2. Sear the tofu in 10 ml of sunflower oil for 5 minutes until golden, then set aside.
+3. Heat the remaining sunflower oil in a wok on high heat and stir-fry the garlic and ginger for 15 seconds, then the cabbage, carrot, capsicum and mushrooms for 3 minutes.
+4. Add the noodles, tofu, tamari, vinegar and pepper and toss for 2 minutes.
+5. Finish with the spring onion and sesame oil and serve.
+:::
+
+:::lang bn
+# টফুর সাথে কিভাবে মেহেন
+
+রসুনকি তামার সস-এ দ্রুত ছড়িয়ে পড়ে।
+
+## Instructions
+1. শুধু কোমল, ড্রেনিং এবং পানি পান না করা পর্যন্ত ৫ মিনিটের জন্য পানি রান্না করুন।
+2. ১৫ মিনিটের জন্য সূর্যমুখী তেলে ভরা টফুগুলো একপাশে সরিয়ে রাখে ।
+3. গরমের সময় অবশিষ্ট সূর্যমুখী তেল এবং রসুন আর ডোরাকাটার তেলে ১৫ সেকেন্ড লাগে, এরপর ট্যাক্সিজ, কার্বোট আর মাশরুম ৩ মিনিট ধরে।
+4. নুডলস, টফু, টামারি, ভিনেগার এবং মরিচ দিয়ে ২ মিনিট দিলাম।
+5. বসন্তের শেষে তেল আর সেবা দিয়ে শেষ হবে।
+:::
+
+:::lang ur
+# ٹوفو کے ساتھ Wheat Vigetable Chow Mein
+
+ایک تیزاب بھر بھر پور نودلوں، کرنسی سبزیوں اور سونے کی توپیں ایک لہسن کی تھیلی میں، جس میں تیل لینے سے بہت کم ہے۔
+
+## Instructions
+1. گرم پانی میں ۵ منٹ تک نوودوں کو اُس وقت تک کِیا جائے جب تک صرف نرم‌مزاج ، سُرخ اور سرد پانی میں نہ جائیں ۔
+2. سونے تک ۵ منٹ تک سورج‌مکھی کے تیل کی ۱۰ ملی‌میٹر [ ۵ منٹ ] میں تھی ۔
+3. باقی سورج نکلنے والے تیل کو بلند حرارت پر اور لہسن کو جذب کرنے اور 15 سیکنڈ کے لیے ہضم کرنے کے بعد، اس کے بعد 3 منٹ کے لئے کیپر، کیپسم، کیپسم اور گیس وغیرہ.
+4. دو منٹ کے لیے نوودز، ٹوفو، تاماری، کتھاری اور کپاس اور دو منٹ تک شامل کریں۔
+5. موسمِ‌بہار میں تیل اور خدمت کرنا
+:::

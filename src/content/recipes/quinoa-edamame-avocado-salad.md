@@ -86,3 +86,39 @@ prepTimeSource: 'https://downshiftology.com/recipes/avocado-edamame-quinoa-salad
 3. एका लहान भांड्यात एक्स्ट्रा व्हर्जिन ऑलिव्ह तेल, लिंबाचा रस आणि मीठ एकत्र फेटून घ्या.
 4. ड्रेसिंग कोशिंबिरीवर ओता आणि अॅव्होकॅडोचा लगदा होणार नाही याची काळजी घेत हलक्या हाताने मिसळा.
 :::
+
+:::lang en
+# Quinoa Edamame Avocado Salad
+
+A protein-dense salad featuring fluffy quinoa, steamed edamame, creamy avocado chunks, and cilantro-lime dressing.
+
+## Instructions
+1. In a large bowl, combine cooked quinoa and steamed edamame.
+2. Gently fold in cubed avocado and chopped cilantro.
+3. Whisk extra virgin olive oil, lime juice, and salt together in a small bowl.
+4. Pour dressing over the salad and toss carefully to avoid mashing the avocado.
+:::
+
+:::lang bn
+# কিনোয়া এডআমিম এভোকাডো সালাদ
+
+একটি প্রোটিনযুক্ত সালাদের নাম হচ্ছে ফ্লুফিনোনো, যার মধ্যে রয়েছে মাংসের মাংস, ক্রিমি আভোকাডো, এবং সিলেন্ট্রো-লিম ড্রেস।
+
+## Instructions
+1. এক বড় বাটি বাটির মধ্যে রান্না করা নোটনো এবং মেডেমিকে একত্রিত করা হয় ।
+2. ঘনঘনভাবে কিউবে আলভোকাডো এবং কাটা সিলান্রো।
+3. একটা বাটি বাটির মধ্যে লবণ ও লবণ থাকে ।
+4. সালাদের উপর পচন এবং ভোদকাদের হাত থেকে বাঁচার জন্য সতর্কতার সাথে পোশাক পরা।
+:::
+
+:::lang ur
+# کوینووا ایڈمامے ایوکادو سالالد
+
+ایک پروٹین-دنسے کیمرا (protein-dense) کوائلے (quino)، empted edamame، کریمی ادودو (Cilanto-lyme) اور ریشمی کپڑے۔
+
+## Instructions
+1. ایک بڑے برتن میں ، کونیا کو ملا کر ادومہ ملا دیا ۔
+2. اُس نے کہا : ” مَیں اِس بات کو تسلیم کرتا ہوں کہ مَیں اُس کی بات مانتا ہوں ۔
+3. اِس کے علاوہ اِس میں زیتون کا تیل ، آلو اور نمک شامل ہیں ۔
+4. اُس نے اُس سے کہا : ” مَیں نے اِس بات کا یقین کر لیا ہے کہ مَیں اُس کی بات مانوں گا ۔ “
+:::

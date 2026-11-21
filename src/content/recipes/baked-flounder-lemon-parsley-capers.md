@@ -83,3 +83,36 @@ prepTimeEstimated: true
 2. फ्लाउंडरचे फिले डिशमध्ये ठेवा, त्यांना जैतुनाचे तेल आणि लिंबाचा रस लावा, नंतर काळी मिरी भुरभुरून चव द्या.
 3. मासा अपारदर्शक आणि सहज पाकळ्यांसारखा सुटणारा होईपर्यंत १२ ते १४ मिनिटे बेक करा; वाढण्यापूर्वी वरून ताजी पार्सली पेरा.
 :::
+
+:::lang en
+# Baked Flounder with Lemon, Parsley, and Capers
+
+Mild, low-fat flounder fillets baked with fresh lemon juice, chopped parsley, and a touch of olive oil.
+
+## Instructions
+1. Preheat the oven to 195 C and line a baking dish with parchment paper.
+2. Arrange flounder fillets in the dish, brush with olive oil and lemon juice, and season with black pepper.
+3. Bake for 12 to 14 minutes until opaque and flaky, then scatter fresh parsley on top before serving.
+:::
+
+:::lang bn
+# হলদে, পারসলি, আর ক্যাপার্স
+
+মি. মিলল, অল্প পরিমাণে লেবুর রস দিয়ে তৈরি তাজা লেবুর রস, প্যার্লি আর জলপাই তেল।
+
+## Instructions
+1. এটা দিয়ে বের করা হয় ।
+2. খাবারে ঝোঁক, জলপাই তেল আর লেবুর রস দিয়ে ঢাকা।
+3. ১২ থেকে ১৪ মিনিট পর্যন্ত বেকন এবং ফুকুলি পর্যন্ত ১৪ মিনিট পর্যন্ত অপেক্ষা করে, তারপর কাজ করার আগে নতুন প্যারলি ছড়িয়ে পড়ে।
+:::
+
+:::lang ur
+# لیمون، پارسلے اور کیپرز کے ساتھ بلیک فلنڈر
+
+نرم‌مزاجی ، کم‌ازکم کھانے کی وجہ سے اُس کے معدے کو تازہ‌دم کر دیا جاتا ہے ۔
+
+## Instructions
+1. اِس کے بعد اُس نے اُن سے کہا : ” اَے میرے بیٹے !
+2. اِس کے بعد اُس نے اِس کھانے کو تیار کِیا ۔
+3. اُس وقت تک ۱۲ سے ۱۴ منٹ تک اُن کی خدمت کرنے سے پہلے تازہ‌دم ہو جاتے ہیں ۔
+:::

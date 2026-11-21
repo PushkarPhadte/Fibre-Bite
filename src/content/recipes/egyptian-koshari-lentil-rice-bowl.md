@@ -123,3 +123,42 @@ prepTimeEstimated: true
 4. पातेल्यात उरलेले 10 ml ऑलिव्ह तेल गरम करा. ठेचलेला लसूण आणि उरलेले मसाले 1 मिनिट परता; नंतर सिरका, प्युरी केलेले टोमॅटो आणि उरलेले मीठ घालून 12 मिनिटे मंद आचेवर शिजवा.
 5. वाट्यांत मसूर-भाताचा थर, संपूर्ण गव्हाची मॅकरोनी, मसालेदार टोमॅटो सॉस, गरम छोले आणि कुरकुरीत भाजलेल्या कांद्याचे थर लावा.
 :::
+
+:::lang en
+# Egyptian Koshari (Lentils, Brown Rice, and Spiced Tomato Bowl)
+
+Wholesome whole-grain version of Egypt's national comfort bowl layering brown lentils, brown rice, whole-wheat macaroni, chickpeas, spiced cumin-vinegar tomato sauce, and oven-crisped onions.
+
+## Instructions
+1. Toss the thinly sliced onions with 8 ml of olive oil and roast at 210°C for 22 minutes, stirring halfway, until deeply golden and crisp.
+2. Simmer the brown rice in 250 ml of water for 15 minutes, then add the rinsed brown lentils, 300 ml more water, 1 g of salt, and 2 g of cumin; cover and cook 20 minutes more until tender and fluffy.
+3. Meanwhile, boil the whole-wheat macaroni until al dente and drain; warm the cooked chickpeas gently.
+4. Heat the remaining 10 ml of olive oil in a saucepan, sauté the minced garlic and remaining spices for 1 minute, add the vinegar and pureed tomatoes with remaining salt, and simmer 12 minutes.
+5. Layer the lentil-rice base, whole-wheat macaroni, spiced tomato sauce, warm chickpeas, and crispy roasted onions in bowls.
+:::
+
+:::lang bn
+# মিশরীয় কোশারী (লিটিল, ব্রাউন রাইস, এবং স্পাইপিড টমেটো)
+
+পুরো মিশরের জাতীয় আরামের প্যাকেজের সংস্করণ বাদামি ডাল, বাদামি চিনি, বাদামি মাকারনি, আসর-কাঠি, মসিনার টমেটো সস, এবং চুল্লী।
+
+## Instructions
+1. প্রায় ৮ মিটার তেল এবং ২২ মিনিট ধরে ফুলদানি, তেল দিয়ে রান্না করে, তেলে পাতাগুলো গভীর সোনালী ও গাঢ় হয়ে যায় ।
+2. ১৫ মিনিটের জন্য বাদামি ধানের দাম ২৫০ পাউন্ডের মধ্যে, তারপর ৩০০ টন বাদামি, ৩০০ মাইল পানি এবং ২টা লবণ, কভার এবং ২০ মিনিট রান্না করে।
+3. এর মধ্যে, আল ডেনোনে এবং ড্রেনে পর্যন্ত পুরো শারেকনিকে সিদ্ধ করা হয়; রান্না করা মুরগিগুলোকে উষ্ণ করা হয়।
+4. সসিয়ামপানের অবশিষ্ট ১০ মিটার তেল, সসেজ রসুন এবং বাকি সব মসলা, সাথে দ্রাক্ষালতা এবং বিশুদ্ধ টমেটো যুক্ত করুন।
+5. উপরের স্তরটা হচ্ছে কাটাল-ট্রিসের বেস, পুরো মাথার মাকারনি, মসলা করা টমেটো সস, গরম মুরগির সস, আর বাটিতে পিঁয়াজ।
+:::
+
+:::lang ur
+# مصری کوشری (Lentils, Brown Rice, and Spiced Tomato Bowl)۔
+
+مصر کے قومی آرامی نسخہ کا قومی آرامی رنگ کے برتنوں پر بھورے رنگ کا پکوان، بھورے چاول، پوری کیل میکارونی، لوک سبھا، لوک سبھا-وینجر ٹماٹر اور وان-کری-کریسپ تیار کیا گیا۔
+
+## Instructions
+1. زیتون کے تیل کے ۸ میلے اور ۲۲ منٹ یعنی ۲۲ منٹ سے گہرے سونے اور کریسپ تک پگھلے ہوئے آٹے کو دبا دیا جاتا ہے ۔
+2. اِس کے بعد اِن میں سے ۳۰۰ ملی‌میٹر پانی ، ۱ گرام نمک اور ۲ گُوے شامل ہیں ۔
+3. اس دوران، پورے مکیرونی کو ایل ڈینیٹ اور اپنگ تک گرم کرنا؛ پکایا ہوا کو نرم کرنا.
+4. زیتون کے تیل کے باقی ۱۰ ملی‌میٹر کی اُس برتن میں رکھیں جس میں لہسن اور ۱ منٹ تک باقی رہیں ۔
+5. سب سے زیادہ کھانے کے لئے تیار
+:::

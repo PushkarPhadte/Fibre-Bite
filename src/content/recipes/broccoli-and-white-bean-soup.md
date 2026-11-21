@@ -85,3 +85,36 @@ prepTimeEstimated: true
 2. बटाटा, ब्रोकोली, बीन्स, मीठ आणि पाणी घाला. बटाटा मऊ होईपर्यंत 15 मिनिटे मंद आचेवर शिजवा.
 3. गुळगुळीत होईपर्यंत सूप ब्लेंड करा, लिंबाचा रस मिसळा आणि पुन्हा गरम करा.
 :::
+
+:::lang en
+# Broccoli and White Bean Soup
+
+A green soup of broccoli blended with cannellini beans and a little potato for body.
+
+## Instructions
+1. Heat the oil and cook the onion and garlic until soft.
+2. Add the potato, broccoli, beans, salt and water and simmer for 15 minutes until the potato is tender.
+3. Blend until smooth, stir in the lemon juice and reheat.
+:::
+
+:::lang bn
+# ব্রোকোলি এবং হোয়াইট বেইন সোউ
+
+ব্রোকোলির সবুজ সুপ, যার সাথে ক্যানেলিনি বিন আর শরীরের জন্য আলু থাকে।
+
+## Instructions
+1. তেল আর রসুন রান্না করা যতক্ষণ না নরম হয়.
+2. আলু, ব্রোকোলি, শিম, লবণ এবং পানি ১৫ মিনিটের জন্য যোগ করুন, যতক্ষণ না আলু কোমল হয়।
+3. একটু নরম, লেবুর জুস আর রিলাটে টান দেওয়া।
+:::
+
+:::lang ur
+# بروکلی اور وائٹ بین سوپ
+
+اِس کے بعد اُس نے اِس بات پر زور دیا کہ اُس کا جسم اُس کے ساتھ اچھا سلوک کرے گا ۔
+
+## Instructions
+1. تیل کو صاف کریں اور نرم ہونے تک اون اور لہسن پکا لیں۔
+2. اِس کے علاوہ اُس وقت تک اِس کا وزن 15 منٹ تک بڑھ جاتا ہے جب تک اِس میں نرم‌مزاجی نہ ہو ۔
+3. اُس وقت تک اُس کے معدے میں تبدیل ہو جاتے ہیں ۔
+:::
