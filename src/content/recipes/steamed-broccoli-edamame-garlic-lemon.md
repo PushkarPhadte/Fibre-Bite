@@ -60,7 +60,8 @@ nutrition:
   micronutrientEstimateSource: >-
     Estimated from ingredient weights using USDA FoodData Central reference
     profiles.
-image: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Edamame_by_june29.jpg/960px-Edamame_by_june29.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20080704142855'
+image: >-
+  https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Edamame_by_june29.jpg/960px-Edamame_by_june29.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20080704142855
 imageAttribution:
   title: Edamame
   creator: Jun OHWADA
@@ -71,4 +72,24 @@ imageAttribution:
 prepTimeMinutes: 8
 prepTimeEstimated: true
 ---
+:::lang hi
+# लहसुन और नींबू के साथ भाप में पकी ब्रोकली और एडामामे
 
+चटख रंग की भाप में पकी ब्रोकली की कलियों और छिली हुई एडामामे को बारीक कटे लहसुन, ताज़े नींबू के रस और जैतून के तेल के साथ मिलाया गया है।
+
+## Instructions
+1. स्टीमर के बर्तन में पानी को हल्का उबाल आने तक गरम करें और ब्रोकली की कलियाँ स्टीमर की टोकरी में रखें।
+2. ब्रोकली को 4 मिनट भाप में पकाएँ, फिर छिली हुई एडामामे डालें और 3 से 4 मिनट और पकाएँ, जब तक दोनों नरम हों लेकिन हल्का कुरकुरापन बना रहे।
+3. सब्ज़ियों को एक कटोरे में निकालें और जैतून के तेल, नींबू के रस तथा बारीक कटे लहसुन के साथ मिलाएँ।
+:::
+
+:::lang mr
+# लसूण आणि लिंबासह वाफवलेली ब्रोकोली व एडामामे
+
+तजेलदार वाफवलेली ब्रोकोलीची फुले आणि सोललेले एडामामे बारीक चिरलेला लसूण, ताज्या लिंबाचा रस आणि ऑलिव्ह ऑइलसोबत हलवून एकत्र केले आहेत.
+
+## Instructions
+1. स्टीमरच्या भांड्यात पाणी मंद उकळी येईपर्यंत गरम करा आणि ब्रोकोलीची फुले स्टीमरच्या टोपलीत ठेवा.
+2. ब्रोकोली ४ मिनिटे वाफवा, नंतर सोललेले एडामामे घाला आणि दोन्ही भाज्या मऊ पण किंचित कुरकुरीत होईपर्यंत आणखी ३ ते ४ मिनिटे वाफवा.
+3. भाज्या एका भांड्यात काढा आणि ऑलिव्ह ऑइल, लिंबाचा रस व बारीक चिरलेला लसूण घालून हलवा.
+:::

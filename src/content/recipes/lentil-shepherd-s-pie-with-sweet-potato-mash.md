@@ -71,15 +71,37 @@ nutrition:
     Legacy/Foundation) and ICMR-NIN IFCT 2017 per-100 g values for each
     ingredient, scaled to the quantities used (raw-ingredient weights; cooking
     losses not applied).
+image: 'https://live.staticflickr.com/8662/16072865513_b203bfefe3.jpg'
+imageAttribution:
+  title: Lentil & Sweet Potato Shepherd's Pie
+  creator: Foodmoods
+  creatorUrl: 'https://www.flickr.com/photos/58807539@N07'
+  sourceUrl: 'https://www.flickr.com/photos/58807539@N07/16072865513'
+  license: CC BY 2.0
+  licenseUrl: 'https://creativecommons.org/licenses/by/2.0/'
 prepTimeMinutes: 60
 prepTimeEstimated: true
-image: "https://live.staticflickr.com/8662/16072865513_b203bfefe3.jpg"
-imageAttribution:
-  title: "Lentil & Sweet Potato Shepherd's Pie"
-  creator: "Foodmoods"
-  creatorUrl: "https://www.flickr.com/photos/58807539@N07"
-  sourceUrl: "https://www.flickr.com/photos/58807539@N07/16072865513"
-  license: "CC BY 2.0"
-  licenseUrl: "https://creativecommons.org/licenses/by/2.0/"
 ---
+:::lang hi
+# शकरकंद की मैश वाली दाल शेफर्ड्स पाई
 
+भूरी दाल, गाजर और मटर की परत के ऊपर शकरकंद की मैश, जिसे सुनहरा होने तक बेक किया जाता है।
+
+## Instructions
+1. दाल को पानी में 20 मिनट धीमी आँच पर पकाएँ, जब तक वह नरम न हो जाए।
+2. आधे तेल में प्याज़, गाजर और लहसुन पकाएँ। छनी हुई टमाटर प्यूरी (पासाटा), दाल और मटर डालकर आधे नमक के साथ 10 मिनट पकाएँ।
+3. शकरकंद को 15 मिनट उबालें, पानी छानें और बचे हुए तेल व नमक के साथ मैश करें।
+4. बेकिंग डिश में दाल के ऊपर मैश फैलाएँ और 200 °C पर 20 मिनट बेक करें।
+:::
+
+:::lang mr
+# रताळ्याच्या कुस्करलेल्या थरासह मसूर शेफर्ड्स पाय
+
+तपकिरी मसूर, गाजर आणि मटार यांच्या थरावर रताळ्याचा कुस्करलेला थर; सोनेरी होईपर्यंत भाजलेला.
+
+## Instructions
+1. मसूर पाण्यात 20 मिनिटे मंद आचेवर मऊ होईपर्यंत शिजवा.
+2. अर्ध्या तेलात कांदा, गाजर आणि लसूण शिजवा. टोमॅटो प्युरी (पासाटा), मसूर आणि मटार घालून अर्ध्या मिठासह 10 मिनिटे शिजवा.
+3. रताळे 15 मिनिटे उकळा, पाणी काढून टाका आणि उरलेले तेल व मीठ घालून कुस्करा.
+4. बेकिंग डिशमध्ये मसुरांवर कुस्करलेले रताळे पसरवा आणि 200 °C ला 20 मिनिटे भाजा.
+:::

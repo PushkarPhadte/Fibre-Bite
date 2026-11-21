@@ -64,7 +64,8 @@ nutrition:
   micronutrientEstimateSource: >-
     Estimated from ingredient weights using USDA FoodData Central reference
     profiles.
-image: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Roasted_eggplant.jpg/960px-Roasted_eggplant.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20110608214536'
+image: >-
+  https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Roasted_eggplant.jpg/960px-Roasted_eggplant.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20110608214536
 imageAttribution:
   title: Roasted eggplant
   creator: gran
@@ -75,4 +76,26 @@ imageAttribution:
 prepTimeMinutes: 12
 prepTimeEstimated: true
 ---
+:::lang hi
+# झुलसे बैंगन और टमाटर का शक्शुका-शैली स्टू
 
+धुएँदार स्वाद वाले कटे बैंगन को पिसे टमाटर, स्मोक्ड जीरा, लहसुन और ताज़ी तुलसी के साथ धीमी आँच पर पकाया जाता है।
+
+## Instructions
+1. एक चौड़े तवे में मध्यम-तेज़ आँच पर जैतून का तेल गरम करें। बैंगन के टुकड़े और प्याज़ 8 मिनट पकाएँ, जब तक वे भूरा न हो जाएँ।
+2. लहसुन और जीरा डालकर 1 मिनट चलाएँ।
+3. पिसे टमाटर डालें, ढकें और धीमी आँच पर 18 से 20 मिनट पकाएँ, जब तक बैंगन बहुत नरम न हो जाए।
+4. ऊपर से फाड़ी हुई ताज़ी तुलसी की पत्तियाँ डालें और गरम परोसें।
+:::
+
+:::lang mr
+# करपवलेले वांगे-टोमॅटो शाक्शुका-शैलीतील स्ट्यू
+
+धुरकट चवीची चिरलेली वांगी ठेचलेले टोमॅटो, स्मोक्ड जिरे, लसूण आणि ताज्या तुळशीसोबत मंद आचेवर शिजवलेली.
+
+## Instructions
+1. रुंद कढईत मध्यम-ते-जास्त आचेवर ऑलिव्ह तेल गरम करा. वांग्याचे तुकडे आणि कांदा 8 मिनिटे परता, ते तपकिरी होईपर्यंत.
+2. लसूण आणि जिरे घालून 1 मिनिट ढवळा.
+3. ठेचलेले टोमॅटो घाला, झाकण ठेवा आणि मंद आचेवर 18 ते 20 मिनिटे शिजवा, वांगी अगदी मऊ होईपर्यंत.
+4. वरून हाताने फाडलेली ताजी तुळशीची पाने घाला आणि गरम वाढा.
+:::

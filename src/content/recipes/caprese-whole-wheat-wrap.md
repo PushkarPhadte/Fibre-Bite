@@ -6,8 +6,6 @@ description: >-
   A fresh Italian wrap packed with fresh mozzarella, ripe sliced tomatoes, basil
   leaves, and a touch of balsamic glaze.
 baseServings: 2
-prepTimeMinutes: 2
-prepTimeSource: "https://weelicious.com/caprese-wrap/"
 ingredients:
   - name: whole wheat tortilla wraps
     baseAmount: 2
@@ -62,6 +60,30 @@ nutrition:
     vitaminCMg: 14
     calciumMg: 280
     ironMg: 1.5
-  micronutrientEstimateSource: Per-serving values from cti_receipes_2.pdf.
+  micronutrientEstimateSource: Per-serving values from USDA.
+prepTimeMinutes: 2
+prepTimeSource: 'https://weelicious.com/caprese-wrap/'
 ---
+:::lang hi
+# कैप्रेसे साबुत गेहूँ का रैप
 
+ताज़े मोज़रेला, पके हुए कटे टमाटर, तुलसी के पत्तों और थोड़ी-सी बाल्समिक ग्लेज़ से भरा ताज़ा इतालवी रैप।
+
+## Instructions
+1. साबुत गेहूँ की टॉर्टिला को साफ़ तख्ते पर सपाट बिछाएँ।
+2. ताज़े मोज़रेला के स्लाइस, टमाटर के स्लाइस और ताज़ी तुलसी की पत्तियाँ बीच में रखें।
+3. एक्स्ट्रा वर्जिन जैतून का तेल और बाल्समिक ग्लेज़ छिड़कें; नमक और काली मिर्च डालें।
+4. रैप को कसकर रोल करें, तिरछा काटें और तुरंत परोसें।
+:::
+
+:::lang mr
+# कॅप्रेझे संपूर्ण गव्हाचा रॅप
+
+ताजे मोझरेला, पिकलेले कापलेले टोमॅटो, तुळशीची पाने आणि थोड्या बाल्सॅमिक ग्लेझने भरलेला ताजा इटालियन रॅप.
+
+## Instructions
+1. संपूर्ण गव्हाच्या टॉर्टिला स्वच्छ फळीवर सपाट पसरून ठेवा.
+2. ताज्या मोझरेलाचे काप, टोमॅटोचे काप आणि तुळशीची ताजी पाने मध्यभागी मांडून ठेवा.
+3. एक्स्ट्रा व्हर्जिन ऑलिव्ह तेल आणि बाल्सॅमिक ग्लेझ वरून घाला; मीठ आणि मिरी भुरभुरा.
+4. रॅप घट्ट गुंडाळा, तिरपे कापा आणि लगेच वाढा.
+:::

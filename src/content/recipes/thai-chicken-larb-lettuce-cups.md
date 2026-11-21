@@ -64,15 +64,35 @@ nutrition:
     Legacy/Foundation) and ICMR-NIN IFCT 2017 per-100 g values for each
     ingredient, scaled to the quantities used (raw-ingredient weights; cooking
     losses not applied).
+image: 'https://live.staticflickr.com/2327/5799807438_b424c46e3a_b.jpg'
+imageAttribution:
+  title: Larb Gai with Rice - Mint Thai
+  creator: avlxyz
+  creatorUrl: 'https://www.flickr.com/photos/10559879@N00'
+  sourceUrl: 'https://www.flickr.com/photos/10559879@N00/5799807438'
+  license: CC BY-SA 2.0
+  licenseUrl: 'https://creativecommons.org/licenses/by-sa/2.0/'
 prepTimeMinutes: 25
 prepTimeEstimated: true
-image: "https://live.staticflickr.com/2327/5799807438_b424c46e3a_b.jpg"
-imageAttribution:
-  title: "Larb Gai with Rice - Mint Thai"
-  creator: "avlxyz"
-  creatorUrl: "https://www.flickr.com/photos/10559879@N00"
-  sourceUrl: "https://www.flickr.com/photos/10559879@N00/5799807438"
-  license: "CC BY-SA 2.0"
-  licenseUrl: "https://creativecommons.org/licenses/by-sa/2.0/"
 ---
+:::lang hi
+# लेट्यूस कप में थाई चिकन लार्ब
 
+कीमा बनाया हुआ चिकन नींबू, पुदीना और धनिया के साथ मिलाकर कुरकुरे लेट्यूस पत्तों में परोसा जाता है।
+
+## Instructions
+1. कड़ाही में तेल और थोड़ा-सा पानी डालकर चिकन को 6 से 8 मिनट पकाएँ। पकाते समय उसे तोड़ते रहें, जब तक वह पूरी तरह पक न जाए।
+2. आँच से उतारें और प्याज़, नींबू का रस, तमारी, मिर्च, पुदीना और धनिया मिलाएँ।
+3. मिश्रण को लेट्यूस के पत्तों में भरकर परोसें।
+:::
+
+:::lang mr
+# लेट्यूसच्या पानांत थाई चिकन लार्ब
+
+बारीक केलेले चिकन लिंबाचा रस, पुदिना आणि कोथिंबिरीसोबत मिसळून कुरकुरीत लेट्यूसच्या पानांत वाढले जाते.
+
+## Instructions
+1. कढईत तेल आणि थोडे पाणी घालून चिकन 6 ते 8 मिनिटे शिजवा. शिजवताना ते सतत मोडून मोकळे करा, जोपर्यंत ते पूर्ण शिजत नाही.
+2. गॅस बंद करून कांदा, लिंबाचा रस, तमारी, तिखट, पुदिना आणि कोथिंबीर मिसळा.
+3. हे मिश्रण लेट्यूसच्या पानांत भरून वाढा.
+:::

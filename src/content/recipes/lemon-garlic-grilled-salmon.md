@@ -59,7 +59,7 @@ nutrition:
     potassiumMg: 620
   micronutrientEstimateSource: Per-serving estimated values based on USDA generic salmon composition.
 image: >-
-  https://images.unsplash.com/photo-1467003909585-2f8a72700288?auto=format&fit=crop&w=1200&q=80
+  https://imgs.search.brave.com/z-UR2JAvKUDufeG1-QdoTVB0VGgu74t3n-WCXe7hwvA/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/Y29va2luZ2NsYXNz/eS5jb20vd3AtY29u/dGVudC91cGxvYWRz/LzIwMTgvMDUvZ3Jp/bGxlZC1sZW1vbi1o/ZXJiLXNhbG1vbi03/LmpwZw
 imageAttribution:
   title: Grilled salmon
   creator: Unsplash
@@ -71,4 +71,26 @@ prepTimeMinutes: 20
 prepTimeSource: >-
   https://www.delish.com/cooking/recipe-ideas/a26084048/lemon-garlic-grilled-salmon-recipe/
 ---
+:::lang hi
+# नींबू-लहसुन के साथ ग्रिल्ड सैल्मन
 
+ताज़ी सैल्मन फ़िलेट को नींबू के रस, लहसुन और जड़ी-बूटियों में मेरिनेट करके ग्रिल किया जाता है, जब तक उसका मांस परतदार और अच्छी तरह पक न जाए।
+
+## Instructions
+1. एक उथले बर्तन में नींबू का रस, कटा हुआ लहसुन, जैतून का तेल, डिल, नमक और काली मिर्च को अच्छी तरह फेंटकर मिलाएँ।
+2. सैल्मन फ़िलेट डालें और 15 मिनट मेरिनेट होने दें।
+3. ग्रिल या ग्रिल पैन को मध्यम-तेज़ आँच पर पहले से गरम करें।
+4. सैल्मन को हर तरफ 4–5 मिनट ग्रिल करें, जब तक वह पूरी तरह पक न जाए और काँटे से आसानी से परतों में अलग न होने लगे।
+:::
+
+:::lang mr
+# लिंबू-लसूण घालून ग्रिल केलेले सॅल्मन
+
+ताजे सॅल्मनचे तुकडे लिंबाचा रस, लसूण आणि हर्ब्समध्ये मुरवून ग्रिल केले जातात; शिजल्यावर त्यांचे मांस सहज सुटणारे आणि मऊ होते.
+
+## Instructions
+1. एका उथळ भांड्यात लिंबाचा रस, बारीक केलेला लसूण, ऑलिव्ह तेल, डिल, मीठ आणि मिरी एकत्र फेटा.
+2. त्यात सॅल्मनचे तुकडे घाला आणि 15 मिनिटे मुरू द्या.
+3. ग्रिल किंवा ग्रिल पॅन मध्यम-ते-उच्च आचेवर आधी गरम करा.
+4. सॅल्मन प्रत्येक बाजूला 4–5 मिनिटे ग्रिल करा; पूर्ण शिजून काट्याने सहज सुटेपर्यंत शिजवा.
+:::

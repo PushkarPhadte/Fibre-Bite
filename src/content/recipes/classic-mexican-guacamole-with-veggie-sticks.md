@@ -1,20 +1,10 @@
 ---
 title: Classic Mexican Guacamole with Veggie Sticks
 slug: classic-mexican-guacamole-with-veggie-sticks
-image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Guacamole_IMGP1271.jpg/960px-Guacamole_IMGP1271.jpg"
-imageAttribution:
-  title: Guacamole
-  creator: Nikodem Nijaki
-  creatorUrl: "https://commons.wikimedia.org/wiki/Special:Contributions/Nikodem_Nijaki"
-  sourceUrl: "https://commons.wikimedia.org/wiki/File:Guacamole_IMGP1271.jpg"
-  license: CC BY-SA 3.0
-  licenseUrl: "https://creativecommons.org/licenses/by-sa/3.0"
 description: >-
   Creamy mashed ripe avocados blended with lime juice, cilantro, tomatoes,
   onions, and jalapenos.
 baseServings: 4
-prepTimeMinutes: 10
-prepTimeSource: "https://loveandnibbles.com/easy-mexican-guacamole-with-veggie-sticks-for-bold-fresh-snacking/"
 ingredients:
   - name: avocados
     baseAmount: 2
@@ -69,5 +59,39 @@ nutrition:
     potassiumMg: 420
     folateMcg: 65
   micronutrientEstimateSource: Per-serving values from cti_receipes_2.pdf.
+image: >-
+  https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Guacamole_IMGP1271.jpg/960px-Guacamole_IMGP1271.jpg
+imageAttribution:
+  title: Guacamole
+  creator: Nikodem Nijaki
+  creatorUrl: 'https://commons.wikimedia.org/wiki/Special:Contributions/Nikodem_Nijaki'
+  sourceUrl: 'https://commons.wikimedia.org/wiki/File:Guacamole_IMGP1271.jpg'
+  license: CC BY-SA 3.0
+  licenseUrl: 'https://creativecommons.org/licenses/by-sa/3.0'
+prepTimeMinutes: 10
+prepTimeSource: >-
+  https://loveandnibbles.com/easy-mexican-guacamole-with-veggie-sticks-for-bold-fresh-snacking/
 ---
+:::lang hi
+# सब्ज़ियों की स्टिक्स के साथ क्लासिक मैक्सिकन ग्वाकामोले
 
+पके एवोकाडो को मसलकर उसमें नींबू का रस, हरा धनिया, टमाटर, प्याज़ और जलापेन्यो मिलाकर बनाया गया क्रीमी ग्वाकामोले।
+
+## Instructions
+1. एवोकाडो को बीच से काटें, गुठलियाँ निकालें और गूदे को एक कटोरे में निकाल लें।
+2. एवोकाडो को कांटे से दरदरा मसलें; तुरंत नींबू का रस और नमक मिलाएँ।
+3. कटे हुए लाल प्याज़, टमाटर, जलापेन्यो और हरा धनिया हल्के हाथ से मिलाएँ।
+4. ताज़ा ग्वाकामोले को गाजर और खीरे की स्टिक्स के साथ परोसें।
+:::
+
+:::lang mr
+# भाजीच्या काड्यांसोबत क्लासिक मेक्सिकन ग्वाकामोले
+
+पिकलेला ॲव्होकॅडो मॅश करून त्यात लिंबाचा रस, कोथिंबीर, टोमॅटो, कांदा आणि जलापेन्यो मिसळून केलेले क्रीमी ग्वाकामोले.
+
+## Instructions
+1. ॲव्होकॅडो मधोमध कापून बिया काढा आणि गर एका भांड्यात काढून घ्या.
+2. काट्याने ॲव्होकॅडो जाडसर मॅश करा; लगेच लिंबाचा रस आणि मीठ मिसळा.
+3. चिरलेला लाल कांदा, टोमॅटो, जलापेन्यो आणि कोथिंबीर अलगद मिसळा.
+4. ताजे ग्वाकामोले गाजर आणि काकडीच्या काड्यांसोबत वाढा.
+:::

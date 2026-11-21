@@ -1,6 +1,5 @@
 node_modules
 resources/*
-!resources/recipe-metadata.json
 
 # Output
 .output

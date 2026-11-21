@@ -57,15 +57,37 @@ nutrition:
     Legacy/Foundation) and ICMR-NIN IFCT 2017 per-100 g values for each
     ingredient, scaled to the quantities used (raw-ingredient weights; cooking
     losses not applied).
+image: 'https://live.staticflickr.com/1696/26430807051_57d1816331_b.jpg'
+imageAttribution:
+  title: Egglish Muffin Breakfast Sandwich
+  creator: kurafire
+  creatorUrl: 'https://www.flickr.com/photos/62449696@N00'
+  sourceUrl: 'https://www.flickr.com/photos/62449696@N00/26430807051'
+  license: CC BY 2.0
+  licenseUrl: 'https://creativecommons.org/licenses/by/2.0/'
 prepTimeMinutes: 20
 prepTimeEstimated: true
-image: "https://live.staticflickr.com/1696/26430807051_57d1816331_b.jpg"
-imageAttribution:
-  title: "Egglish Muffin Breakfast Sandwich"
-  creator: "kurafire"
-  creatorUrl: "https://www.flickr.com/photos/62449696@N00"
-  sourceUrl: "https://www.flickr.com/photos/62449696@N00/26430807051"
-  license: "CC BY 2.0"
-  licenseUrl: "https://creativecommons.org/licenses/by/2.0/"
 ---
+:::lang hi
+# एवोकाडो में बेक किए अंडे के कप
 
+एवोकाडो के आधे हिस्सों में बीच में अंडा रखकर बेक किया जाता है और ऊपर से काली मिर्च तथा मिर्च डाली जाती है।
+
+## Instructions
+1. ओवन को 200 °C पर गरम करें और गड्ढों को बड़ा करने के लिए थोड़ा अतिरिक्त गूदा निकालें।
+2. एवोकाडो के आधे हिस्से एक छोटी डिश में रखें, हर एक में अंडा फोड़ें और नमक तथा काली मिर्च डालें।
+3. 14 से 16 मिनट बेक करें, जब तक अंडे की सफेदी जम न जाए।
+4. ऊपर से मिर्च और पार्सले डालें।
+:::
+
+:::lang mr
+# अॅव्होकॅडोमध्ये बेक केलेले अंड्याचे कप
+
+अॅव्होकॅडोच्या अर्ध्या भागांच्या मध्यभागी अंडे ठेवून बेक केले जाते आणि वरून मिरी व मिरची घातली जाते.
+
+## Instructions
+1. ओव्हन 200 °C वर गरम करा आणि पोकळ्या मोठ्या करण्यासाठी थोडा अतिरिक्त गर काढून घ्या.
+2. अॅव्होकॅडोचे अर्धे भाग एका छोट्या भांड्यात ठेवा, प्रत्येकात एक अंडे फोडा आणि मीठ व मिरी घाला.
+3. अंड्याचा पांढरा भाग सेट होईपर्यंत 14 ते 16 मिनिटे बेक करा.
+4. वरून मिरची आणि पार्सली घाला.
+:::

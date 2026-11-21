@@ -65,7 +65,8 @@ nutrition:
   micronutrientEstimateSource: >-
     Estimated from ingredient weights using USDA FoodData Central reference
     profiles.
-image: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Salad_with_sardines.jpg/960px-Salad_with_sardines.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20151102085552'
+image: >-
+  https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Salad_with_sardines.jpg/960px-Salad_with_sardines.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20151102085552
 imageAttribution:
   title: Salad with sardines
   creator: E4024
@@ -76,4 +77,26 @@ imageAttribution:
 prepTimeMinutes: 10
 prepTimeEstimated: true
 ---
+:::lang hi
+# नींबू, लहसुन और केपर्स के साथ ग्रिल्ड सार्डिन
 
+ओमेगा-3 से भरपूर सार्डिन को थोड़ी देर ग्रिल करके उस पर बारीक कटा लहसुन, केपर्स, नींबू का रस और पार्सले डाला जाता है।
+
+## Instructions
+1. ग्रिल पैन या बाहर की ग्रिल को मध्यम-तेज़ आँच पर पहले से गरम करें और जाली पर हल्का तेल लगाएँ।
+2. सार्डिन पर आधा जैतून का तेल लगाएँ और हर तरफ 3 से 4 मिनट ग्रिल करें, जब तक वे हल्के झुलसकर पूरी तरह पक न जाएँ।
+3. एक छोटे कटोरे में बचा हुआ जैतून का तेल, लहसुन, केपर्स, नींबू का रस और पार्सले मिलाएँ।
+4. परोसने से पहले गरम सार्डिन पर लहसुन-केपर की ड्रेसिंग डालें।
+:::
+
+:::lang mr
+# लिंबू, लसूण आणि केपर्ससह ग्रिल्ड सार्डिन
+
+ओमेगा-3 ने समृद्ध सार्डिन थोडा वेळ ग्रिल करून त्यावर बारीक चिरलेला लसूण, केपर्स, लिंबाचा रस आणि पार्सली घातली जाते।
+
+## Instructions
+1. ग्रिल पॅन किंवा बाहेरील ग्रिल मध्यम-उच्च आचेवर आधी गरम करा आणि जाळीला हलके तेल लावा.
+2. सार्डिन माशांना अर्धे ऑलिव्ह ऑइल लावा आणि प्रत्येक बाजू 3 ते 4 मिनिटे ग्रिल करा, ते हलके करपून पूर्ण शिजेपर्यंत.
+3. एका छोट्या बाउलमध्ये उरलेले ऑलिव्ह ऑइल, लसूण, केपर्स, लिंबाचा रस आणि पार्सली एकत्र करा.
+4. सर्व्ह करण्यापूर्वी गरम सार्डिनवर लसूण-केपर ड्रेसिंग घाला.
+:::

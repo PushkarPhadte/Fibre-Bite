@@ -56,15 +56,35 @@ nutrition:
     Legacy/Foundation) and ICMR-NIN IFCT 2017 per-100 g values for each
     ingredient, scaled to the quantities used (raw-ingredient weights; cooking
     losses not applied).
+image: 'https://live.staticflickr.com/2643/3698279330_b61ef44296_b.jpg'
+imageAttribution:
+  title: Tortilla Española with Roasted Red Pepper
+  creator: joebeone
+  creatorUrl: 'https://www.flickr.com/photos/71753172@N00'
+  sourceUrl: 'https://www.flickr.com/photos/71753172@N00/3698279330'
+  license: CC BY 2.0
+  licenseUrl: 'https://creativecommons.org/licenses/by/2.0/'
 prepTimeMinutes: 45
 prepTimeEstimated: true
-image: "https://live.staticflickr.com/2643/3698279330_b61ef44296_b.jpg"
-imageAttribution:
-  title: "Tortilla Española with Roasted Red Pepper"
-  creator: "joebeone"
-  creatorUrl: "https://www.flickr.com/photos/71753172@N00"
-  sourceUrl: "https://www.flickr.com/photos/71753172@N00/3698279330"
-  license: "CC BY 2.0"
-  licenseUrl: "https://creativecommons.org/licenses/by/2.0/"
 ---
+:::lang hi
+# स्पेनिश आलू और ज़ुकीनी टॉर्टिला
 
+पतले कटे आलू, ज़ुकीनी और प्याज़ से बना स्पेनिश ऑमलेट, जिसे ओवन में पकाकर तैयार किया जाता है।
+
+## Instructions
+1. ओवन में रखने योग्य पैन में तेल गरम करें। आलू, ज़ुकीनी और प्याज़ डालकर ढक दें और 15 मिनट पकाएँ, जब तक वे नरम न हो जाएँ।
+2. अंडों को नमक और पार्सले के साथ फेंटें और सब्ज़ियों पर डालें।
+3. 3 मिनट पकाएँ, फिर 200°C पर 12 मिनट ओवन में बेक करें, जब तक मिश्रण जम न जाए। वेजेज़ में काटकर परोसें।
+:::
+
+:::lang mr
+# स्पॅनिश बटाटा आणि झुकिनी टॉर्टिला
+
+पातळ कापलेला बटाटा, झुकिनी आणि कांद्यापासून बनवलेले स्पॅनिश ऑम्लेट, जे शेवटी ओव्हनमध्ये शिजवले जाते.
+
+## Instructions
+1. ओव्हनमध्ये ठेवता येईल अशा पॅनमध्ये तेल गरम करा. बटाटा, झुकिनी आणि कांदा घालून झाकण ठेवा; मऊ होईपर्यंत 15 मिनिटे शिजवा.
+2. अंडी मीठ आणि पार्सलीसोबत फेटून भाज्यांवर ओता.
+3. 3 मिनिटे शिजवा, मग 200°C तापमानाला ओव्हनमध्ये 12 मिनिटे बेक करा, मिश्रण सेट होईपर्यंत. त्रिकोणी फोडी करून वाढा.
+:::

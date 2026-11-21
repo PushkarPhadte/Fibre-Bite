@@ -5,8 +5,6 @@ description: >-
   A lighter vegetarian adaptation of Brazil’s national stew made with black
   beans, smoked paprika, sweet potatoes, and orange zest.
 baseServings: 4
-prepTimeMinutes: 10
-prepTimeSource: "https://www.easyanddelish.com/vegetarian-feijoada-recipe/"
 ingredients:
   - name: 'black beans, soaked overnight'
     baseAmount: 1.5
@@ -73,13 +71,38 @@ nutrition:
     magnesiumMg: 68
     folateMcg: 110
   micronutrientEstimateSource: Per-serving values from cti_receipes_2.pdf.
-image: "https://upload.wikimedia.org/wikipedia/commons/7/70/Feijoada_%C3%A0_brasileira_-02.jpg"
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/7/70/Feijoada_%C3%A0_brasileira_-02.jpg
 imageAttribution:
   title: Feijoada à brasileira
   creator: Bradleyzm
-  creatorUrl: "https://commons.wikimedia.org/wiki/User:Bradleyzm"
-  sourceUrl: "https://commons.wikimedia.org/wiki/File:Feijoada_%C3%A0_brasileira_-02.jpg"
+  creatorUrl: 'https://commons.wikimedia.org/wiki/User:Bradleyzm'
+  sourceUrl: 'https://commons.wikimedia.org/wiki/File:Feijoada_%C3%A0_brasileira_-02.jpg'
   license: CC BY-SA 4.0
-  licenseUrl: "https://creativecommons.org/licenses/by-sa/4.0/"
+  licenseUrl: 'https://creativecommons.org/licenses/by-sa/4.0/'
+prepTimeMinutes: 10
+prepTimeSource: 'https://www.easyanddelish.com/vegetarian-feijoada-recipe/'
 ---
+:::lang hi
+# ब्राज़ीलियाई काले बीन्स का हल्का स्टू (फेज़ोआदा)
 
+ब्राज़ील के राष्ट्रीय स्टू का हल्का शाकाहारी रूप, जो काले बीन्स, स्मोक्ड पेपरिका, शकरकंद और संतरे के छिलके से बनाया जाता है।
+
+## Instructions
+1. प्रेशर कुकर में जैतून का तेल गरम करें; प्याज़, लहसुन और शकरकंद को 4 मिनट तक भूनें।
+2. भीगे हुए काले बीन्स, स्मोक्ड पेपरिका, तेजपत्ता, संतरे का छिलका, नमक और 4 कप पानी डालें।
+3. बीन्स के नरम और मलाईदार होने तक 25 मिनट प्रेशर कुक करें।
+4. परोसने से पहले तेजपत्ता और संतरे का छिलका निकाल दें।
+:::
+
+:::lang mr
+# ब्राझिलियन काळ्या बीन्सचा हलका स्ट्यू (फेजोआदा)
+
+ब्राझीलच्या राष्ट्रीय स्ट्यूचे हे हलके शाकाहारी रूप काळ्या बीन्स, स्मोक्ड पाप्रिका, रताळे आणि संत्र्याच्या सालीपासून बनवले जाते.
+
+## Instructions
+1. प्रेशर कुकरमध्ये ऑलिव्ह तेल गरम करा; कांदा, लसूण आणि रताळे 4 मिनिटे परतून घ्या.
+2. भिजवलेले काळे बीन्स, स्मोक्ड पाप्रिका, तमालपत्र, संत्र्याची साल, मीठ आणि 4 कप पाणी घाला.
+3. बीन्स मऊ आणि मलईदार होईपर्यंत 25 मिनिटे प्रेशर कुक करा.
+4. वाढण्यापूर्वी तमालपत्र आणि संत्र्याची साल काढून टाका.
+:::

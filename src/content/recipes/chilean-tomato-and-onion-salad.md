@@ -5,8 +5,6 @@ description: >-
   A staple Chilean side dish combining thinly sliced tomatoes, rinsed red
   onions, cilantro, and lemon-olive oil dressing.
 baseServings: 2
-prepTimeMinutes: 15
-prepTimeSource: "https://www.thespruceeats.com/chilean-tomato-and-onion-salad-3029588"
 ingredients:
   - name: 'ripe tomatoes, sliced'
     baseAmount: 2
@@ -58,13 +56,37 @@ nutrition:
     vitaminCMg: 28
     potassiumMg: 290
   micronutrientEstimateSource: Per-serving values from cti_receipes_2.pdf.
-image: "https://upload.wikimedia.org/wikipedia/commons/e/e1/Ensalada_Chilena.jpg"
+image: 'https://upload.wikimedia.org/wikipedia/commons/e/e1/Ensalada_Chilena.jpg'
 imageAttribution:
   title: Ensalada Chilena
   creator: Diegostraight
-  creatorUrl: "https://commons.wikimedia.org/wiki/User:Diegostraight"
-  sourceUrl: "https://commons.wikimedia.org/w/index.php?curid=44322825"
+  creatorUrl: 'https://commons.wikimedia.org/wiki/User:Diegostraight'
+  sourceUrl: 'https://commons.wikimedia.org/w/index.php?curid=44322825'
   license: CC BY-SA 4.0
-  licenseUrl: "https://creativecommons.org/licenses/by-sa/4.0/"
+  licenseUrl: 'https://creativecommons.org/licenses/by-sa/4.0/'
+prepTimeMinutes: 15
+prepTimeSource: 'https://www.thespruceeats.com/chilean-tomato-and-onion-salad-3029588'
 ---
+:::lang hi
+# चिली-शैली का टमाटर-प्याज़ सलाद
 
+चिली का लोकप्रिय साइड डिश, जिसमें पतले कटे टमाटर और पानी में धोए लाल प्याज़ को धनिया और नींबू-जैतून के तेल की ड्रेसिंग के साथ मिलाया जाता है।
+
+## Instructions
+1. लाल प्याज़ को पतला काटकर तीखापन कम करने के लिए 10 मिनट ठंडे नमकीन पानी में भिगोएँ; फिर पानी निकाल दें।
+2. कटे हुए पके टमाटरों को प्लेट में सजाएँ और ऊपर से पानी निकला प्याज़ डालें।
+3. सलाद पर ताज़ा धनिया छिड़कें।
+4. जैतून का तेल और नींबू का रस ऊपर से डालें, नमक और काली मिर्च डालकर परोसें।
+:::
+
+:::lang mr
+# चिली-शैलीतील टोमॅटो-कांद्याचे सॅलड
+
+चिलीमधील लोकप्रिय साइड डिश; यात पातळ चिरलेले टोमॅटो आणि पाण्यात धुतलेला लाल कांदा कोथिंबीर व लिंबू-जैतुनाच्या तेलाच्या ड्रेसिंगसोबत दिला जातो.
+
+## Instructions
+1. लाल कांदा पातळ चिरून त्याचा उग्रपणा कमी करण्यासाठी 10 मिनिटे थंड मिठाच्या पाण्यात भिजवा; नंतर पाणी निथळून टाका.
+2. चिरलेले पिकलेले टोमॅटो ताटात मांडून त्यावर निथळलेला कांदा घाला.
+3. सॅलडवर ताजी कोथिंबीर भुरभुरा.
+4. जैतुनाचे तेल आणि लिंबाचा रस वरून घाला, मीठ-मिरी घालून वाढा.
+:::

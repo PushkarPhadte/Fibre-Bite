@@ -67,15 +67,37 @@ nutrition:
     Legacy/Foundation) and ICMR-NIN IFCT 2017 per-100 g values for each
     ingredient, scaled to the quantities used (raw-ingredient weights; cooking
     losses not applied).
+image: 'https://live.staticflickr.com/65535/49859083608_2219e22969_b.jpg'
+imageAttribution:
+  title: Colorful healthy Chickpea Salad
+  creator: FitTasteTic
+  creatorUrl: 'https://www.flickr.com/photos/188303370@N04'
+  sourceUrl: 'https://www.flickr.com/photos/188303370@N04/49859083608'
+  license: CC BY-SA 2.0
+  licenseUrl: 'https://creativecommons.org/licenses/by-sa/2.0/'
 prepTimeMinutes: 45
 prepTimeEstimated: true
-image: "https://live.staticflickr.com/65535/49859083608_2219e22969_b.jpg"
-imageAttribution:
-  title: "Colorful healthy Chickpea Salad"
-  creator: "FitTasteTic"
-  creatorUrl: "https://www.flickr.com/photos/188303370@N04"
-  sourceUrl: "https://www.flickr.com/photos/188303370@N04/49859083608"
-  license: "CC BY-SA 2.0"
-  licenseUrl: "https://creativecommons.org/licenses/by-sa/2.0/"
 ---
+:::lang hi
+# भुनी सब्ज़ियों और छोले का बुद्धा बाउल
 
+भुने शकरकंद और ब्रोकोली को छोले और क्विनोआ के साथ परोसकर ऊपर से नींबू-ताहिनी की ड्रेसिंग डाली जाती है।
+
+## Instructions
+1. शकरकंद, ब्रोकोली और छोले को तेल, पपरिका और आधे नमक के साथ मिलाएँ। 210°C पर 25 मिनट भूनें।
+2. क्विनोआ को 180 मिलीलीटर पानी में 14 मिनट पकाएँ, फिर कांटे से हल्का फुला लें।
+3. ताहिनी, नींबू का रस, पानी और बचा हुआ नमक फेंटकर मिलाएँ।
+4. बाउल में सभी चीज़ें सजाकर रखें और ऊपर से ड्रेसिंग डालें।
+:::
+
+:::lang mr
+# भाजलेल्या भाज्या आणि हरभऱ्याचा बुद्धा बाउल
+
+भाजलेले रताळे आणि ब्रोकोली हरभरे व क्विनोआसोबत वाढून त्यावर लिंबू-ताहिनीचे ड्रेसिंग घातलेला बाउल.
+
+## Instructions
+1. रताळे, ब्रोकोली आणि हरभरे तेल, पाप्रिका आणि अर्धे मीठ घालून मिसळा. 210°C तापमानाला 25 मिनिटे भाजा.
+2. क्विनोआ 180 मिली पाण्यात 14 मिनिटे शिजवा आणि काट्याने मोकळा करून घ्या.
+3. ताहिनी, लिंबाचा रस, पाणी आणि उरलेले मीठ फेटून एकत्र करा.
+4. वाडग्यांत सर्व पदार्थ मांडून वरून ड्रेसिंग घाला.
+:::

@@ -58,15 +58,35 @@ nutrition:
     Legacy/Foundation) and ICMR-NIN IFCT 2017 per-100 g values for each
     ingredient, scaled to the quantities used (raw-ingredient weights; cooking
     losses not applied).
+image: 'https://upload.wikimedia.org/wikipedia/commons/1/12/Kachumber_Salad.JPG'
+imageAttribution:
+  title: Kachumber Salad
+  creator: Miansari66
+  creatorUrl: 'https://commons.wikimedia.org/wiki/User:Miansari66'
+  sourceUrl: 'https://commons.wikimedia.org/w/index.php?curid=17601078'
+  license: CC0 1.0
+  licenseUrl: 'https://creativecommons.org/publicdomain/zero/1.0/deed.en/'
 prepTimeMinutes: 10
 prepTimeEstimated: true
-image: "https://upload.wikimedia.org/wikipedia/commons/1/12/Kachumber_Salad.JPG"
-imageAttribution:
-  title: "Kachumber Salad"
-  creator: "Miansari66"
-  creatorUrl: "https://commons.wikimedia.org/wiki/User:Miansari66"
-  sourceUrl: "https://commons.wikimedia.org/w/index.php?curid=17601078"
-  license: "CC0 1.0"
-  licenseUrl: "https://creativecommons.org/publicdomain/zero/1.0/deed.en/"
 ---
+:::lang hi
+# भुनी मूंगफली वाला कचूम्बर सलाद
 
+खीरे, टमाटर और प्याज का कुरकुरा भारतीय सलाद, जिसके ऊपर भुनी मूंगफली डाली जाती है।
+
+## Instructions
+1. खीरा, टमाटर, प्याज, मिर्च और हरा धनिया एक कटोरे में मिलाएं।
+2. नींबू का रस, जीरा और नमक डालकर सलाद पर अच्छी तरह मिलाएं।
+3. परोसने से ठीक पहले ऊपर से मूंगफली डालें।
+:::
+
+:::lang mr
+# भाजलेल्या शेंगदाण्यांचा कचुंबर सलाड
+
+काकडी, टोमॅटो आणि कांद्याचे कुरकुरीत भारतीय सलाड, वरून भाजलेले शेंगदाणे घातलेले.
+
+## Instructions
+1. काकडी, टोमॅटो, कांदा, मिरची आणि कोथिंबीर एका भांड्यात एकत्र करा.
+2. लिंबाचा रस, जिरे आणि मीठ घालून सलाडला चव द्या.
+3. वाढण्याच्या अगदी आधी वरून शेंगदाणे घाला.
+:::

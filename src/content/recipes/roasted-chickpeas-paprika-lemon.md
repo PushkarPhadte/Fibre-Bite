@@ -61,7 +61,8 @@ nutrition:
   micronutrientEstimateSource: >-
     Estimated from ingredient weights using USDA FoodData Central reference
     profiles.
-image: 'https://upload.wikimedia.org/wikipedia/commons/4/40/Leblebi.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail_unscaled&_=20060902145544'
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/4/40/Leblebi.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail_unscaled&_=20060902145544
 imageAttribution:
   title: Leblebi
   creator: Babbsack
@@ -72,4 +73,26 @@ imageAttribution:
 prepTimeMinutes: 10
 prepTimeEstimated: true
 ---
+:::lang hi
+# भुने हुए छोले
 
+स्मोक्ड पपरिका, लहसुन और ताज़े नींबू के रस में मिलाए गए कुरकुरे ओवन में भुने छोले।
+
+## Instructions
+1. ओवन को 200°C पर पहले से गर्म करें और बेकिंग ट्रे पर पार्चमेंट पेपर बिछाएँ।
+2. छाने हुए छोलों को साफ़ तौलिये से अच्छी तरह थपथपाकर पूरी तरह सुखा लें।
+3. छोलों को जैतून के तेल, स्मोक्ड पपरिका और लहसुन पाउडर के साथ तब तक मिलाएँ, जब तक उन पर मसाले समान रूप से न लग जाएँ।
+4. 25 से 30 मिनट तक कुरकुरे होने तक भूनें। बीच में एक बार ट्रे को हिलाएँ, फिर ऊपर से नींबू का रस डालें।
+:::
+
+:::lang mr
+# भाजलेले हरभरे
+
+स्मोक्ड पाप्रिका, लसूण आणि ताज्या लिंबाच्या रसात मिसळलेले कुरकुरीत ओव्हनमध्ये भाजलेले हरभरे.
+
+## Instructions
+1. ओव्हन 200°C ला आधी गरम करा आणि बेकिंग ट्रेवर पार्चमेंट पेपर अंथरा.
+2. पाणी निथळलेले हरभरे स्वच्छ टॉवेलने पूर्णपणे कोरडे करून घ्या.
+3. हरभरे, ऑलिव्ह ऑइल, स्मोक्ड पाप्रिका आणि लसूण पावडर एकत्र करून मसाल्याचे मिश्रण त्यांना सर्व बाजूंनी समान लागेपर्यंत मिसळा.
+4. कुरकुरीत होईपर्यंत 25 ते 30 मिनिटे भाजा. मध्ये एकदा ट्रे हलवा, नंतर वरून लिंबाचा रस घाला.
+:::

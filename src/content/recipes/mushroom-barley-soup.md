@@ -69,15 +69,37 @@ nutrition:
     Legacy/Foundation) and ICMR-NIN IFCT 2017 per-100 g values for each
     ingredient, scaled to the quantities used (raw-ingredient weights; cooking
     losses not applied).
-image: "https://live.staticflickr.com/2358/2077287527_78a95d2289_b.jpg"
+image: 'https://live.staticflickr.com/2358/2077287527_78a95d2289_b.jpg'
 imageAttribution:
-  title: "Mushroom barley soup"
-  creator: "WordRidden"
-  creatorUrl: "https://www.flickr.com/photos/97844767@N00"
-  sourceUrl: "https://www.flickr.com/photos/97844767@N00/2077287527"
-  license: "CC BY 2.0"
-  licenseUrl: "https://creativecommons.org/licenses/by/2.0/"
+  title: Mushroom barley soup
+  creator: WordRidden
+  creatorUrl: 'https://www.flickr.com/photos/97844767@N00'
+  sourceUrl: 'https://www.flickr.com/photos/97844767@N00/2077287527'
+  license: CC BY 2.0
+  licenseUrl: 'https://creativecommons.org/licenses/by/2.0/'
 prepTimeMinutes: 50
 prepTimeEstimated: true
 ---
+:::lang hi
+# मशरूम और जौ का सूप
 
+मशरूम, साबुत जौ, गाजर और अजवाइन को थाइम के साथ पकाकर बनाया गया भरपेट सूप।
+
+## Instructions
+1. तेल गरम करें और मशरूम को 6 मिनट तक सुनहरा भूरा होने तक भूनें। फिर आधे मशरूम निकालकर अलग रख दें।
+2. पैन में प्याज़, गाजर, अजवाइन और लहसुन डालें और 5 मिनट तक पकाएँ।
+3. जौ, थाइम, नमक और पानी डालें। धीमी आँच पर 35 मिनट तक पकाएँ, जब तक जौ नरम न हो जाए।
+4. अलग रखे मशरूम वापस डालें, काली मिर्च से स्वादानुसार मसाला करें और परोसें।
+:::
+
+:::lang mr
+# मशरूम आणि जवाचा सूप
+
+मशरूम, अख्खा जव, गाजर आणि सेलरी थाइमसोबत शिजवून केलेला पोटभरीचा सूप।
+
+## Instructions
+1. तेल गरम करून मशरूम 6 मिनिटे सोनेरी तपकिरी होईपर्यंत परता. नंतर अर्धे मशरूम काढून बाजूला ठेवा.
+2. पॅनमध्ये कांदा, गाजर, सेलरी आणि लसूण घालून 5 मिनिटे शिजवा.
+3. जव, थाइम, मीठ आणि पाणी घालून मंद आचेवर 35 मिनिटे शिजवा, जव मऊ होईपर्यंत.
+4. बाजूला ठेवलेले मशरूम परत घाला, काळी मिरी घालून चवीनुसार मसाला करा आणि वाढा.
+:::

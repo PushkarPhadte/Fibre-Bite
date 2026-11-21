@@ -1,20 +1,10 @@
 ---
 title: Italian Roasted Garlic and Tomato Bruschetta
 slug: italian-roasted-garlic-and-tomato-bruschetta
-image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/A_typical_Maltese_bruschetta_with_fresh_Mediterranean_ingredients.jpg/960px-A_typical_Maltese_bruschetta_with_fresh_Mediterranean_ingredients.jpg"
-imageAttribution:
-  title: Maltese bruschetta with Mediterranean ingredients
-  creator: Patrickfarrugia
-  creatorUrl: "https://commons.wikimedia.org/wiki/Special:Contributions/Patrickfarrugia"
-  sourceUrl: "https://commons.wikimedia.org/wiki/File:A_typical_Maltese_bruschetta_with_fresh_Mediterranean_ingredients.jpg"
-  license: CC BY-SA 4.0
-  licenseUrl: "https://creativecommons.org/licenses/by-sa/4.0"
 description: >-
   Toasted whole grain bread rubbed with garlic and topped with fresh diced
   tomatoes, basil, and extra virgin olive oil.
 baseServings: 3
-prepTimeMinutes: 15
-prepTimeSource: "https://www.thespruceeats.com/how-to-make-bruschetta-2020459"
 ingredients:
   - name: whole grain bread
     baseAmount: 6
@@ -66,5 +56,39 @@ nutrition:
     ironMg: 1.4
     potassiumMg: 220
   micronutrientEstimateSource: Per-serving values from cti_receipes_2.pdf.
+image: >-
+  https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/A_typical_Maltese_bruschetta_with_fresh_Mediterranean_ingredients.jpg/960px-A_typical_Maltese_bruschetta_with_fresh_Mediterranean_ingredients.jpg
+imageAttribution:
+  title: Maltese bruschetta with Mediterranean ingredients
+  creator: Patrickfarrugia
+  creatorUrl: 'https://commons.wikimedia.org/wiki/Special:Contributions/Patrickfarrugia'
+  sourceUrl: >-
+    https://commons.wikimedia.org/wiki/File:A_typical_Maltese_bruschetta_with_fresh_Mediterranean_ingredients.jpg
+  license: CC BY-SA 4.0
+  licenseUrl: 'https://creativecommons.org/licenses/by-sa/4.0'
+prepTimeMinutes: 15
+prepTimeSource: 'https://www.thespruceeats.com/how-to-make-bruschetta-2020459'
 ---
+:::lang hi
+# इतालवी भुने लहसुन और टमाटर की ब्रुशेटा
 
+साबुत अनाज की टोस्ट की हुई ब्रेड पर लहसुन रगड़कर, ताज़े कटे टमाटर, तुलसी और एक्स्ट्रा-वर्जिन जैतून का तेल डाला जाता है।
+
+## Instructions
+1. साबुत अनाज की ब्रेड के स्लाइस कुरकुरे होने तक टोस्ट करें।
+2. टोस्ट की हुई ब्रेड के एक तरफ आधी कली वाला लहसुन रगड़ें।
+3. कटे टमाटर, बारीक कटा लहसुन, तुलसी, जैतून का तेल, नमक और काली मिर्च मिलाएँ।
+4. टमाटर का मिश्रण टोस्ट की हुई ब्रेड पर चम्मच से रखें और ऊपर से बाल्समिक ग्लेज़ की धार डालें।
+:::
+
+:::lang mr
+# इटालियन भाजलेला लसूण आणि टोमॅटो ब्रुशेट्टा
+
+संपूर्ण धान्याच्या टोस्ट केलेल्या ब्रेडवर लसूण चोळून, त्यावर ताजे चिरलेले टोमॅटो, तुळस आणि एक्स्ट्रा व्हर्जिन ऑलिव्ह ऑइल घातले जाते.
+
+## Instructions
+1. संपूर्ण धान्याच्या ब्रेडचे स्लाइस कुरकुरीत होईपर्यंत टोस्ट करा.
+2. टोस्ट केलेल्या ब्रेडच्या एका बाजूवर अर्धी केलेली लसूण पाकळी चोळा.
+3. चिरलेले टोमॅटो, बारीक चिरलेला लसूण, तुळस, ऑलिव्ह ऑइल, मीठ आणि मिरी एकत्र करा.
+4. टोमॅटोचे मिश्रण चमच्याने टोस्ट केलेल्या ब्रेडवर ठेवा आणि वरून बाल्सॅमिक ग्लेझची धार घाला.
+:::

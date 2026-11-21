@@ -65,15 +65,35 @@ nutrition:
     Legacy/Foundation) and ICMR-NIN IFCT 2017 per-100 g values for each
     ingredient, scaled to the quantities used (raw-ingredient weights; cooking
     losses not applied).
+image: 'https://live.staticflickr.com/7043/6881461557_603e5b4bfb_b.jpg'
+imageAttribution:
+  title: Raw Salmon Patties
+  creator: cookbookman17
+  creatorUrl: 'https://www.flickr.com/photos/58545726@N02'
+  sourceUrl: 'https://www.flickr.com/photos/58545726@N02/6881461557'
+  license: CC BY 2.0
+  licenseUrl: 'https://creativecommons.org/licenses/by/2.0/'
 prepTimeMinutes: 35
 prepTimeEstimated: true
-image: "https://live.staticflickr.com/7043/6881461557_603e5b4bfb_b.jpg"
-imageAttribution:
-  title: "Raw Salmon Patties"
-  creator: "cookbookman17"
-  creatorUrl: "https://www.flickr.com/photos/58545726@N02"
-  sourceUrl: "https://www.flickr.com/photos/58545726@N02/6881461557"
-  license: "CC BY 2.0"
-  licenseUrl: "https://creativecommons.org/licenses/by/2.0/"
 ---
+:::lang hi
+# डिल-दही के साथ बेक्ड सैल्मन पैटीज़
 
+ओट्स और अंडे से बाँधी गई सैल्मन की टिक्कियाँ ओवन में बेक करके डिल-दही की चटनी के साथ परोसी जाती हैं।
+
+## Instructions
+1. सैल्मन, ओट्स, अंडा, हरे प्याज़, आधा डिल, नींबू का रस और आधा नमक मिलाएँ और मिश्रण से 6 टिक्कियाँ बनाएँ।
+2. टिक्कियों पर तेल लगाकर 200°C पर 18 मिनट बेक करें और बीच में एक बार पलटें।
+3. दही में बचा हुआ डिल और नमक मिलाएँ और टिक्कियों के साथ परोसें।
+:::
+
+:::lang mr
+# शेपूच्या दह्यासह बेक्ड सॅल्मनच्या टिक्क्या
+
+ओट्स आणि अंड्याने बांधलेल्या सॅल्मनच्या टिक्क्या ओव्हनमध्ये बेक करून शेपूच्या दह्याच्या सॉससोबत वाढल्या जातात.
+
+## Instructions
+1. सॅल्मन, ओट्स, अंडे, पातीचा कांदा, अर्धा शेपू, लिंबाचा रस आणि अर्धे मीठ एकत्र करून मिश्रणाच्या ६ टिक्क्या तयार करा.
+2. टिक्क्यांना तेल लावा आणि २००°C वर १८ मिनिटे बेक करा; मध्ये एकदा उलटा.
+3. दह्यात उरलेला शेपू आणि मीठ मिसळा आणि टिक्क्यांसोबत वाढा.
+:::

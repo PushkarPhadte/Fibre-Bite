@@ -63,7 +63,8 @@ nutrition:
   micronutrientEstimateSource: >-
     Estimated from ingredient weights using USDA FoodData Central reference
     profiles.
-image: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Roasted_butternut.jpg/960px-Roasted_butternut.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20171202170434'
+image: >-
+  https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Roasted_butternut.jpg/960px-Roasted_butternut.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20171202170434
 imageAttribution:
   title: Roasted butternut
   creator: Ruthven
@@ -74,4 +75,26 @@ imageAttribution:
 prepTimeMinutes: 15
 prepTimeEstimated: true
 ---
+:::lang hi
+# ज्वार और भुने हुए बटरनट स्क्वैश का पुलाव
 
+साबुत ज्वार का हल्का मेवेदार स्वाद, कैरामेलाइज़ किए हुए बटरनट स्क्वैश के टुकड़ों, हरे प्याज़ और सेज के साथ।
+
+## Instructions
+1. ओवन को 200°C पर गरम करें। बटरनट स्क्वैश के टुकड़ों को जैतून के तेल के आधे हिस्से और सेज के साथ बेकिंग ट्रे पर अच्छी तरह मिलाएँ।
+2. स्क्वैश को 25 मिनट तक भूनें, जब तक वह नरम न हो जाए और किनारों पर हल्का भूरा न पड़ जाए।
+3. इस बीच, बचे हुए जैतून के तेल को एक सॉसपैन में गरम करें। धुला हुआ ज्वार और शोरबा डालें, उबाल आने दें, फिर ढककर धीमी आँच पर 35 से 40 मिनट पकाएँ, जब तक ज्वार नरम न हो जाए।
+4. परोसने से पहले भुने हुए स्क्वैश और हरे प्याज़ को पके हुए ज्वार में हल्के हाथ से मिलाएँ।
+:::
+
+:::lang mr
+# ज्वारी आणि भाजलेल्या बटरनट स्क्वॅशचा पुलाव
+
+साबुत ज्वारीची किंचित कडधान्यासारखी चव, कॅरमेलाइझ केलेले बटरनट स्क्वॅशचे तुकडे, कांद्याची पात आणि सेज यांची छान सांगड.
+
+## Instructions
+1. ओव्हन 200°C तापमानाला गरम करा. बटरनट स्क्वॅशचे तुकडे, ऑलिव्ह तेलाचा अर्धा भाग आणि सेज बेकिंग ट्रेमध्ये एकत्र करून नीट माखा.
+2. स्क्वॅश 25 मिनिटे भाजा; तो मऊ होऊन कडा किंचित तपकिरी झाल्या पाहिजेत.
+3. दरम्यान, उरलेले ऑलिव्ह तेल सॉसपॅनमध्ये गरम करा. धुऊन घेतलेली ज्वारी आणि शोरबा घाला, उकळी आणा आणि झाकण ठेवून मंद आचेवर 35 ते 40 मिनिटे शिजवा, ज्वारी मऊ होईपर्यंत.
+4. वाढण्यापूर्वी भाजलेला स्क्वॅश आणि कांद्याची पात शिजलेल्या ज्वारीत हलक्या हाताने मिसळा.
+:::

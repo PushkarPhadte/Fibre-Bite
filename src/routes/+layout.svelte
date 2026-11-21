@@ -10,9 +10,11 @@
 	import { initializeFavorites } from '$lib/preferences.svelte';
 	import { initializeRecipeSwaps } from '$lib/recipe-swaps.svelte';
 	import { initializeRecipeServings } from '$lib/recipe-servings.svelte';
+	import { initializeLanguage, language, setLanguage, t, type Language } from '$lib/locale.svelte';
 
 	let { children } = $props();
 	onMount(() => {
+		initializeLanguage();
 		initializeAllergyProfile();
 		initializeFavorites();
 		initializeGroceryList();
@@ -32,26 +34,32 @@
 			<span>Fibre-Bite</span>
 		</a>
 		<div class="flex w-full items-center justify-between gap-1 sm:w-auto sm:gap-5">
-			<a href="/recipes" aria-label="Recipes" title="Recipes" class="inline-flex h-10 min-w-10 items-center justify-center gap-2 rounded-md px-2 text-sm font-semibold text-emerald-950 transition hover:bg-emerald-950/5 sm:px-3">
+			<a href="/recipes" aria-label={t('nav.recipes')} title={t('nav.recipes')} class="inline-flex h-10 min-w-10 items-center justify-center gap-2 rounded-md px-2 text-sm font-semibold text-emerald-950 transition hover:bg-emerald-950/5 sm:px-3">
 				<BookOpen size={16} />
-				<span class="sr-only sm:not-sr-only">Recipes</span>
+				<span class="sr-only sm:not-sr-only">{t('nav.recipes')}</span>
 			</a>
-			<a href="/grocery-list" aria-label="Groceries" title="Groceries" class="inline-flex h-10 min-w-10 items-center justify-center gap-2 rounded-md px-2 text-sm font-semibold text-emerald-950 transition hover:bg-emerald-950/5 sm:px-3">
+			<a href="/grocery-list" aria-label={t('nav.groceries')} title={t('nav.groceries')} class="inline-flex h-10 min-w-10 items-center justify-center gap-2 rounded-md px-2 text-sm font-semibold text-emerald-950 transition hover:bg-emerald-950/5 sm:px-3">
 				<ShoppingBasket size={16} />
-				<span class="sr-only sm:not-sr-only">Groceries</span>
+				<span class="sr-only sm:not-sr-only">{t('nav.groceries')}</span>
 			</a>
-			<a href="/meal-prep" aria-label="Meal prep" title="Meal prep" class="inline-flex h-10 min-w-10 items-center justify-center gap-2 rounded-md px-2 text-sm font-semibold text-emerald-950 transition hover:bg-emerald-950/5 sm:px-3">
+			<a href="/meal-prep" aria-label={t('nav.mealPrep')} title={t('nav.mealPrep')} class="inline-flex h-10 min-w-10 items-center justify-center gap-2 rounded-md px-2 text-sm font-semibold text-emerald-950 transition hover:bg-emerald-950/5 sm:px-3">
 				<CookingPot size={16} />
-				<span class="sr-only sm:not-sr-only">Meal prep</span>
+				<span class="sr-only sm:not-sr-only">{t('nav.mealPrep')}</span>
 			</a>
-			<a href="/zero-waste" aria-label="Zero-waste recipe finder" title="Zero-waste recipe finder" class="inline-flex h-10 min-w-10 items-center justify-center gap-2 rounded-md px-2 text-sm font-semibold text-emerald-950 transition hover:bg-emerald-950/5 sm:px-3">
+			<a href="/zero-waste" aria-label={t('nav.zeroWaste')} title={t('nav.zeroWaste')} class="inline-flex h-10 min-w-10 items-center justify-center gap-2 rounded-md px-2 text-sm font-semibold text-emerald-950 transition hover:bg-emerald-950/5 sm:px-3">
 				<Recycle size={16} />
-				<span class="sr-only sm:not-sr-only">Waste</span>
+				<span class="sr-only sm:not-sr-only">{t('nav.wasteShort')}</span>
 			</a>
-			<a href="/favorites" aria-label="Saved recipes" title="Saved recipes" class="inline-flex h-10 min-w-10 items-center justify-center gap-2 rounded-md px-2 text-sm font-semibold text-emerald-950 transition hover:bg-emerald-950/5 sm:px-3">
+			<a href="/favorites" aria-label={t('nav.saved')} title={t('nav.saved')} class="inline-flex h-10 min-w-10 items-center justify-center gap-2 rounded-md px-2 text-sm font-semibold text-emerald-950 transition hover:bg-emerald-950/5 sm:px-3">
 				<Bookmark size={16} />
-				<span class="sr-only sm:not-sr-only">Saved</span>
+				<span class="sr-only sm:not-sr-only">{t('nav.saved')}</span>
 			</a>
+			<label class="sr-only" for="language">{t('language')}</label>
+			<select id="language" class="h-10 rounded-md border border-emerald-950/15 bg-white px-2 text-xs font-semibold text-emerald-950" value={language.current} onchange={(event) => setLanguage(event.currentTarget.value as Language)}>
+				<option value="en">{t('english')}</option>
+				<option value="hi">{t('hindi')}</option>
+				<option value="mr">{t('marathi')}</option>
+			</select>
 		</div>
 	</nav>
 </header>

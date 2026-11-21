@@ -1,5 +1,6 @@
 import matter from 'gray-matter';
 import { localRecipeFrontmatterSchema, type Recipe } from '$lib/recipes/types';
+import { parseLanguageBlocks } from '$lib/recipes/localized-content';
 
 const recipeFiles = import.meta.glob<string>('../../content/recipes/*.md', {
 	eager: true,
@@ -8,13 +9,15 @@ const recipeFiles = import.meta.glob<string>('../../content/recipes/*.md', {
 });
 
 export const localRecipes: Recipe[] = Object.entries(recipeFiles).map(([path, markdown]) => {
-	const parsed = localRecipeFrontmatterSchema.safeParse(matter(markdown).data);
+	const recipeMatter = matter(markdown);
+	const parsed = localRecipeFrontmatterSchema.safeParse(recipeMatter.data);
 	if (!parsed.success) {
 		throw new Error(`Invalid recipe frontmatter in ${path}: ${parsed.error.message}`);
 	}
 
 	return {
 		...parsed.data,
+		translations: { ...parseLanguageBlocks(recipeMatter.content), ...parsed.data.translations },
 		id: `local-${parsed.data.slug}`
 	};
 });

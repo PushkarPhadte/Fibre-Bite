@@ -71,15 +71,37 @@ nutrition:
     Legacy/Foundation) and ICMR-NIN IFCT 2017 per-100 g values for each
     ingredient, scaled to the quantities used (raw-ingredient weights; cooking
     losses not applied).
-image: "https://live.staticflickr.com/6240/6352434359_cee9e8ded7_b.jpg"
+image: 'https://live.staticflickr.com/6240/6352434359_cee9e8ded7_b.jpg'
 imageAttribution:
-  title: "Dolsot Bibimbap"
-  creator: "KFoodaddict"
-  creatorUrl: "https://www.flickr.com/photos/61056459@N05"
-  sourceUrl: "https://www.flickr.com/photos/61056459@N05/6352434359"
-  license: "CC BY 2.0"
-  licenseUrl: "https://creativecommons.org/licenses/by/2.0/"
+  title: Dolsot Bibimbap
+  creator: KFoodaddict
+  creatorUrl: 'https://www.flickr.com/photos/61056459@N05'
+  sourceUrl: 'https://www.flickr.com/photos/61056459@N05/6352434359'
+  license: CC BY 2.0
+  licenseUrl: 'https://creativecommons.org/licenses/by/2.0/'
 prepTimeMinutes: 40
 prepTimeEstimated: true
 ---
+:::lang hi
+# सब्जी बिबिंबैप बाउल
 
+भूरे चावल के ऊपर भूना हुआ पालक, गाजर, मशरूम, अंकुरित अनाज और एक तला हुआ अंडा डालें।
+
+## Instructions
+1. निर्देशानुसार चावल पकाएं।
+2. गाजर, मशरूम, पालक और अंकुरित अनाजों को अलग-अलग थोड़े से तेल में लहसुन के साथ हल्का नरम होने तक भूनें, तमरी के साथ मसाला डालें।
+3. बचे हुए तेल में अंडों को धूप की तरफ तलें।
+4. चावल और सब्ज़ियों को कटोरे में व्यवस्थित करें, ऊपर से एक अंडा डालें और तिल छिड़कें।
+:::
+
+:::lang mr
+# भाजी बिबिंबप वाटी
+
+तपकिरी तांदूळ वर तळलेले पालक, गाजर, मशरूम, स्प्राउट्स आणि तळलेले अंडे.
+
+## Instructions
+1. निर्देशानुसार भात शिजवा.
+2. गाजर, मशरूम, पालक आणि स्प्राउट्स थोडेसे तेलात लसूण घालून थोडेसे मऊ होईपर्यंत परतून घ्या.
+3. उरलेल्या तेलात अंडी सनी-साइड वर तळून घ्या.
+4. तांदूळ आणि भाज्या भांड्यात ठेवा, वर अंडी घाला आणि तीळ शिंपडा.
+:::

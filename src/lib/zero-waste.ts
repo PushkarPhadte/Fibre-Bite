@@ -1,4 +1,5 @@
 import type { Recipe } from './recipes/types';
+import { normalizeIngredientName, resolveIngredientName } from './recipes/ingredients.ts';
 
 export interface LowWasteSuggestion {
 	recipe: Recipe;
@@ -7,13 +8,22 @@ export interface LowWasteSuggestion {
 }
 
 function normalize(value: string): string {
-	return value.toLowerCase().replace(/[^a-z0-9\s-]/g, ' ').replace(/\s+/g, ' ').trim();
+	return normalizeIngredientName(value);
 }
 
-function ingredientMatches(pantryItem: string, recipeIngredient: string): boolean {
+function ingredientMatches(pantryItem: string, recipeIngredient: { name: string; canonicalId?: string }): boolean {
 	const pantry = normalize(pantryItem);
-	const ingredient = normalize(recipeIngredient);
+	const ingredient = normalize(recipeIngredient.name);
 	if (!pantry || !ingredient) return false;
+	if (!recipeIngredient.canonicalId && /\b(?:and|or|blend|mixture|masala)\b|\//i.test(ingredient)) return false;
+	const pantryResolution = resolveIngredientName(pantryItem);
+	const ingredientResolution = recipeIngredient.canonicalId
+		? { status: 'known' as const, canonicalId: recipeIngredient.canonicalId }
+		: resolveIngredientName(recipeIngredient.name);
+	if (pantryResolution.status === 'ambiguous' || ingredientResolution.status === 'ambiguous') return false;
+	if (pantryResolution.status === 'known' && ingredientResolution.status === 'known') {
+		return pantryResolution.canonicalId === ingredientResolution.canonicalId;
+	}
 	return pantry === ingredient || pantry.includes(ingredient) || ingredient.includes(pantry);
 }
 
@@ -24,7 +34,7 @@ export function findLowWasteRecipes(recipes: Recipe[], pantryItems: string[]): L
 	return recipes
 		.map((recipe) => {
 			const matchedIngredients = recipe.ingredients
-				.filter((ingredient) => pantry.some((item) => ingredientMatches(item, ingredient.name)))
+				.filter((ingredient) => pantry.some((item) => ingredientMatches(item, ingredient)))
 				.map((ingredient) => ingredient.name);
 			return { recipe, matchedIngredients, totalIngredients: recipe.ingredients.length };
 		})

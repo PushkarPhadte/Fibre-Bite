@@ -75,7 +75,8 @@ nutrition:
   micronutrientEstimateSource: >-
     Estimated from ingredient weights using USDA FoodData Central reference
     profiles.
-image: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Sambar_%28drumstick%29.jpg/960px-Sambar_%28drumstick%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20150614144851'
+image: >-
+  https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Sambar_%28drumstick%29.jpg/960px-Sambar_%28drumstick%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20150614144851
 imageAttribution:
   title: Drumstick sambar
   creator: Booradleyp1
@@ -86,4 +87,26 @@ imageAttribution:
 prepTimeMinutes: 15
 prepTimeEstimated: true
 ---
+:::lang hi
+# हरे मूँग और सहजन की सांभर कटोरी
 
+हरी मूँग की दक्षिण भारतीय मसालेदार तरी, जिसे सहजन की फलियों, टमाटर, इमली और करी पत्तों के साथ धीमी आँच पर पकाया जाता है।
+
+## Instructions
+1. हरी मूँग धोकर हल्दी के साथ पानी में 25 से 30 मिनट तक नरम होने तक पकाएँ।
+2. सहजन की फलियाँ, कटे हुए टमाटर, इमली का पेस्ट और सांभर पाउडर डालें; फलियाँ नरम होने तक 12 मिनट पकाएँ।
+3. एक छोटे पैन में जैतून का तेल गरम करें, राई और करी पत्तों को चटकाएँ, फिर इस तड़के को सांभर में डालें।
+4. अच्छी तरह मिलाएँ और कटोरियों में गरमागरम परोसें।
+:::
+
+:::lang mr
+# हिरवे मूग आणि शेवग्याच्या शेंगांचा सांबार बाउल
+
+हिरवे मूग, शेवग्याच्या शेंगा, टोमॅटो, चिंच आणि कढीपत्त्यासह मंद आचेवर शिजवलेला दक्षिण भारतीय मसालेदार रस्सा।
+
+## Instructions
+1. हिरवे मूग धुऊन हळदीसह पाण्यात 25 ते 30 मिनिटे मऊ होईपर्यंत शिजवा.
+2. शेवग्याच्या शेंगा, चिरलेले टोमॅटो, चिंचेचा कोळ आणि सांबार मसाला घाला; शेंगा मऊ होईपर्यंत 12 मिनिटे शिजवा.
+3. एका छोट्या पॅनमध्ये ऑलिव्ह ऑइल गरम करा, मोहरी आणि कढीपत्ता तडतडू द्या, आणि ही फोडणी सांबारमध्ये घाला.
+4. चांगले ढवळा आणि बाउलमध्ये गरम सर्व्ह करा.
+:::

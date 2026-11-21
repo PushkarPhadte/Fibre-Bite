@@ -6,8 +6,6 @@ description: >-
   A vibrant fresh salad combining sliced orange segments, creamy avocado, mixed
   greens, and pumpkin seeds.
 baseServings: 2
-prepTimeMinutes: 10
-prepTimeSource: "https://californiaavocado.com/recipe/avocado-citrus-salad-with-toasted-sesame/"
 ingredients:
   - name: 'avocado, sliced'
     baseAmount: 1
@@ -58,6 +56,30 @@ nutrition:
     vitaminCMg: 55
     potassiumMg: 480
     magnesiumMg: 55
-  micronutrientEstimateSource: Per-serving values from cti_receipes_2.pdf.
+  micronutrientEstimateSource: Per-serving values from USDA.
+prepTimeMinutes: 10
+prepTimeSource: 'https://californiaavocado.com/recipe/avocado-citrus-salad-with-toasted-sesame/'
 ---
+:::lang hi
+# एवोकाडो और खट्टे फलों का भुने बीजों वाला सलाद
 
+संतरे की फाँकों, मलाईदार एवोकाडो, मिले-जुले हरे पत्तों और कद्दू के बीजों से बना एक ताज़ा, रंग-बिरंगा सलाद।
+
+## Instructions
+1. मिले-जुले कोमल हरे पत्तों को प्लेटों पर सजाएँ।
+2. ऊपर संतरे की फाँकें और एवोकाडो के स्लाइस रखें।
+3. सलाद पर भुने हुए कद्दू के बीज छिड़कें।
+4. जैतून का तेल, संतरे का रस, नमक और काली मिर्च फेंटकर मिलाएँ; ऊपर से डालें।
+:::
+
+:::lang mr
+# अवोकॅडो आणि आंबट फळांचे भाजलेल्या बियांचे सलाड
+
+संत्र्याच्या फोडी, मऊसर अवोकॅडो, मिश्र हिरव्या पानभाज्या आणि भोपळ्याच्या बिया यांचा ताजा, रंगतदार सलाड.
+
+## Instructions
+1. मिश्र कोवळ्या हिरव्या पानभाज्या प्लेटमध्ये पसरून ठेवा.
+2. त्यावर संत्र्याच्या फोडी आणि अवोकॅडोचे काप ठेवा.
+3. सलाडवर भाजलेल्या भोपळ्याच्या बिया शिंपडा.
+4. जैतुनाचे तेल, संत्र्याचा रस, मीठ आणि काळी मिरी एकत्र फेटा; वरून सलाडवर घाला.
+:::

@@ -1,3 +1,5 @@
+import { normalizeIngredientName, resolveIngredientName } from './recipes/ingredients';
+
 const PANTRY_KEY = 'fibre-bite-zero-waste-pantry';
 
 export const pantry = $state({ ingredients: [] as string[], initialized: false });
@@ -27,8 +29,18 @@ function persistPantry() {
 
 export function addPantryIngredients(value: string) {
 	const additions = value.split(',').map((item) => item.trim()).filter(Boolean);
-	const known = new Set(pantry.ingredients.map((item) => item.toLowerCase()));
-	pantry.ingredients = [...pantry.ingredients, ...additions.filter((item) => !known.has(item.toLowerCase()))];
+	const existing = new Set(pantry.ingredients.map((item) => {
+		const resolution = resolveIngredientName(item);
+		return resolution.status === 'ambiguous' ? normalizeIngredientName(item) : resolution.canonicalId;
+	}));
+	const additionsToKeep = additions.filter((item) => {
+		const resolution = resolveIngredientName(item);
+		const identity = resolution.status === 'ambiguous' ? normalizeIngredientName(item) : resolution.canonicalId;
+		if (existing.has(identity)) return false;
+		existing.add(identity);
+		return true;
+	});
+	pantry.ingredients = [...pantry.ingredients, ...additionsToKeep];
 	persistPantry();
 }
 

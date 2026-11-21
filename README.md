@@ -69,7 +69,7 @@ Keep each slug unique. Invalid fields and duplicate slugs fail the build with a 
 
 To add several recipes from structured data, use the [bulk recipe JSON format](docs/recipe-import-json.md) and run `pnpm recipes:import -- path/to/recipes.json`. Add `--dry-run` to validate the entire batch without writing files.
 
-Run `pnpm recipes:metadata` to generate a compact recipe inventory at `resources/recipe-metadata.json`, including missing and repeated image URLs.
+Run `pnpm recipes:metadata` to generate the recipe inventory at `metadata/recipe-metadata.json`. `pnpm recipes:export` also refreshes this inventory while writing the import-ready recipe array. The inventory includes missing-image and duplicate-image counts, attribute coverage, and each recipe's missing optional attributes. Add `--export-duplicates`, `--explore-missing-images`, or `--export-missing-attributes` to write the corresponding detail reports in `metadata/`.
 
 ## Develop And Deploy
 

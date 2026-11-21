@@ -6,8 +6,6 @@ description: >-
   A savory, light soup consisting of pressure-cooked chicken and potatoes
   blended together with shredded chicken pieces and herbs.
 baseServings: 6
-prepTimeMinutes: 25
-prepTimeSource: "https://www.allrecipes.com/recipe/272232/chicken-potato-soup/"
 ingredients:
   - name: 'potatoes, peeled and chopped'
     baseAmount: 3
@@ -59,5 +57,31 @@ nutrition:
     ironMg: 1.1
     potassiumMg: 350
   micronutrientEstimateSource: Per-serving values from CTI_RECEIPES.pdf.
+prepTimeMinutes: 25
+prepTimeSource: 'https://www.allrecipes.com/recipe/272232/chicken-potato-soup/'
 ---
+:::lang hi
+# चिकन-आलू का सूप
 
+प्रेशर-कुकर में पके चिकन और आलू, रेशेदार चिकन के टुकड़ों और जड़ी-बूटियों से बना स्वादिष्ट, हल्का सूप।
+
+## Instructions
+1. चिकन के टुकड़ों और आलू को पानी के साथ प्रेशर-कुकर में नरम होने तक पकाएँ।
+2. आलू निकालकर अच्छी तरह मैश करें या कद्दूकस करें; चिकन निकालें, उसकी हड्डियाँ हटाएँ और उसे बारीक रेशों में तोड़ें।
+3. एक सॉसपैन में रेशेदार चिकन और कद्दूकस किए आलू मिलाएँ।
+4. नमक, काली मिर्च पाउडर और मैगी क्यूब डालकर उबाल आने दें।
+5. धनिया या सेलरी से सजाएँ और बहुत गरमागरम परोसें।
+:::
+
+:::lang mr
+# चिकन-बटाट्याचे सूप
+
+प्रेशर कुकरमध्ये शिजवलेले चिकन आणि बटाटे, किसलेले चिकनचे तुकडे आणि औषधी पानांपासून बनवलेले चविष्ट, हलके सूप.
+
+## Instructions
+1. चिकनचे तुकडे आणि बटाटे पाण्यासह प्रेशर कुकरमध्ये मऊ होईपर्यंत शिजवा.
+2. बटाटे काढून नीट मॅश करा किंवा किसा; चिकन काढून त्याची हाडे वेगळी करा आणि चिकन बारीक तंतूंमध्ये कुस्करा.
+3. एका पातेल्यात कुस्करलेले चिकन आणि किसलेले बटाटे एकत्र करा.
+4. मीठ, मिरीपूड आणि मॅगी क्यूब घालून उकळी आणा.
+5. कोथिंबीर किंवा सेलरीने सजवून गरमागरम वाढा.
+:::

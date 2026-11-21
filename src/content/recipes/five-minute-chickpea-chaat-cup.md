@@ -57,15 +57,33 @@ nutrition:
     Legacy/Foundation) and ICMR-NIN IFCT 2017 per-100 g values for each
     ingredient, scaled to the quantities used (raw-ingredient weights; cooking
     losses not applied).
-image: "https://live.staticflickr.com/3556/3520800408_d71015ce04_b.jpg"
+image: 'https://live.staticflickr.com/3556/3520800408_d71015ce04_b.jpg'
 imageAttribution:
-  title: "moghul aloo papri chaat"
-  creator: "goodiesfirst"
-  creatorUrl: "https://www.flickr.com/photos/49215102@N00"
-  sourceUrl: "https://www.flickr.com/photos/49215102@N00/3520800408"
-  license: "CC BY 2.0"
-  licenseUrl: "https://creativecommons.org/licenses/by/2.0/"
+  title: moghul aloo papri chaat
+  creator: goodiesfirst
+  creatorUrl: 'https://www.flickr.com/photos/49215102@N00'
+  sourceUrl: 'https://www.flickr.com/photos/49215102@N00/3520800408'
+  license: CC BY 2.0
+  licenseUrl: 'https://creativecommons.org/licenses/by/2.0/'
 prepTimeMinutes: 5
 prepTimeEstimated: true
 ---
+:::lang hi
+# पाँच मिनट का छोले चाट कप
 
+पके हुए छोले को प्याज़, टमाटर, खीरे और नींबू के साथ मिलाकर बना झटपट प्रोटीन स्नैक।
+
+## Instructions
+1. छोले, प्याज़, टमाटर, खीरा और धनिया मिलाएँ।
+2. नींबू का रस, जीरा, मिर्च और नमक डालकर स्वाद दें, मिलाएँ और परोसें।
+:::
+
+:::lang mr
+# पाच मिनिटांचा छोले चाट कप
+
+शिजवलेले छोले कांदा, टोमॅटो, काकडी आणि लिंबासह मिसळून केलेला झटपट प्रथिनयुक्त खाऊ.
+
+## Instructions
+1. छोले, कांदा, टोमॅटो, काकडी आणि कोथिंबीर एकत्र करा.
+2. लिंबाचा रस, जिरे, तिखट आणि मीठ घालून चव द्या, मिसळा आणि वाढा.
+:::

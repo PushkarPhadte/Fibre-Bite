@@ -55,15 +55,35 @@ nutrition:
     Legacy/Foundation) and ICMR-NIN IFCT 2017 per-100 g values for each
     ingredient, scaled to the quantities used (raw-ingredient weights; cooking
     losses not applied).
+image: 'https://live.staticflickr.com/2265/1631422436_858bfd8071_b.jpg'
+imageAttribution:
+  title: Fancy spinach salad
+  creator: rick
+  creatorUrl: 'https://www.flickr.com/photos/35034361412@N01'
+  sourceUrl: 'https://www.flickr.com/photos/35034361412@N01/1631422436'
+  license: CC BY 2.0
+  licenseUrl: 'https://creativecommons.org/licenses/by/2.0/'
 prepTimeMinutes: 10
 prepTimeEstimated: true
-image: "https://live.staticflickr.com/2265/1631422436_858bfd8071_b.jpg"
-imageAttribution:
-  title: "Fancy spinach salad"
-  creator: "rick"
-  creatorUrl: "https://www.flickr.com/photos/35034361412@N01"
-  sourceUrl: "https://www.flickr.com/photos/35034361412@N01/1631422436"
-  license: "CC BY 2.0"
-  licenseUrl: "https://creativecommons.org/licenses/by/2.0/"
 ---
+:::lang hi
+# सेब-अखरोट और पालक का सलाद
 
+कोमल पालक के पत्तों के साथ कुरकुरा सेब और अखरोट, हल्की नींबू-दही ड्रेसिंग में।
+
+## Instructions
+1. दही, नींबू का रस, जैतून का तेल, नमक और काली मिर्च फेंटकर ड्रेसिंग बनाएँ।
+2. पालक और सेब को ड्रेसिंग के साथ मिलाएँ।
+3. ऊपर अखरोट डालें और परोसें।
+:::
+
+:::lang mr
+# सफरचंद-अक्रोड आणि पालकाचे सॅलड
+
+कोवळ्या पालकाच्या पानांसोबत कुरकुरीत सफरचंद आणि अक्रोड, हलक्या लिंबू-दह्याच्या ड्रेसिंगमध्ये.
+
+## Instructions
+1. दही, लिंबाचा रस, ऑलिव्ह तेल, मीठ आणि मिरी फेटून ड्रेसिंग तयार करा.
+2. पालक आणि सफरचंद ड्रेसिंगसोबत हलवून एकत्र करा.
+3. वरून अक्रोड घाला आणि वाढा.
+:::

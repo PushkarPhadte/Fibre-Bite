@@ -78,15 +78,39 @@ nutrition:
     Legacy/Foundation) and ICMR-NIN IFCT 2017 per-100 g values for each
     ingredient, scaled to the quantities used (raw-ingredient weights; cooking
     losses not applied).
+image: 'https://live.staticflickr.com/6005/5958096924_fe282cce00_b.jpg'
+imageAttribution:
+  title: Vegan moussaka
+  creator: Lablascovegmenu
+  creatorUrl: 'https://www.flickr.com/photos/35022955@N06'
+  sourceUrl: 'https://www.flickr.com/photos/35022955@N06/5958096924'
+  license: CC BY 2.0
+  licenseUrl: 'https://creativecommons.org/licenses/by/2.0/'
 prepTimeMinutes: 70
 prepTimeEstimated: true
-image: "https://live.staticflickr.com/6005/5958096924_fe282cce00_b.jpg"
-imageAttribution:
-  title: "Vegan moussaka"
-  creator: "Lablascovegmenu"
-  creatorUrl: "https://www.flickr.com/photos/35022955@N06"
-  sourceUrl: "https://www.flickr.com/photos/35022955@N06/5958096924"
-  license: "CC BY 2.0"
-  licenseUrl: "https://creativecommons.org/licenses/by/2.0/"
 ---
+:::lang hi
+# बैंगन और मसूर की मूसाका
 
+भुने हुए बैंगन और मसालेदार मसूर-टमाटर रैगू की परतों के ऊपर ग्रीक योगर्ट का कस्टर्ड।
+
+## Instructions
+1. बैंगन पर आधा तेल लगाएँ और 220 °C पर 20 मिनट भूनें।
+2. मसूर को पानी में 20 मिनट तक धीमी आँच पर पकाएँ।
+3. बचे हुए तेल में प्याज़ और लहसुन पकाएँ; फिर पासाटा, मसाले, मसूर और आधा नमक डालकर 10 मिनट धीमी आँच पर पकाएँ।
+4. एक बेकिंग डिश में बैंगन और मसूर का रैगू परतों में सजाएँ।
+5. योगर्ट को अंडे और बचे हुए नमक के साथ फेंटें, ऊपर फैलाएँ और 190 °C पर 25 मिनट तक सेट होने तक बेक करें।
+:::
+
+:::lang mr
+# वांगी आणि मसूर डाळीचा मुसाका
+
+भाजलेल्या वांग्याच्या आणि मसालेदार मसूर-टोमॅटो रॅगूच्या थरांवर ग्रीक योगर्टचे कस्टर्ड घातलेले आहे.
+
+## Instructions
+1. वांग्याच्या कापांना अर्धे तेल लावा आणि 220 °C वर 20 मिनिटे भाजा.
+2. मसूर डाळ पाण्यात 20 मिनिटे मंद आचेवर शिजवा.
+3. उरलेल्या तेलात कांदा आणि लसूण शिजवा; पासाटा, मसाले, मसूर डाळ आणि अर्धे मीठ घालून 10 मिनिटे मंद आचेवर शिजवा.
+4. एका बेकिंग डिशमध्ये वांगी आणि मसूर डाळीचे रॅगू थरांनी लावा.
+5. योगर्ट अंडे आणि उरलेल्या मिठासह फेटा, वर पसरवा आणि सेट होईपर्यंत 190 °C वर 25 मिनिटे बेक करा.
+:::

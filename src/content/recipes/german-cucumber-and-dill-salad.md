@@ -1,20 +1,10 @@
 ---
 title: German Cucumber and Dill Salad (Gurkensalat)
 slug: german-cucumber-and-dill-salad
-image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Gurkensalat_Potsdam.jpg/960px-Gurkensalat_Potsdam.jpg"
-imageAttribution:
-  title: Cucumber salad with dill
-  creator: Benreis
-  creatorUrl: "https://commons.wikimedia.org/wiki/Special:Contributions/Benreis"
-  sourceUrl: "https://commons.wikimedia.org/wiki/File:Gurkensalat_Potsdam.jpg"
-  license: CC BY-SA 4.0
-  licenseUrl: "https://creativecommons.org/licenses/by-sa/4.0"
 description: >-
   Thinly sliced cucumbers tossed in a light, refreshing dressing of sour cream
   or Greek yogurt, vinegar, and fresh dill.
 baseServings: 2
-prepTimeMinutes: 15
-prepTimeSource: "https://www.thespruceeats.com/cucumber-dill-salad-1447154"
 ingredients:
   - name: 'cucumbers, thinly sliced'
     baseAmount: 2
@@ -67,5 +57,38 @@ nutrition:
     calciumMg: 45
     potassiumMg: 220
   micronutrientEstimateSource: Per-serving values from cti_receipes_2.pdf.
+image: >-
+  https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Gurkensalat_Potsdam.jpg/960px-Gurkensalat_Potsdam.jpg
+imageAttribution:
+  title: Cucumber salad with dill
+  creator: Benreis
+  creatorUrl: 'https://commons.wikimedia.org/wiki/Special:Contributions/Benreis'
+  sourceUrl: 'https://commons.wikimedia.org/wiki/File:Gurkensalat_Potsdam.jpg'
+  license: CC BY-SA 4.0
+  licenseUrl: 'https://creativecommons.org/licenses/by-sa/4.0'
+prepTimeMinutes: 15
+prepTimeSource: 'https://www.thespruceeats.com/cucumber-dill-salad-1447154'
 ---
+:::lang hi
+# जर्मन खीरा और सोआ सलाद (गुर्केनज़ालाट)
 
+पतले कटे खीरों को खट्टी क्रीम या ग्रीक योगर्ट, सिरके और ताज़े सोआ की हल्की, ताज़गीभरी ड्रेसिंग में मिलाकर बनाया गया सलाद।
+
+## Instructions
+1. कटे हुए खीरों में नमक मिलाएँ और उन्हें छलनी में 15 मिनट तक पानी निकलने दें।
+2. एक कटोरे में ग्रीक योगर्ट, सफेद सिरका, शहद, सोआ और सफेद मिर्च को फेंटें।
+3. खीरे को तौलिए से हल्के हाथों से थपथपाकर सुखाएँ।
+4. खीरे को सोआ वाली ड्रेसिंग में मिलाएँ और परोसने से पहले ठंडा करें।
+:::
+
+:::lang mr
+# जर्मन काकडी आणि शेपूची कोशिंबीर (गुर्केनझालाट)
+
+पातळ चिरलेल्या काकड्या आंबट क्रीम किंवा ग्रीक योगर्ट, व्हिनेगर आणि ताज्या शेपूच्या हलक्या, ताजेतवाने ड्रेसिंगमध्ये मिसळून केलेली कोशिंबीर.
+
+## Instructions
+1. चिरलेल्या काकड्यांमध्ये मीठ मिसळा आणि चाळणीत 15 मिनिटे पाणी निथळू द्या.
+2. एका वाटीत ग्रीक योगर्ट, पांढरा व्हिनेगर, मध, शेपू आणि पांढरी मिरी एकत्र फेटा.
+3. काकड्या टॉवेलने हलक्या हाताने टिपून कोरड्या करा.
+4. काकड्या शेपूच्या ड्रेसिंगमध्ये मिसळा आणि वाढण्यापूर्वी थंड करा.
+:::

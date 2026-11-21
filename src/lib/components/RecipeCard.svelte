@@ -2,10 +2,13 @@
 	import { isOnGroceryList, toggleGroceryList } from '$lib/grocery-list.svelte';
 	import { isInMealPrep, toggleMealPrepRecipe } from '$lib/meal-prep.svelte';
 	import type { Recipe } from '$lib/recipes/types';
+	import { language, t } from '$lib/locale.svelte';
+	import { getRecipeText } from '$lib/recipes/localized-content';
 	import { favorites, toggleFavorite } from '$lib/preferences.svelte';
 	import { ArrowRight, Clock3, CookingPot, Heart, ShoppingBasket } from 'lucide-svelte';
 
 	let { recipe }: { recipe: Recipe } = $props();
+	let localized = $derived(getRecipeText(recipe, language.current));
 	let isSaved = $derived(favorites.ids.includes(recipe.id));
 	let isOnList = $derived(isOnGroceryList(recipe.id));
 	let isInPrepPlan = $derived(isInMealPrep(recipe.id));
@@ -34,22 +37,22 @@
 		<img src={recipe.image ?? 'https://images.unsplash.com/photo-1490645935967-10de6ba17061?auto=format&fit=crop&w=900&q=80'} alt={recipe.title} loading="lazy" decoding="async" class="h-48 w-full object-cover" />
 		<div class="space-y-3 p-5">
 			<div class="flex items-center justify-between gap-3">
-				<span class="rounded-full bg-emerald-50 px-2.5 py-1 text-xs font-semibold text-emerald-800">{recipe.baseServings} servings</span>
+				<span class="rounded-full bg-emerald-50 px-2.5 py-1 text-xs font-semibold text-emerald-800">{recipe.baseServings} {t('recipe.servings')}</span>
 				<span class="flex flex-wrap justify-end gap-x-3 text-sm font-semibold text-slate-600">
 					{#if recipe.prepTimeMinutes !== undefined}
-						<span class="inline-flex items-center gap-1"><Clock3 size={15} /> {recipe.prepTimeMinutes} min prep</span>
+						<span class="inline-flex items-center gap-1"><Clock3 size={15} /> {recipe.prepTimeMinutes} {t('card.prep')}</span>
 					{/if}
 					{#if recipe.nutrition?.protein !== undefined}
-						<span>{recipe.nutrition.protein}g protein</span>
+						<span>{recipe.nutrition.protein}g {t('card.protein')}</span>
 					{/if}
 				</span>
 			</div>
-			<h2 class="text-xl font-semibold text-slate-900">{recipe.title}</h2>
-			<p class="text-sm text-slate-600">{recipe.description ?? 'A healthy recipe worth trying.'}</p>
+			<h2 class="text-xl font-semibold text-slate-900">{localized.title}</h2>
+			<p class="text-sm text-slate-600">{localized.description || t('card.defaultDescription')}</p>
 			<div class="flex items-center justify-between pt-2 text-sm font-medium text-emerald-700">
-				<span>{recipe.dietaryTags.join(', ') || 'Balanced'}</span>
+				<span>{recipe.dietaryTags.map((tag) => t(`tag.${tag}`)).join(', ') || t('card.balanced')}</span>
 				<span class="inline-flex items-center gap-1">
-					View recipe
+					{t('card.view')}
 					<ArrowRight size={16} />
 				</span>
 			</div>
@@ -62,13 +65,13 @@
 			<a class="underline hover:text-slate-800" href={recipe.imageAttribution.licenseUrl} target="_blank" rel="noreferrer">{recipe.imageAttribution.license}</a>.
 		</p>
 	{/if}
-	<button type="button" aria-label={isSaved ? 'Remove from saved recipes' : 'Save recipe'} aria-pressed={isSaved} class="absolute right-4 top-4 rounded-full border border-white bg-white/90 p-2 text-slate-700 shadow-sm transition hover:scale-105" onclick={onFavoriteClick}>
+	<button type="button" aria-label={isSaved ? t('card.removeSaved') : t('card.save')} aria-pressed={isSaved} class="absolute right-4 top-4 rounded-full border border-white bg-white/90 p-2 text-slate-700 shadow-sm transition hover:scale-105" onclick={onFavoriteClick}>
 		<Heart size={18} class={isSaved ? 'fill-rose-500 text-rose-500' : 'text-slate-700'} />
 	</button>
-	<button type="button" aria-label={isOnList ? 'Remove from grocery list' : 'Add to grocery list'} aria-pressed={isOnList} class="absolute right-14 top-4 rounded-full border border-white bg-white/90 p-2 text-slate-700 shadow-sm transition hover:scale-105" onclick={onGroceryClick}>
+	<button type="button" aria-label={isOnList ? t('card.removeGrocery') : t('card.addGrocery')} aria-pressed={isOnList} class="absolute right-14 top-4 rounded-full border border-white bg-white/90 p-2 text-slate-700 shadow-sm transition hover:scale-105" onclick={onGroceryClick}>
 		<ShoppingBasket size={18} class={isOnList ? 'fill-emerald-500 text-emerald-600' : 'text-slate-700'} />
 	</button>
-	<button type="button" aria-label={isInPrepPlan ? 'Remove from meal prep plan' : 'Add to meal prep plan'} aria-pressed={isInPrepPlan} title={isInPrepPlan ? 'Remove from meal prep plan' : 'Add to meal prep plan'} class="absolute right-24 top-4 rounded-full border border-white bg-white/90 p-2 text-slate-700 shadow-sm transition hover:scale-105" onclick={onMealPrepClick}>
+	<button type="button" aria-label={isInPrepPlan ? t('card.removePrep') : t('card.addPrep')} aria-pressed={isInPrepPlan} title={isInPrepPlan ? t('card.removePrep') : t('card.addPrep')} class="absolute right-24 top-4 rounded-full border border-white bg-white/90 p-2 text-slate-700 shadow-sm transition hover:scale-105" onclick={onMealPrepClick}>
 		<CookingPot size={18} class={isInPrepPlan ? 'text-emerald-700' : 'text-slate-700'} />
 	</button>
 </div>

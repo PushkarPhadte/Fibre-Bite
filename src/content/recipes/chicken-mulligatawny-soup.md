@@ -80,15 +80,36 @@ nutrition:
     Legacy/Foundation) and ICMR-NIN IFCT 2017 per-100 g values for each
     ingredient, scaled to the quantities used (raw-ingredient weights; cooking
     losses not applied).
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/0/08/Selfmade_Mulligatawny_with_Chicken_%28Nov._2008%29.jpg
+imageAttribution:
+  title: Selfmade Mulligatawny with Chicken
+  creator: GeoTrinity
+  creatorUrl: 'https://commons.wikimedia.org/wiki/User:GeoTrinity'
+  sourceUrl: 'https://commons.wikimedia.org/w/index.php?curid=47412190'
+  license: CC BY-SA 3.0
+  licenseUrl: 'https://creativecommons.org/licenses/by-sa/3.0/'
 prepTimeMinutes: 45
 prepTimeEstimated: true
-image: "https://upload.wikimedia.org/wikipedia/commons/0/08/Selfmade_Mulligatawny_with_Chicken_%28Nov._2008%29.jpg"
-imageAttribution:
-  title: "Selfmade Mulligatawny with Chicken"
-  creator: "GeoTrinity"
-  creatorUrl: "https://commons.wikimedia.org/wiki/User:GeoTrinity"
-  sourceUrl: "https://commons.wikimedia.org/w/index.php?curid=47412190"
-  license: "CC BY-SA 3.0"
-  licenseUrl: "https://creativecommons.org/licenses/by-sa/3.0/"
 ---
+:::lang hi
+# चिकन मुलिगटॉनी सूप
 
+सेब और थोड़े से नारियल के दूध वाला हल्के मसालों का एंग्लो-इंडियन दाल और चिकन सूप।
+
+## Instructions
+1. तेल में प्याज़, लहसुन और अदरक को 5 मिनट पकाएँ, फिर मसाले डालकर 1 मिनट और पकाएँ।
+2. चिकन, दाल, गाजर, सेब, नमक और पानी डालें और 25 मिनट धीमी आँच पर पकाएँ।
+3. नारियल का दूध मिलाएँ, गाढ़ी बनावट के लिए सूप का आधा हिस्सा ब्लेंड करें और परोसें।
+:::
+
+:::lang mr
+# चिकन मुलिगटॉनी सूप
+
+सफरचंद आणि थोडेसे नारळाचे दूध घातलेले, सौम्य मसाल्यांचे अँग्लो-इंडियन डाळ व चिकनचे सूप.
+
+## Instructions
+1. तेलात कांदा, लसूण आणि आले 5 मिनिटे शिजवा; मग मसाले घालून आणखी 1 मिनिट परता.
+2. चिकन, मसूर, गाजर, सफरचंद, मीठ आणि पाणी घालून 25 मिनिटे मंद आचेवर शिजवा.
+3. नारळाचे दूध मिसळा, घट्टसर पोतासाठी सूपचा अर्धा भाग ब्लेंड करा आणि वाढा.
+:::

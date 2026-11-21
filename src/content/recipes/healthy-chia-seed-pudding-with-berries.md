@@ -1,20 +1,10 @@
 ---
 title: Healthy Chia Seed Pudding with Berries
 slug: healthy-chia-seed-pudding-with-berries
-image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Chia_jars_with_bleuberries_%28Unsplash%29.jpg/960px-Chia_jars_with_bleuberries_%28Unsplash%29.jpg"
-imageAttribution:
-  title: Chia jars with blueberries
-  creator: Brenda Godinez
-  creatorUrl: "https://commons.wikimedia.org/wiki/Special:Contributions/Brenda_Godinez_cravethebenefits"
-  sourceUrl: "https://commons.wikimedia.org/wiki/File:Chia_jars_with_bleuberries_(Unsplash).jpg"
-  license: CC0
-  licenseUrl: "https://creativecommons.org/publicdomain/zero/1.0/"
 description: >-
   A gut-friendly nutrient pot made from chia seeds soaked in almond milk, topped
   with fresh berries and cinnamon.
 baseServings: 2
-prepTimeMinutes: 10
-prepTimeSource: "https://thefoodiephysician.com/berry-chia-pudding/"
 ingredients:
   - name: chia seeds
     baseAmount: 0.25
@@ -63,5 +53,40 @@ nutrition:
     ironMg: 1.8
     magnesiumMg: 65
   micronutrientEstimateSource: Per-serving values from cti_receipes_2.pdf.
+image: >-
+  https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Chia_jars_with_bleuberries_%28Unsplash%29.jpg/960px-Chia_jars_with_bleuberries_%28Unsplash%29.jpg
+imageAttribution:
+  title: Chia jars with blueberries
+  creator: Brenda Godinez
+  creatorUrl: >-
+    https://commons.wikimedia.org/wiki/Special:Contributions/Brenda_Godinez_cravethebenefits
+  sourceUrl: >-
+    https://commons.wikimedia.org/wiki/File:Chia_jars_with_bleuberries_(Unsplash).jpg
+  license: CC0
+  licenseUrl: 'https://creativecommons.org/publicdomain/zero/1.0/'
+prepTimeMinutes: 10
+prepTimeSource: 'https://thefoodiephysician.com/berry-chia-pudding/'
 ---
+:::lang hi
+# बेरीज़ के साथ पौष्टिक चिया सीड पुडिंग
 
+चिया बीजों को बादाम के दूध में भिगोकर बनाया गया पेट के स्वास्थ्य के अनुकूल पौष्टिक कप, जिसके ऊपर ताज़ी बेरीज़ और दालचीनी डाली जाती है।
+
+## Instructions
+1. एक जार में चिया बीज, बादाम का दूध, वनीला एक्सट्रैक्ट और मेपल सिरप फेंटकर मिलाएँ।
+2. 10 मिनट तक रहने दें, फिर गुठलियाँ तोड़ने के लिए दोबारा फेंटें और 4 घंटे या रातभर के लिए फ्रिज में रखें।
+3. मिश्रण को परोसने वाले कपों में निकालें।
+4. ऊपर से ताज़ी बेरीज़ और एक चुटकी दालचीनी डालें।
+:::
+
+:::lang mr
+# बेरीजसोबत पौष्टिक चिया सीड पुडिंग
+
+चिया बिया बदामाच्या दुधात भिजवून तयार केलेला पचनसंस्थेस अनुकूल पौष्टिक कप; वरून ताज्या बेरीज आणि दालचिनी घातली जाते.
+
+## Instructions
+1. एका बरणीत चिया बिया, बदामाचे दूध, व्हॅनिला अर्क आणि मॅपल सिरप फेटून एकत्र करा.
+2. 10 मिनिटे तसेच ठेवा, गुठळ्या फोडण्यासाठी पुन्हा फेटा आणि 4 तास किंवा रात्रभर फ्रिजमध्ये ठेवा.
+3. मिश्रण सर्व्हिंग कपांमध्ये काढा.
+4. वरून ताज्या बेरीज आणि चिमूटभर दालचिनी घाला.
+:::

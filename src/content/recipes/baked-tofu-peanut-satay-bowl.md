@@ -1,7 +1,6 @@
 ---
 title: Baked Tofu Peanut Satay Bowl
 slug: baked-tofu-peanut-satay-bowl
-image: "https://upload.wikimedia.org/wikipedia/commons/a/ae/Vegetable_Satay_-_Bali_2025-11-19.jpg"
 description: >-
   Crispy baked tofu served over quinoa and shredded cabbage with a rich homemade
   peanut satay sauce.
@@ -62,7 +61,30 @@ nutrition:
     ironMg: 3.5
     potassiumMg: 410
   micronutrientEstimateSource: Per-serving estimated values based on USDA generic tofu and peanut butter.
+image: "https://upload.wikimedia.org/wikipedia/commons/a/ae/Vegetable_Satay_-_Bali_2025-11-19.jpg"
 prepTimeMinutes: 25
 prepTimeSource: 'https://minimalistbaker.com/crispy-peanut-tofu-bowls/'
 ---
+:::lang hi
+# बेक्ड टोफू और मूँगफली साते बाउल
 
+क्विनोआ और कटी पत्तागोभी के ऊपर परोसा गया कुरकुरा बेक्ड टोफू, साथ में घर का बना गाढ़ा मूँगफली साते सॉस।
+
+## Instructions
+1. टोफू के टुकड़ों को 200°C (400°F) पर 20 मिनट तक बेक करें, जब तक वे कुरकुरे न हो जाएँ।
+2. मूँगफली का मक्खन, सोया सॉस, नींबू का रस, मेपल सिरप और गुनगुना पानी चिकना होने तक फेंटें; इससे साते सॉस तैयार होगा।
+3. कटोरों में पके हुए क्विनोआ और कटी हुई बैंगनी पत्तागोभी की परत लगाकर तैयार करें।
+4. ऊपर बेक्ड टोफू रखें और मूँगफली का साते सॉस भरपूर मात्रा में डालें।
+:::
+
+:::lang mr
+# बेक्ड टोफू आणि शेंगदाणा साते बाउल
+
+क्विनोआ आणि चिरलेल्या कोबीवर वाढलेला कुरकुरीत बेक्ड टोफू, सोबत घरचा घट्ट शेंगदाणा साते सॉस.
+
+## Instructions
+1. टोफूचे तुकडे २००°C (४००°F) वर २० मिनिटे बेक करा, ते कुरकुरीत होईपर्यंत.
+2. शेंगदाण्याचे लोणी, सोया सॉस, लिंबाचा रस, मेपल सिरप आणि कोमट पाणी गुळगुळीत होईपर्यंत फेटा; साते सॉस तयार होईल.
+3. बाउलमध्ये शिजवलेला क्विनोआ आणि चिरलेली जांभळी कोबी यांचा तळाचा थर तयार करा.
+4. वर बेक्ड टोफू ठेवा आणि शेंगदाण्याचा साते सॉस भरपूर प्रमाणात घाला.
+:::

@@ -62,15 +62,35 @@ nutrition:
     Legacy/Foundation) and ICMR-NIN IFCT 2017 per-100 g values for each
     ingredient, scaled to the quantities used (raw-ingredient weights; cooking
     losses not applied).
-image: "https://live.staticflickr.com/8121/8707563424_902ee2b468_b.jpg"
+image: 'https://live.staticflickr.com/8121/8707563424_902ee2b468_b.jpg'
 imageAttribution:
-  title: "chicken yakitori - skin, breast, heart, gizzard, leg"
-  creator: "jencu"
-  creatorUrl: "https://www.flickr.com/photos/10581108@N00"
-  sourceUrl: "https://www.flickr.com/photos/10581108@N00/8707563424"
-  license: "CC BY 2.0"
-  licenseUrl: "https://creativecommons.org/licenses/by/2.0/"
+  title: 'chicken yakitori - skin, breast, heart, gizzard, leg'
+  creator: jencu
+  creatorUrl: 'https://www.flickr.com/photos/10581108@N00'
+  sourceUrl: 'https://www.flickr.com/photos/10581108@N00/8707563424'
+  license: CC BY 2.0
+  licenseUrl: 'https://creativecommons.org/licenses/by/2.0/'
 prepTimeMinutes: 30
 prepTimeEstimated: true
 ---
+:::lang hi
+# चिकन याकितोरी सीख
 
+तमारी की परत चढ़े ग्रिल किए हुए चिकन जांघ के सीख, हरे प्याज और शिमला मिर्च के साथ।
+
+## Instructions
+1. तमारी, अदरक, लहसुन, नींबू का रस और तेल मिलाकर चिकन पर लगाएँ; 15 मिनट मैरिनेट करें।
+2. चिकन, हरा प्याज और शिमला मिर्च को सीखों में पिरोएँ।
+3. सीखों को पलटते हुए 10 से 12 मिनट ग्रिल करें, जब तक चिकन पूरी तरह पककर हल्का जले हुए निशानों वाला न हो जाए; खीरे के साथ परोसें।
+:::
+
+:::lang mr
+# चिकन याकितोरीच्या सळ्या
+
+तमारीचा लेप लावून भाजलेल्या चिकन मांडीच्या सळ्या, पातीचा कांदा आणि ढोबळी मिरचीसोबत.
+
+## Instructions
+1. तमारी, आले, लसूण, लिंबाचा रस आणि तेल एकत्र करून चिकनला लावा; 15 मिनिटे मुरू द्या.
+2. चिकन, पातीचा कांदा आणि ढोबळी मिरची सळ्यांवर ओवून घ्या.
+3. सळ्या फिरवत 10 ते 12 मिनिटे ग्रिल करा, चिकन पूर्ण शिजून त्यावर भाजल्याचे काळसर डाग येईपर्यंत; काकडीसोबत वाढा.
+:::

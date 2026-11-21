@@ -5,6 +5,7 @@ import { isDeepStrictEqual } from 'node:util';
 import matter from 'gray-matter';
 import { z } from 'zod';
 import { localRecipeFrontmatterSchema } from '../src/lib/recipes/types.ts';
+import { parseLanguageBlocks, renderLanguageBlocks, withoutLanguageBlocks } from '../src/lib/recipes/localized-content.ts';
 
 const scriptDirectory = path.dirname(fileURLToPath(import.meta.url));
 const projectDirectory = path.dirname(scriptDirectory);
@@ -59,7 +60,11 @@ async function main(): Promise<void> {
 	const existingRecipes = new Map<string, { filename: string; content: string; recipe: z.infer<typeof localRecipeFrontmatterSchema> }>();
 	for (const filename of existingRecipeFiles) {
 		const existingMarkdown = await readFile(path.join(recipesDirectory, filename), 'utf8');
-		const existingFrontmatter = localRecipeFrontmatterSchema.safeParse(matter(existingMarkdown).data);
+		const existingMatter = matter(existingMarkdown);
+		const existingFrontmatter = localRecipeFrontmatterSchema.safeParse({
+			...existingMatter.data,
+			translations: { ...parseLanguageBlocks(existingMatter.content), ...existingMatter.data.translations }
+		});
 		if (existingFrontmatter.success) {
 			existingRecipes.set(existingFrontmatter.data.slug, {
 				filename,
@@ -84,7 +89,10 @@ async function main(): Promise<void> {
 		const filenameExists = existingFilenames.has(`${recipe.slug}.md`);
 		if (changedOnly && existingRecipe) {
 			if (isDeepStrictEqual(recipe, existingRecipe.recipe)) unchangedCount += 1;
-			else recipesToUpdate.push({ ...existingRecipe, recipe });
+			else recipesToUpdate.push({
+				...existingRecipe,
+				recipe: { ...recipe, translations: recipe.translations ?? existingRecipe.recipe.translations }
+			});
 		} else if (filenameExists || existingRecipe) {
 			collisions.push(`${recipe.slug} already exists in ${recipesDirectory}`);
 		} else {
@@ -112,12 +120,16 @@ async function main(): Promise<void> {
 
 	for (const recipe of recipesToCreate) {
 		const filename = path.join(recipesDirectory, `${recipe.slug}.md`);
-		await writeFile(filename, matter.stringify('', recipe), { flag: 'wx' });
+		const { translations, ...sharedRecipe } = recipe;
+		await writeFile(filename, matter.stringify(renderLanguageBlocks(translations), sharedRecipe), { flag: 'wx' });
 		console.log(`Created ${path.relative(projectDirectory, filename)}`);
 	}
 	for (const { filename: existingFilename, content, recipe } of recipesToUpdate) {
 		const filename = path.join(recipesDirectory, existingFilename);
-		await writeFile(filename, matter.stringify(content, recipe), 'utf8');
+		const { translations, ...sharedRecipe } = recipe;
+		const retainedContent = withoutLanguageBlocks(content);
+		const localizedContent = renderLanguageBlocks(translations);
+		await writeFile(filename, matter.stringify([retainedContent, localizedContent].filter(Boolean).join('\n\n'), sharedRecipe), 'utf8');
 		console.log(`Updated ${path.relative(projectDirectory, filename)}`);
 	}
 }

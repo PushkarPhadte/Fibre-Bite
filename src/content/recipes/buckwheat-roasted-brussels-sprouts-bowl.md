@@ -67,7 +67,8 @@ nutrition:
   micronutrientEstimateSource: >-
     Estimated from ingredient weights using USDA FoodData Central reference
     profiles.
-image: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Brussels_sprout_closeup.jpg/500px-Brussels_sprout_closeup.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20061029041022'
+image: >-
+  https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Brussels_sprout_closeup.jpg/500px-Brussels_sprout_closeup.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20061029041022
 imageAttribution:
   title: Brussels Sprouts
   creator: Eric Hunt
@@ -78,4 +79,26 @@ imageAttribution:
 prepTimeMinutes: 12
 prepTimeEstimated: true
 ---
+:::lang hi
+# भुने ब्रसेल्स स्प्राउट्स और कुट्टू का बाउल
 
+भुने ब्रसेल्स स्प्राउट्स, भुने कद्दू के बीजों और सेब के सिरके की विनिग्रेट के साथ कुट्टू के भुने दाने।
+
+## Instructions
+1. ओवन को 200°C पर पहले से गरम करें। बेकिंग ट्रे पर ब्रसेल्स स्प्राउट्स को आधे जैतून के तेल के साथ मिलाकर 22 मिनट भूनें।
+2. एक सॉसपैन में पानी उबालें, कुट्टू के दाने मिलाएँ और ढककर 15 मिनट तक नरम होने तथा पानी सोखने तक धीमी आँच पर पकाएँ।
+3. बचे हुए जैतून के तेल को सेब के सिरके और डीजॉन मस्टर्ड के साथ फेंटकर हल्की ड्रेसिंग बनाएँ।
+4. कुट्टू, भुने ब्रसेल्स स्प्राउट्स और कद्दू के बीज मिलाएँ, फिर ऊपर से ड्रेसिंग डालें।
+:::
+
+:::lang mr
+# भाजलेल्या ब्रसेल्स स्प्राउट्स आणि बकव्हीटचा बाउल
+
+भाजलेल्या ब्रसेल्स स्प्राउट्स, भाजलेल्या भोपळ्याच्या बिया आणि सफरचंदाच्या व्हिनेगरच्या व्हिनिग्रेटसोबत बकव्हीटचे भाजलेले दाणे.
+
+## Instructions
+1. ओव्हन 200°C ला आधी गरम करा. बेकिंग ट्रेवर ब्रसेल्स स्प्राउट्स अर्ध्या ऑलिव्ह तेलात मिसळून 22 मिनिटे भाजा.
+2. सॉसपॅनमध्ये पाणी उकळा, त्यात बकव्हीटचे दाणे मिसळा आणि झाकण ठेवून 15 मिनिटे मऊ होईपर्यंत व द्रव आटेपर्यंत मंद आचेवर शिजवा.
+3. उरलेले ऑलिव्ह तेल, सफरचंदाचा व्हिनेगर आणि डिझॉन मोहरी एकत्र फेटून हलके ड्रेसिंग तयार करा.
+4. बकव्हीट, भाजलेले ब्रसेल्स स्प्राउट्स आणि भोपळ्याच्या बिया एकत्र करा; त्यावर ड्रेसिंग घाला.
+:::

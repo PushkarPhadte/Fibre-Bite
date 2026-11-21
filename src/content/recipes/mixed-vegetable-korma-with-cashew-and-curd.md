@@ -86,15 +86,37 @@ nutrition:
     Legacy/Foundation) and ICMR-NIN IFCT 2017 per-100 g values for each
     ingredient, scaled to the quantities used (raw-ingredient weights; cooking
     losses not applied).
-image: "https://upload.wikimedia.org/wikipedia/commons/a/a6/Navratna_Korma.JPG"
+image: 'https://upload.wikimedia.org/wikipedia/commons/a/a6/Navratna_Korma.JPG'
 imageAttribution:
-  title: "Navratna Korma"
-  creator: "Deeptimanta"
-  creatorUrl: "https://commons.wikimedia.org/wiki/User:Deeptimanta"
-  sourceUrl: "https://commons.wikimedia.org/w/index.php?curid=40593666"
-  license: "CC BY-SA 4.0"
-  licenseUrl: "https://creativecommons.org/licenses/by-sa/4.0/"
+  title: Navratna Korma
+  creator: Deeptimanta
+  creatorUrl: 'https://commons.wikimedia.org/wiki/User:Deeptimanta'
+  sourceUrl: 'https://commons.wikimedia.org/w/index.php?curid=40593666'
+  license: CC BY-SA 4.0
+  licenseUrl: 'https://creativecommons.org/licenses/by-sa/4.0/'
 prepTimeMinutes: 40
 prepTimeEstimated: true
 ---
+:::lang hi
+# काजू और दही वाला मिश्र सब्ज़ी कोरमा
 
+इलायची और दालचीनी की सुगंध वाली काजू-दही की ग्रेवी में बना हल्का सब्ज़ी का करी व्यंजन।
+
+## Instructions
+1. तेल गरम करके प्याज़, अदरक और लहसुन को नरम होने तक पकाएँ; फिर मसाले डालकर 1 मिनट पकाएँ।
+2. सब्ज़ियाँ, नमक और पानी डालें, ढककर 15 मिनट धीमी आँच पर पकाएँ।
+3. काजू का पेस्ट मिलाएँ और 3 मिनट पकाएँ।
+4. आँच से उतारें, दही मिलाएँ और परोसें।
+:::
+
+:::lang mr
+# काजू आणि दह्याची मिश्र भाजी कोरमा
+
+वेलची आणि दालचिनीचा सुगंध असलेल्या काजू-दह्याच्या रसात शिजवलेली सौम्य चवीची मिश्र भाजी.
+
+## Instructions
+1. तेल गरम करून कांदा, आले आणि लसूण मऊ होईपर्यंत परता; मग मसाले घालून 1 मिनिट शिजवा.
+2. भाज्या, मीठ आणि पाणी घाला, झाकण ठेवून 15 मिनिटे मंद आचेवर शिजवा.
+3. काजूची पेस्ट मिसळून 3 मिनिटे शिजवा.
+4. गॅस बंद करून दही मिसळा आणि वाढा.
+:::

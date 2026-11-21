@@ -67,15 +67,35 @@ nutrition:
     Legacy/Foundation) and ICMR-NIN IFCT 2017 per-100 g values for each
     ingredient, scaled to the quantities used (raw-ingredient weights; cooking
     losses not applied).
-image: "https://live.staticflickr.com/7203/6797650378_094c2315ed_b.jpg"
+image: 'https://live.staticflickr.com/7203/6797650378_094c2315ed_b.jpg'
 imageAttribution:
-  title: "Barley salad - Ensalada de cebada - Amanida de civada"
-  creator: "Lablascovegmenu"
-  creatorUrl: "https://www.flickr.com/photos/35022955@N06"
-  sourceUrl: "https://www.flickr.com/photos/35022955@N06/6797650378"
-  license: "CC BY 2.0"
-  licenseUrl: "https://creativecommons.org/licenses/by/2.0/"
+  title: Barley salad - Ensalada de cebada - Amanida de civada
+  creator: Lablascovegmenu
+  creatorUrl: 'https://www.flickr.com/photos/35022955@N06'
+  sourceUrl: 'https://www.flickr.com/photos/35022955@N06/6797650378'
+  license: CC BY 2.0
+  licenseUrl: 'https://creativecommons.org/licenses/by/2.0/'
 prepTimeMinutes: 45
 prepTimeEstimated: true
 ---
+:::lang hi
+# जौ और भुनी हुई सब्ज़ियों का सलाद
 
+चबाने में भरपूर बनावट वाला मोती जौ, ओवन में भुनी ज़ुकीनी, शिमला मिर्च और लाल प्याज़ के साथ; इसमें नींबू और अखरोट भी हैं।
+
+## Instructions
+1. ओवन को 220°C पर गरम करें। ज़ुकीनी, शिमला मिर्च और प्याज़ को आधे तेल में मिलाकर 25 मिनट भूनें।
+2. जौ को भरपूर पानी में 30 मिनट नरम होने तक उबालें; पानी छानकर थोड़ा ठंडा होने दें।
+3. जौ, सब्ज़ियाँ, पार्सले, नींबू का रस, बचा हुआ तेल, नमक और काली मिर्च मिलाएँ और ऊपर से अखरोट डालें।
+:::
+
+:::lang mr
+# जव आणि भाजलेल्या भाज्यांचे सॅलड
+
+चावायला छान लागणारा मोत्यासारखा जव, ओव्हनमध्ये भाजलेली झुकिनी, ढोबळी मिरची आणि लाल कांदा यांसोबत; त्यात लिंबू आणि अक्रोडही आहेत.
+
+## Instructions
+1. ओव्हन 220°C ला गरम करा. झुकिनी, ढोबळी मिरची आणि कांदा अर्ध्या तेलात घोळवून 25 मिनिटे भाजा.
+2. जव भरपूर पाण्यात 30 मिनिटे मऊ होईपर्यंत उकळा; पाणी निथळून थोडे थंड होऊ द्या.
+3. जव, भाज्या, पार्सली, लिंबाचा रस, उरलेले तेल, मीठ आणि काळी मिरी एकत्र करा आणि वरून अक्रोड घाला.
+:::

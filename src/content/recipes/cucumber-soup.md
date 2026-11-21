@@ -1,20 +1,10 @@
 ---
 title: Cucumber Soup
 slug: cucumber-soup
-image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Cucumber_soup-2387.jpg/960px-Cucumber_soup-2387.jpg"
-imageAttribution:
-  title: Cucumber soup
-  creator: Raimond Spekking
-  creatorUrl: "https://commons.wikimedia.org/wiki/Special:Contributions/Raimond_Spekking"
-  sourceUrl: "https://commons.wikimedia.org/wiki/File:Cucumber_soup-2387.jpg"
-  license: CC BY-SA 4.0
-  licenseUrl: "https://creativecommons.org/licenses/by-sa/4.0"
 description: >-
   A refreshing, blended soup made with sautéed cucumbers, potatoes, garlic, and
   onions, thickened slightly with cornflour and cream.
 baseServings: 5
-prepTimeMinutes: 20
-prepTimeSource: "https://www.tasteofhome.com/recipes/cucumber-potato-soup/"
 ingredients:
   - name: 'cucumbers, peeled and chopped'
     baseAmount: 3
@@ -81,5 +71,42 @@ nutrition:
     ironMg: 0.8
     potassiumMg: 320
   micronutrientEstimateSource: Per-serving values from CTI_RECEIPES.pdf.
+image: >-
+  https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Cucumber_soup-2387.jpg/960px-Cucumber_soup-2387.jpg
+imageAttribution:
+  title: Cucumber soup
+  creator: Raimond Spekking
+  creatorUrl: 'https://commons.wikimedia.org/wiki/Special:Contributions/Raimond_Spekking'
+  sourceUrl: 'https://commons.wikimedia.org/wiki/File:Cucumber_soup-2387.jpg'
+  license: CC BY-SA 4.0
+  licenseUrl: 'https://creativecommons.org/licenses/by-sa/4.0'
+prepTimeMinutes: 20
+prepTimeSource: 'https://www.tasteofhome.com/recipes/cucumber-potato-soup/'
 ---
+:::lang hi
+# खीरे का सूप
 
+भुने हुए खीरे, आलू, लहसुन और प्याज़ से बना ताज़गीभरा ब्लेंडर सूप, जिसे कॉर्नफ्लोर और क्रीम से हल्का गाढ़ा किया जाता है।
+
+## Instructions
+1. एक पैन में घी या तेल गरम करें, कुटा हुआ लहसुन डालें और सुनहरा होने तक भूनें।
+2. कटा हुआ प्याज़ डालें और हल्का गुलाबी होने तक भूनें।
+3. खीरे और आलू डालें; नमी सूखने तक चलाते हुए भूनें।
+4. कॉर्नफ्लोर मिलाएँ और 2–3 मिनट तक भूनें।
+5. उबलता पानी डालें, ढककर नरम होने तक पकाएँ। ठंडा होने दें, फिर चिकना ब्लेंड करें।
+6. मैगी क्यूब्स डालकर दोबारा उबालें और ऊपर से ताज़ी क्रीम डालकर गरम परोसें।
+:::
+
+:::lang mr
+# काकडीचे सूप
+
+परतलेली काकडी, बटाटे, लसूण आणि कांद्यापासून केलेले ताजेतवाने ब्लेंडर सूप; कॉर्नफ्लोअर आणि क्रीममुळे ते किंचित घट्ट होते.
+
+## Instructions
+1. पॅनमध्ये तूप किंवा तेल गरम करा, ठेचलेला लसूण घाला आणि सोनेरी होईपर्यंत परता.
+2. चिरलेला कांदा घालून हलका गुलाबी होईपर्यंत परता.
+3. काकडी आणि बटाटे घाला; ओलावा आटेपर्यंत परतत राहा.
+4. कॉर्नफ्लोअर मिसळून २–३ मिनिटे परता.
+5. उकळते पाणी घाला, झाकण ठेवून भाजी मऊ होईपर्यंत शिजवा. थंड होऊ द्या आणि गुळगुळीत होईपर्यंत ब्लेंड करा.
+6. मॅगी क्यूब्स घालून पुन्हा उकळी आणा आणि वरून ताजी क्रीम घालून गरम वाढा.
+:::

@@ -1,4 +1,5 @@
 <script lang="ts">
+	import { t } from '$lib/locale.svelte';
 	let {
 		servings,
 		min = 1,
@@ -15,7 +16,7 @@
 
 <div class="w-full min-w-40 rounded-md border border-slate-200 bg-white px-3 py-2 shadow-sm sm:w-52">
 	<div class="mb-1 flex items-center justify-between gap-3">
-		<label for="serving-size" class="text-xs font-semibold text-slate-600">Servings</label>
+		<label for="serving-size" class="text-xs font-semibold text-slate-600">{t('recipe.servingsLabel')}</label>
 		<output for="serving-size" class="text-sm font-bold tabular-nums text-emerald-900" aria-live="polite">{servings}</output>
 	</div>
 	<input
@@ -25,7 +26,7 @@
 		max={max}
 		step="1"
 		value={servings}
-		aria-label="Serving size"
+		aria-label={t('recipe.servingsLabel')}
 		class="h-2 w-full cursor-pointer accent-emerald-800 focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-emerald-800"
 		oninput={(event) => onChange(Number(event.currentTarget.value))}
 	/>

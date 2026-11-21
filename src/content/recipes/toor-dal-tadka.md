@@ -71,15 +71,37 @@ nutrition:
     Legacy/Foundation) and ICMR-NIN IFCT 2017 per-100 g values for each
     ingredient, scaled to the quantities used (raw-ingredient weights; cooking
     losses not applied).
-image: "https://live.staticflickr.com/7381/28175039931_6b5a8d1f59_b.jpg"
+image: 'https://live.staticflickr.com/7381/28175039931_6b5a8d1f59_b.jpg'
 imageAttribution:
-  title: "My Masoor Dal Tadka"
-  creator: "goblinbox_(queen_of_ad_hoc_bento)"
-  creatorUrl: "https://www.flickr.com/photos/25977089@N00"
-  sourceUrl: "https://www.flickr.com/photos/25977089@N00/28175039931"
-  license: "CC BY 2.0"
-  licenseUrl: "https://creativecommons.org/licenses/by/2.0/"
+  title: My Masoor Dal Tadka
+  creator: goblinbox_(queen_of_ad_hoc_bento)
+  creatorUrl: 'https://www.flickr.com/photos/25977089@N00'
+  sourceUrl: 'https://www.flickr.com/photos/25977089@N00/28175039931'
+  license: CC BY 2.0
+  licenseUrl: 'https://creativecommons.org/licenses/by/2.0/'
 prepTimeMinutes: 35
 prepTimeEstimated: true
 ---
+:::lang hi
+# तूर दाल का तड़का
 
+पीली अरहर दाल, जिस पर जीरे और लहसुन का तड़का लगाया जाता है।
+
+## Instructions
+1. दाल को हल्दी, टमाटर और पानी के साथ लगभग 25 मिनट तक नरम होने तक पकाएँ, फिर हल्का-सा मैश करें।
+2. नमक मिलाएँ।
+3. तेल गरम करें। जीरा चटकाएँ, लहसुन और प्याज़ को सुनहरा भूरा करें, फिर मिर्च पाउडर डालकर यह तड़का दाल पर डालें।
+4. अंत में नींबू का रस और हरा धनिया डालें।
+:::
+
+:::lang mr
+# तूर डाळीची फोडणी
+
+जिऱ्याची आणि लसणाची फोडणी दिलेली पिवळी तूर डाळ.
+
+## Instructions
+1. डाळ हळद, टोमॅटो आणि पाण्यासह सुमारे २५ मिनिटे मऊ होईपर्यंत शिजवा; नंतर ती थोडीशी घोटून घ्या.
+2. मीठ मिसळा.
+3. तेल गरम करा. जिरे तडतडू द्या, लसूण आणि कांदा सोनेरी होईपर्यंत परता, नंतर तिखट घालून ही फोडणी डाळीवर ओता.
+4. शेवटी लिंबाचा रस आणि कोथिंबीर घाला.
+:::

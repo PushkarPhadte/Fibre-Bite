@@ -66,15 +66,37 @@ nutrition:
     Legacy/Foundation) and ICMR-NIN IFCT 2017 per-100 g values for each
     ingredient, scaled to the quantities used (raw-ingredient weights; cooking
     losses not applied).
-image: "https://live.staticflickr.com/8508/8427412431_cd2c418129_b.jpg"
+image: 'https://live.staticflickr.com/8508/8427412431_cd2c418129_b.jpg'
 imageAttribution:
-  title: "Mmm... shrimp stir fry"
-  creator: "jeffreyw"
-  creatorUrl: "https://www.flickr.com/photos/7927684@N03"
-  sourceUrl: "https://www.flickr.com/photos/7927684@N03/8427412431"
-  license: "CC BY 2.0"
-  licenseUrl: "https://creativecommons.org/licenses/by/2.0/"
+  title: Mmm... shrimp stir fry
+  creator: jeffreyw
+  creatorUrl: 'https://www.flickr.com/photos/7927684@N03'
+  sourceUrl: 'https://www.flickr.com/photos/7927684@N03/8427412431'
+  license: CC BY 2.0
+  licenseUrl: 'https://creativecommons.org/licenses/by/2.0/'
 prepTimeMinutes: 25
 prepTimeEstimated: true
 ---
+:::lang hi
+# लहसुन वाली झींगा और ब्रोकली की झटपट भुजिया
 
+लहसुन और अदरक के साथ झटपट भुनी झींगा और ब्रोकली, जिसे ब्राउन राइस के ऊपर परोसा जाता है।
+
+## Instructions
+1. चावल को पैकेट पर दिए निर्देशों के अनुसार पकाएँ।
+2. ब्रोकली को तेल और 3 बड़े चम्मच पानी के साथ 4 मिनट तक चलाते हुए भूनें।
+3. लहसुन, अदरक और मिर्च डालें, फिर झींगा डालकर 3 मिनट पकाएँ, जब तक वह गुलाबी न हो जाए।
+4. तमारी और नींबू का रस डालकर मिलाएँ और चावल के ऊपर परोसें।
+:::
+
+:::lang mr
+# लसूण घातलेली कोळंबी आणि ब्रोकोलीची परतून भाजी
+
+लसूण आणि आल्यासह झटपट परतलेली कोळंबी व ब्रोकोली, ब्राऊन राइसवर वाढलेली।
+
+## Instructions
+1. पॅकेटवरील सूचनांनुसार भात शिजवा.
+2. ब्रोकोली तेल आणि 3 मोठे चमचे पाण्यासह 4 मिनिटे परता.
+3. लसूण, आले आणि मिरची घाला; नंतर कोळंबी घालून ती गुलाबी होईपर्यंत 3 मिनिटे शिजवा.
+4. तमारी आणि लिंबाचा रस घालून एकत्र करा आणि भातावर वाढा.
+:::

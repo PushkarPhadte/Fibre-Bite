@@ -69,15 +69,37 @@ nutrition:
     Legacy/Foundation) and ICMR-NIN IFCT 2017 per-100 g values for each
     ingredient, scaled to the quantities used (raw-ingredient weights; cooking
     losses not applied).
+image: 'https://live.staticflickr.com/7442/12873183623_7350642b80_b.jpg'
+imageAttribution:
+  title: Grilled Salmon Nicoise Salad
+  creator: HarshLight
+  creatorUrl: 'https://www.flickr.com/photos/79172203@N00'
+  sourceUrl: 'https://www.flickr.com/photos/79172203@N00/12873183623'
+  license: CC BY 2.0
+  licenseUrl: 'https://creativecommons.org/licenses/by/2.0/'
 prepTimeMinutes: 35
 prepTimeEstimated: true
-image: "https://live.staticflickr.com/7442/12873183623_7350642b80_b.jpg"
-imageAttribution:
-  title: "Grilled Salmon Nicoise Salad"
-  creator: "HarshLight"
-  creatorUrl: "https://www.flickr.com/photos/79172203@N00"
-  sourceUrl: "https://www.flickr.com/photos/79172203@N00/12873183623"
-  license: "CC BY 2.0"
-  licenseUrl: "https://creativecommons.org/licenses/by/2.0/"
 ---
+:::lang hi
+# हल्का नीस सलाद
 
+छोटे आलू, हरी फलियाँ, ताज़ा सेंका हुआ टूना और उबला अंडा, नींबू और जैतून के तेल की ड्रेसिंग के साथ।
+
+## Instructions
+1. आलुओं को 15 मिनट उबालें। आखिरी 4 मिनट में फलियाँ डालें; फिर पानी छानकर आलुओं को आधा काटें।
+2. अंडों को 8 मिनट उबालें, ठंडा करें और चार-चार टुकड़ों में काटें।
+3. टूना को हर तरफ 90 सेकंड सेंकें और फिर स्लाइस करें।
+4. तेल, नींबू का रस, नमक और काली मिर्च फेंटें। इसे आलू, फलियों और टमाटरों के साथ मिलाएँ, फिर ऊपर टूना, अंडा और पार्सले रखें।
+:::
+
+:::lang mr
+# हलके नीस सलाड
+
+लहान बटाटे, हिरव्या शेंगा, तव्यावर पटकन भाजलेला ताजा टूना आणि उकडलेले अंडे, लिंबू-जैतुनाच्या तेलाच्या ड्रेसिंगसह.
+
+## Instructions
+1. बटाटे 15 मिनिटे उकळा. शेवटच्या 4 मिनिटांसाठी शेंगा घाला; नंतर पाणी काढून बटाटे अर्धे कापा.
+2. अंडी 8 मिनिटे उकळा, थंड करा आणि प्रत्येकी चार भागांत कापा.
+3. टूना प्रत्येक बाजूने 90 सेकंद भाजून त्याचे काप करा.
+4. तेल, लिंबाचा रस, मीठ आणि मिरी एकत्र फेटा; बटाटे, शेंगा आणि टोमॅटो यांत मिसळा. वर टूना, अंडे आणि पार्सली घाला.
+:::

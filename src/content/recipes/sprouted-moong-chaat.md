@@ -5,8 +5,6 @@ description: >-
   A fresh, tangy Indian snack of sprouted mung beans, cucumber, tomato, lime,
   and roasted cumin.
 baseServings: 4
-prepTimeMinutes: 20
-prepTimeSource: "https://www.vegrecipesofindia.com/moong-sprouts-chaat-recipe/"
 ingredients:
   - name: mung bean sprouts
     baseAmount: 400
@@ -78,13 +76,37 @@ nutrition:
   micronutrientEstimateSource: >-
     Approximate per-serving estimates from generic cooked mung sprouts and raw
     vegetables; sprouting time, produce size, and seasoning blends vary.
-image: "https://upload.wikimedia.org/wikipedia/commons/a/a8/Moong_Chaat.JPG"
+image: 'https://upload.wikimedia.org/wikipedia/commons/a/a8/Moong_Chaat.JPG'
 imageAttribution:
   title: Moong Chaat
   creator: Anamika Vajpai
-  creatorUrl: "https://commons.wikimedia.org/wiki/User:Anamika_Vajpai"
-  sourceUrl: "https://commons.wikimedia.org/w/index.php?curid=40977450"
+  creatorUrl: 'https://commons.wikimedia.org/wiki/User:Anamika_Vajpai'
+  sourceUrl: 'https://commons.wikimedia.org/w/index.php?curid=40977450'
   license: CC BY-SA 4.0
-  licenseUrl: "https://creativecommons.org/licenses/by-sa/4.0/"
+  licenseUrl: 'https://creativecommons.org/licenses/by-sa/4.0/'
+prepTimeMinutes: 20
+prepTimeSource: 'https://www.vegrecipesofindia.com/moong-sprouts-chaat-recipe/'
 ---
+:::lang hi
+# अंकुरित मूंग चाट
 
+अंकुरित मूंग, खीरा, टमाटर, नींबू और भुने जीरे से बना ताज़ा, खट्टा-चटपटा भारतीय नाश्ता।
+
+## Instructions
+1. खाद्य सुरक्षा के लिए मूंग के अंकुरों को 5 मिनट भाप में पकाएँ या उबालें, फिर पानी निकालकर ठंडा करें। गरम चाट परोसनी हो, तो इन्हें ठंडा करने के बजाय गरम ही रखें।
+2. एक कटोरे में अंकुर, खीरा, टमाटर, प्याज़, हरा धनिया और हरी मिर्च मिलाएँ।
+3. नींबू का रस, जीरा पाउडर, चाट मसाला और नमक डालें। अच्छी तरह मिलाएँ और चखकर मसाला समायोजित करें।
+4. नाश्ते या हल्के भोजन के रूप में तुरंत परोसें।
+:::
+
+:::lang mr
+# मोड आलेल्या मुगाची चाट
+
+मोड आलेले मूग, काकडी, टोमॅटो, लिंबू आणि भाजलेल्या जिऱ्यापासून बनवलेला ताजा, आंबट-तिखट भारतीय अल्पोपहार.
+
+## Instructions
+1. अन्नसुरक्षेसाठी मुगाचे मोड 5 मिनिटे वाफवून किंवा उकळून घ्या; नंतर पाणी काढून थंड करा. गरम चाट वाढायची असल्यास थंड न करता मोड गरमच ठेवा.
+2. एका भांड्यात मोड, काकडी, टोमॅटो, कांदा, कोथिंबीर आणि हिरवी मिरची एकत्र करा.
+3. लिंबाचा रस, जिऱ्याची पूड, चाट मसाला आणि मीठ घाला. नीट मिसळा आणि चव पाहून मसाला समायोजित करा.
+4. अल्पोपहार किंवा हलके जेवण म्हणून लगेच वाढा.
+:::

@@ -2,13 +2,14 @@
 	import type { PageData } from './$types';
 	import RecipeCard from '$lib/components/RecipeCard.svelte';
 	import { favorites } from '$lib/preferences.svelte';
+	import { t } from '$lib/locale.svelte';
 
 	let { data }: { data: PageData } = $props();
 	let savedRecipes = $derived(data.recipes.filter((recipe) => favorites.ids.includes(recipe.id)));
 </script>
 
 <svelte:head>
-	<title>Saved recipes | Fibre-Bite</title>
+	<title>{t('favorites.title')} | Fibre-Bite</title>
 	<meta name="description" content="Recipes saved in this browser on this device." />
 </svelte:head>
 
@@ -16,18 +17,18 @@
 	<div class="mb-8 rounded-lg bg-emerald-950 p-8 text-white shadow-lg">
 		<div class="flex flex-col gap-4 md:flex-row md:items-center md:justify-between">
 			<div>
-				<h1 class="font-display text-3xl font-semibold">Saved recipes</h1>
-				<p class="mt-2 text-emerald-100">Saved recipes stay in this browser on this device.</p>
+				<h1 class="font-display text-3xl font-semibold">{t('favorites.title')}</h1>
+				<p class="mt-2 text-emerald-100">{t('favorites.description')}</p>
 			</div>
 			{#if savedRecipes.length > 0}
-				<a href="/grocery-list" class="inline-flex items-center rounded-md bg-white px-4 py-2 text-sm font-bold text-emerald-900 transition hover:bg-emerald-50">Build grocery list</a>
+				<a href="/grocery-list" class="inline-flex items-center rounded-md bg-white px-4 py-2 text-sm font-bold text-emerald-900 transition hover:bg-emerald-50">{t('favorites.buildList')}</a>
 			{/if}
 		</div>
 	</div>
 
 	{#if savedRecipes.length === 0}
 		<div class="rounded-2xl border border-dashed border-slate-300 bg-white p-10 text-center text-slate-600">
-			<p class="text-lg font-medium">No saved recipes yet.</p>
+			<p class="text-lg font-medium">{t('favorites.empty')}</p>
 			<a href="/recipes" class="mt-4 inline-block text-sm font-semibold text-emerald-700">Explore recipes</a>
 		</div>
 	{:else}

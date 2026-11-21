@@ -5,8 +5,6 @@ description: >-
   A comfort dish cooked by simmering yellow moong dal and rice together with
   mild spices, turmeric, and ghee.
 baseServings: 4
-prepTimeMinutes: 30
-prepTimeSource: "https://www.sanjeevkapoor.com/Recipe/Dal-Khichdi---SK-Khazana.html"
 ingredients:
   - name: yellow moong dal
     baseAmount: 0.5
@@ -64,13 +62,39 @@ nutrition:
     potassiumMg: 240
     magnesiumMg: 38
   micronutrientEstimateSource: Per-serving values from CTI_RECEIPES.pdf.
-image: "https://upload.wikimedia.org/wikipedia/commons/d/db/Dal_khichdi.jpg"
+image: 'https://upload.wikimedia.org/wikipedia/commons/d/db/Dal_khichdi.jpg'
 imageAttribution:
   title: Dal khichdi
   creator: Sauravdipu
-  creatorUrl: "https://commons.wikimedia.org/wiki/User:Sauravdipu"
-  sourceUrl: "https://commons.wikimedia.org/w/index.php?curid=40988228"
+  creatorUrl: 'https://commons.wikimedia.org/wiki/User:Sauravdipu'
+  sourceUrl: 'https://commons.wikimedia.org/w/index.php?curid=40988228'
   license: CC BY-SA 4.0
-  licenseUrl: "https://creativecommons.org/licenses/by-sa/4.0/"
+  licenseUrl: 'https://creativecommons.org/licenses/by-sa/4.0/'
+prepTimeMinutes: 30
+prepTimeSource: 'https://www.sanjeevkapoor.com/Recipe/Dal-Khichdi---SK-Khazana.html'
 ---
+:::lang hi
+# दाल खिचड़ी
 
+पीली मूंग दाल और चावल को हल्के मसालों, हल्दी और घी के साथ धीमी आँच पर पकाकर बनाया गया आरामदायक भोजन।
+
+## Instructions
+1. मूंग दाल और चावल को साथ में अच्छी तरह धो लें।
+2. प्रेशर कुकर में घी गरम करें; जीरा और हींग डालें।
+3. धुली हुई दाल, चावल, हल्दी, नमक और पानी डालें।
+4. चार से पाँच सीटी आने तक प्रेशर कुक करें, जब तक खिचड़ी नरम होकर दलिया जैसी न हो जाए।
+5. गरम परोसने से पहले ऊपर से एक छोटा चम्मच घी डालें।
+:::
+
+:::lang mr
+# डाळ खिचडी
+
+पिवळी मूगडाळ आणि तांदूळ सौम्य मसाले, हळद आणि तुपासह मंद आचेवर शिजवून केलेला आरामदायी खिचडीचा पदार्थ.
+
+## Instructions
+1. मूगडाळ आणि तांदूळ एकत्र करून नीट धुवा.
+2. प्रेशर कुकरमध्ये तूप गरम करा; जिरे आणि हिंग घाला.
+3. धुतलेली डाळ, तांदूळ, हळद, मीठ आणि पाणी घाला.
+4. चार ते पाच शिट्ट्या होईपर्यंत प्रेशर कुकरमध्ये शिजवा, खिचडी मऊ होऊन पेजेसारखी होईपर्यंत.
+5. गरम वाढण्यापूर्वी वरून एक छोटा चमचा तूप घाला.
+:::

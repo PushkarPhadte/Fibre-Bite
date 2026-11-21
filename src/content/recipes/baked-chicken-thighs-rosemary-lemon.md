@@ -59,7 +59,8 @@ nutrition:
   micronutrientEstimateSource: >-
     Estimated from ingredient weights using USDA FoodData Central reference
     profiles.
-image: 'https://upload.wikimedia.org/wikipedia/commons/8/80/Rosemary_chicken.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original'
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/8/80/Rosemary_chicken.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original
 imageAttribution:
   title: Oven roasted rosemary chicken
   creator: TreblRebl
@@ -70,4 +71,24 @@ imageAttribution:
 prepTimeMinutes: 10
 prepTimeEstimated: true
 ---
+:::lang hi
+# रोज़मेरी और नींबू के साथ बेक्ड चिकन थाई
 
+बिना त्वचा वाली चिकन थाई को ताज़ी रोज़मेरी, लहसुन और नींबू के रस के साथ ओवन में बेक किया जाता है, जिससे वे रसदार रहती हैं।
+
+## Instructions
+1. ओवन को 200 C पर पहले से गरम करें और बेकिंग डिश में पार्चमेंट पेपर बिछाएँ।
+2. चिकन थाई को जैतून के तेल, नींबू के रस, बारीक कटे लहसुन, कटी रोज़मेरी और काली मिर्च के साथ मिलाएँ।
+3. चिकन को एक परत में सजाएँ और 25 से 30 मिनट बेक करें, जब तक अंदरूनी तापमान 74 C तक न पहुँच जाए।
+:::
+
+:::lang mr
+# रोझमेरी आणि लिंबासह भाजलेल्या चिकनच्या मांड्या
+
+त्वचाविरहित चिकनच्या मांड्या ताजी रोझमेरी, लसूण आणि लिंबाच्या रसासह ओव्हनमध्ये भाजून रसाळ केल्या जातात.
+
+## Instructions
+1. ओव्हन 200 C वर आधी गरम करा आणि बेकिंग डिशमध्ये पार्चमेंट पेपर अंथरा.
+2. चिकनच्या मांड्या ऑलिव्ह तेल, लिंबाचा रस, बारीक केलेला लसूण, चिरलेली रोझमेरी आणि काळी मिरी यांच्यासह एकत्र करा.
+3. चिकनचे तुकडे एकाच थरात मांडा आणि आतील तापमान 74 C होईपर्यंत 25 ते 30 मिनिटे भाजा.
+:::

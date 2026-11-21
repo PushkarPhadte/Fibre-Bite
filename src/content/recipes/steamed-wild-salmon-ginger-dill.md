@@ -63,7 +63,8 @@ nutrition:
   micronutrientEstimateSource: >-
     Estimated from ingredient weights using USDA FoodData Central reference
     profiles.
-image: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Baked_salmon_with_dill_and_lemon.jpg/960px-Baked_salmon_with_dill_and_lemon.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20140104221308'
+image: >-
+  https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Baked_salmon_with_dill_and_lemon.jpg/960px-Baked_salmon_with_dill_and_lemon.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20140104221308
 imageAttribution:
   title: Baked salmon with dill and lemon
   creator: MOs810
@@ -74,4 +75,26 @@ imageAttribution:
 prepTimeMinutes: 10
 prepTimeEstimated: true
 ---
+:::lang hi
+# अदरक और सोआ के साथ भाप में पका जंगली सैल्मन
 
+ताज़ी अदरक की जड़, नींबू के टुकड़ों और सोआ की सुगंध से भरपूर नरम, भाप में पके जंगली सैल्मन फ़िलेट।
+
+## Instructions
+1. स्टीमर के निचले हिस्से में पानी को हल्की आँच पर उबाल आने तक गरम करें।
+2. हल्का तेल लगी स्टीमर-जाली पर सैल्मन फ़िलेट रखें और ऊपर अदरक, सोआ, नींबू का रस तथा काली मिर्च डालें।
+3. ढककर 10 से 12 मिनट तक भाप में पकाएँ, जब तक काँटे से दबाने पर सैल्मन आसानी से परतों में न टूटने लगे।
+4. परोसने से पहले ऊपर से जैतून का तेल डालें।
+:::
+
+:::lang mr
+# आले आणि शेपू घालून वाफवलेला रानटी सॅल्मन
+
+ताज्या आल्याचा गंध, लिंबाचे काप आणि शेपूची चव मुरवलेले मऊ वाफवलेले रानटी सॅल्मनचे फिलेट.
+
+## Instructions
+1. स्टीमरच्या तळाच्या भांड्यातील पाणी मंद आचेवर हलके उकळू द्या.
+2. थोडे तेल लावलेल्या स्टीमरच्या जाळीवर सॅल्मनचे फिलेट ठेवा आणि त्यावर आले, शेपू, लिंबाचा रस व काळी मिरी घाला.
+3. झाकण लावून 10 ते 12 मिनिटे वाफवा; काट्याने दाबल्यावर सॅल्मन सहज पापुद्र्यांसारखा वेगळा होईपर्यंत शिजवा.
+4. वाढण्यापूर्वी वरून ऑलिव्ह तेल घाला.
+:::

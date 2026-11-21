@@ -1,20 +1,10 @@
 ---
 title: Grilled Lemon Herb Asparagus
 slug: grilled-lemon-herb-asparagus
-image: "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Grilled_Asparagus_with_Fresh_Lemon_and_Olives_%283813197248%29.jpg/960px-Grilled_Asparagus_with_Fresh_Lemon_and_Olives_%283813197248%29.jpg"
-imageAttribution:
-  title: Grilled asparagus with fresh lemon and olives
-  creator: Shoshanah
-  creatorUrl: "https://commons.wikimedia.org/wiki/Special:Contributions/Shoshanah"
-  sourceUrl: "https://commons.wikimedia.org/wiki/File:Grilled_Asparagus_with_Fresh_Lemon_and_Olives_(3813197248).jpg"
-  license: CC BY 2.0
-  licenseUrl: "https://creativecommons.org/licenses/by/2.0"
 description: >-
   Fresh tender asparagus spears grilled with olive oil, garlic, lemon zest, and
   cracked black pepper.
 baseServings: 2
-prepTimeMinutes: 10
-prepTimeSource: "https://healthyfitnessmeals.com/grilled-lemon-garlic-asparagus/"
 ingredients:
   - name: 'fresh asparagus, trimmed'
     baseAmount: 1
@@ -63,5 +53,39 @@ nutrition:
     potassiumMg: 290
     folateMcg: 130
   micronutrientEstimateSource: Per-serving values from cti_receipes_2.pdf.
+image: >-
+  https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Grilled_Asparagus_with_Fresh_Lemon_and_Olives_%283813197248%29.jpg/960px-Grilled_Asparagus_with_Fresh_Lemon_and_Olives_%283813197248%29.jpg
+imageAttribution:
+  title: Grilled asparagus with fresh lemon and olives
+  creator: Shoshanah
+  creatorUrl: 'https://commons.wikimedia.org/wiki/Special:Contributions/Shoshanah'
+  sourceUrl: >-
+    https://commons.wikimedia.org/wiki/File:Grilled_Asparagus_with_Fresh_Lemon_and_Olives_(3813197248).jpg
+  license: CC BY 2.0
+  licenseUrl: 'https://creativecommons.org/licenses/by/2.0'
+prepTimeMinutes: 10
+prepTimeSource: 'https://healthyfitnessmeals.com/grilled-lemon-garlic-asparagus/'
 ---
+:::lang hi
+# ग्रिल्ड नींबू-जड़ी-बूटी एस्पैरागस
 
+ताज़े, कोमल एस्पैरागस के डंठलों को जैतून के तेल, लहसुन, नींबू के छिलके और दरदरी कुटी काली मिर्च के साथ ग्रिल किया जाता है।
+
+## Instructions
+1. एस्पैरागस के डंठलों के लकड़ी जैसे सख्त निचले सिरे तोड़कर निकाल दें।
+2. डंठलों को जैतून के तेल, बारीक कटे लहसुन, नमक और काली मिर्च के साथ मिलाएँ।
+3. गरम तवे या ग्रिल पैन पर 5–7 मिनट तक ग्रिल करें और बीच-बीच में पलटते रहें।
+4. प्लेट में निकालें, ऊपर से नींबू का छिलका छिड़कें और ताज़ा नींबू का रस निचोड़ें।
+:::
+
+:::lang mr
+# ग्रिल्ड लिंबू-हर्ब अॅस्पॅरॅगस
+
+ताज्या, कोवळ्या अॅस्पॅरॅगसच्या काड्या ऑलिव्ह ऑइल, लसूण, लिंबाची किसलेली साल आणि जाडसर कुटलेल्या काळ्या मिरीसोबत ग्रिल केल्या जातात.
+
+## Instructions
+1. अॅस्पॅरॅगसच्या काड्यांची लाकडासारखी कडक खालची टोके मोडून काढा.
+2. काड्या ऑलिव्ह ऑइल, बारीक चिरलेला लसूण, मीठ आणि मिरपूड यांसोबत मिसळा.
+3. गरम तव्यावर किंवा ग्रिल पॅनवर 5–7 मिनिटे ग्रिल करा आणि अधूनमधून उलटवा.
+4. प्लेटमध्ये काढा, वरून लिंबाची किसलेली साल भुरभुरा आणि ताज्या लिंबाचा रस पिळा.
+:::

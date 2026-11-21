@@ -49,6 +49,7 @@ dietaryTags:
   - gluten-free
 allergens:
   - peanuts
+image: 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGUjAxu1BMxr3a2-1H3-wW-fmcTAdKFdWcItSARYgYwJJEjU2NuhI2YQJjt-9-rNjReQATStmOouXE0j7VKoJjFmr8CnocBNdPZPBCZ4agEhZhjhvDmZk25p1QW9cDk-8I87QEwxUhXwE/s1600/Millet_Salad_1.JPG'
 nutrition:
   calories: 203
   protein: 6.8
@@ -66,4 +67,24 @@ nutrition:
 prepTimeMinutes: 30
 prepTimeEstimated: true
 ---
+:::lang hi
+# कंगनी, टमाटर और खीरे का सलाद
 
+पकी हुई कंगनी, खीरे, टमाटर, धनिया और नींबू से बना ठंडा सलाद।
+
+## Instructions
+1. कंगनी को 250 ml पानी में 15 मिनट पकाएँ। उसे काँटे से फुलाकर पूरी तरह ठंडा करें।
+2. खीरा, टमाटर, प्याज़, धनिया, नींबू का रस, तेल और नमक मिलाकर कंगनी के साथ उछालकर मिलाएँ।
+3. ऊपर से मूँगफली डालें।
+:::
+
+:::lang mr
+# कांगणी, टोमॅटो आणि काकडीची कोशिंबीर
+
+शिजवलेली कांगणी, काकडी, टोमॅटो, कोथिंबीर आणि लिंबू यांची थंड कोशिंबीर।
+
+## Instructions
+1. कांगणी 250 ml पाण्यात 15 मिनिटे शिजवा. काट्याने मोकळी करून पूर्ण थंड होऊ द्या.
+2. काकडी, टोमॅटो, कांदा, कोथिंबीर, लिंबाचा रस, तेल आणि मीठ कांगणीसोबत हलक्या हाताने एकत्र करा.
+3. वरून शेंगदाणे घाला.
+:::

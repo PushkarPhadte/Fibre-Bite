@@ -1,20 +1,10 @@
 ---
 title: Kenyan Sukuma Wiki (Sautéed Collard Greens)
 slug: kenyan-sukuma-wiki
-image: "https://upload.wikimedia.org/wikipedia/commons/4/45/Collard_greens%2C_sukuma_wiki.jpg"
-imageAttribution:
-  title: "Collard greens, sukuma wiki"
-  creator: "Ssemmanda will"
-  creatorUrl: "https://commons.wikimedia.org/wiki/User:Ssemmanda_will"
-  sourceUrl: "https://commons.wikimedia.org/wiki/File:Collard_greens,_sukuma_wiki.jpg"
-  license: "CC BY-SA 4.0"
-  licenseUrl: "https://creativecommons.org/licenses/by-sa/4.0/"
 description: >-
   An East African staple dish of collard greens braised with tomatoes, onions,
   cumin, and lemon.
 baseServings: 3
-prepTimeMinutes: 5
-prepTimeSource: "https://lowcarbafrica.com/sukuma-wiki-kenyan-collard-greens/"
 ingredients:
   - name: 'collard greens or kale, chopped'
     baseAmount: 1
@@ -69,5 +59,38 @@ nutrition:
     calciumMg: 150
     ironMg: 1.8
   micronutrientEstimateSource: Per-serving values from cti_receipes_2.pdf.
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/4/45/Collard_greens%2C_sukuma_wiki.jpg
+imageAttribution:
+  title: 'Collard greens, sukuma wiki'
+  creator: Ssemmanda will
+  creatorUrl: 'https://commons.wikimedia.org/wiki/User:Ssemmanda_will'
+  sourceUrl: 'https://commons.wikimedia.org/wiki/File:Collard_greens,_sukuma_wiki.jpg'
+  license: CC BY-SA 4.0
+  licenseUrl: 'https://creativecommons.org/licenses/by-sa/4.0/'
+prepTimeMinutes: 5
+prepTimeSource: 'https://lowcarbafrica.com/sukuma-wiki-kenyan-collard-greens/'
 ---
+:::lang hi
+# केन्याई सुकुमा विकी (भुना हुआ कोलार्ड साग)
 
+कोलार्ड साग को टमाटर, प्याज़, जीरा और नींबू के साथ दम देकर बनाया गया पूर्वी अफ्रीका का लोकप्रिय व्यंजन।
+
+## Instructions
+1. एक पैन में जैतून का तेल गरम करें; प्याज़ को 4 मिनट भूनें।
+2. कटे टमाटर और जीरा डालें; 3 मिनट पकाएँ।
+3. कटा हुआ कोलार्ड साग और 2 बड़े चम्मच पानी डालें; ढककर 8 मिनट पकाएँ।
+4. अंत में नींबू का रस, नमक और काली मिर्च मिलाएँ।
+:::
+
+:::lang mr
+# केनियन सुकुमा विकी (परतलेली कोलार्डची भाजी)
+
+टोमॅटो, कांदा, जिरे आणि लिंबासोबत दम देऊन शिजवलेली कोलार्डची भाजी; हा पूर्व आफ्रिकेतील लोकप्रिय पदार्थ आहे।
+
+## Instructions
+1. पॅनमध्ये ऑलिव्ह तेल गरम करा; कांदा 4 मिनिटे परता.
+2. चिरलेले टोमॅटो आणि जिरे घाला; 3 मिनिटे शिजवा.
+3. चिरलेली कोलार्डची पाने आणि 2 मोठे चमचे पाणी घाला; झाकण ठेवून 8 मिनिटे शिजवा.
+4. शेवटी लिंबाचा रस, मीठ आणि काळी मिरी घाला.
+:::

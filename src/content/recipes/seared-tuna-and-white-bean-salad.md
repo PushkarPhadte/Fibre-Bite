@@ -64,15 +64,35 @@ nutrition:
     Legacy/Foundation) and ICMR-NIN IFCT 2017 per-100 g values for each
     ingredient, scaled to the quantities used (raw-ingredient weights; cooking
     losses not applied).
-image: "https://live.staticflickr.com/7366/10585910504_99d48d5fa9_b.jpg"
+image: 'https://live.staticflickr.com/7366/10585910504_99d48d5fa9_b.jpg'
 imageAttribution:
-  title: "tuna & white bean salad-2"
-  creator: "jules:stonesoup"
-  creatorUrl: "https://www.flickr.com/photos/58367355@N00"
-  sourceUrl: "https://www.flickr.com/photos/58367355@N00/10585910504"
-  license: "CC BY 2.0"
-  licenseUrl: "https://creativecommons.org/licenses/by/2.0/"
+  title: tuna & white bean salad-2
+  creator: 'jules:stonesoup'
+  creatorUrl: 'https://www.flickr.com/photos/58367355@N00'
+  sourceUrl: 'https://www.flickr.com/photos/58367355@N00/10585910504'
+  license: CC BY 2.0
+  licenseUrl: 'https://creativecommons.org/licenses/by/2.0/'
 prepTimeMinutes: 25
 prepTimeEstimated: true
 ---
+:::lang hi
+# सियर किया हुआ टूना और सफेद बीन्स का सलाद
 
+नींबू और जैतून के तेल की ड्रेसिंग में सफेद कैनेलिनी बीन्स, चेरी टमाटर और पार्सले के ऊपर परोसा गया ताज़ा सियर किया हुआ टूना।
+
+## Instructions
+1. टूना पर काली मिर्च और थोड़ा नमक लगाएँ। बहुत गरम, सूखे नॉन-स्टिक पैन में हर तरफ 90 सेकंड तक सियर करें; कुछ देर आराम दें, फिर स्लाइस करें।
+2. बीन्स, टमाटर, प्याज़ और पार्सले को नींबू के रस, जैतून के तेल और बचा हुआ नमक डालकर मिलाएँ।
+3. ऊपर से टूना के स्लाइस रखें और परोसें।
+:::
+
+:::lang mr
+# पॅनवर परतलेला टूना आणि पांढऱ्या बीन्सचे सलाड
+
+लिंबू आणि ऑलिव्ह ऑइलच्या ड्रेसिंगमध्ये कॅनेलिनी बीन्स, चेरी टोमॅटो आणि पार्सलीवर ठेवलेला ताजा परतलेला टूना.
+
+## Instructions
+1. ट्यूनावर काळी मिरी आणि चिमूटभर मीठ लावा. अतिशय गरम, कोरड्या नॉन-स्टिक पॅनमध्ये प्रत्येक बाजू 90 सेकंद परता; थोडा वेळ बाजूला ठेवून मग कापा.
+2. बीन्स, टोमॅटो, कांदा आणि पार्सलीमध्ये लिंबाचा रस, ऑलिव्ह ऑइल आणि उरलेले मीठ घालून एकत्र करा.
+3. वर ट्यून्याचे काप ठेवा आणि वाढा.
+:::

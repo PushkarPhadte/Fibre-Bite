@@ -62,15 +62,35 @@ nutrition:
     Legacy/Foundation) and ICMR-NIN IFCT 2017 per-100 g values for each
     ingredient, scaled to the quantities used (raw-ingredient weights; cooking
     losses not applied).
-image: "https://live.staticflickr.com/7298/12001454755_cc2b6cb3aa_b.jpg"
+image: 'https://live.staticflickr.com/7298/12001454755_cc2b6cb3aa_b.jpg'
 imageAttribution:
-  title: "Black bean and lime soup"
-  creator: "goblinbox_(queen_of_ad_hoc_bento)"
-  creatorUrl: "https://www.flickr.com/photos/25977089@N00"
-  sourceUrl: "https://www.flickr.com/photos/25977089@N00/12001454755"
-  license: "CC BY 2.0"
-  licenseUrl: "https://creativecommons.org/licenses/by/2.0/"
+  title: Black bean and lime soup
+  creator: goblinbox_(queen_of_ad_hoc_bento)
+  creatorUrl: 'https://www.flickr.com/photos/25977089@N00'
+  sourceUrl: 'https://www.flickr.com/photos/25977089@N00/12001454755'
+  license: CC BY 2.0
+  licenseUrl: 'https://creativecommons.org/licenses/by/2.0/'
 prepTimeMinutes: 35
 prepTimeEstimated: true
 ---
+:::lang hi
+# काली बीन्स और नींबू का सूप
 
+धुएँदार स्वाद वाला काली बीन्स का सूप, जिसमें नींबू और ताज़ा धनिया ताजगी भरते हैं।
+
+## Instructions
+1. तेल गरम करें और प्याज़, शिमला मिर्च तथा लहसुन को 6 मिनट पकाएँ।
+2. जीरा, बीन्स, नमक और पानी डालें और 20 मिनट धीमी आँच पर पकाएँ।
+3. बर्तन में लगभग एक-तिहाई बीन्स को मोटा-मोटा मसलें, नींबू का रस और धनिया मिलाएँ और परोसें।
+:::
+
+:::lang mr
+# काळे बीन्स आणि लिंबाचे सूप
+
+धुरकट चवीच्या काळ्या बीन्सच्या सूपला लिंबाचा रस आणि ताजी कोथिंबीर तजेला देतात.
+
+## Instructions
+1. तेल गरम करा आणि कांदा, ढोबळी मिरची व लसूण 6 मिनिटे शिजवा.
+2. जिरे, बीन्स, मीठ आणि पाणी घालून 20 मिनिटे मंद आचेवर उकळवा.
+3. भांड्यातील साधारण एक-तृतीयांश बीन्स भरडून घ्या, लिंबाचा रस आणि कोथिंबीर मिसळा आणि वाढा.
+:::

@@ -6,8 +6,6 @@ description: >-
   A traditional Iranian platter of fresh mint, tarragon, radishes, walnuts, and
   feta cheese eaten as a light starter.
 baseServings: 3
-prepTimeMinutes: 10
-prepTimeSource: "https://www.proportionalplate.com/sabzi-khordan/"
 ingredients:
   - name: fresh mint leaves
     baseAmount: 1
@@ -58,6 +56,30 @@ nutrition:
     vitaminCMg: 18
     calciumMg: 130
     ironMg: 1.6
-  micronutrientEstimateSource: Per-serving values from cti_receipes_2.pdf.
+  micronutrientEstimateSource: Per-serving values from USDA.
+prepTimeMinutes: 10
+prepTimeSource: 'https://www.proportionalplate.com/sabzi-khordan/'
 ---
+:::lang hi
+# फ़ारसी जड़ी-बूटी सलाद (सब्ज़ी ख़ोरदान)
 
+ताज़े पुदीने, तारगोन, मूली, अखरोट और फ़ेटा चीज़ की पारंपरिक ईरानी थाली, जिसे हल्के शुरुआती व्यंजन के रूप में खाया जाता है।
+
+## Instructions
+1. सभी ताज़ी जड़ी-बूटियों को धोकर अच्छी तरह सुखाएँ।
+2. ताज़ी जड़ी-बूटियाँ, कटी हुई मूली और हरे प्याज़ एक थाली में सजाएँ।
+3. ऊपर से टुकड़े किया हुआ फ़ेटा चीज़ और अखरोट के आधे टुकड़े डालें।
+4. साबुत अनाज की ब्रेड के साथ ताज़ा परोसें।
+:::
+
+:::lang mr
+# पर्शियन हिरवळीचे सलाड (सब्झी खोर्दान)
+
+ताजा पुदिना, टॅरॅगॉन, मुळा, अक्रोड आणि फेटा चीज यांची पारंपरिक इराणी थाळी; हलका सुरुवातीचा पदार्थ म्हणून खाल्ली जाते.
+
+## Instructions
+1. सर्व ताज्या औषधी वनस्पती धुऊन पूर्णपणे कोरड्या करा.
+2. ताज्या औषधी वनस्पती, चिरलेले मुळे आणि पातीचा कांदा ताटात सजवा.
+3. वरून कुस्करलेले फेटा चीज आणि अक्रोडाचे अर्धे तुकडे घाला.
+4. संपूर्ण धान्याच्या ब्रेडसोबत ताजे वाढा.
+:::

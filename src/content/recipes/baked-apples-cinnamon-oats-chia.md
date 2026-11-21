@@ -55,8 +55,29 @@ nutrition:
   micronutrientEstimateSource: >-
     Estimated from ingredient weights using USDA FoodData Central reference
     profiles.
+image: >-
+  https://imgs.search.brave.com/bD9Y92VKGAuvH54p-yM2YAqwT8j_oFxAw-0_HVULzug/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90aGVy/ZWFsZm9vZGRpZXRp/dGlhbnMuY29tL3dw/LWNvbnRlbnQvdXBs/b2Fkcy8yMDIxLzA4/L0FwcGxlLUNpbm5h/bW9uLUJha2VkLU9h/dG1lYWwyLTIuanBn
 prepTimeMinutes: 10
 prepTimeEstimated: true
-image: 'https://imgs.search.brave.com/bD9Y92VKGAuvH54p-yM2YAqwT8j_oFxAw-0_HVULzug/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90aGVy/ZWFsZm9vZGRpZXRp/dGlhbnMuY29tL3dw/LWNvbnRlbnQvdXBs/b2Fkcy8yMDIxLzA4/L0FwcGxlLUNpbm5h/bW9uLUJha2VkLU9h/dG1lYWwyLTIuanBn'
 ---
+:::lang hi
+# दालचीनी, ओट्स और चिया से भरे बेक्ड सेब
 
+बीज निकाले हुए सेबों में रोल्ड ओट्स, चिया बीज और पिसी दालचीनी भरकर बेक किया जाता है; यह स्वाभाविक मिठास वाला, फाइबर-युक्त व्यंजन है।
+
+## Instructions
+1. ओवन को 190 C पर पहले से गरम करें और बीज निकाले सेबों को एक छोटे बेकिंग डिश में सीधा रखें।
+2. एक छोटे कटोरे में रोल्ड ओट्स, चिया बीज और पिसी दालचीनी मिलाएँ; मिश्रण से सेबों के बीच के खाली हिस्से भरें और डिश के तले में पानी डालें।
+3. 30 से 35 मिनट तक बेक करें, जब तक सेब नरम न हो जाएँ।
+:::
+
+:::lang mr
+# दालचिनी, ओट्स आणि चिया भरून भाजलेली सफरचंदे
+
+बिया काढलेल्या सफरचंदांत रोल्ड ओट्स, चिया बिया आणि दालचिनीची पूड भरून भाजलेले, फळांच्या नैसर्गिक गोडव्यामुळे गोड लागणारे आणि तंतुमय पदार्थांनी समृद्ध असे पक्वान्न.
+
+## Instructions
+1. ओव्हन 190 C वर आधी गरम करा आणि बिया काढलेली सफरचंदे एका छोट्या बेकिंग डिशमध्ये उभी ठेवा.
+2. एका छोट्या भांड्यात रोल्ड ओट्स, चिया बिया आणि दालचिनीची पूड मिसळा; हे मिश्रण सफरचंदांच्या मधल्या पोकळीत भरा आणि डिशच्या तळाशी पाणी ओता.
+3. सफरचंदे मऊ होईपर्यंत 30 ते 35 मिनिटे भाजा.
+:::

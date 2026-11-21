@@ -68,15 +68,37 @@ nutrition:
     Legacy/Foundation) and ICMR-NIN IFCT 2017 per-100 g values for each
     ingredient, scaled to the quantities used (raw-ingredient weights; cooking
     losses not applied).
+image: 'https://upload.wikimedia.org/wikipedia/commons/a/a9/Aloo_Ghobi.jpg'
+imageAttribution:
+  title: Aloo Ghobi
+  creator: Sapanabehl
+  creatorUrl: 'https://commons.wikimedia.org/wiki/User:Sapanabehl'
+  sourceUrl: 'https://commons.wikimedia.org/wiki/File:Aloo_Ghobi.jpg'
+  license: CC BY-SA 4.0
+  licenseUrl: 'https://creativecommons.org/licenses/by-sa/4.0/'
 prepTimeMinutes: 35
 prepTimeEstimated: true
-image: "https://upload.wikimedia.org/wikipedia/commons/a/a9/Aloo_Ghobi.jpg"
-imageAttribution:
-  title: "Aloo Ghobi"
-  creator: "Sapanabehl"
-  creatorUrl: "https://commons.wikimedia.org/wiki/User:Sapanabehl"
-  sourceUrl: "https://commons.wikimedia.org/wiki/File:Aloo_Ghobi.jpg"
-  license: "CC BY-SA 4.0"
-  licenseUrl: "https://creativecommons.org/licenses/by-sa/4.0/"
 ---
+:::lang hi
+# हल्का आलू गोभी
 
+कम तेल में जीरा, धनिया और हल्दी के साथ बनी आलू और फूलगोभी की सूखी सब्ज़ी।
+
+## Instructions
+1. तेल गरम करें, जीरा तड़काएं और प्याज़ तथा अदरक को नरम होने तक पकाएं।
+2. टमाटर और मसाले डालकर 3 मिनट पकाएं।
+3. आलू, फूलगोभी, नमक और 100 मिलीलीटर पानी डालें। ढककर 20 मिनट पकाएं और बीच-बीच में चलाते रहें।
+4. धनिया से सजाएं।
+:::
+
+:::lang mr
+# हलकी आलू गोबी
+
+कमी तेलात जिरे, धणे आणि हळदीसोबत शिजवलेली बटाटा आणि फुलकोबीची कोरडी भाजी.
+
+## Instructions
+1. तेल गरम करा, जिरे तडतडू द्या आणि कांदा व आले मऊ होईपर्यंत शिजवा.
+2. टोमॅटो आणि मसाले घालून 3 मिनिटे शिजवा.
+3. बटाटा, फुलकोबी, मीठ आणि 100 मिली पाणी घाला. झाकण ठेवून 20 मिनिटे शिजवा आणि मध्येच ढवळा.
+4. कोथिंबिरीने सजवा.
+:::

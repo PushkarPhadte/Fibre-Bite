@@ -1,10 +1,8 @@
 ---
-title: "Overnight Oats"
-slug: "overnight-oats"
-description: "Creamy oats with chia, berries, and vanilla for a quick fiber-rich breakfast."
+title: Overnight Oats
+slug: overnight-oats
+description: 'Creamy oats with chia, berries, and vanilla for a quick fiber-rich breakfast.'
 baseServings: 2
-prepTimeMinutes: 10
-prepTimeSource: "https://www.bbcgoodfood.com/recipes/overnight-oats"
 ingredients:
   - name: rolled oats
     baseAmount: 1
@@ -30,7 +28,7 @@ ingredients:
     optional: true
 instructions:
   - number: 1
-    text: Stir the oats, milk, chia seeds, yogurt, vanilla, and honey together.
+    text: 'Stir the oats, milk, chia seeds, yogurt, vanilla, and honey together.'
   - number: 2
     text: Refrigerate overnight so the oats soften and absorb the liquid.
   - number: 3
@@ -49,19 +47,46 @@ nutrition:
   sugar: 10
   sodium: 150
   micronutrients:
+    vitaminCMg: 15
     calciumMg: 200
     ironMg: 2.3
-    magnesiumMg: 90
     potassiumMg: 390
-    vitaminCMg: 15
+    magnesiumMg: 90
     folateMcg: 35
-  micronutrientEstimateSource: "Approximate estimate based on USDA FoodData Central generic rolled oats and chia seed entries (FDC 2346396, 170554) plus generic estimates for other listed ingredients; household conversions, dairy brands, berries, and preparation vary."
-image: "https://live.staticflickr.com/5470/10152667545_94751211aa_b.jpg"
+  micronutrientEstimateSource: >-
+    Approximate estimate based on USDA FoodData Central generic rolled oats and
+    chia seed entries (FDC 2346396, 170554) plus generic estimates for other
+    listed ingredients; household conversions, dairy brands, berries, and
+    preparation vary.
+image: 'https://live.staticflickr.com/5470/10152667545_94751211aa_b.jpg'
 imageAttribution:
   title: How to Make Bircher Muesli (Overnight Oats)
   creator: simpleprovisions
-  creatorUrl: "https://www.flickr.com/photos/80665970@N03"
-  sourceUrl: "https://www.flickr.com/photos/80665970@N03/10152667545"
+  creatorUrl: 'https://www.flickr.com/photos/80665970@N03'
+  sourceUrl: 'https://www.flickr.com/photos/80665970@N03/10152667545'
   license: CC BY 2.0
-  licenseUrl: "https://creativecommons.org/licenses/by/2.0/"
+  licenseUrl: 'https://creativecommons.org/licenses/by/2.0/'
+prepTimeMinutes: 10
+prepTimeSource: 'https://www.bbcgoodfood.com/recipes/overnight-oats'
 ---
+:::lang hi
+# रात भर भिगोए ओट्स
+
+झटपट, फाइबर से भरपूर नाश्ते के लिए चिया, बेरी और वनीला के साथ मलाईदार ओट्स।
+
+## Instructions
+1. ओट्स, दूध, चिया बीज, दही, वनीला और शहद को अच्छी तरह मिलाएँ।
+2. ओट्स को नरम होने और तरल सोखने के लिए रात भर फ्रिज में रखें।
+3. सुबह ऊपर से बेरी डालें और ठंडा परोसें।
+:::
+
+:::lang mr
+# रात्रभर भिजवलेले ओट्स
+
+चिया, बेरी आणि व्हॅनिलासह तयार केलेले मलईदार ओट्स; झटपट, तंतुमय नाश्त्यासाठी.
+
+## Instructions
+1. ओट्स, दूध, चिया बिया, दही, व्हॅनिला आणि मध एकत्र ढवळा.
+2. ओट्स मऊ होऊन त्यातले द्रव शोषले जावेत म्हणून रात्रभर फ्रिजमध्ये ठेवा.
+3. सकाळी वरून बेरी घाला आणि थंड वाढा.
+:::

@@ -58,15 +58,37 @@ nutrition:
     Legacy/Foundation) and ICMR-NIN IFCT 2017 per-100 g values for each
     ingredient, scaled to the quantities used (raw-ingredient weights; cooking
     losses not applied).
-image: "https://live.staticflickr.com/3793/14071683600_0b1c78df11.jpg"
+image: 'https://live.staticflickr.com/3793/14071683600_0b1c78df11.jpg'
 imageAttribution:
-  title: "Apple Cinnamon Oatmeal"
-  creator: "lowfatchick"
-  creatorUrl: "https://www.flickr.com/photos/123849057@N05"
-  sourceUrl: "https://www.flickr.com/photos/123849057@N05/14071683600"
-  license: "CC BY 2.0"
-  licenseUrl: "https://creativecommons.org/licenses/by/2.0/"
+  title: Apple Cinnamon Oatmeal
+  creator: lowfatchick
+  creatorUrl: 'https://www.flickr.com/photos/123849057@N05'
+  sourceUrl: 'https://www.flickr.com/photos/123849057@N05/14071683600'
+  license: CC BY 2.0
+  licenseUrl: 'https://creativecommons.org/licenses/by/2.0/'
 prepTimeMinutes: 40
 prepTimeEstimated: true
 ---
+:::lang hi
+# सेब-दालचीनी का बेक्ड ओटमील
 
+कद्दूकस किए सेब, अखरोट और दालचीनी वाला ट्रे में बेक किया हुआ ओटमील, जिसमें मिठास केवल फलों से आती है।
+
+## Instructions
+1. ओवन को 180 °C पर गरम करें और 20 सेमी की बेकिंग डिश को चिकना करें।
+2. डिश में ओट्स, दालचीनी, कद्दूकस किया सेब और आधे अखरोट मिलाएँ।
+3. दूध और अंडे फेंटकर ओट्स के मिश्रण पर डालें; ऊपर बचे हुए अखरोट बिखेरें।
+4. 30 मिनट बेक करें, जब तक मिश्रण जमकर सुनहरा न हो जाए; फिर 5 मिनट ठंडा होने दें और चार हिस्सों में काटें।
+:::
+
+:::lang mr
+# सफरचंद-दालचिनीचे बेक्ड ओटमील
+
+किसलेले सफरचंद, अक्रोड आणि दालचिनी घालून ट्रेमध्ये भाजलेले ओटमील; याला गोडवा फक्त फळांमधून मिळतो.
+
+## Instructions
+1. ओव्हन 180 °C वर गरम करा आणि 20 सेमीची बेकिंग डिश तेल लावून माखून घ्या.
+2. डिशमध्ये ओट्स, दालचिनी, किसलेले सफरचंद आणि अर्धे अक्रोड मिसळा.
+3. दूध आणि अंडी फेटून ओट्सच्या मिश्रणावर ओता; उरलेले अक्रोड वरून पेरा.
+4. मिश्रण सेट होऊन सोनेरी होईपर्यंत 30 मिनिटे बेक करा; नंतर 5 मिनिटे ठेवून चार भागांत कापा.
+:::

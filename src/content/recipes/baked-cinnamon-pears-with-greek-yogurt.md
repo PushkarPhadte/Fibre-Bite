@@ -50,15 +50,36 @@ nutrition:
     Legacy/Foundation) and ICMR-NIN IFCT 2017 per-100 g values for each
     ingredient, scaled to the quantities used (raw-ingredient weights; cooking
     losses not applied).
-image: "https://upload.wikimedia.org/wikipedia/commons/d/d1/Yogurt_with_cinnamon_and_pear.jpg"
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/d/d1/Yogurt_with_cinnamon_and_pear.jpg
 imageAttribution:
-  title: "Yogurt with cinnamon and pear"
-  creator: "MOs810"
-  creatorUrl: "https://commons.wikimedia.org/wiki/User:MOs810"
-  sourceUrl: "https://commons.wikimedia.org/wiki/File:Yogurt_with_cinnamon_and_pear.jpg"
-  license: "CC BY-SA 3.0"
-  licenseUrl: "https://creativecommons.org/licenses/by-sa/3.0/"
+  title: Yogurt with cinnamon and pear
+  creator: MOs810
+  creatorUrl: 'https://commons.wikimedia.org/wiki/User:MOs810'
+  sourceUrl: 'https://commons.wikimedia.org/wiki/File:Yogurt_with_cinnamon_and_pear.jpg'
+  license: CC BY-SA 3.0
+  licenseUrl: 'https://creativecommons.org/licenses/by-sa/3.0/'
 prepTimeMinutes: 35
 prepTimeEstimated: true
 ---
+:::lang hi
+# दालचीनी वाले बेक्ड नाशपाती और ग्रीक योगर्ट
 
+दालचीनी और अखरोट के साथ भुने नाशपाती, गरमागरम ग्रीक योगर्ट के साथ परोसे जाते हैं; मिठास केवल फल से आती है।
+
+## Instructions
+1. ओवन को 190 °C पर गरम करें और नाशपातियों को कटे हिस्से ऊपर रखते हुए पानी के साथ एक डिश में रखें।
+2. ऊपर दालचीनी और अखरोट छिड़कें और नरम होने तक 25 मिनट बेक करें।
+3. गरमागरम योगर्ट के साथ परोसें।
+:::
+
+:::lang mr
+# दालचिनी घालून भाजलेली नाशपाती आणि ग्रीक योगर्ट
+
+दालचिनी आणि अक्रोडासह भाजलेल्या नाशपाती गरम ग्रीक योगर्टसोबत वाढल्या जातात; गोडवा फक्त फळांमधून येतो.
+
+## Instructions
+1. ओव्हन 190 °C वर गरम करा आणि नाशपाती कापलेली बाजू वर ठेवून, पाण्यासह एका डिशमध्ये मांडा.
+2. वरून दालचिनी आणि अक्रोड पेरा आणि मऊ होईपर्यंत 25 मिनिटे भाजा.
+3. गरम असतानाच योगर्टसोबत वाढा.
+:::

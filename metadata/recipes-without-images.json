@@ -1,0 +1,705 @@
+{
+  "count": 175,
+  "recipes": [
+    {
+      "slug": "baked-banana-oat-breakfast-bars",
+      "title": "Baked Banana Oat Breakfast Bars"
+    },
+    {
+      "slug": "goan-tambdi-bhaji-red-amaranth",
+      "title": "Goan Tambdi Bhaji (Red Amaranth Greens with Coconut)"
+    },
+    {
+      "slug": "goan-tendli-cashew-stir-fry",
+      "title": "Goan Tendli Cashew Bhaji (Ivy Gourd Stir-Fry)"
+    },
+    {
+      "slug": "goan-young-jackfruit-bhaji",
+      "title": "Goan Phanasachi Bhaji (Young Green Jackfruit Stir-Fry)"
+    },
+    {
+      "slug": "golden-turmeric-milk",
+      "title": "Golden Turmeric Milk (Haldi Doodh)"
+    },
+    {
+      "slug": "greek-barley-rusk-dakos",
+      "title": "Cretan Dakos (Whole-Barley Rusk with Grated Tomato and Feta)"
+    },
+    {
+      "slug": "greek-fasolakia-green-beans-in-tomato",
+      "title": "Fasolakia (Greek Green Beans Braised in Tomato)"
+    },
+    {
+      "slug": "greek-horiatiki-village-salad",
+      "title": "Horiatiki (Greek Village Salad)"
+    },
+    {
+      "slug": "greek-yogurt-berry-flax-parfait",
+      "title": "Greek Yogurt Berry Flax Parfait"
+    },
+    {
+      "slug": "green-split-pea-and-carrot-soup",
+      "title": "Green Split Pea and Carrot Soup"
+    },
+    {
+      "slug": "green-split-pea-soup-celery-leeks-thyme",
+      "title": "Green Split Pea Soup with Celery, Leeks, and Thyme"
+    },
+    {
+      "slug": "guava-papaya-fruit-chaat",
+      "title": "Guava Papaya Fruit Chaat"
+    },
+    {
+      "slug": "home-style-chicken-curry",
+      "title": "Home-Style Chicken Curry"
+    },
+    {
+      "slug": "hot-and-sour-tofu-mushroom-soup",
+      "title": "Hot and Sour Tofu Mushroom Soup"
+    },
+    {
+      "slug": "huevos-rancheros-on-black-beans",
+      "title": "Huevos Rancheros on Black Beans"
+    },
+    {
+      "slug": "hung-curd-vegetable-whole-wheat-sandwich",
+      "title": "Hung Curd and Vegetable Whole-Wheat Sandwich"
+    },
+    {
+      "slug": "jamaican-coconut-red-beans-and-brown-rice",
+      "title": "Jamaican Coconut Red Beans and Brown Rice"
+    },
+    {
+      "slug": "japanese-arame-root-vegetable-simmer",
+      "title": "Japanese Arame Seaweed, Edamame, and Daikon Simmer"
+    },
+    {
+      "slug": "japanese-chawanmushi-steamed-egg-custard",
+      "title": "Japanese Chawanmushi (Steamed Egg Custard with Shrimp and Shiitake)"
+    },
+    {
+      "slug": "japanese-oyakodon-chicken-egg-brown-rice-bowl",
+      "title": "Oyakodon (Japanese Chicken and Egg Rice Bowl)"
+    },
+    {
+      "slug": "jowar-lentil-vegetable-handvo",
+      "title": "Baked Jowar and Lentil Handvo (Savory Millet Cake)"
+    },
+    {
+      "slug": "kadai-mushroom-with-bell-peppers",
+      "title": "Kadai Mushroom with Bell Peppers"
+    },
+    {
+      "slug": "kaddu-pumpkin-sabzi",
+      "title": "Kaddu Pumpkin Sabzi"
+    },
+    {
+      "slug": "kale-chickpea-yogurt-caesar-salad",
+      "title": "Kale Chickpea Yogurt Caesar Salad"
+    },
+    {
+      "slug": "kale-red-lentil-cumin-soup",
+      "title": "Kale and Red Lentil Soup with Cumin"
+    },
+    {
+      "slug": "karela-bitter-gourd-stir-fry",
+      "title": "Karela Bitter Gourd Stir-Fry"
+    },
+    {
+      "slug": "kashmiri-nadru-yakhni-lotus-stem",
+      "title": "Kashmiri Nadru Yakhni (Lotus Stem in Spiced Yogurt)"
+    },
+    {
+      "slug": "keerai-masiyal-tamil-spinach-dal-mash",
+      "title": "Keerai Masiyal (Tamil Spinach and Moong Dal Mash)"
+    },
+    {
+      "slug": "kerala-chicken-stew-ishtu",
+      "title": "Kerala Chicken Stew (Ishtu)"
+    },
+    {
+      "slug": "khaman-dhokla-steamed-gram-cakes",
+      "title": "Khaman Dhokla (Steamed Chickpea Flour Cakes)"
+    },
+    {
+      "slug": "korean-bean-sprout-soup-kongnamul-guk",
+      "title": "Korean Bean Sprout Soup (Kongnamul Guk)"
+    },
+    {
+      "slug": "korean-chilled-soymilk-noodle-soup",
+      "title": "Korean Kongguksu (Chilled Soymilk Buckwheat Noodle Soup)"
+    },
+    {
+      "slug": "korean-soft-tofu-mushroom-stew",
+      "title": "Korean Soft Tofu Mushroom Stew"
+    },
+    {
+      "slug": "kosambari-karnataka-moong-cucumber-salad",
+      "title": "Kosambari (Karnataka Moong Dal and Cucumber Salad)"
+    },
+    {
+      "slug": "kulith-horse-gram-pithla",
+      "title": "Kulith Pithla (Maharashtrian Horse Gram Savory Porridge)"
+    },
+    {
+      "slug": "lauki-bottle-gourd-soup",
+      "title": "Lauki Bottle Gourd Soup"
+    },
+    {
+      "slug": "lemon-brown-rice-with-peanuts",
+      "title": "Lemon Brown Rice with Peanuts"
+    },
+    {
+      "slug": "lemon-coriander-soup-with-edamame",
+      "title": "Lemon Coriander Soup with Edamame"
+    },
+    {
+      "slug": "lemon-herb-grilled-turkey-cutlets-with-artichokes",
+      "title": "Lemon Herb Grilled Turkey Cutlets with Artichokes"
+    },
+    {
+      "slug": "lentil-stuffed-cabbage-rolls",
+      "title": "Lentil Stuffed Cabbage Rolls"
+    },
+    {
+      "slug": "light-chicken-dhansak",
+      "title": "Light Chicken Dhansak"
+    },
+    {
+      "slug": "light-chicken-paprikash-greek-yogurt",
+      "title": "Light Chicken Paprikash with Greek Yogurt"
+    },
+    {
+      "slug": "light-dal-dhokli",
+      "title": "Light Dal Dhokli"
+    },
+    {
+      "slug": "light-dal-makhani",
+      "title": "Light Dal Makhani"
+    },
+    {
+      "slug": "light-goan-chicken-xacuti",
+      "title": "Light Goan Chicken Xacuti"
+    },
+    {
+      "slug": "light-kedgeree-white-fish-brown-rice",
+      "title": "Light Kedgeree with White Fish and Brown Rice"
+    },
+    {
+      "slug": "light-kung-pao-chicken",
+      "title": "Light Kung Pao Chicken"
+    },
+    {
+      "slug": "light-mapo-tofu-with-mushrooms",
+      "title": "Light Mapo Tofu with Mushrooms"
+    },
+    {
+      "slug": "light-prawn-pulao-brown-rice",
+      "title": "Light Prawn Pulao with Brown Rice"
+    },
+    {
+      "slug": "light-sarson-ka-saag",
+      "title": "Light Punjabi Sarson Ka Saag (Mustard Greens Mash)"
+    },
+    {
+      "slug": "light-tom-kha-gai-chicken-coconut-soup",
+      "title": "Light Tom Kha Gai (Chicken and Coconut Soup)"
+    },
+    {
+      "slug": "little-millet-moong-pongal",
+      "title": "Little Millet Moong Pongal"
+    },
+    {
+      "slug": "lohikeitto-finnish-salmon-potato-soup",
+      "title": "Lohikeitto (Light Finnish Salmon and Potato Soup)"
+    },
+    {
+      "slug": "mangalorean-chicken-sukka",
+      "title": "Mangalorean Chicken Sukka"
+    },
+    {
+      "slug": "mango-turmeric-curd-smoothie",
+      "title": "Mango Turmeric Curd Smoothie"
+    },
+    {
+      "slug": "masala-chaas-spiced-buttermilk",
+      "title": "Masala Chaas Spiced Buttermilk"
+    },
+    {
+      "slug": "masala-sweet-corn-chaat",
+      "title": "Masala Sweet Corn Chaat"
+    },
+    {
+      "slug": "matar-mushroom-curry",
+      "title": "Matar Mushroom Curry"
+    },
+    {
+      "slug": "mediterranean-chicken-traybake",
+      "title": "Mediterranean Chicken Traybake"
+    },
+    {
+      "slug": "mediterranean-octopus-celery-potato-salad",
+      "title": "Mediterranean Octopus, Celery, and Warm Potato Salad"
+    },
+    {
+      "slug": "methi-chickpea-sabzi",
+      "title": "Methi Chickpea Sabzi"
+    },
+    {
+      "slug": "mexican-chicken-hominy-pozole-verde",
+      "title": "Mexican Chicken and Hominy Pozole Verde"
+    },
+    {
+      "slug": "millet-bisi-bele-bath",
+      "title": "Millet Bisi Bele Bath"
+    },
+    {
+      "slug": "millet-curd-rice-pomegranate",
+      "title": "Millet Curd Rice with Pomegranate"
+    },
+    {
+      "slug": "mixed-millet-kuzhi-paniyaram",
+      "title": "Mixed Millet Kuzhi Paniyaram"
+    },
+    {
+      "slug": "mixed-vegetable-kootu",
+      "title": "Mixed Vegetable Kootu"
+    },
+    {
+      "slug": "mooli-paratha-radish-flatbread",
+      "title": "Mooli Paratha Radish Flatbread"
+    },
+    {
+      "slug": "moroccan-chicken-tagine-olives-lemon",
+      "title": "Moroccan Chicken Tagine with Olives and Lemon"
+    },
+    {
+      "slug": "mujaddara-lentils-and-rice-with-onions",
+      "title": "Mujaddara Lentils and Rice with Onions"
+    },
+    {
+      "slug": "multigrain-avocado-egg-toast",
+      "title": "Multigrain Avocado and Egg Toast"
+    },
+    {
+      "slug": "nasu-dengaku-miso-glazed-baked-eggplant",
+      "title": "Nasu Dengaku (Miso-Glazed Baked Eggplant)"
+    },
+    {
+      "slug": "nigerian-moi-moi-steamed-black-eyed-pea-pudding",
+      "title": "Moi Moi (Nigerian Steamed Black-Eyed Pea Pudding)"
+    },
+    {
+      "slug": "nordic-rye-herring-beet-smorrebrod",
+      "title": "Nordic Rye Smørrebrød with Baked Herring and Beetroot"
+    },
+    {
+      "slug": "oats-idli-carrot-curry-leaf",
+      "title": "Oats Idli with Carrot and Curry Leaves"
+    },
+    {
+      "slug": "oats-vegetable-upma",
+      "title": "Oats Vegetable Upma"
+    },
+    {
+      "slug": "odia-pakhala-bhata-fermented-rice-with-greens",
+      "title": "Pakhala Bhata with Spinach Saga (Odia Water Rice)"
+    },
+    {
+      "slug": "okra-and-onion-stir-fry",
+      "title": "Okra and Onion Stir-Fry"
+    },
+    {
+      "slug": "orange-and-fennel-salad-with-pumpkin-seeds",
+      "title": "Orange and Fennel Salad with Pumpkin Seeds"
+    },
+    {
+      "slug": "oven-chicken-shawarma-bowl-with-bulgur",
+      "title": "Oven Chicken Shawarma Bowl with Bulgur"
+    },
+    {
+      "slug": "oven-jerk-chicken",
+      "title": "Oven Jerk Chicken"
+    },
+    {
+      "slug": "pan-seared-beetroot-tikki",
+      "title": "Pan-Seared Beetroot Tikki"
+    },
+    {
+      "slug": "paneer-bhurji-whole-wheat-roll",
+      "title": "Paneer Bhurji Whole Wheat Roll"
+    },
+    {
+      "slug": "pea-and-mint-soup",
+      "title": "Pea and Mint Soup"
+    },
+    {
+      "slug": "peanut-butter-apple-chia-stacks",
+      "title": "Peanut Butter Apple Chia Stacks"
+    },
+    {
+      "slug": "peanut-butter-oat-energy-balls",
+      "title": "Peanut Butter Oat Energy Balls"
+    },
+    {
+      "slug": "peanut-lime-cabbage-slaw",
+      "title": "Peanut Lime Cabbage Slaw"
+    },
+    {
+      "slug": "pear-arugula-walnut-salad",
+      "title": "Pear Arugula Walnut Salad"
+    },
+    {
+      "slug": "pearl-barley-mushroom-risotto",
+      "title": "Pearl Barley and Mushroom Risotto"
+    },
+    {
+      "slug": "pepper-chicken-kali-mirch",
+      "title": "Pepper Chicken Kali Mirch"
+    },
+    {
+      "slug": "persian-ghormeh-sabzi-herb-kidney-bean-stew",
+      "title": "Ghormeh Sabzi (Persian Herb and Kidney Bean Stew)"
+    },
+    {
+      "slug": "peruvian-sea-bass-ceviche",
+      "title": "Peruvian Sea Bass Ceviche with Sweet Potato"
+    },
+    {
+      "slug": "pinto-bean-roasted-poblano-skillet",
+      "title": "Pinto Bean and Roasted Poblano Skillet"
+    },
+    {
+      "slug": "poached-chicken-breast-leeks-tarragon",
+      "title": "Poached Chicken Breast with Leeks and Tarragon"
+    },
+    {
+      "slug": "poached-eggs-on-garlic-kale",
+      "title": "Poached Eggs on Garlic Kale"
+    },
+    {
+      "slug": "poached-halibut-with-fennel-and-dill-broth",
+      "title": "Poached Halibut with Fennel and Dill Broth"
+    },
+    {
+      "slug": "poached-peaches-greek-yogurt-pistachios",
+      "title": "Poached Peaches with Plain Greek Yogurt and Pistachios"
+    },
+    {
+      "slug": "poached-white-fish-saffron-tomato-broth",
+      "title": "Poached White Fish in Saffron Tomato Broth"
+    },
+    {
+      "slug": "puffed-rice-bhel-cucumber-peanuts",
+      "title": "Puffed Rice Bhel with Cucumber and Peanuts"
+    },
+    {
+      "slug": "quinoa-apple-walnut-breakfast-porridge",
+      "title": "Quinoa Apple Walnut Breakfast Porridge"
+    },
+    {
+      "slug": "quinoa-mushroom-pilaf-with-peas",
+      "title": "Quinoa Mushroom Pilaf with Peas"
+    },
+    {
+      "slug": "ragi-mudde-with-spinach-saaru",
+      "title": "Ragi Mudde with Spinach Saaru"
+    },
+    {
+      "slug": "ragi-roti-with-carrot-and-coriander",
+      "title": "Ragi Roti with Carrot and Coriander"
+    },
+    {
+      "slug": "roasted-beet-and-pomegranate-farro-salad",
+      "title": "Roasted Beet and Pomegranate Farro Salad"
+    },
+    {
+      "slug": "roasted-broccoli-with-almonds-and-lemon",
+      "title": "Roasted Broccoli with Almonds and Lemon"
+    },
+    {
+      "slug": "roasted-carrots-parsnips-rosemary",
+      "title": "Roasted Carrots and Parsnips with Rosemary"
+    },
+    {
+      "slug": "roasted-cauliflower-and-red-lentil-dal",
+      "title": "Roasted Cauliflower and Red Lentil Dal"
+    },
+    {
+      "slug": "roasted-cauliflower-chickpea-hummus-bowl",
+      "title": "Roasted Cauliflower and Chickpea Hummus Bowl"
+    },
+    {
+      "slug": "roasted-celeriac-pear-thyme-soup",
+      "title": "Roasted Celeriac and Pear Soup with Thyme"
+    },
+    {
+      "slug": "roasted-kohlrabi-farro-hazelnut-salad",
+      "title": "Roasted Kohlrabi, Farro, and Hazelnut Warm Salad"
+    },
+    {
+      "slug": "roasted-red-pepper-and-tomato-soup",
+      "title": "Roasted Red Pepper and Tomato Soup"
+    },
+    {
+      "slug": "roasted-sweet-potato-chickpea-chaat",
+      "title": "Roasted Sweet Potato Chickpea Chaat"
+    },
+    {
+      "slug": "salmon-and-vegetable-parchment-parcels",
+      "title": "Salmon and Vegetable Parchment Parcels"
+    },
+    {
+      "slug": "sardinian-whole-wheat-fregola-clams",
+      "title": "Sardinian Whole-Wheat Fregola with Clams and Parsley"
+    },
+    {
+      "slug": "sattu-sharbat-roasted-cumin-lemon",
+      "title": "Sattu Sharbat with Roasted Cumin and Lemon"
+    },
+    {
+      "slug": "savory-teff-porridge-chard-egg",
+      "title": "Savory Ethiopian Teff Porridge with Swiss Chard and Soft-Boiled Egg"
+    },
+    {
+      "slug": "seared-salmon-edamame-rice-bowl",
+      "title": "Seared Salmon Edamame Rice Bowl"
+    },
+    {
+      "slug": "sesame-seared-edamame-and-bell-pepper-bowl",
+      "title": "Sesame Seared Edamame and Bell Pepper Bowl"
+    },
+    {
+      "slug": "sesame-seared-tuna-with-cucumber-and-edamame",
+      "title": "Sesame Seared Tuna with Cucumber and Edamame"
+    },
+    {
+      "slug": "shiro-wot-ethiopian-chickpea-stew",
+      "title": "Shiro Wot Ethiopian Chickpea Stew"
+    },
+    {
+      "slug": "shrimp-cucumber-mint-lime-salad",
+      "title": "Shrimp Cucumber Mint Lime Salad"
+    },
+    {
+      "slug": "smoked-paprika-chicken-avocado-salad",
+      "title": "Smoked Paprika Chicken Avocado Salad"
+    },
+    {
+      "slug": "soto-ayam-indonesian-turmeric-chicken-soup",
+      "title": "Soto Ayam (Indonesian Turmeric Chicken Soup)"
+    },
+    {
+      "slug": "spanakorizo-greek-spinach-rice",
+      "title": "Spanakorizo Greek Spinach Rice"
+    },
+    {
+      "slug": "spanish-escalivada-white-anchovies",
+      "title": "Spanish Escalivada with White Anchovies"
+    },
+    {
+      "slug": "spiced-grilled-mackerel-with-lemon",
+      "title": "Spiced Grilled Mackerel with Lemon"
+    },
+    {
+      "slug": "spiced-jackfruit-and-green-pea-pulao",
+      "title": "Spiced Jackfruit and Green Pea Pulao"
+    },
+    {
+      "slug": "spiced-lentil-lettuce-wrap-tacos",
+      "title": "Spiced Lentil Lettuce Wrap Tacos"
+    },
+    {
+      "slug": "spiced-millet-chickpea-pilaf-mint",
+      "title": "Spiced Millet and Chickpea Pilaf with Mint"
+    },
+    {
+      "slug": "spiced-pumpkin-and-sorghum-stew",
+      "title": "Spiced Pumpkin and Sorghum Stew"
+    },
+    {
+      "slug": "spiced-pumpkin-red-kidney-bean-stew",
+      "title": "Spiced Pumpkin and Red Kidney Bean Stew"
+    },
+    {
+      "slug": "spinach-banana-almond-smoothie",
+      "title": "Spinach Banana Almond Smoothie"
+    },
+    {
+      "slug": "spinach-egg-drop-soup",
+      "title": "Spinach Egg Drop Soup"
+    },
+    {
+      "slug": "spinach-mushroom-stuffed-chicken-breast",
+      "title": "Spinach Mushroom Stuffed Chicken Breast"
+    },
+    {
+      "slug": "spinach-sesame-gomae",
+      "title": "Spinach Sesame Gomae"
+    },
+    {
+      "slug": "split-mung-dal-spinach-khichdi-bowl",
+      "title": "Split Mung Dal and Spinach Khichdi-Style Bowl"
+    },
+    {
+      "slug": "sprouted-moong-usal",
+      "title": "Sprouted Moong Usal"
+    },
+    {
+      "slug": "steamed-asparagus-snow-peas-lemon-herb",
+      "title": "Steamed Asparagus and Snow Peas with Lemon Herb Oil"
+    },
+    {
+      "slug": "steamed-egg-white-and-spinach-savory-custard",
+      "title": "Steamed Egg White and Spinach Savory Custard"
+    },
+    {
+      "slug": "steamed-green-beans-sesame-crushed-almonds",
+      "title": "Steamed Green Beans with Sesame and Crushed Almonds"
+    },
+    {
+      "slug": "steamed-mussels-fennel-leek-broth",
+      "title": "Steamed Blue Mussels in Fennel and Leek Broth"
+    },
+    {
+      "slug": "steamed-tilapia-bok-choy-lime",
+      "title": "Steamed Tilapia with Bok Choy and Lime"
+    },
+    {
+      "slug": "steamed-zucchini-carrot-medley-dill",
+      "title": "Steamed Zucchini and Carrot Medley with Dill"
+    },
+    {
+      "slug": "sweet-corn-and-vegetable-soup",
+      "title": "Sweet Corn and Vegetable Soup"
+    },
+    {
+      "slug": "tempeh-vegetable-stir-fry",
+      "title": "Tempeh Vegetable Stir-Fry"
+    },
+    {
+      "slug": "thai-basil-chicken-stir-fry-with-brown-rice",
+      "title": "Thai Basil Chicken Stir-Fry with Brown Rice"
+    },
+    {
+      "slug": "thai-green-curry-chicken-vegetables",
+      "title": "Thai Green Curry with Chicken and Vegetables"
+    },
+    {
+      "slug": "tofu-tikka-masala",
+      "title": "Tofu Tikka Masala"
+    },
+    {
+      "slug": "tomato-basil-soup-with-cashew-cream",
+      "title": "Tomato Basil Soup with Cashew Cream"
+    },
+    {
+      "slug": "tomato-pepper-rasam",
+      "title": "Tomato Pepper Rasam"
+    },
+    {
+      "slug": "turkey-burger-lettuce-wraps",
+      "title": "Turkey Burger Lettuce Wraps"
+    },
+    {
+      "slug": "turkey-keema-matar",
+      "title": "Turkey Keema Matar"
+    },
+    {
+      "slug": "turkish-kisir-bulgur-herb-salad",
+      "title": "Turkish Kisir (Fine Bulgur and Pomegranate Herb Salad)"
+    },
+    {
+      "slug": "turmeric-black-pepper-roasted-makhana",
+      "title": "Turmeric and Black Pepper Roasted Makhana"
+    },
+    {
+      "slug": "turmeric-poached-eggs-swiss-chard-cannellini",
+      "title": "Turmeric Poached Eggs with Swiss Chard and Cannellini"
+    },
+    {
+      "slug": "unsalted-nut-and-seed-trail-mix",
+      "title": "Unsalted Nut and Seed Trail Mix"
+    },
+    {
+      "slug": "valachi-usal-sprouted-field-beans",
+      "title": "Konkani Valachi Usal (Sprouted Field Beans Curry)"
+    },
+    {
+      "slug": "vangi-bhaji-peanut-eggplant-curry",
+      "title": "Vangi Bhaji Peanut Eggplant Curry"
+    },
+    {
+      "slug": "vegetable-dalia-porridge",
+      "title": "Vegetable Dalia Porridge"
+    },
+    {
+      "slug": "vegetable-japchae-sweet-potato-noodles",
+      "title": "Vegetable Japchae (Korean Sweet Potato Noodle Stir-Fry)"
+    },
+    {
+      "slug": "vegetable-semiya-upma",
+      "title": "Vegetable Semiya Upma"
+    },
+    {
+      "slug": "vietnamese-chicken-cabbage-salad-goi-ga",
+      "title": "Vietnamese Chicken and Cabbage Salad (Goi Ga)"
+    },
+    {
+      "slug": "vietnamese-chicken-pho",
+      "title": "Vietnamese Chicken Pho"
+    },
+    {
+      "slug": "watermelon-cucumber-mint-salad",
+      "title": "Watermelon Cucumber Mint Salad"
+    },
+    {
+      "slug": "white-bean-stuffed-mushrooms",
+      "title": "White Bean Stuffed Mushrooms"
+    },
+    {
+      "slug": "whole-grain-panzanella",
+      "title": "Whole-Grain Panzanella"
+    },
+    {
+      "slug": "whole-wheat-berry-roasted-beet-salad-arugula",
+      "title": "Whole Wheat Berry and Roasted Beet Salad with Arugula"
+    },
+    {
+      "slug": "whole-wheat-pasta-salad-with-chickpeas-and-cucumber",
+      "title": "Whole Wheat Pasta Salad with Chickpeas and Cucumber"
+    },
+    {
+      "slug": "whole-wheat-penne-arrabbiata-with-roasted-vegetables",
+      "title": "Whole Wheat Penne Arrabbiata with Roasted Vegetables"
+    },
+    {
+      "slug": "whole-wheat-spaghetti-with-garlic-broccoli-and-chickpeas",
+      "title": "Whole Wheat Spaghetti with Garlic Broccoli and Chickpeas"
+    },
+    {
+      "slug": "whole-wheat-vegetable-chow-mein-with-tofu",
+      "title": "Whole-Wheat Vegetable Chow Mein with Tofu"
+    },
+    {
+      "slug": "whole-wheat-vegetable-momos",
+      "title": "Whole-Wheat Vegetable Momos"
+    },
+    {
+      "slug": "wild-rice-pecan-stuffed-acorn-squash",
+      "title": "Wild Rice and Pecan Stuffed Acorn Squash"
+    },
+    {
+      "slug": "yucatan-sopa-de-lima-chicken-lime-soup",
+      "title": "Sopa de Lima (Yucatan Chicken and Lime Soup)"
+    },
+    {
+      "slug": "zucchini-basil-soup",
+      "title": "Zucchini Basil Soup"
+    },
+    {
+      "slug": "zucchini-besan-pan-fritters",
+      "title": "Zucchini Besan Pan Fritters"
+    }
+  ]
+}

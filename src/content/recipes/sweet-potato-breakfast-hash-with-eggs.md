@@ -60,15 +60,37 @@ nutrition:
     Legacy/Foundation) and ICMR-NIN IFCT 2017 per-100 g values for each
     ingredient, scaled to the quantities used (raw-ingredient weights; cooking
     losses not applied).
-image: "https://live.staticflickr.com/2268/2175095132_178c01e702_b.jpg"
+image: 'https://live.staticflickr.com/2268/2175095132_178c01e702_b.jpg'
 imageAttribution:
-  title: "Baked Eggs with Roasted Sweet Potatoes, Rocket and Goats Curd Cheese"
-  creator: "avlxyz"
-  creatorUrl: "https://www.flickr.com/photos/10559879@N00"
-  sourceUrl: "https://www.flickr.com/photos/10559879@N00/2175095132"
-  license: "CC BY-SA 2.0"
-  licenseUrl: "https://creativecommons.org/licenses/by-sa/2.0/"
+  title: 'Baked Eggs with Roasted Sweet Potatoes, Rocket and Goats Curd Cheese'
+  creator: avlxyz
+  creatorUrl: 'https://www.flickr.com/photos/10559879@N00'
+  sourceUrl: 'https://www.flickr.com/photos/10559879@N00/2175095132'
+  license: CC BY-SA 2.0
+  licenseUrl: 'https://creativecommons.org/licenses/by-sa/2.0/'
 prepTimeMinutes: 30
 prepTimeEstimated: true
 ---
+:::lang hi
+# अंडों के साथ शकरकंद का नाश्ता
 
+कटे हुए शकरकंद को शिमला मिर्च के साथ कड़ाही में भूनकर, ऊपर से अंडे डालकर पकाया जाता है।
+
+## Instructions
+1. ढक्कन वाली कड़ाही में तेल गरम करें। शकरकंद डालकर बीच-बीच में चलाते हुए 10 मिनट पकाएँ, जब तक वे सुनहरे और लगभग नरम न हो जाएँ।
+2. प्याज़, शिमला मिर्च, पपरिका और नमक डालकर 5 मिनट पकाएँ।
+3. मिश्रण में चार जगह गड्ढे बनाएँ, उनमें अंडे फोड़ें, ढककर 4 मिनट पकाएँ, जब तक अंडे की सफेदी जम न जाए।
+4. ऊपर से पार्सले छिड़कें और कड़ाही से ही परोसें।
+:::
+
+:::lang mr
+# अंड्यांसह रताळ्याचा नाश्ता
+
+चिरलेले रताळे ढोबळी मिरचीसोबत कढईत परतून घेतले जाते आणि वर अंडी घालून शिजवले जाते.
+
+## Instructions
+1. झाकण असलेल्या कढईत तेल गरम करा. रताळे घालून, मधूनमधून हलवत, 10 मिनिटे शिजवा; ते सोनेरी होऊन जवळजवळ मऊ झाले पाहिजेत.
+2. कांदा, ढोबळी मिरची, स्मोक्ड पाप्रिका आणि मीठ घालून 5 मिनिटे शिजवा.
+3. मिश्रणात चार खोलगट जागा करा, त्यांत अंडी फोडा, झाकण ठेवून अंड्यांचा पांढरा भाग सेट होईपर्यंत 4 मिनिटे शिजवा.
+4. वरून पार्सली पेरा आणि कढईतूनच वाढा.
+:::

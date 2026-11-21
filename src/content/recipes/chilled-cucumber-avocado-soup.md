@@ -6,8 +6,6 @@ description: >-
   A creamy, raw blender soup made from fresh cucumbers, avocados, lime juice,
   cilantro, and garlic.
 baseServings: 3
-prepTimeMinutes: 10
-prepTimeSource: "https://tasteforlife.com/healthy-recipes/soups/chilled-avocado-and-cucumber-soup"
 ingredients:
   - name: 'cucumbers, peeled'
     baseAmount: 2
@@ -60,6 +58,31 @@ nutrition:
     vitaminCMg: 18
     potassiumMg: 420
     folateMcg: 55
-  micronutrientEstimateSource: Per-serving values from cti_receipes_2.pdf.
+  micronutrientEstimateSource: Per-serving values from USDA
+prepTimeMinutes: 10
+prepTimeSource: >-
+  https://tasteforlife.com/healthy-recipes/soups/chilled-avocado-and-cucumber-soup
 ---
+:::lang hi
+# ठंडा खीरा और एवोकाडो सूप
 
+ताज़े खीरे, एवोकाडो, नींबू के रस, हरे धनिए और लहसुन से बना क्रीमी, बिना पकाया हुआ ब्लेंडर सूप।
+
+## Instructions
+1. खीरे, एवोकाडो, पानी, नींबू का रस, हरा धनिया, लहसुन, नमक और काली मिर्च को ब्लेंडर में डालें।
+2. सब कुछ पूरी तरह चिकना होने तक तेज़ गति पर ब्लेंड करें।
+3. स्वाद के अनुसार नमक या नींबू का रस मिलाएँ।
+4. ठंडा परोसने से पहले एक घंटे के लिए फ्रिज में रखें।
+:::
+
+:::lang mr
+# थंडगार काकडी आणि ॲव्होकॅडो सूप
+
+ताजी काकडी, ॲव्होकॅडो, लिंबाचा रस, कोथिंबीर आणि लसूण घालून ब्लेंडरमध्ये केलेले क्रीमी, न शिजवलेले सूप.
+
+## Instructions
+1. काकडी, ॲव्होकॅडो, पाणी, लिंबाचा रस, कोथिंबीर, लसूण, मीठ आणि मिरी ब्लेंडरमध्ये घाला.
+2. मिश्रण पूर्णपणे गुळगुळीत होईपर्यंत जास्त वेगाने ब्लेंड करा.
+3. चवीनुसार मीठ किंवा लिंबाचा रस वाढवा.
+4. थंडगार वाढण्यापूर्वी एक तास रेफ्रिजरेटरमध्ये ठेवा.
+:::

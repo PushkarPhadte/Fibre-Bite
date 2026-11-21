@@ -61,15 +61,37 @@ nutrition:
     Legacy/Foundation) and ICMR-NIN IFCT 2017 per-100 g values for each
     ingredient, scaled to the quantities used (raw-ingredient weights; cooking
     losses not applied).
-image: "https://live.staticflickr.com/2349/2338734606_22ca9bd9d9_b.jpg"
+image: 'https://live.staticflickr.com/2349/2338734606_22ca9bd9d9_b.jpg'
 imageAttribution:
-  title: "Potato and spinach tofu scramble"
-  creator: "wonderyort"
-  creatorUrl: "https://www.flickr.com/photos/11112304@N00"
-  sourceUrl: "https://www.flickr.com/photos/11112304@N00/2338734606"
-  license: "CC BY-SA 2.0"
-  licenseUrl: "https://creativecommons.org/licenses/by-sa/2.0/"
+  title: Potato and spinach tofu scramble
+  creator: wonderyort
+  creatorUrl: 'https://www.flickr.com/photos/11112304@N00'
+  sourceUrl: 'https://www.flickr.com/photos/11112304@N00/2338734606'
+  license: CC BY-SA 2.0
+  licenseUrl: 'https://creativecommons.org/licenses/by-sa/2.0/'
 prepTimeMinutes: 15
 prepTimeEstimated: true
 ---
+:::lang hi
+# पालक के साथ हल्दी टोफू हाथापाई
 
+हल्दी, टमाटर और मुरझाए हुए पालक के साथ क्रम्बल किए हुए टोफू का एक शाकाहारी मिश्रण।
+
+## Instructions
+1. तेल गर्म करें, जीरा तड़काएं और प्याज को पारदर्शी होने तक पकाएं।
+2. - टमाटर और हल्दी डालकर 2 मिनट तक पकाएं.
+3. टोफू और नमक डालें और चम्मच से तोड़ते हुए 4 मिनट तक पकाएं।
+4. पालक को नरम होने तक मोड़ें और काली मिर्च के साथ समाप्त करें।
+:::
+
+:::lang mr
+# पालक सोबत हळद टोफू स्क्रॅम्बल
+
+हळद, टोमॅटो आणि वाळलेल्या पालकासह चुरा टोफूचा शाकाहारी स्क्रॅम्बल.
+
+## Instructions
+1. तेल गरम करा, जिरे फोडा आणि कांदा अर्धपारदर्शक होईपर्यंत शिजवा.
+2. टोमॅटो आणि हळद घालून २ मिनिटे शिजवा.
+3. टोफू आणि मीठ घाला आणि चमच्याने फोडून 4 मिनिटे शिजवा.
+4. पालक फक्त कोमेजून येईपर्यंत दुमडून घ्या आणि मिरपूड टाका.
+:::

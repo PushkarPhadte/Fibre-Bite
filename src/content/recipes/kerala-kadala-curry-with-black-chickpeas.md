@@ -79,15 +79,37 @@ nutrition:
     Legacy/Foundation) and ICMR-NIN IFCT 2017 per-100 g values for each
     ingredient, scaled to the quantities used (raw-ingredient weights; cooking
     losses not applied).
-image: "https://live.staticflickr.com/5443/9442565958_5bd4ce58d3_b.jpg"
+image: 'https://live.staticflickr.com/5443/9442565958_5bd4ce58d3_b.jpg'
 imageAttribution:
-  title: "Appams and Kadala Curry"
-  creator: "Devika_smile"
-  creatorUrl: "https://www.flickr.com/photos/75531279@N05"
-  sourceUrl: "https://www.flickr.com/photos/75531279@N05/9442565958"
-  license: "CC BY-SA 2.0"
-  licenseUrl: "https://creativecommons.org/licenses/by-sa/2.0/"
+  title: Appams and Kadala Curry
+  creator: Devika_smile
+  creatorUrl: 'https://www.flickr.com/photos/75531279@N05'
+  sourceUrl: 'https://www.flickr.com/photos/75531279@N05/9442565958'
+  license: CC BY-SA 2.0
+  licenseUrl: 'https://creativecommons.org/licenses/by-sa/2.0/'
 prepTimeMinutes: 60
 prepTimeEstimated: true
 ---
+:::lang hi
+# केरल कडला करी (काले चनों की करी)
 
+भुने नारियल की ग्रेवी में सौंफ और करी पत्तों के साथ धीमी आँच पर पकाए गए काले चने।
+
+## Instructions
+1. चनों को नमक और पानी के साथ प्रेशर कुकर में लगभग 6 सीटी आने तक, बहुत नरम होने तक पकाएँ।
+2. नारियल को सौंफ, मिर्च, धनिया और हल्दी के साथ खुशबू आने तक सूखा भूनें, फिर थोड़े पानी के साथ पीसकर पेस्ट बना लें।
+3. तेल गरम करें, राई और करी पत्तों को चटकाएँ, प्याज़ और टमाटर पकाएँ, फिर नारियल का पेस्ट डालें।
+4. चनों को उनके पकाने के पानी सहित डालें और 10 मिनट तक धीमी आँच पर पकाएँ।
+:::
+
+:::lang mr
+# केरळ कडला करी (काळ्या हरभऱ्याची आमटी)
+
+भाजलेल्या नारळाच्या रसात बडीशेप आणि कढीपत्त्यासह मंद आचेवर शिजवलेली काळ्या हरभऱ्याची करी.
+
+## Instructions
+1. हरभरे मीठ आणि पाण्यासह प्रेशर कुकरमध्ये सुमारे 6 शिट्ट्या होईपर्यंत, अगदी मऊ शिजवा.
+2. नारळ बडीशेप, तिखट, धणे आणि हळदीसोबत सुगंध येईपर्यंत कोरडा भाजा; नंतर थोडे पाणी घालून वाटून पेस्ट करा.
+3. तेल गरम करा, मोहरी आणि कढीपत्ता तडतडू द्या, कांदा व टोमॅटो शिजवा आणि मग नारळाची पेस्ट घाला.
+4. हरभरे त्यांच्या शिजवलेल्या पाण्यासह घाला आणि 10 मिनिटे मंद आचेवर उकळू द्या.
+:::

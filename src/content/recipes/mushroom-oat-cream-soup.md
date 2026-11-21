@@ -62,16 +62,36 @@ nutrition:
     Legacy/Foundation) and ICMR-NIN IFCT 2017 per-100 g values for each
     ingredient, scaled to the quantities used (raw-ingredient weights; cooking
     losses not applied).
+image: 'https://upload.wikimedia.org/wikipedia/commons/1/15/Cream_of_mushroom_soup.jpg'
+imageAttribution:
+  title: Cream of mushroom soup
+  creator: MichalPL
+  creatorUrl: 'https://commons.wikimedia.org/wiki/User:MichalPL'
+  sourceUrl: 'https://commons.wikimedia.org/wiki/File:Cream_of_mushroom_soup.jpg'
+  license: CC BY-SA 4.0
+  licenseUrl: 'https://creativecommons.org/licenses/by-sa/4.0/'
 prepTimeMinutes: 35
 prepTimeEstimated: true
-image: "https://upload.wikimedia.org/wikipedia/commons/1/15/Cream_of_mushroom_soup.jpg"
-imageAttribution:
-  title: "Cream of mushroom soup"
-  creator: "MichalPL"
-  creatorUrl: "https://commons.wikimedia.org/wiki/User:MichalPL"
-  sourceUrl: "https://commons.wikimedia.org/wiki/File:Cream_of_mushroom_soup.jpg"
-  license: "CC BY-SA 4.0"
-  licenseUrl: "https://creativecommons.org/licenses/by-sa/4.0/"
 ---
----
+:::lang hi
+# मशरूम और ओट्स का क्रीमी सूप
 
+क्रीम की जगह ओट्स से गाढ़ा किया गया मशरूम का हल्का, कम डेयरी वाला क्रीमी सूप।
+
+## Instructions
+1. तेल में प्याज़ और लहसुन पकाएँ। फिर मशरूम डालकर 8 मिनट तक सुनहरा भूरा होने तक पकाएँ।
+2. ओट्स, थाइम, नमक और पानी डालें और 15 मिनट तक धीमी आँच पर पकाएँ।
+3. दूध डालें और सूप को चिकना होने तक ब्लेंड करें। काली मिर्च डालकर स्वादानुसार मसाला करें और धीमी आँच पर फिर से गरम करें।
+:::
+
+:::lang mr
+# मशरूम आणि ओट्सचा क्रीमी सूप
+
+क्रीमऐवजी ओट्स घालून घट्ट केलेला, कमी दुग्धजन्य पदार्थांचा मशरूमचा क्रीमी सूप।
+
+## Instructions
+1. तेलात कांदा आणि लसूण शिजवा. मशरूम घालून 8 मिनिटे सोनेरी तपकिरी होईपर्यंत परता.
+2. ओट्स, थाइम, मीठ आणि पाणी घालून 15 मिनिटे मंद आचेवर शिजवा.
+3. दूध घालून सूप गुळगुळीत होईपर्यंत ब्लेंड करा. काळी मिरी घालून चवीनुसार मसाला करा आणि मंद आचेवर पुन्हा हलके गरम करा.
+:::
+![alt text](image.png)

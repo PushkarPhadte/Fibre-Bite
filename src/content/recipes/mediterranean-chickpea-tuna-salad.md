@@ -1,20 +1,10 @@
 ---
 title: Mediterranean Chickpea Tuna Salad (Egg-Free)
 slug: mediterranean-chickpea-tuna-salad
-image: "https://upload.wikimedia.org/wikipedia/commons/7/76/Tuna_salad_on_mixed_greens%2C_with_corn%2C_carrots%2C_tomatoes%2C_olive_oil%2C_red_vinegar%2C_and_black_pepper_-_Massachusetts.jpg"
-imageAttribution:
-  title: "Tuna salad on mixed greens"
-  creator: "Daderot"
-  creatorUrl: "https://commons.wikimedia.org/wiki/User:Daderot"
-  sourceUrl: "https://commons.wikimedia.org/wiki/File:Tuna_salad_on_mixed_greens,_with_corn,_carrots,_tomatoes,_olive_oil,_red_vinegar,_and_black_pepper_-_Massachusetts.jpg"
-  license: "CC0"
-  licenseUrl: "https://creativecommons.org/publicdomain/zero/1.0/"
 description: >-
   A high-protein salad blending flaked light tuna, chickpeas, diced celery, red
   onion, and lemon-herb olive oil.
 baseServings: 3
-prepTimeMinutes: 10
-prepTimeSource: "https://www.allrecipes.com/recipe/215901/tuna-and-chickpea-salad/"
 ingredients:
   - name: 'canned light tuna in water, drained'
     baseAmount: 150
@@ -69,5 +59,39 @@ nutrition:
     ironMg: 2.2
     potassiumMg: 380
   micronutrientEstimateSource: Per-serving values from cti_receipes_2.pdf.
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/7/76/Tuna_salad_on_mixed_greens%2C_with_corn%2C_carrots%2C_tomatoes%2C_olive_oil%2C_red_vinegar%2C_and_black_pepper_-_Massachusetts.jpg
+imageAttribution:
+  title: Tuna salad on mixed greens
+  creator: Daderot
+  creatorUrl: 'https://commons.wikimedia.org/wiki/User:Daderot'
+  sourceUrl: >-
+    https://commons.wikimedia.org/wiki/File:Tuna_salad_on_mixed_greens,_with_corn,_carrots,_tomatoes,_olive_oil,_red_vinegar,_and_black_pepper_-_Massachusetts.jpg
+  license: CC0
+  licenseUrl: 'https://creativecommons.org/publicdomain/zero/1.0/'
+prepTimeMinutes: 10
+prepTimeSource: 'https://www.allrecipes.com/recipe/215901/tuna-and-chickpea-salad/'
 ---
+:::lang hi
+# भूमध्यसागरीय चना-टूना सलाद (बिना अंडे का)
 
+टूना के टुकड़ों, चने, कटे हुए सेलरी और लाल प्याज़ को नींबू-जड़ी-बूटी वाले जैतून के तेल के साथ मिलाकर बना प्रोटीन-भरपूर सलाद।
+
+## Instructions
+1. छाने हुए टूना को कांटे से छोटे रेशों में तोड़कर एक कटोरे में रखें।
+2. इसमें चने, कटी हुई सेलरी, लाल प्याज़ और कटा हुआ पार्सले डालें।
+3. जैतून का तेल, नींबू का रस, नमक और काली मिर्च फेंटकर सलाद पर डालें।
+4. धीरे से मिलाएँ और हरी पत्तियों के ऊपर या रैप में भरकर परोसें।
+:::
+
+:::lang mr
+# भूमध्यसागरीय हरभरा-टूना सलाड (अंडेविरहित)
+
+कुस्करलेला हलका टूना, हरभरा, चिरलेली सेलरी आणि लाल कांदा यांना लिंबू व हर्ब्सच्या ऑलिव्ह ऑईलसोबत एकत्र करून बनवलेले प्रथिनयुक्त सलाड.
+
+## Instructions
+1. निथळलेला टूना काट्याने छोटे तुकडे करून एका भांड्यात घ्या.
+2. त्यात हरभरा, चिरलेली सेलरी, लाल कांदा आणि चिरलेली पार्सली घाला.
+3. ऑलिव्ह ऑईल, लिंबाचा रस, मीठ आणि मिरी एकत्र फेटून सलाडवर ओता.
+4. हळुवारपणे एकत्र करा आणि हिरव्या पालेभाज्यांवर किंवा रॅपमध्ये भरून सर्व्ह करा.
+:::

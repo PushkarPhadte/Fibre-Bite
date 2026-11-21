@@ -69,15 +69,37 @@ nutrition:
     Legacy/Foundation) and ICMR-NIN IFCT 2017 per-100 g values for each
     ingredient, scaled to the quantities used (raw-ingredient weights; cooking
     losses not applied).
+image: 'https://upload.wikimedia.org/wikipedia/commons/5/58/Kodo_millet_khichdi.jpg'
+imageAttribution:
+  title: Kodo millet khichdi
+  creator: Medhi jyoti
+  creatorUrl: 'https://commons.wikimedia.org/wiki/User:Medhi_jyoti'
+  sourceUrl: 'https://commons.wikimedia.org/w/index.php?curid=136391826'
+  license: CC BY-SA 4.0
+  licenseUrl: 'https://creativecommons.org/licenses/by-sa/4.0/'
 prepTimeMinutes: 45
 prepTimeEstimated: true
-image: "https://upload.wikimedia.org/wikipedia/commons/5/58/Kodo_millet_khichdi.jpg"
-imageAttribution:
-  title: "Kodo millet khichdi"
-  creator: "Medhi jyoti"
-  creatorUrl: "https://commons.wikimedia.org/wiki/User:Medhi_jyoti"
-  sourceUrl: "https://commons.wikimedia.org/w/index.php?curid=136391826"
-  license: "CC BY-SA 4.0"
-  licenseUrl: "https://creativecommons.org/licenses/by-sa/4.0/"
 ---
+:::lang hi
+# बाजरा सब्ज़ी खिचड़ी
 
+साबुत बाजरा और पीली मूंग दाल को सब्ज़ियों के साथ एक ही बर्तन में पकाकर बनाई गई खिचड़ी।
+
+## Instructions
+1. भीगे हुए बाजरे का पानी निकालें और मूंग दाल धो लें।
+2. तेल गरम करें और जीरा चटकाएँ; फिर प्याज़ और अदरक को 3 मिनट तक पकाएँ।
+3. गाजर, मटर, हल्दी, नमक, बाजरा, दाल और पानी डालें।
+4. 5 सीटी तक प्रेशर कुक करें (या ढककर 40 मिनट धीमी आँच पर पकाएँ), जब तक सब नरम होकर दलिया जैसा न हो जाए; बहुत गाढ़ा हो तो पानी डालें।
+:::
+
+:::lang mr
+# बाजरीची भाजी खिचडी
+
+संपूर्ण बाजरी आणि पिवळी मूगडाळ भाज्यांसह एकाच भांड्यात शिजवून केलेली खिचडी.
+
+## Instructions
+1. भिजवलेल्या बाजरीतील पाणी काढून टाका आणि मूगडाळ धुऊन घ्या.
+2. तेल गरम करून जिरे तडतडू द्या; नंतर कांदा आणि आले 3 मिनिटे शिजवा.
+3. गाजर, वाटाणे, हळद, मीठ, बाजरी, डाळ आणि पाणी घाला.
+4. 5 शिट्ट्या होईपर्यंत प्रेशर कुकरमध्ये शिजवा (किंवा झाकण ठेवून मंद आचेवर 40 मिनिटे शिजवा), मिश्रण मऊ होऊन पेजेसारखे होईपर्यंत; खूप घट्ट झाल्यास पाणी घाला.
+:::

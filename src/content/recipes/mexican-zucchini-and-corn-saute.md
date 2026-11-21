@@ -6,8 +6,6 @@ description: >-
   A traditional Mexican vegetable side dish of sautéed zucchini, corn, tomatoes,
   garlic, and fresh herbs.
 baseServings: 3
-prepTimeMinutes: 5
-prepTimeSource: "https://muybuenoblog.com/calabacitas-con-elote-zucchini-with-corn/"
 ingredients:
   - name: 'zucchini, diced'
     baseAmount: 2
@@ -60,4 +58,26 @@ nutrition:
     folateMcg: 42
   micronutrientEstimateSource: Per-serving values from cti_receipes_2.pdf.
 ---
+:::lang hi
+# मैक्सिकन ज़ुकीनी और मकई की भुजिया (कालाबासितास)
 
+तोरी, मकई, टमाटर, लहसुन और ताज़ी जड़ी-बूटियों से बनी पारंपरिक मैक्सिकन सब्ज़ी।
+
+## Instructions
+1. एक कड़ाही में जैतून का तेल गरम करें और प्याज़ तथा लहसुन को 3 मिनट भूनें।
+2. कटे हुए ज़ुकीनी और मीठी मकई डालें; 5 मिनट तक चलाते हुए भूनें।
+3. कटा हुआ टमाटर, नमक और काली मिर्च डालें; नरम होने तक 3 मिनट पकाएँ।
+4. हल्के साइड डिश के रूप में गरमागरम परोसें।
+:::
+
+:::lang mr
+# मेक्सिकन झुकिनी आणि मक्याची परतलेली भाजी (कालाबासितास)
+
+झुकिनी, मका, टोमॅटो, लसूण आणि ताज्या वनस्पतींपासून बनवलेली पारंपरिक मेक्सिकन भाजी.
+
+## Instructions
+1. कढईत ऑलिव्ह तेल गरम करून कांदा आणि लसूण 3 मिनिटे परता.
+2. चिरलेली झुकिनी आणि गोड मका घालून 5 मिनिटे परतत राहा.
+3. चिरलेला टोमॅटो, मीठ आणि मिरी घाला; भाजी मऊ होईपर्यंत 3 मिनिटे शिजवा.
+4. हलकी साइड डिश म्हणून गरम वाढा.
+:::

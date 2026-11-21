@@ -61,15 +61,35 @@ nutrition:
     Legacy/Foundation) and ICMR-NIN IFCT 2017 per-100 g values for each
     ingredient, scaled to the quantities used (raw-ingredient weights; cooking
     losses not applied).
+image: 'https://upload.wikimedia.org/wikipedia/commons/d/d3/Onion_egg_side_dish.jpg'
+imageAttribution:
+  title: Onion egg side dish
+  creator: Nilu1220
+  creatorUrl: 'https://commons.wikimedia.org/wiki/User:Nilu1220'
+  sourceUrl: 'https://commons.wikimedia.org/wiki/File:Onion_egg_side_dish.jpg'
+  license: CC BY-SA 4.0
+  licenseUrl: 'https://creativecommons.org/licenses/by-sa/4.0/'
 prepTimeMinutes: 20
 prepTimeEstimated: true
-image: "https://upload.wikimedia.org/wikipedia/commons/d/d3/Onion_egg_side_dish.jpg"
-imageAttribution:
-  title: "Onion egg side dish"
-  creator: "Nilu1220"
-  creatorUrl: "https://commons.wikimedia.org/wiki/User:Nilu1220"
-  sourceUrl: "https://commons.wikimedia.org/wiki/File:Onion_egg_side_dish.jpg"
-  license: "CC BY-SA 4.0"
-  licenseUrl: "https://creativecommons.org/licenses/by-sa/4.0/"
 ---
+:::lang hi
+# अंडा पत्ता गोभी (अंडे और पत्तागोभी की भुर्जी)
 
+हल्दी और राई के दानों के साथ पत्तागोभी और फेंटे हुए अंडों की झटपट भारतीय शैली की भुजिया।
+
+## Instructions
+1. तेल गरम करें, राई चटकाएँ और प्याज़ तथा मिर्च को 3 मिनट पकाएँ।
+2. पत्तागोभी, हल्दी और नमक डालकर 6 मिनट चलाते हुए भूनें।
+3. पत्तागोभी को पैन के एक ओर करें, उसी पैन में अंडे फेंटकर पकाएँ और फिर सब कुछ मिला दें।
+:::
+
+:::lang mr
+# अंडा पत्ता गोभी (अंडी आणि कोबीची परतून भाजी)
+
+हळद आणि मोहरीच्या दाण्यांसह कोबी व फेटलेल्या अंड्यांची भारतीय पद्धतीची झटपट परतलेली भाजी.
+
+## Instructions
+1. तेल गरम करा, मोहरी तडतडू द्या आणि कांदा व मिरची 3 मिनिटे शिजवा.
+2. कोबी, हळद आणि मीठ घालून 6 मिनिटे परतत राहा.
+3. कोबी पॅनच्या एका बाजूला सरकवा, त्याच पॅनमध्ये अंडी भुर्जी करा आणि सर्व साहित्य एकत्र मिसळा.
+:::

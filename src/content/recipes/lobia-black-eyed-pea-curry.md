@@ -72,15 +72,39 @@ nutrition:
     Legacy/Foundation) and ICMR-NIN IFCT 2017 per-100 g values for each
     ingredient, scaled to the quantities used (raw-ingredient weights; cooking
     losses not applied).
-image: "https://pd.w.org/2026/05/7276a127dd79718a0.00772478-1536x2048.jpeg"
+image: 'https://pd.w.org/2026/05/7276a127dd79718a0.00772478-1536x2048.jpeg'
 imageAttribution:
-  title: "Traditional Nepali sel roti served on a metal plate with a bowl of black-eyed pea curry and a spoon on a wooden table"
-  creator: "Binod Gurung"
-  creatorUrl: "https://profiles.wordpress.org/gbinod549/"
-  sourceUrl: "https://wordpress.org/photos/photo/7276a127dd/"
-  license: "CC0 1.0"
-  licenseUrl: "https://creativecommons.org/publicdomain/zero/1.0/"
+  title: >-
+    Traditional Nepali sel roti served on a metal plate with a bowl of
+    black-eyed pea curry and a spoon on a wooden table
+  creator: Binod Gurung
+  creatorUrl: 'https://profiles.wordpress.org/gbinod549/'
+  sourceUrl: 'https://wordpress.org/photos/photo/7276a127dd/'
+  license: CC0 1.0
+  licenseUrl: 'https://creativecommons.org/publicdomain/zero/1.0/'
 prepTimeMinutes: 30
 prepTimeEstimated: true
 ---
+:::lang hi
+# लोबिया करी
 
+जीरे और धनिये वाले टमाटर-प्याज़ के मसाले में पकाई गई लोबिया।
+
+## Instructions
+1. तेल गरम करें, जीरा तड़काएँ और प्याज़, लहसुन तथा अदरक को सुनहरा होने तक पकाएँ।
+2. टमाटर और मसाले डालकर नरम व गूदेदार होने तक पकाएँ।
+3. लोबिया, नमक और पानी डालकर 12 मिनट धीमी आँच पर पकाएँ; गाढ़ापन लाने के लिए कुछ दानों को मसल दें।
+4. धनिये से सजाएँ।
+:::
+
+:::lang mr
+# चवळीची उसळ
+
+जिरे आणि कोथिंबिरीच्या मसाल्यातील टोमॅटो-कांद्याच्या रसात शिजवलेली चवळी.
+
+## Instructions
+1. तेल गरम करून जिरे तडतडू द्या; कांदा, लसूण आणि आले सोनेरी होईपर्यंत शिजवा.
+2. टोमॅटो आणि मसाले घालून मऊ व लगद्यासारखे होईपर्यंत शिजवा.
+3. चवळी, मीठ आणि पाणी घालून 12 मिनिटे मंद आचेवर शिजवा; घट्टपणा आणण्यासाठी काही दाणे कुस्करा.
+4. कोथिंबिरीने सजवा.
+:::

@@ -74,15 +74,37 @@ nutrition:
     Legacy/Foundation) and ICMR-NIN IFCT 2017 per-100 g values for each
     ingredient, scaled to the quantities used (raw-ingredient weights; cooking
     losses not applied).
-image: "https://upload.wikimedia.org/wikipedia/commons/1/14/Goan_prawn_curry.jpg"
+image: 'https://upload.wikimedia.org/wikipedia/commons/1/14/Goan_prawn_curry.jpg'
 imageAttribution:
-  title: "Goan prawn curry"
-  creator: "Schellack"
-  creatorUrl: "https://en.wikipedia.org/wiki/User:Schellack"
-  sourceUrl: "https://commons.wikimedia.org/wiki/File:Goan_prawn_curry.jpg"
-  license: "CC BY 3.0"
-  licenseUrl: "https://creativecommons.org/licenses/by/3.0/"
+  title: Goan prawn curry
+  creator: Schellack
+  creatorUrl: 'https://en.wikipedia.org/wiki/User:Schellack'
+  sourceUrl: 'https://commons.wikimedia.org/wiki/File:Goan_prawn_curry.jpg'
+  license: CC BY 3.0
+  licenseUrl: 'https://creativecommons.org/licenses/by/3.0/'
 prepTimeMinutes: 30
 prepTimeEstimated: true
 ---
+:::lang hi
+# टमाटर और नारियल वाली गोअन झींगा करी
 
+टमाटर, थोड़े नारियल के दूध और इमली से बनी हल्की गोअन झींगा करी।
+
+## Instructions
+1. तेल गरम करें और प्याज़, लहसुन तथा अदरक को नरम होने तक पकाएँ।
+2. मसाले और टमाटर डालकर 6 मिनट पकाएँ।
+3. नारियल का दूध, इमली, नमक और 100 मिलीलीटर पानी डालकर 5 मिनट धीमी आँच पर पकाएँ।
+4. झींगे डालें और गुलाबी होने तक 4 मिनट पकाएँ; धनिया डालकर सजाएँ।
+:::
+
+:::lang mr
+# टोमॅटो आणि नारळाची गोवन कोळंबी करी
+
+टोमॅटो, थोडे नारळाचे दूध आणि चिंच घालून बनवलेली हलकी गोवन कोळंबी करी.
+
+## Instructions
+1. तेल गरम करून कांदा, लसूण आणि आले मऊ होईपर्यंत शिजवा.
+2. मसाले आणि टोमॅटो घालून 6 मिनिटे शिजवा.
+3. नारळाचे दूध, चिंच, मीठ आणि 100 मिली पाणी घालून 5 मिनिटे मंद आचेवर शिजवा.
+4. कोळंबी घालून गुलाबी होईपर्यंत 4 मिनिटे शिजवा; कोथिंबीर घालून सजवा.
+:::

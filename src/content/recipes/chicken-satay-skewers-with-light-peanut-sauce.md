@@ -70,15 +70,37 @@ nutrition:
     Legacy/Foundation) and ICMR-NIN IFCT 2017 per-100 g values for each
     ingredient, scaled to the quantities used (raw-ingredient weights; cooking
     losses not applied).
+image: 'https://live.staticflickr.com/3338/3579349613_d1e949e021_b.jpg'
+imageAttribution:
+  title: Chicken Satay - Mamak
+  creator: avlxyz
+  creatorUrl: 'https://www.flickr.com/photos/10559879@N00'
+  sourceUrl: 'https://www.flickr.com/photos/10559879@N00/3579349613'
+  license: CC BY-SA 2.0
+  licenseUrl: 'https://creativecommons.org/licenses/by-sa/2.0/'
 prepTimeMinutes: 35
 prepTimeEstimated: true
-image: "https://live.staticflickr.com/3338/3579349613_d1e949e021_b.jpg"
-imageAttribution:
-  title: "Chicken Satay - Mamak"
-  creator: "avlxyz"
-  creatorUrl: "https://www.flickr.com/photos/10559879@N00"
-  sourceUrl: "https://www.flickr.com/photos/10559879@N00/3579349613"
-  license: "CC BY-SA 2.0"
-  licenseUrl: "https://creativecommons.org/licenses/by-sa/2.0/"
 ---
+:::lang hi
+# हल्की मूँगफली की चटनी के साथ चिकन साते सीखें
 
+हल्दी और धनिया लगे चिकन के ग्रिल किए हुए सीख, पतली मूँगफली-नींबू की डिपिंग सॉस और खीरे के साथ।
+
+## Instructions
+1. चिकन पर हल्दी, धनिया, लहसुन और तेल अच्छी तरह लगाएँ और उसे सीखों में पिरोएँ।
+2. हर तरफ 4 से 5 मिनट ग्रिल करें, जब तक चिकन पूरी तरह पक न जाए।
+3. मूँगफली का मक्खन, नींबू का रस, तमारी और गुनगुना पानी फेंटकर पतली चटनी बनाएँ।
+4. सीखों को चटनी और खीरे के साथ परोसें।
+:::
+
+:::lang mr
+# हलकी शेंगदाणा सॉससह चिकन सातेच्या सळ्या
+
+हळद आणि धणे लावून भाजलेल्या चिकनच्या सळ्या, पातळ शेंगदाणा-लिंबाची डिपिंग सॉस आणि काकडीसोबत.
+
+## Instructions
+1. चिकनला हळद, धणे, लसूण आणि तेल लावून सळ्यांवर ओवून घ्या.
+2. चिकन पूर्ण शिजेपर्यंत प्रत्येक बाजूला 4 ते 5 मिनिटे ग्रिल करा.
+3. शेंगदाणा बटर, लिंबाचा रस, तमारी आणि कोमट पाणी फेटून पातळ सॉस तयार करा.
+4. सळ्या सॉस आणि काकडीसोबत वाढा.
+:::

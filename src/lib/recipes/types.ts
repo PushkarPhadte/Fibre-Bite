@@ -46,6 +46,7 @@ export const nutritionSchema = z.object({
 
 export const ingredientSchema = z.object({
 	name: z.string().trim().min(1),
+	canonicalId: z.string().trim().min(1).optional(),
 	baseAmount: z.number().nonnegative(),
 	unit: z.string().trim().min(1),
 	optional: z.boolean().optional()
@@ -77,10 +78,25 @@ export const instructionStepsSchema = z.array(instructionStepSchema).min(1).supe
 	});
 });
 
+export const localizedRecipeTextSchema = z.object({
+	title: z.string().trim().min(1).optional(),
+	description: z.string().optional(),
+	instructions: instructionStepsSchema.optional(),
+	benefits: z.array(z.string().trim().min(1)).optional(),
+	content: z.string().optional()
+});
+
+export const recipeTranslationsSchema = z.object({
+	en: localizedRecipeTextSchema.optional(),
+	hi: localizedRecipeTextSchema.optional(),
+	mr: localizedRecipeTextSchema.optional()
+}).optional();
+
 export const localRecipeFrontmatterSchema = z.object({
 	title: z.string().trim().min(1),
 	slug: z.string().regex(/^[a-z0-9]+(?:-[a-z0-9]+)*$/),
 	description: z.string().optional(),
+	translations: recipeTranslationsSchema,
 	baseServings: z.coerce.number().positive(),
 	ingredients: z.array(ingredientSchema).min(1),
 	instructions: instructionStepsSchema,
@@ -130,6 +146,8 @@ export type Micronutrients = z.infer<typeof micronutrientsSchema>;
 export type MicronutrientKey = keyof Micronutrients;
 export type Ingredient = z.infer<typeof ingredientSchema>;
 export type InstructionStep = z.infer<typeof instructionStepSchema>;
+export type LocalizedRecipeText = z.infer<typeof localizedRecipeTextSchema>;
+export type RecipeTranslations = NonNullable<z.infer<typeof recipeTranslationsSchema>>;
 export type Recipe = z.infer<typeof localRecipeFrontmatterSchema> & { id: string };
 export const dietaryOptions: DietaryTag[] = [
 	'vegetarian',

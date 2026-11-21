@@ -63,15 +63,36 @@ nutrition:
     Legacy/Foundation) and ICMR-NIN IFCT 2017 per-100 g values for each
     ingredient, scaled to the quantities used (raw-ingredient weights; cooking
     losses not applied).
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/c/c6/Shorshe_Illish-_Agartala-_Tripura.jpg
+imageAttribution:
+  title: Shorshe Illish - Agartala - Tripura
+  creator: Tuhi2001
+  creatorUrl: 'https://commons.wikimedia.org/wiki/User:Tuhi2001'
+  sourceUrl: 'https://commons.wikimedia.org/w/index.php?curid=103646463'
+  license: CC BY-SA 4.0
+  licenseUrl: 'https://creativecommons.org/licenses/by-sa/4.0/'
 prepTimeMinutes: 30
 prepTimeEstimated: true
-image: "https://upload.wikimedia.org/wikipedia/commons/c/c6/Shorshe_Illish-_Agartala-_Tripura.jpg"
-imageAttribution:
-  title: "Shorshe Illish - Agartala - Tripura"
-  creator: "Tuhi2001"
-  creatorUrl: "https://commons.wikimedia.org/wiki/User:Tuhi2001"
-  sourceUrl: "https://commons.wikimedia.org/w/index.php?curid=103646463"
-  license: "CC BY-SA 4.0"
-  licenseUrl: "https://creativecommons.org/licenses/by-sa/4.0/"
 ---
+:::lang hi
+# हल्की बंगाली सरसों वाली मछली करी
 
+बंगाली शैली में पिसी सरसों और हरी मिर्च की तीखी चटपटी चटनी में पकाई गई तिलापिया मछली।
+
+## Instructions
+1. सरसों के दानों को हरी मिर्च और 60 मिलीलीटर पानी के साथ पीसकर मुलायम पेस्ट बना लें।
+2. तेल को धीमी आंच पर गरम करें। पेस्ट, हल्दी, नमक और बचा हुआ पानी डालें और उबाल आने तक गरम करें।
+3. मछली डालें और 8 मिनट पकाएं; ऊपर से सॉस डालते रहें। धनिया से सजाएं।
+:::
+
+:::lang mr
+# हलकी बंगाली मोहरीची फिश करी
+
+बंगाली पद्धतीने वाटलेली मोहरी आणि हिरव्या मिरचीच्या झणझणीत रस्स्यात शिजवलेले तिलापिया मासे.
+
+## Instructions
+1. मोहरीचे दाणे, हिरव्या मिरच्या आणि 60 मिली पाणी एकत्र वाटून गुळगुळीत पेस्ट करा.
+2. तेल मंद आचेवर गरम करा. पेस्ट, हळद, मीठ आणि उरलेले पाणी घालून उकळी येऊ द्या.
+3. मासे घालून 8 मिनिटे शिजवा आणि वरून चमच्याने रस्सा घालत राहा; कोथिंबिरीने सजवा.
+:::

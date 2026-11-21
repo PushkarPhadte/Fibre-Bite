@@ -1,20 +1,10 @@
 ---
 title: Spanish Gazpacho (Cold Tomato Soup)
 slug: spanish-gazpacho
-image: "https://upload.wikimedia.org/wikipedia/commons/c/c3/Gazpacho_in_a_white_bowl.jpg"
-imageAttribution:
-  title: "Gazpacho in a white bowl"
-  creator: "E4024"
-  creatorUrl: "https://commons.wikimedia.org/wiki/User:E4024"
-  sourceUrl: "https://commons.wikimedia.org/wiki/File:Gazpacho_in_a_white_bowl.jpg"
-  license: "CC BY-SA 3.0"
-  licenseUrl: "https://creativecommons.org/licenses/by-sa/3.0/"
 description: >-
   A chilled Andalusian raw vegetable soup blended from ripe tomatoes, cucumbers,
   bell peppers, garlic, and extra virgin olive oil.
 baseServings: 4
-prepTimeMinutes: 15
-prepTimeSource: "https://cookthestory.com/15-minute-gazpacho/"
 ingredients:
   - name: 'ripe tomatoes, chopped'
     baseAmount: 1
@@ -73,5 +63,38 @@ nutrition:
     vitaminCMg: 45
     potassiumMg: 380
   micronutrientEstimateSource: Per-serving values from cti_receipes_2.pdf.
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/c/c3/Gazpacho_in_a_white_bowl.jpg
+imageAttribution:
+  title: Gazpacho in a white bowl
+  creator: E4024
+  creatorUrl: 'https://commons.wikimedia.org/wiki/User:E4024'
+  sourceUrl: 'https://commons.wikimedia.org/wiki/File:Gazpacho_in_a_white_bowl.jpg'
+  license: CC BY-SA 3.0
+  licenseUrl: 'https://creativecommons.org/licenses/by-sa/3.0/'
+prepTimeMinutes: 15
+prepTimeSource: 'https://cookthestory.com/15-minute-gazpacho/'
 ---
+:::lang hi
+# स्पेनी गज़्पाचो (ठंडा टमाटर सूप)
 
+पके टमाटर, खीरे, शिमला मिर्च, लहसुन और एक्स्ट्रा-वर्जिन जैतून के तेल से बना ठंडा अंडालूसी कच्ची सब्ज़ियों का सूप।
+
+## Instructions
+1. कटे टमाटर, खीरा, हरी शिमला मिर्च, लहसुन, जैतून का तेल और सिरका हाई-स्पीड ब्लेंडर में डालें।
+2. पूरी तरह मुलायम होने तक तेज़ गति पर ब्लेंड करें।
+3. नमक और काली मिर्च डालें; मनचाहा गाढ़ापन पाने के लिए ज़रूरत हो तो थोड़ा ठंडा पानी मिलाएँ।
+4. ठंडे कटोरों में परोसने से पहले कम से कम 2 घंटे फ्रिज में ठंडा करें।
+:::
+
+:::lang mr
+# स्पॅनिश गॅझ्पाचो (थंड टोमॅटो सूप)
+
+पिकलेले टोमॅटो, काकडी, ढोबळी मिरची, लसूण आणि एक्स्ट्रा व्हर्जिन ऑलिव्ह तेलापासून बनवलेले थंड अँडलुशियन कच्च्या भाज्यांचे सूप.
+
+## Instructions
+1. चिरलेले टोमॅटो, काकडी, हिरवी ढोबळी मिरची, लसूण, ऑलिव्ह तेल आणि व्हिनेगर हाय-स्पीड ब्लेंडरमध्ये एकत्र घाला.
+2. मिश्रण पूर्णपणे गुळगुळीत होईपर्यंत वेगाने ब्लेंड करा.
+3. मीठ आणि मिरी घाला; हवे तसे घट्टपण मिळवण्यासाठी गरज असल्यास थोडे थंड पाणी घाला.
+4. थंड भांड्यांत वाढण्यापूर्वी किमान 2 तास फ्रिजमध्ये थंड करा.
+:::

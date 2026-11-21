@@ -54,15 +54,35 @@ nutrition:
     Legacy/Foundation) and ICMR-NIN IFCT 2017 per-100 g values for each
     ingredient, scaled to the quantities used (raw-ingredient weights; cooking
     losses not applied).
-image: "https://live.staticflickr.com/2056/13148136343_b9c3ba241c.jpg"
+image: 'https://live.staticflickr.com/2056/13148136343_b9c3ba241c.jpg'
 imageAttribution:
-  title: "Paleo Sweet potato/ banana pancakes"
-  creator: "dollen"
-  creatorUrl: "https://www.flickr.com/photos/39804614253@N01"
-  sourceUrl: "https://www.flickr.com/photos/39804614253@N01/13148136343"
-  license: "CC BY 2.0"
-  licenseUrl: "https://creativecommons.org/licenses/by/2.0/"
+  title: Paleo Sweet potato/ banana pancakes
+  creator: dollen
+  creatorUrl: 'https://www.flickr.com/photos/39804614253@N01'
+  sourceUrl: 'https://www.flickr.com/photos/39804614253@N01/13148136343'
+  license: CC BY 2.0
+  licenseUrl: 'https://creativecommons.org/licenses/by/2.0/'
 prepTimeMinutes: 20
 prepTimeEstimated: true
 ---
+:::lang hi
+# केला, ओट्स और अंडे के पैनकेक
 
+बिना आटे के पैनकेक, जो पीसे हुए ओट्स, पके केले और अंडे से बनाए जाते हैं और ताज़ी बेरीज़ के साथ परोसे जाते हैं।
+
+## Instructions
+1. केले, ओट्स, अंडे और दालचीनी को ब्लेंड करके गाढ़ा घोल बनाएँ और 5 मिनट रख दें।
+2. नॉन-स्टिक पैन पर तेल लगाकर हल्का चिकना करें। मध्यम से धीमी आँच पर घोल की छोटी कलछियाँ डालकर हर तरफ 2 मिनट पकाएँ।
+3. पैनकेक के ऊपर ब्लूबेरी डालकर परोसें।
+:::
+
+:::lang mr
+# केळी, ओट्स आणि अंड्याचे पॅनकेक
+
+पीसलेले ओट्स, पिकलेले केळे आणि अंडी यांपासून केलेले पिठाविना पॅनकेक ताज्या बेरींसोबत वाढले जातात.
+
+## Instructions
+1. केळे, ओट्स, अंडी आणि दालचिनी ब्लेंडरमध्ये फिरवून घट्ट मिश्रण करा आणि 5 मिनिटे तसेच ठेवा.
+2. नॉन-स्टिक पॅनला तेल लावून हलके ग्रीस करा. मध्यम-मंद आचेवर पळीने थोडे थोडे मिश्रण घालून प्रत्येक बाजू 2 मिनिटे शिजवा.
+3. पॅनकेकवर ब्लूबेरी घालून वाढा.
+:::
