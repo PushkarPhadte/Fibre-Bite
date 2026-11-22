@@ -48,6 +48,7 @@ dietaryTags:
   - keto
 allergens:
   - fish
+image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDHTqcKlJOTLF12Nd-rQCDl8IYtIWh6hntQesXqAlskckh3wh8dTu6qhgW&s=10'
 nutrition:
   calories: 283
   protein: 23.3

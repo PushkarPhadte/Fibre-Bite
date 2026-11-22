@@ -63,6 +63,7 @@ dietaryTags:
   - gluten-free
   - high-fiber
 allergens: []
+image: 'https://www.allrecipes.com/thmb/-J-b1JzxyNTe7V4x5tbazhEl3aw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/257499-ghormeh-sabzi-persian-herb-stew-DDMFS-beauty-4x3-BG-2923-0a3327d626ca4b848bd1d1ebd7ca331d.jpg'
 nutrition:
   calories: 200
   protein: 10.4

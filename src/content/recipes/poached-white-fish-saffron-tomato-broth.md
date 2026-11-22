@@ -46,6 +46,7 @@ dietaryTags:
   - keto
 allergens:
   - fish
+image: 'https://images.ctfassets.net/lufu0clouua1/41hFyXyWBqM4WuUIgGgQ2U/079715e6ffb3a19f7ca320d0792b1cd0/cod-in-safforn.jpg'
 nutrition:
   calories: 240
   protein: 33

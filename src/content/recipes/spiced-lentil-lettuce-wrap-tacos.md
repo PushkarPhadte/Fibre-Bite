@@ -59,6 +59,7 @@ dietaryTags:
   - gluten-free
   - high-fiber
 allergens: []
+image: 'https://fok-media-library.s3.amazonaws.com/wp-content/uploads/2021/12/01184258/7-a-day-lentil-burgers-solo-shot.jpg'
 nutrition:
   calories: 263
   protein: 12.4

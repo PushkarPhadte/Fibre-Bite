@@ -71,6 +71,7 @@ dietaryTags:
   - gluten-free
 allergens:
   - milk
+image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Pakhala_01.jpg/960px-Pakhala_01.jpg'
 nutrition:
   calories: 228
   protein: 6.8

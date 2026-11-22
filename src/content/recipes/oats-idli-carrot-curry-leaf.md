@@ -67,6 +67,7 @@ dietaryTags:
   - vegetarian
 allergens:
   - milk
+image: 'https://i0.wp.com/smithakalluraya.com/wp-content/uploads/2019/04/INSTANT-OATS-IDLI.jpg?resize=720%2C953&ssl=1'
 nutrition:
   calories: 161
   protein: 5.7

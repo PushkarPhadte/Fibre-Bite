@@ -69,6 +69,7 @@ dietaryTags:
   - high-fiber
 allergens:
   - wheat
+image: 'https://bistrobadia.de/wp-content/uploads/2024/02/kisir-bulgursalat-bulgur-salad-7-1024x576.jpg'
 nutrition:
   calories: 250
   protein: 8

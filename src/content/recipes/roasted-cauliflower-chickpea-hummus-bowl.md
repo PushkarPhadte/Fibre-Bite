@@ -46,6 +46,7 @@ dietaryTags:
   - high-fiber
 allergens:
   - sesame
+image: 'https://images.themodernproper.com/production/posts/2017/Roasted-Cauliflower-and-Hummus-Bowl-7.jpg?w=1200&h=1200&q=60&fm=jpg&fit=crop&dm=1752879598&s=3e0e4787eda5d2990259c646abef1314'
 nutrition:
   calories: 345
   protein: 13

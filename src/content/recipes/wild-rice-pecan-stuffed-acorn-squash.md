@@ -67,6 +67,7 @@ dietaryTags:
   - high-fiber
 allergens:
   - tree-nuts
+image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR85tnKOsqpg8LgYp1hfmNGdtZt5UYySuLmML6wG-LDag&s=10'
 nutrition:
   calories: 409
   protein: 10

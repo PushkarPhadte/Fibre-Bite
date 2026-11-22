@@ -30,6 +30,7 @@ dietaryTags:
   - gluten-free
 allergens:
   - peanuts
+image: 'https://www.momskitchenhandbook.com/wp-content/uploads/2014/05/FullSizeRender-6.jpg'
 nutrition:
   calories: 191
   protein: 5

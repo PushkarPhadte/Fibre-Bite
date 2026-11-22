@@ -82,6 +82,7 @@ dietaryTags:
   - gluten-free
   - high-fiber
 allergens: []
+image: 'https://i.ytimg.com/vi/wCde-wNiWos/sddefault.jpg'
 nutrition:
   calories: 244
   protein: 8.7

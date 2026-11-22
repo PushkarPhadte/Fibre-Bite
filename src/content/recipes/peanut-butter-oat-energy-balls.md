@@ -38,6 +38,7 @@ dietaryTags:
   - low-carb
 allergens:
   - peanuts
+image: 'https://www.eatingwell.com/thmb/F-mIWJPx8eatgnqx0CMkjorTFCg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(1999x0:2001x2)/258084-peanut-butter-energy-balls-beauty-742f9126aa1e43f785920d9d5a47a1c3.jpg'
 nutrition:
   calories: 105
   protein: 3.6

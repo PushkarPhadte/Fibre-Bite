@@ -62,6 +62,7 @@ dietaryTags:
   - gluten-free
 allergens:
   - peanuts
+image: 'https://india1948.com/cdn/shop/articles/Cucumber_Bhel_Poori_3.jpg?v=1780871049'
 nutrition:
   calories: 177
   protein: 5.1

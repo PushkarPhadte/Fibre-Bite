@@ -57,6 +57,7 @@ dietaryTags:
   - high-protein
 allergens:
   - shellfish
+image: 'https://recipes.saladmaster.com/sites/default/files/SM%20Vogt%20steamed%20mussels%20%28edited%29.jpg'
 nutrition:
   calories: 267
   protein: 21

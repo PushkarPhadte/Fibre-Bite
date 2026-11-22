@@ -181,7 +181,7 @@ pnpm recipes:metadata
 By default, the command writes `metadata/recipe-metadata.json`. Pass an output path to write the main inventory elsewhere:
 
 ```sh
-pnpm recipes:metadata -- ./path/to/recipe-metadata.json
+pnpm recipes:metadata -- ./metadata/metadata.json
 ```
 
 The command validates every recipe and records its slug, title, and image URL, along with counts for optional attributes, dietary tags, and allergens. It reports the number of recipes without images, the number of repeated image URL groups, and the number of extra entries using those repeated URLs. Each recipe with missing optional data includes a `missingAttributes` list; conditional fields such as image attribution and prep-time source are only considered missing when applicable. The main inventory includes the missing-image, duplicate-image, and missing-attribute detail lists. It contains no ingredient or instruction text, so it can be used as a lightweight inventory when preparing recipe imports.

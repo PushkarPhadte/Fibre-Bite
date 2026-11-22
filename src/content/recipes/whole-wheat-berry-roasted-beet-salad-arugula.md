@@ -41,6 +41,7 @@ dietaryTags:
   - high-fiber
 allergens:
   - wheat
+image: 'https://www.lottieanddoof.com/wp-content/uploads/2010/04/IMG_5067.jpg'
 nutrition:
   calories: 270
   protein: 8

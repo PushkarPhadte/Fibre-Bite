@@ -47,6 +47,7 @@ dietaryTags:
 allergens:
   - peanuts
   - soy
+image: 'https://cdn.apartmenttherapy.info/image/upload/f_jpg,q_auto:eco,c_fill,g_auto,w_1500,ar_1:1/k%2Farchive%2F12b7ffe13c1b67e66d8f992c05e4dfa7d1d073ca'
 nutrition:
   calories: 111
   protein: 4.7

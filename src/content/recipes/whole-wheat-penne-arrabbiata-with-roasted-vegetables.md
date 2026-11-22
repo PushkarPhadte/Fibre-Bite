@@ -51,6 +51,7 @@ dietaryTags:
   - high-fiber
 allergens:
   - wheat
+image: 'https://media.hellofresh.com/q_100,w_3840,f_auto,c_limit,fl_lossy/recipes/image/wholewheat-penne-arrabiata-d032b1e7-a51b5cdc.jpg'
 nutrition:
   calories: 263
   protein: 10.2

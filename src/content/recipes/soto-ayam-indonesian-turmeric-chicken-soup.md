@@ -75,6 +75,7 @@ dietaryTags:
   - low-carb
 allergens:
   - eggs
+image: 'https://upload.wikimedia.org/wikipedia/commons/6/69/Soto_Ayam_Savoy_Homann_Hotel.JPG?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original'
 nutrition:
   calories: 181
   protein: 19.5

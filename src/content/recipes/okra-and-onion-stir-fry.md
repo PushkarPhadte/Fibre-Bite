@@ -51,6 +51,7 @@ dietaryTags:
   - gluten-free
   - low-carb
 allergens: []
+image: 'https://www.5dollardinners.com/wp-content/uploads/2013/06/sauteed-okra-1.jpg'
 nutrition:
   calories: 112
   protein: 3.5

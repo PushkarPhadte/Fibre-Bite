@@ -46,6 +46,7 @@ dietaryTags:
 allergens:
   - eggs
   - soy
+image: 'https://www.foodandwine.com/thmb/1ncMk2LePvrbOT-YjELJf2-WI28=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/201002-xl-spinach-eggdrop-soup-2000-7d35468e970744e494cb9d3f4eefc944.jpg'
 nutrition:
   calories: 92
   protein: 8.3

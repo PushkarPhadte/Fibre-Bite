@@ -42,6 +42,7 @@ dietaryTags:
   - gluten-free
   - low-carb
 allergens: []
+image: 'https://manvsdrinks.com/wp-content/uploads/2026/05/sattu-sharbat-v2-webp-1024x576.webp'
 nutrition:
   calories: 97
   protein: 5.4

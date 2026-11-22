@@ -46,6 +46,7 @@ dietaryTags:
   - high-fiber
 allergens:
   - milk
+image: 'https://i0.wp.com/curryandvanilla.com/wp-content/uploads/2018/03/chana-pulao-instant-pot-b.jpg?resize=561%2C561&ssl=1'
 nutrition:
   calories: 322
   protein: 8

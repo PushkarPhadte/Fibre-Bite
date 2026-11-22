@@ -48,6 +48,7 @@ dietaryTags:
   - high-fiber
 allergens:
   - wheat
+image: 'https://www.occasionallyeggs.com/wp-content/uploads/2026/08/Chickpea-pasta-salad.jpg'
 nutrition:
   calories: 295
   protein: 12.4

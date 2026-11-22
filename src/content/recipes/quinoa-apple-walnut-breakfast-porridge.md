@@ -37,6 +37,7 @@ dietaryTags:
 allergens:
   - milk
   - tree-nuts
+image: 'https://successrice.com/wp-content/uploads/2019/03/Apple-Cinnamon-Quinoa-Breakfast-Bowls-026-1536x864-1-1536x864.jpg'
 nutrition:
   calories: 320
   protein: 12.7

@@ -43,6 +43,7 @@ instructions:
 dietaryTags:
   - vegan
 allergens: []
+image: 'https://www.vegrecipesofindia.com/wp-content/uploads/2012/07/beetroot-ki-tikki-recipe-1-500x500.jpg'
 nutrition:
   calories: 182
   protein: 7

@@ -56,6 +56,7 @@ dietaryTags:
 allergens:
   - shellfish
   - wheat
+image: 'https://www.the-pasta-project.com/wp-content/uploads/Sardinian-fregola-with-clams-01.jpg'
 nutrition:
   calories: 368
   protein: 23

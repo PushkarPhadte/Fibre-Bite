@@ -44,6 +44,7 @@ dietaryTags:
   - high-protein
 allergens:
   - soy
+image: 'https://thai-foodie.com/wp-content/uploads/2024/09/thai-holy-basil-fried-rice.jpg'
 nutrition:
   calories: 354
   protein: 34.7

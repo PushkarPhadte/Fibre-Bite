@@ -63,6 +63,7 @@ dietaryTags:
 allergens:
   - milk
   - soy
+image: 'https://holycowvegan.net/wp-content/uploads/2024/02/tofu-tikka-masala-22.jpeg'
 nutrition:
   calories: 253
   protein: 23.3

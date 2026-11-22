@@ -51,6 +51,7 @@ dietaryTags:
   - high-fiber
   - high-protein
 allergens: []
+image: 'https://www.resplendentkitchen.com/wp-content/uploads/2021/11/Pumpkin-Veggie-Stew-1-2.jpg'
 nutrition:
   calories: 220
   protein: 11

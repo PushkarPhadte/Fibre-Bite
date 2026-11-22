@@ -35,6 +35,7 @@ dietaryTags:
 allergens:
   - sesame
   - soy
+image: 'https://www.justonecookbook.com/wp-content/uploads/2016/06/Japanese-Spinach-Salad-with-Sesame-Dressing-Horenso-Gomaae-5761.jpg'
 nutrition:
   calories: 55
   protein: 4

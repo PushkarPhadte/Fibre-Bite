@@ -42,6 +42,7 @@ dietaryTags:
 allergens:
   - tree-nuts
   - sesame
+image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOf5kuyKZElGE-5sOQMbXlA_twb0WHoK5HuIxQSSpHhTVs4bXhHVCFBK4&s=10'
 nutrition:
   calories: 160
   protein: 5

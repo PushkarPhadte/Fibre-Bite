@@ -42,6 +42,7 @@ dietaryTags:
   - high-protein
   - low-carb
 allergens: []
+image: 'https://ichef.bbci.co.uk/food/ic/food_16x9_448/recipes/chicken_leek_tarragon_72824_16x9.jpg'
 nutrition:
   calories: 295
   protein: 39

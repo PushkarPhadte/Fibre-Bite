@@ -44,6 +44,7 @@ dietaryTags:
   - keto
 allergens:
   - fish
+image: 'https://res.cloudinary.com/dwj72flon/image/upload/v1787047696/yeschef_recipes/i5vhhzcsucenfqkxpdml.jpg'
 nutrition:
   calories: 248
   protein: 34

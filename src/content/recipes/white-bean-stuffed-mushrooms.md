@@ -52,6 +52,7 @@ dietaryTags:
   - gluten-free
 allergens:
   - milk
+image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMEFSzf3A_55eZzycuDL81NrrKn3sZFcTA5ea4vEHO-df0oA4EOIrQFiI&s=10'
 nutrition:
   calories: 197
   protein: 13.6

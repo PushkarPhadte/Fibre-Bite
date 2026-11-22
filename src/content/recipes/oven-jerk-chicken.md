@@ -56,6 +56,7 @@ dietaryTags:
   - high-protein
   - low-carb
 allergens: []
+image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4ERTrTtDkKRiLYfaVeqbHBXDt-y2vxWBSOkomFhj5S9VxXte_mKBjviw&s=10'
 nutrition:
   calories: 228
   protein: 30.2

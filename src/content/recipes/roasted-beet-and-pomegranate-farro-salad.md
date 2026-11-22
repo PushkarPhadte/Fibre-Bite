@@ -42,6 +42,7 @@ dietaryTags:
   - high-fiber
 allergens:
   - wheat
+image: 'https://www.alecooks.com/wp-content/uploads/2025/01/pommegrantate-beet-salad-5-480x270.webp'
 nutrition:
   calories: 312
   protein: 9

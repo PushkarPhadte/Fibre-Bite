@@ -40,6 +40,7 @@ dietaryTags:
   - low-carb
   - keto
 allergens: []
+image: 'https://www.whatdadcooked.com/wp-content/uploads/2019/05/Asparagus-peas-0236-9.jpg'
 nutrition:
   calories: 115
   protein: 5

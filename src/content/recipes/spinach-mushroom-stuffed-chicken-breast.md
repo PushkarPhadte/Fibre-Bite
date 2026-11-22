@@ -51,6 +51,7 @@ dietaryTags:
   - high-protein
   - low-carb
 allergens: []
+image: 'https://food.fnr.sndimg.com/content/dam/images/food/fullset/2011/4/19/1/FN_chicken-breasts-006_s4x3.jpg.rend.hgtvcom.1280.1280.suffix/1371597945764.webp'
 nutrition:
   calories: 234
   protein: 36.3

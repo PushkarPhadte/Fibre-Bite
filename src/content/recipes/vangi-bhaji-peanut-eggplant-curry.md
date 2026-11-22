@@ -57,6 +57,7 @@ dietaryTags:
   - low-carb
 allergens:
   - peanuts
+image: 'https://www.vegrecipesofindia.com/wp-content/uploads/2022/12/bharli-vangi-stuffed-brinjal.jpg'
 nutrition:
   calories: 186
   protein: 5

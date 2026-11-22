@@ -56,6 +56,7 @@ dietaryTags:
   - gluten-free
   - high-fiber
 allergens: []
+image: 'https://i0.wp.com/thewildepicurean.com/wp-content/uploads/2023/01/cekeruacpear_1.jpg?resize=819%2C1024&quality=100&ssl=1'
 nutrition:
   calories: 197
   protein: 4

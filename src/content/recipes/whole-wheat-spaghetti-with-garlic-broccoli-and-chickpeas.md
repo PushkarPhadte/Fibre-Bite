@@ -53,6 +53,7 @@ dietaryTags:
 allergens:
   - milk
   - wheat
+image: 'https://img.sndimg.com/food/image/upload/f_auto,c_thumb,q_55,w_744,ar_5:4/v1/img/recipes/11/14/99/picYpjei2.jpg'
 nutrition:
   calories: 362
   protein: 17.2

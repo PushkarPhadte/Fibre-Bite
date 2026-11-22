@@ -60,6 +60,7 @@ dietaryTags:
   - high-fiber
 allergens:
   - wheat
+image: 'https://www.indianveggiedelight.com/wp-content/uploads/2023/02/vermicelli-upma-recipe-1-720x960.jpg'
 nutrition:
   calories: 274
   protein: 10

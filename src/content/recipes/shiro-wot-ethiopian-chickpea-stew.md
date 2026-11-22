@@ -55,6 +55,7 @@ dietaryTags:
   - vegan
   - gluten-free
 allergens: []
+image: 'https://holycowvegan.net/wp-content/uploads/2023/02/ethiopian-shiro-recipe-1.jpg'
 nutrition:
   calories: 209
   protein: 8.9

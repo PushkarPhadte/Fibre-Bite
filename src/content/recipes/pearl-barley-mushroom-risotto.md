@@ -60,6 +60,7 @@ dietaryTags:
   - vegan
   - high-fiber
 allergens: []
+image: 'https://assets.epicurious.com/photos/57c5c60b84c001120f616529/1:1/w_2560%2Cc_limit/mushroom-barley-risotto.jpg'
 nutrition:
   calories: 280
   protein: 9.2

@@ -44,6 +44,7 @@ dietaryTags:
   - keto
 allergens:
   - fish
+image: 'https://agingerinthekitchen.com/wp-content/uploads/2013/05/fish.jpg'
 nutrition:
   calories: 235
   protein: 36

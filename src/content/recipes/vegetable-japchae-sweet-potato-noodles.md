@@ -72,6 +72,7 @@ dietaryTags:
 allergens:
   - sesame
   - soy
+image: 'https://cdn.apartmenttherapy.info/image/upload/f_auto,q_auto:eco,c_fill,g_center,w_730,h_913/k%2FPhoto%2FRecipes%2F2023-01-Japchae%2F11-JAPCHAE-018'
 nutrition:
   calories: 258
   protein: 4.1

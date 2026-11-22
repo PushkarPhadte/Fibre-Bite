@@ -46,6 +46,7 @@ dietaryTags:
 allergens:
   - soy
   - sesame
+image: 'https://nourishedbynic.com/wp-content/uploads/2023/08/Cucumber-Pepper-Salad-14.jpg'
 nutrition:
   calories: 264
   protein: 16

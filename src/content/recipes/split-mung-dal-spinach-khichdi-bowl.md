@@ -48,6 +48,7 @@ dietaryTags:
   - high-fiber
   - high-protein
 allergens: []
+image: 'https://sinfullyspicy.com/wp-content/uploads/2022/11/2-2.jpg'
 nutrition:
   calories: 275
   protein: 13

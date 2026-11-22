@@ -39,6 +39,7 @@ dietaryTags:
 allergens:
   - milk
   - tree-nuts
+image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUm2_bvBWuJkFtE5awF34JsI8FyvtDrrTYp1Pc2M90nbJG6t4OGHnfY2A&s=10'
 nutrition:
   calories: 175
   protein: 11

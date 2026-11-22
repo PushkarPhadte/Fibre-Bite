@@ -45,6 +45,7 @@ dietaryTags:
   - gluten-free
   - high-fiber
 allergens: []
+image: 'https://images.immediate.co.uk/production/volatile/sites/30/2021/07/Spicy-pumpkin-soup-fcf2fe5.jpg'
 nutrition:
   calories: 286
   protein: 8

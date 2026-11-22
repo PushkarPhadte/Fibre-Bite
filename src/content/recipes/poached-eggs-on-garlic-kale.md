@@ -51,6 +51,7 @@ dietaryTags:
   - keto
 allergens:
   - eggs
+image: 'https://images.squarespace-cdn.com/content/v1/5e178655fbd23d68dbbb9a0a/1620906369895-MJ9L4BXTI0RPW40VW5PU/poached+egg+and+kale'
 nutrition:
   calories: 236
   protein: 16.5

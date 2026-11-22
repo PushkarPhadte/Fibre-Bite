@@ -46,6 +46,7 @@ dietaryTags:
   - vegan
   - gluten-free
 allergens: []
+image: 'https://images.squarespace-cdn.com/content/v1/529388e0e4b08385d90db207/1617549769773-XHJMEQ0HIMBH38FHGJYT/Quinoa+Risotto.jpg'
 nutrition:
   calories: 285
   protein: 11.9

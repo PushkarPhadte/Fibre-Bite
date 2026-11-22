@@ -69,6 +69,7 @@ dietaryTags:
 allergens:
   - soy
   - wheat
+image: 'https://c.ndtvimg.com/2020-01/2brioi88_momos_625x300_21_January_20.jpg'
 nutrition:
   calories: 243
   protein: 8.4

@@ -53,6 +53,7 @@ allergens:
   - fish
   - sesame
   - soy
+image: 'https://www.savoryonline.com/app/uploads/recipes/197616/salmon-and-edamame-rice-bowls-640x640-c-center.jpg'
 nutrition:
   calories: 435
   protein: 34.5

@@ -62,6 +62,7 @@ dietaryTags:
   - high-fiber
 allergens:
   - peanuts
+image: 'https://www.indianveggiedelight.com/wp-content/uploads/2024/01/vegetable-oats-upma.jpg'
 nutrition:
   calories: 307
   protein: 10.2

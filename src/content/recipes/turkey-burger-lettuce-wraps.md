@@ -53,6 +53,7 @@ dietaryTags:
   - high-protein
   - low-carb
 allergens: []
+image: 'https://bubbafoods.com/wp-content/uploads/2021/05/thai-lettuce-turkey-bubba-burger-wraps-recipe.jpg'
 nutrition:
   calories: 199
   protein: 25.4

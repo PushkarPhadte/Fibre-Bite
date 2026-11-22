@@ -42,6 +42,7 @@ dietaryTags:
   - low-carb
 allergens:
   - tree-nuts
+image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS61m2kGAqIrr4uee8OsdmPtM1BMLVQT92QX-Sf_Ig-A04u3BHwzQtc3ckO&s=10'
 nutrition:
   calories: 160
   protein: 7

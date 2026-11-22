@@ -46,6 +46,7 @@ dietaryTags:
   - keto
 allergens:
   - eggs
+image: 'https://japanesehomerecipes.com/wp-content/uploads/2023/07/Chawanmushi-wj.jpg'
 nutrition:
   calories: 106
   protein: 15

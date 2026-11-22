@@ -53,6 +53,7 @@ dietaryTags:
   - low-carb
 allergens:
   - milk
+image: 'https://www.healthyfood.com/wp-content/uploads/2016/11/Chicken-Avo-Smoky-Paprika-Salad-scaled.jpg'
 nutrition:
   calories: 272
   protein: 31.5

@@ -55,6 +55,7 @@ dietaryTags:
   - high-fiber
 allergens:
   - eggs
+image: 'https://media.thedoctorskitchen.com/tr:n-medium/savoury-porridge-with-egg-and-greens_LEid7u2g7'
 nutrition:
   calories: 344
   protein: 16

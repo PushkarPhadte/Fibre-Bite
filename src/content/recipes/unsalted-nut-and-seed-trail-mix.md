@@ -33,6 +33,7 @@ dietaryTags:
 allergens:
   - peanuts
   - tree-nuts
+image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMtn6YsL7lZ7o_Bv6FdozdGKrKJ0D12cYElZ0UsGaqhw&s=10'
 nutrition:
   calories: 129
   protein: 4.9

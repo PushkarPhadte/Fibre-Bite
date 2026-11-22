@@ -57,6 +57,7 @@ dietaryTags:
 allergens:
   - tree-nuts
   - wheat
+image: 'https://livitygardens.com/wp-content/uploads/2016/11/farro-kale-and-kohlrabi-salad-with-dijon-garlic-vinaigrette.jpg'
 nutrition:
   calories: 319
   protein: 11

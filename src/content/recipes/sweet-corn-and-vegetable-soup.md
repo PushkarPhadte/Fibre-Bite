@@ -54,6 +54,7 @@ dietaryTags:
   - gluten-free
   - low-carb
 allergens: []
+image: 'https://media.sailusfood.com/wp-content/uploads/2012/02/sweet-corn-soup.jpg'
 nutrition:
   calories: 70
   protein: 2.3

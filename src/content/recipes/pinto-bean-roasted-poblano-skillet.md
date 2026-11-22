@@ -48,6 +48,7 @@ dietaryTags:
   - high-fiber
   - high-protein
 allergens: []
+image: 'https://brooklynsupper.com/wp-content/uploads/2021/03/brothy-pinto-beans-6.jpg'
 nutrition:
   calories: 225
   protein: 12

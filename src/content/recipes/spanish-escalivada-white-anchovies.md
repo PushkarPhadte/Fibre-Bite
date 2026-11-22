@@ -54,6 +54,7 @@ dietaryTags:
   - high-fiber
 allergens:
   - fish
+image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHxv3cMil_YcxdZRjd4ESfMjq-p6HuKs7FLTGKjPYKLPinG7OFEvO8NWT6&s=10'
 nutrition:
   calories: 219
   protein: 14

@@ -60,6 +60,7 @@ dietaryTags:
   - low-carb
 allergens:
   - milk
+image: 'https://fatimacooks.net/wp-content/uploads/2022/04/Chicken-Kali-Mirch.jpg'
 nutrition:
   calories: 219
   protein: 26.3

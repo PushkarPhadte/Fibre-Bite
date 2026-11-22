@@ -46,6 +46,7 @@ dietaryTags:
   - vegan
   - gluten-free
 allergens: []
+image: 'https://thegreekfoodie.com/wp-content/uploads/2023/02/Spanakorizo_GreekRice_SQ.jpg'
 nutrition:
   calories: 203
   protein: 6.4

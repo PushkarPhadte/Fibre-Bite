@@ -69,6 +69,7 @@ dietaryTags:
   - gluten-free
   - low-carb
 allergens: []
+image: 'https://www.seriouseats.com/thmb/9lylUmOSkIlUH1_hNa6zTmenGl4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__recipes__images__2016__05__20160505-sopa-de-lima-22-a78c408efb60416d8b6e36b45e3977fa.jpg'
 nutrition:
   calories: 176
   protein: 18.6

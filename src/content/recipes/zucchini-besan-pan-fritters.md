@@ -46,6 +46,7 @@ dietaryTags:
 allergens:
   - eggs
   - milk
+image: 'https://www.sharmispassions.com/wp-content/uploads/2026/08/zucchini-fritters5.jpg'
 nutrition:
   calories: 191
   protein: 13.2

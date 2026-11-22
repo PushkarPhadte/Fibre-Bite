@@ -47,6 +47,7 @@ dietaryTags:
 allergens:
   - peanuts
   - shellfish
+image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSstYpDzThRnXhJQJYhWftsJWBH71VItDVxmyO5pXv4t5zxjjUY70K_N64&s=10'
 nutrition:
   calories: 167
   protein: 26.3

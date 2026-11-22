@@ -45,6 +45,7 @@ dietaryTags:
   - gluten-free
   - high-fiber
 allergens: []
+image: 'https://dutd.phloat.app/wp-content/uploads/2021/10/010819_SpicedMilletPilaf-893x1024.jpg'
 nutrition:
   calories: 310
   protein: 10

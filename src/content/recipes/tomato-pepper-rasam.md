@@ -63,6 +63,7 @@ dietaryTags:
   - gluten-free
   - low-carb
 allergens: []
+image: 'https://cdn3.foodviva.com/static-content/food-images/south-indian-recipes/pepper-rasam/pepper-rasam.jpg'
 nutrition:
   calories: 84
   protein: 3.4

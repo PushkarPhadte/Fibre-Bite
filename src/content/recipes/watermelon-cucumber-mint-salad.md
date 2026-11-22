@@ -36,6 +36,7 @@ dietaryTags:
   - gluten-free
   - low-carb
 allergens: []
+image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmwPk1j0JhTNrTpObpKhmad5LGNJVEwXVnOIxXaCPxzvHRwXamSMaFaYM&s=10'
 nutrition:
   calories: 92
   protein: 3.5

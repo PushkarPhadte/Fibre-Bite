@@ -59,6 +59,7 @@ dietaryTags:
 allergens:
   - milk
   - wheat
+image: 'https://newindiansupermarket.com/cdn/shop/articles/Br41mjtIQAAy1BD.jpg?v=1734166319&width=600'
 nutrition:
   calories: 321
   protein: 15.5

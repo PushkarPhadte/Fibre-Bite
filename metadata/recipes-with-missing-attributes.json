@@ -3771,7 +3771,7 @@
     "slug": "oats-idli-carrot-curry-leaf",
     "title": "Oats Idli with Carrot and Curry Leaves",
     "missingAttributes": [
-      "image",
+      "imageAttribution",
       "ingredients.canonicalId",
       "ingredients.optional"
     ]
@@ -3780,7 +3780,7 @@
     "slug": "oats-vegetable-upma",
     "title": "Oats Vegetable Upma",
     "missingAttributes": [
-      "image",
+      "imageAttribution",
       "nutrition.sugar",
       "nutrition.sodium",
       "nutrition.micronutrients.vitaminCMg",
@@ -3796,7 +3796,7 @@
     "slug": "odia-pakhala-bhata-fermented-rice-with-greens",
     "title": "Pakhala Bhata with Spinach Saga (Odia Water Rice)",
     "missingAttributes": [
-      "image",
+      "imageAttribution",
       "ingredients.canonicalId",
       "ingredients.optional"
     ]
@@ -3805,7 +3805,7 @@
     "slug": "okra-and-onion-stir-fry",
     "title": "Okra and Onion Stir-Fry",
     "missingAttributes": [
-      "image",
+      "imageAttribution",
       "nutrition.sugar",
       "nutrition.sodium",
       "nutrition.micronutrients.vitaminCMg",
@@ -3834,7 +3834,7 @@
     "slug": "orange-and-fennel-salad-with-pumpkin-seeds",
     "title": "Orange and Fennel Salad with Pumpkin Seeds",
     "missingAttributes": [
-      "image",
+      "imageAttribution",
       "nutrition.sugar",
       "nutrition.sodium",
       "nutrition.micronutrients.vitaminCMg",
@@ -3850,7 +3850,7 @@
     "slug": "oven-chicken-shawarma-bowl-with-bulgur",
     "title": "Oven Chicken Shawarma Bowl with Bulgur",
     "missingAttributes": [
-      "image",
+      "imageAttribution",
       "nutrition.sugar",
       "nutrition.sodium",
       "nutrition.micronutrients.vitaminCMg",
@@ -3866,7 +3866,7 @@
     "slug": "oven-jerk-chicken",
     "title": "Oven Jerk Chicken",
     "missingAttributes": [
-      "image",
+      "imageAttribution",
       "nutrition.sugar",
       "nutrition.sodium",
       "nutrition.micronutrients.vitaminCMg",
@@ -3927,7 +3927,7 @@
     "slug": "pan-seared-beetroot-tikki",
     "title": "Pan-Seared Beetroot Tikki",
     "missingAttributes": [
-      "image",
+      "imageAttribution",
       "nutrition.sugar",
       "nutrition.sodium",
       "nutrition.micronutrients.vitaminCMg",
@@ -3943,7 +3943,7 @@
     "slug": "paneer-bhurji-whole-wheat-roll",
     "title": "Paneer Bhurji Whole Wheat Roll",
     "missingAttributes": [
-      "image",
+      "imageAttribution",
       "nutrition.sugar",
       "nutrition.sodium",
       "nutrition.micronutrients.vitaminCMg",
@@ -3974,7 +3974,7 @@
     "slug": "pea-and-mint-soup",
     "title": "Pea and Mint Soup",
     "missingAttributes": [
-      "image",
+      "imageAttribution",
       "nutrition.sugar",
       "nutrition.sodium",
       "nutrition.micronutrients.vitaminCMg",
@@ -3990,7 +3990,7 @@
     "slug": "peanut-butter-apple-chia-stacks",
     "title": "Peanut Butter Apple Chia Stacks",
     "missingAttributes": [
-      "image",
+      "imageAttribution",
       "nutrition.sugar",
       "nutrition.sodium",
       "nutrition.micronutrients.vitaminCMg",
@@ -4006,7 +4006,7 @@
     "slug": "peanut-butter-oat-energy-balls",
     "title": "Peanut Butter Oat Energy Balls",
     "missingAttributes": [
-      "image",
+      "imageAttribution",
       "nutrition.sugar",
       "nutrition.sodium",
       "nutrition.micronutrients.vitaminCMg",
@@ -4022,7 +4022,7 @@
     "slug": "peanut-lime-cabbage-slaw",
     "title": "Peanut Lime Cabbage Slaw",
     "missingAttributes": [
-      "image",
+      "imageAttribution",
       "nutrition.sugar",
       "nutrition.sodium",
       "nutrition.micronutrients.vitaminCMg",
@@ -4038,7 +4038,7 @@
     "slug": "pear-arugula-walnut-salad",
     "title": "Pear Arugula Walnut Salad",
     "missingAttributes": [
-      "image",
+      "imageAttribution",
       "nutrition.sugar",
       "nutrition.sodium",
       "nutrition.micronutrients.vitaminCMg",
@@ -4054,7 +4054,7 @@
     "slug": "pearl-barley-mushroom-risotto",
     "title": "Pearl Barley and Mushroom Risotto",
     "missingAttributes": [
-      "image",
+      "imageAttribution",
       "ingredients.canonicalId",
       "ingredients.optional"
     ]
@@ -4063,7 +4063,7 @@
     "slug": "pepper-chicken-kali-mirch",
     "title": "Pepper Chicken Kali Mirch",
     "missingAttributes": [
-      "image",
+      "imageAttribution",
       "nutrition.sugar",
       "nutrition.sodium",
       "nutrition.micronutrients.vitaminCMg",
@@ -4088,7 +4088,7 @@
     "slug": "persian-ghormeh-sabzi-herb-kidney-bean-stew",
     "title": "Ghormeh Sabzi (Persian Herb and Kidney Bean Stew)",
     "missingAttributes": [
-      "image",
+      "imageAttribution",
       "ingredients.canonicalId",
       "ingredients.optional"
     ]
@@ -4132,7 +4132,7 @@
     "slug": "peruvian-sea-bass-ceviche",
     "title": "Peruvian Sea Bass Ceviche with Sweet Potato",
     "missingAttributes": [
-      "image",
+      "imageAttribution",
       "ingredients.canonicalId",
       "ingredients.optional"
     ]
@@ -4141,7 +4141,7 @@
     "slug": "pinto-bean-roasted-poblano-skillet",
     "title": "Pinto Bean and Roasted Poblano Skillet",
     "missingAttributes": [
-      "image",
+      "imageAttribution",
       "nutrition.micronutrients.vitaminDMcg",
       "ingredients.canonicalId",
       "ingredients.optional"
@@ -4168,7 +4168,7 @@
     "slug": "poached-chicken-breast-leeks-tarragon",
     "title": "Poached Chicken Breast with Leeks and Tarragon",
     "missingAttributes": [
-      "image",
+      "imageAttribution",
       "nutrition.micronutrients.vitaminDMcg",
       "ingredients.canonicalId",
       "ingredients.optional"
@@ -4186,7 +4186,7 @@
     "slug": "poached-eggs-on-garlic-kale",
     "title": "Poached Eggs on Garlic Kale",
     "missingAttributes": [
-      "image",
+      "imageAttribution",
       "nutrition.sugar",
       "nutrition.sodium",
       "nutrition.micronutrients.vitaminCMg",
@@ -4202,7 +4202,7 @@
     "slug": "poached-halibut-with-fennel-and-dill-broth",
     "title": "Poached Halibut with Fennel and Dill Broth",
     "missingAttributes": [
-      "image",
+      "imageAttribution",
       "ingredients.canonicalId",
       "ingredients.optional"
     ]
@@ -4211,7 +4211,7 @@
     "slug": "poached-peaches-greek-yogurt-pistachios",
     "title": "Poached Peaches with Plain Greek Yogurt and Pistachios",
     "missingAttributes": [
-      "image",
+      "imageAttribution",
       "nutrition.micronutrients.vitaminDMcg",
       "ingredients.canonicalId",
       "ingredients.optional"
@@ -4221,7 +4221,7 @@
     "slug": "poached-white-fish-saffron-tomato-broth",
     "title": "Poached White Fish in Saffron Tomato Broth",
     "missingAttributes": [
-      "image",
+      "imageAttribution",
       "nutrition.micronutrients.vitaminDMcg",
       "ingredients.canonicalId",
       "ingredients.optional"
@@ -4266,7 +4266,7 @@
     "slug": "puffed-rice-bhel-cucumber-peanuts",
     "title": "Puffed Rice Bhel with Cucumber and Peanuts",
     "missingAttributes": [
-      "image",
+      "imageAttribution",
       "ingredients.canonicalId",
       "ingredients.optional"
     ]
@@ -4275,7 +4275,7 @@
     "slug": "quinoa-apple-walnut-breakfast-porridge",
     "title": "Quinoa Apple Walnut Breakfast Porridge",
     "missingAttributes": [
-      "image",
+      "imageAttribution",
       "nutrition.sugar",
       "nutrition.sodium",
       "nutrition.micronutrients.vitaminCMg",
@@ -4332,7 +4332,7 @@
     "slug": "quinoa-mushroom-pilaf-with-peas",
     "title": "Quinoa Mushroom Pilaf with Peas",
     "missingAttributes": [
-      "image",
+      "imageAttribution",
       "nutrition.sugar",
       "nutrition.sodium",
       "nutrition.micronutrients.vitaminCMg",
@@ -4380,7 +4380,7 @@
     "slug": "ragi-mudde-with-spinach-saaru",
     "title": "Ragi Mudde with Spinach Saaru",
     "missingAttributes": [
-      "image",
+      "imageAttribution",
       "ingredients.canonicalId",
       "ingredients.optional"
     ]
@@ -4389,7 +4389,7 @@
     "slug": "ragi-roti-with-carrot-and-coriander",
     "title": "Ragi Roti with Carrot and Coriander",
     "missingAttributes": [
-      "image",
+      "imageAttribution",
       "nutrition.sugar",
       "nutrition.sodium",
       "nutrition.micronutrients.vitaminCMg",
@@ -4447,7 +4447,7 @@
     "slug": "roasted-beet-and-pomegranate-farro-salad",
     "title": "Roasted Beet and Pomegranate Farro Salad",
     "missingAttributes": [
-      "image",
+      "imageAttribution",
       "nutrition.micronutrients.vitaminDMcg",
       "ingredients.canonicalId",
       "ingredients.optional"
@@ -4457,7 +4457,7 @@
     "slug": "roasted-broccoli-with-almonds-and-lemon",
     "title": "Roasted Broccoli with Almonds and Lemon",
     "missingAttributes": [
-      "image",
+      "imageAttribution",
       "nutrition.sugar",
       "nutrition.sodium",
       "nutrition.micronutrients.vitaminCMg",
@@ -4516,7 +4516,7 @@
     "slug": "roasted-carrots-parsnips-rosemary",
     "title": "Roasted Carrots and Parsnips with Rosemary",
     "missingAttributes": [
-      "image",
+      "imageAttribution",
       "nutrition.micronutrients.vitaminDMcg",
       "ingredients.canonicalId",
       "ingredients.optional"
@@ -4526,7 +4526,7 @@
     "slug": "roasted-cauliflower-and-red-lentil-dal",
     "title": "Roasted Cauliflower and Red Lentil Dal",
     "missingAttributes": [
-      "image",
+      "imageAttribution",
       "nutrition.micronutrients.vitaminDMcg",
       "ingredients.canonicalId",
       "ingredients.optional"
@@ -4536,7 +4536,7 @@
     "slug": "roasted-cauliflower-chickpea-hummus-bowl",
     "title": "Roasted Cauliflower and Chickpea Hummus Bowl",
     "missingAttributes": [
-      "image",
+      "imageAttribution",
       "nutrition.micronutrients.vitaminDMcg",
       "ingredients.canonicalId",
       "ingredients.optional"
@@ -4546,7 +4546,7 @@
     "slug": "roasted-celeriac-pear-thyme-soup",
     "title": "Roasted Celeriac and Pear Soup with Thyme",
     "missingAttributes": [
-      "image",
+      "imageAttribution",
       "nutrition.micronutrients.vitaminDMcg",
       "ingredients.canonicalId",
       "ingredients.optional"
@@ -4588,7 +4588,7 @@
     "slug": "roasted-kohlrabi-farro-hazelnut-salad",
     "title": "Roasted Kohlrabi, Farro, and Hazelnut Warm Salad",
     "missingAttributes": [
-      "image",
+      "imageAttribution",
       "nutrition.micronutrients.vitaminDMcg",
       "ingredients.canonicalId",
       "ingredients.optional"
@@ -4613,7 +4613,7 @@
     "slug": "roasted-red-pepper-and-tomato-soup",
     "title": "Roasted Red Pepper and Tomato Soup",
     "missingAttributes": [
-      "image",
+      "imageAttribution",
       "nutrition.sugar",
       "nutrition.sodium",
       "nutrition.micronutrients.vitaminCMg",
@@ -4644,7 +4644,7 @@
     "slug": "roasted-sweet-potato-chickpea-chaat",
     "title": "Roasted Sweet Potato Chickpea Chaat",
     "missingAttributes": [
-      "image",
+      "imageAttribution",
       "nutrition.sugar",
       "nutrition.sodium",
       "nutrition.micronutrients.vitaminCMg",
@@ -4683,7 +4683,7 @@
     "slug": "salmon-and-vegetable-parchment-parcels",
     "title": "Salmon and Vegetable Parchment Parcels",
     "missingAttributes": [
-      "image",
+      "imageAttribution",
       "ingredients.canonicalId",
       "ingredients.optional"
     ]
@@ -4692,7 +4692,7 @@
     "slug": "sardinian-whole-wheat-fregola-clams",
     "title": "Sardinian Whole-Wheat Fregola with Clams and Parsley",
     "missingAttributes": [
-      "image",
+      "imageAttribution",
       "nutrition.micronutrients.vitaminDMcg",
       "ingredients.canonicalId",
       "ingredients.optional"
@@ -4715,7 +4715,7 @@
     "slug": "sattu-sharbat-roasted-cumin-lemon",
     "title": "Sattu Sharbat with Roasted Cumin and Lemon",
     "missingAttributes": [
-      "image",
+      "imageAttribution",
       "ingredients.canonicalId",
       "ingredients.optional"
     ]
@@ -4724,7 +4724,7 @@
     "slug": "savory-teff-porridge-chard-egg",
     "title": "Savory Ethiopian Teff Porridge with Swiss Chard and Soft-Boiled Egg",
     "missingAttributes": [
-      "image",
+      "imageAttribution",
       "ingredients.canonicalId",
       "ingredients.optional"
     ]
@@ -4733,7 +4733,7 @@
     "slug": "seared-salmon-edamame-rice-bowl",
     "title": "Seared Salmon Edamame Rice Bowl",
     "missingAttributes": [
-      "image",
+      "imageAttribution",
       "nutrition.sugar",
       "nutrition.sodium",
       "nutrition.micronutrients.vitaminCMg",
@@ -4786,7 +4786,7 @@
     "slug": "sesame-seared-edamame-and-bell-pepper-bowl",
     "title": "Sesame Seared Edamame and Bell Pepper Bowl",
     "missingAttributes": [
-      "image",
+      "imageAttribution",
       "nutrition.micronutrients.vitaminDMcg",
       "ingredients.canonicalId",
       "ingredients.optional"
@@ -4796,7 +4796,7 @@
     "slug": "sesame-seared-tuna-with-cucumber-and-edamame",
     "title": "Sesame Seared Tuna with Cucumber and Edamame",
     "missingAttributes": [
-      "image",
+      "imageAttribution",
       "nutrition.sugar",
       "nutrition.sodium",
       "nutrition.micronutrients.vitaminCMg",
@@ -4826,7 +4826,7 @@
     "slug": "shiro-wot-ethiopian-chickpea-stew",
     "title": "Shiro Wot Ethiopian Chickpea Stew",
     "missingAttributes": [
-      "image",
+      "imageAttribution",
       "nutrition.sugar",
       "nutrition.sodium",
       "nutrition.micronutrients.vitaminCMg",
@@ -4842,7 +4842,7 @@
     "slug": "shrimp-cucumber-mint-lime-salad",
     "title": "Shrimp Cucumber Mint Lime Salad",
     "missingAttributes": [
-      "image",
+      "imageAttribution",
       "nutrition.sugar",
       "nutrition.sodium",
       "nutrition.micronutrients.vitaminCMg",
@@ -4883,7 +4883,7 @@
     "slug": "smoked-paprika-chicken-avocado-salad",
     "title": "Smoked Paprika Chicken Avocado Salad",
     "missingAttributes": [
-      "image",
+      "imageAttribution",
       "nutrition.sugar",
       "nutrition.sodium",
       "nutrition.micronutrients.vitaminCMg",
@@ -4920,7 +4920,7 @@
     "slug": "soto-ayam-indonesian-turmeric-chicken-soup",
     "title": "Soto Ayam (Indonesian Turmeric Chicken Soup)",
     "missingAttributes": [
-      "image",
+      "imageAttribution",
       "ingredients.canonicalId",
       "ingredients.optional"
     ]
@@ -4957,7 +4957,7 @@
     "slug": "spanakorizo-greek-spinach-rice",
     "title": "Spanakorizo Greek Spinach Rice",
     "missingAttributes": [
-      "image",
+      "imageAttribution",
       "nutrition.sugar",
       "nutrition.sodium",
       "nutrition.micronutrients.vitaminCMg",
@@ -4973,7 +4973,7 @@
     "slug": "spanish-escalivada-white-anchovies",
     "title": "Spanish Escalivada with White Anchovies",
     "missingAttributes": [
-      "image",
+      "imageAttribution",
       "ingredients.canonicalId",
       "ingredients.optional"
     ]
@@ -5034,7 +5034,7 @@
     "slug": "spiced-grilled-mackerel-with-lemon",
     "title": "Spiced Grilled Mackerel with Lemon",
     "missingAttributes": [
-      "image",
+      "imageAttribution",
       "nutrition.sugar",
       "nutrition.sodium",
       "nutrition.micronutrients.vitaminCMg",
@@ -5050,7 +5050,7 @@
     "slug": "spiced-jackfruit-and-green-pea-pulao",
     "title": "Spiced Jackfruit and Green Pea Pulao",
     "missingAttributes": [
-      "image",
+      "imageAttribution",
       "nutrition.micronutrients.vitaminDMcg",
       "ingredients.canonicalId",
       "ingredients.optional"
@@ -5060,7 +5060,7 @@
     "slug": "spiced-lentil-lettuce-wrap-tacos",
     "title": "Spiced Lentil Lettuce Wrap Tacos",
     "missingAttributes": [
-      "image",
+      "imageAttribution",
       "nutrition.sugar",
       "nutrition.sodium",
       "nutrition.micronutrients.vitaminCMg",
@@ -5076,7 +5076,7 @@
     "slug": "spiced-millet-chickpea-pilaf-mint",
     "title": "Spiced Millet and Chickpea Pilaf with Mint",
     "missingAttributes": [
-      "image",
+      "imageAttribution",
       "nutrition.micronutrients.vitaminDMcg",
       "ingredients.canonicalId",
       "ingredients.optional"
@@ -5086,7 +5086,7 @@
     "slug": "spiced-pumpkin-and-sorghum-stew",
     "title": "Spiced Pumpkin and Sorghum Stew",
     "missingAttributes": [
-      "image",
+      "imageAttribution",
       "nutrition.micronutrients.vitaminDMcg",
       "ingredients.canonicalId",
       "ingredients.optional"
@@ -5096,7 +5096,7 @@
     "slug": "spiced-pumpkin-red-kidney-bean-stew",
     "title": "Spiced Pumpkin and Red Kidney Bean Stew",
     "missingAttributes": [
-      "image",
+      "imageAttribution",
       "nutrition.micronutrients.vitaminDMcg",
       "ingredients.canonicalId",
       "ingredients.optional"
@@ -5164,7 +5164,7 @@
     "slug": "spinach-egg-drop-soup",
     "title": "Spinach Egg Drop Soup",
     "missingAttributes": [
-      "image",
+      "imageAttribution",
       "nutrition.sugar",
       "nutrition.sodium",
       "nutrition.micronutrients.vitaminCMg",
@@ -5193,7 +5193,7 @@
     "slug": "spinach-mushroom-stuffed-chicken-breast",
     "title": "Spinach Mushroom Stuffed Chicken Breast",
     "missingAttributes": [
-      "image",
+      "imageAttribution",
       "nutrition.sugar",
       "nutrition.sodium",
       "nutrition.micronutrients.vitaminCMg",
@@ -5209,7 +5209,7 @@
     "slug": "spinach-sesame-gomae",
     "title": "Spinach Sesame Gomae",
     "missingAttributes": [
-      "image",
+      "imageAttribution",
       "nutrition.sugar",
       "nutrition.sodium",
       "nutrition.micronutrients.vitaminCMg",
@@ -5225,7 +5225,7 @@
     "slug": "split-mung-dal-spinach-khichdi-bowl",
     "title": "Split Mung Dal and Spinach Khichdi-Style Bowl",
     "missingAttributes": [
-      "image",
+      "imageAttribution",
       "nutrition.micronutrients.vitaminDMcg",
       "ingredients.canonicalId",
       "ingredients.optional"
@@ -5251,7 +5251,7 @@
     "slug": "sprouted-moong-usal",
     "title": "Sprouted Moong Usal",
     "missingAttributes": [
-      "image",
+      "imageAttribution",
       "nutrition.sugar",
       "nutrition.sodium",
       "nutrition.micronutrients.vitaminCMg",
@@ -5267,7 +5267,7 @@
     "slug": "steamed-asparagus-snow-peas-lemon-herb",
     "title": "Steamed Asparagus and Snow Peas with Lemon Herb Oil",
     "missingAttributes": [
-      "image",
+      "imageAttribution",
       "nutrition.micronutrients.vitaminDMcg",
       "ingredients.canonicalId",
       "ingredients.optional"
@@ -5307,7 +5307,7 @@
     "slug": "steamed-egg-white-and-spinach-savory-custard",
     "title": "Steamed Egg White and Spinach Savory Custard",
     "missingAttributes": [
-      "image",
+      "imageAttribution",
       "nutrition.micronutrients.vitaminDMcg",
       "ingredients.canonicalId",
       "ingredients.optional"
@@ -5333,7 +5333,7 @@
     "slug": "steamed-green-beans-sesame-crushed-almonds",
     "title": "Steamed Green Beans with Sesame and Crushed Almonds",
     "missingAttributes": [
-      "image",
+      "imageAttribution",
       "nutrition.micronutrients.vitaminDMcg",
       "ingredients.canonicalId",
       "ingredients.optional"
@@ -5343,7 +5343,7 @@
     "slug": "steamed-mussels-fennel-leek-broth",
     "title": "Steamed Blue Mussels in Fennel and Leek Broth",
     "missingAttributes": [
-      "image",
+      "imageAttribution",
       "nutrition.micronutrients.vitaminDMcg",
       "ingredients.canonicalId",
       "ingredients.optional"
@@ -5384,7 +5384,7 @@
     "slug": "steamed-tilapia-bok-choy-lime",
     "title": "Steamed Tilapia with Bok Choy and Lime",
     "missingAttributes": [
-      "image",
+      "imageAttribution",
       "ingredients.canonicalId",
       "ingredients.optional"
     ]
@@ -5411,7 +5411,7 @@
     "slug": "sweet-corn-and-vegetable-soup",
     "title": "Sweet Corn and Vegetable Soup",
     "missingAttributes": [
-      "image",
+      "imageAttribution",
       "nutrition.sugar",
       "nutrition.sodium",
       "nutrition.micronutrients.vitaminCMg",
@@ -5481,7 +5481,7 @@
     "slug": "tempeh-vegetable-stir-fry",
     "title": "Tempeh Vegetable Stir-Fry",
     "missingAttributes": [
-      "image",
+      "imageAttribution",
       "nutrition.sugar",
       "nutrition.sodium",
       "nutrition.micronutrients.vitaminCMg",
@@ -5509,7 +5509,7 @@
     "slug": "thai-basil-chicken-stir-fry-with-brown-rice",
     "title": "Thai Basil Chicken Stir-Fry with Brown Rice",
     "missingAttributes": [
-      "image",
+      "imageAttribution",
       "nutrition.sugar",
       "nutrition.sodium",
       "nutrition.micronutrients.vitaminCMg",
@@ -5623,7 +5623,7 @@
     "slug": "tofu-tikka-masala",
     "title": "Tofu Tikka Masala",
     "missingAttributes": [
-      "image",
+      "imageAttribution",
       "nutrition.sugar",
       "nutrition.sodium",
       "nutrition.micronutrients.vitaminCMg",
@@ -5639,7 +5639,7 @@
     "slug": "tomato-basil-soup-with-cashew-cream",
     "title": "Tomato Basil Soup with Cashew Cream",
     "missingAttributes": [
-      "image",
+      "imageAttribution",
       "nutrition.sugar",
       "nutrition.sodium",
       "nutrition.micronutrients.vitaminCMg",
@@ -5669,7 +5669,7 @@
     "slug": "tomato-pepper-rasam",
     "title": "Tomato Pepper Rasam",
     "missingAttributes": [
-      "image",
+      "imageAttribution",
       "nutrition.sugar",
       "nutrition.sodium",
       "nutrition.micronutrients.vitaminCMg",
@@ -5700,7 +5700,7 @@
     "slug": "turkey-burger-lettuce-wraps",
     "title": "Turkey Burger Lettuce Wraps",
     "missingAttributes": [
-      "image",
+      "imageAttribution",
       "nutrition.sugar",
       "nutrition.sodium",
       "nutrition.micronutrients.vitaminCMg",
@@ -5716,7 +5716,7 @@
     "slug": "turkey-keema-matar",
     "title": "Turkey Keema Matar",
     "missingAttributes": [
-      "image",
+      "imageAttribution",
       "nutrition.sugar",
       "nutrition.sodium",
       "nutrition.micronutrients.vitaminCMg",
@@ -5732,7 +5732,7 @@
     "slug": "turkish-kisir-bulgur-herb-salad",
     "title": "Turkish Kisir (Fine Bulgur and Pomegranate Herb Salad)",
     "missingAttributes": [
-      "image",
+      "imageAttribution",
       "nutrition.micronutrients.vitaminDMcg",
       "ingredients.canonicalId",
       "ingredients.optional"
@@ -5755,7 +5755,7 @@
     "slug": "turmeric-black-pepper-roasted-makhana",
     "title": "Turmeric and Black Pepper Roasted Makhana",
     "missingAttributes": [
-      "image",
+      "imageAttribution",
       "ingredients.canonicalId",
       "ingredients.optional"
     ]
@@ -5792,7 +5792,7 @@
     "slug": "turmeric-poached-eggs-swiss-chard-cannellini",
     "title": "Turmeric Poached Eggs with Swiss Chard and Cannellini",
     "missingAttributes": [
-      "image",
+      "imageAttribution",
       "ingredients.canonicalId",
       "ingredients.optional"
     ]
@@ -5838,7 +5838,7 @@
     "slug": "unsalted-nut-and-seed-trail-mix",
     "title": "Unsalted Nut and Seed Trail Mix",
     "missingAttributes": [
-      "image",
+      "imageAttribution",
       "nutrition.sugar",
       "nutrition.sodium",
       "nutrition.micronutrients.vitaminCMg",
@@ -5854,7 +5854,7 @@
     "slug": "valachi-usal-sprouted-field-beans",
     "title": "Konkani Valachi Usal (Sprouted Field Beans Curry)",
     "missingAttributes": [
-      "image",
+      "imageAttribution",
       "nutrition.micronutrients.vitaminDMcg",
       "ingredients.canonicalId",
       "ingredients.optional"
@@ -5864,7 +5864,7 @@
     "slug": "vangi-bhaji-peanut-eggplant-curry",
     "title": "Vangi Bhaji Peanut Eggplant Curry",
     "missingAttributes": [
-      "image",
+      "imageAttribution",
       "nutrition.sugar",
       "nutrition.sodium",
       "nutrition.micronutrients.vitaminCMg",
@@ -5895,7 +5895,7 @@
     "slug": "vegetable-dalia-porridge",
     "title": "Vegetable Dalia Porridge",
     "missingAttributes": [
-      "image",
+      "imageAttribution",
       "nutrition.sugar",
       "nutrition.sodium",
       "nutrition.micronutrients.vitaminCMg",
@@ -5911,7 +5911,7 @@
     "slug": "vegetable-japchae-sweet-potato-noodles",
     "title": "Vegetable Japchae (Korean Sweet Potato Noodle Stir-Fry)",
     "missingAttributes": [
-      "image",
+      "imageAttribution",
       "ingredients.canonicalId",
       "ingredients.optional"
     ]
@@ -5944,7 +5944,7 @@
     "slug": "vegetable-semiya-upma",
     "title": "Vegetable Semiya Upma",
     "missingAttributes": [
-      "image",
+      "imageAttribution",
       "nutrition.sugar",
       "nutrition.sodium",
       "nutrition.micronutrients.vitaminCMg",
@@ -5968,7 +5968,7 @@
     "slug": "vietnamese-chicken-cabbage-salad-goi-ga",
     "title": "Vietnamese Chicken and Cabbage Salad (Goi Ga)",
     "missingAttributes": [
-      "image",
+      "imageAttribution",
       "ingredients.canonicalId",
       "ingredients.optional"
     ]
@@ -5977,7 +5977,7 @@
     "slug": "vietnamese-chicken-pho",
     "title": "Vietnamese Chicken Pho",
     "missingAttributes": [
-      "image",
+      "imageAttribution",
       "nutrition.sugar",
       "nutrition.sodium",
       "nutrition.micronutrients.vitaminCMg",
@@ -6034,7 +6034,7 @@
     "slug": "watermelon-cucumber-mint-salad",
     "title": "Watermelon Cucumber Mint Salad",
     "missingAttributes": [
-      "image",
+      "imageAttribution",
       "nutrition.sugar",
       "nutrition.sodium",
       "nutrition.micronutrients.vitaminCMg",
@@ -6072,7 +6072,7 @@
     "slug": "white-bean-stuffed-mushrooms",
     "title": "White Bean Stuffed Mushrooms",
     "missingAttributes": [
-      "image",
+      "imageAttribution",
       "nutrition.sugar",
       "nutrition.sodium",
       "nutrition.micronutrients.vitaminCMg",
@@ -6088,7 +6088,7 @@
     "slug": "whole-grain-panzanella",
     "title": "Whole-Grain Panzanella",
     "missingAttributes": [
-      "image",
+      "imageAttribution",
       "ingredients.canonicalId",
       "ingredients.optional"
     ]
@@ -6097,7 +6097,7 @@
     "slug": "whole-wheat-berry-roasted-beet-salad-arugula",
     "title": "Whole Wheat Berry and Roasted Beet Salad with Arugula",
     "missingAttributes": [
-      "image",
+      "imageAttribution",
       "nutrition.micronutrients.vitaminDMcg",
       "ingredients.canonicalId",
       "ingredients.optional"
@@ -6107,7 +6107,7 @@
     "slug": "whole-wheat-pasta-salad-with-chickpeas-and-cucumber",
     "title": "Whole Wheat Pasta Salad with Chickpeas and Cucumber",
     "missingAttributes": [
-      "image",
+      "imageAttribution",
       "nutrition.sugar",
       "nutrition.sodium",
       "nutrition.micronutrients.vitaminCMg",
@@ -6123,7 +6123,7 @@
     "slug": "whole-wheat-penne-arrabbiata-with-roasted-vegetables",
     "title": "Whole Wheat Penne Arrabbiata with Roasted Vegetables",
     "missingAttributes": [
-      "image",
+      "imageAttribution",
       "nutrition.sugar",
       "nutrition.sodium",
       "nutrition.micronutrients.vitaminCMg",
@@ -6139,7 +6139,7 @@
     "slug": "whole-wheat-spaghetti-with-garlic-broccoli-and-chickpeas",
     "title": "Whole Wheat Spaghetti with Garlic Broccoli and Chickpeas",
     "missingAttributes": [
-      "image",
+      "imageAttribution",
       "nutrition.sugar",
       "nutrition.sodium",
       "nutrition.micronutrients.vitaminCMg",
@@ -6163,7 +6163,7 @@
     "slug": "whole-wheat-vegetable-chow-mein-with-tofu",
     "title": "Whole-Wheat Vegetable Chow Mein with Tofu",
     "missingAttributes": [
-      "image",
+      "imageAttribution",
       "ingredients.canonicalId",
       "ingredients.optional"
     ]
@@ -6172,7 +6172,7 @@
     "slug": "whole-wheat-vegetable-momos",
     "title": "Whole-Wheat Vegetable Momos",
     "missingAttributes": [
-      "image",
+      "imageAttribution",
       "ingredients.canonicalId",
       "ingredients.optional"
     ]
@@ -6181,7 +6181,7 @@
     "slug": "wild-rice-pecan-stuffed-acorn-squash",
     "title": "Wild Rice and Pecan Stuffed Acorn Squash",
     "missingAttributes": [
-      "image",
+      "imageAttribution",
       "nutrition.micronutrients.vitaminDMcg",
       "ingredients.canonicalId",
       "ingredients.optional"
@@ -6191,7 +6191,7 @@
     "slug": "yucatan-sopa-de-lima-chicken-lime-soup",
     "title": "Sopa de Lima (Yucatan Chicken and Lime Soup)",
     "missingAttributes": [
-      "image",
+      "imageAttribution",
       "ingredients.canonicalId",
       "ingredients.optional"
     ]
@@ -6200,7 +6200,7 @@
     "slug": "zucchini-basil-soup",
     "title": "Zucchini Basil Soup",
     "missingAttributes": [
-      "image",
+      "imageAttribution",
       "nutrition.sugar",
       "nutrition.sodium",
       "nutrition.micronutrients.vitaminCMg",
@@ -6216,7 +6216,7 @@
     "slug": "zucchini-besan-pan-fritters",
     "title": "Zucchini Besan Pan Fritters",
     "missingAttributes": [
-      "image",
+      "imageAttribution",
       "nutrition.sugar",
       "nutrition.sodium",
       "nutrition.micronutrients.vitaminCMg",

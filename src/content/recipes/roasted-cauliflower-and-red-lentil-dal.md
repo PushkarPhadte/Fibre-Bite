@@ -43,6 +43,7 @@ dietaryTags:
   - high-fiber
   - high-protein
 allergens: []
+image: 'https://images.immediate.co.uk/production/volatile/sites/30/2024/12/Dhal-with-cumin-roasted-cauliflower-813cc0d.jpg?quality=90&resize=708,643'
 nutrition:
   calories: 274
   protein: 16

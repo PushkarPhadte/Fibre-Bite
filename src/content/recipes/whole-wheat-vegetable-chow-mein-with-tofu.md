@@ -73,6 +73,7 @@ allergens:
   - sesame
   - soy
   - wheat
+image: 'https://www.recipetineats.com/tachyon/2014/06/Vegetarian-Tofu-Chow-Mein-1.jpg?resize=500%2C500'
 nutrition:
   calories: 324
   protein: 16.2

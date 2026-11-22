@@ -55,6 +55,7 @@ dietaryTags:
   - vegan
 allergens:
   - wheat
+image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwV08iLNkdpK0yYK6MA6QAoR8S7aIEDbbw11iMVPI2J7BAk0OHXC0aThE&s=10'
 nutrition:
   calories: 203
   protein: 5.5

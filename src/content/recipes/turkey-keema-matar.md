@@ -59,6 +59,7 @@ dietaryTags:
   - high-protein
   - low-carb
 allergens: []
+image: 'https://images.immediate.co.uk/production/volatile/sites/2/2019/05/TurkeyKheemaMatar-298d798.jpg?quality=90&webp=true&resize=700,636'
 nutrition:
   calories: 257
   protein: 35.7

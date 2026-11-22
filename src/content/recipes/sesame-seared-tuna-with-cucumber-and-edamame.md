@@ -49,6 +49,7 @@ allergens:
   - fish
   - sesame
   - soy
+image: 'https://pearlseafoods.au/cdn/shop/articles/sesame-tuna-poke-bowl-with-edamame-cucumber.webp?crop=center&height=900&v=1789609021&width=1600'
 nutrition:
   calories: 242
   protein: 36.8

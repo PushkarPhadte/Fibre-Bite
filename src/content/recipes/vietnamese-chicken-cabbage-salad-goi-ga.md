@@ -67,6 +67,7 @@ dietaryTags:
 allergens:
   - peanuts
   - soy
+image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJfyi2UJfvto-gocZddsQfJ2cIZUv9IYRdbjFLtJb1Vg6BJdqE2tO6T6TK&s=10'
 nutrition:
   calories: 167
   protein: 20.2

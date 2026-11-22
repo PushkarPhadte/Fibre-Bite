@@ -68,6 +68,7 @@ dietaryTags:
 allergens:
   - milk
   - wheat
+image: 'https://www.eatingwell.com/thmb/SsZcSmpYmh1WfiqsWeIE0VvutU0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ChickenShawarmaBulgurBowlswithBeetTzatzikiCucumberTomatoSalad-Hero-01_preview_maxWidth_4000_maxHeight_4000_ppi_300_quality_100-5b0afca28a73403bab77ec1095f0a058.jpg'
 nutrition:
   calories: 331
   protein: 32.4

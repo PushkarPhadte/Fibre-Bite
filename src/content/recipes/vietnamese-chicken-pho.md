@@ -60,6 +60,7 @@ dietaryTags:
   - high-protein
 allergens:
   - soy
+image: 'https://live.staticflickr.com/7065/6945821707_959cfe4a01_b.jpg'
 nutrition:
   calories: 301
   protein: 26

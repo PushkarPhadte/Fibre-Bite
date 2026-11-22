@@ -63,6 +63,7 @@ dietaryTags:
   - keto
 allergens:
   - fish
+image: 'https://assets.bonappetit.com/photos/698a73330e08913821ca3b24/1:1/w_1920,c_limit/salmon-packets-spring-vegetables_RECIPE_V5_012226_3983_VOG_final.jpg'
 nutrition:
   calories: 332
   protein: 26.2

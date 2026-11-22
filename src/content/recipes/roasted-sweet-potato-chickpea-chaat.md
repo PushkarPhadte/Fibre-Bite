@@ -48,6 +48,7 @@ dietaryTags:
   - gluten-free
   - high-fiber
 allergens: []
+image: 'https://www.honeywhatscooking.com/wp-content/uploads/2023/11/Sweet-Potato-Chaat-vegan.jpg'
 nutrition:
   calories: 239
   protein: 7.2

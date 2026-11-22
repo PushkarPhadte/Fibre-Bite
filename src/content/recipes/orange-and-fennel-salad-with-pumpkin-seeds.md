@@ -38,6 +38,7 @@ dietaryTags:
   - vegan
   - gluten-free
 allergens: []
+image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_RpUYuiyDL4GqdmT9ojxssppKpb71mlz7C3XCyndzPgx2nvig6zvHCLb8&s=10'
 nutrition:
   calories: 194
   protein: 5.4

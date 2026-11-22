@@ -43,6 +43,7 @@ dietaryTags:
   - vegan
   - gluten-free
 allergens: []
+image: 'https://www.indianhealthyrecipes.com/wp-content/uploads/2024/04/ragi-roti-ragi-rotti-recipe.jpg'
 nutrition:
   calories: 209
   protein: 4.2

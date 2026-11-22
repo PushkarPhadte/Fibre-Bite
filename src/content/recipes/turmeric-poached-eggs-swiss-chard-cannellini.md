@@ -49,6 +49,7 @@ dietaryTags:
   - high-fiber
 allergens:
   - eggs
+image: 'https://cookingwithcurls.com/wp-content/uploads/2020/08/Start-your-day-with-a-healthy-breakfast-of-Turmeric-Poached-Eggs-with-sauteed-spinach-and-tomatoes-sprinkled-with-toasted-pine-nuts.-cookingwithcurls.com_-1025x1536.jpg'
 nutrition:
   calories: 345
   protein: 21

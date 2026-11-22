@@ -55,6 +55,7 @@ dietaryTags:
   - high-fiber
 allergens:
   - wheat
+image: 'https://www.funfoodfrolic.com/wp-content/uploads/2021/05/Dalia-Khichdi-Blog-Thumbnail.jpg'
 nutrition:
   calories: 260
   protein: 7.9

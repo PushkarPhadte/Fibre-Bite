@@ -38,6 +38,7 @@ dietaryTags:
   - low-carb
 allergens:
   - milk
+image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrgAzD7PeyGslZZriARTwz3lSitaU_9_ooF3jOIYCQxofWB96vAXqZT60&s=10'
 nutrition:
   calories: 109
   protein: 2.5

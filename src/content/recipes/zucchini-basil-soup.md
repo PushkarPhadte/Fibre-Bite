@@ -43,6 +43,7 @@ dietaryTags:
   - gluten-free
   - low-carb
 allergens: []
+image: 'https://www.seriouseats.com/thmb/T2wZJ55WUlIz4ycs5kF6emTQ88g=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__recipes__images__2017__04__20170426-zucchini-pesto-soup-3-1be5af3bea334b468482c2c232192c4a.jpg'
 nutrition:
   calories: 86
   protein: 3
