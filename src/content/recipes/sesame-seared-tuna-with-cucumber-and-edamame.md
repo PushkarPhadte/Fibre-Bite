@@ -1,6 +1,10 @@
 ---
 title: Sesame Seared Tuna with Cucumber and Edamame
 slug: sesame-seared-tuna-with-cucumber-and-edamame
+benefits:
+  - "Provides about 36.8 g protein per serving."
+  - "Provides about 3.5 g dietary fiber per serving."
+  - "Contributes about 19% of the daily value for potassium per serving."
 description: >-
   Fresh tuna seared with sesame seeds, served with a ginger-lime cucumber and
   edamame salad.

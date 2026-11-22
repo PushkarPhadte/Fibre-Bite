@@ -1,6 +1,10 @@
 ---
 title: Charred Brussels Sprouts and Farro Salad
 slug: charred-brussels-sprouts-farro-salad
+benefits:
+  - "Provides about 11 g protein per serving."
+  - "Provides about 8 g dietary fiber per serving."
+  - "Contributes about 87% of the daily value for vitamin C per serving."
 description: >-
   Nutty chewy farro tossed with blistered Brussels sprouts, toasted walnuts, and
   bright lemon-mustard vinaigrette.

@@ -1,6 +1,10 @@
 ---
 title: Greek Lemon Oregano Chicken Skewers
 slug: greek-lemon-oregano-chicken-skewers
+benefits:
+  - "Provides about 31 g protein per serving."
+  - "Provides about 0 g dietary fiber per serving."
+  - "Contributes about 9% of the daily value for potassium per serving."
 description: >-
   Tender chicken chunks marinated in Greek olive oil, lemon, garlic, and
   oregano, then grilled.

@@ -1,6 +1,10 @@
 ---
 title: French Ratatouille
 slug: french-ratatouille
+benefits:
+  - "Provides about 3 g protein per serving."
+  - "Provides about 6 g dietary fiber per serving."
+  - "Contributes about 58% of the daily value for vitamin C per serving."
 description: >-
   A classic Provençal vegetable stew made of layered zucchini, eggplant, bell
   peppers, tomatoes, garlic, and fresh herbs.

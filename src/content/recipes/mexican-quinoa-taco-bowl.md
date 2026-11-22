@@ -1,6 +1,10 @@
 ---
 title: Mexican Quinoa Taco Bowl
 slug: mexican-quinoa-taco-bowl
+benefits:
+  - "Provides about 11 g protein per serving."
+  - "Provides about 11 g dietary fiber per serving."
+  - "Contributes about 30% of the daily value for folate per serving."
 image: "https://images.unsplash.com/photo-1623428187969-5da2dcea5ebf?auto=format&fit=crop&w=1200&q=80"
 description: >-
   A wholesome grain bowl layered with fluffy quinoa, black beans, avocado

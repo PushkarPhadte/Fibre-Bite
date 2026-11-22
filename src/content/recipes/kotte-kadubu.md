@@ -1,6 +1,10 @@
 ---
 title: Kotte Kadubu (Karnataka Jackfruit Leaf Steamed Cakes)
 slug: kotte-kadubu
+benefits:
+  - "Provides about 5.1 g protein per serving."
+  - "Provides about 2.2 g dietary fiber per serving."
+  - "Contributes about 11% of the daily value for folate per serving."
 image: "https://images.unsplash.com/photo-1741376509580-b108489411ae?auto=format&fit=crop&w=1200&q=80"
 description: >-
   A Karnataka coastal delicacy made of ground rice and urad dal batter steamed

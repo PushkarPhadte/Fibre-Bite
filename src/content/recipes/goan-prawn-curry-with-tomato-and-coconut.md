@@ -1,6 +1,10 @@
 ---
 title: Goan Prawn Curry with Tomato and Coconut
 slug: goan-prawn-curry-with-tomato-and-coconut
+benefits:
+  - "Provides about 29 g protein per serving."
+  - "Provides about 2.3 g dietary fiber per serving."
+  - "Contributes about 13% of the daily value for potassium per serving."
 description: 'A light Goan prawn curry with tomato, a little coconut milk and tamarind.'
 baseServings: 3
 ingredients:

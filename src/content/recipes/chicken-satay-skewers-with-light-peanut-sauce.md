@@ -1,6 +1,10 @@
 ---
 title: Chicken Satay Skewers with Light Peanut Sauce
 slug: chicken-satay-skewers-with-light-peanut-sauce
+benefits:
+  - "Provides about 31.4 g protein per serving."
+  - "Provides about 1.2 g dietary fiber per serving."
+  - "Contributes about 13% of the daily value for potassium per serving."
 description: >-
   Grilled turmeric-coriander chicken skewers with a thin peanut-lime dipping
   sauce and cucumber.

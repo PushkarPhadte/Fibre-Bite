@@ -1,6 +1,10 @@
 ---
 title: Bengali Shukto (Mixed Vegetable Stew with Ginger and Poppy Seeds)
 slug: shukto-bengali-mixed-vegetable-stew
+benefits:
+  - "Provides about 6 g protein per serving."
+  - "Provides about 7 g dietary fiber per serving."
+  - "Contributes about 102% of the daily value for vitamin C per serving."
 description: >-
   Traditional Bengali bittersweet vegetable medley simmering bitter gourd,
   drumstick pods, raw plantain, and eggplant in a delicate ginger, poppy seed,

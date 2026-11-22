@@ -1,6 +1,10 @@
 ---
 title: Japanese Miso Soup with Tofu and Wakame
 slug: japanese-miso-soup-with-tofu-and-wakame
+benefits:
+  - "Provides about 5 g protein per serving."
+  - "Provides about 1.5 g dietary fiber per serving."
+  - "Contributes about 6% of the daily value for iron per serving."
 description: >-
   A light, gut-friendly fermented dashi broth featuring silken tofu, wakame
   seaweed, and spring onions.

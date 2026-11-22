@@ -1,6 +1,10 @@
 ---
 title: Buckwheat and Roasted Beetroot Warm Salad
 slug: buckwheat-roasted-beetroot-warm-salad
+benefits:
+  - "Provides about 9 g protein per serving."
+  - "Provides about 7 g dietary fiber per serving."
+  - "Contributes about 31% of the daily value for folate per serving."
 description: >-
   Toasted buckwheat groats paired with roasted red beets, baby greens, pumpkin
   seeds, and balsamic-olive dressing.

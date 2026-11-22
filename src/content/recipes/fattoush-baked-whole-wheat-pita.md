@@ -1,6 +1,10 @@
 ---
 title: Fattoush with Baked Whole-Wheat Pita
 slug: fattoush-baked-whole-wheat-pita
+benefits:
+  - "Provides about 3.4 g protein per serving."
+  - "Provides about 3.3 g dietary fiber per serving."
+  - "Contributes about 29% of the daily value for vitamin C per serving."
 description: >-
   Levantine bread salad with crisp romaine, tomato, cucumber, radish and herbs,
   dressed with lemon and sumac and topped with oven-baked pita.

@@ -1,6 +1,10 @@
 ---
 title: Light Punjabi Sarson Ka Saag (Mustard Greens Mash)
 slug: light-sarson-ka-saag
+benefits:
+  - "Provides about 7 g protein per serving."
+  - "Provides about 7 g dietary fiber per serving."
+  - "Contributes about 124% of the daily value for vitamin C per serving."
 description: >-
   Heart-healthy winter Punjabi classic of slow-simmered mustard greens and
   spinach naturally thickened with coarse maize flour and aromatic ginger-garlic
@@ -67,6 +71,7 @@ dietaryTags:
   - high-fiber
   - low-carb
 allergens: []
+image: 'https://imgs.search.brave.com/oasEvYdCmbTjpmHUzCnNSEskjrgj8h115FSEHRvRtRE/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9waXBp/bmdwb3RjdXJyeS5j/b20vd3AtY29udGVu/dC91cGxvYWRzLzIw/MjQvMDEvUHVuamFi/aS1zYWFnLi1TYXJz/b24ta2EtU2FhZy1Q/aXBpbmctUG90LUN1/cnJ5LmpwZw'
 nutrition:
   calories: 130
   protein: 7

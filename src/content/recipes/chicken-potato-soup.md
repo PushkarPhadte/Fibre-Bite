@@ -1,6 +1,10 @@
 ---
 title: Chicken Potato Soup
 slug: chicken-potato-soup
+benefits:
+  - "Provides about 14 g protein per serving."
+  - "Provides about 2 g dietary fiber per serving."
+  - "Contributes about 13% of the daily value for vitamin C per serving."
 image: "https://upload.wikimedia.org/wikipedia/commons/8/8a/Campbell%27s_Chicken_Noodle_Soup_with_Chayote_and_Potatoes.jpg"
 description: >-
   A savory, light soup consisting of pressure-cooked chicken and potatoes

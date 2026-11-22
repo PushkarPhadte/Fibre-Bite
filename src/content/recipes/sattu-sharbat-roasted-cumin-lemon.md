@@ -1,6 +1,10 @@
 ---
 title: Sattu Sharbat with Roasted Cumin and Lemon
 slug: sattu-sharbat-roasted-cumin-lemon
+benefits:
+  - "Provides about 5.4 g protein per serving."
+  - "Provides about 4.8 g dietary fiber per serving."
+  - "Contributes about 18% of the daily value for folate per serving."
 description: >-
   A cooling, savoury Bihari drink of roasted chickpea flour, lemon, mint and
   roasted cumin that keeps you full for hours.

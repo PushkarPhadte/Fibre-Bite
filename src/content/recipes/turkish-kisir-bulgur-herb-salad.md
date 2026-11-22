@@ -1,6 +1,10 @@
 ---
 title: Turkish Kisir (Fine Bulgur and Pomegranate Herb Salad)
 slug: turkish-kisir-bulgur-herb-salad
+benefits:
+  - "Provides about 8 g protein per serving."
+  - "Provides about 9 g dietary fiber per serving."
+  - "Contributes about 34% of the daily value for vitamin C per serving."
 description: >-
   Zesty Anatolian whole-grain salad of fine bulgur hydrated with tomato paste,
   tangy pomegranate molasses, crisp cucumber, scallions, and abundant fresh

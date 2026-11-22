@@ -95,6 +95,7 @@ export const localRecipeFrontmatterSchema = z.object({
 	title: z.string().trim().min(1),
 	slug: z.string().regex(/^[a-z0-9]+(?:-[a-z0-9]+)*$/),
 	description: z.string().optional(),
+	benefits: z.array(z.string().trim().min(1)).min(1),
 	translations: recipeTranslationsSchema,
 	baseServings: z.coerce.number().positive(),
 	ingredients: z.array(ingredientSchema).min(1),

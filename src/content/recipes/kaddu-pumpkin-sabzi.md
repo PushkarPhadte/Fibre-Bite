@@ -1,6 +1,10 @@
 ---
 title: Kaddu Pumpkin Sabzi
 slug: kaddu-pumpkin-sabzi
+benefits:
+  - "Provides about 2.4 g protein per serving."
+  - "Provides about 1.9 g dietary fiber per serving."
+  - "Contributes about 14% of the daily value for potassium per serving."
 description: >-
   A sweet-sour Indian pumpkin dry curry tempered with fenugreek, mustard and
   fennel seeds.
@@ -55,6 +59,7 @@ dietaryTags:
   - gluten-free
   - low-carb
 allergens: []
+image: 'https://imgs.search.brave.com/ra0NddGn0rfUFUaiCUZ0kcYPzg7hQT2AEhkGJkl2E0I/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9oZWFs/dGhpZXJzdGVwcy5j/b20vd3AtY29udGVu/dC91cGxvYWRzLzIw/MjIvMDcvcHVtcGtp/bi1iaGFqaS5qcGc'
 nutrition:
   calories: 90
   protein: 2.4

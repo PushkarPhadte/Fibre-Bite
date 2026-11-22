@@ -1,6 +1,10 @@
 ---
 title: Kordoi / Assamese Whole Wheat Savory Snacks
 slug: kordoi-assamese-whole-wheat-savory-snacks
+benefits:
+  - "Provides about 4.5 g protein per serving."
+  - "Provides about 4.2 g dietary fiber per serving."
+  - "Contributes about 10% of the daily value for iron per serving."
 description: >-
   A traditional Assamese tea-time snack shaped like starfruit (kordoi), made
   healthy using whole wheat flour and carom seeds.

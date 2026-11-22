@@ -1,6 +1,10 @@
 ---
 title: Thai Green Curry with Chicken and Vegetables
 slug: thai-green-curry-chicken-vegetables
+benefits:
+  - "Provides about 25.6 g protein per serving."
+  - "Provides about 3.1 g dietary fiber per serving."
+  - "Contributes about 34% of the daily value for vitamin C per serving."
 description: >-
   A fresh herb-based green curry paste simmered with chicken breast, green beans
   and zucchini in a light coconut broth.
@@ -86,6 +90,7 @@ dietaryTags:
   - low-carb
 allergens:
   - soy
+image: 'https://imgs.search.brave.com/HTfLj6h8pY6_LiYw_TgCtsox5abF3_elIO5W-U6mXpc/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/dGhlc3BydWNlZWF0/cy5jb20vdGhtYi8x/WkpnXzlnUkNhRUtD/WF9jUk1BRjMtbmFy/Skk9LzE1MDB4MC9m/aWx0ZXJzOm5vX3Vw/c2NhbGUoKTptYXhf/Ynl0ZXMoMTUwMDAw/KTpzdHJpcF9pY2Mo/KTpmb3JtYXQod2Vi/cCkvdGhhaS1ncmVl/bi1jdXJyeS1yZWNp/cGUtcDMtMzIxNzQ0/Mi1oZXJvLTEtYTNm/Y2RmYmM1NTE4NDk3/MThjNzc1MGZhNjNl/YzhjNmEuanBn'
 nutrition:
   calories: 239
   protein: 25.6

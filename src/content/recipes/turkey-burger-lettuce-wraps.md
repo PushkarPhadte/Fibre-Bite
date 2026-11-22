@@ -1,6 +1,10 @@
 ---
 title: Turkey Burger Lettuce Wraps
 slug: turkey-burger-lettuce-wraps
+benefits:
+  - "Provides about 25.4 g protein per serving."
+  - "Provides about 3.2 g dietary fiber per serving."
+  - "Contributes about 13% of the daily value for potassium per serving."
 description: Herbed lean turkey patties served in lettuce leaves with tomato and avocado.
 baseServings: 4
 ingredients:

@@ -1,6 +1,10 @@
 ---
 title: Baked Falafel Wrap with Tahini Yogurt
 slug: baked-falafel-wrap-with-tahini-yogurt
+benefits:
+  - "Provides about 15 g protein per serving."
+  - "Provides about 8 g dietary fiber per serving."
+  - "Contributes about 19% of the daily value for iron per serving."
 image: "https://upload.wikimedia.org/wikipedia/commons/4/49/Falafel_Melt_Wrap_-_We_Love_Falafel_2023-09-27.jpg"
 description: >-
   Whole wheat wrap filled with crispy oven-baked falafel, fresh lettuce,

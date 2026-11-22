@@ -1,6 +1,10 @@
 ---
 title: Sol Kadhi (Kokum and Coconut Milk Drink)
 slug: sol-kadhi
+benefits:
+  - "Provides about 1.2 g protein per serving."
+  - "Provides about 1.5 g dietary fiber per serving."
+  - "Contributes about 9% of the daily value for vitamin C per serving."
 description: >-
   A cooling Goan-Konkani digestive drink made from natural kokum extract, fresh
   coconut milk, garlic, and chillies.

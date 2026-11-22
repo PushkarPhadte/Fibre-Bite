@@ -1,6 +1,10 @@
 ---
 title: Baked Cauli-Rice and Green Pea Pilaf
 slug: baked-cauli-rice-green-pea-pilaf
+benefits:
+  - "Provides about 6 g protein per serving."
+  - "Provides about 5 g dietary fiber per serving."
+  - "Contributes about 76% of the daily value for vitamin C per serving."
 description: >-
   Oven-baked riced cauliflower with sweet green peas, toasted almonds, cardamom,
   and fresh mint.
@@ -62,7 +66,7 @@ nutrition:
     Estimated per serving from ingredient quantities using USDA FoodData Central
     reference data.
 image: >-
-  https://images.unsplash.com/photo-1592815054199-5bff9c3e8a05?auto=format&fit=crop&w=1200&q=80&v=611
+  https://imgs.search.brave.com/x8bKFZXSyDXsx_Nu27hc_FRKAt4twIJ7b-r0_ph0JQk/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/Y29va3dpdGhtYW5h/bGkuY29tL3dwLWNv/bnRlbnQvdXBsb2Fk/cy8yMDE2LzA2L0Nh/dWxpZmxvd2VyLVBl/YXMtUHVsYW8tU3F1/YXJlLmpwZw
 imageAttribution:
   title: Spiced Cauliflower Dish
   creator: Unsplash Photographer

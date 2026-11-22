@@ -1,6 +1,10 @@
 ---
 title: Eggplant Lentil Moussaka
 slug: eggplant-lentil-moussaka
+benefits:
+  - "Provides about 17.1 g protein per serving."
+  - "Provides about 9.7 g dietary fiber per serving."
+  - "Contributes about 22% of the daily value for potassium per serving."
 description: >-
   Layers of roasted eggplant and spiced lentil-tomato ragù topped with a Greek
   yogurt custard.

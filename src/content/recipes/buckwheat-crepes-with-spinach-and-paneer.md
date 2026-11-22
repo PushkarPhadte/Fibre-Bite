@@ -1,6 +1,10 @@
 ---
 title: Buckwheat Crepes with Spinach and Paneer
 slug: buckwheat-crepes-with-spinach-and-paneer
+benefits:
+  - "Provides about 16 g protein per serving."
+  - "Provides about 5.5 g dietary fiber per serving."
+  - "Contributes about 15% of the daily value for iron per serving."
 description: Gluten-free buckwheat crepes filled with a spiced spinach and paneer mixture.
 baseServings: 2
 ingredients:

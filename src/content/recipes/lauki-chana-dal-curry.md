@@ -1,6 +1,10 @@
 ---
 title: Lauki Chana Dal Curry
 slug: lauki-chana-dal-curry
+benefits:
+  - "Provides about 7.2 g protein per serving."
+  - "Provides about 5.3 g dietary fiber per serving."
+  - "Contributes about 14% of the daily value for iron per serving."
 description: Bottle gourd cooked with split chickpeas in a light tomato-ginger gravy.
 baseServings: 3
 ingredients:

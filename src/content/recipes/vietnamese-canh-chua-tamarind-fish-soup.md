@@ -1,6 +1,10 @@
 ---
 title: Vietnamese Canh Chua (Sweet-and-Sour Tamarind Pineapple Fish Soup)
 slug: vietnamese-canh-chua-tamarind-fish-soup
+benefits:
+  - "Provides about 24 g protein per serving."
+  - "Provides about 4 g dietary fiber per serving."
+  - "Contributes about 48% of the daily value for vitamin C per serving."
 description: >-
   Bright Mekong Delta soup balancing tangy tamarind, juicy fresh pineapple,
   tomatoes, okra, crisp mung bean sprouts, and tender white fish finished with

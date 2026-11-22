@@ -1,6 +1,10 @@
 ---
 title: Korean Kimchi Fried Brown Rice
 slug: korean-kimchi-fried-brown-rice
+benefits:
+  - "Provides about 11 g protein per serving."
+  - "Provides about 5 g dietary fiber per serving."
+  - "Contributes about 28% of the daily value for vitamin C per serving."
 image: "https://upload.wikimedia.org/wikipedia/commons/f/f6/Kimchi-bokkeum-bap_%28Kimchi_fried_rice%29_-_Kogi_2023-09-11.jpg"
 description: >-
   A flavorful Korean bowl featuring gut-healthy fermented kimchi stir-fried with

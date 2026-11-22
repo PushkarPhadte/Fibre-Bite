@@ -1,6 +1,10 @@
 ---
 title: Steamed Wild Salmon with Ginger and Dill
 slug: steamed-wild-salmon-ginger-dill
+benefits:
+  - "Provides about 35 g protein per serving."
+  - "Provides about 0 g dietary fiber per serving."
+  - "Contributes about 73% of the daily value for vitamin D per serving."
 description: >-
   Tender steamed wild salmon fillets infused with fresh ginger root, lemon
   slices, and dill.

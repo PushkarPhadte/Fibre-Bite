@@ -1,6 +1,10 @@
 ---
 title: Grilled Paneer Tikka Skewers
 slug: grilled-paneer-tikka-skewers
+benefits:
+  - "Provides about 18 g protein per serving."
+  - "Provides about 2.3 g dietary fiber per serving."
+  - "Contributes about 8% of the daily value for potassium per serving."
 description: >-
   Marinated paneer, peppers and onion grilled on skewers with a curd-spice
   marinade.

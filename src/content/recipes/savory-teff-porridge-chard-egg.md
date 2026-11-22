@@ -1,6 +1,10 @@
 ---
 title: Savory Ethiopian Teff Porridge with Swiss Chard and Soft-Boiled Egg
 slug: savory-teff-porridge-chard-egg
+benefits:
+  - "Provides about 16 g protein per serving."
+  - "Provides about 6 g dietary fiber per serving."
+  - "Contributes about 44% of the daily value for magnesium per serving."
 description: >-
   Calcium- and iron-rich whole-grain teff breakfast bowl topped with garlicky
   sautéed Swiss chard, toasted cumin, and a jammy soft-boiled egg.

@@ -1,6 +1,10 @@
 ---
 title: Moroccan Vegetable Tagine
 slug: moroccan-vegetable-tagine
+benefits:
+  - "Provides about 7 g protein per serving."
+  - "Provides about 8 g dietary fiber per serving."
+  - "Contributes about 24% of the daily value for vitamin C per serving."
 image: "https://images.unsplash.com/photo-1541518763669-27fef04b14ea?auto=format&fit=crop&w=1200&q=80"
 description: >-
   A fragrant North African slow-cooked stew of chickpeas, sweet potatoes,

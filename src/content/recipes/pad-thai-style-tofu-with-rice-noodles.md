@@ -1,6 +1,10 @@
 ---
 title: Pad Thai Style Tofu with Rice Noodles
 slug: pad-thai-style-tofu-with-rice-noodles
+benefits:
+  - "Provides about 22 g protein per serving."
+  - "Provides about 6.2 g dietary fiber per serving."
+  - "Contributes about 21% of the daily value for iron per serving."
 description: 'A lighter pad Thai with tofu, bean sprouts, peanuts, tamarind and lime.'
 baseServings: 3
 ingredients:

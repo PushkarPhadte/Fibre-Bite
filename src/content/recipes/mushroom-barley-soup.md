@@ -1,6 +1,10 @@
 ---
 title: Mushroom Barley Soup
 slug: mushroom-barley-soup
+benefits:
+  - "Provides about 5.1 g protein per serving."
+  - "Provides about 5.5 g dietary fiber per serving."
+  - "Contributes about 10% of the daily value for potassium per serving."
 description: 'A hearty soup of mushrooms, pearl barley, carrot and celery with thyme.'
 baseServings: 4
 ingredients:

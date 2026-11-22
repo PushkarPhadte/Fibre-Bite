@@ -1,6 +1,10 @@
 ---
 title: 'Roasted Kohlrabi, Farro, and Hazelnut Warm Salad'
 slug: roasted-kohlrabi-farro-hazelnut-salad
+benefits:
+  - "Provides about 11 g protein per serving."
+  - "Provides about 12 g dietary fiber per serving."
+  - "Contributes about 117% of the daily value for vitamin C per serving."
 description: >-
   Hearty whole-grain salad pairing caramelized roasted kohlrabi wedges with
   nutty farro, baby kale, toasted hazelnuts, and a tangy whole-grain mustard

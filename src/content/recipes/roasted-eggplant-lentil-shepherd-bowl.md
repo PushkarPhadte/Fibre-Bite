@@ -1,6 +1,10 @@
 ---
 title: Roasted Eggplant and Lentil Shepherd Bowl
 slug: roasted-eggplant-lentil-shepherd-bowl
+benefits:
+  - "Provides about 16 g protein per serving."
+  - "Provides about 14 g dietary fiber per serving."
+  - "Contributes about 49% of the daily value for folate per serving."
 description: >-
   Savory brown lentils simmered with herbs and topped with velvety roasted
   eggplant and garlic mash.

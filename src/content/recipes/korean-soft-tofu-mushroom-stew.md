@@ -1,6 +1,10 @@
 ---
 title: Korean Soft Tofu Mushroom Stew
 slug: korean-soft-tofu-mushroom-stew
+benefits:
+  - "Provides about 29.7 g protein per serving."
+  - "Provides about 4.5 g dietary fiber per serving."
+  - "Contributes about 27% of the daily value for iron per serving."
 description: 'A spicy, brothy stew of soft tofu, mushrooms and zucchini with a poached egg.'
 baseServings: 3
 ingredients:
@@ -53,6 +57,7 @@ dietaryTags:
 allergens:
   - eggs
   - soy
+image: 'https://imgs.search.brave.com/yVKlSBf0TXhAB3g5CUMxIhypV519zHhdVnZQvCQ_rZQ/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pLnJl/ZGQuaXQvZGVydWI4/dnoyc2w5MS5wbmc'
 nutrition:
   calories: 281
   protein: 29.7

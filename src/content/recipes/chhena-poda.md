@@ -1,6 +1,10 @@
 ---
 title: Chhena Poda (Light Baked Cottage Cheese Dessert)
 slug: chhena-poda
+benefits:
+  - "Provides about 8.2 g protein per serving."
+  - "Provides about 0.5 g dietary fiber per serving."
+  - "Contributes about 17% of the daily value for calcium per serving."
 description: >-
   A healthy version of Odisha's famous baked cottage cheese dessert made with
   low-fat paneer, jaggery, and cardamom.

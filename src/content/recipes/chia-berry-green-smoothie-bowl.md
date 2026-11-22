@@ -1,6 +1,10 @@
 ---
 title: Chia Berry Green Smoothie Bowl
 slug: chia-berry-green-smoothie-bowl
+benefits:
+  - "Provides about 14 g protein per serving."
+  - "Provides about 10 g dietary fiber per serving."
+  - "Contributes about 50% of the daily value for vitamin C per serving."
 image: "https://upload.wikimedia.org/wikipedia/commons/5/5c/Mango_berry_smoothie_bowl_.jpg"
 imageAttribution:
   title: "Mango berry smoothie bowl"

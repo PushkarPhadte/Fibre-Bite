@@ -1,6 +1,10 @@
 ---
 title: Mixed Vegetable Kootu
 slug: mixed-vegetable-kootu
+benefits:
+  - "Provides about 6.5 g protein per serving."
+  - "Provides about 5.8 g dietary fiber per serving."
+  - "Contributes about 16% of the daily value for iron per serving."
 description: >-
   A South Indian stew of moong dal and vegetables finished with a coconut-cumin
   paste.
@@ -60,6 +64,7 @@ dietaryTags:
   - vegan
   - gluten-free
 allergens: []
+image: 'https://imgs.search.brave.com/63ScH50NreSnRz3mjIQxiqQSA0NQqtn8TgyMXUBAwS8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pMC53/cC5jb20vY29va2lu/Z3dpdGhwcmVlLmNv/bS93cC1jb250ZW50/L3VwbG9hZHMvMjAx/OC8wNy9NaXhlZC12/ZWcta29vdHUxLmpw/Zz9yZXNpemU9NjEw/LDQwNyZzc2w9MQ'
 nutrition:
   calories: 154
   protein: 6.5

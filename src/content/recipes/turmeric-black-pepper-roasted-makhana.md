@@ -1,6 +1,10 @@
 ---
 title: Turmeric and Black Pepper Roasted Makhana
 slug: turmeric-black-pepper-roasted-makhana
+benefits:
+  - "Provides about 2.5 g protein per serving."
+  - "Provides about 1.9 g dietary fiber per serving."
+  - "Contributes about 4% of the daily value for magnesium per serving."
 description: >-
   Light, crunchy fox nuts dry-roasted with a little ghee, turmeric and black
   pepper: a high-fibre, low-oil snack.

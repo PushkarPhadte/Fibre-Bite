@@ -3,6 +3,10 @@ title: >-
   Korean Vegetable Japchae (Sweet Potato Glass Noodles with Spinach and
   Shiitake)
 slug: korean-light-vegetable-japchae
+benefits:
+  - "Provides about 5 g protein per serving."
+  - "Provides about 5 g dietary fiber per serving."
+  - "Contributes about 65% of the daily value for vitamin C per serving."
 description: >-
   Naturally gluten-free Korean festive noodle dish tossing chewy sweet potato
   starch noodles with blanched spinach, sautéed shiitake mushrooms, crisp bell

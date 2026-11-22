@@ -1,6 +1,10 @@
 ---
 title: Roasted Carrots and Parsnips with Rosemary
 slug: roasted-carrots-parsnips-rosemary
+benefits:
+  - "Provides about 2 g protein per serving."
+  - "Provides about 7 g dietary fiber per serving."
+  - "Contributes about 19% of the daily value for vitamin C per serving."
 description: >-
   Sweet roasted carrots and earthy parsnips caramelized in the oven with fresh
   rosemary and olive oil.

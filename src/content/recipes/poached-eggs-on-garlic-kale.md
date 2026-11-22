@@ -1,6 +1,10 @@
 ---
 title: Poached Eggs on Garlic Kale
 slug: poached-eggs-on-garlic-kale
+benefits:
+  - "Provides about 16.5 g protein per serving."
+  - "Provides about 3.5 g dietary fiber per serving."
+  - "Contributes about 18% of the daily value for iron per serving."
 description: Soft poached eggs over garlicky kale and blistered cherry tomatoes with lemon.
 baseServings: 2
 ingredients:

@@ -1,6 +1,10 @@
 ---
 title: Poached Chicken Breast with Leeks and Tarragon
 slug: poached-chicken-breast-leeks-tarragon
+benefits:
+  - "Provides about 39 g protein per serving."
+  - "Provides about 2 g dietary fiber per serving."
+  - "Contributes about 17% of the daily value for folate per serving."
 description: >-
   Gentle poached chicken breast served alongside tender sweet leeks and aromatic
   fresh tarragon.

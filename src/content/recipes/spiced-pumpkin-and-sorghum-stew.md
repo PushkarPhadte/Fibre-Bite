@@ -1,6 +1,10 @@
 ---
 title: Spiced Pumpkin and Sorghum Stew
 slug: spiced-pumpkin-and-sorghum-stew
+benefits:
+  - "Provides about 8 g protein per serving."
+  - "Provides about 9 g dietary fiber per serving."
+  - "Contributes about 25% of the daily value for magnesium per serving."
 description: >-
   Chewy whole sorghum grains simmered with sweet pumpkin cubes, ginger, and
   cinnamon in a light tomato broth.

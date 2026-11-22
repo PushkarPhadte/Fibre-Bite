@@ -1,6 +1,10 @@
 ---
 title: Turkish Lentil Soup (Mercimek Çorbası)
 slug: turkish-lentil-soup
+benefits:
+  - "Provides about 10 g protein per serving."
+  - "Provides about 8 g dietary fiber per serving."
+  - "Contributes about 24% of the daily value for folate per serving."
 description: >-
   A silky, smooth red lentil soup infused with cumin, paprika, and a touch of
   lemon, popular across Anatolia.

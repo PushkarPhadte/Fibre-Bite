@@ -1,6 +1,10 @@
 ---
 title: Mediterranean Chicken Traybake
 slug: mediterranean-chicken-traybake
+benefits:
+  - "Provides about 29.9 g protein per serving."
+  - "Provides about 2 g dietary fiber per serving."
+  - "Contributes about 17% of the daily value for potassium per serving."
 description: 'Chicken breast roasted on a tray with zucchini, cherry tomatoes and oregano.'
 baseServings: 4
 ingredients:
@@ -47,6 +51,7 @@ dietaryTags:
   - high-protein
   - low-carb
 allergens: []
+image: 'https://imgs.search.brave.com/rm4ryiw1X9niqUgYjQNO0e2lcFFF-MdKs5iScPUwhfM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/d2VsbGJlaW5nLmNv/bS5hdS93cC1jb250/ZW50L3VwbG9hZHMv/MjAyNS8wOC9XZWxs/QmVpbmctRWF0V2Vs/bC1Db3Zlci1JbWFn/ZS0xMDAxeDY2Ny0x/MC5qcGc'
 nutrition:
   calories: 218
   protein: 29.9

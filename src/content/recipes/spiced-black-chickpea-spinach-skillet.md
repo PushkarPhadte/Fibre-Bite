@@ -1,6 +1,10 @@
 ---
 title: Spiced Black Chickpea and Spinach Skillet
 slug: spiced-black-chickpea-spinach-skillet
+benefits:
+  - "Provides about 14 g protein per serving."
+  - "Provides about 12 g dietary fiber per serving."
+  - "Contributes about 59% of the daily value for folate per serving."
 description: >-
   Hearty kala chana simmered with crushed tomatoes, toasted coriander, cumin,
   and fresh baby spinach.

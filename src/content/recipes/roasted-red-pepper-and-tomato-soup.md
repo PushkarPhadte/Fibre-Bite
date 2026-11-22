@@ -1,6 +1,10 @@
 ---
 title: Roasted Red Pepper and Tomato Soup
 slug: roasted-red-pepper-and-tomato-soup
+benefits:
+  - "Provides about 2.9 g protein per serving."
+  - "Provides about 4.8 g dietary fiber per serving."
+  - "Contributes about 13% of the daily value for potassium per serving."
 description: >-
   Oven-roasted red peppers and tomatoes blended with garlic into a sweet, smoky
   soup.

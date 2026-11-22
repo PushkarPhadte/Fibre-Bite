@@ -1,6 +1,10 @@
 ---
 title: Greek Mediterranean Quinoa Salad
 slug: greek-mediterranean-quinoa-salad
+benefits:
+  - "Provides about 7 g protein per serving."
+  - "Provides about 5 g dietary fiber per serving."
+  - "Contributes about 20% of the daily value for vitamin C per serving."
 description: >-
   A vibrant, refreshing Mediterranean bowl combining protein-rich quinoa,
   cucumbers, cherry tomatoes, Kalamata olives, and crumbled feta cheese with

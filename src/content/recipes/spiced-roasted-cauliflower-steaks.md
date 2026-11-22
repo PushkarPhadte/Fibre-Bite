@@ -1,6 +1,10 @@
 ---
 title: Spiced Roasted Cauliflower Steaks
 slug: spiced-roasted-cauliflower-steaks
+benefits:
+  - "Provides about 3 g protein per serving."
+  - "Provides about 4 g dietary fiber per serving."
+  - "Contributes about 61% of the daily value for vitamin C per serving."
 description: >-
   Thick-cut cauliflower steaks seasoned with cumin, smoked paprika, garlic
   powder, and roasted until caramelized.

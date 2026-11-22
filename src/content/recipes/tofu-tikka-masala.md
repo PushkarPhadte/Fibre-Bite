@@ -1,6 +1,10 @@
 ---
 title: Tofu Tikka Masala
 slug: tofu-tikka-masala
+benefits:
+  - "Provides about 23.3 g protein per serving."
+  - "Provides about 5 g dietary fiber per serving."
+  - "Contributes about 23% of the daily value for iron per serving."
 description: Grilled marinated tofu in a lightly spiced tomato-onion masala.
 baseServings: 3
 ingredients:

@@ -1,6 +1,10 @@
 ---
 title: Goan Phanasachi Bhaji (Young Green Jackfruit Stir-Fry)
 slug: goan-young-jackfruit-bhaji
+benefits:
+  - "Provides about 4 g protein per serving."
+  - "Provides about 7 g dietary fiber per serving."
+  - "Contributes about 20% of the daily value for vitamin C per serving."
 description: >-
   Fiber-packed Goan dry curry of tender young green jackfruit simmered with
   garlic, roasted spices, kokum, and freshly grated coconut.
@@ -64,6 +68,7 @@ dietaryTags:
   - high-fiber
   - low-carb
 allergens: []
+image: 'https://imgs.search.brave.com/acaNKyXWbeu3d5CRzpxy_znersny6B3qKUSXuj3AHz4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pMC53/cC5jb20va2FsaW1p/cmNoYnlzbWl0YS5j/b20vd3AtY29udGVu/dC91cGxvYWRzLzIw/MTUvMDYvUGhhbmFz/YWNoaS1CaGFqaS0w/My5qcGc_cmVzaXpl/PTU1MCwzNjc'
 nutrition:
   calories: 156
   protein: 4

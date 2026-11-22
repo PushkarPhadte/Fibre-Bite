@@ -1,6 +1,10 @@
 ---
 title: Classic Mexican Guacamole with Veggie Sticks
 slug: classic-mexican-guacamole-with-veggie-sticks
+benefits:
+  - "Provides about 2 g protein per serving."
+  - "Provides about 6 g dietary fiber per serving."
+  - "Contributes about 17% of the daily value for vitamin C per serving."
 description: >-
   Creamy mashed ripe avocados blended with lime juice, cilantro, tomatoes,
   onions, and jalapenos.

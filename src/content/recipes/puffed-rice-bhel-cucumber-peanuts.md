@@ -1,6 +1,10 @@
 ---
 title: Puffed Rice Bhel with Cucumber and Peanuts
 slug: puffed-rice-bhel-cucumber-peanuts
+benefits:
+  - "Provides about 5.1 g protein per serving."
+  - "Provides about 2.9 g dietary fiber per serving."
+  - "Contributes about 15% of the daily value for vitamin C per serving."
 description: >-
   A fresh, no-fry bhel of murmura, cucumber, tomato and roasted peanuts with a
   tamarind-mint dressing.

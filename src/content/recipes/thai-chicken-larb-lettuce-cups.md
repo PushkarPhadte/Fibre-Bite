@@ -1,6 +1,10 @@
 ---
 title: Thai Chicken Larb Lettuce Cups
 slug: thai-chicken-larb-lettuce-cups
+benefits:
+  - "Provides about 27.7 g protein per serving."
+  - "Provides about 1.7 g dietary fiber per serving."
+  - "Contributes about 12% of the daily value for potassium per serving."
 description: >-
   Minced chicken tossed with lime, mint and coriander and served in crisp
   lettuce leaves.

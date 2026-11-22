@@ -1,6 +1,10 @@
 ---
 title: 'Colombian Ajiaco (Chicken, Potato, Corn, and Herb Soup)'
 slug: colombian-ajiaco-chicken-corn-potato-soup
+benefits:
+  - "Provides about 36 g protein per serving."
+  - "Provides about 6 g dietary fiber per serving."
+  - "Contributes about 40% of the daily value for vitamin C per serving."
 description: >-
   Hearty Andean chicken soup naturally thickened by simmering tender yellow
   potatoes with sweet corn, shredded chicken breast, scallions, cilantro,

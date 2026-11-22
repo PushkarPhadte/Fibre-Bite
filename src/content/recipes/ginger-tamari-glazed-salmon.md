@@ -1,6 +1,10 @@
 ---
 title: Ginger Tamari Glazed Salmon
 slug: ginger-tamari-glazed-salmon
+benefits:
+  - "Provides about 27.5 g protein per serving."
+  - "Provides about 3 g dietary fiber per serving."
+  - "Contributes about 20% of the daily value for potassium per serving."
 description: >-
   Baked salmon fillets glazed with ginger, garlic, lime and reduced-sodium
   tamari.

@@ -1,6 +1,10 @@
 ---
 title: Matar Mushroom Curry
 slug: matar-mushroom-curry
+benefits:
+  - "Provides about 7 g protein per serving."
+  - "Provides about 5.6 g dietary fiber per serving."
+  - "Contributes about 14% of the daily value for potassium per serving."
 description: Mushrooms and green peas in an onion-tomato masala finished with garam masala.
 baseServings: 3
 ingredients:
@@ -53,6 +57,7 @@ dietaryTags:
   - gluten-free
   - low-carb
 allergens: []
+image: 'https://imgs.search.brave.com/H1eRWu7NNVV8zg7CvflfrTCAphXOdArY7WwutL1VxwY/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/dmVnYW5yaWNoYS5j/b20vd3AtY29udGVu/dC91cGxvYWRzLzIw/MTYvMDgvTXVzaHJv/b20tTWF0YXItTWFz/YWxhLTA4NDMuanBn'
 nutrition:
   calories: 122
   protein: 7

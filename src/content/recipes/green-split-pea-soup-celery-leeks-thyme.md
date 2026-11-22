@@ -1,6 +1,10 @@
 ---
 title: 'Green Split Pea Soup with Celery, Leeks, and Thyme'
 slug: green-split-pea-soup-celery-leeks-thyme
+benefits:
+  - "Provides about 15 g protein per serving."
+  - "Provides about 15 g dietary fiber per serving."
+  - "Contributes about 41% of the daily value for folate per serving."
 description: >-
   Velvety green split pea soup simmered with leeks, celery, garlic, and thyme
   without heavy cream.
@@ -46,6 +50,7 @@ dietaryTags:
   - high-fiber
   - high-protein
 allergens: []
+image: 'https://imgs.search.brave.com/JWgvksxEBRr00VX87PN01I2t293o5KnP9ctpF7G8eLA/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pZm9v/ZHJlYWwuY29tL3dw/LWNvbnRlbnQvdXBs/b2Fkcy8yMDE3LzAz/L2dyZWVuLXNwbGl0/LXBlYS1zb3VwLXJl/Y2lwZS0yLmpwZw'
 nutrition:
   calories: 255
   protein: 15

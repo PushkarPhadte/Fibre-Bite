@@ -1,6 +1,10 @@
 ---
 title: Tomato Basil Soup with Cashew Cream
 slug: tomato-basil-soup-with-cashew-cream
+benefits:
+  - "Provides about 3 g protein per serving."
+  - "Provides about 2.7 g dietary fiber per serving."
+  - "Contributes about 11% of the daily value for potassium per serving."
 description: 'A velvety tomato soup with no dairy cream, made creamy with blended cashews.'
 baseServings: 4
 ingredients:

@@ -1,6 +1,10 @@
 ---
 title: Masala Sweet Corn Chaat
 slug: masala-sweet-corn-chaat
+benefits:
+  - "Provides about 5.9 g protein per serving."
+  - "Provides about 4.3 g dietary fiber per serving."
+  - "Contributes about 13% of the daily value for potassium per serving."
 description: >-
   Steamed sweet corn tossed with onion, tomato, lime and spices for a quick
   snack.
@@ -41,6 +45,7 @@ dietaryTags:
   - vegan
   - gluten-free
 allergens: []
+image: 'https://imgs.search.brave.com/ZmkZOK4Kyzt6C0lTFhv6GAUkJdT_Lm_xRGtS44GwWWI/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jb29r/aW5nd3Bhci53cGVu/Z2luZXBvd2VyZWQu/Y29tL3dwLWNvbnRl/bnQvdXBsb2Fkcy8y/MDIyLzA4L2ltYWdl/LW9mLW1hc2FsYS1j/b3JuLXJlY2lwZS5q/cGc'
 nutrition:
   calories: 153
   protein: 5.9

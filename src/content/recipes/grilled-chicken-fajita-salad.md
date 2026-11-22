@@ -1,6 +1,10 @@
 ---
 title: Grilled Chicken Fajita Salad
 slug: grilled-chicken-fajita-salad
+benefits:
+  - "Provides about 32 g protein per serving."
+  - "Provides about 4 g dietary fiber per serving."
+  - "Contributes about 94% of the daily value for vitamin C per serving."
 description: >-
   Sizzling grilled chicken breast strips tossed with sautéed bell peppers,
   onions, romaine lettuce, and salsa.

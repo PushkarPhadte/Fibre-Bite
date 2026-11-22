@@ -1,6 +1,10 @@
 ---
 title: Charred Okra and Black Lentil Skillet
 slug: charred-okra-and-black-lentil-skillet
+benefits:
+  - "Provides about 15 g protein per serving."
+  - "Provides about 14 g dietary fiber per serving."
+  - "Contributes about 54% of the daily value for folate per serving."
 description: >-
   Pan-charred okra tossed with tender black beluga lentils, cumin, and fresh
   cilantro.

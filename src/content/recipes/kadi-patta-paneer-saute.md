@@ -1,6 +1,10 @@
 ---
 title: Kadi Patta Paneer Sauté (Curry Leaf Cottage Cheese)
 slug: kadi-patta-paneer-saute
+benefits:
+  - "Provides about 12.5 g protein per serving."
+  - "Provides about 1.1 g dietary fiber per serving."
+  - "Contributes about 24% of the daily value for calcium per serving."
 description: >-
   Cubes of low-fat cottage cheese tossed with fresh curry leaves, turmeric, and
   cracked black pepper.

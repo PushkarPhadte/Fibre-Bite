@@ -1,6 +1,10 @@
 ---
 title: Sprouted Moong Usal
 slug: sprouted-moong-usal
+benefits:
+  - "Provides about 4.3 g protein per serving."
+  - "Provides about 3.9 g dietary fiber per serving."
+  - "Contributes about 11% of the daily value for iron per serving."
 description: 'A Maharashtrian sprouted green gram curry with onion, tomato and goda spices.'
 baseServings: 3
 ingredients:

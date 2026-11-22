@@ -10,6 +10,7 @@ function makeRecipe(slug: string, title: string, ingredientNames: string[]): Rec
 		id: `local-${slug}`,
 		slug,
 		title,
+		benefits: ['Provides dietary fiber.'],
 		baseServings: 2,
 		ingredients: ingredientNames.map((name) => ({ name, baseAmount: 1, unit: 'piece' })),
 		instructions: [{ number: 1, text: 'Prepare the ingredients.' }],

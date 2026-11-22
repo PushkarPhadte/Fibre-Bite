@@ -1,6 +1,10 @@
 ---
 title: Palak (Spinach) Soup
 slug: palak-spinach-soup
+benefits:
+  - "Provides about 3.5 g protein per serving."
+  - "Provides about 2.8 g dietary fiber per serving."
+  - "Contributes about 31% of the daily value for vitamin C per serving."
 description: >-
   A smooth green soup made by simmering fresh spinach leaves with garlic,
   ginger, and subtle seasoning, finished with lemon juice.

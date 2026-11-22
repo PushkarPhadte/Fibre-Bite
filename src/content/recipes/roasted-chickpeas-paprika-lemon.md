@@ -1,6 +1,10 @@
 ---
 title: Roasted Chickpeas
 slug: roasted-chickpeas-paprika-lemon
+benefits:
+  - "Provides about 15 g protein per serving."
+  - "Provides about 12 g dietary fiber per serving."
+  - "Contributes about 61% of the daily value for folate per serving."
 description: >-
   Crispy oven-roasted chickpeas tossed with smoked paprika, garlic, and fresh
   lemon juice.

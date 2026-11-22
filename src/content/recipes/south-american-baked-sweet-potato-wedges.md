@@ -1,6 +1,10 @@
 ---
 title: South American Baked Sweet Potato Wedges
 slug: south-american-baked-sweet-potato-wedges
+benefits:
+  - "Provides about 2 g protein per serving."
+  - "Provides about 4 g dietary fiber per serving."
+  - "Contributes about 18% of the daily value for vitamin C per serving."
 image: "https://upload.wikimedia.org/wikipedia/commons/e/e6/Sesame-roasted_sweet_potato_wedges_with_Brocolli_%283257806891%29.jpg"
 imageAttribution:
   title: "Sesame-roasted sweet potato wedges with Brocolli"

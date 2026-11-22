@@ -1,6 +1,10 @@
 ---
 title: Cantonese Steamed Chicken with Shiitake and Goji Berries
 slug: cantonese-steamed-chicken-shiitake-goji
+benefits:
+  - "Provides about 37 g protein per serving."
+  - "Provides about 3 g dietary fiber per serving."
+  - "Contributes about 17% of the daily value for potassium per serving."
 description: >-
   Gentle, oil-minimal Cantonese steamed chicken breast infused with julienned
   ginger, earthy shiitake mushrooms, antioxidant-rich goji berries, and light

@@ -1,6 +1,10 @@
 ---
 title: Baked Gobi Manchurian
 slug: baked-gobi-manchurian
+benefits:
+  - "Provides about 6.3 g protein per serving."
+  - "Provides about 5 g dietary fiber per serving."
+  - "Contributes about 14% of the daily value for potassium per serving."
 description: >-
   Oven-baked cauliflower in a tangy ginger-garlic tamari glaze, with no deep
   frying.

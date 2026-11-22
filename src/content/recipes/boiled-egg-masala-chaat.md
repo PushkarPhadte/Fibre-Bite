@@ -1,6 +1,10 @@
 ---
 title: Boiled Egg Masala Chaat
 slug: boiled-egg-masala-chaat
+benefits:
+  - "Provides about 13.8 g protein per serving."
+  - "Provides about 1.4 g dietary fiber per serving."
+  - "Contributes about 14% of the daily value for iron per serving."
 description: 'Sliced boiled eggs with onion, tomato, cucumber, lemon and spices.'
 baseServings: 2
 ingredients:

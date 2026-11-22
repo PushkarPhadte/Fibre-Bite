@@ -1,6 +1,10 @@
 ---
 title: Pearl Barley and Mushroom Risotto
 slug: pearl-barley-mushroom-risotto
+benefits:
+  - "Provides about 9.2 g protein per serving."
+  - "Provides about 10.5 g dietary fiber per serving."
+  - "Contributes about 23% of the daily value for vitamin C per serving."
 description: >-
   A creamy, high-fibre risotto-style dish made with pearl barley, mushrooms and
   peas, finished with lemon and parsley.

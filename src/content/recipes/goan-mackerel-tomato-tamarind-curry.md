@@ -1,6 +1,10 @@
 ---
 title: Goan Mackerel Tomato Tamarind Curry
 slug: goan-mackerel-tomato-tamarind-curry
+benefits:
+  - "Provides about 26.9 g protein per serving."
+  - "Provides about 3.4 g dietary fiber per serving."
+  - "Contributes about 18% of the daily value for iron per serving."
 description: 'A tangy Goan-style fish curry with tomato, tamarind and a little coconut.'
 baseServings: 3
 ingredients:

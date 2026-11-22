@@ -1,6 +1,10 @@
 ---
 title: Mexican Ensalada de Nopales (Grilled Cactus Paddle and Tomato Salad)
 slug: mexican-ensalada-de-nopales-cactus-salad
+benefits:
+  - "Provides about 6 g protein per serving."
+  - "Provides about 6 g dietary fiber per serving."
+  - "Contributes about 39% of the daily value for vitamin C per serving."
 description: >-
   Refreshing Oaxacan-style salad of tender charred cactus paddles diced with
   ripe tomatoes, crisp red onion, fresh cilantro, lime juice, and lightly

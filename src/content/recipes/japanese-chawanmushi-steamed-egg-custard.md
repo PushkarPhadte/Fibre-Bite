@@ -1,6 +1,10 @@
 ---
 title: Japanese Chawanmushi (Steamed Egg Custard with Shrimp and Shiitake)
 slug: japanese-chawanmushi-steamed-egg-custard
+benefits:
+  - "Provides about 24 g protein per serving."
+  - "Provides about 1 g dietary fiber per serving."
+  - "Contributes about 26% of the daily value for folate per serving."
 description: >-
   Silky, low-calorie Japanese savory egg custard gently steamed with dashi
   broth, shrimp, fresh shiitake mushrooms, and spinach.
@@ -55,6 +59,7 @@ allergens:
   - eggs
   - shellfish
   - soy
+image: 'https://imgs.search.brave.com/oHyVx3gFIxRepbUhyfKSh8UjExWUgPoBquJ0gK4zPLQ/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/anVzdG9uZWNvb2ti/b29rLmNvbS9zcGFp/L3FfZ2xvc3N5K3Jl/dF9pbWcrdG9fYXV0/by93d3cuanVzdG9u/ZWNvb2tib29rLmNv/bS93cC1jb250ZW50/L3VwbG9hZHMvMjAx/MS8xMi9DaGF3YW5t/dXNoaS13aXRoLVNo/cmltcC02MDB4NDAw/LmpwZw'
 nutrition:
   calories: 187
   protein: 24

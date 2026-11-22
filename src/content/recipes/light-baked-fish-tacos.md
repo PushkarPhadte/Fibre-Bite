@@ -1,6 +1,10 @@
 ---
 title: Light Baked Fish Tacos
 slug: light-baked-fish-tacos
+benefits:
+  - "Provides about 22 g protein per serving."
+  - "Provides about 4 g dietary fiber per serving."
+  - "Contributes about 31% of the daily value for vitamin C per serving."
 image: "https://imgs.search.brave.com/EKBGSfS-VJGrslj5fhmdUNifwtx0ixmJtQ4tQt9C6l8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9oZXJi/c2FuZGZsb3VyLmNv/bS93cC1jb250ZW50/L3VwbG9hZHMvMjAx/OS8xMS9JTUdfMjAx/OTA1MjhfMDc0OTU5/XzM5NC0xMDI0eDEw/MjQuanBn"
 description: >-
   Warm corn tortillas stuffed with baked spiced white fish, shredded cabbage

@@ -1,6 +1,10 @@
 ---
 title: Ragi Mudde with Spinach Saaru
 slug: ragi-mudde-with-spinach-saaru
+benefits:
+  - "Provides about 8.7 g protein per serving."
+  - "Provides about 9.2 g dietary fiber per serving."
+  - "Contributes about 46% of the daily value for folate per serving."
 description: >-
   Karnataka's finger millet balls served with a thin, tangy toor dal and spinach
   saaru: a calcium-rich, satisfying meal.

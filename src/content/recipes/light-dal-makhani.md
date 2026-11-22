@@ -1,6 +1,10 @@
 ---
 title: Light Dal Makhani
 slug: light-dal-makhani
+benefits:
+  - "Provides about 11.7 g protein per serving."
+  - "Provides about 9.6 g dietary fiber per serving."
+  - "Contributes about 30% of the daily value for folate per serving."
 description: >-
   Slow-simmered whole black urad and kidney beans in a tomato-ginger gravy with
   just a spoon of ghee and a splash of milk instead of cream.
@@ -70,6 +74,7 @@ dietaryTags:
   - high-fiber
 allergens:
   - milk
+image: 'https://imgs.search.brave.com/vuUoa9T7Rnp11xCYg0EoN0F_I0dQ9DXWRsDCZTMi5-c/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90NC5m/dGNkbi5uZXQvanBn/LzA5LzU4LzEzLzM5/LzM2MF9GXzk1ODEz/MzkzMF9TeHlPeGFM/WjFlYUxSNFN6VEZC/ZWtjTUZmblBvR0Nx/Ri5qcGc'
 nutrition:
   calories: 200
   protein: 11.7

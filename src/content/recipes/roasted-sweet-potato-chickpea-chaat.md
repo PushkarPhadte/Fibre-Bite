@@ -1,6 +1,10 @@
 ---
 title: Roasted Sweet Potato Chickpea Chaat
 slug: roasted-sweet-potato-chickpea-chaat
+benefits:
+  - "Provides about 7.2 g protein per serving."
+  - "Provides about 8.6 g dietary fiber per serving."
+  - "Contributes about 16% of the daily value for iron per serving."
 description: 'Oven-roasted sweet potato tossed with chickpeas, onion, tomato, mint and lime.'
 baseServings: 3
 ingredients:

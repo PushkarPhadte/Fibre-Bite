@@ -1,6 +1,10 @@
 ---
 title: Spanish Gazpacho (Cold Tomato Soup)
 slug: spanish-gazpacho
+benefits:
+  - "Provides about 2 g protein per serving."
+  - "Provides about 3 g dietary fiber per serving."
+  - "Contributes about 50% of the daily value for vitamin C per serving."
 description: >-
   A chilled Andalusian raw vegetable soup blended from ripe tomatoes, cucumbers,
   bell peppers, garlic, and extra virgin olive oil.

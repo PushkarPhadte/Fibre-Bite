@@ -10,6 +10,11 @@ The importer converts a JSON array of recipes into individual Markdown files in 
     "title": "Roasted Chickpeas",
     "slug": "roasted-chickpeas",
     "description": "Crispy chickpeas with smoked paprika and lemon.",
+    "benefits": [
+      "Provides about 14 g protein per serving.",
+      "Provides about 11 g dietary fiber per serving.",
+      "Contributes about 16% of the daily value for iron per serving."
+    ],
     "translations": {
       "hi": {
         "title": "कुरकुरे छोले",
@@ -77,7 +82,8 @@ This example shows the complete set of supported fields. Its nutrition numbers a
 - `title`: required, non-empty recipe name.
 - `slug`: required, unique lowercase letters, numbers, and hyphens; used for the filename and recipe URL.
 - `description`: optional text.
-- `translations`: optional object keyed by `en`, `hi`, or `mr`. Each language may provide `title`, `description`, `instructions`, `benefits`, and additional `content`; missing fields fall back to English. Instructions use the same sequential numbering rules as the shared `instructions` field.
+- `benefits`: required non-empty array of nutrition highlights for one serving. Keep statements grounded in the recipe's nutrition estimates and avoid medical promises.
+- `translations`: optional object keyed by `en`, `hi`, or `mr`. Each language may provide `title`, `description`, `instructions`, `benefits`, and additional `content`; localized benefits override the recipe-level list, while other missing fields fall back to English. Instructions use the same sequential numbering rules as the shared `instructions` field.
 - `baseServings`: required positive number that the ingredient quantities describe.
 - `ingredients`: required non-empty array. Each item has a non-empty `name`, optional `canonicalId` from the ingredient dictionary, non-negative numeric `baseAmount`, non-empty `unit`, and optional boolean `optional`. For ingredients measured by taste, use `baseAmount: 0` and `unit: "to taste"`.
 - `instructions`: required non-empty array. Each item has a positive `number` starting at 1 with no gaps, and non-empty `text`.

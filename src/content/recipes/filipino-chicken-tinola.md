@@ -1,6 +1,10 @@
 ---
 title: Filipino Chicken Tinola
 slug: filipino-chicken-tinola
+benefits:
+  - "Provides about 23.7 g protein per serving."
+  - "Provides about 2.4 g dietary fiber per serving."
+  - "Contributes about 13% of the daily value for potassium per serving."
 description: 'A clear ginger broth with chicken, green papaya and leafy greens.'
 baseServings: 4
 ingredients:

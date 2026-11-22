@@ -1,6 +1,10 @@
 ---
 title: Beetroot Apple Ginger Smoothie
 slug: beetroot-apple-ginger-smoothie
+benefits:
+  - "Provides about 8.8 g protein per serving."
+  - "Provides about 3.5 g dietary fiber per serving."
+  - "Contributes about 8% of the daily value for potassium per serving."
 description: >-
   A vivid, naturally sweet smoothie of cooked beetroot, apple and ginger with
   Greek yogurt.

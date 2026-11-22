@@ -1,6 +1,10 @@
 ---
 title: Roasted Vegetable Chickpea Buddha Bowl
 slug: roasted-vegetable-chickpea-buddha-bowl
+benefits:
+  - "Provides about 17 g protein per serving."
+  - "Provides about 14.4 g dietary fiber per serving."
+  - "Contributes about 33% of the daily value for iron per serving."
 description: >-
   Roasted sweet potato and broccoli with chickpeas and quinoa, finished with
   lemon-tahini dressing.

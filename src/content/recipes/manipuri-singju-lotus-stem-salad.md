@@ -1,6 +1,10 @@
 ---
 title: 'Manipuri Singju (Lotus Stem, Cabbage, and Roasted Sesame Salad)'
 slug: manipuri-singju-lotus-stem-salad
+benefits:
+  - "Provides about 6 g protein per serving."
+  - "Provides about 7 g dietary fiber per serving."
+  - "Contributes about 62% of the daily value for vitamin C per serving."
 description: >-
   Crunchy, oil-free Northeastern Indian salad tossing thinly shaved lotus stem,
   green cabbage, red onion, roasted chickpea powder, and toasted sesame seeds

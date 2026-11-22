@@ -1,6 +1,10 @@
 ---
 title: Korean Kongguksu (Chilled Soymilk Buckwheat Noodle Soup)
 slug: korean-chilled-soymilk-noodle-soup
+benefits:
+  - "Provides about 30 g protein per serving."
+  - "Provides about 8 g dietary fiber per serving."
+  - "Contributes about 61% of the daily value for calcium per serving."
 description: >-
   Cooling summer Korean plant-protein bowl featuring 100% buckwheat soba noodles
   bathed in a creamy chilled soymilk and toasted sesame broth.
@@ -53,6 +57,7 @@ dietaryTags:
 allergens:
   - sesame
   - soy
+image: 'https://imgs.search.brave.com/vH5qcgw3A1jVmmNAQFxxJToqYptqr829Zukox5EhbV0/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/dHJpZm9vZC5jb20v/aW1hZ2UvZm9vZC9r/b25nZ3Vrc3UuanBn'
 nutrition:
   calories: 460
   protein: 30

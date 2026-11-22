@@ -1,6 +1,10 @@
 ---
 title: Baked Turkey Tenderloin with Sage and Cranberries
 slug: baked-turkey-tenderloin-sage-cranberries
+benefits:
+  - "Provides about 34 g protein per serving."
+  - "Provides about 1 g dietary fiber per serving."
+  - "Contributes about 10% of the daily value for iron per serving."
 description: >-
   Lean turkey tenderloin roasted with fresh sage and tart whole cranberries for
   a savory, low-fat main.

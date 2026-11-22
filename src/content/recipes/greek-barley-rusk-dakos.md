@@ -1,6 +1,10 @@
 ---
 title: Cretan Dakos (Whole-Barley Rusk with Grated Tomato and Feta)
 slug: greek-barley-rusk-dakos
+benefits:
+  - "Provides about 13 g protein per serving."
+  - "Provides about 9 g dietary fiber per serving."
+  - "Contributes about 23% of the daily value for vitamin C per serving."
 description: >-
   Traditional Cretan Mediterranean meal of crunchy whole-grain barley rusks
   softened with juicy grated ripe tomato, extra-virgin olive oil, reduced-fat
@@ -47,6 +51,7 @@ dietaryTags:
   - high-fiber
 allergens:
   - milk
+image: 'https://imgs.search.brave.com/MRsC09ry4WgZ8JP8C8bTc-AMJKEhogaxdLWsl7d3ahM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90aGVn/cmVla2Zvb2RpZS5j/b20vd3AtY29udGVu/dC91cGxvYWRzLzIw/MjMvMDQvRGFrb3Nf/U1EuanBn'
 nutrition:
   calories: 337
   protein: 13

@@ -1,6 +1,10 @@
 ---
 title: Classic French Onion Soup (Light Version)
 slug: classic-french-onion-soup
+benefits:
+  - "Provides about 8 g protein per serving."
+  - "Provides about 3.5 g dietary fiber per serving."
+  - "Contributes about 16% of the daily value for calcium per serving."
 description: >-
   Rich, deeply caramelized onions simmered in savory broth, topped with a whole
   wheat crostini and melted Swiss cheese.

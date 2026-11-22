@@ -1,6 +1,10 @@
 ---
 title: Soto Ayam (Indonesian Turmeric Chicken Soup)
 slug: soto-ayam-indonesian-turmeric-chicken-soup
+benefits:
+  - "Provides about 19.5 g protein per serving."
+  - "Provides about 1.3 g dietary fiber per serving."
+  - "Contributes about 13% of the daily value for iron per serving."
 description: >-
   Golden turmeric and lemongrass chicken broth with bean sprouts and boiled egg,
   in the style of Java's soto ayam.

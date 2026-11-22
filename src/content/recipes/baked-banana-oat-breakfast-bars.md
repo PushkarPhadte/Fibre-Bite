@@ -1,6 +1,10 @@
 ---
 title: Baked Banana Oat Breakfast Bars
 slug: baked-banana-oat-breakfast-bars
+benefits:
+  - "Provides about 7.3 g protein per serving."
+  - "Provides about 5.2 g dietary fiber per serving."
+  - "Contributes about 9% of the daily value for iron per serving."
 description: 'Soft baked bars of oats, banana and peanut butter with no added sugar.'
 baseServings: 6
 ingredients:
@@ -38,6 +42,7 @@ dietaryTags:
 allergens:
   - eggs
   - peanuts
+image: 'https://imgs.search.brave.com/sdVVkB-ivH8_qXT157bW-C6Vh01dNv_Dx3uLIrzY3oY/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9ub2Js/ZXBpZy5jb20vc2l0/ZS93cC1jb250ZW50/L3VwbG9hZHMvMjAy/Mi8wNy9CYWtlZC1P/YXRtZWFsLUJhcnMt/Ny5qcGc'
 nutrition:
   calories: 204
   protein: 7.3

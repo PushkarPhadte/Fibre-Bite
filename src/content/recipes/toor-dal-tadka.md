@@ -1,6 +1,10 @@
 ---
 title: Toor Dal Tadka
 slug: toor-dal-tadka
+benefits:
+  - "Provides about 7.5 g protein per serving."
+  - "Provides about 5.6 g dietary fiber per serving."
+  - "Contributes about 13% of the daily value for iron per serving."
 description: Yellow pigeon pea dal finished with a cumin-garlic tadka.
 baseServings: 4
 ingredients:

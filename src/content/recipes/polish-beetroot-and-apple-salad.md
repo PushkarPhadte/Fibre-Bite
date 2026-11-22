@@ -1,6 +1,10 @@
 ---
 title: Polish Beetroot and Apple Salad
 slug: polish-beetroot-and-apple-salad
+benefits:
+  - "Provides about 1.5 g protein per serving."
+  - "Provides about 4 g dietary fiber per serving."
+  - "Contributes about 16% of the daily value for folate per serving."
 description: >-
   A crisp, colorful Polish salad combining shredded cooked beets, tart apples,
   lemon juice, and cold-pressed oil.

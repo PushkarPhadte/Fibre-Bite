@@ -1,6 +1,10 @@
 ---
 title: Hung Curd and Vegetable Whole-Wheat Sandwich
 slug: hung-curd-vegetable-whole-wheat-sandwich
+benefits:
+  - "Provides about 14.5 g protein per serving."
+  - "Provides about 5.4 g dietary fiber per serving."
+  - "Contributes about 34% of the daily value for vitamin C per serving."
 description: >-
   A crunchy cold sandwich with thick strained curd, cucumber, carrot and mint on
   whole-wheat bread, with no butter or mayonnaise.
@@ -54,6 +58,7 @@ dietaryTags:
 allergens:
   - milk
   - wheat
+image: 'https://imgs.search.brave.com/d9JUcI03inxQ4njBdZlIyLnoTrfGSX1iZoAmscnrp-4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93aGF0/b2Nvb2suY29tL3dw/LWNvbnRlbnQvdXBs/b2Fkcy8yMDI2LzAx/L0h1bmctQ3VyZC1T/YW5kd2ljaC0yLnBu/Zw'
 nutrition:
   calories: 222
   protein: 14.5

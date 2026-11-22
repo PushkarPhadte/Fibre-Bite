@@ -1,6 +1,10 @@
 ---
 title: Ragi Roti with Carrot and Coriander
 slug: ragi-roti-with-carrot-and-coriander
+benefits:
+  - "Provides about 4.2 g protein per serving."
+  - "Provides about 2.9 g dietary fiber per serving."
+  - "Contributes about 13% of the daily value for iron per serving."
 description: >-
   Finger millet flatbreads with grated carrot, onion and coriander, cooked on a
   griddle.

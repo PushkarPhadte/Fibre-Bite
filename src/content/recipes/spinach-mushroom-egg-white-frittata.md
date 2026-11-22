@@ -1,6 +1,10 @@
 ---
 title: Spinach Mushroom Egg White Frittata
 slug: spinach-mushroom-egg-white-frittata
+benefits:
+  - "Provides about 18 g protein per serving."
+  - "Provides about 1 g dietary fiber per serving."
+  - "Contributes about 11% of the daily value for vitamin C per serving."
 image: "https://upload.wikimedia.org/wikipedia/commons/1/12/Frittata_slice.jpg"
 imageAttribution:
   title: "Frittata slice"

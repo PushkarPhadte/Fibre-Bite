@@ -1,6 +1,10 @@
 ---
 title: Whole Wheat Spaghetti with Garlic Broccoli and Chickpeas
 slug: whole-wheat-spaghetti-with-garlic-broccoli-and-chickpeas
+benefits:
+  - "Provides about 17.2 g protein per serving."
+  - "Provides about 12.2 g dietary fiber per serving."
+  - "Contributes about 23% of the daily value for iron per serving."
 description: >-
   Whole wheat spaghetti tossed with garlicky broccoli, chickpeas, lemon and
   chilli.

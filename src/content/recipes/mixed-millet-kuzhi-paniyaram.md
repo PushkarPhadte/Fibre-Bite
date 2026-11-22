@@ -1,6 +1,10 @@
 ---
 title: Mixed Millet Kuzhi Paniyaram
 slug: mixed-millet-kuzhi-paniyaram
+benefits:
+  - "Provides about 5.6 g protein per serving."
+  - "Provides about 4.5 g dietary fiber per serving."
+  - "Contributes about 13% of the daily value for magnesium per serving."
 description: >-
   Fermented millet and urad dumplings cooked in a paniyaram pan with very little
   oil, with onion, carrot and curry leaves.
@@ -65,6 +69,7 @@ dietaryTags:
   - vegan
   - gluten-free
 allergens: []
+image: 'https://imgs.search.brave.com/FnpGbzZxzgCS9hUCO1ex_RAqDJozhl-qmcB2DNf-Pkg/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/d2hpc2thZmZhaXIu/Y29tL3dwLWNvbnRl/bnQvdXBsb2Fkcy8y/MDE1LzA4L0t1emhp/LVBhbml5YXJhbS0y/LTEtMTIwMHgxODAw/LmpwZw'
 nutrition:
   calories: 167
   protein: 5.6

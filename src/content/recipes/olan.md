@@ -1,6 +1,10 @@
 ---
 title: Olan (Kerala White Gourd and Cowpeas Curry)
 slug: olan
+benefits:
+  - "Provides about 3.2 g protein per serving."
+  - "Provides about 3.5 g dietary fiber per serving."
+  - "Contributes about 20% of the daily value for vitamin C per serving."
 image: "https://images.unsplash.com/photo-1722698030083-75d1d50cabe4?auto=format&fit=crop&w=1200&q=80"
 description: >-
   A soothing, light Kerala curry made with ash gourd, red cowpeas, fresh coconut

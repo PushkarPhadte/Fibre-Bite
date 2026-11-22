@@ -1,6 +1,10 @@
 ---
 title: Goan Tambdi Bhaji (Red Amaranth Greens with Coconut)
 slug: goan-tambdi-bhaji-red-amaranth
+benefits:
+  - "Provides about 5 g protein per serving."
+  - "Provides about 5 g dietary fiber per serving."
+  - "Contributes about 80% of the daily value for vitamin C per serving."
 description: >-
   Nutrient-dense Goan sauté of crimson amaranth leaves with crushed garlic,
   sweet onion, and freshly grated coconut.
@@ -54,6 +58,7 @@ dietaryTags:
   - low-carb
   - keto
 allergens: []
+image: 'https://imgs.search.brave.com/JdtOc6dRJfOd5y8DE6PiT096J9Pc3B63qo1uFlbclAs/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9kZWxp/Y2lvdXNtZW1vcmll/c3dpdGhhbHZlcy53/b3JkcHJlc3MuY29t/L3dwLWNvbnRlbnQv/dXBsb2Fkcy8yMDE2/LzA5L3RhbWJkaS1i/aGFqaS5qcGc_dz0x/MDAw'
 nutrition:
   calories: 136
   protein: 5

@@ -1,6 +1,10 @@
 ---
 title: Thai Coconut Tom Yum Vegetable Soup
 slug: thai-coconut-tom-yum-vegetable-soup
+benefits:
+  - "Provides about 2.5 g protein per serving."
+  - "Provides about 2 g dietary fiber per serving."
+  - "Contributes about 24% of the daily value for vitamin C per serving."
 image: "https://upload.wikimedia.org/wikipedia/commons/8/8a/Tom_Yum_%28Hot_%26_Sour_Soup%29_with_Tofu_-_Thai_Pad_Thai_2025-12-03.jpg"
 description: >-
   A fragrant Thai hot-and-sour soup simmered with lemongrass, galangal, kaffir

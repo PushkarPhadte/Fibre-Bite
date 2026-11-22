@@ -1,6 +1,10 @@
 ---
 title: Baked Paneer-Stuffed Capsicum
 slug: baked-paneer-stuffed-capsicum
+benefits:
+  - "Provides about 11.8 g protein per serving."
+  - "Provides about 4.1 g dietary fiber per serving."
+  - "Contributes about 187% of the daily value for vitamin C per serving."
 description: >-
   Whole bell peppers filled with crumbled paneer, peas, tomato and warm spices
   and baked until the peppers are tender.

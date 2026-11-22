@@ -26,6 +26,7 @@ function makeRecipe(translations?: Recipe['translations']): Recipe {
 		slug: 'test-recipe',
 		title: 'Coriander salad',
 		description: 'A fresh salad.',
+		benefits: ['Provides dietary fiber.'],
 		baseServings: 2,
 		ingredients: [{ name: 'cilantro', baseAmount: 1, unit: 'cup' }],
 		instructions: [{ number: 1, text: 'Mix the ingredients.' }],
@@ -76,7 +77,7 @@ test('falls back field by field to English and existing recipe fields', () => {
 		title: 'धनिया सलाद',
 		description: 'A fresh salad.',
 		instructions: [{ number: 1, text: 'Mix the ingredients.' }],
-		benefits: undefined,
+		benefits: ['Provides dietary fiber.'],
 		content: undefined
 	});
 	assert.equal(getRecipeText(recipe, 'mr').title, 'Coriander salad');

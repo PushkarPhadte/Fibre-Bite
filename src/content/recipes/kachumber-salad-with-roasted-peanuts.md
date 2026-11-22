@@ -1,6 +1,10 @@
 ---
 title: Kachumber Salad with Roasted Peanuts
 slug: kachumber-salad-with-roasted-peanuts
+benefits:
+  - "Provides about 5.9 g protein per serving."
+  - "Provides about 3.9 g dietary fiber per serving."
+  - "Contributes about 13% of the daily value for potassium per serving."
 description: 'A crunchy Indian cucumber, tomato and onion salad topped with roasted peanuts.'
 baseServings: 2
 ingredients:

@@ -1,6 +1,10 @@
 ---
 title: Buckwheat and Roasted Brussels Sprouts Bowl
 slug: buckwheat-roasted-brussels-sprouts-bowl
+benefits:
+  - "Provides about 15 g protein per serving."
+  - "Provides about 13 g dietary fiber per serving."
+  - "Contributes about 124% of the daily value for vitamin C per serving."
 description: >-
   Toasted buckwheat groats served with roasted Brussels sprouts, toasted pumpkin
   seeds, and apple cider vinaigrette.

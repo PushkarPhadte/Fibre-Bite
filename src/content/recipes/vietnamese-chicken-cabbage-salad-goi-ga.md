@@ -1,6 +1,10 @@
 ---
 title: Vietnamese Chicken and Cabbage Salad (Goi Ga)
 slug: vietnamese-chicken-cabbage-salad-goi-ga
+benefits:
+  - "Provides about 20.2 g protein per serving."
+  - "Provides about 3.7 g dietary fiber per serving."
+  - "Contributes about 44% of the daily value for vitamin C per serving."
 description: >-
   Poached shredded chicken tossed with cabbage, carrot, herbs and roasted
   peanuts in a sharp lime and garlic dressing.

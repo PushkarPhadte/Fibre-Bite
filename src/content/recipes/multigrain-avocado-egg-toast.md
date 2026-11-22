@@ -1,6 +1,10 @@
 ---
 title: Multigrain Avocado and Egg Toast
 slug: multigrain-avocado-egg-toast
+benefits:
+  - "Provides about 15.8 g protein per serving."
+  - "Provides about 8.5 g dietary fiber per serving."
+  - "Contributes about 28% of the daily value for folate per serving."
 description: >-
   Toasted multigrain bread topped with mashed avocado, tomato and a soft-boiled
   egg, finished with pumpkin seeds.
@@ -55,6 +59,7 @@ dietaryTags:
 allergens:
   - eggs
   - wheat
+image: 'https://imgs.search.brave.com/4UoUZS1u_mW8qCIwqL9vHG-k0VnfouEDhfRVp6h4kpg/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/ZXZlcnlkYXllaWxl/ZW4uY29tL3dwLWNv/bnRlbnQvdXBsb2Fk/cy8yMDE2LzAyL0lN/R185MzI4X2VkaXRl/ZC0yLmpwZw'
 nutrition:
   calories: 345
   protein: 15.8

@@ -1,6 +1,10 @@
 ---
 title: Spinach Banana Almond Smoothie
 slug: spinach-banana-almond-smoothie
+benefits:
+  - "Provides about 8.5 g protein per serving."
+  - "Provides about 5.1 g dietary fiber per serving."
+  - "Contributes about 15% of the daily value for potassium per serving."
 description: 'A green smoothie with spinach, banana, almond butter and chia seeds.'
 baseServings: 2
 ingredients:
@@ -34,6 +38,7 @@ dietaryTags:
 allergens:
   - milk
   - tree-nuts
+image: 'https://imgs.search.brave.com/QRQ_qBnE3Cr220keB-ZvrCzQXTFt2CaiiCiJZJibPAk/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/amFyb2ZsZW1vbnMu/Y29tL3dwLWNvbnRl/bnQvdXBsb2Fkcy8y/MDIyLzA0L1NwaW5h/Y2gtQmFuYW5hLVNt/b290aGllLTItNTUw/eDQ2MC5qcGc'
 nutrition:
   calories: 198
   protein: 8.5

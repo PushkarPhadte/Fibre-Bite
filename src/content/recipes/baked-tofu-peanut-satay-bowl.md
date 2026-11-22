@@ -1,6 +1,10 @@
 ---
 title: Baked Tofu Peanut Satay Bowl
 slug: baked-tofu-peanut-satay-bowl
+benefits:
+  - "Provides about 17 g protein per serving."
+  - "Provides about 6 g dietary fiber per serving."
+  - "Contributes about 19% of the daily value for iron per serving."
 description: >-
   Crispy baked tofu served over quinoa and shredded cabbage with a rich homemade
   peanut satay sauce.

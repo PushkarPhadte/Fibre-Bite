@@ -1,6 +1,10 @@
 ---
 title: Rajma with Brown Rice
 slug: rajma-brown-rice
+benefits:
+  - "Provides about 19 g protein per serving."
+  - "Provides about 17 g dietary fiber per serving."
+  - "Contributes about 68% of the daily value for folate per serving."
 description: >-
   A balanced North Indian kidney bean curry served with fiber-rich brown rice
   and fresh cilantro.

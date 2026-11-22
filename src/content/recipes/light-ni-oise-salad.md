@@ -1,6 +1,10 @@
 ---
 title: Light Niçoise Salad
 slug: light-ni-oise-salad
+benefits:
+  - "Provides about 24 g protein per serving."
+  - "Provides about 4.3 g dietary fiber per serving."
+  - "Contributes about 22% of the daily value for potassium per serving."
 description: >-
   Baby potatoes, green beans, seared fresh tuna and boiled egg with a
   lemon-olive oil dressing.

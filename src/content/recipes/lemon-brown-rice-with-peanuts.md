@@ -1,6 +1,10 @@
 ---
 title: Lemon Brown Rice with Peanuts
 slug: lemon-brown-rice-with-peanuts
+benefits:
+  - "Provides about 6.1 g protein per serving."
+  - "Provides about 2.6 g dietary fiber per serving."
+  - "Contributes about 7% of the daily value for iron per serving."
 description: >-
   South Indian-style lemon rice made with brown rice, peanuts, mustard and curry
   leaves.
@@ -47,6 +51,7 @@ dietaryTags:
   - gluten-free
 allergens:
   - peanuts
+image: 'https://imgs.search.brave.com/z4bAxk4CHu-yDmtzBNTAvg-SblTG0oNAcklHPh8enrw/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuMTc3bWlsa3N0/cmVldC5jb20vcHJv/ZHVjdGlvbi83YzY1/Zjk4OGU2NzNkOGRl/YmY1NGMzM2E2YjYz/MmU1NmU3NzJhY2My/LTc5NTd4NTMwNy5q/cGc_dz0zODQwJmg9/MjU2MSZxPTgwJmF1/dG89Zm9ybWF0JmZp/dD1tYXg'
 nutrition:
   calories: 255
   protein: 6.1

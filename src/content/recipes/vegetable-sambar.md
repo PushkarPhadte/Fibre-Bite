@@ -1,6 +1,10 @@
 ---
 title: Vegetable Sambar
 slug: vegetable-sambar
+benefits:
+  - "Provides about 15 g protein per serving."
+  - "Provides about 12 g dietary fiber per serving."
+  - "Contributes about 39% of the daily value for folate per serving."
 description: >-
   A tangy South Indian lentil stew with toor dal, drumstick, pumpkin, tomato,
   and tamarind.

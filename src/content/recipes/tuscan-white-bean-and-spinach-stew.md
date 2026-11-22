@@ -1,6 +1,10 @@
 ---
 title: Tuscan White Bean and Spinach Stew
 slug: tuscan-white-bean-and-spinach-stew
+benefits:
+  - "Provides about 10 g protein per serving."
+  - "Provides about 8 g dietary fiber per serving."
+  - "Contributes about 23% of the daily value for folate per serving."
 image: "https://images.unsplash.com/photo-1617521583527-10229bcc2639?auto=format&fit=crop&w=1200&q=80"
 description: >-
   A comforting Italian stew of creamy cannellini beans cooked with fresh

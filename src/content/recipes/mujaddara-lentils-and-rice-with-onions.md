@@ -1,6 +1,10 @@
 ---
 title: Mujaddara Lentils and Rice with Onions
 slug: mujaddara-lentils-and-rice-with-onions
+benefits:
+  - "Provides about 12.5 g protein per serving."
+  - "Provides about 6.5 g dietary fiber per serving."
+  - "Contributes about 23% of the daily value for iron per serving."
 description: >-
   The Levantine classic of brown lentils and brown rice topped with slow-browned
   onions.
@@ -47,6 +51,7 @@ dietaryTags:
   - vegan
   - gluten-free
 allergens: []
+image: 'https://imgs.search.brave.com/SG7eb8mCWY8KpbGqbTwibM6DNd8XRYlpsP1PRRQiNRQ/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/c2FuaXR5LmlvL2lt/YWdlcy9vbXZuMG8y/bC9wcm9kdWN0aW9u/LzIwOGMyN2EyMWM5/ZTg0MDQ0ZTM4N2Ni/OWFiM2Q2Mjc2MjBl/ZTkxY2YtMTUzNngx/MDI0LnBuZz93PTE5/MjAmcT03NSZhdXRv/PWZvcm1hdCZmaXQ9/bWF4'
 nutrition:
   calories: 295
   protein: 12.5

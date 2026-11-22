@@ -1,6 +1,10 @@
 ---
 title: Goan Tendli Cashew Bhaji (Ivy Gourd Stir-Fry)
 slug: goan-tendli-cashew-stir-fry
+benefits:
+  - "Provides about 5 g protein per serving."
+  - "Provides about 5 g dietary fiber per serving."
+  - "Contributes about 24% of the daily value for vitamin C per serving."
 description: >-
   Crisp coastal Goan stir-fry of sliced ivy gourd and tender soaked cashews
   seasoned with mustard seeds, kokum, and freshly grated coconut.
@@ -69,6 +73,7 @@ dietaryTags:
   - keto
 allergens:
   - tree-nuts
+image: 'https://imgs.search.brave.com/FF5WuuOtiEjZMEeh-39BMf9FbJJvPdrLqvF9BAm2-pY/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/cmVjaXBlczE4LmNv/bS93cC1jb250ZW50/L3VwbG9hZHMvMjAx/OC8wNi9nb2FuLXRl/bmRsaS1iaGFqaS5q/cGc'
 nutrition:
   calories: 189
   protein: 5

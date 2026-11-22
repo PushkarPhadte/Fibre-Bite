@@ -1,6 +1,10 @@
 ---
 title: Adai (South Indian Mixed Lentil Pancakes)
 slug: adai-south-indian-mixed-lentil-pancakes
+benefits:
+  - "Provides about 8.9 g protein per serving."
+  - "Provides about 6.2 g dietary fiber per serving."
+  - "Contributes about 42% of the daily value for folate per serving."
 description: >-
   Crisp, protein-rich Tamil pancakes made from rice and four lentils, with
   onion, ginger and curry leaves.

@@ -1,6 +1,10 @@
 ---
 title: Japanese Salmon Ochazuke (Green Tea Over Brown Rice with Flaked Salmon)
 slug: japanese-salmon-ochazuke-green-tea-rice
+benefits:
+  - "Provides about 30 g protein per serving."
+  - "Provides about 4 g dietary fiber per serving."
+  - "Contributes about 61% of the daily value for vitamin D per serving."
 description: >-
   Restorative Japanese bowl pouring freshly brewed antioxidant-rich sencha green
   tea over nutty brown rice, oven-flaked wild salmon, toasted nori strips,

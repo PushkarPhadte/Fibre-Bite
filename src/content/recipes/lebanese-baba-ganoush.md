@@ -1,6 +1,10 @@
 ---
 title: Lebanese Baba Ganoush (Eggplant Dip)
 slug: lebanese-baba-ganoush
+benefits:
+  - "Provides about 2.5 g protein per serving."
+  - "Provides about 4 g dietary fiber per serving."
+  - "Contributes about 9% of the daily value for vitamin C per serving."
 description: >-
   Smoky roasted eggplant dip blended with tahini, garlic, lemon juice, and extra
   virgin olive oil.

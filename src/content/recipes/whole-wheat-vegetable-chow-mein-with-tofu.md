@@ -1,6 +1,10 @@
 ---
 title: Whole-Wheat Vegetable Chow Mein with Tofu
 slug: whole-wheat-vegetable-chow-mein-with-tofu
+benefits:
+  - "Provides about 16.2 g protein per serving."
+  - "Provides about 9.3 g dietary fiber per serving."
+  - "Contributes about 57% of the daily value for vitamin C per serving."
 description: >-
   A quick stir-fry of whole-wheat noodles, crunchy vegetables and golden tofu in
   a garlicky tamari sauce, with far less oil than takeaway.

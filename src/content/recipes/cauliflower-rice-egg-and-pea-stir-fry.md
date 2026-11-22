@@ -1,6 +1,10 @@
 ---
 title: Cauliflower Rice Egg and Pea Stir-Fry
 slug: cauliflower-rice-egg-and-pea-stir-fry
+benefits:
+  - "Provides about 11.5 g protein per serving."
+  - "Provides about 5.2 g dietary fiber per serving."
+  - "Contributes about 14% of the daily value for potassium per serving."
 description: >-
   A low-carb stir-fry of riced cauliflower with scrambled egg, peas and spring
   onion.

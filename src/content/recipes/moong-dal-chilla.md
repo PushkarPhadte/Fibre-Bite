@@ -1,6 +1,10 @@
 ---
 title: Moong Dal Chilla
 slug: moong-dal-chilla
+benefits:
+  - "Provides about 14 g protein per serving."
+  - "Provides about 8 g dietary fiber per serving."
+  - "Contributes about 26% of the daily value for folate per serving."
 description: >-
   Savory North Indian split-moong pancakes with ginger, cumin, and cilantro for
   a protein-rich breakfast.

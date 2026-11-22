@@ -1,6 +1,10 @@
 ---
 title: Lemon Chicken Piccata
 slug: lemon-chicken-piccata
+benefits:
+  - "Provides about 34.8 g protein per serving."
+  - "Provides about 0.9 g dietary fiber per serving."
+  - "Contributes about 12% of the daily value for potassium per serving."
 description: >-
   Pan-seared chicken breast cutlets in a lemon-parsley pan sauce with no capers
   or cream.

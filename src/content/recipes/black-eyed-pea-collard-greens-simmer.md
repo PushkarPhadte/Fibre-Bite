@@ -1,6 +1,10 @@
 ---
 title: Black-Eyed Pea and Collard Greens Simmer
 slug: black-eyed-pea-collard-greens-simmer
+benefits:
+  - "Provides about 10 g protein per serving."
+  - "Provides about 9 g dietary fiber per serving."
+  - "Contributes about 61% of the daily value for folate per serving."
 description: >-
   Hearty black-eyed peas simmered with chopped collard greens, garlic, smoked
   paprika, and tomato.

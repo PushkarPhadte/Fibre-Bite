@@ -1,6 +1,10 @@
 ---
 title: Pinto Bean and Roasted Poblano Skillet
 slug: pinto-bean-roasted-poblano-skillet
+benefits:
+  - "Provides about 12 g protein per serving."
+  - "Provides about 11 g dietary fiber per serving."
+  - "Contributes about 64% of the daily value for vitamin C per serving."
 description: >-
   Savory pinto beans simmered with roasted poblano peppers, red onion, cumin,
   and fresh cilantro.

@@ -1,6 +1,10 @@
 ---
 title: Spanakorizo Greek Spinach Rice
 slug: spanakorizo-greek-spinach-rice
+benefits:
+  - "Provides about 6.4 g protein per serving."
+  - "Provides about 4.2 g dietary fiber per serving."
+  - "Contributes about 22% of the daily value for iron per serving."
 description: 'A lemony Greek one-pot of spinach, brown rice, dill and spring onion.'
 baseServings: 4
 ingredients:

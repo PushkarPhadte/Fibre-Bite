@@ -1,6 +1,10 @@
 ---
 title: Thai Red Curry Tofu with Jasmine Rice
 slug: thai-red-curry-tofu-with-jasmine-rice
+benefits:
+  - "Provides about 12 g protein per serving."
+  - "Provides about 4 g dietary fiber per serving."
+  - "Contributes about 61% of the daily value for vitamin C per serving."
 image: "https://upload.wikimedia.org/wikipedia/commons/9/98/Red_curry_with_tofu%2C_egg_fried_rice_-_Little_Thai_2024-07-21.jpg"
 description: >-
   Crispy tofu and mixed vegetables simmered in aromatic Thai red curry paste and

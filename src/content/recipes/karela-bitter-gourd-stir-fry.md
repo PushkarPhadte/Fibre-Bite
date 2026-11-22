@@ -1,6 +1,10 @@
 ---
 title: Karela Bitter Gourd Stir-Fry
 slug: karela-bitter-gourd-stir-fry
+benefits:
+  - "Provides about 2.2 g protein per serving."
+  - "Provides about 5 g dietary fiber per serving."
+  - "Contributes about 11% of the daily value for potassium per serving."
 description: >-
   A well-spiced bitter gourd and onion stir-fry cooked until tender with lemon
   to balance the bitterness.
@@ -48,6 +52,7 @@ dietaryTags:
   - gluten-free
   - low-carb
 allergens: []
+image: 'https://imgs.search.brave.com/fF6n0i9YEuJOJCp_1tl4j_VVLx0xA_zSN7wl_NaIaOg/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9hbGl0/dGxlYml0b2ZzcGlj/ZS5jb20vd3AtY29u/dGVudC91cGxvYWRz/LzIwMTgvMDIvYml0/dGVyLWdvdXJkLWZy/eS1wYWF2YWtrYS1r/YWthcmFrYXlhLWth/cmVsYS1mcnktcmVj/aXBlLWxhbmRzY2Fw/ZS0xLTM2MHgzNjAu/anBn'
 nutrition:
   calories: 90
   protein: 2.2

@@ -1,6 +1,10 @@
 ---
 title: Carrot Peanut Koshimbir
 slug: carrot-peanut-koshimbir
+benefits:
+  - "Provides about 4.6 g protein per serving."
+  - "Provides about 4.7 g dietary fiber per serving."
+  - "Contributes about 10% of the daily value for potassium per serving."
 description: >-
   A Maharashtrian raw carrot salad with peanuts, coconut and a mustard-curry
   leaf tempering.

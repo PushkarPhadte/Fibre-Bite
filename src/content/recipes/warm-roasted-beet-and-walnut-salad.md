@@ -1,6 +1,10 @@
 ---
 title: Warm Roasted Beet and Walnut Salad
 slug: warm-roasted-beet-and-walnut-salad
+benefits:
+  - "Provides about 5 g protein per serving."
+  - "Provides about 4 g dietary fiber per serving."
+  - "Contributes about 24% of the daily value for folate per serving."
 image: "https://upload.wikimedia.org/wikipedia/commons/8/85/Goat_cheese_and_beet_salad_in_Hungary.jpg"
 imageAttribution:
   title: "Goat cheese and beet salad in Hungary"

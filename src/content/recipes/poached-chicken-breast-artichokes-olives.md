@@ -1,6 +1,10 @@
 ---
 title: Poached Chicken Breast with Artichokes and Olives
 slug: poached-chicken-breast-artichokes-olives
+benefits:
+  - "Provides about 40 g protein per serving."
+  - "Provides about 6 g dietary fiber per serving."
+  - "Contributes about 36% of the daily value for folate per serving."
 description: >-
   Gentle herb-poached chicken breast served over marinated artichoke hearts,
   Kalamata olives, and baby spinach.

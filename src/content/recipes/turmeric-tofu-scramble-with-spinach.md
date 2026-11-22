@@ -1,6 +1,10 @@
 ---
 title: Turmeric Tofu Scramble with Spinach
 slug: turmeric-tofu-scramble-with-spinach
+benefits:
+  - "Provides about 24 g protein per serving."
+  - "Provides about 5.3 g dietary fiber per serving."
+  - "Contributes about 32% of the daily value for iron per serving."
 description: 'A vegan scramble of crumbled tofu with turmeric, tomato and wilted spinach.'
 baseServings: 2
 ingredients:

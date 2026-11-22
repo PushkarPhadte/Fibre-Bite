@@ -1,6 +1,10 @@
 ---
 title: Sorghum and Roasted Butternut Squash Pilaf
 slug: sorghum-roasted-butternut-squash-pilaf
+benefits:
+  - "Provides about 7 g protein per serving."
+  - "Provides about 8 g dietary fiber per serving."
+  - "Contributes about 25% of the daily value for magnesium per serving."
 description: >-
   Nutty whole-grain sorghum paired with caramelized butternut squash cubes,
   scallions, and sage.

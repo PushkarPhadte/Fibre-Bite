@@ -1,6 +1,10 @@
 ---
 title: Oyakodon (Japanese Chicken and Egg Rice Bowl)
 slug: japanese-oyakodon-chicken-egg-brown-rice-bowl
+benefits:
+  - "Provides about 27.2 g protein per serving."
+  - "Provides about 3 g dietary fiber per serving."
+  - "Contributes about 29% of the daily value for magnesium per serving."
 description: >-
   Tender chicken and soft-set egg simmered in a light tamari broth with onion
   and served over brown rice.
@@ -56,6 +60,7 @@ dietaryTags:
 allergens:
   - eggs
   - soy
+image: 'https://imgs.search.brave.com/WO6tlCtbwLRw9IsUd4Hdsi6-axMS-GvFRhSApjpfn5s/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/cGVwcGVyLnBoL19u/ZXh0L2ltYWdlP3Vy/bD1odHRwczovL2Nk/bi5zYW5pdHkuaW8v/aW1hZ2VzL2Yza25i/YzJzL3Byb2R1Y3Rp/b24vNDZiOWEyZDYw/YTBkNDE3ODIyYWE2/NzBkYzIxOGIxNGVl/MmE5MGFjYi0yNTAw/eDE1MDAuanBnP2F1/dG89Zm9ybWF0Jnc9/MTMwMCZxPTEwMA'
 nutrition:
   calories: 424
   protein: 27.2

@@ -1,6 +1,10 @@
 ---
 title: Fava Bean and Mint Stew with Lemon
 slug: fava-bean-mint-stew-lemon
+benefits:
+  - "Provides about 10 g protein per serving."
+  - "Provides about 8 g dietary fiber per serving."
+  - "Contributes about 39% of the daily value for folate per serving."
 description: >-
   Tender fava beans simmered with garlic, fresh garden mint, and lemon juice for
   a bright, protein-rich stew.

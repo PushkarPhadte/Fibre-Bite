@@ -1,6 +1,10 @@
 ---
 title: Lemon Herb Grilled Turkey Cutlets with Artichokes
 slug: lemon-herb-grilled-turkey-cutlets-with-artichokes
+benefits:
+  - "Provides about 37 g protein per serving."
+  - "Provides about 5 g dietary fiber per serving."
+  - "Contributes about 18% of the daily value for magnesium per serving."
 description: >-
   Lean turkey breast cutlets grilled with oregano and lemon, served alongside
   marinated artichoke hearts.
@@ -43,6 +47,7 @@ dietaryTags:
   - low-carb
   - keto
 allergens: []
+image: 'https://imgs.search.brave.com/rew9WnZIAFGdxXUnVLGmkPvEW1riDSYRkNC6Fo5FLQY/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/NW1pbnV0ZXNmb3Jt/b20uY29tL3dwLWNv/bnRlbnQvdXBsb2Fk/cy8yMDE2LzAzL0No/aWNrZW4tQ3V0bGV0/cy13aXRoLUFydGlj/aG9rZXMtUHJvY2Vz/cy0yLndlYnA'
 nutrition:
   calories: 268
   protein: 37

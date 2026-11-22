@@ -1,6 +1,10 @@
 ---
 title: Pepper Chicken Kali Mirch
 slug: pepper-chicken-kali-mirch
+benefits:
+  - "Provides about 26.3 g protein per serving."
+  - "Provides about 1.4 g dietary fiber per serving."
+  - "Contributes about 9% of the daily value for iron per serving."
 description: >-
   Chicken thigh cooked dry with freshly cracked black pepper, onion and curry
   leaves.

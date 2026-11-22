@@ -1,6 +1,10 @@
 ---
 title: Spiced Pumpkin and Red Kidney Bean Stew
 slug: spiced-pumpkin-red-kidney-bean-stew
+benefits:
+  - "Provides about 11 g protein per serving."
+  - "Provides about 11 g dietary fiber per serving."
+  - "Contributes about 36% of the daily value for folate per serving."
 description: >-
   Warming stew of fresh pumpkin cubes, red kidney beans, garlic, coriander, and
   cinnamon in a tomato base.

@@ -1,6 +1,10 @@
 ---
 title: Light Goan Chicken Xacuti
 slug: light-goan-chicken-xacuti
+benefits:
+  - "Provides about 27.1 g protein per serving."
+  - "Provides about 4.4 g dietary fiber per serving."
+  - "Contributes about 17% of the daily value for iron per serving."
 description: >-
   Goa's famous roasted-spice and coconut curry, lightened with less coconut and
   oil but all the depth of the traditional masala.
@@ -86,6 +90,7 @@ dietaryTags:
   - low-carb
 allergens:
   - sesame
+image: 'https://imgs.search.brave.com/vKxYvaDPhoyzZBFtD-R270wPF9zEOAB5eFRE4xAaUgY/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pMC53/cC5jb20vdmVlbmFw/YXR3YXJkaGFuLmNv/bS9wYXQtYS1jYWtl/L3dwLWNvbnRlbnQv/dXBsb2Fkcy8yMDIx/LzA2L0dvYW4tQ2hp/Y2tlbi1YYWN1dGkt/UmVjaXBlLnBuZz9m/aXQ9NzYwLDQwMCZz/c2w9MQ'
 nutrition:
   calories: 303
   protein: 27.1

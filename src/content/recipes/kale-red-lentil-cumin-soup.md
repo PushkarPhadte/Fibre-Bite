@@ -1,6 +1,10 @@
 ---
 title: Kale and Red Lentil Soup with Cumin
 slug: kale-red-lentil-cumin-soup
+benefits:
+  - "Provides about 12.7 g protein per serving."
+  - "Provides about 7.5 g dietary fiber per serving."
+  - "Contributes about 66% of the daily value for vitamin C per serving."
 description: >-
   A fast, thick lentil soup with carrot, tomato and ginger and a handful of kale
   stirred in at the end.
@@ -67,6 +71,7 @@ dietaryTags:
   - gluten-free
   - high-fiber
 allergens: []
+image: 'https://imgs.search.brave.com/zlGhalxsAOUF9HagH6at8OXr4oPZaDk-6qcsx5rwiU0/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90YWJz/YW5kdGlkYml0cy5j/b20vd3AtY29udGVu/dC91cGxvYWRzLzIw/MTUvMTEvUmVkLUxl/bnRpbC1LYWxlLVNv/dXAtNC5qcGc'
 nutrition:
   calories: 228
   protein: 12.7

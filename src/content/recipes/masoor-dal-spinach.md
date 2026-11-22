@@ -1,6 +1,10 @@
 ---
 title: Masoor Dal with Spinach
 slug: masoor-dal-spinach
+benefits:
+  - "Provides about 19 g protein per serving."
+  - "Provides about 14 g dietary fiber per serving."
+  - "Contributes about 61% of the daily value for folate per serving."
 description: >-
   A weeknight red lentil dal with spinach, tomato, cumin, and a fragrant garlic
   tempering.

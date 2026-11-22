@@ -1,6 +1,10 @@
 ---
 title: Vegetable Bibimbap Bowl
 slug: vegetable-bibimbap-bowl
+benefits:
+  - "Provides about 14.9 g protein per serving."
+  - "Provides about 5.1 g dietary fiber per serving."
+  - "Contributes about 23% of the daily value for iron per serving."
 description: >-
   Brown rice topped with sautéed spinach, carrot, mushrooms, sprouts and a fried
   egg.

@@ -1,6 +1,10 @@
 ---
 title: Chia Seed Coconut Mango Pudding
 slug: chia-seed-coconut-mango-pudding
+benefits:
+  - "Provides about 4 g protein per serving."
+  - "Provides about 9 g dietary fiber per serving."
+  - "Contributes about 33% of the daily value for vitamin C per serving."
 image: "https://upload.wikimedia.org/wikipedia/commons/9/90/Chia_seed_pudding_in_a_tea_cup.jpg"
 description: >-
   A creamy tropical pudding made by soaking chia seeds in coconut milk, topped

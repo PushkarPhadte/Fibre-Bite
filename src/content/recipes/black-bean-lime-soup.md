@@ -1,6 +1,10 @@
 ---
 title: Black Bean Lime Soup
 slug: black-bean-lime-soup
+benefits:
+  - "Provides about 9.8 g protein per serving."
+  - "Provides about 9.8 g dietary fiber per serving."
+  - "Contributes about 17% of the daily value for iron per serving."
 description: A smoky black bean soup brightened with lime and fresh coriander.
 baseServings: 4
 ingredients:

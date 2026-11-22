@@ -1,6 +1,10 @@
 ---
 title: Vietnamese Fresh Spring Rolls (Goi Cuon)
 slug: vietnamese-fresh-spring-rolls-goi-cuon
+benefits:
+  - "Provides about 11 g protein per serving."
+  - "Provides about 2 g dietary fiber per serving."
+  - "Contributes about 13% of the daily value for vitamin C per serving."
 image: "https://images.unsplash.com/photo-1786114774610-8696925848c6?auto=format&fit=crop&w=1200&q=80"
 description: >-
   Translucent rice paper wraps stuffed with steamed shrimp, rice vermicelli,

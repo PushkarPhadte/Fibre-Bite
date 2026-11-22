@@ -1,6 +1,10 @@
 ---
 title: Moroccan Carrot and Cumin Salad
 slug: moroccan-carrot-and-cumin-salad
+benefits:
+  - "Provides about 1.2 g protein per serving."
+  - "Provides about 3 g dietary fiber per serving."
+  - "Contributes about 13% of the daily value for vitamin C per serving."
 image: "https://images.unsplash.com/photo-1682370207954-c8a9cccaabb4?auto=format&fit=crop&w=1200&q=80"
 description: >-
   Tender cooked carrot coins tossed in a fragrant dressing of garlic, cumin,

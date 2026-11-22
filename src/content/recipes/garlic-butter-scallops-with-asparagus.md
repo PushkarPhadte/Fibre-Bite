@@ -1,6 +1,10 @@
 ---
 title: Garlic Butter Scallops with Asparagus
 slug: garlic-butter-scallops-with-asparagus
+benefits:
+  - "Provides about 26 g protein per serving."
+  - "Provides about 2 g dietary fiber per serving."
+  - "Contributes about 11% of the daily value for vitamin C per serving."
 image: "https://upload.wikimedia.org/wikipedia/commons/4/49/Pan_seared_scallops_with_grilled_asparagus_fine_dining_appetizer.jpg"
 description: >-
   Tender sea scallops pan-seared in garlic butter, served alongside crisp-tender

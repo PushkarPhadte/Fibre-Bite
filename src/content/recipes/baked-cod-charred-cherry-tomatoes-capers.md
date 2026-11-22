@@ -1,6 +1,10 @@
 ---
 title: Baked Cod with Charred Cherry Tomatoes and Capers
 slug: baked-cod-charred-cherry-tomatoes-capers
+benefits:
+  - "Provides about 32 g protein per serving."
+  - "Provides about 2 g dietary fiber per serving."
+  - "Contributes about 22% of the daily value for vitamin C per serving."
 description: >-
   Flaky oven-baked cod fillets topped with blistered cherry tomatoes, capers,
   garlic, and parsley.

@@ -1,6 +1,10 @@
 ---
 title: Chilled Cucumber Avocado Soup
 slug: chilled-cucumber-avocado-soup
+benefits:
+  - "Provides about 2 g protein per serving."
+  - "Provides about 4.5 g dietary fiber per serving."
+  - "Contributes about 20% of the daily value for vitamin C per serving."
 image: "https://images.unsplash.com/photo-1755531567043-3ac9642b3131?auto=format&fit=crop&w=1200&q=80"
 description: >-
   A creamy, raw blender soup made from fresh cucumbers, avocados, lime juice,

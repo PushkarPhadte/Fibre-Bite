@@ -1,6 +1,10 @@
 ---
 title: Madra / Himachali Chickpea Yogurt Curry
 slug: madra-himachali-chickpea-yogurt-curry
+benefits:
+  - "Provides about 9.2 g protein per serving."
+  - "Provides about 5.4 g dietary fiber per serving."
+  - "Contributes about 13% of the daily value for iron per serving."
 description: >-
   A rich Himachali slow-cooked chickpea curry prepared in fresh curd and
   tempered with whole aromatic spices.

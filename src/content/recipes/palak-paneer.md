@@ -1,6 +1,10 @@
 ---
 title: Palak Paneer
 slug: palak-paneer
+benefits:
+  - "Provides about 19 g protein per serving."
+  - "Provides about 5 g dietary fiber per serving."
+  - "Contributes about 51% of the daily value for folate per serving."
 description: >-
   A lighter North Indian spinach and paneer curry with ginger, garlic, and a
   modest amount of creaminess from yogurt.

@@ -1,6 +1,10 @@
 ---
 title: Portuguese Caldo Verde (Light Collard Green and Potato Soup)
 slug: portuguese-caldo-verde-kale-potato-soup
+benefits:
+  - "Provides about 10 g protein per serving."
+  - "Provides about 9 g dietary fiber per serving."
+  - "Contributes about 52% of the daily value for vitamin C per serving."
 description: >-
   Wholesome plant-forward rendition of Portugal's beloved velvety potato and
   garlic broth swirled with ultra-fine ribbons of collard greens, cannellini

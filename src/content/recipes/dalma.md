@@ -1,6 +1,10 @@
 ---
 title: Dalma (Odisha Lentil and Vegetable Stew)
 slug: dalma
+benefits:
+  - "Provides about 8.5 g protein per serving."
+  - "Provides about 6.5 g dietary fiber per serving."
+  - "Contributes about 18% of the daily value for folate per serving."
 description: >-
   A wholesome Odia stew cooked with split yellow lentils, raw papaya, pumpkin,
   eggplant, and dry roasted spices.

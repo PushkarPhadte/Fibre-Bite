@@ -1,6 +1,10 @@
 ---
 title: Spicy Tofu Broccoli Stir Fry
 slug: spicy-tofu-broccoli-stir-fry
+benefits:
+  - "Provides about 14 g protein per serving."
+  - "Provides about 4 g dietary fiber per serving."
+  - "Contributes about 89% of the daily value for vitamin C per serving."
 image: "https://images.unsplash.com/photo-1711247355155-873ce02ab092?auto=format&fit=crop&w=1200&q=80"
 description: >-
   Crispy tofu cubes and fresh broccoli florets tossed in a savory garlic-chili

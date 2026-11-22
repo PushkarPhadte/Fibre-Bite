@@ -1,6 +1,10 @@
 ---
 title: Egyptian Ful Medames (Spiced Fava Beans)
 slug: egyptian-ful-medames
+benefits:
+  - "Provides about 9 g protein per serving."
+  - "Provides about 8 g dietary fiber per serving."
+  - "Contributes about 28% of the daily value for folate per serving."
 description: >-
   A traditional Egyptian breakfast dish of slow-cooked fava beans seasoned with
   garlic, cumin, lemon juice, and olive oil.

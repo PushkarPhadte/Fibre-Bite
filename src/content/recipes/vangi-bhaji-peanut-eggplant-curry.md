@@ -1,6 +1,10 @@
 ---
 title: Vangi Bhaji Peanut Eggplant Curry
 slug: vangi-bhaji-peanut-eggplant-curry
+benefits:
+  - "Provides about 5 g protein per serving."
+  - "Provides about 7.4 g dietary fiber per serving."
+  - "Contributes about 12% of the daily value for potassium per serving."
 description: Small eggplants simmered in a Maharashtrian peanut-coconut masala.
 baseServings: 3
 ingredients:

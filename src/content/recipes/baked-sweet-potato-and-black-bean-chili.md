@@ -1,6 +1,10 @@
 ---
 title: Baked Sweet Potato and Black Bean Chili
 slug: baked-sweet-potato-and-black-bean-chili
+benefits:
+  - "Provides about 10 g protein per serving."
+  - "Provides about 12 g dietary fiber per serving."
+  - "Contributes about 22% of the daily value for iron per serving."
 image: "https://images.unsplash.com/photo-1708782340358-8d5ef6dbb3c1?auto=format&fit=crop&w=1200&q=80"
 description: >-
   A hearty vegetarian chili packed with roasted sweet potatoes, black beans,

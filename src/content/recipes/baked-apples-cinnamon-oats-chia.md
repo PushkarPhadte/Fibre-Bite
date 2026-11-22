@@ -1,6 +1,10 @@
 ---
 title: 'Baked Apples with Cinnamon, Oats, and Chia'
 slug: baked-apples-cinnamon-oats-chia
+benefits:
+  - "Provides about 4 g protein per serving."
+  - "Provides about 8 g dietary fiber per serving."
+  - "Contributes about 11% of the daily value for magnesium per serving."
 description: >-
   Core-filled apples baked with rolled oats, chia seeds, and ground cinnamon for
   a naturally sweet, fiber-rich treat.

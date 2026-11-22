@@ -1,6 +1,10 @@
 ---
 title: Mediterranean Lentil Salad
 slug: mediterranean-lentil-salad
+benefits:
+  - "Provides about 12 g protein per serving."
+  - "Provides about 9 g dietary fiber per serving."
+  - "Contributes about 21% of the daily value for iron per serving."
 image: "https://upload.wikimedia.org/wikipedia/commons/b/b7/Mediterranean_Lentil_Salad_%2828876840122%29.jpg"
 imageAttribution:
   title: "Mediterranean Lentil Salad"

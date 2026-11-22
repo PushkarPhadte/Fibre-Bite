@@ -1,6 +1,10 @@
 ---
 title: Brown Rice Vegetable Sushi Rolls (Maki)
 slug: brown-rice-vegetable-sushi-rolls
+benefits:
+  - "Provides about 6.1 g protein per serving."
+  - "Provides about 5 g dietary fiber per serving."
+  - "Contributes about 34% of the daily value for vitamin C per serving."
 description: >-
   Nori rolls of seasoned brown rice, avocado, cucumber, carrot and red pepper,
   served with a little tamari.

@@ -1,6 +1,10 @@
 ---
 title: Ginger Chicken Congee with Brown Rice
 slug: ginger-chicken-congee-with-brown-rice
+benefits:
+  - "Provides about 21.7 g protein per serving."
+  - "Provides about 1.6 g dietary fiber per serving."
+  - "Contributes about 9% of the daily value for potassium per serving."
 description: 'A soothing rice porridge with ginger, shredded chicken and spring onion.'
 baseServings: 3
 ingredients:

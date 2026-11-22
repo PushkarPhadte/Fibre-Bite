@@ -1,6 +1,10 @@
 ---
 title: Chicken Yakitori Skewers
 slug: chicken-yakitori-skewers
+benefits:
+  - "Provides about 28 g protein per serving."
+  - "Provides about 1.6 g dietary fiber per serving."
+  - "Contributes about 12% of the daily value for potassium per serving."
 description: Tamari-glazed grilled chicken thigh skewers with spring onion and pepper.
 baseServings: 3
 ingredients:

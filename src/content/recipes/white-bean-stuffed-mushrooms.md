@@ -1,6 +1,10 @@
 ---
 title: White Bean Stuffed Mushrooms
 slug: white-bean-stuffed-mushrooms
+benefits:
+  - "Provides about 13.6 g protein per serving."
+  - "Provides about 6.3 g dietary fiber per serving."
+  - "Contributes about 23% of the daily value for iron per serving."
 description: >-
   Large mushroom caps filled with a garlicky white bean, spinach and herb
   stuffing and baked.

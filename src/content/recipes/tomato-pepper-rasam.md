@@ -1,6 +1,10 @@
 ---
 title: Tomato Pepper Rasam
 slug: tomato-pepper-rasam
+benefits:
+  - "Provides about 3.4 g protein per serving."
+  - "Provides about 2.9 g dietary fiber per serving."
+  - "Contributes about 8% of the daily value for potassium per serving."
 description: >-
   A South Indian thin soup of tomato, tamarind, pepper and cumin, tempered with
   mustard and curry leaves.

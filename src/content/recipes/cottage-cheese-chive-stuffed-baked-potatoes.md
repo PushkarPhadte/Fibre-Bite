@@ -1,6 +1,10 @@
 ---
 title: Cottage Cheese and Chive Stuffed Baked Potatoes
 slug: cottage-cheese-chive-stuffed-baked-potatoes
+benefits:
+  - "Provides about 15 g protein per serving."
+  - "Provides about 4 g dietary fiber per serving."
+  - "Contributes about 18% of the daily value for potassium per serving."
 description: >-
   Russet potatoes baked crisp and stuffed with low-fat cottage cheese, fresh
   chives, and cracked black pepper.

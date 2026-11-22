@@ -1,6 +1,10 @@
 ---
 title: Light Prawn Pulao with Brown Rice
 slug: light-prawn-pulao-brown-rice
+benefits:
+  - "Provides about 27.1 g protein per serving."
+  - "Provides about 4.8 g dietary fiber per serving."
+  - "Contributes about 34% of the daily value for magnesium per serving."
 description: >-
   Fragrant one-pot pulao of prawns, peas and whole spices with brown rice, mint
   and coriander.
@@ -76,6 +80,7 @@ dietaryTags:
   - high-protein
 allergens:
   - shellfish
+image: 'https://imgs.search.brave.com/8HfernX9rjnVoorbf7onQjSKMU7lV6K0pYH038Vlplk/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/YmlnZmF0dHVtbXku/Y29tL3dwLWNvbnRl/bnQvdXBsb2Fkcy8y/MDE5LzA0L1ByYXdu/LVB1bGFvLTEwLTY3/OHgzODEuanBnLndl/YnA'
 nutrition:
   calories: 394
   protein: 27.1

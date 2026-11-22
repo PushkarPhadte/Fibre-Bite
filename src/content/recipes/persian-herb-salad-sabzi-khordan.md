@@ -1,6 +1,10 @@
 ---
 title: Persian Herb Salad (Sabzi Khordan)
 slug: persian-herb-salad-sabzi-khordan
+benefits:
+  - "Provides about 5 g protein per serving."
+  - "Provides about 2.5 g dietary fiber per serving."
+  - "Contributes about 20% of the daily value for vitamin C per serving."
 image: "https://images.unsplash.com/photo-1697219611694-eee40be40ae3?auto=format&fit=crop&w=1200&q=80"
 description: >-
   A traditional Iranian platter of fresh mint, tarragon, radishes, walnuts, and

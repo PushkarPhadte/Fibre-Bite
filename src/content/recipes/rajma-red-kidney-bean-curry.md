@@ -1,6 +1,10 @@
 ---
 title: Rajma (Red Kidney Bean Curry)
 slug: rajma-red-kidney-bean-curry
+benefits:
+  - "Provides about 11 g protein per serving."
+  - "Provides about 9.5 g dietary fiber per serving."
+  - "Contributes about 29% of the daily value for folate per serving."
 image: "https://upload.wikimedia.org/wikipedia/commons/c/c4/Rajma_Chawal_Thali.jpg"
 imageAttribution:
   title: "Rajma Chawal Thali"

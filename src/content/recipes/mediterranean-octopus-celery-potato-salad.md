@@ -1,6 +1,10 @@
 ---
 title: 'Mediterranean Octopus, Celery, and Warm Potato Salad'
 slug: mediterranean-octopus-celery-potato-salad
+benefits:
+  - "Provides about 24 g protein per serving."
+  - "Provides about 3 g dietary fiber per serving."
+  - "Contributes about 49% of the daily value for iron per serving."
 description: >-
   High-protein coastal Italian-style salad combining tender simmered octopus
   slices with warm waxy potatoes, crisp celery, parsley, and lemon-olive oil
@@ -54,6 +58,7 @@ dietaryTags:
   - high-protein
 allergens:
   - shellfish
+image: 'https://imgs.search.brave.com/0y4eVvpjfcxv4BlPsfcSen2kUaz3NFsl1WQSrh2iSNU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdWJz/dGFja2Nkbi5jb20v/aW1hZ2UvZmV0Y2gv/JHNfIWppNmUhLHdf/MTQ1NixjX2xpbWl0/LGZfYXV0byxxX2F1/dG86Z29vZCxmbF9w/cm9ncmVzc2l2ZTpz/dGVlcC9odHRwczov/L3N1YnN0YWNrLXBv/c3QtbWVkaWEuczMu/YW1hem9uYXdzLmNv/bS9wdWJsaWMvaW1h/Z2VzL2E2MDg1Yzdi/LTRmMDktNDBiZi1i/ZGVjLTJlOWYxNmUy/OGM3OV8xMjkweDE5/NTMuanBlZw'
 nutrition:
   calories: 261
   protein: 24

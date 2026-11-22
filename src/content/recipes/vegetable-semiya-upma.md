@@ -1,6 +1,10 @@
 ---
 title: Vegetable Semiya Upma
 slug: vegetable-semiya-upma
+benefits:
+  - "Provides about 10 g protein per serving."
+  - "Provides about 9 g dietary fiber per serving."
+  - "Contributes about 14% of the daily value for iron per serving."
 description: >-
   Whole wheat vermicelli roasted and cooked with vegetables, mustard seeds and
   curry leaves.

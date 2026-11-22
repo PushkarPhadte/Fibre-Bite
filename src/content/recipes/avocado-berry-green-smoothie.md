@@ -1,6 +1,10 @@
 ---
 title: Avocado Berry Green Smoothie
 slug: avocado-berry-green-smoothie
+benefits:
+  - "Provides about 5 g protein per serving."
+  - "Provides about 10 g dietary fiber per serving."
+  - "Contributes about 36% of the daily value for vitamin C per serving."
 description: >-
   A creamy, nutrient-dense smoothie blending creamy avocado, mixed berries, baby
   spinach, and unsweetened almond milk.

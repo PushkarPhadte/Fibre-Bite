@@ -1,6 +1,10 @@
 ---
 title: Japanese Mushroom Miso Ramen (Light)
 slug: japanese-mushroom-miso-ramen-light
+benefits:
+  - "Provides about 9 g protein per serving."
+  - "Provides about 4 g dietary fiber per serving."
+  - "Contributes about 16% of the daily value for iron per serving."
 image: "https://upload.wikimedia.org/wikipedia/commons/2/2d/Vegetable_Miso_Ramen_-_Shogun_Ramen_2023-10-11.jpg"
 description: >-
   A soothing noodle soup featuring savory miso broth, earthy mushrooms, baby

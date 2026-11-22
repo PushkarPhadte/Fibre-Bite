@@ -1,6 +1,10 @@
 ---
 title: Nordic Rye Smørrebrød with Baked Herring and Beetroot
 slug: nordic-rye-herring-beet-smorrebrod
+benefits:
+  - "Provides about 28 g protein per serving."
+  - "Provides about 5 g dietary fiber per serving."
+  - "Contributes about 27% of the daily value for folate per serving."
 description: >-
   Heart-healthy open-faced Danish whole-grain dark rye sandwiches layered with
   omega-3-rich baked Atlantic herring, horseradish yogurt, cooked beets, and
@@ -60,6 +64,7 @@ dietaryTags:
 allergens:
   - fish
   - milk
+image: 'https://imgs.search.brave.com/-eo4sAFB9pOUwJWi2fYBJX0-xNmpMDG3Dik4__tNmTY/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9rdmFs/aWZvb2QuY29tL3Bv/c3RzL3Ntb3JyZWJy/b2Qtd2l0aC1ob3Qt/c21va2VkLWhlcnJp/bmctZWdnLW1heW8t/YW5kLWJlZXRyb290/LzEyMy12YXJtcm9n/ZXQtc2lsZC1tZWQt/YWVnZ2VtYXlvX2h1/X2FkMGZhM2VmMDA2/NGI0YmMud2VicA'
 nutrition:
   calories: 409
   protein: 28

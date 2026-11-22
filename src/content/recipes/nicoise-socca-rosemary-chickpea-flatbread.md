@@ -1,6 +1,10 @@
 ---
 title: Niçoise Socca (Oven-Baked Rosemary Chickpea Flatbread)
 slug: nicoise-socca-rosemary-chickpea-flatbread
+benefits:
+  - "Provides about 11 g protein per serving."
+  - "Provides about 6 g dietary fiber per serving."
+  - "Contributes about 55% of the daily value for folate per serving."
 description: >-
   Naturally gluten-free, protein-rich Provençal chickpea flour flatbread baked
   in a sizzling cast-iron skillet with extra-virgin olive oil, fresh rosemary,

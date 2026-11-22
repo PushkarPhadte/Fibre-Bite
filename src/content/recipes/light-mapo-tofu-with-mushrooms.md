@@ -1,6 +1,10 @@
 ---
 title: Light Mapo Tofu with Mushrooms
 slug: light-mapo-tofu-with-mushrooms
+benefits:
+  - "Provides about 24.5 g protein per serving."
+  - "Provides about 4.2 g dietary fiber per serving."
+  - "Contributes about 35% of the daily value for calcium per serving."
 description: >-
   Sichuan-style silken-textured tofu in a chilli and garlic sauce, bulked with
   mushrooms and made with far less oil and salt than the restaurant version.
@@ -66,6 +70,7 @@ dietaryTags:
   - low-carb
 allergens:
   - soy
+image: 'https://imgs.search.brave.com/LajAvlaMT0FAZiCtw4uI4xBIQKt-21xFEZjQsbkN53I/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9hZ2ls/ZXRlc3RraXRjaGVu/LmNvbS93cC1jb250/ZW50L3VwbG9hZHMv/MjAxOS8wMS9tYWJv/LXRvZnUtMi0xLW9m/LTEuanBn'
 nutrition:
   calories: 250
   protein: 24.5

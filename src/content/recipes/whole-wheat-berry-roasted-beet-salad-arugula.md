@@ -1,6 +1,10 @@
 ---
 title: Whole Wheat Berry and Roasted Beet Salad with Arugula
 slug: whole-wheat-berry-roasted-beet-salad-arugula
+benefits:
+  - "Provides about 8 g protein per serving."
+  - "Provides about 8 g dietary fiber per serving."
+  - "Contributes about 28% of the daily value for folate per serving."
 description: >-
   Chewy wheat berries tossed with roasted red beets, peppery arugula, and a
   bright balsamic lemon dressing.

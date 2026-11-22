@@ -1,6 +1,10 @@
 ---
 title: Authentic Lebanese Tabouli Salad
 slug: authentic-lebanese-tabouli-salad
+benefits:
+  - "Provides about 3 g protein per serving."
+  - "Provides about 4 g dietary fiber per serving."
+  - "Contributes about 61% of the daily value for vitamin C per serving."
 description: >-
   A traditional Levantine herb salad loaded with fresh flat-leaf parsley, mint,
   bulgur wheat, tomatoes, and a zesty lemon-olive oil dressing.

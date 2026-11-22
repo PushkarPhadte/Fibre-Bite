@@ -1,6 +1,10 @@
 ---
 title: Whole Wheat Pasta Salad with Chickpeas and Cucumber
 slug: whole-wheat-pasta-salad-with-chickpeas-and-cucumber
+benefits:
+  - "Provides about 12.4 g protein per serving."
+  - "Provides about 10.2 g dietary fiber per serving."
+  - "Contributes about 21% of the daily value for iron per serving."
 description: >-
   A cold pasta salad with chickpeas, cucumber, tomato and a lemon-oregano
   dressing.

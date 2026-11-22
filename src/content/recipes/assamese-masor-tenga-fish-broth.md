@@ -1,6 +1,10 @@
 ---
 title: Assamese Masor Tenga (Tangy Tomato-Lemon Carp Broth)
 slug: assamese-masor-tenga-fish-broth
+benefits:
+  - "Provides about 24 g protein per serving."
+  - "Provides about 2 g dietary fiber per serving."
+  - "Contributes about 28% of the daily value for vitamin D per serving."
 description: >-
   Refreshing, low-oil Assamese freshwater fish curry featuring lightly seared
   rohu and ridge gourd in a bright tomato, lemon, and fenugreek broth.

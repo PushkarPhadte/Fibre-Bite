@@ -1,6 +1,10 @@
 ---
 title: Roasted Cauliflower and Red Lentil Dal
 slug: roasted-cauliflower-and-red-lentil-dal
+benefits:
+  - "Provides about 16 g protein per serving."
+  - "Provides about 10 g dietary fiber per serving."
+  - "Contributes about 44% of the daily value for vitamin C per serving."
 description: >-
   Hearty split red lentils simmered with roasted cauliflower florets, garlic,
   and warm garam masala.

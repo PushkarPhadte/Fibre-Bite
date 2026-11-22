@@ -1,6 +1,10 @@
 ---
 title: Mediterranean Hummus and Veggie Plate
 slug: mediterranean-hummus-and-veggie-plate
+benefits:
+  - "Provides about 6 g protein per serving."
+  - "Provides about 7 g dietary fiber per serving."
+  - "Contributes about 100% of the daily value for vitamin C per serving."
 image: "https://upload.wikimedia.org/wikipedia/commons/9/90/Homemade_hummus_and_pita_03.jpg"
 imageAttribution:
   title: "Homemade hummus and pita 03"

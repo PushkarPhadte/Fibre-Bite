@@ -1,6 +1,10 @@
 ---
 title: Lobia Black-Eyed Pea Curry
 slug: lobia-black-eyed-pea-curry
+benefits:
+  - "Provides about 11.8 g protein per serving."
+  - "Provides about 10.7 g dietary fiber per serving."
+  - "Contributes about 26% of the daily value for iron per serving."
 description: Black-eyed peas in a tomato-onion masala with cumin and coriander.
 baseServings: 3
 ingredients:

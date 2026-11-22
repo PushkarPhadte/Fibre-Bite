@@ -1,6 +1,10 @@
 ---
 title: Horiatiki (Greek Village Salad)
 slug: greek-horiatiki-village-salad
+benefits:
+  - "Provides about 4.6 g protein per serving."
+  - "Provides about 2.6 g dietary fiber per serving."
+  - "Contributes about 54% of the daily value for vitamin C per serving."
 description: >-
   Ripe tomato, cucumber, pepper and red onion with olives, a slab of feta and
   good olive oil, with no lettuce.
@@ -56,6 +60,7 @@ dietaryTags:
   - keto
 allergens:
   - milk
+image: 'https://imgs.search.brave.com/3hpIo_Zi0qsZWaAfkUd23G0iJnKWUmggF_6IHCpA4xs/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9kaW5u/ZXJieXNpeC5jb20v/d3AtY29udGVudC91/cGxvYWRzLzIwMjQv/MDcvaG9yYWl0YWtp/LXNhbGFkLWgtMTMt/MTAyNHg3NDguanBn'
 nutrition:
   calories: 164
   protein: 4.6

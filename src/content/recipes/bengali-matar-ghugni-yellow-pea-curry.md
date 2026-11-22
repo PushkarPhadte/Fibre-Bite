@@ -1,6 +1,10 @@
 ---
 title: Bengali Matar Ghugni (Spiced Dried Yellow Pea Curry)
 slug: bengali-matar-ghugni-yellow-pea-curry
+benefits:
+  - "Provides about 16 g protein per serving."
+  - "Provides about 17 g dietary fiber per serving."
+  - "Contributes about 45% of the daily value for folate per serving."
 description: >-
   High-fiber Bengali street-food favorite made wholesome with slow-simmered
   dried white-yellow peas, roasted cumin-coriander spice blend, tomatoes, and

@@ -94,7 +94,7 @@ export function getRecipeText(recipe: Recipe, locale: Language): LocalizedRecipe
 		title: selected?.title ?? english?.title ?? recipe.title,
 		description: selected?.description ?? english?.description ?? recipe.description ?? '',
 		instructions: selected?.instructions ?? english?.instructions ?? recipe.instructions,
-		benefits: selected?.benefits ?? english?.benefits,
+		benefits: selected?.benefits ?? english?.benefits ?? recipe.benefits,
 		content: selected?.content ?? english?.content
 	};
 }

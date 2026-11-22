@@ -1,6 +1,10 @@
 ---
 title: Chicken Saag with Spinach
 slug: chicken-saag-with-spinach
+benefits:
+  - "Provides about 28.6 g protein per serving."
+  - "Provides about 3.6 g dietary fiber per serving."
+  - "Contributes about 26% of the daily value for iron per serving."
 description: >-
   Chicken thigh simmered in a pureed spinach and onion sauce with ginger and
   garam masala.

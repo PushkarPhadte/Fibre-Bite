@@ -1,6 +1,10 @@
 ---
 title: Brown Rice Vegetable Pulao
 slug: brown-rice-vegetable-pulao
+benefits:
+  - "Provides about 4.9 g protein per serving."
+  - "Provides about 4.2 g dietary fiber per serving."
+  - "Contributes about 9% of the daily value for iron per serving."
 description: >-
   A fragrant one-pot pulao of brown rice, peas, carrot and beans with whole
   spices.

@@ -1,6 +1,10 @@
 ---
 title: Oats Vegetable Upma
 slug: oats-vegetable-upma
+benefits:
+  - "Provides about 10.2 g protein per serving."
+  - "Provides about 8.1 g dietary fiber per serving."
+  - "Contributes about 14% of the daily value for iron per serving."
 description: 'Savoury oats cooked like upma with carrot, peas and a crunch of peanuts.'
 baseServings: 2
 ingredients:

@@ -1,6 +1,10 @@
 ---
 title: Lemon Garlic Grilled Salmon
 slug: lemon-garlic-grilled-salmon
+benefits:
+  - "Provides about 34 g protein per serving."
+  - "Provides about 0 g dietary fiber per serving."
+  - "Contributes about 60% of the daily value for vitamin D per serving."
 description: >-
   Fresh salmon fillets marinated in lemon juice, garlic, and herbs, then grilled
   to flaky perfection.

@@ -1,6 +1,10 @@
 ---
 title: Chinese Steamed Tofu with Garlic Soy Dressing
 slug: chinese-steamed-tofu-with-garlic-soy-dressing
+benefits:
+  - "Provides about 10 g protein per serving."
+  - "Provides about 1.5 g dietary fiber per serving."
+  - "Contributes about 14% of the daily value for calcium per serving."
 image: "https://images.unsplash.com/photo-1744612190414-f8844313befb?auto=format&fit=crop&w=1200&q=80"
 description: >-
   Silken tofu steamed to warm perfection and dressed with minced garlic, ginger,

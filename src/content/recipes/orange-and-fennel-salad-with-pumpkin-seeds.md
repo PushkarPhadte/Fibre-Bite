@@ -1,6 +1,10 @@
 ---
 title: Orange and Fennel Salad with Pumpkin Seeds
 slug: orange-and-fennel-salad-with-pumpkin-seeds
+benefits:
+  - "Provides about 5.4 g protein per serving."
+  - "Provides about 6.8 g dietary fiber per serving."
+  - "Contributes about 15% of the daily value for potassium per serving."
 description: >-
   A crisp winter salad of orange segments and shaved fennel with toasted pumpkin
   seeds.

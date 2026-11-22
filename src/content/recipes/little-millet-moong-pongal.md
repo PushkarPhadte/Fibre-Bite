@@ -1,6 +1,10 @@
 ---
 title: Little Millet Moong Pongal
 slug: little-millet-moong-pongal
+benefits:
+  - "Provides about 8.9 g protein per serving."
+  - "Provides about 6.4 g dietary fiber per serving."
+  - "Contributes about 29% of the daily value for iron per serving."
 description: >-
   A comforting South Indian one-pot of little millet and moong dal with pepper,
   cumin and ginger.
@@ -52,6 +56,7 @@ dietaryTags:
   - gluten-free
 allergens:
   - tree-nuts
+image: 'https://imgs.search.brave.com/mrGNJnAYGJ_adlkKX-NkOL-DZlXB3Y3kPiPOjCnkRRw/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9oYXBw/aWV0cmlvLmNvbS93/cC1jb250ZW50L3Vw/bG9hZHMvMjAxOS8w/MS9EU0NfMDE5NC01/MDB4NTAwLmpwZw'
 nutrition:
   calories: 245
   protein: 8.9

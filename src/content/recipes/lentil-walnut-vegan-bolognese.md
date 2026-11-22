@@ -1,6 +1,10 @@
 ---
 title: Lentil Walnut Vegan Bolognese
 slug: lentil-walnut-vegan-bolognese
+benefits:
+  - "Provides about 13 g protein per serving."
+  - "Provides about 9 g dietary fiber per serving."
+  - "Contributes about 22% of the daily value for iron per serving."
 image: "https://images.unsplash.com/photo-1597933856545-b9ee519aa0ec?auto=format&fit=crop&w=1200&q=80"
 description: >-
   A hearty plant-based pasta sauce made with protein-rich lentils, toasted

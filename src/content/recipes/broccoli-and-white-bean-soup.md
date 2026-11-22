@@ -1,6 +1,10 @@
 ---
 title: Broccoli and White Bean Soup
 slug: broccoli-and-white-bean-soup
+benefits:
+  - "Provides about 8.2 g protein per serving."
+  - "Provides about 6.8 g dietary fiber per serving."
+  - "Contributes about 17% of the daily value for potassium per serving."
 description: >-
   A green soup of broccoli blended with cannellini beans and a little potato for
   body.

@@ -1,6 +1,10 @@
 ---
 title: Lentil Shepherd's Pie with Sweet Potato Mash
 slug: lentil-shepherd-s-pie-with-sweet-potato-mash
+benefits:
+  - "Provides about 14.3 g protein per serving."
+  - "Provides about 12.2 g dietary fiber per serving."
+  - "Contributes about 28% of the daily value for iron per serving."
 description: 'Brown lentils, carrot and peas under a sweet potato mash, baked until golden.'
 baseServings: 4
 ingredients:

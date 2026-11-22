@@ -1,6 +1,10 @@
 ---
 title: Mixed Vegetable Korma with Cashew and Curd
 slug: mixed-vegetable-korma-with-cashew-and-curd
+benefits:
+  - "Provides about 5.7 g protein per serving."
+  - "Provides about 4.4 g dietary fiber per serving."
+  - "Contributes about 10% of the daily value for potassium per serving."
 description: >-
   A mild vegetable curry in a cashew and curd sauce scented with cardamom and
   cinnamon.

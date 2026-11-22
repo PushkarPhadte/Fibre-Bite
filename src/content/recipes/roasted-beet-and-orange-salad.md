@@ -1,6 +1,10 @@
 ---
 title: Roasted Beet and Orange Salad
 slug: roasted-beet-and-orange-salad
+benefits:
+  - "Provides about 3 g protein per serving."
+  - "Provides about 5 g dietary fiber per serving."
+  - "Contributes about 50% of the daily value for vitamin C per serving."
 image: "https://upload.wikimedia.org/wikipedia/commons/3/3c/Beet_salad_and_orange_juice.jpg"
 imageAttribution:
   title: "Beet salad and orange juice"

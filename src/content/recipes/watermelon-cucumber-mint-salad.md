@@ -1,6 +1,10 @@
 ---
 title: Watermelon Cucumber Mint Salad
 slug: watermelon-cucumber-mint-salad
+benefits:
+  - "Provides about 3.5 g protein per serving."
+  - "Provides about 1.6 g dietary fiber per serving."
+  - "Contributes about 7% of the daily value for potassium per serving."
 description: >-
   A hydrating no-sugar summer salad with watermelon, cucumber, mint, lime and
   pumpkin seeds.

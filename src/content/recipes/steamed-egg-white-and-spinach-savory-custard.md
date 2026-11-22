@@ -1,6 +1,10 @@
 ---
 title: Steamed Egg White and Spinach Savory Custard
 slug: steamed-egg-white-and-spinach-savory-custard
+benefits:
+  - "Provides about 15 g protein per serving."
+  - "Provides about 1 g dietary fiber per serving."
+  - "Contributes about 23% of the daily value for folate per serving."
 description: >-
   Silky steamed egg whites folded with tender spinach and white pepper for a
   light high-protein dish.

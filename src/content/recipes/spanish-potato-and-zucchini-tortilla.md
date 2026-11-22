@@ -1,6 +1,10 @@
 ---
 title: Spanish Potato and Zucchini Tortilla
 slug: spanish-potato-and-zucchini-tortilla
+benefits:
+  - "Provides about 11.7 g protein per serving."
+  - "Provides about 2.5 g dietary fiber per serving."
+  - "Contributes about 13% of the daily value for iron per serving."
 description: 'An oven-finished Spanish omelette with thin potato, zucchini and onion.'
 baseServings: 4
 ingredients:

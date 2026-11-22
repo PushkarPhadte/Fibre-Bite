@@ -1,6 +1,10 @@
 ---
 title: Missi Roti (North Indian Spiced Chickpea Flatbread)
 slug: missi-roti
+benefits:
+  - "Provides about 6.8 g protein per serving."
+  - "Provides about 5.1 g dietary fiber per serving."
+  - "Contributes about 13% of the daily value for iron per serving."
 image: "https://images.unsplash.com/photo-1729249382934-1b5cdf5bca74?auto=format&fit=crop&w=1200&q=80"
 description: >-
   A nutrient-rich North Indian flatbread prepared by blending whole wheat flour

@@ -1,6 +1,10 @@
 ---
 title: Avial Kerala Mixed Vegetable in Coconut Curd
 slug: avial-kerala-mixed-vegetable-in-coconut-curd
+benefits:
+  - "Provides about 3.1 g protein per serving."
+  - "Provides about 2.9 g dietary fiber per serving."
+  - "Contributes about 9% of the daily value for potassium per serving."
 description: Mixed vegetables simmered in a light coconut and curd sauce with curry leaves.
 baseServings: 4
 ingredients:

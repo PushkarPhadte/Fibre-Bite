@@ -1,6 +1,10 @@
 ---
 title: Steamed Asparagus and Snow Peas with Lemon Herb Oil
 slug: steamed-asparagus-snow-peas-lemon-herb
+benefits:
+  - "Provides about 5 g protein per serving."
+  - "Provides about 5 g dietary fiber per serving."
+  - "Contributes about 58% of the daily value for vitamin C per serving."
 description: >-
   Crisp steamed asparagus spears and snow peas tossed with lemon juice, chopped
   parsley, and olive oil.

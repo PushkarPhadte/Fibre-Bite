@@ -1,6 +1,10 @@
 ---
 title: Mexican Zucchini and Corn Sauté (Calabacitas)
 slug: mexican-zucchini-and-corn-saute
+benefits:
+  - "Provides about 3 g protein per serving."
+  - "Provides about 3.5 g dietary fiber per serving."
+  - "Contributes about 24% of the daily value for vitamin C per serving."
 image: "https://images.unsplash.com/photo-1670867014068-220008de468d?auto=format&fit=crop&w=1200&q=80"
 description: >-
   A traditional Mexican vegetable side dish of sautéed zucchini, corn, tomatoes,

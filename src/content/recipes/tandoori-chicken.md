@@ -1,6 +1,10 @@
 ---
 title: Tandoori Chicken
 slug: tandoori-chicken
+benefits:
+  - "Provides about 34 g protein per serving."
+  - "Provides about 0.5 g dietary fiber per serving."
+  - "Contributes about 8% of the daily value for potassium per serving."
 description: >-
   Chicken pieces coated in a spiced yogurt marinade, seasoned with garlic,
   ginger, lemon, and warm spices, baked or roasted.

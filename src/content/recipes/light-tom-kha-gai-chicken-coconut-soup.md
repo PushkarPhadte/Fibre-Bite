@@ -1,6 +1,10 @@
 ---
 title: Light Tom Kha Gai (Chicken and Coconut Soup)
 slug: light-tom-kha-gai-chicken-coconut-soup
+benefits:
+  - "Provides about 19.7 g protein per serving."
+  - "Provides about 1.2 g dietary fiber per serving."
+  - "Contributes about 15% of the daily value for vitamin C per serving."
 description: >-
   Fragrant Thai soup of chicken, mushrooms, lemongrass and galangal-style ginger
   in a lightened coconut broth with lots of lime.
@@ -71,6 +75,7 @@ dietaryTags:
   - low-carb
 allergens:
   - soy
+image: 'https://imgs.search.brave.com/YNqYa5eVvrW_v-in4Yp67jKpJcW_Q8hj0oXV0r2gjqI/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly80MGFw/cm9ucy5jb20vd3At/Y29udGVudC91cGxv/YWRzLzIwMTgvMDkv/YmVzdC10b20ta2hh/LXNvdXAtMy5qcGc'
 nutrition:
   calories: 171
   protein: 19.7

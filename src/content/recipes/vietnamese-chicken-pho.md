@@ -1,6 +1,10 @@
 ---
 title: Vietnamese Chicken Pho
 slug: vietnamese-chicken-pho
+benefits:
+  - "Provides about 26 g protein per serving."
+  - "Provides about 2.4 g dietary fiber per serving."
+  - "Contributes about 11% of the daily value for potassium per serving."
 description: >-
   A fragrant ginger-cinnamon broth with rice noodles, shredded chicken, sprouts
   and herbs.

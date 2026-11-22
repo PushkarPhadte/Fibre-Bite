@@ -1,6 +1,10 @@
 ---
 title: Italian Herb Baked Zucchini Boats
 slug: italian-herb-baked-zucchini-boats
+benefits:
+  - "Provides about 5 g protein per serving."
+  - "Provides about 3 g dietary fiber per serving."
+  - "Contributes about 39% of the daily value for vitamin C per serving."
 description: >-
   Halved zucchini hollowed and stuffed with diced vegetables, marinara sauce,
   and baked with a sprinkle of parmesan.

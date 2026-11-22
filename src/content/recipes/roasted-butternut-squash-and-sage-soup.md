@@ -1,6 +1,10 @@
 ---
 title: Roasted Butternut Squash and Sage Soup
 slug: roasted-butternut-squash-and-sage-soup
+benefits:
+  - "Provides about 2.5 g protein per serving."
+  - "Provides about 4.5 g dietary fiber per serving."
+  - "Contributes about 36% of the daily value for vitamin C per serving."
 image: "https://images.unsplash.com/photo-1764015939108-7963106fa73b?auto=format&fit=crop&w=1200&q=80"
 description: >-
   Velvety smooth autumn soup prepared from oven-roasted butternut squash,

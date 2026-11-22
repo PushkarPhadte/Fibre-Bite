@@ -1,6 +1,10 @@
 ---
 title: Seared Salmon Edamame Rice Bowl
 slug: seared-salmon-edamame-rice-bowl
+benefits:
+  - "Provides about 34.5 g protein per serving."
+  - "Provides about 5.4 g dietary fiber per serving."
+  - "Contributes about 23% of the daily value for potassium per serving."
 description: >-
   Seared salmon over brown rice with edamame, cucumber, carrot and a sesame-lime
   dressing.

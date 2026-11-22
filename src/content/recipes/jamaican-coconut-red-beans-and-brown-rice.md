@@ -1,6 +1,10 @@
 ---
 title: Jamaican Coconut Red Beans and Brown Rice
 slug: jamaican-coconut-red-beans-and-brown-rice
+benefits:
+  - "Provides about 10.5 g protein per serving."
+  - "Provides about 6.8 g dietary fiber per serving."
+  - "Contributes about 20% of the daily value for iron per serving."
 description: >-
   Red kidney beans and brown rice simmered with thyme, ginger and a little
   coconut milk.
@@ -51,6 +55,7 @@ dietaryTags:
   - vegan
   - gluten-free
 allergens: []
+image: 'https://imgs.search.brave.com/c9IXsVNCjNGhh3PPJczsg6WH-HRe-XEiI9ClsKRf0M8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/Y3VyaW91c2N1aXNp/bmllcmUuY29tL3dw/LWNvbnRlbnQvdXBs/b2Fkcy8yMDE3LzA1/L0phbWFpY2FuLVJp/Y2UtYW5kLVBlYXMt/Q2FyaWJiZWFuLVJl/ZC1CZWFucy1hbmQt/UmljZS05MzA3LjIx/LmpwZw'
 nutrition:
   calories: 297
   protein: 10.5

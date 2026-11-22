@@ -1,6 +1,10 @@
 ---
 title: Barnyard Millet and Moong Dal Khichdi
 slug: barnyard-millet-moong-dal-khichdi
+benefits:
+  - "Provides about 11 g protein per serving."
+  - "Provides about 8 g dietary fiber per serving."
+  - "Contributes about 32% of the daily value for folate per serving."
 description: >-
   Comforting one-pot South and Central Indian porridge combining fiber-rich
   barnyard millet, yellow moong dal, turmeric, and ginger.

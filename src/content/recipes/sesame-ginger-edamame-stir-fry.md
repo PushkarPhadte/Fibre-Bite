@@ -1,6 +1,10 @@
 ---
 title: Sesame Ginger Edamame Stir-Fry
 slug: sesame-ginger-edamame-stir-fry
+benefits:
+  - "Provides about 15 g protein per serving."
+  - "Provides about 7 g dietary fiber per serving."
+  - "Contributes about 19% of the daily value for iron per serving."
 image: "https://images.unsplash.com/photo-1612658735891-15d427bca30d?auto=format&fit=crop&w=1200&q=80"
 description: >-
   Tender shelled edamame stir-fried with bok choy, carrots, snap peas, and

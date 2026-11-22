@@ -1,6 +1,10 @@
 ---
 title: Steamed Blue Mussels in Fennel and Leek Broth
 slug: steamed-mussels-fennel-leek-broth
+benefits:
+  - "Provides about 21 g protein per serving."
+  - "Provides about 4 g dietary fiber per serving."
+  - "Contributes about 58% of the daily value for vitamin C per serving."
 description: >-
   Lean, mineral-packed French-style steamed blue mussels cooked in a light
   aromatic broth of shaved fennel, leeks, garlic, thyme, and lemon.

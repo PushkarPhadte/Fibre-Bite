@@ -1,6 +1,10 @@
 ---
 title: Sopa de Lima (Yucatan Chicken and Lime Soup)
 slug: yucatan-sopa-de-lima-chicken-lime-soup
+benefits:
+  - "Provides about 18.6 g protein per serving."
+  - "Provides about 3.1 g dietary fiber per serving."
+  - "Contributes about 61% of the daily value for vitamin C per serving."
 description: >-
   Bright Mexican chicken soup with tomato, peppers and plenty of lime, topped
   with creamy avocado and fresh coriander.

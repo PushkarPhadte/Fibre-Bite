@@ -1,6 +1,10 @@
 ---
 title: Baked Tofu and Bok Choy Ginger Broth
 slug: baked-tofu-bok-choy-ginger-broth
+benefits:
+  - "Provides about 19 g protein per serving."
+  - "Provides about 3 g dietary fiber per serving."
+  - "Contributes about 51% of the daily value for vitamin C per serving."
 description: >-
   Crispy oven-baked firm tofu cubes served in a restorative ginger-garlic broth
   with tender baby bok choy.

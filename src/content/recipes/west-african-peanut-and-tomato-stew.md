@@ -1,6 +1,10 @@
 ---
 title: West African Peanut and Tomato Stew (Light Version)
 slug: west-african-peanut-and-tomato-stew
+benefits:
+  - "Provides about 6.5 g protein per serving."
+  - "Provides about 5.5 g dietary fiber per serving."
+  - "Contributes about 22% of the daily value for vitamin C per serving."
 image: "https://images.unsplash.com/photo-1540716908819-502544f3e963?auto=format&fit=crop&w=1200&q=80"
 description: >-
   A rich West African vegetable stew infused with natural peanut butter,

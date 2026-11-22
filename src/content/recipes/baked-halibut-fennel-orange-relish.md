@@ -1,6 +1,10 @@
 ---
 title: Baked Halibut with Fennel and Orange Relish
 slug: baked-halibut-fennel-orange-relish
+benefits:
+  - "Provides about 37 g protein per serving."
+  - "Provides about 4 g dietary fiber per serving."
+  - "Contributes about 49% of the daily value for vitamin C per serving."
 description: >-
   Lean Pacific halibut baked until moist and topped with crisp shaved fennel,
   fresh orange segments, and mint.

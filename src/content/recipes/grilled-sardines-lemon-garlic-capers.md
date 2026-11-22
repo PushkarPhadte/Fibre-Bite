@@ -1,6 +1,10 @@
 ---
 title: 'Grilled Sardines with Lemon, Garlic, and Capers'
 slug: grilled-sardines-lemon-garlic-capers
+benefits:
+  - "Provides about 39 g protein per serving."
+  - "Provides about 1 g dietary fiber per serving."
+  - "Contributes about 47% of the daily value for calcium per serving."
 description: >-
   Omega-3-rich sardines grilled briefly and topped with minced garlic, capers,
   lemon juice, and parsley.

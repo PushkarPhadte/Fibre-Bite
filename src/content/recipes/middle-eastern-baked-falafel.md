@@ -1,6 +1,10 @@
 ---
 title: Middle Eastern Baked Falafel
 slug: middle-eastern-baked-falafel
+benefits:
+  - "Provides about 9 g protein per serving."
+  - "Provides about 7 g dietary fiber per serving."
+  - "Contributes about 21% of the daily value for folate per serving."
 description: >-
   Crispy baked patties made from ground chickpeas, fresh parsley, cilantro, and
   warm Middle Eastern spices.

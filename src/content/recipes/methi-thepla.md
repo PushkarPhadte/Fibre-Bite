@@ -1,6 +1,10 @@
 ---
 title: Methi Thepla
 slug: methi-thepla
+benefits:
+  - "Provides about 8.6 g protein per serving."
+  - "Provides about 5.8 g dietary fiber per serving."
+  - "Contributes about 15% of the daily value for iron per serving."
 description: >-
   Gujarati whole wheat flatbreads flavoured with fresh fenugreek, cooked on a
   dry griddle.

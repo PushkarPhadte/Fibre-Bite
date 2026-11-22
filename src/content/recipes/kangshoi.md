@@ -1,6 +1,10 @@
 ---
 title: Kangshoi (Manipuri Oil-Free Vegetable Stew)
 slug: kangshoi
+benefits:
+  - "Provides about 3.8 g protein per serving."
+  - "Provides about 3.9 g dietary fiber per serving."
+  - "Contributes about 31% of the daily value for vitamin C per serving."
 image: "https://upload.wikimedia.org/wikipedia/commons/5/5d/Chamthong_%28alias_Kangshoi_or_Kangsoi%29_dish_-_Traditional_Meitei_cuisine_-_Gastronomic_cultural_heritage_of_Manipur_%26_domestic_and_international_Meitei_diasporas.jpg"
 imageAttribution:
   title: "Chamthong (alias Kangshoi or Kangsoi) dish"

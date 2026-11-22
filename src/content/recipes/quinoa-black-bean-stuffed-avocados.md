@@ -1,6 +1,10 @@
 ---
 title: Quinoa Black Bean Stuffed Avocados
 slug: quinoa-black-bean-stuffed-avocados
+benefits:
+  - "Provides about 6 g protein per serving."
+  - "Provides about 8 g dietary fiber per serving."
+  - "Contributes about 24% of the daily value for folate per serving."
 image: "https://images.unsplash.com/photo-1715611935696-a59ebf388252?auto=format&fit=crop&w=1200&q=80"
 description: >-
   Ripe avocado halves filled with protein-rich quinoa, black beans, corn, and a

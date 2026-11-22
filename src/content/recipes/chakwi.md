@@ -1,6 +1,10 @@
 ---
 title: Chakwi (Tripuri Boiled Vegetable Dish)
 slug: chakwi
+benefits:
+  - "Provides about 3.1 g protein per serving."
+  - "Provides about 4.6 g dietary fiber per serving."
+  - "Contributes about 18% of the daily value for vitamin C per serving."
 image: "https://images.unsplash.com/photo-1644946762933-8716dd20d0b1?auto=format&fit=crop&w=1200&q=80"
 description: >-
   A traditional, oil-free Tripuri stew prepared with bamboo shoots, green

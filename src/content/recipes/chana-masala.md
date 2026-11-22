@@ -1,6 +1,10 @@
 ---
 title: Chana Masala
 slug: chana-masala
+benefits:
+  - "Provides about 16 g protein per serving."
+  - "Provides about 14 g dietary fiber per serving."
+  - "Contributes about 55% of the daily value for folate per serving."
 description: >-
   A homestyle Punjabi chickpea curry simmered with tomatoes, ginger, amchur, and
   warming spices.

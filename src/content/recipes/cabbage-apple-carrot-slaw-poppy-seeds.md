@@ -1,6 +1,10 @@
 ---
 title: 'Cabbage, Apple, and Carrot Slaw with Poppy Seeds'
 slug: cabbage-apple-carrot-slaw-poppy-seeds
+benefits:
+  - "Provides about 2 g protein per serving."
+  - "Provides about 4 g dietary fiber per serving."
+  - "Contributes about 47% of the daily value for vitamin C per serving."
 description: >-
   Crisp shredded green cabbage, tart apple matchsticks, and grated carrot in a
   light cider poppy seed dressing.
@@ -38,7 +42,7 @@ dietaryTags:
   - gluten-free
   - high-fiber
 allergens: []
-image: 'https://www.cookipedia.co.uk/wiki/images/7/71/Ozzy'
+image: 'https://imgs.search.brave.com/IUX2O47wOMBfE_8za71sA-xqMWTqlqkVotnm6utjoGA/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zbWFs/bGZhcm1iaWdsaWZl/LmNvbS93cC1jb250/ZW50L3VwbG9hZHMv/MjAyMi8wOS9BcHBs/ZS1TbGF3LXdpdGgt/UG9wcHlzZWVkLURy/ZXNzaW5nLTI4NjUt/c2NhbGVkLmpwZw'
 nutrition:
   calories: 105
   protein: 2

@@ -1,6 +1,10 @@
 ---
 title: 'Brazilian Moqueca de Peixe (Bahian Fish, Bell Pepper, and Light Coconut Stew)'
 slug: brazilian-bahian-moqueca-fish-stew
+benefits:
+  - "Provides about 32 g protein per serving."
+  - "Provides about 3 g dietary fiber per serving."
+  - "Contributes about 161% of the daily value for vitamin C per serving."
 description: >-
   Aromatic coastal Brazilian seafood stew gently poaching firm white snapper in
   a vibrant broth of sweet red and yellow bell peppers, tomatoes, light coconut

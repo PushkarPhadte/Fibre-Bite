@@ -1,6 +1,10 @@
 ---
 title: Baked Black Bean and Oat Burgers in Lettuce Wraps
 slug: baked-black-bean-oat-burgers-lettuce-wraps
+benefits:
+  - "Provides about 10.6 g protein per serving."
+  - "Provides about 9.2 g dietary fiber per serving."
+  - "Contributes about 50% of the daily value for folate per serving."
 description: >-
   Smoky black bean patties with oats and chickpea flour, baked and served in
   crisp lettuce leaves with tomato and avocado.

@@ -1,6 +1,10 @@
 ---
 title: Moroccan Vegetable and Chickpea Couscous
 slug: moroccan-vegetable-and-chickpea-couscous
+benefits:
+  - "Provides about 11 g protein per serving."
+  - "Provides about 9 g dietary fiber per serving."
+  - "Contributes about 19% of the daily value for iron per serving."
 image: "https://upload.wikimedia.org/wikipedia/commons/0/0c/Moroccan_cuscus%2C_from_Casablanca%2C_September_2018.jpg"
 imageAttribution:
   title: "Moroccan cuscus, from Casablanca, September 2018"

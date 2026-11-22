@@ -1,6 +1,10 @@
 ---
 title: Mushroom Oat Cream Soup
 slug: mushroom-oat-cream-soup
+benefits:
+  - "Provides about 7.1 g protein per serving."
+  - "Provides about 2.3 g dietary fiber per serving."
+  - "Contributes about 11% of the daily value for potassium per serving."
 description: A dairy-light cream of mushroom soup thickened with oats instead of cream.
 baseServings: 4
 ingredients:

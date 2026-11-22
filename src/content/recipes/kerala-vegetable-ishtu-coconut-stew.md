@@ -1,6 +1,10 @@
 ---
 title: Kerala Vegetable Ishtu (Gentle Spiced Coconut Milk Stew)
 slug: kerala-vegetable-ishtu-coconut-stew
+benefits:
+  - "Provides about 5 g protein per serving."
+  - "Provides about 6 g dietary fiber per serving."
+  - "Contributes about 38% of the daily value for vitamin C per serving."
 description: >-
   Soothing, mildly spiced Kerala vegetable stew of carrots, green beans,
   potatoes, and sweet green peas simmered in light coconut milk with whole

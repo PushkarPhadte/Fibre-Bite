@@ -1,6 +1,10 @@
 ---
 title: Kanji (Odia Rice and Curd Fermented Soup)
 slug: kanji
+benefits:
+  - "Provides about 2.6 g protein per serving."
+  - "Provides about 1.8 g dietary fiber per serving."
+  - "Contributes about 12% of the daily value for vitamin C per serving."
 image: "https://images.unsplash.com/photo-1621658536602-d7e121971b90?auto=format&fit=crop&w=1200&q=80"
 description: >-
   A cooling, probiotic Odia rice water soup fermented overnight with mustard

@@ -1,6 +1,10 @@
 ---
 title: Greek Yogurt Berry Flax Parfait
 slug: greek-yogurt-berry-flax-parfait
+benefits:
+  - "Provides about 19.1 g protein per serving."
+  - "Provides about 5.9 g dietary fiber per serving."
+  - "Contributes about 10% of the daily value for potassium per serving."
 description: >-
   Layers of Greek yogurt, fresh berries, ground flax and walnuts with no added
   sugar.
@@ -37,6 +41,7 @@ dietaryTags:
 allergens:
   - milk
   - tree-nuts
+image: 'https://imgs.search.brave.com/Wx3CyfJXcbX-RKVUcprviueEkUpo7PmLyuK3Tc6XXdU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/Y3VydmVzLmNvbS93/cC1jb250ZW50L3Vw/bG9hZHMvMjAyMC8x/Mi9DTkEzMDE2Ml8y/MDIxX1JlY2lwZXNf/QmxvZ0hlcm9fMTE0/MHg1ODBfMi5qcGc'
 nutrition:
   calories: 274
   protein: 19.1

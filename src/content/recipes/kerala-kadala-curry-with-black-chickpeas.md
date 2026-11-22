@@ -1,6 +1,10 @@
 ---
 title: Kerala Kadala Curry with Black Chickpeas
 slug: kerala-kadala-curry-with-black-chickpeas
+benefits:
+  - "Provides about 9.7 g protein per serving."
+  - "Provides about 7.7 g dietary fiber per serving."
+  - "Contributes about 14% of the daily value for iron per serving."
 description: >-
   Black chickpeas simmered in a roasted-coconut gravy with fennel and curry
   leaves.

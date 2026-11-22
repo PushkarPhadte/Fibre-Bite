@@ -1,6 +1,10 @@
 ---
 title: Peanut Lime Cabbage Slaw
 slug: peanut-lime-cabbage-slaw
+benefits:
+  - "Provides about 4.7 g protein per serving."
+  - "Provides about 4.6 g dietary fiber per serving."
+  - "Contributes about 9% of the daily value for potassium per serving."
 description: Shredded green and red cabbage with carrot in a ginger-peanut-lime dressing.
 baseServings: 3
 ingredients:

@@ -1,6 +1,10 @@
 ---
 title: Gingered Bok Choy and Shiitake Broth
 slug: ginger-ed-bok-choy-and-shiitake-broth
+benefits:
+  - "Provides about 5 g protein per serving."
+  - "Provides about 3 g dietary fiber per serving."
+  - "Contributes about 57% of the daily value for vitamin C per serving."
 description: >-
   Soothing clear broth infused with fresh ginger, shiitake mushrooms, and crisp
   baby bok choy.

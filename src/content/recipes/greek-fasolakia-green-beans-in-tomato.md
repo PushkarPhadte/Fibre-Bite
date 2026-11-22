@@ -1,6 +1,10 @@
 ---
 title: Fasolakia (Greek Green Beans Braised in Tomato)
 slug: greek-fasolakia-green-beans-in-tomato
+benefits:
+  - "Provides about 5 g protein per serving."
+  - "Provides about 6.7 g dietary fiber per serving."
+  - "Contributes about 51% of the daily value for vitamin C per serving."
 description: >-
   Tender green beans and potato slowly braised in olive oil, tomato and garlic,
   the way Greek families make it all summer.
@@ -51,6 +55,7 @@ dietaryTags:
   - vegan
   - gluten-free
 allergens: []
+image: 'https://imgs.search.brave.com/gUUTwVmsYayODoDjm2QrHbdGUJy4UqaGogN7fxqoIdQ/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9lYXRp/bmdldXJvcGVhbi5j/b20vd3AtY29udGVu/dC91cGxvYWRzLzIw/MTkvMDgvR3JlZWst/R3JlZW4tQmVhbnMt/RmFzb2xha2lhLTE3/LmpwZw'
 nutrition:
   calories: 196
   protein: 5

@@ -1,6 +1,10 @@
 ---
 title: Charred Eggplant and Tomato Shakshuka-Style Stew
 slug: charred-eggplant-tomato-shakshuka-stew
+benefits:
+  - "Provides about 4 g protein per serving."
+  - "Provides about 8 g dietary fiber per serving."
+  - "Contributes about 27% of the daily value for vitamin C per serving."
 description: >-
   Smoky diced eggplant simmered with crushed tomatoes, smoked cumin, garlic, and
   fresh basil.

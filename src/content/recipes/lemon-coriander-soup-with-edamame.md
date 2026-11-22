@@ -1,6 +1,10 @@
 ---
 title: Lemon Coriander Soup with Edamame
 slug: lemon-coriander-soup-with-edamame
+benefits:
+  - "Provides about 3.7 g protein per serving."
+  - "Provides about 3.3 g dietary fiber per serving."
+  - "Contributes about 7% of the daily value for potassium per serving."
 description: >-
   An Indian-style clear vegetable soup with lemon, coriander and edamame for
   protein.
@@ -60,6 +64,7 @@ dietaryTags:
   - low-carb
 allergens:
   - soy
+image: 'https://imgs.search.brave.com/9GlNW9xDZZMAX2SrfZs0oOutU_1GgE_jjaHy5itKwno/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pMC53/cC5jb20vd3d3LnNo/YW5henJhZmlxLmNv/bS93cC1jb250ZW50/L3VwbG9hZHMvMjAy/MC8wMi9MZW1vbi1D/b3JpYW5kZXItU291/cC0xLmpwZz9maXQ9/ODAwLDUzMiZzc2w9/MQ'
 nutrition:
   calories: 78
   protein: 3.7

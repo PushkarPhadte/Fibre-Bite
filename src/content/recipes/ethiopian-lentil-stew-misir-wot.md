@@ -1,6 +1,10 @@
 ---
 title: Ethiopian Lentil Stew (Misir Wot)
 slug: ethiopian-lentil-stew-misir-wot
+benefits:
+  - "Provides about 11 g protein per serving."
+  - "Provides about 8.5 g dietary fiber per serving."
+  - "Contributes about 30% of the daily value for folate per serving."
 image: "https://images.unsplash.com/photo-1679917010073-ead631d41d91?auto=format&fit=crop&w=1200&q=80"
 description: >-
   A spicy Ethiopian red lentil stew simmered with berbere spice blend, garlic,

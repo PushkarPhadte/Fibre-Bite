@@ -1,6 +1,10 @@
 ---
 title: Vegetable Moong Dal Khichdi
 slug: vegetable-moong-dal-khichdi
+benefits:
+  - "Provides about 15 g protein per serving."
+  - "Provides about 8 g dietary fiber per serving."
+  - "Contributes about 31% of the daily value for folate per serving."
 description: >-
   A comforting one-pot rice and mung dal meal with vegetables, turmeric, cumin,
   and ginger.

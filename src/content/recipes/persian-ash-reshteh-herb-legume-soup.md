@@ -1,6 +1,10 @@
 ---
 title: 'Persian Ash Reshteh (Thick Herb, Bean, and Noodle Soup)'
 slug: persian-ash-reshteh-herb-legume-soup
+benefits:
+  - "Provides about 17 g protein per serving."
+  - "Provides about 11 g dietary fiber per serving."
+  - "Contributes about 78% of the daily value for folate per serving."
 description: >-
   Nourishing Iranian celebration soup packed with spinach, fresh parsley,
   cilantro, scallions, lentils, kidney beans, chickpeas, and whole-wheat noodles

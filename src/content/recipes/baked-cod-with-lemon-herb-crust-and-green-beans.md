@@ -1,6 +1,10 @@
 ---
 title: Baked Cod with Lemon Herb Crust and Green Beans
 slug: baked-cod-with-lemon-herb-crust-and-green-beans
+benefits:
+  - "Provides about 31 g protein per serving."
+  - "Provides about 5 g dietary fiber per serving."
+  - "Contributes about 21% of the daily value for vitamin C per serving."
 description: >-
   Flaky cod fillets topped with a crisp whole-grain herb crumb and baked beside
   tender green beans.

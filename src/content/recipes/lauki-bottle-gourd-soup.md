@@ -1,6 +1,10 @@
 ---
 title: Lauki Bottle Gourd Soup
 slug: lauki-bottle-gourd-soup
+benefits:
+  - "Provides about 1.1 g protein per serving."
+  - "Provides about 1.1 g dietary fiber per serving."
+  - "Contributes about 4% of the daily value for iron per serving."
 description: 'A light Indian bottle gourd soup with cumin, garlic, pepper and mint.'
 baseServings: 4
 ingredients:
@@ -43,6 +47,7 @@ dietaryTags:
   - gluten-free
   - low-carb
 allergens: []
+image: 'https://imgs.search.brave.com/braP0VxK7XxDwIu7rixB6d9pUf3arnTGx_eZxIhUk78/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/aW5kaWFudmVnZ2ll/ZGVsaWdodC5jb20v/d3AtY29udGVudC91/cGxvYWRzLzIwMjAv/MDYvbGF1a2ktbW9v/bmctZGFsLXNvdXAt/MS5qcGc'
 nutrition:
   calories: 47
   protein: 1.1

@@ -1,6 +1,10 @@
 ---
 title: Chicken Vegetable Millet Soup
 slug: chicken-vegetable-millet-soup
+benefits:
+  - "Provides about 19.4 g protein per serving."
+  - "Provides about 2.7 g dietary fiber per serving."
+  - "Contributes about 10% of the daily value for potassium per serving."
 description: 'A warming soup with lean chicken, foxtail millet, carrot and celery.'
 baseServings: 4
 ingredients:

@@ -1,6 +1,10 @@
 ---
 title: Baked Eggplant Parmigiana (Light Style)
 slug: baked-eggplant-parmigiana
+benefits:
+  - "Provides about 10 g protein per serving."
+  - "Provides about 6 g dietary fiber per serving."
+  - "Contributes about 18% of the daily value for calcium per serving."
 description: >-
   A lighter Italian bake made with layered grilled eggplant, marinara tomato
   sauce, fresh basil, and melted skim mozzarella.

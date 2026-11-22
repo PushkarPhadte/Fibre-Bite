@@ -1,6 +1,10 @@
 ---
 title: Kadai Mushroom with Bell Peppers
 slug: kadai-mushroom-with-bell-peppers
+benefits:
+  - "Provides about 5.3 g protein per serving."
+  - "Provides about 4.8 g dietary fiber per serving."
+  - "Contributes about 16% of the daily value for potassium per serving."
 description: >-
   Mushrooms and peppers in a freshly ground coriander-chilli kadai masala, made
   light.
@@ -58,6 +62,7 @@ dietaryTags:
   - gluten-free
   - low-carb
 allergens: []
+image: 'https://imgs.search.brave.com/-Wvw3COrooixiIGIz6bUOEknv6oPcWDwGHMNp1jowBk/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/ZnVuZm9vZGZyb2xp/Yy5jb20vd3AtY29u/dGVudC91cGxvYWRz/LzIwMjUvMDcvS2Fk/YWktTXVzaHJvb20t/My0xLmpwZw'
 nutrition:
   calories: 105
   protein: 5.3

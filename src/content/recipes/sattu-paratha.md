@@ -1,6 +1,10 @@
 ---
 title: Sattu Paratha (Bihari Roasted Gram Flatbread)
 slug: sattu-paratha
+benefits:
+  - "Provides about 9.8 g protein per serving."
+  - "Provides about 7.1 g dietary fiber per serving."
+  - "Contributes about 18% of the daily value for iron per serving."
 image: "https://images.unsplash.com/photo-1683533761804-5fc12be0f684?auto=format&fit=crop&w=1200&q=80"
 description: >-
   A staple Bihari flatbread stuffed with spiced roasted Bengal gram flour

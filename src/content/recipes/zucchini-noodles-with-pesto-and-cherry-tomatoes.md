@@ -1,6 +1,10 @@
 ---
 title: Zucchini Noodles with Pesto and Cherry Tomatoes
 slug: zucchini-noodles-with-pesto-and-cherry-tomatoes
+benefits:
+  - "Provides about 4 g protein per serving."
+  - "Provides about 3 g dietary fiber per serving."
+  - "Contributes about 31% of the daily value for vitamin C per serving."
 description: >-
   Spiralized zucchini noodles tossed in vibrant basil pesto and topped with
   sweet blistered cherry tomatoes.

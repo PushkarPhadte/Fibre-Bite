@@ -1,6 +1,10 @@
 ---
 title: Tofu and Vegetable Rice Paper Dumplings
 slug: tofu-and-vegetable-rice-paper-dumplings
+benefits:
+  - "Provides about 8.5 g protein per serving."
+  - "Provides about 3 g dietary fiber per serving."
+  - "Contributes about 12% of the daily value for iron per serving."
 image: "https://images.unsplash.com/photo-1761315413902-bc9d78fcaaab?auto=format&fit=crop&w=1200&q=80"
 description: >-
   Crispy pan-seared rice paper rolls packed with shredded cabbage, carrots,

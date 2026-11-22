@@ -1,6 +1,10 @@
 ---
 title: Chinese Tomato and Soft Egg Stir-Fry (Fanqie Chao Dan)
 slug: chinese-tomato-and-egg-stir-fry
+benefits:
+  - "Provides about 15 g protein per serving."
+  - "Provides about 3 g dietary fiber per serving."
+  - "Contributes about 35% of the daily value for vitamin C per serving."
 description: >-
   Beloved everyday Chinese home-cooked dish folding tender, velvety softly
   scrambled eggs into a juicy, lightly garlicky stir-fried ripe tomato and

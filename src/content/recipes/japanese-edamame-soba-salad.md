@@ -1,6 +1,10 @@
 ---
 title: Japanese Edamame Soba Salad
 slug: japanese-edamame-soba-salad
+benefits:
+  - "Provides about 12 g protein per serving."
+  - "Provides about 6 g dietary fiber per serving."
+  - "Contributes about 28% of the daily value for vitamin C per serving."
 image: "https://images.unsplash.com/photo-1597958792579-bd3517df6399?auto=format&fit=crop&w=1200&q=80"
 description: >-
   Nutty buckwheat soba noodles tossed with shelled edamame, shredded cabbage,

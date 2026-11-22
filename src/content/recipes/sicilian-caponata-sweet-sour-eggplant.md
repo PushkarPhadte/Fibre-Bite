@@ -1,6 +1,10 @@
 ---
 title: 'Sicilian Caponata (Sweet-and-Sour Eggplant, Celery, and Caper Relish)'
 slug: sicilian-caponata-sweet-sour-eggplant
+benefits:
+  - "Provides about 4 g protein per serving."
+  - "Provides about 7 g dietary fiber per serving."
+  - "Contributes about 20% of the daily value for vitamin C per serving."
 description: >-
   Oven-roasted Sicilian agrodolce vegetable stew combining tender eggplant,
   crisp celery, ripe tomatoes, toasted pine nuts, rinsed capers, and red wine

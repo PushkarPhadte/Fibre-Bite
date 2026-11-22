@@ -1,6 +1,10 @@
 ---
 title: Zucchini Noodle Basil Pesto Pasta
 slug: zucchini-noodle-basil-pesto-pasta
+benefits:
+  - "Provides about 6 g protein per serving."
+  - "Provides about 2 g dietary fiber per serving."
+  - "Contributes about 39% of the daily value for vitamin C per serving."
 image: "https://upload.wikimedia.org/wikipedia/commons/e/ed/Basil_pesto_pasta.jpg"
 imageAttribution:
   title: "Basil pesto pasta"

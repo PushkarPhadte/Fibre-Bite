@@ -1,6 +1,10 @@
 ---
 title: 'Senegalese Chicken Yassa (Braised Citrus, Onion, and Mustard Chicken)'
 slug: senegalese-chicken-yassa-onion-lemon
+benefits:
+  - "Provides about 32 g protein per serving."
+  - "Provides about 3 g dietary fiber per serving."
+  - "Contributes about 25% of the daily value for vitamin C per serving."
 description: >-
   Iconic West African braised skinless chicken thighs marinated overnight in
   fresh lemon juice, whole-grain mustard, garlic, and sweet caramelized onions

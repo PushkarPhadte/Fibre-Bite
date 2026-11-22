@@ -1,6 +1,10 @@
 ---
 title: Steamed Green Beans with Sesame and Crushed Almonds
 slug: steamed-green-beans-sesame-crushed-almonds
+benefits:
+  - "Provides about 5 g protein per serving."
+  - "Provides about 6 g dietary fiber per serving."
+  - "Contributes about 20% of the daily value for vitamin C per serving."
 description: >-
   Crisp-tender steamed green beans finished with toasted white sesame seeds,
   crushed almonds, and rice vinegar.

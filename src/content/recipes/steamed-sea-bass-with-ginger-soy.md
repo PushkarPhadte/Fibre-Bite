@@ -1,6 +1,10 @@
 ---
 title: Steamed Sea Bass with Ginger Soy
 slug: steamed-sea-bass-with-ginger-soy
+benefits:
+  - "Provides about 28 g protein per serving."
+  - "Provides about 0 g dietary fiber per serving."
+  - "Contributes about 8% of the daily value for potassium per serving."
 image: "https://images.unsplash.com/photo-1760504526044-840cade997b2?auto=format&fit=crop&w=1200&q=80"
 description: >-
   Delicate sea bass fillets steamed with julienned ginger, scallions, and light

@@ -1,6 +1,10 @@
 ---
 title: Rajasthani Steamed Gatte ki Sabzi (Chickpea Dumplings in Yogurt Gravy)
 slug: rajasthani-steamed-gatte-ki-sabzi
+benefits:
+  - "Provides about 14 g protein per serving."
+  - "Provides about 6 g dietary fiber per serving."
+  - "Contributes about 49% of the daily value for folate per serving."
 description: >-
   Lightened Rajasthani classic featuring steamed spiced chickpea flour
   medallions simmered in a tangy, aromatic low-fat yogurt and tomato gravy

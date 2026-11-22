@@ -1,6 +1,10 @@
 ---
 title: Hot and Sour Tofu Mushroom Soup
 slug: hot-and-sour-tofu-mushroom-soup
+benefits:
+  - "Provides about 10.8 g protein per serving."
+  - "Provides about 3 g dietary fiber per serving."
+  - "Contributes about 11% of the daily value for iron per serving."
 description: 'A peppery, tangy soup with tofu, mushrooms and cabbage.'
 baseServings: 4
 ingredients:
@@ -55,6 +59,7 @@ dietaryTags:
   - low-carb
 allergens:
   - soy
+image: 'https://imgs.search.brave.com/Boif6YqZ1pMEGhn2R243FTF9aOi_SxeRcS67qmXbDEg/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pLmlt/Z3VyLmNvbS9vWFR4/d0pULmpwZw'
 nutrition:
   calories: 113
   protein: 10.8

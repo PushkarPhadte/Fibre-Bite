@@ -1,6 +1,10 @@
 ---
 title: Greek Baked Giant Beans (Gigantes Plaki)
 slug: greek-baked-giant-beans
+benefits:
+  - "Provides about 11 g protein per serving."
+  - "Provides about 9 g dietary fiber per serving."
+  - "Contributes about 26% of the daily value for folate per serving."
 description: >-
   Large butter beans baked slow in a rich, oregano-infused tomato and garlic
   sauce topped with fresh parsley.

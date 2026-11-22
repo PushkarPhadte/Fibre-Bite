@@ -1,6 +1,10 @@
 ---
 title: Mediterranean Baked Eggplant Boats
 slug: mediterranean-baked-eggplant-boats
+benefits:
+  - "Provides about 8 g protein per serving."
+  - "Provides about 7 g dietary fiber per serving."
+  - "Contributes about 12% of the daily value for iron per serving."
 image: "https://upload.wikimedia.org/wikipedia/commons/9/9c/Aubergine_Boats_with_Chilli_%26_Cheese_%2825747317768%29.jpg"
 imageAttribution:
   title: "Aubergine Boats with Chilli & Cheese"

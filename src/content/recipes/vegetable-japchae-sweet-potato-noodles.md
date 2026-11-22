@@ -1,6 +1,10 @@
 ---
 title: Vegetable Japchae (Korean Sweet Potato Noodle Stir-Fry)
 slug: vegetable-japchae-sweet-potato-noodles
+benefits:
+  - "Provides about 4.1 g protein per serving."
+  - "Provides about 3.5 g dietary fiber per serving."
+  - "Contributes about 53% of the daily value for vitamin C per serving."
 description: >-
   Chewy glass noodles stir-fried with spinach, mushrooms, carrot and peppers in
   a light tamari-sesame dressing.

@@ -1,6 +1,10 @@
 ---
 title: Baked Spinach and Sweet Potato Cutlets
 slug: baked-spinach-sweet-potato-cutlets
+benefits:
+  - "Provides about 4 g protein per serving."
+  - "Provides about 4.1 g dietary fiber per serving."
+  - "Contributes about 24% of the daily value for folate per serving."
 description: >-
   Spiced sweet potato and spinach patties bound with roasted chickpea flour and
   baked rather than fried.

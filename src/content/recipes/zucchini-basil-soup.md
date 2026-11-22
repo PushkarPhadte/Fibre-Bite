@@ -1,6 +1,10 @@
 ---
 title: Zucchini Basil Soup
 slug: zucchini-basil-soup
+benefits:
+  - "Provides about 3 g protein per serving."
+  - "Provides about 2.8 g dietary fiber per serving."
+  - "Contributes about 13% of the daily value for potassium per serving."
 description: A light green soup of zucchini and potato blended with fresh basil.
 baseServings: 4
 ingredients:

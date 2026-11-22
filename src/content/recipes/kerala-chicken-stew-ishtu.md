@@ -1,6 +1,10 @@
 ---
 title: Kerala Chicken Stew (Ishtu)
 slug: kerala-chicken-stew-ishtu
+benefits:
+  - "Provides about 27.1 g protein per serving."
+  - "Provides about 2.8 g dietary fiber per serving."
+  - "Contributes about 22% of the daily value for vitamin C per serving."
 description: >-
   A mild, aromatic Kerala stew of chicken and vegetables in a light coconut milk
   broth with ginger, black pepper and whole spices.
@@ -66,6 +70,7 @@ dietaryTags:
   - high-protein
   - low-carb
 allergens: []
+image: 'https://imgs.search.brave.com/UAhZ4eIt7WUh5WsNQU3ACGR_TkwAmw7AyQWkNSamgY8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/Y29va2VhdGxhdWdo/LmNvbS93cC1jb250/ZW50L3VwbG9hZHMv/MjAyMS8wMi9PbmUt/UG90LUtlcmFsYS1D/aGlja2VuLVN0ZXct/MS0yLTYwMHg2MDMu/anBn'
 nutrition:
   calories: 303
   protein: 27.1

@@ -1,6 +1,10 @@
 ---
 title: Grilled Lemon Herb Asparagus
 slug: grilled-lemon-herb-asparagus
+benefits:
+  - "Provides about 3 g protein per serving."
+  - "Provides about 2.5 g dietary fiber per serving."
+  - "Contributes about 33% of the daily value for folate per serving."
 description: >-
   Fresh tender asparagus spears grilled with olive oil, garlic, lemon zest, and
   cracked black pepper.

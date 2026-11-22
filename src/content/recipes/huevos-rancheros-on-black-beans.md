@@ -1,6 +1,10 @@
 ---
 title: Huevos Rancheros on Black Beans
 slug: huevos-rancheros-on-black-beans
+benefits:
+  - "Provides about 19.9 g protein per serving."
+  - "Provides about 13.5 g dietary fiber per serving."
+  - "Contributes about 27% of the daily value for iron per serving."
 description: >-
   Eggs baked in a spiced tomato sauce over black beans, with avocado; no
   tortilla needed.
@@ -56,6 +60,7 @@ dietaryTags:
   - high-fiber
 allergens:
   - eggs
+image: 'https://imgs.search.brave.com/CkqnMxvXI7PrWduByTQ8UdwEcO_hbubAv0nWLH0GKj4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9kZWxp/c2hhYmx5LmNvbS8u/aW1hZ2UvTVRnNk1E/QXdNREF3TURBd01E/WXpOek16L2h1ZXZv/cy1yYW5jaGVyb3Mt/d2l0aC1ibGFjay1i/ZWFucy1oZXJvLWlt/YWdlLmpwZz9wcm9m/aWxlPXcyNTYwJmFy/PTE2LTk'
 nutrition:
   calories: 354
   protein: 19.9

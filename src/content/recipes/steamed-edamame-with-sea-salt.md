@@ -1,6 +1,10 @@
 ---
 title: Steamed Edamame with Sea Salt
 slug: steamed-edamame-with-sea-salt
+benefits:
+  - "Provides about 11 g protein per serving."
+  - "Provides about 6 g dietary fiber per serving."
+  - "Contributes about 60% of the daily value for folate per serving."
 image: "https://images.unsplash.com/photo-1708428661248-03d821e192eb?auto=format&fit=crop&w=1200&q=80"
 description: >-
   Young green soybeans steamed in their pods and tossed with coarse sea salt,

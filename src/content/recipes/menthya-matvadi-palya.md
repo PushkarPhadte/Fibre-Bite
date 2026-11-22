@@ -1,6 +1,10 @@
 ---
 title: Menthya Matvadi Palya (Karnataka Fenugreek Lentil Stir-Fry)
 slug: menthya-matvadi-palya
+benefits:
+  - "Provides about 7.2 g protein per serving."
+  - "Provides about 5.8 g dietary fiber per serving."
+  - "Contributes about 17% of the daily value for iron per serving."
 image: "https://images.unsplash.com/photo-1657186394392-ea2ec3b63897?auto=format&fit=crop&w=1200&q=80"
 description: >-
   A nutrient-dense Karnataka dry dish made with fresh fenugreek leaves and

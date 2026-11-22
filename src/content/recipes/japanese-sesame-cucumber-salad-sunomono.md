@@ -1,6 +1,10 @@
 ---
 title: Japanese Sesame Cucumber Salad (Sunomono)
 slug: japanese-sesame-cucumber-salad-sunomono
+benefits:
+  - "Provides about 1 g protein per serving."
+  - "Provides about 1 g dietary fiber per serving."
+  - "Contributes about 9% of the daily value for vitamin C per serving."
 description: >-
   Crisp Japanese cucumber ribbons pickled gently in rice vinegar, soy sauce, and
   toasted sesame seeds.

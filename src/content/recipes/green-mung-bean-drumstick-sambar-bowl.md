@@ -1,6 +1,10 @@
 ---
 title: Green Mung Bean and Drumstick Sambar Bowl
 slug: green-mung-bean-drumstick-sambar-bowl
+benefits:
+  - "Provides about 14 g protein per serving."
+  - "Provides about 11 g dietary fiber per serving."
+  - "Contributes about 79% of the daily value for folate per serving."
 description: >-
   South Indian spiced green mung bean stew simmered with moringa drumsticks,
   tomatoes, tamarind, and curry leaves.

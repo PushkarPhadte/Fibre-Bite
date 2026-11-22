@@ -1,6 +1,10 @@
 ---
 title: Spanish Escalivada with White Anchovies
 slug: spanish-escalivada-white-anchovies
+benefits:
+  - "Provides about 14 g protein per serving."
+  - "Provides about 7 g dietary fiber per serving."
+  - "Contributes about 187% of the daily value for vitamin C per serving."
 description: >-
   Smoky Catalan oven-roasted red peppers, eggplant, and sweet onions dressed in
   sherry vinegar and olive oil, finished with omega-3-rich white anchovies.

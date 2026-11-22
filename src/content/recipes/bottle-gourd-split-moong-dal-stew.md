@@ -1,6 +1,10 @@
 ---
 title: Bottle Gourd and Split Moong Dal Stew
 slug: bottle-gourd-split-moong-dal-stew
+benefits:
+  - "Provides about 9 g protein per serving."
+  - "Provides about 7 g dietary fiber per serving."
+  - "Contributes about 36% of the daily value for folate per serving."
 description: >-
   Hydrating, light Indian stew of tender bottle gourd (lauki), yellow lentils,
   curry leaves, and mild spices.

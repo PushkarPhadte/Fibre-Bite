@@ -1,6 +1,10 @@
 ---
 title: Black Lentil and Barley Harvest Soup
 slug: black-lentil-and-barley-harvest-soup
+benefits:
+  - "Provides about 15 g protein per serving."
+  - "Provides about 14 g dietary fiber per serving."
+  - "Contributes about 53% of the daily value for folate per serving."
 description: >-
   Hearty vegetable soup made with beluga lentils, hulled barley, celery,
   carrots, and thyme.

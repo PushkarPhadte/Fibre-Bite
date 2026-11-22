@@ -1,6 +1,10 @@
 ---
 title: Vegetable Dalia Porridge
 slug: vegetable-dalia-porridge
+benefits:
+  - "Provides about 7.9 g protein per serving."
+  - "Provides about 9.2 g dietary fiber per serving."
+  - "Contributes about 15% of the daily value for iron per serving."
 description: 'Savoury broken wheat porridge simmered with vegetables, ginger and cumin.'
 baseServings: 2
 ingredients:

@@ -1,6 +1,10 @@
 ---
 title: Wild Rice and Pecan Stuffed Acorn Squash
 slug: wild-rice-pecan-stuffed-acorn-squash
+benefits:
+  - "Provides about 10 g protein per serving."
+  - "Provides about 9 g dietary fiber per serving."
+  - "Contributes about 41% of the daily value for magnesium per serving."
 description: >-
   Roasted acorn squash halves brimming with nutty black wild rice, sautéed
   celery, shallots, fresh thyme, toasted pecans, and unsweetened dried

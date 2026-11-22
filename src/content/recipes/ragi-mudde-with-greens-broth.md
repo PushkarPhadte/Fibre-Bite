@@ -1,6 +1,10 @@
 ---
 title: Karnataka Ragi Mudde with Spiced Greens Broth
 slug: ragi-mudde-with-greens-broth
+benefits:
+  - "Provides about 12 g protein per serving."
+  - "Provides about 12 g dietary fiber per serving."
+  - "Contributes about 48% of the daily value for folate per serving."
 description: >-
   Calcium-packed rural Karnataka staple of steamed finger millet dumplings
   served alongside a garlicky, pepper-scented toor dal and amaranth greens broth

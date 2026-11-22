@@ -1,6 +1,10 @@
 ---
 title: Southwest Turkey Chili
 slug: southwest-turkey-chili
+benefits:
+  - "Provides about 26 g protein per serving."
+  - "Provides about 9 g dietary fiber per serving."
+  - "Contributes about 21% of the daily value for iron per serving."
 image: "https://images.unsplash.com/photo-1790701909034-6c7b45c7b58a?auto=format&fit=crop&w=1200&q=80"
 description: >-
   A lean and comforting chili made with ground turkey, kidney beans, tomatoes,

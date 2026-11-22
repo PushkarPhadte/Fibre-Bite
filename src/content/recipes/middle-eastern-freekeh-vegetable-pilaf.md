@@ -1,6 +1,10 @@
 ---
 title: Middle Eastern Freekeh Vegetable Pilaf
 slug: middle-eastern-freekeh-vegetable-pilaf
+benefits:
+  - "Provides about 6.5 g protein per serving."
+  - "Provides about 7 g dietary fiber per serving."
+  - "Contributes about 13% of the daily value for iron per serving."
 image: "https://images.unsplash.com/photo-1647714013867-f62bc1cc2039?auto=format&fit=crop&w=1200&q=80"
 description: >-
   Nutty roasted green wheat (freekeh) cooked with onions, carrots, peas, and

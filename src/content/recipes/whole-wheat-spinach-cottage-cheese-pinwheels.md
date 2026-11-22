@@ -1,6 +1,10 @@
 ---
 title: Whole-Wheat Spinach and Cottage Cheese Pinwheels
 slug: whole-wheat-spinach-cottage-cheese-pinwheels
+benefits:
+  - "Provides about 15 g protein per serving."
+  - "Provides about 6 g dietary fiber per serving."
+  - "Contributes about 24% of the daily value for folate per serving."
 description: >-
   Rolled whole-wheat flatbreads filled with seasoned low-fat cottage cheese,
   chopped spinach, and garlic.

@@ -1,6 +1,10 @@
 ---
 title: Peanut Butter Apple Chia Stacks
 slug: peanut-butter-apple-chia-stacks
+benefits:
+  - "Provides about 5 g protein per serving."
+  - "Provides about 6.4 g dietary fiber per serving."
+  - "Contributes about 6% of the daily value for potassium per serving."
 description: >-
   Apple rounds topped with natural peanut butter and chia seeds for a no-cook
   breakfast.

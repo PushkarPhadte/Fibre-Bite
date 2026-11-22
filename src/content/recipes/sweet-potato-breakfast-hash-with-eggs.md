@@ -1,6 +1,10 @@
 ---
 title: Sweet Potato Breakfast Hash with Eggs
 slug: sweet-potato-breakfast-hash-with-eggs
+benefits:
+  - "Provides about 16.1 g protein per serving."
+  - "Provides about 6.6 g dietary fiber per serving."
+  - "Contributes about 19% of the daily value for iron per serving."
 description: 'Diced sweet potato roasted in a skillet with peppers, topped with baked eggs.'
 baseServings: 2
 ingredients:

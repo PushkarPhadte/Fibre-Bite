@@ -1,6 +1,10 @@
 ---
 title: Nigerian Light Egusi and Spinach Stew
 slug: nigerian-light-egusi-spinach-stew
+benefits:
+  - "Provides about 12 g protein per serving."
+  - "Provides about 6 g dietary fiber per serving."
+  - "Contributes about 123% of the daily value for vitamin C per serving."
 description: >-
   Protein- and mineral-rich West African stew of toasted ground melon seeds
   simmered into fluffy curds inside a roasted red bell pepper, tomato, and

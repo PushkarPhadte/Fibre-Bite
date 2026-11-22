@@ -1,6 +1,10 @@
 ---
 title: Kanjeevaram Idli (Spiced Steamed Rice Cakes)
 slug: kanjeevaram-idli
+benefits:
+  - "Provides about 4.6 g protein per serving."
+  - "Provides about 2.4 g dietary fiber per serving."
+  - "Contributes about 8% of the daily value for magnesium per serving."
 description: >-
   A fragrant South Indian steamed cake spiced with black pepper, cumin, ginger,
   and curry leaves.

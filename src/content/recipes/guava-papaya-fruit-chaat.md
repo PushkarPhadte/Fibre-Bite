@@ -1,6 +1,10 @@
 ---
 title: Guava Papaya Fruit Chaat
 slug: guava-papaya-fruit-chaat
+benefits:
+  - "Provides about 4 g protein per serving."
+  - "Provides about 9.1 g dietary fiber per serving."
+  - "Contributes about 16% of the daily value for potassium per serving."
 description: >-
   A spiced fruit chaat of guava, papaya and pomegranate with lime and roasted
   cumin, no added sugar.
@@ -39,6 +43,7 @@ dietaryTags:
   - gluten-free
   - high-fiber
 allergens: []
+image: 'https://imgs.search.brave.com/YUBSKk3W0Xd6Ug6tAVIkuLnMin9CunanxOlUwoFrQ08/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWct/Z2xvYmFsLmNwY2Ru/LmNvbS9yZWNpcGVz/Lzg3MGFhYzY0Y2Fl/ZWFlODQvMzAweDIy/MGNxODAvZ3VhdmEt/Y2hhYXQtcmVjaXBl/LW1haW4tcGhvdG8u/anBn'
 nutrition:
   calories: 150
   protein: 4

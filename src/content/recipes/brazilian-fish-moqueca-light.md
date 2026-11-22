@@ -1,6 +1,10 @@
 ---
 title: Light Fish Moqueca (Brazilian Coconut Fish Stew)
 slug: brazilian-fish-moqueca-light
+benefits:
+  - "Provides about 24.6 g protein per serving."
+  - "Provides about 2.8 g dietary fiber per serving."
+  - "Contributes about 76% of the daily value for vitamin C per serving."
 description: >-
   Firm white fish simmered in tomato, peppers and a light coconut broth with
   lime and fresh coriander.

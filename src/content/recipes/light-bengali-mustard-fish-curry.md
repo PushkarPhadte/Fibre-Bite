@@ -1,6 +1,10 @@
 ---
 title: Light Bengali Mustard Fish Curry
 slug: light-bengali-mustard-fish-curry
+benefits:
+  - "Provides about 30.9 g protein per serving."
+  - "Provides about 0.5 g dietary fiber per serving."
+  - "Contributes about 11% of the daily value for potassium per serving."
 description: >-
   Tilapia simmered in a sharp ground-mustard and green chilli sauce, Bengali
   style.

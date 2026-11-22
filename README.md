@@ -11,6 +11,10 @@ Create a Markdown file in `src/content/recipes/`. Use a lowercase, hyphenated sl
 title: "Roasted Chickpeas"
 slug: "roasted-chickpeas"
 description: "Crispy chickpeas with smoked paprika and lemon."
+benefits:
+  - "Provides about 14 g protein per serving."
+  - "Provides about 11 g dietary fiber per serving."
+  - "Contributes about 16% of the daily value for iron per serving."
 baseServings: 2
 ingredients:
   - name: chickpeas, drained
@@ -61,7 +65,7 @@ imageAttribution:
 ---
 ```
 
-Required fields are `title`, `slug`, `baseServings`, `ingredients`, and `instructions`. Each ingredient needs a `name`, non-negative `baseAmount`, and `unit`; use amount `0` with unit `to taste` for unmeasured ingredients. Each instruction needs a positive, sequential `number` and non-empty `text`. `description`, `dietaryTags`, `allergens`, `nutrition`, `image`, `imageAttribution`, prep-time metadata, and an ingredient's `optional` flag are optional. `prepTimeMinutes` means active preparation time, excluding cooking and waiting. When sourced, include `prepTimeSource` with a credible recipe URL that reports the time. When estimated from the recipe instructions, set `prepTimeEstimated: true` instead; estimated times must not include a source URL. Allowed dietary tags, allergens, nutrition fields, and micronutrients are documented in the [bulk recipe JSON format](docs/recipe-import-json.md) and defined in `src/lib/recipes/types.ts`.
+Required fields are `title`, `slug`, `benefits`, `baseServings`, `ingredients`, and `instructions`. Benefits are non-empty nutrition highlights written for one serving; use the available nutrition estimates and avoid medical promises. Localized benefits in language blocks can override the default list. Each ingredient needs a `name`, non-negative `baseAmount`, and `unit`; use amount `0` with unit `to taste` for unmeasured ingredients. Each instruction needs a positive, sequential `number` and non-empty `text`. `description`, `dietaryTags`, `allergens`, `nutrition`, `image`, `imageAttribution`, prep-time metadata, and an ingredient's `optional` flag are optional. `prepTimeMinutes` means active preparation time, excluding cooking and waiting. When sourced, include `prepTimeSource` with a credible recipe URL that reports the time. When estimated from the recipe instructions, set `prepTimeEstimated: true` instead; estimated times must not include a source URL. Allowed dietary tags, allergens, nutrition fields, and micronutrients are documented in the [bulk recipe JSON format](docs/recipe-import-json.md) and defined in `src/lib/recipes/types.ts`.
 
 For recipes with no allergens from the supported list, use `allergens: []` or omit the field. Do not write `allergens: [none]`; `none` is not a valid allergen tag. The example's nutrition numbers and image credits are illustrative and must be replaced with accurate data and real source/attribution details before publishing.
 

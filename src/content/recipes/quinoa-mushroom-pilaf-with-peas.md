@@ -1,6 +1,10 @@
 ---
 title: Quinoa Mushroom Pilaf with Peas
 slug: quinoa-mushroom-pilaf-with-peas
+benefits:
+  - "Provides about 11.9 g protein per serving."
+  - "Provides about 6.9 g dietary fiber per serving."
+  - "Contributes about 21% of the daily value for iron per serving."
 description: 'A fluffy quinoa pilaf with browned mushrooms, peas and thyme.'
 baseServings: 3
 ingredients:

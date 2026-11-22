@@ -1,6 +1,10 @@
 ---
 title: Baked Cod with Tomato Olive Relish
 slug: baked-cod-with-tomato-olive-relish
+benefits:
+  - "Provides about 28 g protein per serving."
+  - "Provides about 1 g dietary fiber per serving."
+  - "Contributes about 13% of the daily value for vitamin C per serving."
 image: "https://upload.wikimedia.org/wikipedia/commons/f/f3/Baked_cod_fillet.jpg"
 imageAttribution:
   title: "Baked cod fillet"

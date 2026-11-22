@@ -1,6 +1,10 @@
 ---
 title: 'Atkilt Wat (Ethiopian Cabbage, Carrot and Potato Stew)'
 slug: ethiopian-atkilt-wat-cabbage-carrot-potato
+benefits:
+  - "Provides about 3.7 g protein per serving."
+  - "Provides about 6.2 g dietary fiber per serving."
+  - "Contributes about 62% of the daily value for vitamin C per serving."
 description: >-
   Mild, turmeric-gold Ethiopian vegetable stew of cabbage, carrots and potatoes
   with ginger and garlic.

@@ -1,6 +1,10 @@
 ---
 title: Spiced Lentil Lettuce Wrap Tacos
 slug: spiced-lentil-lettuce-wrap-tacos
+benefits:
+  - "Provides about 12.4 g protein per serving."
+  - "Provides about 8.9 g dietary fiber per serving."
+  - "Contributes about 27% of the daily value for iron per serving."
 description: >-
   Cumin and paprika spiced lentils in crisp lettuce cups with tomato, avocado
   and lime.

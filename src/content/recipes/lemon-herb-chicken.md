@@ -1,6 +1,10 @@
 ---
 title: Lemon Herb Chicken
 slug: lemon-herb-chicken
+benefits:
+  - "Provides about 46 g protein per serving."
+  - "Provides about 3 g dietary fiber per serving."
+  - "Contributes about 9% of the daily value for potassium per serving."
 description: 'Bright, protein-rich chicken with herbs and lemon for an easy weeknight meal.'
 baseServings: 4
 ingredients:

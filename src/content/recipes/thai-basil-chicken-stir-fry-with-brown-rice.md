@@ -1,6 +1,10 @@
 ---
 title: Thai Basil Chicken Stir-Fry with Brown Rice
 slug: thai-basil-chicken-stir-fry-with-brown-rice
+benefits:
+  - "Provides about 34.7 g protein per serving."
+  - "Provides about 2.9 g dietary fiber per serving."
+  - "Contributes about 15% of the daily value for potassium per serving."
 description: >-
   Minced chicken stir-fried with garlic, chilli, green beans and plenty of holy
   or Thai basil.

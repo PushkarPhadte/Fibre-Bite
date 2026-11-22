@@ -1,6 +1,10 @@
 ---
 title: Sardinian Whole-Wheat Fregola with Clams and Parsley
 slug: sardinian-whole-wheat-fregola-clams
+benefits:
+  - "Provides about 23 g protein per serving."
+  - "Provides about 7 g dietary fiber per serving."
+  - "Contributes about 42% of the daily value for vitamin C per serving."
 description: >-
   Coastal Sardinian one-pot dish of toasted whole-wheat pasta pearls simmered in
   a garlicky tomato broth with iron-rich clams and fresh flat-leaf parsley.

@@ -1,6 +1,10 @@
 ---
 title: Golden Turmeric Milk (Haldi Doodh)
 slug: golden-turmeric-milk
+benefits:
+  - "Provides about 6.4 g protein per serving."
+  - "Provides about 0.5 g dietary fiber per serving."
+  - "Contributes about 19% of the daily value for calcium per serving."
 description: >-
   Warm milk simmered with turmeric, ginger, black pepper and cinnamon, lightly
   sweetened with a little jaggery.
@@ -40,6 +44,7 @@ dietaryTags:
   - low-carb
 allergens:
   - milk
+image: 'https://imgs.search.brave.com/WcRn86oJ7TrCX7lIvYf1bO06S_cBoyHLD9yr-VaYwkA/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/c2hvcGlmeS5jb20v/cy9maWxlcy8xLzA2/NTYvNzEzNi80ODIx/L2ZpbGVzL0dvbGRl/bl9UdXJtZXJpY19N/aWxrXzIuanBnP3Y9/MTcwNDMwNzkzNw'
 nutrition:
   calories: 132
   protein: 6.4

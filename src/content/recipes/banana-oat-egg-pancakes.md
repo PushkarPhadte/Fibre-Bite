@@ -1,6 +1,10 @@
 ---
 title: Banana Oat Egg Pancakes
 slug: banana-oat-egg-pancakes
+benefits:
+  - "Provides about 11.9 g protein per serving."
+  - "Provides about 7.5 g dietary fiber per serving."
+  - "Contributes about 15% of the daily value for iron per serving."
 description: >-
   Flourless pancakes made from blended oats, ripe banana and egg, served with
   fresh berries.

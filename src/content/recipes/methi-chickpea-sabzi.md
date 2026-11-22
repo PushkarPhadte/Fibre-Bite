@@ -1,6 +1,10 @@
 ---
 title: Methi Chickpea Sabzi
 slug: methi-chickpea-sabzi
+benefits:
+  - "Provides about 12.8 g protein per serving."
+  - "Provides about 9.4 g dietary fiber per serving."
+  - "Contributes about 28% of the daily value for iron per serving."
 description: 'Fresh fenugreek leaves tossed with chickpeas, garlic and tomato.'
 baseServings: 3
 ingredients:
@@ -47,6 +51,7 @@ dietaryTags:
   - gluten-free
   - high-fiber
 allergens: []
+image: 'https://imgs.search.brave.com/GXtBi9wikUaPV4ozjFZl5oQ9BySTA1EzbYwVWnl6b28/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly92ZWdl/Y3JhdmluZ3MuY29t/L3dwLWNvbnRlbnQv/dXBsb2Fkcy8yMDI0/LzA4L01ldGhpLUNo/b2xlLVJlY2lwZS1T/dGVwLUJ5LVN0ZXAt/SW5zdHJ1Y3Rpb25z/LTE0LTEwMjR4MTAw/MC5qcGcud2VicA'
 nutrition:
   calories: 249
   protein: 12.8

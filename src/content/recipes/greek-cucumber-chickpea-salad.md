@@ -1,6 +1,10 @@
 ---
 title: Greek Cucumber Chickpea Salad
 slug: greek-cucumber-chickpea-salad
+benefits:
+  - "Provides about 7 g protein per serving."
+  - "Provides about 6 g dietary fiber per serving."
+  - "Contributes about 24% of the daily value for vitamin C per serving."
 description: >-
   Crunchy cucumbers, ripe tomatoes, red onion, and protein-packed chickpeas
   tossed in a light lemon-oregano vinaigrette.

@@ -1,6 +1,10 @@
 ---
 title: Parsi Egg Akuri (Spiced Soft Scrambled Eggs)
 slug: parsi-egg-akuri
+benefits:
+  - "Provides about 12.8 g protein per serving."
+  - "Provides about 0.9 g dietary fiber per serving."
+  - "Contributes about 11% of the daily value for iron per serving."
 image: "https://images.unsplash.com/photo-1673925962465-7bfd6339ab2e?auto=format&fit=crop&w=1200&q=80"
 description: >-
   A famous Parsi breakfast dish consisting of soft-scrambled eggs cooked with

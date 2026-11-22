@@ -1,6 +1,10 @@
 ---
 title: Greek Cucumber Yogurt Tzatziki Bowl
 slug: greek-cucumber-yogurt-tzatziki-bowl
+benefits:
+  - "Provides about 38 g protein per serving."
+  - "Provides about 1 g dietary fiber per serving."
+  - "Contributes about 14% of the daily value for calcium per serving."
 image: "https://images.unsplash.com/photo-1777199264017-84af9308a41f?auto=format&fit=crop&w=1200&q=80"
 description: >-
   A refreshing low-carb bowl combining shredded cucumber, Greek yogurt, garlic,

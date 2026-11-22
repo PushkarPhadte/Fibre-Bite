@@ -1,6 +1,10 @@
 ---
 title: Greek Santorini Fava (Yellow Split Pea Puree with Capers and Red Onion)
 slug: greek-santorini-fava-split-pea-puree
+benefits:
+  - "Provides about 16 g protein per serving."
+  - "Provides about 17 g dietary fiber per serving."
+  - "Contributes about 47% of the daily value for folate per serving."
 description: >-
   Silky Cycladic legume puree of yellow split peas slowly simmered with sweet
   onion, garlic, and bay, served warm or chilled with extra-virgin olive oil,

@@ -1,6 +1,10 @@
 ---
 title: Kerala Red Rice Puttu (Steamed Rice and Coconut Cylinders)
 slug: kerala-red-rice-puttu-steamed-cylinders
+benefits:
+  - "Provides about 6 g protein per serving."
+  - "Provides about 5 g dietary fiber per serving."
+  - "Contributes about 24% of the daily value for magnesium per serving."
 description: >-
   Oil-free traditional Kerala breakfast of coarse whole red rice flour gently
   hydrated and steam-layered with freshly grated coconut and cardamom.

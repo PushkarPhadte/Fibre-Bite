@@ -1,6 +1,10 @@
 ---
 title: 'Egyptian Koshari (Lentils, Brown Rice, and Spiced Tomato Bowl)'
 slug: egyptian-koshari-lentil-rice-bowl
+benefits:
+  - "Provides about 17 g protein per serving."
+  - "Provides about 11 g dietary fiber per serving."
+  - "Contributes about 62% of the daily value for folate per serving."
 description: >-
   Wholesome whole-grain version of Egypt's national comfort bowl layering brown
   lentils, brown rice, whole-wheat macaroni, chickpeas, spiced cumin-vinegar

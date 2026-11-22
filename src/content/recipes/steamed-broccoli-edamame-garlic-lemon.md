@@ -1,6 +1,10 @@
 ---
 title: Steamed Broccoli and Edamame with Garlic Lemon
 slug: steamed-broccoli-edamame-garlic-lemon
+benefits:
+  - "Provides about 13 g protein per serving."
+  - "Provides about 7 g dietary fiber per serving."
+  - "Contributes about 128% of the daily value for vitamin C per serving."
 description: >-
   Vibrant steamed broccoli florets and shelled edamame tossed with minced
   garlic, fresh lemon juice, and olive oil.

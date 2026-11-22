@@ -1,6 +1,10 @@
 ---
 title: Steamed Tilapia with Bok Choy and Lime
 slug: steamed-tilapia-bok-choy-lime
+benefits:
+  - "Provides about 36 g protein per serving."
+  - "Provides about 2 g dietary fiber per serving."
+  - "Contributes about 64% of the daily value for vitamin C per serving."
 description: >-
   Lightly steamed tilapia fillets nestled over baby bok choy with fresh lime
   juice, ginger, and cilantro.

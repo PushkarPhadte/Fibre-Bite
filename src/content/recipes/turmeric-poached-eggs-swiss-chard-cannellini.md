@@ -1,6 +1,10 @@
 ---
 title: Turmeric Poached Eggs with Swiss Chard and Cannellini
 slug: turmeric-poached-eggs-swiss-chard-cannellini
+benefits:
+  - "Provides about 21 g protein per serving."
+  - "Provides about 10 g dietary fiber per serving."
+  - "Contributes about 50% of the daily value for vitamin C per serving."
 description: >-
   Eggs gently poached in a turmeric-spiced tomato broth with Swiss chard stems
   and leaves and cannellini beans.

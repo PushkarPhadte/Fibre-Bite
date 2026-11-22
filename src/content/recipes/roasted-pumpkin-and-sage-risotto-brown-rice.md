@@ -1,6 +1,10 @@
 ---
 title: Roasted Pumpkin and Sage Risotto (Brown Rice)
 slug: roasted-pumpkin-and-sage-risotto-brown-rice
+benefits:
+  - "Provides about 7 g protein per serving."
+  - "Provides about 5 g dietary fiber per serving."
+  - "Contributes about 8% of the daily value for calcium per serving."
 image: "https://images.unsplash.com/photo-1633964913295-ceb43826e7c9?auto=format&fit=crop&w=1200&q=80"
 description: >-
   A wholesome whole-grain risotto made with brown rice, roasted pumpkin puree,

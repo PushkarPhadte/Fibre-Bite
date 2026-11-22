@@ -1,6 +1,10 @@
 ---
 title: Roasted Sweet Potato and Kale Salad
 slug: roasted-sweet-potato-and-kale-salad
+benefits:
+  - "Provides about 5 g protein per serving."
+  - "Provides about 5 g dietary fiber per serving."
+  - "Contributes about 50% of the daily value for vitamin C per serving."
 image: "https://images.unsplash.com/photo-1735136425951-ae3ddc470617?auto=format&fit=crop&w=1200&q=80"
 description: >-
   Massaged raw kale tossed with roasted sweet potato cubes, pumpkin seeds, and

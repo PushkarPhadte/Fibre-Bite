@@ -1,6 +1,10 @@
 ---
 title: Cauliflower and Chickpea Tikka Bake
 slug: cauliflower-chickpea-tikka-bake
+benefits:
+  - "Provides about 11 g protein per serving."
+  - "Provides about 9 g dietary fiber per serving."
+  - "Contributes about 69% of the daily value for vitamin C per serving."
 description: >-
   Cauliflower florets and chickpeas marinated in spiced plain yogurt and crushed
   tomatoes, baked until golden.

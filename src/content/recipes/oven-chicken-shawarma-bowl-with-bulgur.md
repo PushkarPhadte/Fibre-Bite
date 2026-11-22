@@ -1,6 +1,10 @@
 ---
 title: Oven Chicken Shawarma Bowl with Bulgur
 slug: oven-chicken-shawarma-bowl-with-bulgur
+benefits:
+  - "Provides about 32.4 g protein per serving."
+  - "Provides about 5.1 g dietary fiber per serving."
+  - "Contributes about 17% of the daily value for iron per serving."
 description: >-
   Spiced oven-roasted chicken thigh over bulgur with cucumber, tomato and yogurt
   sauce.

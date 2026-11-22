@@ -1,6 +1,10 @@
 ---
 title: Kenyan Sukuma Wiki (Sautéed Collard Greens)
 slug: kenyan-sukuma-wiki
+benefits:
+  - "Provides about 3 g protein per serving."
+  - "Provides about 4 g dietary fiber per serving."
+  - "Contributes about 47% of the daily value for vitamin C per serving."
 description: >-
   An East African staple dish of collard greens braised with tomatoes, onions,
   cumin, and lemon.

@@ -1,6 +1,10 @@
 ---
 title: Jowar Bhakri with Spiced Eggplant Mash
 slug: jowar-bhakri-with-spiced-eggplant-mash
+benefits:
+  - "Provides about 8.4 g protein per serving."
+  - "Provides about 9.8 g dietary fiber per serving."
+  - "Contributes about 30% of the daily value for magnesium per serving."
 description: >-
   Traditional Maharashtrian sorghum flatbread paired with fire-roasted eggplant
   mashed with garlic, green chilies, and fresh coriander.

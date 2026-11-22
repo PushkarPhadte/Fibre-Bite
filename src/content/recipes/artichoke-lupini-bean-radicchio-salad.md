@@ -1,6 +1,10 @@
 ---
 title: 'Roasted Artichoke, Lupini Bean, and Radicchio Salad'
 slug: artichoke-lupini-bean-radicchio-salad
+benefits:
+  - "Provides about 25 g protein per serving."
+  - "Provides about 12 g dietary fiber per serving."
+  - "Contributes about 54% of the daily value for folate per serving."
 description: >-
   Plant-protein powerhouse Italian salad pairing golden roasted artichoke hearts
   and tender lupini beans with crisp radicchio, shaved fennel, and bright lemon

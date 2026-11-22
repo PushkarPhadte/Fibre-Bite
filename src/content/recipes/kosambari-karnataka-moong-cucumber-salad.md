@@ -1,6 +1,10 @@
 ---
 title: Kosambari (Karnataka Moong Dal and Cucumber Salad)
 slug: kosambari-karnataka-moong-cucumber-salad
+benefits:
+  - "Provides about 7.1 g protein per serving."
+  - "Provides about 5.8 g dietary fiber per serving."
+  - "Contributes about 43% of the daily value for folate per serving."
 description: >-
   A traditional temple-festival salad of soaked moong dal, cucumber, carrot and
   fresh coconut with a mustard and curry-leaf tempering.
@@ -58,6 +62,7 @@ dietaryTags:
   - vegan
   - gluten-free
 allergens: []
+image: 'https://imgs.search.brave.com/Et_mWAP9akgg2YMVE0gfzCZ7eRjLyE_Bbhz5MIVJ3j0/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/Zmxhdm91cnN0cmVh/dC5jb20vd3AtY29u/dGVudC91cGxvYWRz/L2N1Y3VtYmVyLWtv/c2FtYmFyaS5qcGc'
 nutrition:
   calories: 156
   protein: 7.1

@@ -1,6 +1,10 @@
 ---
 title: Baked Chicken Seekh Kebabs
 slug: baked-chicken-seekh-kebabs
+benefits:
+  - "Provides about 30 g protein per serving."
+  - "Provides about 1.9 g dietary fiber per serving."
+  - "Contributes about 13% of the daily value for magnesium per serving."
 description: >-
   Juicy minced chicken kebabs with ginger, garlic, mint and warm spices, shaped
   on skewers and baked rather than fried.

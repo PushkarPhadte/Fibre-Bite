@@ -1,6 +1,10 @@
 ---
 title: Roasted Zucchini and Chickpea Grain Bowl
 slug: roasted-zucchini-chickpea-grain-bowl
+benefits:
+  - "Provides about 13 g protein per serving."
+  - "Provides about 10 g dietary fiber per serving."
+  - "Contributes about 32% of the daily value for folate per serving."
 description: >-
   Oven-roasted zucchini coins and crispy chickpeas served over cooked sorghum
   with tahini-lemon drizzle.

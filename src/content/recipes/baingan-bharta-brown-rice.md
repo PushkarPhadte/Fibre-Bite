@@ -1,6 +1,10 @@
 ---
 title: Baingan Bharta with Brown Rice
 slug: baingan-bharta-brown-rice
+benefits:
+  - "Provides about 8 g protein per serving."
+  - "Provides about 10 g dietary fiber per serving."
+  - "Contributes about 23% of the daily value for magnesium per serving."
 description: >-
   Smoky roasted eggplant mashed into a tomato-onion masala and served with nutty
   brown rice.

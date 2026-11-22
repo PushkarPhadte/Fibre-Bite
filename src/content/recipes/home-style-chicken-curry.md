@@ -1,6 +1,10 @@
 ---
 title: Home-Style Chicken Curry
 slug: home-style-chicken-curry
+benefits:
+  - "Provides about 27.1 g protein per serving."
+  - "Provides about 2.4 g dietary fiber per serving."
+  - "Contributes about 13% of the daily value for potassium per serving."
 description: >-
   A light Indian chicken curry with a tomato-onion base, a little curd and no
   cream.
@@ -72,6 +76,7 @@ dietaryTags:
   - low-carb
 allergens:
   - milk
+image: 'https://imgs.search.brave.com/h9pl2O13ek2Q3gAUAssQ4ivjLU3KsFS-iW6OfMu8nYM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS1jZG4yLmdyZWF0/YnJpdGlzaGNoZWZz/LmNvbS9tZWRpYS9z/cmNpMDNpNS9nYmNf/aGVpbnotMzYud2hx/Y183Njh4NTEycTkw/LmpwZw'
 nutrition:
   calories: 236
   protein: 27.1

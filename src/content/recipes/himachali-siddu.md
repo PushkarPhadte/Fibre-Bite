@@ -1,6 +1,10 @@
 ---
 title: Himachali Siddu (Steamed Whole Wheat Stuffed Bun)
 slug: himachali-siddu
+benefits:
+  - "Provides about 7.1 g protein per serving."
+  - "Provides about 5.8 g dietary fiber per serving."
+  - "Contributes about 19% of the daily value for magnesium per serving."
 description: >-
   A traditional Himachali steamed bread made from whole wheat dough stuffed with
   a spiced poppy seed and walnut filling.

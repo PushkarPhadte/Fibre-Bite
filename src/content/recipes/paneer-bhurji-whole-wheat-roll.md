@@ -1,6 +1,10 @@
 ---
 title: Paneer Bhurji Whole Wheat Roll
 slug: paneer-bhurji-whole-wheat-roll
+benefits:
+  - "Provides about 15.5 g protein per serving."
+  - "Provides about 5.9 g dietary fiber per serving."
+  - "Contributes about 12% of the daily value for iron per serving."
 description: >-
   Spiced crumbled paneer with onion, tomato and pepper rolled in whole wheat
   chapati.

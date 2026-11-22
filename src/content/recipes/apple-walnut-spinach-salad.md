@@ -1,6 +1,10 @@
 ---
 title: Apple Walnut Spinach Salad
 slug: apple-walnut-spinach-salad
+benefits:
+  - "Provides about 7.9 g protein per serving."
+  - "Provides about 4.9 g dietary fiber per serving."
+  - "Contributes about 12% of the daily value for iron per serving."
 description: Baby spinach with crisp apple and walnuts in a light lemon-yogurt dressing.
 baseServings: 2
 ingredients:

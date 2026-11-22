@@ -1,6 +1,10 @@
 ---
 title: Oats Idli with Carrot and Curry Leaves
 slug: oats-idli-carrot-curry-leaf
+benefits:
+  - "Provides about 5.7 g protein per serving."
+  - "Provides about 3.8 g dietary fiber per serving."
+  - "Contributes about 12% of the daily value for magnesium per serving."
 description: >-
   Soft steamed idlis made from roasted oats and curd, studded with carrot,
   ginger and a quick mustard tempering.

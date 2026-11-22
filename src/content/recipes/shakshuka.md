@@ -1,6 +1,10 @@
 ---
 title: Shakshuka (North African Poached Eggs in Tomato Sauce)
 slug: shakshuka
+benefits:
+  - "Provides about 12 g protein per serving."
+  - "Provides about 3 g dietary fiber per serving."
+  - "Contributes about 47% of the daily value for vitamin C per serving."
 description: >-
   Gently poached eggs resting in a rich, spiced sauce of tomatoes, bell peppers,
   onions, garlic, and cumin.

@@ -1,6 +1,10 @@
 ---
 title: Kerala Coconut Fish Curry
 slug: kerala-coconut-fish-curry
+benefits:
+  - "Provides about 36 g protein per serving."
+  - "Provides about 3 g dietary fiber per serving."
+  - "Contributes about 22% of the daily value for vitamin C per serving."
 description: >-
   A coastal-style fish curry with coconut milk, tomato, tamarind, curry leaves,
   and black mustard seeds.

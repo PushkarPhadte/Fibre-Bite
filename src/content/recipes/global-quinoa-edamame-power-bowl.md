@@ -1,6 +1,10 @@
 ---
 title: Global Quinoa Edamame Power Bowl
 slug: global-quinoa-edamame-power-bowl
+benefits:
+  - "Provides about 11 g protein per serving."
+  - "Provides about 6.5 g dietary fiber per serving."
+  - "Contributes about 35% of the daily value for folate per serving."
 description: >-
   A nutrient-packed protein bowl featuring fluffy quinoa, steamed edamame,
   shredded purple cabbage, carrots, and sesame dressing.

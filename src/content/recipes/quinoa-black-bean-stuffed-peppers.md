@@ -1,6 +1,10 @@
 ---
 title: Quinoa Black Bean Stuffed Peppers
 slug: quinoa-black-bean-stuffed-peppers
+benefits:
+  - "Provides about 9 g protein per serving."
+  - "Provides about 8 g dietary fiber per serving."
+  - "Contributes about 133% of the daily value for vitamin C per serving."
 image: "https://upload.wikimedia.org/wikipedia/commons/2/20/Quinoa_stuffed_peppers.jpg"
 imageAttribution:
   title: "Quinoa stuffed peppers"

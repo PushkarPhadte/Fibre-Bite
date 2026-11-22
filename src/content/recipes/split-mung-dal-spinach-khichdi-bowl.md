@@ -1,6 +1,10 @@
 ---
 title: Split Mung Dal and Spinach Khichdi-Style Bowl
 slug: split-mung-dal-spinach-khichdi-bowl
+benefits:
+  - "Provides about 13 g protein per serving."
+  - "Provides about 8 g dietary fiber per serving."
+  - "Contributes about 53% of the daily value for folate per serving."
 description: >-
   Comforting yellow split mung dal simmered with brown basmati rice, baby
   spinach, cumin, and turmeric.

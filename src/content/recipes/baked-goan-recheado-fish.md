@@ -1,6 +1,10 @@
 ---
 title: Baked Goan Recheado Fish
 slug: baked-goan-recheado-fish
+benefits:
+  - "Provides about 23.5 g protein per serving."
+  - "Provides about 1.7 g dietary fiber per serving."
+  - "Contributes about 15% of the daily value for potassium per serving."
 description: >-
   Firm fish steaks coated in Goa's tangy red recheado masala and baked instead
   of shallow-fried, with onion rings and tomato.

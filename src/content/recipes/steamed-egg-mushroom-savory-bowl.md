@@ -1,6 +1,10 @@
 ---
 title: Steamed Egg and Mushroom Savory Bowl
 slug: steamed-egg-mushroom-savory-bowl
+benefits:
+  - "Provides about 15 g protein per serving."
+  - "Provides about 2 g dietary fiber per serving."
+  - "Contributes about 17% of the daily value for folate per serving."
 description: >-
   Silky steamed eggs topped with sauteed shiitake and button mushrooms,
   scallions, and light dashi-style broth.

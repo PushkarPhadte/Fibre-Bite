@@ -1,6 +1,10 @@
 ---
 title: Spiced Grilled Mackerel with Lemon
 slug: spiced-grilled-mackerel-with-lemon
+benefits:
+  - "Provides about 23.3 g protein per serving."
+  - "Provides about 0.9 g dietary fiber per serving."
+  - "Contributes about 17% of the daily value for iron per serving."
 description: >-
   Mackerel fillets rubbed with turmeric, chilli and cumin and grilled with
   lemon.

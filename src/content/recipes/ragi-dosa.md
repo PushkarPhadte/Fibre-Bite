@@ -1,6 +1,10 @@
 ---
 title: Ragi Dosa
 slug: ragi-dosa
+benefits:
+  - "Provides about 6 g protein per serving."
+  - "Provides about 5 g dietary fiber per serving."
+  - "Contributes about 17% of the daily value for iron per serving."
 description: >-
   Crisp, naturally gluten-free finger-millet dosas with yogurt-free batter and a
   gentle cumin tempering.

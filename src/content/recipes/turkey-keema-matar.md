@@ -1,6 +1,10 @@
 ---
 title: Turkey Keema Matar
 slug: turkey-keema-matar
+benefits:
+  - "Provides about 35.7 g protein per serving."
+  - "Provides about 4.8 g dietary fiber per serving."
+  - "Contributes about 17% of the daily value for iron per serving."
 description: Lean minced turkey cooked with green peas in an Indian onion-tomato masala.
 baseServings: 3
 ingredients:

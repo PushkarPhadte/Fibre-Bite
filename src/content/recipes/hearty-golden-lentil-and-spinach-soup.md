@@ -1,6 +1,10 @@
 ---
 title: Hearty Golden Lentil and Spinach Soup
 slug: hearty-golden-lentil-and-spinach-soup
+benefits:
+  - "Provides about 10 g protein per serving."
+  - "Provides about 7.5 g dietary fiber per serving."
+  - "Contributes about 28% of the daily value for folate per serving."
 description: >-
   A nourishing golden soup cooked with yellow lentils, turmeric, ginger, fresh
   spinach, and lemon juice.

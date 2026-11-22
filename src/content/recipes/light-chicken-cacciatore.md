@@ -1,6 +1,10 @@
 ---
 title: Light Chicken Cacciatore
 slug: light-chicken-cacciatore
+benefits:
+  - "Provides about 32.9 g protein per serving."
+  - "Provides about 3.1 g dietary fiber per serving."
+  - "Contributes about 20% of the daily value for potassium per serving."
 description: 'Chicken thighs braised with tomato, peppers, mushrooms and oregano.'
 baseServings: 4
 ingredients:

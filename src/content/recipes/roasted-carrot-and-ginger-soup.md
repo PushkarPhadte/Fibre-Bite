@@ -1,6 +1,10 @@
 ---
 title: Roasted Carrot and Ginger Soup
 slug: roasted-carrot-and-ginger-soup
+benefits:
+  - "Provides about 2 g protein per serving."
+  - "Provides about 5 g dietary fiber per serving."
+  - "Contributes about 11% of the daily value for vitamin C per serving."
 image: "https://upload.wikimedia.org/wikipedia/commons/c/cc/Roasted_Carrot_and_Apple_Soup_%2829364253570%29.jpg"
 imageAttribution:
   title: "Roasted Carrot and Apple Soup"

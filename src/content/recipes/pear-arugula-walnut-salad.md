@@ -1,6 +1,10 @@
 ---
 title: Pear Arugula Walnut Salad
 slug: pear-arugula-walnut-salad
+benefits:
+  - "Provides about 6.3 g protein per serving."
+  - "Provides about 4.8 g dietary fiber per serving."
+  - "Contributes about 8% of the daily value for potassium per serving."
 description: 'Peppery arugula with sliced pear, walnuts and a light lemon-yogurt dressing.'
 baseServings: 2
 ingredients:

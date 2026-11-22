@@ -1,6 +1,10 @@
 ---
 title: Shiro Wot Ethiopian Chickpea Stew
 slug: shiro-wot-ethiopian-chickpea-stew
+benefits:
+  - "Provides about 8.9 g protein per serving."
+  - "Provides about 5.5 g dietary fiber per serving."
+  - "Contributes about 13% of the daily value for iron per serving."
 description: >-
   A thick Ethiopian stew of chickpea flour simmered with onion, garlic and
   paprika.

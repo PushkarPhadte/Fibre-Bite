@@ -1,6 +1,10 @@
 ---
 title: Khaman Dhokla (Steamed Chickpea Flour Cakes)
 slug: khaman-dhokla-steamed-gram-cakes
+benefits:
+  - "Provides about 12 g protein per serving."
+  - "Provides about 6 g dietary fiber per serving."
+  - "Contributes about 56% of the daily value for folate per serving."
 description: >-
   Light, spongy Gujarati steamed chickpea flour cakes infused with ginger and
   lemon juice, finished with a crisp mustard seed and curry leaf tempering.
@@ -72,6 +76,7 @@ dietaryTags:
   - gluten-free
   - high-fiber
 allergens: []
+image: 'https://imgs.search.brave.com/OLI2qDkZ5mCqF240WmiATlTsN0HtYWdgE8FFfBGWfiM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pMC53/cC5jb20vc3BpY2Vj/aHJvbmljbGVzLmNv/bS93cC1jb250ZW50/L3VwbG9hZHMvMjAx/NC8wMy9EaG9rbGFf/M182NTAuanBnP3c9/NjQwJnNzbD0x'
 nutrition:
   calories: 228
   protein: 12

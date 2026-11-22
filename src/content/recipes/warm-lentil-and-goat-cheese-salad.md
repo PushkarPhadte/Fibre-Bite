@@ -1,6 +1,10 @@
 ---
 title: Warm Lentil and Goat Cheese Salad
 slug: warm-lentil-and-goat-cheese-salad
+benefits:
+  - "Provides about 13 g protein per serving."
+  - "Provides about 8 g dietary fiber per serving."
+  - "Contributes about 20% of the daily value for iron per serving."
 image: "https://images.unsplash.com/photo-1692197275526-48a6178f1d09?auto=format&fit=crop&w=1200&q=80"
 description: >-
   Earthy warm brown lentils served over fresh arugula with creamy goat cheese

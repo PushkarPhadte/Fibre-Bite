@@ -1,6 +1,10 @@
 ---
 title: Kothimbir Vadi (Maharashtrian Steamed Coriander Cakes)
 slug: kothimbir-vadi
+benefits:
+  - "Provides about 4.9 g protein per serving."
+  - "Provides about 3.8 g dietary fiber per serving."
+  - "Contributes about 24% of the daily value for vitamin C per serving."
 description: >-
   Crispy savory cakes made from fresh coriander leaves and gram flour batter,
   steamed and lightly pan-sautéed.

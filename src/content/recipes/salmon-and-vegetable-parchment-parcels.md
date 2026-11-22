@@ -1,6 +1,10 @@
 ---
 title: Salmon and Vegetable Parchment Parcels
 slug: salmon-and-vegetable-parchment-parcels
+benefits:
+  - "Provides about 26.2 g protein per serving."
+  - "Provides about 2.3 g dietary fiber per serving."
+  - "Contributes about 66% of the daily value for vitamin D per serving."
 description: >-
   Salmon fillets steamed in baking paper with zucchini, carrot, tomato and dill,
   so nothing needs frying and the juices stay in.

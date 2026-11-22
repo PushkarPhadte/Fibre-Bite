@@ -1,6 +1,10 @@
 ---
 title: Millet Curd Rice with Pomegranate
 slug: millet-curd-rice-pomegranate
+benefits:
+  - "Provides about 6.4 g protein per serving."
+  - "Provides about 3.6 g dietary fiber per serving."
+  - "Contributes about 12% of the daily value for magnesium per serving."
 description: >-
   South Indian curd rice made with soft-cooked millet instead of white rice,
   cooled with ginger, curry leaves and juicy pomegranate seeds.
@@ -64,6 +68,7 @@ dietaryTags:
   - gluten-free
 allergens:
   - milk
+image: 'https://imgs.search.brave.com/99_ylLRqx8txdqBd-I22Gu-Ot4-OoFXKLi2_j75R0rE/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9rcmFm/dGVkbWlsbGV0cy5j/b20vY2RuL3Nob3Av/YXJ0aWNsZXMvTWls/bGV0LUN1cmQtUmlj/ZS1LcmFmdGVkLU1p/bGxldHMtMjE5MTY5/NzYucG5nP3Y9MTc0/NzQyNDA5OCZ3aWR0/aD0xMTAw'
 nutrition:
   calories: 195
   protein: 6.4

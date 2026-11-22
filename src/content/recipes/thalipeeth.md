@@ -1,6 +1,10 @@
 ---
 title: Thalipeeth (Maharashtrian Multi-Grain Flatbread)
 slug: thalipeeth
+benefits:
+  - "Provides about 5.8 g protein per serving."
+  - "Provides about 5.2 g dietary fiber per serving."
+  - "Contributes about 16% of the daily value for iron per serving."
 description: >-
   A wholesome Maharashtrian savory flatbread prepared from roasted multi-grain
   flour (bhajani) and onions.

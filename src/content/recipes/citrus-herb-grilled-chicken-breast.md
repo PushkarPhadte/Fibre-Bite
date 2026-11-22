@@ -1,6 +1,10 @@
 ---
 title: Citrus Herb Grilled Chicken Breast
 slug: citrus-herb-grilled-chicken-breast
+benefits:
+  - "Provides about 26 g protein per serving."
+  - "Provides about 0 g dietary fiber per serving."
+  - "Contributes about 9% of the daily value for vitamin C per serving."
 description: >-
   Juicy chicken breast marinated in orange juice, lemon zest, rosemary, and
   thyme, then grilled to perfection.

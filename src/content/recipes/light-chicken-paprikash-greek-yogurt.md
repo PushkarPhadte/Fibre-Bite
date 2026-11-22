@@ -1,6 +1,10 @@
 ---
 title: Light Chicken Paprikash with Greek Yogurt
 slug: light-chicken-paprikash-greek-yogurt
+benefits:
+  - "Provides about 29.4 g protein per serving."
+  - "Provides about 2.9 g dietary fiber per serving."
+  - "Contributes about 68% of the daily value for vitamin C per serving."
 description: >-
   Hungarian paprika chicken stewed with onion and peppers and finished with a
   swirl of Greek yogurt instead of soured cream.
@@ -64,6 +68,7 @@ dietaryTags:
   - low-carb
 allergens:
   - milk
+image: 'https://imgs.search.brave.com/qF3yhR3GD68V5C3hCU7PhXhbBY9raIxJaQz0nxAi134/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pMC53/cC5jb20vbXlraXRj/aGVubGl0dGxlLmNv/bS93cC1jb250ZW50/L3VwbG9hZHMvMjAy/MS8wMy9MaWdodGVy/LUF1dGhlbnRpYy1I/dW5nYXJpYW4tQ2hp/Y2tlbi1QYXByaWth/c2gtNy5qcGVnP3Jl/c2l6ZT02ODMsMTAy/NCZzc2w9MQ'
 nutrition:
   calories: 252
   protein: 29.4

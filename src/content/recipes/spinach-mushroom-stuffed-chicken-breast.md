@@ -1,6 +1,10 @@
 ---
 title: Spinach Mushroom Stuffed Chicken Breast
 slug: spinach-mushroom-stuffed-chicken-breast
+benefits:
+  - "Provides about 36.3 g protein per serving."
+  - "Provides about 1.5 g dietary fiber per serving."
+  - "Contributes about 18% of the daily value for potassium per serving."
 description: >-
   Chicken breast pockets stuffed with sautéed spinach and mushrooms, baked until
   juicy.

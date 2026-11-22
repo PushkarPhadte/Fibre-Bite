@@ -1,6 +1,10 @@
 ---
 title: Chilean Tomato and Onion Salad (Ensalada Chilena)
 slug: chilean-tomato-and-onion-salad
+benefits:
+  - "Provides about 1.5 g protein per serving."
+  - "Provides about 2 g dietary fiber per serving."
+  - "Contributes about 31% of the daily value for vitamin C per serving."
 description: >-
   A staple Chilean side dish combining thinly sliced tomatoes, rinsed red
   onions, cilantro, and lemon-olive oil dressing.

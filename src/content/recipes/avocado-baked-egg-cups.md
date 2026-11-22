@@ -1,6 +1,10 @@
 ---
 title: Avocado Baked Egg Cups
 slug: avocado-baked-egg-cups
+benefits:
+  - "Provides about 8.4 g protein per serving."
+  - "Provides about 6.9 g dietary fiber per serving."
+  - "Contributes about 12% of the daily value for potassium per serving."
 description: >-
   Avocado halves baked with an egg in the centre and finished with pepper and
   chilli.
@@ -57,7 +61,7 @@ nutrition:
     Legacy/Foundation) and ICMR-NIN IFCT 2017 per-100 g values for each
     ingredient, scaled to the quantities used (raw-ingredient weights; cooking
     losses not applied).
-image: 'https://live.staticflickr.com/1696/26430807051_57d1816331_b.jpg'
+image: 'https://imgs.search.brave.com/3kpaObQ9Q73ybc8lip9IENWHEB3vjoZT9FJ2iJT3Qas/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9hZGRh/cGluY2guY29tL3dw/LWNvbnRlbnQvYmxv/Z3MuZGlyLzMvZmls/ZXMvMjAxMi8wOS9C/YWtlZC1FZ2ctQXZv/Y2Fkby1DdXBzLUFk/ZC1hLVBpbmNoLmpw/Zw'
 imageAttribution:
   title: Egglish Muffin Breakfast Sandwich
   creator: kurafire

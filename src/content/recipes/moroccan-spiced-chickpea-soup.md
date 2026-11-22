@@ -1,6 +1,10 @@
 ---
 title: Moroccan Spiced Chickpea Soup
 slug: moroccan-spiced-chickpea-soup
+benefits:
+  - "Provides about 8 g protein per serving."
+  - "Provides about 7 g dietary fiber per serving."
+  - "Contributes about 17% of the daily value for iron per serving."
 image: "https://upload.wikimedia.org/wikipedia/commons/9/9c/Mediterranean_Chickpea_Soup_%2834817152586%29.jpg"
 imageAttribution:
   title: "Mediterranean Chickpea Soup"

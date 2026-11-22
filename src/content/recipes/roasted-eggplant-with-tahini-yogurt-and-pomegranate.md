@@ -1,6 +1,10 @@
 ---
 title: Roasted Eggplant with Tahini Yogurt and Pomegranate
 slug: roasted-eggplant-with-tahini-yogurt-and-pomegranate
+benefits:
+  - "Provides about 7.7 g protein per serving."
+  - "Provides about 7.6 g dietary fiber per serving."
+  - "Contributes about 13% of the daily value for potassium per serving."
 description: >-
   Thick eggplant slices roasted until silky, topped with tahini yogurt,
   pomegranate and parsley.

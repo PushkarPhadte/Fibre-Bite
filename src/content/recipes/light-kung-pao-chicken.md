@@ -1,6 +1,10 @@
 ---
 title: Light Kung Pao Chicken
 slug: light-kung-pao-chicken
+benefits:
+  - "Provides about 33.5 g protein per serving."
+  - "Provides about 2.5 g dietary fiber per serving."
+  - "Contributes about 16% of the daily value for potassium per serving."
 description: >-
   Chicken stir-fried with peppers, a few cashews and dried chilli in a tangy
   tamari sauce.
@@ -61,6 +65,7 @@ dietaryTags:
 allergens:
   - soy
   - tree-nuts
+image: 'https://imgs.search.brave.com/WdWqAFCU_dYliRAbDbF1RaIaLBRh7OImPocuOyMDNMQ/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90aGV5/dW1teWJvd2wuY29t/L3dwLWNvbnRlbnQv/dXBsb2Fkcy9rdW5n/LXBhby1jaGlja2Vu/LW4tMS1vZi0xLmpw/Zw'
 nutrition:
   calories: 293
   protein: 33.5

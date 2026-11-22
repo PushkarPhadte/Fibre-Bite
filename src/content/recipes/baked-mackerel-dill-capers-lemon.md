@@ -1,6 +1,10 @@
 ---
 title: 'Baked Mackerel with Dill, Capers, and Lemon'
 slug: baked-mackerel-dill-capers-lemon
+benefits:
+  - "Provides about 31 g protein per serving."
+  - "Provides about 0 g dietary fiber per serving."
+  - "Contributes about 53% of the daily value for vitamin D per serving."
 description: >-
   Flavorful Atlantic mackerel baked with fresh dill, capers, and lemon juice for
   a nutrient-dense seafood dish.

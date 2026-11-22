@@ -1,6 +1,10 @@
 ---
 title: Broccoli Slaw with Greek Yogurt Dressing
 slug: broccoli-slaw-with-greek-yogurt-dressing
+benefits:
+  - "Provides about 8.9 g protein per serving."
+  - "Provides about 4.6 g dietary fiber per serving."
+  - "Contributes about 13% of the daily value for potassium per serving."
 description: >-
   Raw broccoli and carrot shredded and tossed in a tangy yogurt dressing with
   sunflower-style crunch from pumpkin seeds.

@@ -1,6 +1,10 @@
 ---
 title: Kulith Pithla (Maharashtrian Horse Gram Savory Porridge)
 slug: kulith-horse-gram-pithla
+benefits:
+  - "Provides about 10 g protein per serving."
+  - "Provides about 5 g dietary fiber per serving."
+  - "Contributes about 20% of the daily value for folate per serving."
 description: >-
   Iron-rich traditional Maharashtrian comfort dish made by simmering roasted
   horse gram flour with crushed garlic, onions, and turmeric.
@@ -65,6 +69,7 @@ dietaryTags:
   - vegan
   - gluten-free
 allergens: []
+image: 'https://imgs.search.brave.com/RhZVaPk7XowrnQ-r1siDU0RE8n9Mis9VwlgV2aeL1tg/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly92YW5p/dGFzY29ybmVyLmNv/bS93cC1jb250ZW50/L3VwbG9hZHMvMjAy/My8wOC9LdWxpdGgt/UGl0aGxhLTY5Nng1/MjIuanBn'
 nutrition:
   calories: 196
   protein: 10

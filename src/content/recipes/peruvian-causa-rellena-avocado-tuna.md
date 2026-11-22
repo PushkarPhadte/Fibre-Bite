@@ -1,6 +1,10 @@
 ---
 title: 'Peruvian Causa Rellena (Layered Yellow Potato, Avocado, and Tuna Terrine)'
 slug: peruvian-causa-rellena-avocado-tuna
+benefits:
+  - "Provides about 23 g protein per serving."
+  - "Provides about 7 g dietary fiber per serving."
+  - "Contributes about 44% of the daily value for vitamin C per serving."
 description: >-
   Vibrant chilled Peruvian dish layering lime- and turmeric-brightened whipped
   yellow potatoes with creamy avocado slices and a yogurt-dressed lean tuna and

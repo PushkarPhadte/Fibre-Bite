@@ -1,6 +1,10 @@
 ---
 title: Georgian Spinach and Walnut Pkhali
 slug: georgian-spinach-walnut-pkhali
+benefits:
+  - "Provides about 8 g protein per serving."
+  - "Provides about 6 g dietary fiber per serving."
+  - "Contributes about 69% of the daily value for folate per serving."
 description: >-
   Vibrant Georgian plant-based herb and walnut spread made from blanched
   spinach, toasted walnuts, cilantro, garlic, and ruby pomegranate arils.

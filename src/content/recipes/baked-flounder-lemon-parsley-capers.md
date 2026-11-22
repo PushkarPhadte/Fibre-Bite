@@ -1,6 +1,10 @@
 ---
 title: 'Baked Flounder with Lemon, Parsley, and Capers'
 slug: baked-flounder-lemon-parsley-capers
+benefits:
+  - "Provides about 32 g protein per serving."
+  - "Provides about 0 g dietary fiber per serving."
+  - "Contributes about 46% of the daily value for vitamin D per serving."
 description: >-
   Mild, low-fat flounder fillets baked with fresh lemon juice, chopped parsley,
   and a touch of olive oil.

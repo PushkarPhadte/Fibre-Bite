@@ -1,6 +1,10 @@
 ---
 title: Shrimp Cucumber Mint Lime Salad
 slug: shrimp-cucumber-mint-lime-salad
+benefits:
+  - "Provides about 26.3 g protein per serving."
+  - "Provides about 1.9 g dietary fiber per serving."
+  - "Contributes about 11% of the daily value for potassium per serving."
 description: 'Poached shrimp with crisp cucumber, mint, coriander and a lime dressing.'
 baseServings: 3
 ingredients:

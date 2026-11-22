@@ -1,6 +1,10 @@
 ---
 title: Garlic Shrimp and Broccoli Stir-Fry
 slug: garlic-shrimp-and-broccoli-stir-fry
+benefits:
+  - "Provides about 33.6 g protein per serving."
+  - "Provides about 4.8 g dietary fiber per serving."
+  - "Contributes about 17% of the daily value for potassium per serving."
 description: >-
   Quick stir-fried shrimp with broccoli, garlic and ginger, served over brown
   rice.

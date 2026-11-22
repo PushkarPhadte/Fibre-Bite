@@ -1,6 +1,10 @@
 ---
 title: Whole-Grain Panzanella
 slug: whole-grain-panzanella
+benefits:
+  - "Provides about 5.5 g protein per serving."
+  - "Provides about 4.1 g dietary fiber per serving."
+  - "Contributes about 22% of the daily value for vitamin C per serving."
 description: >-
   Tuscan bread salad of toasted whole-wheat bread, ripe tomato, cucumber and
   basil soaked in a simple olive oil and vinegar dressing.

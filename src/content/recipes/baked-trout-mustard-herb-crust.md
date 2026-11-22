@@ -1,6 +1,10 @@
 ---
 title: Baked Trout with Mustard Herb Crust
 slug: baked-trout-mustard-herb-crust
+benefits:
+  - "Provides about 35 g protein per serving."
+  - "Provides about 1 g dietary fiber per serving."
+  - "Contributes about 80% of the daily value for vitamin D per serving."
 description: >-
   Rainbow trout fillets topped with whole-grain mustard, chopped parsley, and
   thyme, baked until tender.

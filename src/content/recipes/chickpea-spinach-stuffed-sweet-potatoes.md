@@ -1,6 +1,10 @@
 ---
 title: Chickpea Spinach Stuffed Sweet Potatoes
 slug: chickpea-spinach-stuffed-sweet-potatoes
+benefits:
+  - "Provides about 13.3 g protein per serving."
+  - "Provides about 11.5 g dietary fiber per serving."
+  - "Contributes about 26% of the daily value for iron per serving."
 description: >-
   Baked sweet potatoes stuffed with spiced chickpeas, spinach and a tahini
   yogurt drizzle.

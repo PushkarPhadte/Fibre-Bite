@@ -1,6 +1,10 @@
 ---
 title: Pudina Chutney Stuffed Tandoori Fish
 slug: pudina-chutney-stuffed-tandoori-fish
+benefits:
+  - "Provides about 29 g protein per serving."
+  - "Provides about 1.1 g dietary fiber per serving."
+  - "Contributes about 10% of the daily value for iron per serving."
 description: >-
   Whole fish fillets stuffed with fresh mint-coriander green chutney and roasted
   to tender perfection.

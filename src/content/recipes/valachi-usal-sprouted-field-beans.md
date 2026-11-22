@@ -1,6 +1,10 @@
 ---
 title: Konkani Valachi Usal (Sprouted Field Beans Curry)
 slug: valachi-usal-sprouted-field-beans
+benefits:
+  - "Provides about 10 g protein per serving."
+  - "Provides about 9 g dietary fiber per serving."
+  - "Contributes about 28% of the daily value for folate per serving."
 description: >-
   Protein- and fiber-rich Konkani curry of peeled sprouted field beans gently
   simmered with roasted coconut spices and tangy kokum.

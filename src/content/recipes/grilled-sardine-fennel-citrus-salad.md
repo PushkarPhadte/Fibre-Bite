@@ -1,6 +1,10 @@
 ---
 title: Grilled Sardine and Fennel Citrus Salad
 slug: grilled-sardine-fennel-citrus-salad
+benefits:
+  - "Provides about 36 g protein per serving."
+  - "Provides about 4 g dietary fiber per serving."
+  - "Contributes about 60% of the daily value for vitamin C per serving."
 description: >-
   Omega-3-rich grilled sardines paired with crisp shaved fennel, orange
   segments, arugula, and olive oil.

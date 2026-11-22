@@ -1,6 +1,10 @@
 ---
 title: Peruvian Quinoa Vegetable Soup
 slug: peruvian-quinoa-vegetable-soup
+benefits:
+  - "Provides about 5 g protein per serving."
+  - "Provides about 5 g dietary fiber per serving."
+  - "Contributes about 22% of the daily value for vitamin C per serving."
 image: "https://images.unsplash.com/photo-1679844795701-4c7864627456?auto=format&fit=crop&w=1200&q=80"
 description: >-
   An Andean whole-grain soup loaded with quinoa, potatoes, carrots, zucchini,

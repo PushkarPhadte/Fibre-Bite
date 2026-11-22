@@ -1,6 +1,10 @@
 ---
 title: Egg Salad Lettuce Cups with Greek Yogurt
 slug: egg-salad-lettuce-cups-with-greek-yogurt
+benefits:
+  - "Provides about 16.6 g protein per serving."
+  - "Provides about 1.2 g dietary fiber per serving."
+  - "Contributes about 14% of the daily value for iron per serving."
 description: >-
   Chopped boiled egg salad bound with Greek yogurt, cucumber and herbs in crisp
   lettuce cups.

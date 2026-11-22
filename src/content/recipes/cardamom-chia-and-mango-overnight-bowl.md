@@ -1,6 +1,10 @@
 ---
 title: Cardamom Chia and Mango Overnight Bowl
 slug: cardamom-chia-and-mango-overnight-bowl
+benefits:
+  - "Provides about 7 g protein per serving."
+  - "Provides about 12 g dietary fiber per serving."
+  - "Contributes about 33% of the daily value for vitamin C per serving."
 description: >-
   Creamy chia seed bowl soaked in unsweetened almond milk with green cardamom
   and ripe mango chunks.

@@ -1,6 +1,10 @@
 ---
 title: Whole-Wheat Vegetable Momos
 slug: whole-wheat-vegetable-momos
+benefits:
+  - "Provides about 8.4 g protein per serving."
+  - "Provides about 8.2 g dietary fiber per serving."
+  - "Contributes about 34% of the daily value for vitamin C per serving."
 description: >-
   Steamed Himalayan dumplings with a whole-wheat wrapper and a juicy cabbage,
   carrot and ginger filling, served with a tomato-chilli dip.

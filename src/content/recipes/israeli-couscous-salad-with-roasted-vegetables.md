@@ -1,6 +1,10 @@
 ---
 title: Israeli Couscous Salad with Roasted Vegetables
 slug: israeli-couscous-salad-with-roasted-vegetables
+benefits:
+  - "Provides about 6 g protein per serving."
+  - "Provides about 4 g dietary fiber per serving."
+  - "Contributes about 39% of the daily value for vitamin C per serving."
 description: >-
   Pearl couscous tossed with oven-roasted zucchini, bell peppers, cherry
   tomatoes, and a herb-lemon vinaigrette.

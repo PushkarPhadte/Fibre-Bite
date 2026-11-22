@@ -1,6 +1,10 @@
 ---
 title: Gatte ki Sabzi (Rajasthani Besan Dumplings in Yogurt Curry)
 slug: gatte-ki-sabzi-rajasthani-besan-dumplings
+benefits:
+  - "Provides about 10.2 g protein per serving."
+  - "Provides about 4.9 g dietary fiber per serving."
+  - "Contributes about 39% of the daily value for folate per serving."
 description: >-
   Steamed-and-boiled chickpea-flour dumplings simmered in a tangy, lightly
   spiced yogurt gravy, a classic Rajasthani staple made with minimal oil.

@@ -1,6 +1,10 @@
 ---
 title: Grilled Mahi Mahi with Mango Salsa
 slug: grilled-mahi-mahi-with-mango-salsa
+benefits:
+  - "Provides about 31 g protein per serving."
+  - "Provides about 2 g dietary fiber per serving."
+  - "Contributes about 39% of the daily value for vitamin C per serving."
 image: "https://upload.wikimedia.org/wikipedia/commons/5/5b/GrilledMahiMahi.jpg"
 imageAttribution:
   title: "GrilledMahiMahi"

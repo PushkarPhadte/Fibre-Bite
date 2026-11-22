@@ -1,6 +1,10 @@
 ---
 title: Roasted Brussels Sprouts and Pomegranate Salad
 slug: roasted-brussels-sprouts-and-pomegranate-salad
+benefits:
+  - "Provides about 5 g protein per serving."
+  - "Provides about 6 g dietary fiber per serving."
+  - "Contributes about 72% of the daily value for vitamin C per serving."
 image: "https://images.unsplash.com/photo-1624017844792-435d148d93ae?auto=format&fit=crop&w=1200&q=80"
 description: >-
   Charred roasted Brussels sprouts tossed with sweet pomegranate arils, walnuts,

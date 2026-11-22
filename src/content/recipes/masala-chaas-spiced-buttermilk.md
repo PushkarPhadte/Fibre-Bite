@@ -1,6 +1,10 @@
 ---
 title: Masala Chaas Spiced Buttermilk
 slug: masala-chaas-spiced-buttermilk
+benefits:
+  - "Provides about 3.5 g protein per serving."
+  - "Provides about 0.2 g dietary fiber per serving."
+  - "Contributes about 4% of the daily value for potassium per serving."
 description: 'A cooling digestive drink of whisked curd with roasted cumin, mint and ginger.'
 baseServings: 4
 ingredients:
@@ -35,6 +39,7 @@ dietaryTags:
   - low-carb
 allergens:
   - milk
+image: 'https://imgs.search.brave.com/uawZwldZbokCsMoh19QM8CSEULJ2khYNu1tsU8smzWU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/dGhlbG92ZW9mc3Bp/Y2UuY29tL3dwLWNv/bnRlbnQvdXBsb2Fk/cy8yMDIyLzA2L21h/c2FsYS1jaGFhcy1z/cGljZWQtaW5kaWFu/LWJ1dHRlcm1pbGst/MzAweDMwMC5qcGc'
 nutrition:
   calories: 43
   protein: 3.5

@@ -1,6 +1,10 @@
 ---
 title: Roasted Cauliflower and Chickpea Hummus Bowl
 slug: roasted-cauliflower-chickpea-hummus-bowl
+benefits:
+  - "Provides about 13 g protein per serving."
+  - "Provides about 11 g dietary fiber per serving."
+  - "Contributes about 76% of the daily value for vitamin C per serving."
 description: >-
   Roasted cauliflower florets and warm chickpeas served over smooth homemade
   hummus with cucumber and parsley.

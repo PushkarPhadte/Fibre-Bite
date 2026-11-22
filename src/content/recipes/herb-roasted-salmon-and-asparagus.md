@@ -1,6 +1,10 @@
 ---
 title: Herb Roasted Salmon and Asparagus
 slug: herb-roasted-salmon-and-asparagus
+benefits:
+  - "Provides about 34 g protein per serving."
+  - "Provides about 3 g dietary fiber per serving."
+  - "Contributes about 70% of the daily value for vitamin D per serving."
 description: >-
   Fresh salmon fillets and crisp asparagus spears roasted on a single sheet pan
   with lemon and dill.

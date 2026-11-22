@@ -1,6 +1,10 @@
 ---
 title: Light Kedgeree with White Fish and Brown Rice
 slug: light-kedgeree-white-fish-brown-rice
+benefits:
+  - "Provides about 31.3 g protein per serving."
+  - "Provides about 4.1 g dietary fiber per serving."
+  - "Contributes about 31% of the daily value for magnesium per serving."
 description: >-
   A lightened version of the Anglo-Indian breakfast classic: poached white fish,
   brown rice, peas and boiled egg in gentle curry spices.
@@ -83,6 +87,7 @@ allergens:
   - eggs
   - fish
   - milk
+image: 'https://imgs.search.brave.com/z4e40lv-cfpIE4gRBTJslAiiPERzgAO_H1wTYsf13NE/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9yZXMu/Y2xvdWRpbmFyeS5j/b20vaGVsbG9jaGVm/L2ltYWdlL3VwbG9h/ZC9jX3NjYWxlLHdf/MTA4NC9kcHJfMi4w/L2Zfd2VicC9xX2F1/dG8vc2x4eXp6MzBs/bzJza3hqdG4xcGw_/X2E9REFUQWR0YXla/QUEwLndlYnA'
 nutrition:
   calories: 422
   protein: 31.3

@@ -1,6 +1,10 @@
 ---
 title: Tandoori Chicken with Vegetables
 slug: tandoori-chicken-vegetables
+benefits:
+  - "Provides about 42 g protein per serving."
+  - "Provides about 3 g dietary fiber per serving."
+  - "Contributes about 76% of the daily value for vitamin C per serving."
 description: >-
   Oven-roasted yogurt-marinated chicken with warming tandoori spices, peppers,
   and red onion.

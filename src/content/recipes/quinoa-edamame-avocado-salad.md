@@ -1,6 +1,10 @@
 ---
 title: Quinoa Edamame Avocado Salad
 slug: quinoa-edamame-avocado-salad
+benefits:
+  - "Provides about 11 g protein per serving."
+  - "Provides about 7 g dietary fiber per serving."
+  - "Contributes about 28% of the daily value for folate per serving."
 image: "https://images.unsplash.com/photo-1719677775416-1dd6a93f1a73?auto=format&fit=crop&w=1200&q=80"
 description: >-
   A protein-dense salad featuring fluffy quinoa, steamed edamame, creamy avocado

@@ -1,6 +1,10 @@
 ---
 title: Classic Italian Minestrone Soup
 slug: classic-italian-minestrone-soup
+benefits:
+  - "Provides about 8 g protein per serving."
+  - "Provides about 7 g dietary fiber per serving."
+  - "Contributes about 17% of the daily value for vitamin C per serving."
 description: >-
   A hearty Tuscan vegetable soup packed with kidney beans, zucchini, tomatoes,
   and whole wheat pasta simmered in an aromatic herb broth.

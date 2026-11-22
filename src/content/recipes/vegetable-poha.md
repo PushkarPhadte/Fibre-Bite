@@ -1,6 +1,10 @@
 ---
 title: Vegetable Poha
 slug: vegetable-poha
+benefits:
+  - "Provides about 8 g protein per serving."
+  - "Provides about 6 g dietary fiber per serving."
+  - "Contributes about 20% of the daily value for vitamin C per serving."
 description: >-
   A light Maharashtrian breakfast of flattened rice with peas, turmeric,
   peanuts, and fresh lime.

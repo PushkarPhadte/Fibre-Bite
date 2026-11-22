@@ -1,6 +1,10 @@
 ---
 title: Baked Sweet Potato Rounds with Black Beans and Cilantro
 slug: baked-sweet-potato-rounds-black-beans-cilantro
+benefits:
+  - "Provides about 8 g protein per serving."
+  - "Provides about 8 g dietary fiber per serving."
+  - "Contributes about 26% of the daily value for folate per serving."
 description: >-
   Thick sweet potato slices oven-baked until tender and topped with seasoned
   black beans, lime, and cilantro.

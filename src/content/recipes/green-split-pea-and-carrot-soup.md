@@ -1,6 +1,10 @@
 ---
 title: Green Split Pea and Carrot Soup
 slug: green-split-pea-and-carrot-soup
+benefits:
+  - "Provides about 13.3 g protein per serving."
+  - "Provides about 14.7 g dietary fiber per serving."
+  - "Contributes about 16% of the daily value for iron per serving."
 description: >-
   A thick, high-fibre soup of dried green split peas and carrot with toasted
   cumin.
@@ -46,6 +50,7 @@ dietaryTags:
   - gluten-free
   - high-fiber
 allergens: []
+image: 'https://imgs.search.brave.com/pCqCQdr3KemnTRAPWw5US_9STQ1D1HkQWfn2k5RZX_Y/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/cGVhbnV0Ymxvc3Nv/bS5jb20vd3AtY29u/dGVudC91cGxvYWRz/LzIwMjMvMDMvc3Bs/aXRwZWFzb3VwLTE2/LmpwZw'
 nutrition:
   calories: 237
   protein: 13.3

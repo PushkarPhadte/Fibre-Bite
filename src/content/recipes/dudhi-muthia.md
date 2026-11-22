@@ -1,6 +1,10 @@
 ---
 title: Dudhi Muthia (Gujarati Steamed Bottle Gourd Dumplings)
 slug: dudhi-muthia
+benefits:
+  - "Provides about 4.8 g protein per serving."
+  - "Provides about 4.5 g dietary fiber per serving."
+  - "Contributes about 16% of the daily value for vitamin C per serving."
 description: >-
   Nutritious steamed Gujarati dumplings made with grated bottle gourd, whole
   wheat flour, and fragrant spices.

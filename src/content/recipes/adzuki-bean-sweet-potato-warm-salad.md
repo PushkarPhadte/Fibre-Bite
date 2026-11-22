@@ -1,6 +1,10 @@
 ---
 title: Adzuki Bean and Sweet Potato Warm Salad
 slug: adzuki-bean-sweet-potato-warm-salad
+benefits:
+  - "Provides about 9 g protein per serving."
+  - "Provides about 9 g dietary fiber per serving."
+  - "Contributes about 31% of the daily value for folate per serving."
 description: >-
   Earth-sweet adzuki beans paired with roasted sweet potato cubes, scallions,
   and a tangy lime cumin dressing.

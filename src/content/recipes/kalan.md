@@ -1,6 +1,10 @@
 ---
 title: Kalan (Kerala Yoghurt Plantain Curry)
 slug: kalan
+benefits:
+  - "Provides about 3.8 g protein per serving."
+  - "Provides about 3.2 g dietary fiber per serving."
+  - "Contributes about 13% of the daily value for vitamin C per serving."
 image: "https://images.unsplash.com/photo-1620894580123-466ad3a0ca06?auto=format&fit=crop&w=1200&q=80"
 description: >-
   A traditional Kerala Sadya dish featuring raw plantain cooked in thick

@@ -1,6 +1,10 @@
 ---
 title: Baked Cinnamon Pears with Greek Yogurt
 slug: baked-cinnamon-pears-with-greek-yogurt
+benefits:
+  - "Provides about 7.7 g protein per serving."
+  - "Provides about 4.7 g dietary fiber per serving."
+  - "Contributes about 6% of the daily value for potassium per serving."
 description: >-
   Pears roasted with cinnamon and walnuts, served warm with Greek yogurt;
   sweetened only by the fruit.

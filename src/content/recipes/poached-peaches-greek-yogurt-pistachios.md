@@ -1,6 +1,10 @@
 ---
 title: Poached Peaches with Plain Greek Yogurt and Pistachios
 slug: poached-peaches-greek-yogurt-pistachios
+benefits:
+  - "Provides about 11 g protein per serving."
+  - "Provides about 3 g dietary fiber per serving."
+  - "Contributes about 12% of the daily value for vitamin C per serving."
 description: >-
   Ripe peach halves gently poached in water with vanilla bean and served with
   nonfat Greek yogurt and pistachios.

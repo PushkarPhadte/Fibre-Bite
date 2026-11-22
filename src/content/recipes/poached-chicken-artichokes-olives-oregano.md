@@ -1,6 +1,10 @@
 ---
 title: 'Poached Chicken with Artichokes, Olives, and Oregano'
 slug: poached-chicken-artichokes-olives-oregano
+benefits:
+  - "Provides about 34 g protein per serving."
+  - "Provides about 5 g dietary fiber per serving."
+  - "Contributes about 18% of the daily value for vitamin C per serving."
 description: >-
   Lean chicken breast gently simmered with artichoke hearts, Kalamata olives,
   crushed tomatoes, and oregano.

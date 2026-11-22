@@ -1,6 +1,10 @@
 ---
 title: Foxtail Millet Vegetable Upma
 slug: foxtail-millet-vegetable-upma
+benefits:
+  - "Provides about 10 g protein per serving."
+  - "Provides about 8 g dietary fiber per serving."
+  - "Contributes about 22% of the daily value for magnesium per serving."
 description: >-
   A savory South Indian millet breakfast with vegetables, ginger, curry leaves,
   and toasted cashews.

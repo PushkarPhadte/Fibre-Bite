@@ -1,6 +1,10 @@
 ---
 title: Spiced Jackfruit and Green Pea Pulao
 slug: spiced-jackfruit-and-green-pea-pulao
+benefits:
+  - "Provides about 8 g protein per serving."
+  - "Provides about 9 g dietary fiber per serving."
+  - "Contributes about 22% of the daily value for vitamin C per serving."
 description: >-
   Aromatic brown basmati rice pilaf simmered with tender unripe jackfruit, green
   peas, and whole spices.

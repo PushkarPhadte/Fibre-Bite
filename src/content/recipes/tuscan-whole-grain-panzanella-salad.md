@@ -1,6 +1,10 @@
 ---
 title: 'Tuscan Whole-Grain Panzanella (Tomato, Cucumber, and Bread Salad)'
 slug: tuscan-whole-grain-panzanella-salad
+benefits:
+  - "Provides about 6 g protein per serving."
+  - "Provides about 5 g dietary fiber per serving."
+  - "Contributes about 24% of the daily value for vitamin C per serving."
 description: >-
   Sun-ripened Tuscan summer salad combining oven-toasted whole-grain sourdough
   cubes with juicy heirloom tomatoes, crisp cucumber, red onion, fresh basil,

@@ -1,6 +1,10 @@
 ---
 title: Light Chicken Dhansak
 slug: light-chicken-dhansak
+benefits:
+  - "Provides about 30 g protein per serving."
+  - "Provides about 7.7 g dietary fiber per serving."
+  - "Contributes about 51% of the daily value for folate per serving."
 description: >-
   A Parsi classic of chicken and mixed lentils cooked down with gourd, eggplant
   and greens, balanced with a touch of tamarind and jaggery.
@@ -89,6 +93,7 @@ dietaryTags:
   - high-protein
   - high-fiber
 allergens: []
+image: 'https://imgs.search.brave.com/2bkeYddP3mOqgDEvgwmG_T01pPvph1dc_7tXijm2gLo/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/c2xvd2Nvb2tlcmNs/dWIuY29tL3dwLWNv/bnRlbnQvdXBsb2Fk/cy8yMDIyLzEwL3Ns/b3ctY29va2VyLWNo/aWNrZW4tZGhhbnNh/ay03LTEwMjR4Njgy/LmpwZw'
 nutrition:
   calories: 342
   protein: 30

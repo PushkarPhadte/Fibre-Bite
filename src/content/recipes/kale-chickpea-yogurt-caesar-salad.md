@@ -1,6 +1,10 @@
 ---
 title: Kale Chickpea Yogurt Caesar Salad
 slug: kale-chickpea-yogurt-caesar-salad
+benefits:
+  - "Provides about 21 g protein per serving."
+  - "Provides about 12.2 g dietary fiber per serving."
+  - "Contributes about 27% of the daily value for iron per serving."
 description: >-
   Massaged kale with oven-crisped chickpeas and a garlicky Greek yogurt
   dressing.
@@ -53,6 +57,7 @@ dietaryTags:
   - high-fiber
 allergens:
   - milk
+image: 'https://imgs.search.brave.com/3kHfzAifS4Kf1-Bg18o4V_yHjSsM_Z1_aLXAbMipgVc/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/bGluZHNheXBsZXNr/b3QuY29tL3dwLWNv/bnRlbnQvdXBsb2Fk/cy8yMDIxLzAzL0th/bGUtQ2hpY2twZWEt/U2FsYWQtYnktTGlu/ZHNheS1QbGVza290/LURpZXRpdGlhbi0x/MDI0eDE1MzYuanBn'
 nutrition:
   calories: 343
   protein: 21

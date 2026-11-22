@@ -1,6 +1,10 @@
 ---
 title: Amaranth and Roasted Bell Pepper Porridge Bowl
 slug: amaranth-roasted-bell-pepper-porridge-bowl
+benefits:
+  - "Provides about 7 g protein per serving."
+  - "Provides about 5 g dietary fiber per serving."
+  - "Contributes about 80% of the daily value for vitamin C per serving."
 description: >-
   Savory whole-grain amaranth simmered until creamy and folded with roasted red
   bell peppers and thyme.

@@ -1,6 +1,10 @@
 ---
 title: Mexican Black Bean and Quinoa Stuffed Tomatoes
 slug: mexican-black-bean-and-quinoa-stuffed-tomatoes
+benefits:
+  - "Provides about 7 g protein per serving."
+  - "Provides about 7 g dietary fiber per serving."
+  - "Contributes about 31% of the daily value for vitamin C per serving."
 image: "https://upload.wikimedia.org/wikipedia/commons/b/be/Stuffed_Tomato_with_Vegan_Crab_and_Bell_Peppers_%283710241356%29.jpg"
 imageAttribution:
   title: "Stuffed Tomato with Vegan Crab and Bell Peppers"

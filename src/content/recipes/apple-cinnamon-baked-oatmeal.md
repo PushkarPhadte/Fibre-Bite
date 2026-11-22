@@ -1,6 +1,10 @@
 ---
 title: Apple Cinnamon Baked Oatmeal
 slug: apple-cinnamon-baked-oatmeal
+benefits:
+  - "Provides about 13.3 g protein per serving."
+  - "Provides about 7 g dietary fiber per serving."
+  - "Contributes about 14% of the daily value for iron per serving."
 description: >-
   A tray-baked oatmeal with grated apple, walnuts and cinnamon, sweetened only
   by the fruit.

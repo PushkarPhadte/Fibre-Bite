@@ -1,6 +1,10 @@
 ---
 title: Roasted Broccoli with Almonds and Lemon
 slug: roasted-broccoli-with-almonds-and-lemon
+benefits:
+  - "Provides about 7 g protein per serving."
+  - "Provides about 5.7 g dietary fiber per serving."
+  - "Contributes about 13% of the daily value for potassium per serving."
 description: >-
   A simple side of high-heat roasted broccoli with toasted almonds, garlic and
   lemon.

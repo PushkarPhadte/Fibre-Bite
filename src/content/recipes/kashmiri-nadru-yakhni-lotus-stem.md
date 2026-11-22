@@ -1,6 +1,10 @@
 ---
 title: Kashmiri Nadru Yakhni (Lotus Stem in Spiced Yogurt)
 slug: kashmiri-nadru-yakhni-lotus-stem
+benefits:
+  - "Provides about 8 g protein per serving."
+  - "Provides about 6 g dietary fiber per serving."
+  - "Contributes about 50% of the daily value for vitamin C per serving."
 description: >-
   Delicate Kashmiri preparation of crisp lotus stem slices simmered in a
   fragrant low-fat yogurt sauce infused with fennel, dry ginger, cardamom, and
@@ -51,6 +55,7 @@ dietaryTags:
   - high-fiber
 allergens:
   - milk
+image: 'https://imgs.search.brave.com/BmIuhEmIltFqhlXijIoQLiOjfRUnyAfHGyYR25v8tns/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9uYXJp/c2hha3RpLmluL3dw/LWNvbnRlbnQvdXBs/b2Fkcy9zaXRlcy85/LzIwMjMvMDkvbmFk/cnUuanBn'
 nutrition:
   calories: 163
   protein: 8

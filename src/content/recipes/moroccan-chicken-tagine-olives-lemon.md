@@ -1,6 +1,10 @@
 ---
 title: Moroccan Chicken Tagine with Olives and Lemon
 slug: moroccan-chicken-tagine-olives-lemon
+benefits:
+  - "Provides about 26 g protein per serving."
+  - "Provides about 2.6 g dietary fiber per serving."
+  - "Contributes about 17% of the daily value for vitamin C per serving."
 description: >-
   Chicken slowly simmered with onion, carrot, green olives, lemon and warm
   spices in a fragrant, golden sauce.
@@ -80,6 +84,7 @@ dietaryTags:
   - high-protein
   - low-carb
 allergens: []
+image: 'https://imgs.search.brave.com/R7AwxMc75SLQq1f5trQGQTWtJFxWOVsD1mOH-60yHGs/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/Y2Fyb2xpbmVzY29v/a2luZy5jb20vd3At/Y29udGVudC91cGxv/YWRzLzIwMjEvMDcv/Q2hpY2tlbi10YWdp/bmUtd2l0aC1wcmVz/ZXJ2ZWQtbGVtb25z/LWFuZC1vbGl2ZXMt/cGhvdG8uanBn'
 nutrition:
   calories: 247
   protein: 26

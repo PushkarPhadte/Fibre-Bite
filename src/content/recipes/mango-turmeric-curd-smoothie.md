@@ -1,6 +1,10 @@
 ---
 title: Mango Turmeric Curd Smoothie
 slug: mango-turmeric-curd-smoothie
+benefits:
+  - "Provides about 6.2 g protein per serving."
+  - "Provides about 1.9 g dietary fiber per serving."
+  - "Contributes about 9% of the daily value for potassium per serving."
 description: 'A thick, creamy smoothie of ripe mango, curd, turmeric and ginger.'
 baseServings: 2
 ingredients:
@@ -32,6 +36,7 @@ dietaryTags:
   - gluten-free
 allergens:
   - milk
+image: 'https://imgs.search.brave.com/NH-JPTw1k3qx1vjeeCi4Y7ahidb87XgsBnvjL1aLGOk/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9mb29s/cHJvb2ZsaXZpbmcu/Y29tL3dwLWNvbnRl/bnQvdXBsb2Fkcy8y/MDIwLzAyL01hbmdv/LVR1cm1lcmljLVNt/b290aGllLmpwZw'
 nutrition:
   calories: 128
   protein: 6.2

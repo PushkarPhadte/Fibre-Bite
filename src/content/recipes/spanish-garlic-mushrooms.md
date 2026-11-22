@@ -1,6 +1,10 @@
 ---
 title: Spanish Garlic Mushrooms (Champiñones al Ajillo)
 slug: spanish-garlic-mushrooms
+benefits:
+  - "Provides about 4 g protein per serving."
+  - "Provides about 2 g dietary fiber per serving."
+  - "Contributes about 8% of the daily value for potassium per serving."
 description: >-
   Sautéed button mushrooms infused with fragrant garlic, dry white grape
   juice/broth, parsley, and olive oil.

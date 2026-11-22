@@ -1,6 +1,10 @@
 ---
 title: Cholar Dal with Coconut (Bengali Gram Dal)
 slug: cholar-dal-with-coconut
+benefits:
+  - "Provides about 8.9 g protein per serving."
+  - "Provides about 6.2 g dietary fiber per serving."
+  - "Contributes about 16% of the daily value for folate per serving."
 image: "https://upload.wikimedia.org/wikipedia/commons/0/06/Cholar_daal_-_Kolkata_-_West_Bengal.jpg"
 imageAttribution:
   title: "Cholar daal - Kolkata - West Bengal"

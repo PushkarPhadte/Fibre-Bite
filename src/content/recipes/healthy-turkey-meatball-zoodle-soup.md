@@ -1,6 +1,10 @@
 ---
 title: Healthy Turkey Meatball Zoodle Soup
 slug: healthy-turkey-meatball-zoodle-soup
+benefits:
+  - "Provides about 22 g protein per serving."
+  - "Provides about 2 g dietary fiber per serving."
+  - "Contributes about 17% of the daily value for vitamin C per serving."
 image: "https://images.unsplash.com/photo-1673436977889-334fcab20436?auto=format&fit=crop&w=1200&q=80"
 description: >-
   A light Italian soup featuring lean turkey meatballs and spiralized zucchini

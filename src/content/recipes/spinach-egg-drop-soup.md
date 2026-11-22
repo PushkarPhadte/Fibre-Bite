@@ -1,6 +1,10 @@
 ---
 title: Spinach Egg Drop Soup
 slug: spinach-egg-drop-soup
+benefits:
+  - "Provides about 8.3 g protein per serving."
+  - "Provides about 1.5 g dietary fiber per serving."
+  - "Contributes about 14% of the daily value for iron per serving."
 description: A fast ginger-garlic broth with spinach and silky ribbons of egg.
 baseServings: 3
 ingredients:

@@ -1,6 +1,10 @@
 ---
 title: Peanut Butter Oat Energy Balls
 slug: peanut-butter-oat-energy-balls
+benefits:
+  - "Provides about 3.6 g protein per serving."
+  - "Provides about 2.5 g dietary fiber per serving."
+  - "Contributes about 4% of the daily value for iron per serving."
 description: >-
   No-bake bites of oats, peanut butter, dates and chia, sweetened only with a
   little date.

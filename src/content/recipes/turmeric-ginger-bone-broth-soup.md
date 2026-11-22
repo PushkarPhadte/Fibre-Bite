@@ -1,6 +1,10 @@
 ---
 title: Turmeric Ginger Bone Broth Soup
 slug: turmeric-ginger-bone-broth-soup
+benefits:
+  - "Provides about 10 g protein per serving."
+  - "Provides about 1 g dietary fiber per serving."
+  - "Contributes about 6% of the daily value for iron per serving."
 image: "https://images.unsplash.com/photo-1614649672625-e1b2ed8d5cb8?auto=format&fit=crop&w=1200&q=80"
 description: >-
   A healing broth simmered with fresh ginger, turmeric root, garlic, and leafy

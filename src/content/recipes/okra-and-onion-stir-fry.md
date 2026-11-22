@@ -1,6 +1,10 @@
 ---
 title: Okra and Onion Stir-Fry
 slug: okra-and-onion-stir-fry
+benefits:
+  - "Provides about 3.5 g protein per serving."
+  - "Provides about 5.7 g dietary fiber per serving."
+  - "Contributes about 12% of the daily value for potassium per serving."
 description: >-
   A dry Indian-style bhindi sabzi cooked with onion and ground spices until
   tender and not slimy.

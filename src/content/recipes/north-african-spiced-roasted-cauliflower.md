@@ -1,6 +1,10 @@
 ---
 title: North African Spiced Roasted Cauliflower
 slug: north-african-spiced-roasted-cauliflower
+benefits:
+  - "Provides about 4 g protein per serving."
+  - "Provides about 4.5 g dietary fiber per serving."
+  - "Contributes about 64% of the daily value for vitamin C per serving."
 description: >-
   Whole cauliflower florets roasted with ras el hanout spice blend, olive oil,
   and served with a lemon-tahini drizzle.

@@ -1,6 +1,10 @@
 ---
 title: Poached White Fish in Saffron Tomato Broth
 slug: poached-white-fish-saffron-tomato-broth
+benefits:
+  - "Provides about 33 g protein per serving."
+  - "Provides about 4 g dietary fiber per serving."
+  - "Contributes about 29% of the daily value for vitamin C per serving."
 description: >-
   Delicate haddock or cod poached in an aromatic broth of crushed tomatoes,
   fennel, garlic, and saffron threads.

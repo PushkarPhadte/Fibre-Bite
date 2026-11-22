@@ -1,6 +1,10 @@
 ---
 title: 'Thai Yum Woon Sen (Shrimp, Mushroom, and Glass Noodle Salad)'
 slug: thai-yum-woon-sen-shrimp-glass-noodle-salad
+benefits:
+  - "Provides about 22 g protein per serving."
+  - "Provides about 3 g dietary fiber per serving."
+  - "Contributes about 24% of the daily value for vitamin C per serving."
 description: >-
   Zesty, oil-free Thai warm glass noodle salad tossing tender poached shrimp,
   wood ear mushrooms, celery leaves, cherry tomatoes, and fresh herbs in a

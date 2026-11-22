@@ -1,6 +1,10 @@
 ---
 title: Roasted Celeriac and Pear Soup with Thyme
 slug: roasted-celeriac-pear-thyme-soup
+benefits:
+  - "Provides about 4 g protein per serving."
+  - "Provides about 6 g dietary fiber per serving."
+  - "Contributes about 30% of the daily value for vitamin C per serving."
 description: >-
   Naturally creamy, dairy-free autumn velouté blending oven-caramelized celery
   root and sweet ripe pear with sautéed leeks and fragrant fresh thyme.

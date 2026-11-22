@@ -1,6 +1,10 @@
 ---
 title: Roasted Beet and Pomegranate Farro Salad
 slug: roasted-beet-and-pomegranate-farro-salad
+benefits:
+  - "Provides about 9 g protein per serving."
+  - "Provides about 9 g dietary fiber per serving."
+  - "Contributes about 33% of the daily value for folate per serving."
 description: >-
   Nutty whole farro tossed with earthy roasted beets, ruby pomegranate arils,
   arugula, and cider dressing.

@@ -1,6 +1,10 @@
 ---
 title: Baked Salmon Patties with Dill Yogurt
 slug: baked-salmon-patties-with-dill-yogurt
+benefits:
+  - "Provides about 30.2 g protein per serving."
+  - "Provides about 1.4 g dietary fiber per serving."
+  - "Contributes about 16% of the daily value for potassium per serving."
 description: >-
   Oven-baked salmon cakes bound with oats and egg, served with a dill yogurt
   sauce.

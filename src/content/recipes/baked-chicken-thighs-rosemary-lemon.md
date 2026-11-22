@@ -1,6 +1,10 @@
 ---
 title: Baked Chicken Thighs with Rosemary and Lemon
 slug: baked-chicken-thighs-rosemary-lemon
+benefits:
+  - "Provides about 26 g protein per serving."
+  - "Provides about 0 g dietary fiber per serving."
+  - "Contributes about 9% of the daily value for iron per serving."
 description: >-
   Juicy skinless chicken thighs oven-baked with fresh rosemary, garlic, and
   lemon juice.

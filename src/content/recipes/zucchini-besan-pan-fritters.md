@@ -1,6 +1,10 @@
 ---
 title: Zucchini Besan Pan Fritters
 slug: zucchini-besan-pan-fritters
+benefits:
+  - "Provides about 13.2 g protein per serving."
+  - "Provides about 3.5 g dietary fiber per serving."
+  - "Contributes about 13% of the daily value for potassium per serving."
 description: >-
   Pan-seared zucchini fritters bound with chickpea flour and egg, with a dill
   yogurt dip.

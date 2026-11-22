@@ -1,6 +1,10 @@
 ---
 title: 'Baked Egg Muffins with Spinach, Red Pepper, and Feta'
 slug: baked-egg-muffins-spinach-pepper-feta
+benefits:
+  - "Provides about 12 g protein per serving."
+  - "Provides about 1 g dietary fiber per serving."
+  - "Contributes about 42% of the daily value for vitamin C per serving."
 description: >-
   Portable savory egg cups packed with baby spinach, diced red bell pepper, and
   crumbled feta cheese.

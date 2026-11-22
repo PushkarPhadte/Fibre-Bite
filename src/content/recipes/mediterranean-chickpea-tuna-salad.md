@@ -1,6 +1,10 @@
 ---
 title: Mediterranean Chickpea Tuna Salad (Egg-Free)
 slug: mediterranean-chickpea-tuna-salad
+benefits:
+  - "Provides about 21 g protein per serving."
+  - "Provides about 4.5 g dietary fiber per serving."
+  - "Contributes about 12% of the daily value for iron per serving."
 description: >-
   A high-protein salad blending flaked light tuna, chickpeas, diced celery, red
   onion, and lemon-herb olive oil.

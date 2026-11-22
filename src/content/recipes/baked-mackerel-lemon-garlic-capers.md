@@ -1,6 +1,10 @@
 ---
 title: 'Baked Mackerel with Lemon, Garlic, and Capers'
 slug: baked-mackerel-lemon-garlic-capers
+benefits:
+  - "Provides about 31 g protein per serving."
+  - "Provides about 1 g dietary fiber per serving."
+  - "Contributes about 51% of the daily value for vitamin D per serving."
 description: >-
   Oven-baked mackerel fillets roasted with lemon slices, garlic, parsley, and a
   touch of briny capers.

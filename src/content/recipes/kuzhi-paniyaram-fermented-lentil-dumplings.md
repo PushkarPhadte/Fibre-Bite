@@ -1,6 +1,10 @@
 ---
 title: Kuzhi Paniyaram (South Indian Fermented Rice and Lentil Dumplings)
 slug: kuzhi-paniyaram-fermented-lentil-dumplings
+benefits:
+  - "Provides about 8 g protein per serving."
+  - "Provides about 5 g dietary fiber per serving."
+  - "Contributes about 25% of the daily value for magnesium per serving."
 description: >-
   Crisp-edged, fluffy South Indian savory dumplings cooked in a cast-iron
   paniyaram pan using naturally fermented brown rice and black gram batter

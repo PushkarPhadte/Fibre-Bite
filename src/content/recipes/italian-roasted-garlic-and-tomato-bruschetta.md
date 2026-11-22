@@ -1,6 +1,10 @@
 ---
 title: Italian Roasted Garlic and Tomato Bruschetta
 slug: italian-roasted-garlic-and-tomato-bruschetta
+benefits:
+  - "Provides about 4.5 g protein per serving."
+  - "Provides about 4 g dietary fiber per serving."
+  - "Contributes about 18% of the daily value for vitamin C per serving."
 description: >-
   Toasted whole grain bread rubbed with garlic and topped with fresh diced
   tomatoes, basil, and extra virgin olive oil.

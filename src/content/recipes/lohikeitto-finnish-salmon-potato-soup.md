@@ -1,6 +1,10 @@
 ---
 title: Lohikeitto (Light Finnish Salmon and Potato Soup)
 slug: lohikeitto-finnish-salmon-potato-soup
+benefits:
+  - "Provides about 21.3 g protein per serving."
+  - "Provides about 3.5 g dietary fiber per serving."
+  - "Contributes about 45% of the daily value for vitamin D per serving."
 description: >-
   A comforting Nordic soup of salmon, potato and carrot in a lightly creamy milk
   broth scented with dill.
@@ -55,6 +59,7 @@ dietaryTags:
 allergens:
   - fish
   - milk
+image: 'https://imgs.search.brave.com/fPbxfETxmcb0ziQpaLGIJE-FL_OHnA-VJ5pbExzP4UM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90aGVu/b3JkaWNkaXNoLmNv/bS93cC1jb250ZW50/L3VwbG9hZHMvMjAy/NS8xMS9maW5uaXNo/LWxvaGlrZWl0dG8t/Y3JlYW15LXNhbG1v/bi1zb3VwLXBvdGF0/b2VzLWRpbGwtMTAy/NHg1NzIuanBn'
 nutrition:
   calories: 330
   protein: 21.3

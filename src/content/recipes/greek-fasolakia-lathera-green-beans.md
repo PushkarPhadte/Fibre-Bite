@@ -1,6 +1,10 @@
 ---
 title: Greek Fasolakia Lathera (Olive-Oil Braised Green Beans and Tomatoes)
 slug: greek-fasolakia-lathera-green-beans
+benefits:
+  - "Provides about 6 g protein per serving."
+  - "Provides about 7 g dietary fiber per serving."
+  - "Contributes about 64% of the daily value for vitamin C per serving."
 description: >-
   Classic Mediterranean lathera dish slowly braising tender green beans and baby
   potatoes with crushed ripe tomatoes, onions, extra-virgin olive oil, and fresh

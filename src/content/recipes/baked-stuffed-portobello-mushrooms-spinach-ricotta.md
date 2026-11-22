@@ -1,6 +1,10 @@
 ---
 title: Baked Stuffed Portobello Mushrooms with Spinach and Ricotta
 slug: baked-stuffed-portobello-mushrooms-spinach-ricotta
+benefits:
+  - "Provides about 11 g protein per serving."
+  - "Provides about 3 g dietary fiber per serving."
+  - "Contributes about 34% of the daily value for folate per serving."
 description: >-
   Meaty portobello mushroom caps filled with wilted spinach, part-skim ricotta,
   garlic, and herbs, baked until tender.

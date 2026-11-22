@@ -1,6 +1,10 @@
 ---
 title: Anda Patta Gobi Egg and Cabbage Stir-Fry
 slug: anda-patta-gobi-egg-and-cabbage-stir-fry
+benefits:
+  - "Provides about 10.3 g protein per serving."
+  - "Provides about 3.4 g dietary fiber per serving."
+  - "Contributes about 11% of the daily value for iron per serving."
 description: >-
   An Indian-style quick stir-fry of cabbage and scrambled eggs with turmeric and
   mustard seeds.

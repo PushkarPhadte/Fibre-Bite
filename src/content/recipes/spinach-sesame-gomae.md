@@ -1,6 +1,10 @@
 ---
 title: Spinach Sesame Gomae
 slug: spinach-sesame-gomae
+benefits:
+  - "Provides about 4 g protein per serving."
+  - "Provides about 2.8 g dietary fiber per serving."
+  - "Contributes about 19% of the daily value for iron per serving."
 description: A Japanese side of blanched spinach in a ground sesame and tamari dressing.
 baseServings: 3
 ingredients:

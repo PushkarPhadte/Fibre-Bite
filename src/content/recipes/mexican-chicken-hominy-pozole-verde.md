@@ -1,6 +1,10 @@
 ---
 title: Mexican Chicken and Hominy Pozole Verde
 slug: mexican-chicken-hominy-pozole-verde
+benefits:
+  - "Provides about 35 g protein per serving."
+  - "Provides about 7 g dietary fiber per serving."
+  - "Contributes about 74% of the daily value for vitamin C per serving."
 description: >-
   Bright Mexican green stew of shredded chicken breast and tender hominy in a
   roasted tomatillo, poblano, and toasted pumpkin seed broth topped with crisp
@@ -75,6 +79,7 @@ dietaryTags:
   - high-protein
   - high-fiber
 allergens: []
+image: 'https://imgs.search.brave.com/sqo0HgHRlL-Oa6aqs_SUhMw_ESCZaNXgw5EavcY09eI/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/Zm9vZGFuZHdpbmUu/Y29tL3RobWIvZkU0/NHlqbXRPZXpTc2JM/ZGJsY1pkaVhqRjFR/PS8xNTAweDAvZmls/dGVyczpub191cHNj/YWxlKCk6bWF4X2J5/dGVzKDE1MDAwMCk6/c3RyaXBfaWNjKCk6/Zm9ybWF0KHdlYnAp/L01leGljYW4tQ2hp/Y2tlbi1Qb3pvbGUt/VmVyZGUtRlQtUkVD/SVBFMDgyMi0yMDAw/LTE0NTNjYzkzZGZm/ODRmMmU4YzRlNDdh/NjhkZmFhZDQ4Lmpw/Zw'
 nutrition:
   calories: 350
   protein: 35

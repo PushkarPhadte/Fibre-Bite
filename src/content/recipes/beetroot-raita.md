@@ -1,6 +1,10 @@
 ---
 title: Beetroot Raita
 slug: beetroot-raita
+benefits:
+  - "Provides about 4.5 g protein per serving."
+  - "Provides about 1.5 g dietary fiber per serving."
+  - "Contributes about 16% of the daily value for folate per serving."
 description: >-
   A vivid pink yogurt side of grated cooked beetroot with roasted cumin and
   green chilli, cooling beside spicy mains.

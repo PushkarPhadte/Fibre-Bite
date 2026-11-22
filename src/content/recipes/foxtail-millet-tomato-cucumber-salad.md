@@ -1,6 +1,10 @@
 ---
 title: Foxtail Millet Tomato Cucumber Salad
 slug: foxtail-millet-tomato-cucumber-salad
+benefits:
+  - "Provides about 6.8 g protein per serving."
+  - "Provides about 4.5 g dietary fiber per serving."
+  - "Contributes about 8% of the daily value for iron per serving."
 description: >-
   A cold salad of cooked foxtail millet with cucumber, tomato, coriander and
   lemon.

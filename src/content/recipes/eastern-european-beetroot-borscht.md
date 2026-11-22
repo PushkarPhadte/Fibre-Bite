@@ -1,6 +1,10 @@
 ---
 title: Eastern European Beetroot Borscht
 slug: eastern-european-beetroot-borscht
+benefits:
+  - "Provides about 3.5 g protein per serving."
+  - "Provides about 5 g dietary fiber per serving."
+  - "Contributes about 27% of the daily value for vitamin C per serving."
 description: >-
   A vibrant ruby-red beet soup cooked with cabbage, carrots, potatoes, and dill,
   served with a dollop of fresh yogurt.

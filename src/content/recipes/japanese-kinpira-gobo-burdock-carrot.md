@@ -1,6 +1,10 @@
 ---
 title: Japanese Kinpira Gobo (Sesame-Braised Burdock Root and Carrot)
 slug: japanese-kinpira-gobo-burdock-carrot
+benefits:
+  - "Provides about 3 g protein per serving."
+  - "Provides about 4 g dietary fiber per serving."
+  - "Contributes about 13% of the daily value for magnesium per serving."
 description: >-
   Prebiotic fiber-rich Japanese household classic of crisp matchstick burdock
   root and sweet carrot stir-braised in toasted sesame oil, kombu dashi, and

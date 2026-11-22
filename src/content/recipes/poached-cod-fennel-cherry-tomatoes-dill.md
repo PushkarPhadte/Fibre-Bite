@@ -1,6 +1,10 @@
 ---
 title: 'Poached Cod with Fennel, Cherry Tomatoes, and Dill'
 slug: poached-cod-fennel-cherry-tomatoes-dill
+benefits:
+  - "Provides about 33 g protein per serving."
+  - "Provides about 4 g dietary fiber per serving."
+  - "Contributes about 31% of the daily value for vitamin C per serving."
 description: >-
   Delicate Atlantic cod gently poached in an aromatic tomato, shaved fennel,
   garlic, and herb broth.

@@ -1,6 +1,10 @@
 ---
 title: 'Japanese Arame Seaweed, Edamame, and Daikon Simmer'
 slug: japanese-arame-root-vegetable-simmer
+benefits:
+  - "Provides about 15 g protein per serving."
+  - "Provides about 7 g dietary fiber per serving."
+  - "Contributes about 42% of the daily value for folate per serving."
 description: >-
   Mineral-rich Japanese home-style side or light main of mild rehydrated arame
   sea vegetables braised with julienned daikon, carrots, shelled edamame, and
@@ -62,6 +66,7 @@ dietaryTags:
 allergens:
   - sesame
   - soy
+image: 'https://imgs.search.brave.com/OlFmrPerDgUeJHzQYq_DIFqZW2KeQ73LLlulvahAjp0/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/aGlyb2tvbGlzdG9u/LmNvbS93cC1jb250/ZW50L3VwbG9hZHMv/MjAyMC8wNy9TaW1t/ZXJlZF9BcmFtZV9U/b2Z1LmpwZw'
 nutrition:
   calories: 181
   protein: 15

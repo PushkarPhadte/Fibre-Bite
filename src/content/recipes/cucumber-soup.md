@@ -1,6 +1,10 @@
 ---
 title: Cucumber Soup
 slug: cucumber-soup
+benefits:
+  - "Provides about 2 g protein per serving."
+  - "Provides about 2 g dietary fiber per serving."
+  - "Contributes about 11% of the daily value for vitamin C per serving."
 description: >-
   A refreshing, blended soup made with sautéed cucumbers, potatoes, garlic, and
   onions, thickened slightly with cornflour and cream.

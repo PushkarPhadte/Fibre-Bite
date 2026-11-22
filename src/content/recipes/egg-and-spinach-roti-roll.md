@@ -1,6 +1,10 @@
 ---
 title: Egg and Spinach Roti Roll
 slug: egg-and-spinach-roti-roll
+benefits:
+  - "Provides about 17.5 g protein per serving."
+  - "Provides about 6.7 g dietary fiber per serving."
+  - "Contributes about 24% of the daily value for iron per serving."
 description: A whole wheat roti rolled around a spinach and onion omelette.
 baseServings: 2
 ingredients:

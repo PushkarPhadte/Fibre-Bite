@@ -1,6 +1,10 @@
 ---
 title: Mexican Black Bean and Corn Bowl
 slug: mexican-black-bean-and-corn-bowl
+benefits:
+  - "Provides about 8 g protein per serving."
+  - "Provides about 9 g dietary fiber per serving."
+  - "Contributes about 42% of the daily value for vitamin C per serving."
 image: "https://images.unsplash.com/photo-1651994410503-2bc30ab8fa8c?auto=format&fit=crop&w=1200&q=80"
 description: >-
   A vibrant Southwestern bowl filled with black beans, sweet corn, diced

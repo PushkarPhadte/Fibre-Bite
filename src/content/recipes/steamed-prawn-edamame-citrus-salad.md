@@ -1,6 +1,10 @@
 ---
 title: Steamed Prawn and Edamame Citrus Salad
 slug: steamed-prawn-edamame-citrus-salad
+benefits:
+  - "Provides about 32 g protein per serving."
+  - "Provides about 5 g dietary fiber per serving."
+  - "Contributes about 50% of the daily value for vitamin C per serving."
 description: >-
   Lean steamed prawns tossed with shelled edamame, shredded cabbage, lime juice,
   and fresh cilantro.

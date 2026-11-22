@@ -1,6 +1,10 @@
 ---
 title: Healthy Chia Seed Pudding with Berries
 slug: healthy-chia-seed-pudding-with-berries
+benefits:
+  - "Provides about 4.5 g protein per serving."
+  - "Provides about 8.5 g dietary fiber per serving."
+  - "Contributes about 20% of the daily value for calcium per serving."
 description: >-
   A gut-friendly nutrient pot made from chia seeds soaked in almond milk, topped
   with fresh berries and cinnamon.

@@ -1,6 +1,10 @@
 ---
 title: German Cucumber and Dill Salad (Gurkensalat)
 slug: german-cucumber-and-dill-salad
+benefits:
+  - "Provides about 2.5 g protein per serving."
+  - "Provides about 1.5 g dietary fiber per serving."
+  - "Contributes about 9% of the daily value for vitamin C per serving."
 description: >-
   Thinly sliced cucumbers tossed in a light, refreshing dressing of sour cream
   or Greek yogurt, vinegar, and fresh dill.

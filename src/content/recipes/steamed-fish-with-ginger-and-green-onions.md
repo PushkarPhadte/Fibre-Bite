@@ -1,6 +1,10 @@
 ---
 title: Steamed Fish with Ginger and Green Onions
 slug: steamed-fish-with-ginger-and-green-onions
+benefits:
+  - "Provides about 28 g protein per serving."
+  - "Provides about 0.5 g dietary fiber per serving."
+  - "Contributes about 8% of the daily value for potassium per serving."
 image: "https://images.unsplash.com/photo-1767436093457-84ea9122eb4e?auto=format&fit=crop&w=1200&q=80"
 description: >-
   Tender white fish fillet steamed with julienned ginger, green onions, and

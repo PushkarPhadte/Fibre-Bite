@@ -1,6 +1,10 @@
 ---
 title: Mediterranean White Bean Skillet
 slug: mediterranean-white-bean-skillet
+benefits:
+  - "Provides about 11 g protein per serving."
+  - "Provides about 8 g dietary fiber per serving."
+  - "Contributes about 18% of the daily value for iron per serving."
 description: >-
   Creamy cannellini beans simmered with crushed tomatoes, garlic, spinach, and
   topped with crumbled feta cheese.

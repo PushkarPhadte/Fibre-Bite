@@ -1,6 +1,10 @@
 ---
 title: Korean Bean Sprout Soup (Kongnamul Guk)
 slug: korean-bean-sprout-soup-kongnamul-guk
+benefits:
+  - "Provides about 7.2 g protein per serving."
+  - "Provides about 2.3 g dietary fiber per serving."
+  - "Contributes about 14% of the daily value for folate per serving."
 description: >-
   A clear, restorative Korean soup of bean sprouts, garlic and spring onion with
   soft tofu, finished with a touch of sesame oil.
@@ -53,6 +57,7 @@ dietaryTags:
 allergens:
   - sesame
   - soy
+image: 'https://imgs.search.brave.com/gP6xwc2x2A7bROPVoM-Ruso4xvjvanjlj3h8225YlrY/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9mdXR1/cmVkaXNoLmNvbS93/cC1jb250ZW50L3Vw/bG9hZHMvMjAyMS8w/OC9Lb25nbmFtdWwt/R3VrLTIuanBn'
 nutrition:
   calories: 77
   protein: 7.2

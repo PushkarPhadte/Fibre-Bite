@@ -1,6 +1,10 @@
 ---
 title: Indonesian Gado-Gado Salad
 slug: indonesian-gado-gado-salad
+benefits:
+  - "Provides about 14 g protein per serving."
+  - "Provides about 5 g dietary fiber per serving."
+  - "Contributes about 19% of the daily value for folate per serving."
 description: >-
   A traditional Indonesian salad of blanched vegetables, hard-boiled eggs, and
   tofu served with a light peanut dressing.

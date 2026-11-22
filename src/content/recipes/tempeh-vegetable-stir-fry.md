@@ -1,6 +1,10 @@
 ---
 title: Tempeh Vegetable Stir-Fry
 slug: tempeh-vegetable-stir-fry
+benefits:
+  - "Provides about 25.6 g protein per serving."
+  - "Provides about 4.5 g dietary fiber per serving."
+  - "Contributes about 23% of the daily value for iron per serving."
 description: >-
   Indonesian-style tempeh stir-fried with beans, pepper and tomato in tamari and
   lime.

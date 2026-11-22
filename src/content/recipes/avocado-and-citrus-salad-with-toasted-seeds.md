@@ -1,6 +1,10 @@
 ---
 title: Avocado and Citrus Salad with Toasted Seeds
 slug: avocado-and-citrus-salad-with-toasted-seeds
+benefits:
+  - "Provides about 4 g protein per serving."
+  - "Provides about 7 g dietary fiber per serving."
+  - "Contributes about 61% of the daily value for vitamin C per serving."
 image: "https://images.unsplash.com/photo-1631215060641-b9e8e55859a8?auto=format&fit=crop&w=1200&q=80"
 description: >-
   A vibrant fresh salad combining sliced orange segments, creamy avocado, mixed

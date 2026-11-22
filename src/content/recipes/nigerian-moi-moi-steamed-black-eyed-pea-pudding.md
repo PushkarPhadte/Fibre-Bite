@@ -1,6 +1,10 @@
 ---
 title: Moi Moi (Nigerian Steamed Black-Eyed Pea Pudding)
 slug: nigerian-moi-moi-steamed-black-eyed-pea-pudding
+benefits:
+  - "Provides about 12.5 g protein per serving."
+  - "Provides about 6.5 g dietary fiber per serving."
+  - "Contributes about 84% of the daily value for folate per serving."
 description: >-
   Soft, savoury steamed pudding of blended black-eyed peas, red pepper and
   onion: a protein-rich West African classic that needs no frying.
@@ -51,6 +55,7 @@ dietaryTags:
   - vegan
   - gluten-free
 allergens: []
+image: 'https://imgs.search.brave.com/ahPKk-L2DhAgKAvR943kho_kzkprw0xRSN9n-gzshb8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzL2Q0LzA2/L2I2L2Q0MDZiNmNi/NTQwOWY0ODQ2Y2Fl/MjRhZjhjODBhNWVm/LmpwZw'
 nutrition:
   calories: 250
   protein: 12.5

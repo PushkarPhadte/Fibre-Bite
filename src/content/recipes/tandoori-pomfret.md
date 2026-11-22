@@ -1,6 +1,10 @@
 ---
 title: Tandoori Pomfret
 slug: tandoori-pomfret
+benefits:
+  - "Provides about 28 g protein per serving."
+  - "Provides about 0.2 g dietary fiber per serving."
+  - "Contributes about 40% of the daily value for vitamin D per serving."
 image: "https://upload.wikimedia.org/wikipedia/commons/7/7f/Pomfret_fry_MA01.jpg"
 imageAttribution:
   title: "Pomfret fry MA01"

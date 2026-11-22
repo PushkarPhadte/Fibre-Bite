@@ -1,6 +1,10 @@
 ---
 title: Lemon Herb Grilled Shrimp Skewers
 slug: lemon-herb-grilled-shrimp-skewers
+benefits:
+  - "Provides about 24 g protein per serving."
+  - "Provides about 0 g dietary fiber per serving."
+  - "Contributes about 8% of the daily value for iron per serving."
 image: "https://images.unsplash.com/photo-1684253193395-bb87ad32d4be?auto=format&fit=crop&w=1200&q=80"
 description: >-
   Juicy shrimp marinated in zesty lemon juice, garlic, and mixed herbs, threaded

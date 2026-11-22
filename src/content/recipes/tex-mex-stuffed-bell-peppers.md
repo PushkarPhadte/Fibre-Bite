@@ -1,6 +1,10 @@
 ---
 title: Tex-Mex Stuffed Bell Peppers
 slug: tex-mex-stuffed-bell-peppers
+benefits:
+  - "Provides about 9.5 g protein per serving."
+  - "Provides about 7 g dietary fiber per serving."
+  - "Contributes about 133% of the daily value for vitamin C per serving."
 description: >-
   Halved bell peppers stuffed with black beans, brown rice, sweet corn, salsa,
   and melted low-fat cheese.

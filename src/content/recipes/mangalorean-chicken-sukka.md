@@ -1,6 +1,10 @@
 ---
 title: Mangalorean Chicken Sukka
 slug: mangalorean-chicken-sukka
+benefits:
+  - "Provides about 26.2 g protein per serving."
+  - "Provides about 3.2 g dietary fiber per serving."
+  - "Contributes about 13% of the daily value for iron per serving."
 description: >-
   A dry, intensely spiced coastal Karnataka chicken dish made with roasted
   coconut and coriander masala and just a little oil.
@@ -74,6 +78,7 @@ dietaryTags:
   - high-protein
   - low-carb
 allergens: []
+image: 'https://imgs.search.brave.com/yZD866ld6g1eNvMb3DSZyiYTynkM0yQtVCa8Hs6YrYI/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90aGV5/dW1teWRlbGlnaHRz/LmNvbS93cC1jb250/ZW50L3VwbG9hZHMv/MjAyMS8xMS9tYW5n/YWxvcmVhbi1jaGlj/a2VuLXN1a2thLmpw/Zw'
 nutrition:
   calories: 271
   protein: 26.2

@@ -1,6 +1,10 @@
 ---
 title: Buckwheat Kasha with Mushrooms and Dill
 slug: buckwheat-kasha-with-mushrooms-and-dill
+benefits:
+  - "Provides about 12.2 g protein per serving."
+  - "Provides about 6.6 g dietary fiber per serving."
+  - "Contributes about 31% of the daily value for magnesium per serving."
 description: >-
   Toasted buckwheat groats cooked until fluffy with browned mushrooms and onion
   and topped with a spoon of yogurt and dill.

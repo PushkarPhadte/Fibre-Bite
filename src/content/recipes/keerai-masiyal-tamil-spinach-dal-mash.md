@@ -1,6 +1,10 @@
 ---
 title: Keerai Masiyal (Tamil Spinach and Moong Dal Mash)
 slug: keerai-masiyal-tamil-spinach-dal-mash
+benefits:
+  - "Provides about 7.2 g protein per serving."
+  - "Provides about 5.5 g dietary fiber per serving."
+  - "Contributes about 73% of the daily value for folate per serving."
 description: >-
   A rustic Tamil dish of spinach and moong dal mashed with garlic and cumin,
   tempered with mustard and curry leaves.
@@ -64,6 +68,7 @@ dietaryTags:
   - gluten-free
   - low-carb
 allergens: []
+image: 'https://imgs.search.brave.com/SUfRrGZzJumhJbkF8FCcQDYxX2KKDC8Sysrjs5Nv9yE/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/Y29va2luZ2N1cnJp/ZXMuY29tL3dwLWNv/bnRlbnQvdXBsb2Fk/cy8yMDE3LzAyL0tl/ZXJhaS1NYXNpeWFs/LVNvdXRoLUluZGlh/bi1TdHlsZS1TcGlu/YWNoLU1hc2gtVmVn/YW4tR2x1dGVuLUZy/ZWUtNV90aHVtYi5q/cGc'
 nutrition:
   calories: 126
   protein: 7.2

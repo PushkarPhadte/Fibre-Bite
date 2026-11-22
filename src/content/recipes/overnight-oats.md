@@ -1,6 +1,10 @@
 ---
 title: Overnight Oats
 slug: overnight-oats
+benefits:
+  - "Provides about 18 g protein per serving."
+  - "Provides about 9 g dietary fiber per serving."
+  - "Contributes about 21% of the daily value for magnesium per serving."
 description: 'Creamy oats with chia, berries, and vanilla for a quick fiber-rich breakfast.'
 baseServings: 2
 ingredients:

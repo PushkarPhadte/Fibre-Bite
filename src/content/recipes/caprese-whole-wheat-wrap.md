@@ -1,6 +1,10 @@
 ---
 title: Caprese Whole Wheat Wrap
 slug: caprese-whole-wheat-wrap
+benefits:
+  - "Provides about 13 g protein per serving."
+  - "Provides about 4 g dietary fiber per serving."
+  - "Contributes about 22% of the daily value for calcium per serving."
 image: "https://images.unsplash.com/photo-1752095809096-f09d22c466c5?auto=format&fit=crop&w=1200&q=80"
 description: >-
   A fresh Italian wrap packed with fresh mozzarella, ripe sliced tomatoes, basil

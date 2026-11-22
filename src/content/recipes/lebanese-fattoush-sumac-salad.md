@@ -1,6 +1,10 @@
 ---
 title: Lebanese Fattoush Salad with Baked Whole-Wheat Pita
 slug: lebanese-fattoush-sumac-salad
+benefits:
+  - "Provides about 5 g protein per serving."
+  - "Provides about 5 g dietary fiber per serving."
+  - "Contributes about 39% of the daily value for vitamin C per serving."
 description: >-
   Crisp Levantine garden salad of romaine, radishes, cucumbers, heirloom
   tomatoes, and fresh mint tossed in a tangy sumac-pomegranate vinaigrette with

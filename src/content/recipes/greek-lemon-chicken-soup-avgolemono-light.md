@@ -1,6 +1,10 @@
 ---
 title: Greek Lemon Chicken Soup (Avgolemono Light)
 slug: greek-lemon-chicken-soup-avgolemono-light
+benefits:
+  - "Provides about 24 g protein per serving."
+  - "Provides about 1 g dietary fiber per serving."
+  - "Contributes about 11% of the daily value for vitamin C per serving."
 image: "https://upload.wikimedia.org/wikipedia/commons/b/bd/Greek_chichen_soup_with_lemon_and_egg.jpg"
 imageAttribution:
   title: "Greek chichen soup with lemon and egg"

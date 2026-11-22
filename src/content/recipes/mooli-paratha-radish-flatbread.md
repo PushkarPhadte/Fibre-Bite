@@ -1,6 +1,10 @@
 ---
 title: Mooli Paratha Radish Flatbread
 slug: mooli-paratha-radish-flatbread
+benefits:
+  - "Provides about 8.5 g protein per serving."
+  - "Provides about 7.6 g dietary fiber per serving."
+  - "Contributes about 16% of the daily value for iron per serving."
 description: >-
   Whole wheat flatbreads stuffed with spiced grated radish, cooked with very
   little oil.
@@ -41,6 +45,7 @@ dietaryTags:
   - high-fiber
 allergens:
   - wheat
+image: 'https://imgs.search.brave.com/-vVa9a9JTAErPVWGMB_yYtCzNvLiy_XfqKXd4awsOBk/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvMTg4/Njg3ODAzNS9waG90/by9tb29saS1wYXJh/dGhhLW9yLXJhZGlz/aC1mbGF0YnJlYWQu/anBnP3M9NjEyeDYx/MiZ3PTAmaz0yMCZj/PURMczlXVldZTlBp/V0EyVUxSMTJJVzVD/UV92UzVCLTRyYlUx/U3lPbTBsLTA9'
 nutrition:
   calories: 248
   protein: 8.5

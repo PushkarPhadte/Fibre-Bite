@@ -1,6 +1,10 @@
 ---
 title: Spiced Millet and Chickpea Pilaf with Mint
 slug: spiced-millet-chickpea-pilaf-mint
+benefits:
+  - "Provides about 10 g protein per serving."
+  - "Provides about 8 g dietary fiber per serving."
+  - "Contributes about 29% of the daily value for folate per serving."
 description: >-
   Fluffy hulled millet cooked with chickpeas, warm cumin, cinnamon, and fresh
   mint leaves.

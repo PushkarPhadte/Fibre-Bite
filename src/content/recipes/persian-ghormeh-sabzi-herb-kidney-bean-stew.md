@@ -1,6 +1,10 @@
 ---
 title: Ghormeh Sabzi (Persian Herb and Kidney Bean Stew)
 slug: persian-ghormeh-sabzi-herb-kidney-bean-stew
+benefits:
+  - "Provides about 10.4 g protein per serving."
+  - "Provides about 10.6 g dietary fiber per serving."
+  - "Contributes about 59% of the daily value for vitamin C per serving."
 description: >-
   Deep green Persian stew of parsley, coriander, fenugreek and spring onion with
   kidney beans and lime, served with brown rice.

@@ -1,6 +1,10 @@
 ---
 title: Khandvi (Gujarati Savory Gram Flour Rolls)
 slug: khandvi
+benefits:
+  - "Provides about 5.2 g protein per serving."
+  - "Provides about 2.6 g dietary fiber per serving."
+  - "Contributes about 10% of the daily value for folate per serving."
 description: >-
   A classic Gujarati steamed snack made from gram flour and buttermilk, tempered
   with mustard seeds and curry leaves.

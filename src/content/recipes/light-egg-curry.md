@@ -1,6 +1,10 @@
 ---
 title: Light Egg Curry
 slug: light-egg-curry
+benefits:
+  - "Provides about 14.2 g protein per serving."
+  - "Provides about 2.3 g dietary fiber per serving."
+  - "Contributes about 15% of the daily value for iron per serving."
 description: Boiled eggs simmered in a spiced tomato-onion gravy made with minimal oil.
 baseServings: 3
 ingredients:

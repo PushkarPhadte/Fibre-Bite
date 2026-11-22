@@ -1,6 +1,10 @@
 ---
 title: Seared Tuna and White Bean Salad
 slug: seared-tuna-and-white-bean-salad
+benefits:
+  - "Provides about 38.4 g protein per serving."
+  - "Provides about 9.8 g dietary fiber per serving."
+  - "Contributes about 34% of the daily value for iron per serving."
 description: >-
   Seared fresh tuna over cannellini beans, cherry tomatoes and parsley in
   lemon-olive oil dressing.

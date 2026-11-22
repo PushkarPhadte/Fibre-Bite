@@ -1,6 +1,10 @@
 ---
 title: Whole Wheat Penne Arrabbiata with Roasted Vegetables
 slug: whole-wheat-penne-arrabbiata-with-roasted-vegetables
+benefits:
+  - "Provides about 10.2 g protein per serving."
+  - "Provides about 8.6 g dietary fiber per serving."
+  - "Contributes about 19% of the daily value for potassium per serving."
 description: >-
   Spicy tomato-garlic sauce over whole wheat penne with roasted zucchini and
   peppers.

@@ -1,6 +1,10 @@
 ---
 title: Light Dal Dhokli
 slug: light-dal-dhokli
+benefits:
+  - "Provides about 11.2 g protein per serving."
+  - "Provides about 8.1 g dietary fiber per serving."
+  - "Contributes about 18% of the daily value for iron per serving."
 description: Whole wheat spiced dough strips simmered in a lightly sweet-sour toor dal.
 baseServings: 4
 ingredients:
@@ -68,6 +72,7 @@ dietaryTags:
 allergens:
   - peanuts
   - wheat
+image: 'https://imgs.search.brave.com/LS6rHCtvU6FnimFR-eJ6VeavB26ia6g7ENA_VZ56hmM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/aW5kaWFwaGlsZS5p/bmZvL3dwLWNvbnRl/bnQvdXBsb2Fkcy8y/MDIzLzEyL3N0cC1k/YWwtZGhva2xpLTY1/MDMuanBnP3dpZHRo/PTgwMCZjcm9wX2dy/YXZpdHk9Y2VudGVy/JmFzcGVjdF9yYXRp/bz1hdXRvJnE9NzU'
 nutrition:
   calories: 265
   protein: 11.2

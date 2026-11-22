@@ -1,6 +1,10 @@
 ---
 title: Sprouted Green Gram and Carrot Stir-Fry
 slug: sprouted-green-gram-carrot-stir-fry
+benefits:
+  - "Provides about 9 g protein per serving."
+  - "Provides about 6 g dietary fiber per serving."
+  - "Contributes about 40% of the daily value for folate per serving."
 description: >-
   Quickly tossed sprouted moong beans with grated carrots, mustard seeds,
   coconut, and lime.

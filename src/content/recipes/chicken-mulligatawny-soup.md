@@ -1,6 +1,10 @@
 ---
 title: Chicken Mulligatawny Soup
 slug: chicken-mulligatawny-soup
+benefits:
+  - "Provides about 21.1 g protein per serving."
+  - "Provides about 3.3 g dietary fiber per serving."
+  - "Contributes about 12% of the daily value for iron per serving."
 description: >-
   A mildly spiced Anglo-Indian lentil and chicken soup with apple and a little
   coconut milk.

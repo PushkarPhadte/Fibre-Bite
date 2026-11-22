@@ -1,6 +1,10 @@
 ---
 title: Caldo Verde (Portuguese Kale and Potato Soup)
 slug: caldo-verde-kale-potato-soup
+benefits:
+  - "Provides about 4.8 g protein per serving."
+  - "Provides about 4.8 g dietary fiber per serving."
+  - "Contributes about 93% of the daily value for vitamin C per serving."
 description: >-
   Silky potato soup with ribbons of kale, garlic and smoked paprika: a classic
   Portuguese comfort bowl without sausage.
@@ -61,7 +65,7 @@ dietaryTags:
   - vegan
   - gluten-free
 allergens: []
-image: 'https://img.delo-vcusa.ru/2017/11/Sup-fasolevyj-s-kopchenymi-sosiskami.jpg'
+image: 'https://imgs.search.brave.com/Ov3RgIS3tJvFZYRpPuzf0gLmJzSDsp30rqczQvYtveg/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zMy5h/bWF6b25hd3MuY29t/L3N1Z2FybGF3cy5j/b20vUmVjaXBlSW1h/Z2VzL0NhbGRvVmVy/ZGVQb3J0dWd1ZXNl/UG90YXRvYW5kS2Fs/ZVNvdXBXaXRoU2F1/c2FnZVJlY2lwZS5q/cGc'
 nutrition:
   calories: 180
   protein: 4.8

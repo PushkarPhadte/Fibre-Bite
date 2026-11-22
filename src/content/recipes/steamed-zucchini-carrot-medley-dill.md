@@ -1,6 +1,10 @@
 ---
 title: Steamed Zucchini and Carrot Medley with Dill
 slug: steamed-zucchini-carrot-medley-dill
+benefits:
+  - "Provides about 3 g protein per serving."
+  - "Provides about 4 g dietary fiber per serving."
+  - "Contributes about 29% of the daily value for vitamin C per serving."
 description: >-
   Tender-crisp steamed zucchini half-moons and carrot coins tossed with fresh
   dill and lemon zest.
@@ -40,6 +44,7 @@ dietaryTags:
   - low-carb
   - keto
 allergens: []
+image: 'https://imgs.search.brave.com/Kldy4K8pL73G69zmKNE5Qutt-7Kvk2TJKjIjBSMSfI4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9hc3Nl/dHMudG1lY29zeXMu/Y29tL2ltYWdlL3Vw/bG9hZC90X3dlYl9y/ZHBfcmVjaXBlXzU4/NHg0ODAvaW1nL3Jl/Y2lwZS9yYXMvQXNz/ZXRzLzY0MDhhMDE2/ZDFlZjg4YjZmMTk1/MjdjZjE4ZWY5ODk5/L0Rlcml2YXRlcy9l/Mjk2MjUyZmM5Y2Nl/ZGU0MTBlZWQyZmRm/MzMyMDk3MDkzNGUw/YTQwLmpwZw'
 nutrition:
   calories: 115
   protein: 3

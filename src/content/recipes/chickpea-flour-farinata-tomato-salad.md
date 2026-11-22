@@ -1,6 +1,10 @@
 ---
 title: Chickpea Flour Farinata with Tomato Salad
 slug: chickpea-flour-farinata-tomato-salad
+benefits:
+  - "Provides about 9.3 g protein per serving."
+  - "Provides about 5.2 g dietary fiber per serving."
+  - "Contributes about 46% of the daily value for folate per serving."
 description: >-
   Ligurian chickpea flatbread baked until crisp at the edges and creamy inside,
   served with a tomato, lettuce and rosemary salad.

@@ -1,6 +1,10 @@
 ---
 title: Baked Lemon Herb Cod
 slug: baked-lemon-herb-cod
+benefits:
+  - "Provides about 27 g protein per serving."
+  - "Provides about 0 g dietary fiber per serving."
+  - "Contributes about 11% of the daily value for vitamin C per serving."
 image: "https://images.unsplash.com/photo-1728963228980-71c76178616a?auto=format&fit=crop&w=1200&q=80"
 description: >-
   Delicate cod fillets baked with fresh lemon slices, dill, garlic, and extra

@@ -1,6 +1,10 @@
 ---
 title: Chana Sundal (Tamil Chickpea and Coconut Stir-Fry)
 slug: chana-sundal-tamil-chickpea-coconut-salad
+benefits:
+  - "Provides about 10.2 g protein per serving."
+  - "Provides about 9.7 g dietary fiber per serving."
+  - "Contributes about 72% of the daily value for folate per serving."
 description: >-
   Soft chickpeas tossed with fresh coconut, ginger, curry leaves and mustard: a
   protein-rich snack offered at Navaratri and sold on Chennai's beaches.

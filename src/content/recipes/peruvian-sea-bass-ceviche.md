@@ -1,6 +1,10 @@
 ---
 title: Peruvian Sea Bass Ceviche with Sweet Potato
 slug: peruvian-sea-bass-ceviche
+benefits:
+  - "Provides about 29 g protein per serving."
+  - "Provides about 4 g dietary fiber per serving."
+  - "Contributes about 39% of the daily value for vitamin D per serving."
 description: >-
   Classic no-cook Peruvian lime-cured sea bass tossed with crisp red onion,
   fresh cilantro, and chili, served alongside tender boiled sweet potato and

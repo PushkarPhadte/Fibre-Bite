@@ -1,6 +1,10 @@
 ---
 title: West African Fonio Pilaf with Roasted Carrots and Pistachios
 slug: fonio-pilaf-roasted-carrots-pistachios
+benefits:
+  - "Provides about 8 g protein per serving."
+  - "Provides about 7 g dietary fiber per serving."
+  - "Contributes about 21% of the daily value for iron per serving."
 description: >-
   Fluffy ancient West African fonio grain tossed with cumin-roasted carrots,
   shallots, bright fresh mint, lemon juice, and crunchy pistachios.

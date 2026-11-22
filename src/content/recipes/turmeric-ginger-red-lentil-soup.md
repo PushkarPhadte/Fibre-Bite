@@ -1,6 +1,10 @@
 ---
 title: Turmeric Ginger Red Lentil Soup
 slug: turmeric-ginger-red-lentil-soup
+benefits:
+  - "Provides about 11 g protein per serving."
+  - "Provides about 8 g dietary fiber per serving."
+  - "Contributes about 30% of the daily value for folate per serving."
 image: "https://upload.wikimedia.org/wikipedia/commons/c/cd/Liat_Portal_for_Foodie_Disorder_-_Red_lentil_soup_with_vegetables_and_dumpling.jpg"
 imageAttribution:
   title: "Liat Portal for Foodie Disorder - Red lentil soup with vegetables and dumpling"

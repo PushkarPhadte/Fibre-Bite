@@ -1,6 +1,10 @@
 ---
 title: Dal Khichdi
 slug: dal-khichdi
+benefits:
+  - "Provides about 7.5 g protein per serving."
+  - "Provides about 3 g dietary fiber per serving."
+  - "Contributes about 10% of the daily value for iron per serving."
 description: >-
   A comfort dish cooked by simmering yellow moong dal and rice together with
   mild spices, turmeric, and ghee.

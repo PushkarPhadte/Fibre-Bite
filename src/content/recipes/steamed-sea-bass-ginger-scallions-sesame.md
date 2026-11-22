@@ -1,6 +1,10 @@
 ---
 title: 'Steamed Sea Bass with Ginger, Scallions, and Sesame'
 slug: steamed-sea-bass-ginger-scallions-sesame
+benefits:
+  - "Provides about 31 g protein per serving."
+  - "Provides about 1 g dietary fiber per serving."
+  - "Contributes about 24% of the daily value for vitamin D per serving."
 description: >-
   Tender white sea bass steamed over julienned ginger and scallions with a light
   soy-sesame drizzle.

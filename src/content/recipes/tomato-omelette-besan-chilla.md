@@ -1,6 +1,10 @@
 ---
 title: Tomato Omelette (Besan Chilla)
 slug: tomato-omelette-besan-chilla
+benefits:
+  - "Provides about 6.5 g protein per serving."
+  - "Provides about 3.5 g dietary fiber per serving."
+  - "Contributes about 19% of the daily value for folate per serving."
 description: >-
   A savory pan-cooked pancake made from chickpea flour batter mixed with chopped
   tomatoes, onions, spices, and herbs.

@@ -1,6 +1,10 @@
 ---
 title: Thai Green Papaya Salad (Som Tum)
 slug: thai-green-papaya-salad-som-tum
+benefits:
+  - "Provides about 4 g protein per serving."
+  - "Provides about 4 g dietary fiber per serving."
+  - "Contributes about 69% of the daily value for vitamin C per serving."
 description: >-
   A tangy, crunchy Northeastern Thai salad made with shredded green papaya,
   cherry tomatoes, green beans, peanuts, and lime juice.

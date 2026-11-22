@@ -1,6 +1,10 @@
 ---
 title: Nasu Dengaku (Miso-Glazed Baked Eggplant)
 slug: nasu-dengaku-miso-glazed-baked-eggplant
+benefits:
+  - "Provides about 3.1 g protein per serving."
+  - "Provides about 5.4 g dietary fiber per serving."
+  - "Contributes about 10% of the daily value for folate per serving."
 description: >-
   Halved eggplant roasted until creamy and glazed with a sweet-savoury miso
   topping and toasted sesame seeds.
@@ -52,6 +56,7 @@ dietaryTags:
 allergens:
   - sesame
   - soy
+image: 'https://imgs.search.brave.com/7UWkeZog2IJVZ6ep-HCxYyxSD9vV4xyI2tVGYTJWA4k/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9waWNr/bGVkcGx1bS5jb20v/d3AtY29udGVudC91/cGxvYWRzLzIwMTcv/MDkvamFwYW5lc2Ut/ZWdncGxhbnQtbmFz/dS1kZW5nYWt1LTEt/MTIwMC5qcGc'
 nutrition:
   calories: 121
   protein: 3.1

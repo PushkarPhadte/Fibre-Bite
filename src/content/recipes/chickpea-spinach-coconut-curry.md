@@ -1,6 +1,10 @@
 ---
 title: Chickpea Spinach Coconut Curry
 slug: chickpea-spinach-coconut-curry
+benefits:
+  - "Provides about 11 g protein per serving."
+  - "Provides about 8 g dietary fiber per serving."
+  - "Contributes about 23% of the daily value for iron per serving."
 image: "https://upload.wikimedia.org/wikipedia/commons/4/4f/Spinach-Chickpea_Curry_%283117324894%29.jpg"
 imageAttribution:
   title: "Spinach-Chickpea Curry"

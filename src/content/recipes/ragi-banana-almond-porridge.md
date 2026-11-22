@@ -1,6 +1,10 @@
 ---
 title: Ragi Banana Almond Porridge
 slug: ragi-banana-almond-porridge
+benefits:
+  - "Provides about 8.9 g protein per serving."
+  - "Provides about 3.5 g dietary fiber per serving."
+  - "Contributes about 12% of the daily value for potassium per serving."
 description: >-
   Warm finger millet porridge sweetened only by ripe banana, with cinnamon and
   toasted almonds.

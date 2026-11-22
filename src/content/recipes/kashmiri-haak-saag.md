@@ -1,6 +1,10 @@
 ---
 title: Kashmiri Haak Saag (Steamed Collard Greens)
 slug: kashmiri-haak-saag
+benefits:
+  - "Provides about 2.8 g protein per serving."
+  - "Provides about 3.6 g dietary fiber per serving."
+  - "Contributes about 39% of the daily value for vitamin C per serving."
 description: >-
   A minimalist Kashmiri specialty featuring collard greens cooked gently with
   mustard oil, asafoetida, and dry red chillies.

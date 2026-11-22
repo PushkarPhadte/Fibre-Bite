@@ -1,6 +1,10 @@
 ---
 title: Sweet Corn and Vegetable Soup
 slug: sweet-corn-and-vegetable-soup
+benefits:
+  - "Provides about 2.3 g protein per serving."
+  - "Provides about 2.1 g dietary fiber per serving."
+  - "Contributes about 5% of the daily value for potassium per serving."
 description: >-
   A light clear-style soup of sweet corn, carrot and beans with ginger and
   pepper.

@@ -1,6 +1,10 @@
 ---
 title: Oven Jerk Chicken
 slug: oven-jerk-chicken
+benefits:
+  - "Provides about 30.2 g protein per serving."
+  - "Provides about 1.1 g dietary fiber per serving."
+  - "Contributes about 13% of the daily value for iron per serving."
 description: >-
   Chicken thighs marinated in jerk-style thyme, pepper, ginger and lime and
   baked until browned.

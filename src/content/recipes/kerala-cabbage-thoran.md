@@ -1,6 +1,10 @@
 ---
 title: Kerala Cabbage Thoran
 slug: kerala-cabbage-thoran
+benefits:
+  - "Provides about 4 g protein per serving."
+  - "Provides about 6 g dietary fiber per serving."
+  - "Contributes about 51% of the daily value for vitamin C per serving."
 description: >-
   A quick Kerala-style cabbage stir-fry with coconut, mustard seeds, curry
   leaves, and green chilli.

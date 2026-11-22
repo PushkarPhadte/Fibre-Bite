@@ -1,6 +1,10 @@
 ---
 title: Unsalted Nut and Seed Trail Mix
 slug: unsalted-nut-and-seed-trail-mix
+benefits:
+  - "Provides about 4.9 g protein per serving."
+  - "Provides about 2 g dietary fiber per serving."
+  - "Contributes about 5% of the daily value for iron per serving."
 description: >-
   A five-minute snack mix of almonds, walnuts, pumpkin seeds and peanuts; no
   salt or sugar.

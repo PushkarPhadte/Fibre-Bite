@@ -1,6 +1,10 @@
 ---
 title: Cabbage and White Bean Soup
 slug: cabbage-and-white-bean-soup
+benefits:
+  - "Provides about 9.7 g protein per serving."
+  - "Provides about 8.9 g dietary fiber per serving."
+  - "Contributes about 22% of the daily value for iron per serving."
 description: >-
   A filling, fibre-rich soup of cabbage, cannellini beans, carrot and celery in
   a light tomato broth.

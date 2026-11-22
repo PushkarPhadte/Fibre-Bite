@@ -1,6 +1,10 @@
 ---
 title: Sesame Seared Edamame and Bell Pepper Bowl
 slug: sesame-seared-edamame-and-bell-pepper-bowl
+benefits:
+  - "Provides about 16 g protein per serving."
+  - "Provides about 8 g dietary fiber per serving."
+  - "Contributes about 113% of the daily value for vitamin C per serving."
 description: >-
   Shelled edamame seared with crisp red bell pepper, garlic, and toasted sesame
   for a quick plant-forward bowl.

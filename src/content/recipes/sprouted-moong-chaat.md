@@ -1,6 +1,10 @@
 ---
 title: Sprouted Moong Chaat
 slug: sprouted-moong-chaat
+benefits:
+  - "Provides about 11 g protein per serving."
+  - "Provides about 8 g dietary fiber per serving."
+  - "Contributes about 33% of the daily value for folate per serving."
 description: >-
   A fresh, tangy Indian snack of sprouted mung beans, cucumber, tomato, lime,
   and roasted cumin.

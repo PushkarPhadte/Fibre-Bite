@@ -1,6 +1,10 @@
 ---
 title: Creamy Roasted Cauliflower Soup
 slug: creamy-roasted-cauliflower-soup
+benefits:
+  - "Provides about 3 g protein per serving."
+  - "Provides about 4 g dietary fiber per serving."
+  - "Contributes about 61% of the daily value for vitamin C per serving."
 image: "https://images.unsplash.com/photo-1578859318509-62790b079366?auto=format&fit=crop&w=1200&q=80"
 description: >-
   A velvety, dairy-free blended soup made from oven-roasted cauliflower heads,

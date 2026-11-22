@@ -1,6 +1,10 @@
 ---
 title: 'Baked Pears with Cardamom, Walnuts, and Ricotta'
 slug: baked-pears-cardamom-walnuts-ricotta
+benefits:
+  - "Provides about 9 g protein per serving."
+  - "Provides about 6 g dietary fiber per serving."
+  - "Contributes about 14% of the daily value for calcium per serving."
 description: >-
   Halved ripe pears baked with ground cardamom and topped with part-skim ricotta
   and chopped walnuts.

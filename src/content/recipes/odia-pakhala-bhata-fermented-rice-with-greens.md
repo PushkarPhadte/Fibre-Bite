@@ -1,6 +1,10 @@
 ---
 title: Pakhala Bhata with Spinach Saga (Odia Water Rice)
 slug: odia-pakhala-bhata-fermented-rice-with-greens
+benefits:
+  - "Provides about 6.8 g protein per serving."
+  - "Provides about 3 g dietary fiber per serving."
+  - "Contributes about 25% of the daily value for magnesium per serving."
 description: >-
   Odisha's cooling summer meal: soft brown rice soaked in lightly salted curd
   water with cucumber and mint, served with garlicky spinach.

@@ -1,6 +1,10 @@
 ---
 title: Poached Halibut with Fennel and Dill Broth
 slug: poached-halibut-with-fennel-and-dill-broth
+benefits:
+  - "Provides about 34 g protein per serving."
+  - "Provides about 3 g dietary fiber per serving."
+  - "Contributes about 35% of the daily value for magnesium per serving."
 description: >-
   Delicate halibut fillets gently poached in an aromatic fennel, garlic, and
   dill vegetable broth.

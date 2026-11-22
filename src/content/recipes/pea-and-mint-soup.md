@@ -1,6 +1,10 @@
 ---
 title: Pea and Mint Soup
 slug: pea-and-mint-soup
+benefits:
+  - "Provides about 6.3 g protein per serving."
+  - "Provides about 6.9 g dietary fiber per serving."
+  - "Contributes about 11% of the daily value for iron per serving."
 description: 'A bright green soup of peas, potato and mint, blended smooth.'
 baseServings: 4
 ingredients:

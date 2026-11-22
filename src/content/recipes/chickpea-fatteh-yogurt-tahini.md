@@ -1,6 +1,10 @@
 ---
 title: Chickpea Fatteh with Garlic Yogurt and Tahini
 slug: chickpea-fatteh-yogurt-tahini
+benefits:
+  - "Provides about 19.8 g protein per serving."
+  - "Provides about 9.1 g dietary fiber per serving."
+  - "Contributes about 59% of the daily value for folate per serving."
 description: >-
   A Levantine layered dish of toasted pita, warm chickpeas and garlicky yogurt
   tahini sauce, topped with toasted pumpkin seeds and paprika.

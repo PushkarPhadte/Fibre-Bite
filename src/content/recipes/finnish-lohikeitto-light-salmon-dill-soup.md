@@ -1,6 +1,10 @@
 ---
 title: 'Finnish Lohikeitto (Light Salmon, Leek, Potato, and Dill Soup)'
 slug: finnish-lohikeitto-light-salmon-dill-soup
+benefits:
+  - "Provides about 29 g protein per serving."
+  - "Provides about 4 g dietary fiber per serving."
+  - "Contributes about 70% of the daily value for vitamin D per serving."
 description: >-
   Nordic comfort soup featuring omega-3-rich wild salmon chunks, sweet leeks,
   carrots, and waxy potatoes gently poached in a light milk-enriched broth

@@ -1,6 +1,10 @@
 ---
 title: Garlic Bok Choy and Mushroom Stir-Fry
 slug: garlic-bok-choy-and-mushroom-stir-fry
+benefits:
+  - "Provides about 5.2 g protein per serving."
+  - "Provides about 2.4 g dietary fiber per serving."
+  - "Contributes about 14% of the daily value for potassium per serving."
 description: A quick vegan side of bok choy and mushrooms in garlic and a splash of tamari.
 baseServings: 2
 ingredients:

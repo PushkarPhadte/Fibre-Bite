@@ -1,6 +1,10 @@
 ---
 title: Georgian Lobio Kidney Beans with Walnuts
 slug: georgian-lobio-kidney-beans-with-walnuts
+benefits:
+  - "Provides about 13.1 g protein per serving."
+  - "Provides about 9.7 g dietary fiber per serving."
+  - "Contributes about 24% of the daily value for iron per serving."
 description: >-
   A Georgian-style kidney bean stew with ground walnuts, onion, garlic and
   herbs.

@@ -1,6 +1,10 @@
 ---
 title: 'White Bean, Kale, and Rosemary Simmer'
 slug: white-bean-kale-rosemary-simmer
+benefits:
+  - "Provides about 13 g protein per serving."
+  - "Provides about 10 g dietary fiber per serving."
+  - "Contributes about 58% of the daily value for vitamin C per serving."
 description: >-
   Cannellini beans and chopped Tuscan kale simmered with fresh rosemary, garlic,
   and extra-virgin olive oil.

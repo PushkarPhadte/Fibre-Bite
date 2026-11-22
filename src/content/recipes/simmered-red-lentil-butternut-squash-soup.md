@@ -1,6 +1,10 @@
 ---
 title: Simmered Red Lentil and Butternut Squash Soup
 slug: simmered-red-lentil-butternut-squash-soup
+benefits:
+  - "Provides about 13 g protein per serving."
+  - "Provides about 11 g dietary fiber per serving."
+  - "Contributes about 42% of the daily value for folate per serving."
 description: >-
   Velvety orange soup blending split red lentils, sweet butternut squash,
   ginger, and warm cumin.

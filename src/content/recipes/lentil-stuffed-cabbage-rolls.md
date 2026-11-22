@@ -1,6 +1,10 @@
 ---
 title: Lentil Stuffed Cabbage Rolls
 slug: lentil-stuffed-cabbage-rolls
+benefits:
+  - "Provides about 8.8 g protein per serving."
+  - "Provides about 6.7 g dietary fiber per serving."
+  - "Contributes about 19% of the daily value for iron per serving."
 description: Cabbage leaves filled with spiced lentils and baked in tomato sauce.
 baseServings: 4
 ingredients:
@@ -50,6 +54,7 @@ dietaryTags:
   - vegan
   - gluten-free
 allergens: []
+image: 'https://imgs.search.brave.com/GHLZVryk0AXRHcva5TGfclgzolq1AuCc8LNF0ANQVM8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pMC53/cC5jb20vd3d3Lm9u/ZWdyZWVucGxhbmV0/Lm9yZy93cC1jb250/ZW50L3VwbG9hZHMv/MjAxNi8xMS9sZW50/aWwtc3R1ZmZlZC1j/YWJiYWdlLXJvbGxz/LTEuanBnP2ZpdD0x/NjAwLDEwMDAmc3Ns/PTE'
 nutrition:
   calories: 165
   protein: 8.8

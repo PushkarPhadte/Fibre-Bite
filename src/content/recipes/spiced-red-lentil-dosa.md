@@ -1,6 +1,10 @@
 ---
 title: Spiced Red Lentil Dosa
 slug: spiced-red-lentil-dosa
+benefits:
+  - "Provides about 11 g protein per serving."
+  - "Provides about 6 g dietary fiber per serving."
+  - "Contributes about 35% of the daily value for folate per serving."
 image: "https://images.unsplash.com/photo-1743517894265-c86ab035adef?auto=format&fit=crop&w=1200&q=80"
 description: >-
   Crispy savory crepes made from soaked red lentils and spices, served with

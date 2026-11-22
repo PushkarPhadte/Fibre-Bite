@@ -1,6 +1,10 @@
 ---
 title: Bajra Vegetable Khichdi
 slug: bajra-vegetable-khichdi
+benefits:
+  - "Provides about 10.5 g protein per serving."
+  - "Provides about 8.9 g dietary fiber per serving."
+  - "Contributes about 20% of the daily value for iron per serving."
 description: Whole pearl millet and yellow moong dal cooked with vegetables in one pot.
 baseServings: 3
 ingredients:

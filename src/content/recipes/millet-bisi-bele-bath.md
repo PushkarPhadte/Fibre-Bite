@@ -1,6 +1,10 @@
 ---
 title: Millet Bisi Bele Bath
 slug: millet-bisi-bele-bath
+benefits:
+  - "Provides about 8.3 g protein per serving."
+  - "Provides about 7 g dietary fiber per serving."
+  - "Contributes about 12% of the daily value for iron per serving."
 description: >-
   A Karnataka one-pot of brown rice, toor dal and vegetables in a spiced
   tamarind base.
@@ -70,6 +74,7 @@ dietaryTags:
   - vegan
   - gluten-free
 allergens: []
+image: 'https://imgs.search.brave.com/flD2pcV8rYQTw-a5cUmDjU-AmaHDb0OSMliki7kwDHU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9teWZv/b2RzdG9yeS5jb20v/d3AtY29udGVudC91/cGxvYWRzLzIwMjMv/MTIvTWlsbGV0LUJp/c2ktQmVsZS1CYXRo/LTkuanBn'
 nutrition:
   calories: 229
   protein: 8.3

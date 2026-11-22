@@ -1,6 +1,10 @@
 ---
 title: Baked Jowar and Lentil Handvo (Savory Millet Cake)
 slug: jowar-lentil-vegetable-handvo
+benefits:
+  - "Provides about 10 g protein per serving."
+  - "Provides about 6 g dietary fiber per serving."
+  - "Contributes about 31% of the daily value for folate per serving."
 description: >-
   High-fiber Gujarati oven-baked savory cake combining sorghum flour, soaked
   lentils, grated bottle gourd, and carrots beneath a toasted sesame crust.
@@ -78,6 +82,7 @@ dietaryTags:
 allergens:
   - milk
   - sesame
+image: 'https://imgs.search.brave.com/Vbzhs4rTxyQriVwZc8jSqXHlXBPlsrvKntnTa0K_fBA/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tYW5q/dWxhc2tpdGNoZW4u/Y29tL3dwLWNvbnRl/bnQvdXBsb2Fkcy9o/YW5kdm9fYmFrZWRf/c3BpY3lfbGVudGls/X2Nha2UtMTAyNHg1/NzYuanBn'
 nutrition:
   calories: 247
   protein: 10

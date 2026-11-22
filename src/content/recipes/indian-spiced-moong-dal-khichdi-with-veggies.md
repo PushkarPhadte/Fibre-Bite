@@ -1,6 +1,10 @@
 ---
 title: Indian Spiced Moong Dal Khichdi with Veggies
 slug: indian-spiced-moong-dal-khichdi-with-veggies
+benefits:
+  - "Provides about 8 g protein per serving."
+  - "Provides about 5 g dietary fiber per serving."
+  - "Contributes about 13% of the daily value for iron per serving."
 image: "https://upload.wikimedia.org/wikipedia/commons/9/9c/MoongDal_Khichdi.jpg"
 imageAttribution:
   title: "MoongDal Khichdi"

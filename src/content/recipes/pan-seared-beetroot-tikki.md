@@ -1,6 +1,10 @@
 ---
 title: Pan-Seared Beetroot Tikki
 slug: pan-seared-beetroot-tikki
+benefits:
+  - "Provides about 7 g protein per serving."
+  - "Provides about 6 g dietary fiber per serving."
+  - "Contributes about 14% of the daily value for iron per serving."
 description: Spiced beetroot and chickpea flour patties pan-seared with a little oil.
 baseServings: 3
 ingredients:

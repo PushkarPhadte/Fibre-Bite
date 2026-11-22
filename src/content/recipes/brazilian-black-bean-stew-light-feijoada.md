@@ -1,6 +1,10 @@
 ---
 title: Brazilian Black Bean Stew (Light Feijoada)
 slug: brazilian-black-bean-stew-light-feijoada
+benefits:
+  - "Provides about 10 g protein per serving."
+  - "Provides about 10 g dietary fiber per serving."
+  - "Contributes about 28% of the daily value for folate per serving."
 description: >-
   A lighter vegetarian adaptation of Brazil’s national stew made with black
   beans, smoked paprika, sweet potatoes, and orange zest.

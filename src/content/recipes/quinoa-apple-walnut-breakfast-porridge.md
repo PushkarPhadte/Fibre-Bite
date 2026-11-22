@@ -1,6 +1,10 @@
 ---
 title: Quinoa Apple Walnut Breakfast Porridge
 slug: quinoa-apple-walnut-breakfast-porridge
+benefits:
+  - "Provides about 12.7 g protein per serving."
+  - "Provides about 6 g dietary fiber per serving."
+  - "Contributes about 13% of the daily value for iron per serving."
 description: 'Creamy quinoa simmered in milk with grated apple, cinnamon and walnuts.'
 baseServings: 2
 ingredients:

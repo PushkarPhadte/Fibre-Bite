@@ -1,6 +1,10 @@
 ---
 title: Five-Minute Chickpea Chaat Cup
 slug: five-minute-chickpea-chaat-cup
+benefits:
+  - "Provides about 14.6 g protein per serving."
+  - "Provides about 12.9 g dietary fiber per serving."
+  - "Contributes about 29% of the daily value for iron per serving."
 description: >-
   Cooked chickpeas tossed with onion, tomato, cucumber and lemon for an instant
   protein snack.
